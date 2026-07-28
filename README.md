@@ -2,7 +2,9 @@
 
 A one-page site showing:
 
-- Today's top headlines
+- Today's top headlines, grouped by source (Google News, BBC, NPR, AP News,
+  Reuters), each collapsible independently — so one source with a big feed
+  (looking at you, Reuters) doesn't crowd out the others
 - Yesterday's sports results
 - Today's scheduled games and local start times
 - Tomorrow's scheduled games (collapsed by default, to keep the page from

@@ -105,33 +105,48 @@ function dedupeByTitle(items) {
   return out;
 }
 
+const HEADLINES_PER_SOURCE = 8;
+
 async function loadHeadlines() {
-  const list = document.getElementById('headlines-list');
+  const container = document.getElementById('headlines-list');
   const sub = document.getElementById('headlines-sub');
   const results = await Promise.allSettled(RSS_FEEDS.map(fetchFeedItems));
 
-  let items = [];
-  results.forEach((r) => { if (r.status === 'fulfilled') items = items.concat(r.value); });
+  const bySource = RSS_FEEDS.map((feed, i) => {
+    const r = results[i];
+    if (r.status !== 'fulfilled') return { feed, items: null };
+    const items = dedupeByTitle(r.value)
+      .sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate))
+      .slice(0, HEADLINES_PER_SOURCE);
+    return { feed, items };
+  });
 
-  if (items.length === 0) {
-    list.innerHTML = '<li class="error">Couldn\'t load headlines right now. Try refreshing the page.</li>';
+  if (bySource.every((s) => s.items === null)) {
+    container.innerHTML = '<p class="error">Couldn\'t load headlines right now. Try refreshing the page.</p>';
     sub.textContent = '';
     return;
   }
 
-  items.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
-
-  const deduped = dedupeByTitle(items).slice(0, 15);
-
   sub.textContent = longDate(today);
 
-  list.innerHTML = '';
-  deduped.forEach((it) => {
-    const li = document.createElement('li');
-    li.innerHTML = `<a href="${it.link}" target="_blank" rel="noopener noreferrer">${it.title}</a>` +
-      `<span class="headline-source">${it.source}</span>`;
-    list.appendChild(li);
-  });
+  container.innerHTML = '';
+  for (const { feed, items } of bySource) {
+    const sourceEl = document.createElement('details');
+    sourceEl.className = 'source-group';
+    let bodyHtml;
+    if (items === null) {
+      bodyHtml = '<p class="empty">Couldn\'t load.</p>';
+    } else if (items.length === 0) {
+      bodyHtml = '<p class="empty">No headlines found.</p>';
+    } else {
+      sourceEl.open = true;
+      bodyHtml = '<ul class="headline-list">' + items.map((it) =>
+        `<li><a href="${it.link}" target="_blank" rel="noopener noreferrer">${it.title}</a></li>`
+      ).join('') + '</ul>';
+    }
+    sourceEl.innerHTML = `<summary><h3>${feed.name}</h3></summary><div class="source-group-body">${bodyHtml}</div>`;
+    container.appendChild(sourceEl);
+  }
 }
 
 // ---------- Sports ----------
