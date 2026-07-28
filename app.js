@@ -19,16 +19,24 @@ const RSS_FEEDS = [
 ];
 
 // Grouped by sport so the site stays organized even on days when only one
-// sport has games (e.g. baseball-only stretches of the calendar).
+// sport has games (e.g. baseball-only stretches of the calendar). Covers the
+// leagues with the heaviest US betting volume; a category with no games that
+// day auto-collapses (see renderLeagueGroups) rather than disappearing.
 const LEAGUES = [
   { id: 'nfl', name: 'NFL', path: 'football/nfl', group: 'Football' },
   { id: 'ncaaf', name: 'College Football', path: 'football/college-football', group: 'Football' },
   { id: 'nba', name: 'NBA', path: 'basketball/nba', group: 'Basketball' },
+  { id: 'wnba', name: 'WNBA', path: 'basketball/wnba', group: 'Basketball' },
   { id: 'ncaab', name: 'College Basketball', path: 'basketball/mens-college-basketball', group: 'Basketball' },
   { id: 'mlb', name: 'MLB', path: 'baseball/mlb', group: 'Baseball' },
   { id: 'nhl', name: 'NHL', path: 'hockey/nhl', group: 'Hockey' },
   { id: 'epl', name: 'Premier League', path: 'soccer/eng.1', group: 'Soccer' },
   { id: 'ucl', name: 'Champions League', path: 'soccer/uefa.champions', group: 'Soccer' },
+  { id: 'uel', name: 'Europa League', path: 'soccer/uefa.europa', group: 'Soccer' },
+  { id: 'laliga', name: 'La Liga', path: 'soccer/esp.1', group: 'Soccer' },
+  { id: 'seriea', name: 'Serie A', path: 'soccer/ita.1', group: 'Soccer' },
+  { id: 'bundesliga', name: 'Bundesliga', path: 'soccer/ger.1', group: 'Soccer' },
+  { id: 'ligue1', name: 'Ligue 1', path: 'soccer/fra.1', group: 'Soccer' },
   { id: 'mls', name: 'MLS', path: 'soccer/usa.1', group: 'Soccer' },
 ];
 
@@ -167,9 +175,11 @@ function renderLeagueGroups(container, leagueResults, renderGame, emptyLabel) {
   const byGroup = groupBy(leagueResults, (r) => r.league.group);
   container.innerHTML = '';
   for (const [groupName, leagues] of byGroup) {
-    const groupEl = document.createElement('div');
+    const hasGames = leagues.some((r) => r.events && r.events.length > 0);
+    const groupEl = document.createElement('details');
     groupEl.className = 'league-group';
-    let groupHtml = `<h3>${groupName}</h3><ul class="game-list">`;
+    if (hasGames) groupEl.open = true;
+    let groupHtml = `<summary><h3>${groupName}</h3></summary><div class="league-group-body"><ul class="game-list">`;
     for (const { league, events } of leagues) {
       if (events === null) {
         groupHtml += `<li class="game-row muted-row"><span class="team-name">${league.name}</span><span class="game-status">Couldn't load</span></li>`;
@@ -179,7 +189,7 @@ function renderLeagueGroups(container, leagueResults, renderGame, emptyLabel) {
         groupHtml += events.map((ev) => renderGame(ev, league)).join('');
       }
     }
-    groupHtml += `</ul>`;
+    groupHtml += `</ul></div>`;
     groupEl.innerHTML = groupHtml;
     container.appendChild(groupEl);
   }

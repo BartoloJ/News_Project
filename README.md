@@ -6,11 +6,13 @@ A one-page site showing:
 - Yesterday's sports results
 - Today's scheduled games and local start times
 
-Sports are grouped by category (Football, Basketball, Baseball, Hockey,
-Soccer) covering NFL, NBA, MLB, NHL, NCAA football, NCAA men's basketball,
-the Premier League, Champions League, and MLS — every category is always
-shown, even on days when only one sport has games. Each of the three main
-sections can be collapsed/expanded by clicking its header.
+Sports are grouped by category — Football, Basketball, Baseball, Hockey,
+Soccer — covering NFL, NCAA football, NBA, WNBA, NCAA men's basketball, MLB,
+NHL, and the Premier League, Champions League, Europa League, La Liga,
+Serie A, Bundesliga, Ligue 1, and MLS. Every category is always shown, but
+one with no games that day auto-collapses to a single-line header instead
+of taking up space; categories with games stay expanded. Each of the three
+main sections can also be collapsed/expanded by clicking its header.
 
 ## How it works
 
