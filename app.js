@@ -14,15 +14,19 @@ const RSS_FEEDS = [
   { name: 'Google News', url: 'https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en' },
   { name: 'BBC News', url: 'http://feeds.bbci.co.uk/news/world/rss.xml' },
   { name: 'NPR', url: 'https://feeds.npr.org/1001/rss.xml' },
+  { name: 'AP News', url: 'https://news.google.com/rss/search?q=site:apnews.com+when:2d&hl=en-US&gl=US&ceid=US:en' },
+  { name: 'Reuters', url: 'https://news.google.com/rss/search?q=site:reuters.com+when:2d&hl=en-US&gl=US&ceid=US:en' },
 ];
 
+// Grouped by sport so the site stays organized even on days when only one
+// sport has games (e.g. baseball-only stretches of the calendar).
 const LEAGUES = [
-  { id: 'nfl', name: 'NFL', path: 'football/nfl', group: 'Major U.S. Pro' },
-  { id: 'nba', name: 'NBA', path: 'basketball/nba', group: 'Major U.S. Pro' },
-  { id: 'mlb', name: 'MLB', path: 'baseball/mlb', group: 'Major U.S. Pro' },
-  { id: 'nhl', name: 'NHL', path: 'hockey/nhl', group: 'Major U.S. Pro' },
-  { id: 'ncaaf', name: 'College Football', path: 'football/college-football', group: 'College' },
-  { id: 'ncaab', name: 'College Basketball', path: 'basketball/mens-college-basketball', group: 'College' },
+  { id: 'nfl', name: 'NFL', path: 'football/nfl', group: 'Football' },
+  { id: 'ncaaf', name: 'College Football', path: 'football/college-football', group: 'Football' },
+  { id: 'nba', name: 'NBA', path: 'basketball/nba', group: 'Basketball' },
+  { id: 'ncaab', name: 'College Basketball', path: 'basketball/mens-college-basketball', group: 'Basketball' },
+  { id: 'mlb', name: 'MLB', path: 'baseball/mlb', group: 'Baseball' },
+  { id: 'nhl', name: 'NHL', path: 'hockey/nhl', group: 'Hockey' },
   { id: 'epl', name: 'Premier League', path: 'soccer/eng.1', group: 'Soccer' },
   { id: 'ucl', name: 'Champions League', path: 'soccer/uefa.champions', group: 'Soccer' },
   { id: 'mls', name: 'MLS', path: 'soccer/usa.1', group: 'Soccer' },
@@ -154,29 +158,28 @@ function groupBy(list, keyFn) {
   return map;
 }
 
-function renderLeagueGroups(container, leagueResults, renderGame) {
-  const withGames = leagueResults.filter((r) => r.events && r.events.length > 0);
-
+function renderLeagueGroups(container, leagueResults, renderGame, emptyLabel) {
   if (leagueResults.every((r) => r.events === null)) {
     container.innerHTML = '<p class="error">Couldn\'t load sports data right now. Try refreshing the page.</p>';
     return;
   }
-  if (withGames.length === 0) {
-    container.innerHTML = '<p class="empty">No games found.</p>';
-    return;
-  }
 
-  const byGroup = groupBy(withGames, (r) => r.league.group);
+  const byGroup = groupBy(leagueResults, (r) => r.league.group);
   container.innerHTML = '';
   for (const [groupName, leagues] of byGroup) {
     const groupEl = document.createElement('div');
     groupEl.className = 'league-group';
-    let groupHtml = `<h3>${groupName}</h3>`;
+    let groupHtml = `<h3>${groupName}</h3><ul class="game-list">`;
     for (const { league, events } of leagues) {
-      groupHtml += `<div class="league-block"><ul class="game-list">`;
-      groupHtml += events.map((ev) => renderGame(ev, league)).join('');
-      groupHtml += `</ul></div>`;
+      if (events === null) {
+        groupHtml += `<li class="game-row muted-row"><span class="team-name">${league.name}</span><span class="game-status">Couldn't load</span></li>`;
+      } else if (events.length === 0) {
+        groupHtml += `<li class="game-row muted-row"><span class="team-name">${league.name}</span><span class="game-status">${emptyLabel}</span></li>`;
+      } else {
+        groupHtml += events.map((ev) => renderGame(ev, league)).join('');
+      }
     }
+    groupHtml += `</ul>`;
     groupEl.innerHTML = groupHtml;
     container.appendChild(groupEl);
   }
@@ -223,7 +226,7 @@ async function loadYesterdayScores() {
     const completed = events ? events.filter((e) => e.completed) : null;
     return { league, events: completed };
   }));
-  renderLeagueGroups(container, results, renderYesterdayGame);
+  renderLeagueGroups(container, results, renderYesterdayGame, 'No games');
 }
 
 async function loadTodayGames() {
@@ -233,7 +236,7 @@ async function loadTodayGames() {
     const events = await fetchScoreboard(league, today);
     return { league, events };
   }));
-  renderLeagueGroups(container, results, renderTodayGame);
+  renderLeagueGroups(container, results, renderTodayGame, 'No games scheduled');
 }
 
 // ---------- Init ----------

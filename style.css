@@ -69,12 +69,47 @@ main {
   background: var(--panel-bg);
   border: 1px solid var(--border);
   border-radius: 14px;
-  padding: 1.25rem 1.5rem 1.5rem;
+  overflow: hidden;
 }
 
-.panel h2 {
-  margin: 0 0 0.15rem;
+.panel > summary {
+  list-style: none;
+  cursor: pointer;
+  padding: 1.25rem 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  user-select: none;
+}
+
+.panel > summary::-webkit-details-marker {
+  display: none;
+}
+
+.panel > summary::after {
+  content: '▾';
+  color: var(--muted);
+  font-size: 0.9rem;
+  transition: transform 0.15s ease;
+  flex-shrink: 0;
+}
+
+.panel:not([open]) > summary::after {
+  transform: rotate(-90deg);
+}
+
+.panel > summary:hover {
+  background: color-mix(in srgb, var(--accent) 6%, transparent);
+}
+
+.panel > summary h2 {
+  margin: 0;
   font-size: 1.25rem;
+}
+
+.panel-body {
+  padding: 0 1.5rem 1.5rem;
 }
 
 .section-sub {
@@ -156,6 +191,15 @@ main {
   border: 1px solid var(--border);
   border-radius: 10px;
   font-size: 0.95rem;
+}
+
+.game-row.muted-row {
+  border-style: dashed;
+}
+
+.game-row.muted-row .team-name {
+  color: var(--muted);
+  font-weight: 400;
 }
 
 .game-teams {

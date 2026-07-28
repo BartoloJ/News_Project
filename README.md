@@ -6,8 +6,11 @@ A one-page site showing:
 - Yesterday's sports results
 - Today's scheduled games and local start times
 
-Covers NFL, NBA, MLB, NHL, NCAA football, NCAA men's basketball, the Premier
-League, Champions League, and MLS.
+Sports are grouped by category (Football, Basketball, Baseball, Hockey,
+Soccer) covering NFL, NBA, MLB, NHL, NCAA football, NCAA men's basketball,
+the Premier League, Champions League, and MLS — every category is always
+shown, even on days when only one sport has games. Each of the three main
+sections can be collapsed/expanded by clicking its header.
 
 ## How it works
 
@@ -15,11 +18,14 @@ This is a static site (`index.html` / `style.css` / `app.js`) with no build
 step and no API keys. All data is fetched client-side, in the visitor's
 browser, each time the page loads:
 
-- **Headlines** come from public RSS feeds (Google News, BBC, NPR), fetched
-  through a CORS proxy (`api.allorigins.win`, falling back to
-  `corsproxy.io`) since browsers block direct cross-origin RSS reads.
+- **Headlines** come from public RSS feeds (Google News, BBC, NPR, and
+  AP News/Reuters via Google News site-search), fetched through a CORS
+  proxy — trying a direct fetch first, then falling back through
+  `api.allorigins.win`, `corsproxy.io`, and `api.codetabs.com` (whichever
+  responds first) — since browsers block direct cross-origin RSS reads.
 - **Scores and schedules** come from ESPN's public (unofficial, unauthenticated)
-  scoreboard API.
+  scoreboard API, fetched directly since it already allows cross-origin
+  requests.
 
 Because everything runs in the browser, there's no server to keep running
 and no secrets to manage — but it does depend on those third-party services
@@ -40,5 +46,5 @@ then open `http://localhost:8000`.
 ## Deploying
 
 A GitHub Actions workflow (`.github/workflows/deploy.yml`) publishes the site
-to GitHub Pages on every push to `main`. To enable it: in the repo's
-**Settings → Pages**, set **Source** to "GitHub Actions".
+to GitHub Pages on every push to this repo's default branch. To enable it:
+in the repo's **Settings → Pages**, set **Source** to "GitHub Actions".

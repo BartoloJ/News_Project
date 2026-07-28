@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Daily Wrap — Headlines &amp; Scores</title>
-<link rel="stylesheet" href="style.css?v=2">
+<link rel="stylesheet" href="style.css?v=3">
 </head>
 <body>
 <header class="site-header">
@@ -14,29 +14,35 @@
 </header>
 
 <main>
-  <section id="headlines" class="panel">
-    <h2>Today's Headlines</h2>
-    <p class="section-sub" id="headlines-sub"></p>
-    <ul class="headline-list" id="headlines-list"><li class="loading">Loading headlines…</li></ul>
-  </section>
+  <details id="headlines" class="panel" open>
+    <summary><h2>Today's Headlines</h2></summary>
+    <div class="panel-body">
+      <p class="section-sub" id="headlines-sub"></p>
+      <ul class="headline-list" id="headlines-list"><li class="loading">Loading headlines…</li></ul>
+    </div>
+  </details>
 
-  <section id="yesterday-scores" class="panel">
-    <h2>Yesterday's Scores</h2>
-    <p class="section-sub" id="yesterday-date"></p>
-    <div id="yesterday-scores-list" class="league-groups"><p class="loading">Loading scores…</p></div>
-  </section>
+  <details id="yesterday-scores" class="panel" open>
+    <summary><h2>Yesterday's Scores</h2></summary>
+    <div class="panel-body">
+      <p class="section-sub" id="yesterday-date"></p>
+      <div id="yesterday-scores-list" class="league-groups"><p class="loading">Loading scores…</p></div>
+    </div>
+  </details>
 
-  <section id="today-games" class="panel">
-    <h2>Today's Games</h2>
-    <p class="section-sub" id="today-date"></p>
-    <div id="today-games-list" class="league-groups"><p class="loading">Loading schedule…</p></div>
-  </section>
+  <details id="today-games" class="panel" open>
+    <summary><h2>Today's Games</h2></summary>
+    <div class="panel-body">
+      <p class="section-sub" id="today-date"></p>
+      <div id="today-games-list" class="league-groups"><p class="loading">Loading schedule…</p></div>
+    </div>
+  </details>
 </main>
 
 <footer>
-  <p>Headlines via Google News, BBC, and NPR RSS. Scores &amp; schedules via ESPN's public scoreboard API. Game times shown in your device's local timezone.</p>
+  <p>Headlines via Google News, BBC, AP News, Reuters, and NPR RSS. Scores &amp; schedules via ESPN's public scoreboard API. Game times shown in your device's local timezone.</p>
 </footer>
 
-<script src="app.js?v=2"></script>
+<script src="app.js?v=3"></script>
 </body>
 </html>
