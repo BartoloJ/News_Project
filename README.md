@@ -36,17 +36,17 @@ This is a static site (`index.html` / `style.css` / `app.js`) with no build
 step and no API keys. All data is fetched client-side, in the visitor's
 browser, each time the page loads:
 
-- **Headlines** come from public RSS feeds. BBC and NPR have their own
-  stable, direct feeds. AP News and Reuters retired their public RSS years
-  ago, so both are sourced via a Google News site-search instead. WSJ is
-  sourced the same way on purpose even though it has its own direct feed:
-  article links reached via a Google News search go through Google's
-  redirect, and paywalled sites commonly grant access to traffic referred
-  that way even when the direct URL is blocked. General "Google News" itself
-  (as its own source — plain feed, keyword search, and topic feed were all
-  tried) was dropped after repeated reliability failures through the proxy
-  chain; the site-search pattern used for AP/Reuters/WSJ has held up better,
-  but if one of them starts failing, that shared mechanism is why.
+- **Headlines** come from public RSS feeds. NPR has its own stable, direct
+  feed. AP News and Reuters retired their public RSS years ago, so both are
+  sourced via a Google News site-search instead. BBC and WSJ are sourced the
+  same way on purpose even though both have their own direct feeds: article
+  links reached via a Google News search go through Google's redirect, and
+  paywalled/gated sites commonly grant access to traffic referred that way
+  even when the direct URL is blocked. General "Google News" itself (as its
+  own source — plain feed, keyword search, and topic feed were all tried)
+  was dropped after repeated reliability failures through the proxy chain;
+  the site-search pattern used for the rest has held up better, but if one
+  starts failing, that shared mechanism is why.
   Fetched through a CORS proxy — trying a direct fetch first, then falling
   back through `api.allorigins.win`, `corsproxy.io`, and `api.codetabs.com`
   (whichever responds first) — since browsers block direct cross-origin RSS

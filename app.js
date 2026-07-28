@@ -11,18 +11,18 @@ const CORS_PROXIES = [
 ];
 
 // AP and Reuters retired their own public RSS years ago, so both are sourced
-// via a Google News site-search instead of a direct feed. That's also
-// deliberate for WSJ, which does have its own direct feed: article links
-// that come from a Google News search go through Google's redirect, and
-// paywalled sites commonly grant access to traffic referred that way even
-// when the direct URL is blocked. General "Google News" itself (plain feed,
-// keyword search, and topic feed) was still dropped after repeated
-// reliability failures through the proxy chain — this is scoped to specific
-// site-searches, not the general aggregator.
+// via a Google News site-search instead of a direct feed. BBC and WSJ are
+// routed the same way on purpose even though both have their own direct
+// feeds: article links that come from a Google News search go through
+// Google's redirect, and paywalled/gated sites commonly grant access to
+// traffic referred that way even when the direct URL is blocked. General
+// "Google News" itself (plain feed, keyword search, and topic feed) was
+// still dropped after repeated reliability failures through the proxy
+// chain — this is scoped to specific site-searches, not the aggregator.
 const RSS_FEEDS = [
-  { name: 'BBC News', url: 'http://feeds.bbci.co.uk/news/world/rss.xml' },
+  { name: 'BBC News', url: 'https://news.google.com/rss/search?q=site:bbc.com+when:2d&hl=en-US&gl=US&ceid=US:en' },
   { name: 'NPR', url: 'https://feeds.npr.org/1001/rss.xml' },
-  { name: 'AP News', url: 'https://news.google.com/rss/search?q=site:apnews.com+when:2d&hl=en-US&gl=US&ceid=US:en' },
+  { name: 'AP News', url: 'https://news.google.com/rss/search?q=site:apnews.com+when:7d&hl=en-US&gl=US&ceid=US:en' },
   { name: 'Reuters', url: 'https://news.google.com/rss/search?q=site:reuters.com+when:2d&hl=en-US&gl=US&ceid=US:en' },
   { name: 'WSJ', url: 'https://news.google.com/rss/search?q=site:wsj.com+when:2d&hl=en-US&gl=US&ceid=US:en' },
 ];
