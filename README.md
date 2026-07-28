@@ -2,9 +2,9 @@
 
 A one-page site showing:
 
-- Today's top headlines, grouped by source (BBC, NPR, AP News, Reuters,
-  WSJ), each collapsible independently — so one source with a big feed
-  (looking at you, Reuters) doesn't crowd out the others
+- Today's top headlines, grouped by source (BBC, NPR, WSJ), each
+  collapsible independently — so one source with a big feed doesn't crowd
+  out the others
 - Yesterday's sports results
 - Today's scheduled games and local start times
 - Tomorrow's scheduled games (collapsed by default, to keep the page from
@@ -13,8 +13,8 @@ A one-page site showing:
 Sports are grouped by category — Football, Basketball, Baseball, Hockey,
 Soccer, Combat Sports — covering NFL, NCAA football, NBA, WNBA, NCAA men's
 basketball, MLB, NHL, the Premier League, Champions League, Europa League,
-La Liga, Serie A, Bundesliga, Ligue 1, MLS, UFC, and boxing. Every category
-is always shown, but one with no games/fights that day auto-collapses to a
+La Liga, Serie A, Bundesliga, Ligue 1, MLS, and UFC. Every category is
+always shown, but one with no games/fights that day auto-collapses to a
 single-line header instead of taking up space; categories with action stay
 expanded. Each of the four main sections can also be collapsed/expanded by
 clicking its header.
@@ -36,23 +36,37 @@ This is a static site (`index.html` / `style.css` / `app.js`) with no build
 step and no API keys. All data is fetched client-side, in the visitor's
 browser, each time the page loads:
 
-- **Headlines** come from public RSS feeds. NPR has its own stable, direct
-  feed. AP News and Reuters retired their public RSS years ago, so both are
-  sourced via a Google News site-search instead. BBC and WSJ are sourced the
-  same way on purpose even though both have their own direct feeds: article
-  links reached via a Google News search go through Google's redirect, and
-  paywalled/gated sites commonly grant access to traffic referred that way
-  even when the direct URL is blocked. General "Google News" itself (as its
-  own source — plain feed, keyword search, and topic feed were all tried)
-  was dropped after repeated reliability failures through the proxy chain;
-  the site-search pattern used for the rest has held up better, but if one
-  starts failing, that shared mechanism is why.
-  Fetched through a CORS proxy — trying a direct fetch first, then falling
-  back through `api.allorigins.win`, `corsproxy.io`, and `api.codetabs.com`
-  (whichever responds first) — since browsers block direct cross-origin RSS
-  reads. A feed that fails, or returns zero parsed items, logs a warning to
-  the browser console for debugging and collapses to a one-line header
-  instead of breaking the page.
+- **Headlines** come from BBC, NPR, and WSJ's own direct RSS feeds. Fetched
+  through a CORS proxy — trying a direct fetch first, then falling back
+  through `api.allorigins.win` and `api.codetabs.com` (whichever responds
+  first) — since browsers block direct cross-origin RSS reads. A feed that
+  fails, or returns zero parsed items, logs a warning to the browser console
+  for debugging and collapses to a one-line header instead of breaking the
+  page.
+
+  **AP News and Reuters are not included.** Both retired their public RSS
+  feeds years ago, and were tried here as a Google News site-search instead
+  (`news.google.com/rss/search?q=site:apnews.com...`) — including routing
+  BBC and WSJ through the same mechanism, since a Google News search link
+  redirects through Google, and paywalled/gated sites often grant access to
+  that referred traffic even when the direct URL is blocked. In practice,
+  every variant of this (plain aggregator feed, keyword search, topic feed,
+  per-site search) was unreliable through free CORS proxies. Browser console
+  evidence (2026-07-28) narrowed it down: `corsproxy.io` was rejecting
+  everything with 403s, and separately, every request to `news.google.com`
+  failed through the *other* proxies too, while non-Google domains (ESPN,
+  NPR) worked fine through those same proxies — consistent with Google
+  itself blocking/rate-limiting proxy traffic specifically to
+  news.google.com, not a bad query. `corsproxy.io` was removed from the
+  proxy list as dead weight. Getting AP News, Reuters, or the Google
+  paywall-redirect trick back reliably would need a paid news API (e.g.
+  NewsData.io, NewsAPI.org) instead of free anonymous proxies — a real
+  architecture change from this site's current no-keys design, not
+  something fixable with another query tweak.
+- Boxing was tried under Combat Sports alongside UFC but removed: ESPN's
+  API returns a genuine 400 for the `boxing/boxing` path (confirmed via
+  browser console — not a proxy problem), and the correct path isn't
+  verified.
 - **Scores and schedules** come from ESPN's public (unofficial, unauthenticated)
   scoreboard API, fetched directly since it already allows cross-origin
   requests.

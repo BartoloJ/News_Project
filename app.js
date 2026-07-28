@@ -6,25 +6,25 @@
 const CORS_PROXIES = [
   (url) => url, // try direct first — some APIs (e.g. ESPN's) already allow cross-origin fetches
   (url) => `https://api.allorigins.win/raw?url=${encodeURIComponent(url)}`,
-  (url) => `https://corsproxy.io/?url=${encodeURIComponent(url)}`,
   (url) => `https://api.codetabs.com/v1/proxy?quest=${encodeURIComponent(url)}`,
+  // corsproxy.io removed: confirmed (browser console, 2026-07-28) returning
+  // 403 across the board — no longer usable for free/anonymous requests.
 ];
 
-// AP and Reuters retired their own public RSS years ago, so both are sourced
-// via a Google News site-search instead of a direct feed. BBC and WSJ are
-// routed the same way on purpose even though both have their own direct
-// feeds: article links that come from a Google News search go through
-// Google's redirect, and paywalled/gated sites commonly grant access to
-// traffic referred that way even when the direct URL is blocked. General
-// "Google News" itself (plain feed, keyword search, and topic feed) was
-// still dropped after repeated reliability failures through the proxy
-// chain — this is scoped to specific site-searches, not the aggregator.
+// Every news.google.com-based headline source (AP News, Reuters, and BBC/WSJ
+// when routed through a Google News search for the paywall-redirect trick)
+// was unreliable — not because of the specific query, but because Google
+// appears to block/rate-limit requests to news.google.com coming from these
+// free CORS proxies. ESPN and NPR's own domains aren't affected the same
+// way, which is how this got isolated. BBC and WSJ are back on their own
+// direct feeds (reliable, no Google dependency). AP News and Reuters don't
+// have a working direct public RSS feed anymore (both retired theirs years
+// ago) and can't be included reliably without a paid news API — see the
+// README for that tradeoff.
 const RSS_FEEDS = [
-  { name: 'BBC News', url: 'https://news.google.com/rss/search?q=site:bbc.com+when:2d&hl=en-US&gl=US&ceid=US:en' },
+  { name: 'BBC News', url: 'http://feeds.bbci.co.uk/news/world/rss.xml' },
   { name: 'NPR', url: 'https://feeds.npr.org/1001/rss.xml' },
-  { name: 'AP News', url: 'https://news.google.com/rss/search?q=site:apnews.com+when:7d&hl=en-US&gl=US&ceid=US:en' },
-  { name: 'Reuters', url: 'https://news.google.com/rss/search?q=site:reuters.com+when:2d&hl=en-US&gl=US&ceid=US:en' },
-  { name: 'WSJ', url: 'https://news.google.com/rss/search?q=site:wsj.com+when:2d&hl=en-US&gl=US&ceid=US:en' },
+  { name: 'WSJ', url: 'https://feeds.a.dj.com/rss/RSSWorldNews.xml' },
 ];
 
 // Grouped by sport so the site stays organized even on days when only one
@@ -51,7 +51,10 @@ const LEAGUES = [
   { id: 'ligue1', name: 'Ligue 1', path: 'soccer/fra.1', group: 'Soccer', siteSport: 'soccer' },
   { id: 'mls', name: 'MLS', path: 'soccer/usa.1', group: 'Soccer', siteSport: 'soccer' },
   { id: 'ufc', name: 'UFC', path: 'mma/ufc', group: 'Combat Sports', siteSport: 'mma' },
-  { id: 'boxing', name: 'Boxing', path: 'boxing/boxing', group: 'Combat Sports', siteSport: 'boxing' },
+  // Boxing removed: 'boxing/boxing' returns a genuine 400 directly from
+  // ESPN (confirmed via browser console, not a proxy issue) — the correct
+  // API path for boxing isn't this one and I don't have a verified
+  // alternative to swap in without live testing.
 ];
 
 const today = new Date();
