@@ -10,17 +10,15 @@ const CORS_PROXIES = [
   (url) => `https://api.codetabs.com/v1/proxy?quest=${encodeURIComponent(url)}`,
 ];
 
+// Google News (in any form: plain feed, keyword search, topic feed) and the
+// Google-News-search-based AP News feed were both dropped after repeated
+// reliability failures through the proxy chain. AP and Reuters retired their
+// own public RSS years ago, which is why AP News existed as a Google News
+// search in the first place — Reuters below uses the identical mechanism, so
+// it's at the same risk of breaking the same way.
 const RSS_FEEDS = [
-  // The plain news.google.com/rss?hl=... aggregator feed was unreliable
-  // through the proxy chain. A bare keyword search (q=news) "fixed" that but
-  // surfaced junk — local TV stations' recurring broadcast titles ("ABC10
-  // News at 4") that happen to contain the literal word "news". Use the
-  // WORLD topic feed instead: curated by category, not keyword-matched, so
-  // it returns actual editorial headlines.
-  { name: 'Google News', url: 'https://news.google.com/rss/headlines/section/topic/WORLD?hl=en-US&gl=US&ceid=US:en' },
   { name: 'BBC News', url: 'http://feeds.bbci.co.uk/news/world/rss.xml' },
   { name: 'NPR', url: 'https://feeds.npr.org/1001/rss.xml' },
-  { name: 'AP News', url: 'https://news.google.com/rss/search?q=site:apnews.com+when:2d&hl=en-US&gl=US&ceid=US:en' },
   { name: 'Reuters', url: 'https://news.google.com/rss/search?q=site:reuters.com+when:2d&hl=en-US&gl=US&ceid=US:en' },
   { name: 'WSJ', url: 'https://feeds.a.dj.com/rss/RSSWorldNews.xml' },
 ];

@@ -2,9 +2,9 @@
 
 A one-page site showing:
 
-- Today's top headlines, grouped by source (Google News, BBC, NPR, AP News,
-  Reuters, WSJ), each collapsible independently — so one source with a big
-  feed (looking at you, Reuters) doesn't crowd out the others
+- Today's top headlines, grouped by source (BBC, NPR, Reuters, WSJ), each
+  collapsible independently — so one source with a big feed (looking at
+  you, Reuters) doesn't crowd out the others
 - Yesterday's sports results
 - Today's scheduled games and local start times
 - Tomorrow's scheduled games (collapsed by default, to keep the page from
@@ -36,11 +36,13 @@ This is a static site (`index.html` / `style.css` / `app.js`) with no build
 step and no API keys. All data is fetched client-side, in the visitor's
 browser, each time the page loads:
 
-- **Headlines** come from public RSS feeds: BBC, NPR, WSJ directly, and
-  Google News/AP News/Reuters via Google News search (Google's plain
-  aggregator feed was unreliable through the proxy chain — likely a
-  region/consent redirect returning HTML instead of XML on some requests —
-  so all three use the more reliable `/rss/search` endpoint instead).
+- **Headlines** come from public RSS feeds: BBC, NPR, and WSJ have their own
+  stable feeds, fetched directly. Reuters retired its public RSS years ago,
+  so it's sourced via a Google News site-search instead — the same
+  workaround AP News used until it (and Google News itself, in several
+  forms) turned out to be unreliable through the proxy chain and got
+  dropped. If Reuters starts failing the same way, that's why: it's the
+  last source still riding on that same fragile mechanism.
   Fetched through a CORS proxy — trying a direct fetch first, then falling
   back through `api.allorigins.win`, `corsproxy.io`, and `api.codetabs.com`
   (whichever responds first) — since browsers block direct cross-origin RSS
