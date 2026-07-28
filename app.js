@@ -34,11 +34,23 @@ function pad(n) { return String(n).padStart(2, '0'); }
 function toYYYYMMDD(d) { return `${d.getFullYear()}${pad(d.getMonth() + 1)}${pad(d.getDate())}`; }
 function longDate(d) { return d.toLocaleDateString(undefined, { weekday: 'long', month: 'long', day: 'numeric', year: 'numeric' }); }
 
+const FETCH_TIMEOUT_MS = 8000;
+
+async function fetchWithTimeout(url) {
+  const controller = new AbortController();
+  const timer = setTimeout(() => controller.abort(), FETCH_TIMEOUT_MS);
+  try {
+    return await fetch(url, { signal: controller.signal });
+  } finally {
+    clearTimeout(timer);
+  }
+}
+
 async function fetchWithFallback(url, { asText = false } = {}) {
   let lastErr;
   for (const makeProxyUrl of CORS_PROXIES) {
     try {
-      const res = await fetch(makeProxyUrl(url));
+      const res = await fetchWithTimeout(makeProxyUrl(url));
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       return asText ? await res.text() : await res.json();
     } catch (err) {
@@ -89,19 +101,9 @@ async function loadHeadlines() {
 
   items.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
 
-  const yStr = yesterday.toDateString();
-  let selected = items.filter((it) => it.pubDate && new Date(it.pubDate).toDateString() === yStr);
-  let usedFallback = false;
-  if (selected.length < 6) {
-    usedFallback = true;
-    selected = items;
-  }
+  const deduped = dedupeByTitle(items).slice(0, 15);
 
-  const deduped = dedupeByTitle(selected).slice(0, 15);
-
-  sub.textContent = usedFallback
-    ? `Most recent top stories (not enough dated to ${longDate(yesterday)} in the source feeds)`
-    : longDate(yesterday);
+  sub.textContent = longDate(today);
 
   list.innerHTML = '';
   deduped.forEach((it) => {

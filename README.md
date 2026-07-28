@@ -2,7 +2,7 @@
 
 A one-page site showing:
 
-- Top headlines from the previous day
+- Today's top headlines
 - Yesterday's sports results
 - Today's scheduled games and local start times
 
