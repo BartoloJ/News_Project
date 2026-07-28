@@ -2,7 +2,7 @@ name: Deploy to GitHub Pages
 
 on:
   push:
-    branches: [main]
+    branches: ["claude/daily-headlines-sports-site-v1q3fq"]
   workflow_dispatch:
 
 permissions:
