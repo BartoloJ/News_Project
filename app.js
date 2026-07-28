@@ -3,10 +3,14 @@
 // CORS proxy since browsers block direct cross-origin RSS reads), and sports
 // data comes from ESPN's public scoreboard API.
 
+// Proxies used only as a fallback (see fetchWithFallback) — not raced
+// alongside the direct attempt, so ESPN's ~30 scoreboard requests per page
+// load (which succeed direct) don't also hammer these with pointless
+// parallel requests and starve the headline fetches that actually need them.
 const CORS_PROXIES = [
-  (url) => url, // try direct first — some APIs (e.g. ESPN's) already allow cross-origin fetches
   (url) => `https://api.allorigins.win/raw?url=${encodeURIComponent(url)}`,
   (url) => `https://api.codetabs.com/v1/proxy?quest=${encodeURIComponent(url)}`,
+  (url) => `https://thingproxy.freeboard.io/fetch/${url}`,
   // corsproxy.io removed: confirmed (browser console, 2026-07-28) returning
   // 403 across the board — no longer usable for free/anonymous requests.
 ];
@@ -22,7 +26,10 @@ const CORS_PROXIES = [
 // ago) and can't be included reliably without a paid news API — see the
 // README for that tradeoff.
 const RSS_FEEDS = [
-  { name: 'BBC News', url: 'http://feeds.bbci.co.uk/news/world/rss.xml' },
+  // Must be https — the page itself loads over https, and browsers block
+  // fetching plain http:// resources from an https:// page outright
+  // ("mixed content"), independent of CORS or any proxy.
+  { name: 'BBC News', url: 'https://feeds.bbci.co.uk/news/world/rss.xml' },
   { name: 'NPR', url: 'https://feeds.npr.org/1001/rss.xml' },
   { name: 'WSJ', url: 'https://feeds.a.dj.com/rss/RSSWorldNews.xml' },
 ];
@@ -82,6 +89,19 @@ async function fetchWithTimeout(url) {
 }
 
 async function fetchWithFallback(url, { asText = false } = {}) {
+  // Try a direct fetch first, alone. Some APIs (ESPN's) already allow
+  // cross-origin requests, and trying this alone — instead of racing it
+  // against the proxies every time — avoids sending pointless proxy
+  // requests for the ~30 scoreboard calls per page load that succeed
+  // direct anyway, which was likely starving the proxies' rate limits for
+  // the headline feeds that actually need them.
+  try {
+    const res = await fetchWithTimeout(url);
+    return asText ? await res.text() : await res.json();
+  } catch {
+    // Expected for most RSS feeds (no CORS headers) — fall through to proxies.
+  }
+
   const attempts = CORS_PROXIES.map((makeProxyUrl) =>
     fetchWithTimeout(makeProxyUrl(url)).then((res) => (asText ? res.text() : res.json()))
   );

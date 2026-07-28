@@ -36,13 +36,18 @@ This is a static site (`index.html` / `style.css` / `app.js`) with no build
 step and no API keys. All data is fetched client-side, in the visitor's
 browser, each time the page loads:
 
-- **Headlines** come from BBC, NPR, and WSJ's own direct RSS feeds. Fetched
-  through a CORS proxy — trying a direct fetch first, then falling back
-  through `api.allorigins.win` and `api.codetabs.com` (whichever responds
-  first) — since browsers block direct cross-origin RSS reads. A feed that
-  fails, or returns zero parsed items, logs a warning to the browser console
-  for debugging and collapses to a one-line header instead of breaking the
-  page.
+- **Headlines** come from BBC, NPR, and WSJ's own direct RSS feeds (all
+  `https://` — a plain `http://` feed on an `https://` page gets blocked by
+  the browser as mixed content, independent of CORS). Each request tries a
+  direct fetch first, and only falls back to racing `api.allorigins.win`,
+  `api.codetabs.com`, and `thingproxy.freeboard.io` if that fails — it
+  doesn't race all of them from the start, since ESPN's ~30 scoreboard
+  requests per page load succeed direct and would otherwise hit the proxies
+  with pointless parallel requests, eating into their rate limits right when
+  the headline feeds (which always need a proxy) need them most. A feed
+  that fails, or returns zero parsed items, logs a warning to the browser
+  console for debugging and collapses to a one-line header instead of
+  breaking the page.
 
   **AP News and Reuters are not included.** Both retired their public RSS
   feeds years ago, and were tried here as a Google News site-search instead
