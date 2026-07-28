@@ -4,12 +4,12 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Daily Wrap — Headlines &amp; Scores</title>
-<link rel="stylesheet" href="style.css?v=4">
+<link rel="stylesheet" href="style.css?v=5">
 </head>
 <body>
 <header class="site-header">
   <h1>Daily Wrap</h1>
-  <p class="tagline">Yesterday's headlines and scores, today's games — all on one page.</p>
+  <p class="tagline">Today's headlines, yesterday's scores, and what's on today and tomorrow — all on one page.</p>
   <p class="updated" id="last-updated"></p>
 </header>
 
@@ -37,12 +37,20 @@
       <div id="today-games-list" class="league-groups"><p class="loading">Loading schedule…</p></div>
     </div>
   </details>
+
+  <details id="tomorrow-games" class="panel">
+    <summary><h2>Tomorrow's Games</h2></summary>
+    <div class="panel-body">
+      <p class="section-sub" id="tomorrow-date"></p>
+      <div id="tomorrow-games-list" class="league-groups"><p class="loading">Loading schedule…</p></div>
+    </div>
+  </details>
 </main>
 
 <footer>
-  <p>Headlines via Google News, BBC, AP News, Reuters, and NPR RSS. Scores &amp; schedules via ESPN's public scoreboard API. Game times shown in your device's local timezone.</p>
+  <p>Headlines via Google News, BBC, AP News, Reuters, and NPR RSS. Scores &amp; schedules via ESPN's public scoreboard API. Team and fighter names link to their ESPN.com page for full stats, roster, and schedule. Game times shown in your device's local timezone.</p>
 </footer>
 
-<script src="app.js?v=4"></script>
+<script src="app.js?v=5"></script>
 </body>
 </html>
