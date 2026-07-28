@@ -39,15 +39,19 @@ browser, each time the page loads:
 - **Headlines** come from BBC, NPR, and WSJ's own direct RSS feeds (all
   `https://` — a plain `http://` feed on an `https://` page gets blocked by
   the browser as mixed content, independent of CORS). Each request tries a
-  direct fetch first, and only falls back to racing `api.allorigins.win`,
-  `api.codetabs.com`, and `thingproxy.freeboard.io` if that fails — it
-  doesn't race all of them from the start, since ESPN's ~30 scoreboard
-  requests per page load succeed direct and would otherwise hit the proxies
-  with pointless parallel requests, eating into their rate limits right when
-  the headline feeds (which always need a proxy) need them most. A feed
-  that fails, or returns zero parsed items, logs a warning to the browser
-  console for debugging and collapses to a one-line header instead of
-  breaking the page.
+  direct fetch first, and only falls back to racing `api.allorigins.win` and
+  `api.codetabs.com` if that fails — it doesn't race all of them from the
+  start, since ESPN's ~30 scoreboard requests per page load succeed direct
+  and would otherwise hit the proxies with pointless parallel requests,
+  eating into their rate limits right when the headline feeds (which always
+  need a proxy) need them most. The three feeds are also fetched one at a
+  time rather than in parallel: with only 2 remaining free proxies, firing
+  all three simultaneously was enough to make some of them time out while
+  others succeeded in the same batch. (`thingproxy.freeboard.io` was tried
+  as a third fallback and removed the same day — its domain no longer
+  resolves at all.) A feed that fails, or returns zero parsed items, logs a
+  warning to the browser console for debugging and collapses to a one-line
+  header instead of breaking the page.
 
   **AP News and Reuters are not included.** Both retired their public RSS
   feeds years ago, and were tried here as a Google News site-search instead

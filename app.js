@@ -10,9 +10,10 @@
 const CORS_PROXIES = [
   (url) => `https://api.allorigins.win/raw?url=${encodeURIComponent(url)}`,
   (url) => `https://api.codetabs.com/v1/proxy?quest=${encodeURIComponent(url)}`,
-  (url) => `https://thingproxy.freeboard.io/fetch/${url}`,
   // corsproxy.io removed: confirmed (browser console, 2026-07-28) returning
   // 403 across the board — no longer usable for free/anonymous requests.
+  // thingproxy.freeboard.io removed: confirmed (browser console, 2026-07-28)
+  // net::ERR_NAME_NOT_RESOLVED — the domain doesn't resolve at all anymore.
 ];
 
 // Every news.google.com-based headline source (AP News, Reuters, and BBC/WSJ
@@ -142,7 +143,16 @@ const HEADLINES_PER_SOURCE = 8;
 async function loadHeadlines() {
   const container = document.getElementById('headlines-list');
   const sub = document.getElementById('headlines-sub');
-  const results = await Promise.allSettled(RSS_FEEDS.map(fetchFeedItems));
+  // Fetched one at a time, not in parallel: the fallback proxies are shared
+  // free services, and firing all feeds at once appears to overload them
+  // enough that some time out while others succeed in the same batch.
+  const results = [];
+  for (const feed of RSS_FEEDS) {
+    results.push(await fetchFeedItems(feed).then(
+      (value) => ({ status: 'fulfilled', value }),
+      (reason) => ({ status: 'rejected', reason })
+    ));
+  }
 
   const bySource = RSS_FEEDS.map((feed, i) => {
     const r = results[i];
