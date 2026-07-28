@@ -6,6 +6,7 @@
 const CORS_PROXIES = [
   (url) => `https://api.allorigins.win/raw?url=${encodeURIComponent(url)}`,
   (url) => `https://corsproxy.io/?url=${encodeURIComponent(url)}`,
+  (url) => `https://api.codetabs.com/v1/proxy?quest=${encodeURIComponent(url)}`,
 ];
 
 const RSS_FEEDS = [
@@ -40,24 +41,23 @@ async function fetchWithTimeout(url) {
   const controller = new AbortController();
   const timer = setTimeout(() => controller.abort(), FETCH_TIMEOUT_MS);
   try {
-    return await fetch(url, { signal: controller.signal });
+    const res = await fetch(url, { signal: controller.signal });
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    return res;
   } finally {
     clearTimeout(timer);
   }
 }
 
 async function fetchWithFallback(url, { asText = false } = {}) {
-  let lastErr;
-  for (const makeProxyUrl of CORS_PROXIES) {
-    try {
-      const res = await fetchWithTimeout(makeProxyUrl(url));
-      if (!res.ok) throw new Error(`HTTP ${res.status}`);
-      return asText ? await res.text() : await res.json();
-    } catch (err) {
-      lastErr = err;
-    }
+  const attempts = CORS_PROXIES.map((makeProxyUrl) =>
+    fetchWithTimeout(makeProxyUrl(url)).then((res) => (asText ? res.text() : res.json()))
+  );
+  try {
+    return await Promise.any(attempts);
+  } catch (aggregateErr) {
+    throw aggregateErr.errors?.[0] || aggregateErr;
   }
-  throw lastErr || new Error('All proxies failed');
 }
 
 // ---------- Headlines ----------
