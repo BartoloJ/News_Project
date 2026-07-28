@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Daily Wrap — Headlines &amp; Scores</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="site-header">
+  <h1>Daily Wrap</h1>
+  <p class="tagline">Yesterday's headlines and scores, today's games — all on one page.</p>
+  <p class="updated" id="last-updated"></p>
+</header>
+
+<main>
+  <section id="headlines" class="panel">
+    <h2>Top Headlines</h2>
+    <p class="section-sub" id="headlines-sub"></p>
+    <ul class="headline-list" id="headlines-list"><li class="loading">Loading headlines…</li></ul>
+  </section>
+
+  <section id="yesterday-scores" class="panel">
+    <h2>Yesterday's Scores</h2>
+    <p class="section-sub" id="yesterday-date"></p>
+    <div id="yesterday-scores-list" class="league-groups"><p class="loading">Loading scores…</p></div>
+  </section>
+
+  <section id="today-games" class="panel">
+    <h2>Today's Games</h2>
+    <p class="section-sub" id="today-date"></p>
+    <div id="today-games-list" class="league-groups"><p class="loading">Loading schedule…</p></div>
+  </section>
+</main>
+
+<footer>
+  <p>Headlines via Google News, BBC, and NPR RSS. Scores &amp; schedules via ESPN's public scoreboard API. Game times shown in your device's local timezone.</p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
