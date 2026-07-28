@@ -11,11 +11,17 @@ const CORS_PROXIES = [
 ];
 
 const RSS_FEEDS = [
-  { name: 'Google News', url: 'https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en' },
+  // The plain news.google.com/rss?hl=... aggregator feed has been unreliable
+  // through the proxy chain (likely a region/consent redirect returning HTML
+  // instead of XML on some requests). The /rss/search variant, already used
+  // for AP/Reuters below, has been consistently reliable, so use that same
+  // pattern with a broad recency filter instead.
+  { name: 'Google News', url: 'https://news.google.com/rss/search?q=news+when:1d&hl=en-US&gl=US&ceid=US:en' },
   { name: 'BBC News', url: 'http://feeds.bbci.co.uk/news/world/rss.xml' },
   { name: 'NPR', url: 'https://feeds.npr.org/1001/rss.xml' },
   { name: 'AP News', url: 'https://news.google.com/rss/search?q=site:apnews.com+when:2d&hl=en-US&gl=US&ceid=US:en' },
   { name: 'Reuters', url: 'https://news.google.com/rss/search?q=site:reuters.com+when:2d&hl=en-US&gl=US&ceid=US:en' },
+  { name: 'WSJ', url: 'https://feeds.a.dj.com/rss/RSSWorldNews.xml' },
 ];
 
 // Grouped by sport so the site stays organized even on days when only one
@@ -114,10 +120,16 @@ async function loadHeadlines() {
 
   const bySource = RSS_FEEDS.map((feed, i) => {
     const r = results[i];
-    if (r.status !== 'fulfilled') return { feed, items: null };
+    if (r.status !== 'fulfilled') {
+      console.warn(`Headline fetch failed for ${feed.name}:`, r.reason);
+      return { feed, items: null };
+    }
     const items = dedupeByTitle(r.value)
       .sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate))
       .slice(0, HEADLINES_PER_SOURCE);
+    if (items.length === 0) {
+      console.warn(`Headline feed for ${feed.name} returned 0 items — the proxy may have returned a non-XML response (e.g. a redirect/consent page) instead of the feed.`);
+    }
     return { feed, items };
   });
 

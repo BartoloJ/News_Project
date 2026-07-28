@@ -3,8 +3,8 @@
 A one-page site showing:
 
 - Today's top headlines, grouped by source (Google News, BBC, NPR, AP News,
-  Reuters), each collapsible independently — so one source with a big feed
-  (looking at you, Reuters) doesn't crowd out the others
+  Reuters, WSJ), each collapsible independently — so one source with a big
+  feed (looking at you, Reuters) doesn't crowd out the others
 - Yesterday's sports results
 - Today's scheduled games and local start times
 - Tomorrow's scheduled games (collapsed by default, to keep the page from
@@ -36,11 +36,17 @@ This is a static site (`index.html` / `style.css` / `app.js`) with no build
 step and no API keys. All data is fetched client-side, in the visitor's
 browser, each time the page loads:
 
-- **Headlines** come from public RSS feeds (Google News, BBC, NPR, and
-  AP News/Reuters via Google News site-search), fetched through a CORS
-  proxy — trying a direct fetch first, then falling back through
-  `api.allorigins.win`, `corsproxy.io`, and `api.codetabs.com` (whichever
-  responds first) — since browsers block direct cross-origin RSS reads.
+- **Headlines** come from public RSS feeds: BBC, NPR, WSJ directly, and
+  Google News/AP News/Reuters via Google News search (Google's plain
+  aggregator feed was unreliable through the proxy chain — likely a
+  region/consent redirect returning HTML instead of XML on some requests —
+  so all three use the more reliable `/rss/search` endpoint instead).
+  Fetched through a CORS proxy — trying a direct fetch first, then falling
+  back through `api.allorigins.win`, `corsproxy.io`, and `api.codetabs.com`
+  (whichever responds first) — since browsers block direct cross-origin RSS
+  reads. A feed that fails, or returns zero parsed items, logs a warning to
+  the browser console for debugging and collapses to a one-line header
+  instead of breaking the page.
 - **Scores and schedules** come from ESPN's public (unofficial, unauthenticated)
   scoreboard API, fetched directly since it already allows cross-origin
   requests.
