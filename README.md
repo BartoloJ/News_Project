@@ -33,27 +33,31 @@ properly.
 ## How it works
 
 This is a static site (`index.html` / `style.css` / `app.js`) with no build
-step and no API keys. All data is fetched client-side, in the visitor's
-browser, each time the page loads:
+step and no API keys.
 
-- **Headlines** come from public RSS feeds: BBC, NPR, WSJ directly, and
-  AP News/Reuters via a Google News site-search (both retired their own
-  public RSS years ago). Fetched through a CORS proxy — trying a direct
-  fetch first, then falling back through `api.allorigins.win`,
-  `corsproxy.io`, and `api.codetabs.com` (whichever responds first) — since
-  browsers block direct cross-origin RSS reads. A feed that fails, or
-  returns zero parsed items, logs a warning to the browser console for
-  debugging and collapses to a one-line header instead of breaking the
-  page.
-- **Scores and schedules** come from ESPN's public (unofficial, unauthenticated)
-  scoreboard API, fetched directly since it already allows cross-origin
-  requests.
+- **Headlines** come from `headlines.json`, a file regenerated every 30
+  minutes by a scheduled GitHub Actions workflow
+  (`.github/workflows/update-headlines.yml`, running
+  `scripts/fetch-headlines.js`). That script fetches BBC, NPR, and WSJ RSS
+  directly, and AP News/Reuters via a Google News site-search (both retired
+  their own public RSS years ago), then commits the result back to the repo.
+  Fetching happens **server-side, in the Actions runner**, not in the
+  visitor's browser — earlier this ran client-side through free CORS
+  proxies (browsers block direct cross-origin RSS reads), but all of them
+  turned out to be unreliable in practice (403s, dead DNS, 5xx errors,
+  timeouts), so headline fetching moved server-side where CORS doesn't
+  apply and proxies aren't needed at all. The tradeoff: headlines are up to
+  ~30 minutes stale rather than fetched live on every page load. If a feed
+  fails on a given run, the workflow keeps the previous successful data for
+  that source instead of publishing an empty section.
+- **Scores and schedules** still come from ESPN's public (unofficial,
+  unauthenticated) scoreboard API, fetched directly from the browser each
+  time the page loads, since it already allows cross-origin requests. A CORS
+  proxy fallback (`api.allorigins.win`, `api.codetabs.com`) remains in
+  `app.js` for the rare direct failure.
 
-Because everything runs in the browser, there's no server to keep running
-and no secrets to manage — but it does depend on those third-party services
-staying up and reachable. If a section fails to load, it shows an inline
-error instead of breaking the rest of the page, and each visit re-fetches
-fresh data (nothing is generated at build time).
+If a section fails to load, it shows an inline error instead of breaking the
+rest of the page.
 
 ## Running locally
 
@@ -70,3 +74,8 @@ then open `http://localhost:8000`.
 A GitHub Actions workflow (`.github/workflows/deploy.yml`) publishes the site
 to GitHub Pages on every push to this repo's default branch. To enable it:
 in the repo's **Settings → Pages**, set **Source** to "GitHub Actions".
+
+A second workflow (`.github/workflows/update-headlines.yml`) runs every 30
+minutes (and on manual dispatch), regenerates `headlines.json`, and commits
+it back to the branch if it changed — which in turn triggers the deploy
+workflow above, so the published site picks up the new headlines.

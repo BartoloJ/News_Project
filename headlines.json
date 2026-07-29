@@ -1,0 +1,10 @@
+{
+  "generatedAt": null,
+  "sources": [
+    { "name": "BBC News", "items": [], "ok": false, "updatedAt": null },
+    { "name": "NPR", "items": [], "ok": false, "updatedAt": null },
+    { "name": "AP News", "items": [], "ok": false, "updatedAt": null },
+    { "name": "Reuters", "items": [], "ok": false, "updatedAt": null },
+    { "name": "WSJ", "items": [], "ok": false, "updatedAt": null }
+  ]
+}

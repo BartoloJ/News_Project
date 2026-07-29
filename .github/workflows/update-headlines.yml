@@ -1,0 +1,36 @@
+name: Update headlines
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-headlines
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: claude/daily-headlines-sports-site-v1q3fq
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: node scripts/fetch-headlines.js
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- headlines.json; then
+            echo "No changes to headlines.json"
+            exit 0
+          fi
+          git add headlines.json
+          git commit -m "Update headlines.json"
+          git push origin HEAD:claude/daily-headlines-sports-site-v1q3fq
