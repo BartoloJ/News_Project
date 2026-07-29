@@ -3,18 +3,25 @@
 // CORS proxy since browsers block direct cross-origin RSS reads), and sports
 // data comes from ESPN's public scoreboard API.
 
+// Fallback only — see fetchWithFallback, which tries the URL directly first
+// and only reaches for these if that fails. That ordering matters a lot:
+// ESPN allows cross-origin requests, so its ~51 scoreboard calls per load
+// succeed direct and never touch these shared free proxies, leaving their
+// capacity for the RSS feeds that genuinely need a proxy.
 const CORS_PROXIES = [
-  (url) => url, // try direct first — some APIs (e.g. ESPN's) already allow cross-origin fetches
   (url) => `https://api.allorigins.win/raw?url=${encodeURIComponent(url)}`,
-  (url) => `https://corsproxy.io/?url=${encodeURIComponent(url)}`,
   (url) => `https://api.codetabs.com/v1/proxy?quest=${encodeURIComponent(url)}`,
+  // corsproxy.io removed: returned 403 on every single request (confirmed in
+  // a browser console log, 2026-07-29) — a guaranteed-failing branch.
 ];
 
 // `url` may be a string, or a function evaluated per request when the URL
 // needs to vary between loads. `cache` opts a feed into the localStorage
 // fallback in loadHeadlines (stale-but-visible beats an empty section).
 const RSS_FEEDS = [
-  { name: 'BBC News', url: 'http://feeds.bbci.co.uk/news/world/rss.xml' },
+  // Must be https: the page is served over https, and browsers hard-block
+  // http subresources as mixed content before the request is even made.
+  { name: 'BBC News', url: 'https://feeds.bbci.co.uk/news/world/rss.xml' },
   { name: 'NPR', url: 'https://feeds.npr.org/1001/rss.xml' },
   {
     name: 'AP News',
@@ -58,7 +65,9 @@ const LEAGUES = [
   { id: 'ligue1', name: 'Ligue 1', path: 'soccer/fra.1', group: 'Soccer', siteSport: 'soccer' },
   { id: 'mls', name: 'MLS', path: 'soccer/usa.1', group: 'Soccer', siteSport: 'soccer' },
   { id: 'ufc', name: 'UFC', path: 'mma/ufc', group: 'Combat Sports', siteSport: 'mma' },
-  { id: 'boxing', name: 'Boxing', path: 'boxing/boxing', group: 'Combat Sports', siteSport: 'boxing' },
+  // Boxing removed: ESPN returns a genuine HTTP 400 for the 'boxing/boxing'
+  // path (direct, not via a proxy — confirmed in a browser console log), so
+  // it only ever produced errors. No verified correct path to swap in.
 ];
 
 const today = new Date();
@@ -86,6 +95,19 @@ async function fetchWithTimeout(url) {
 }
 
 async function fetchWithFallback(url, { asText = false } = {}) {
+  // Direct first, on its own. Racing this against the proxies meant every
+  // ESPN scoreboard call — 17 leagues x 3 days — also fired a proxy request
+  // it never needed, ~150 of them at once, swamping the shared free proxies
+  // and starving the RSS feeds that have no direct option. Those feeds then
+  // failed seemingly at random (whichever lost the race), which looked like
+  // one source being singled out.
+  try {
+    const res = await fetchWithTimeout(url);
+    return asText ? await res.text() : await res.json();
+  } catch {
+    // Expected for most RSS feeds (no CORS headers) — fall through.
+  }
+
   const attempts = CORS_PROXIES.map((makeProxyUrl) =>
     fetchWithTimeout(makeProxyUrl(url)).then((res) => (asText ? res.text() : res.json()))
   );
