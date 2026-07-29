@@ -10,10 +10,26 @@ const CORS_PROXIES = [
   (url) => `https://api.codetabs.com/v1/proxy?quest=${encodeURIComponent(url)}`,
 ];
 
+// `url` may be a string, or a function evaluated per request when the URL
+// needs to vary between loads. `cache` opts a feed into the localStorage
+// fallback in loadHeadlines (stale-but-visible beats an empty section).
 const RSS_FEEDS = [
   { name: 'BBC News', url: 'http://feeds.bbci.co.uk/news/world/rss.xml' },
   { name: 'NPR', url: 'https://feeds.npr.org/1001/rss.xml' },
-  { name: 'AP News', url: 'https://news.google.com/rss/search?q=site:apnews.com+when:2d&hl=en-US&gl=US&ceid=US:en' },
+  {
+    name: 'AP News',
+    cache: true,
+    // Rotate the recency window so rapid refreshes don't hit Google with the
+    // byte-identical URL every time, which is what "same request over and
+    // over" throttling keys on. Windows are all >= the 2d that's known to
+    // return a full result set, so varying can only widen results, not thin
+    // them. This is a mitigation, not a guaranteed fix — hence `cache`.
+    url: () => {
+      const windows = ['2d', '3d', '4d'];
+      const when = windows[Math.floor(Math.random() * windows.length)];
+      return `https://news.google.com/rss/search?q=site:apnews.com+when:${when}&hl=en-US&gl=US&ceid=US:en`;
+    },
+  },
   { name: 'Reuters', url: 'https://news.google.com/rss/search?q=site:reuters.com+when:2d&hl=en-US&gl=US&ceid=US:en' },
   { name: 'WSJ', url: 'https://feeds.a.dj.com/rss/RSSWorldNews.xml' },
 ];
@@ -83,7 +99,8 @@ async function fetchWithFallback(url, { asText = false } = {}) {
 // ---------- Headlines ----------
 
 async function fetchFeedItems(feed) {
-  const xmlText = await fetchWithFallback(feed.url, { asText: true });
+  const url = typeof feed.url === 'function' ? feed.url() : feed.url;
+  const xmlText = await fetchWithFallback(url, { asText: true });
   const doc = new DOMParser().parseFromString(xmlText, 'text/xml');
   return Array.from(doc.querySelectorAll('item')).map((item) => ({
     title: item.querySelector('title')?.textContent?.trim(),
@@ -91,6 +108,46 @@ async function fetchFeedItems(feed) {
     pubDate: item.querySelector('pubDate')?.textContent,
     source: feed.name,
   })).filter((it) => it.title && it.link);
+}
+
+// Last-good-result cache, for feeds where an intermittent upstream failure
+// (throttling, a proxy hiccup) would otherwise show an empty section even
+// though nothing is actually wrong. All localStorage access is best-effort:
+// it throws in private-browsing modes and when the quota is full, and a
+// missing cache is never worse than the no-cache behavior.
+const HEADLINE_CACHE_PREFIX = 'dailywrap:headlines:';
+
+function readCachedItems(feed) {
+  try {
+    const raw = localStorage.getItem(HEADLINE_CACHE_PREFIX + feed.name);
+    if (!raw) return null;
+    const parsed = JSON.parse(raw);
+    if (!parsed || !Array.isArray(parsed.items) || parsed.items.length === 0) return null;
+    return parsed;
+  } catch {
+    return null;
+  }
+}
+
+function writeCachedItems(feed, items) {
+  try {
+    localStorage.setItem(
+      HEADLINE_CACHE_PREFIX + feed.name,
+      JSON.stringify({ savedAt: Date.now(), items })
+    );
+  } catch {
+    // Caching is an optimization — never let it break the render.
+  }
+}
+
+function relativeTime(ts) {
+  const mins = Math.round((Date.now() - ts) / 60000);
+  if (mins < 1) return 'just now';
+  if (mins < 60) return `${mins} min ago`;
+  const hours = Math.round(mins / 60);
+  if (hours < 24) return `${hours} hr ago`;
+  const days = Math.round(hours / 24);
+  return `${days} day${days === 1 ? '' : 's'} ago`;
 }
 
 function dedupeByTitle(items) {
@@ -114,17 +171,30 @@ async function loadHeadlines() {
 
   const bySource = RSS_FEEDS.map((feed, i) => {
     const r = results[i];
+    let items = null;
     if (r.status !== 'fulfilled') {
       console.warn(`Headline fetch failed for ${feed.name}:`, r.reason);
-      return { feed, items: null };
+    } else {
+      items = dedupeByTitle(r.value)
+        .sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate))
+        .slice(0, HEADLINES_PER_SOURCE);
+      if (items.length === 0) {
+        console.warn(`Headline feed for ${feed.name} returned 0 items — the proxy may have returned a non-XML response (e.g. a redirect/consent page) instead of the feed.`);
+      }
     }
-    const items = dedupeByTitle(r.value)
-      .sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate))
-      .slice(0, HEADLINES_PER_SOURCE);
-    if (items.length === 0) {
-      console.warn(`Headline feed for ${feed.name} returned 0 items — the proxy may have returned a non-XML response (e.g. a redirect/consent page) instead of the feed.`);
+
+    if (feed.cache) {
+      if (items && items.length > 0) {
+        writeCachedItems(feed, items);
+      } else {
+        const cached = readCachedItems(feed);
+        if (cached) {
+          console.warn(`Showing cached headlines for ${feed.name} (saved ${relativeTime(cached.savedAt)}) — live fetch came back empty.`);
+          return { feed, items: cached.items, cachedAt: cached.savedAt };
+        }
+      }
     }
-    return { feed, items };
+    return { feed, items, cachedAt: null };
   });
 
   if (bySource.every((s) => s.items === null)) {
@@ -136,7 +206,7 @@ async function loadHeadlines() {
   sub.textContent = longDate(today);
 
   container.innerHTML = '';
-  for (const { feed, items } of bySource) {
+  for (const { feed, items, cachedAt } of bySource) {
     const sourceEl = document.createElement('details');
     sourceEl.className = 'source-group';
     let bodyHtml;
@@ -146,7 +216,10 @@ async function loadHeadlines() {
       bodyHtml = '<p class="empty">No headlines found.</p>';
     } else {
       sourceEl.open = true;
-      bodyHtml = '<ul class="headline-list">' + items.map((it) =>
+      const staleNote = cachedAt
+        ? `<p class="empty">Saved copy from ${relativeTime(cachedAt)} — couldn't refresh just now.</p>`
+        : '';
+      bodyHtml = staleNote + '<ul class="headline-list">' + items.map((it) =>
         `<li><a href="${it.link}" target="_blank" rel="noopener noreferrer">${it.title}</a></li>`
       ).join('') + '</ul>';
     }
