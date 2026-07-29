@@ -16,8 +16,8 @@ const CORS_PROXIES = [
 ];
 
 // `url` may be a string, or a function evaluated per request when the URL
-// needs to vary between loads. `cache` opts a feed into the localStorage
-// fallback in loadHeadlines (stale-but-visible beats an empty section).
+// needs to vary between loads. Every feed gets the localStorage fallback in
+// loadHeadlines (stale-but-visible beats an empty section).
 const RSS_FEEDS = [
   // Must be https: the page is served over https, and browsers hard-block
   // http subresources as mixed content before the request is even made.
@@ -25,12 +25,9 @@ const RSS_FEEDS = [
   { name: 'NPR', url: 'https://feeds.npr.org/1001/rss.xml' },
   {
     name: 'AP News',
-    cache: true,
-    // Rotate the recency window so rapid refreshes don't hit Google with the
-    // byte-identical URL every time, which is what "same request over and
-    // over" throttling keys on. Windows are all >= the 2d that's known to
-    // return a full result set, so varying can only widen results, not thin
-    // them. This is a mitigation, not a guaranteed fix — hence `cache`.
+    // Rotate the recency window so repeated refreshes don't hit Google with
+    // the byte-identical URL every time. Windows are all >= the 2d known to
+    // return a full result set, so varying can only widen results.
     url: () => {
       const windows = ['2d', '3d', '4d'];
       const when = windows[Math.floor(Math.random() * windows.length)];
@@ -80,11 +77,16 @@ function pad(n) { return String(n).padStart(2, '0'); }
 function toYYYYMMDD(d) { return `${d.getFullYear()}${pad(d.getMonth() + 1)}${pad(d.getDate())}`; }
 function longDate(d) { return d.toLocaleDateString(undefined, { weekday: 'long', month: 'long', day: 'numeric', year: 'numeric' }); }
 
-const FETCH_TIMEOUT_MS = 8000;
+// A direct attempt either succeeds quickly or fails fast on CORS, so it gets
+// a short leash. The free proxies are genuinely slow — an 8s cap on them was
+// aborting requests that would have succeeded, which is what made most feeds
+// fail with AbortError while one lucky feed loaded.
+const DIRECT_TIMEOUT_MS = 6000;
+const PROXY_TIMEOUT_MS = 20000;
 
-async function fetchWithTimeout(url) {
+async function fetchWithTimeout(url, timeoutMs = DIRECT_TIMEOUT_MS) {
   const controller = new AbortController();
-  const timer = setTimeout(() => controller.abort(), FETCH_TIMEOUT_MS);
+  const timer = setTimeout(() => controller.abort(), timeoutMs);
   try {
     const res = await fetch(url, { signal: controller.signal });
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
@@ -109,7 +111,8 @@ async function fetchWithFallback(url, { asText = false } = {}) {
   }
 
   const attempts = CORS_PROXIES.map((makeProxyUrl) =>
-    fetchWithTimeout(makeProxyUrl(url)).then((res) => (asText ? res.text() : res.json()))
+    fetchWithTimeout(makeProxyUrl(url), PROXY_TIMEOUT_MS)
+      .then((res) => (asText ? res.text() : res.json()))
   );
   try {
     return await Promise.any(attempts);
@@ -186,67 +189,71 @@ function dedupeByTitle(items) {
 
 const HEADLINES_PER_SOURCE = 8;
 
+function renderSourceBody(items, cachedAt) {
+  if (items === null) return '<p class="empty">Couldn\'t load.</p>';
+  if (items.length === 0) return '<p class="empty">No headlines found.</p>';
+  const staleNote = cachedAt
+    ? `<p class="empty">Saved copy from ${relativeTime(cachedAt)} — couldn't refresh just now.</p>`
+    : '';
+  return staleNote + '<ul class="headline-list">' + items.map((it) =>
+    `<li><a href="${it.link}" target="_blank" rel="noopener noreferrer">${it.title}</a></li>`
+  ).join('') + '</ul>';
+}
+
 async function loadHeadlines() {
   const container = document.getElementById('headlines-list');
   const sub = document.getElementById('headlines-sub');
-  const results = await Promise.allSettled(RSS_FEEDS.map(fetchFeedItems));
+  sub.textContent = longDate(today);
 
-  const bySource = RSS_FEEDS.map((feed, i) => {
-    const r = results[i];
+  // Lay out every source up front, then fill each one in as its fetch
+  // resolves. Fetching is sequential (below), so without this the page
+  // would sit empty until the slowest feed finished.
+  container.innerHTML = '';
+  const sections = new Map();
+  for (const feed of RSS_FEEDS) {
+    const el = document.createElement('details');
+    el.className = 'source-group';
+    el.innerHTML = `<summary><h3>${feed.name}</h3></summary>` +
+      `<div class="source-group-body"><p class="loading">Loading…</p></div>`;
+    container.appendChild(el);
+    sections.set(feed.name, el);
+  }
+
+  // One feed at a time. Firing all five at once meant ten simultaneous
+  // requests against two shared free proxies, and they were too slow to
+  // serve that — four of five feeds died on our own abort timer while a
+  // single lucky one loaded. Sequential keeps it to two in flight.
+  for (const feed of RSS_FEEDS) {
     let items = null;
-    if (r.status !== 'fulfilled') {
-      console.warn(`Headline fetch failed for ${feed.name}:`, r.reason);
-    } else {
-      items = dedupeByTitle(r.value)
+    try {
+      items = dedupeByTitle(await fetchFeedItems(feed))
         .sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate))
         .slice(0, HEADLINES_PER_SOURCE);
       if (items.length === 0) {
-        console.warn(`Headline feed for ${feed.name} returned 0 items — the proxy may have returned a non-XML response (e.g. a redirect/consent page) instead of the feed.`);
+        console.warn(`Headline feed for ${feed.name} returned 0 items — the response may not have been valid RSS.`);
       }
+    } catch (err) {
+      console.warn(`Headline fetch failed for ${feed.name}:`, err);
     }
 
-    if (feed.cache) {
-      if (items && items.length > 0) {
-        writeCachedItems(feed, items);
-      } else {
-        const cached = readCachedItems(feed);
-        if (cached) {
-          console.warn(`Showing cached headlines for ${feed.name} (saved ${relativeTime(cached.savedAt)}) — live fetch came back empty.`);
-          return { feed, items: cached.items, cachedAt: cached.savedAt };
-        }
-      }
-    }
-    return { feed, items, cachedAt: null };
-  });
-
-  if (bySource.every((s) => s.items === null)) {
-    container.innerHTML = '<p class="error">Couldn\'t load headlines right now. Try refreshing the page.</p>';
-    sub.textContent = '';
-    return;
-  }
-
-  sub.textContent = longDate(today);
-
-  container.innerHTML = '';
-  for (const { feed, items, cachedAt } of bySource) {
-    const sourceEl = document.createElement('details');
-    sourceEl.className = 'source-group';
-    let bodyHtml;
-    if (items === null) {
-      bodyHtml = '<p class="empty">Couldn\'t load.</p>';
-    } else if (items.length === 0) {
-      bodyHtml = '<p class="empty">No headlines found.</p>';
+    // Every feed now caches, not just AP News: the console log showed all
+    // of them can lose the proxy race, so any of them can benefit from
+    // falling back to the last good copy.
+    let cachedAt = null;
+    if (items && items.length > 0) {
+      writeCachedItems(feed, items);
     } else {
-      sourceEl.open = true;
-      const staleNote = cachedAt
-        ? `<p class="empty">Saved copy from ${relativeTime(cachedAt)} — couldn't refresh just now.</p>`
-        : '';
-      bodyHtml = staleNote + '<ul class="headline-list">' + items.map((it) =>
-        `<li><a href="${it.link}" target="_blank" rel="noopener noreferrer">${it.title}</a></li>`
-      ).join('') + '</ul>';
+      const cached = readCachedItems(feed);
+      if (cached) {
+        console.warn(`Showing cached headlines for ${feed.name} (saved ${relativeTime(cached.savedAt)}).`);
+        items = cached.items;
+        cachedAt = cached.savedAt;
+      }
     }
-    sourceEl.innerHTML = `<summary><h3>${feed.name}</h3></summary><div class="source-group-body">${bodyHtml}</div>`;
-    container.appendChild(sourceEl);
+
+    const el = sections.get(feed.name);
+    el.querySelector('.source-group-body').innerHTML = renderSourceBody(items, cachedAt);
+    if (items && items.length > 0) el.open = true;
   }
 }
 
