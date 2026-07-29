@@ -1,10 +1,280 @@
 {
-  "generatedAt": null,
+  "generatedAt": "2026-07-29T04:27:55.696Z",
   "sources": [
-    { "name": "BBC News", "items": [], "ok": false, "updatedAt": null },
-    { "name": "NPR", "items": [], "ok": false, "updatedAt": null },
-    { "name": "AP News", "items": [], "ok": false, "updatedAt": null },
-    { "name": "Reuters", "items": [], "ok": false, "updatedAt": null },
-    { "name": "WSJ", "items": [], "ok": false, "updatedAt": null }
+    {
+      "name": "BBC News",
+      "items": [
+        {
+          "title": "Iran and US trade strikes, shattering brief lull in fighting",
+          "link": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 29 Jul 2026 02:47:28 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Japan earthquake: What we know so far",
+          "link": "https://www.bbc.co.uk/news/articles/cgewgxlpj3po?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 29 Jul 2026 02:47:08 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Trump administration bans new Chinese humanoid robots",
+          "link": "https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 29 Jul 2026 02:30:50 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "How Mexican drug cartels have outsourced meth labs to Nigeria",
+          "link": "https://www.bbc.co.uk/news/articles/crmrnxp4nllo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 28 Jul 2026 23:25:53 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "'A lover of life' - Seattle pays tribute to food festival shooting victims",
+          "link": "https://www.bbc.co.uk/news/articles/cvgv7m5z4n0o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 28 Jul 2026 23:12:09 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "'A narcissist' - victim's family blasts Kohberger for challenging Idaho murder conviction",
+          "link": "https://www.bbc.co.uk/news/articles/cgewg57rq2ro?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 28 Jul 2026 21:43:30 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Bystander video shows teen lifeguard's dramatic ocean rescue",
+          "link": "https://www.bbc.co.uk/news/videos/c4g3600xw5ko?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 28 Jul 2026 21:09:21 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Ghana mourns its tallest man - a 'generous and popular giant'",
+          "link": "https://www.bbc.co.uk/news/articles/crk52jk0131o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 28 Jul 2026 18:19:57 GMT",
+          "source": "BBC News"
+        }
+      ],
+      "ok": true,
+      "updatedAt": "2026-07-29T04:27:54.277Z"
+    },
+    {
+      "name": "NPR",
+      "items": [
+        {
+          "title": "FIFA has a new plan to raise billions of dollars: Selling stakes in the World Cup",
+          "link": "https://www.npr.org/2026/07/28/nx-s1-5910773/fifa-world-cup-gianni-infantino",
+          "pubDate": "Tue, 28 Jul 2026 19:04:59 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "As Spain battles wildfires, its politicians battle over climate change's role",
+          "link": "https://www.npr.org/2026/07/28/nx-s1-5909198/spain-wildfires-politicians-climate-change",
+          "pubDate": "Tue, 28 Jul 2026 16:31:54 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Artist Betye Saar, who used repurposed objects to reclaim identity, has died at 99",
+          "link": "https://www.npr.org/2026/07/28/nx-s1-5910539/betye-saar-dead",
+          "pubDate": "Tue, 28 Jul 2026 16:31:06 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Keiko Fujimori is inaugurated as Peru's president following a narrow election victory",
+          "link": "https://www.npr.org/2026/07/28/nx-s1-5910830/peru-president-keiko-fujimori-inaugurated",
+          "pubDate": "Tue, 28 Jul 2026 16:30:50 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "As many are priced out of buying, the renter-owner wealth gap is wider than ever",
+          "link": "https://www.npr.org/2026/07/28/nx-s1-5853585/as-many-are-priced-out-of-buying-the-renter-owner-wealth-gap-is-wider-than-ever",
+          "pubDate": "Tue, 28 Jul 2026 16:14:20 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Ukraine negotiator: 'We have the upper hand'",
+          "link": "https://www.npr.org/2026/07/28/g-s1-135640/ukraine-war-peace-negotiator-russia",
+          "pubDate": "Tue, 28 Jul 2026 16:10:18 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "In a day of tributes, Lindsey Graham is remembered as a tireless Washington mainstay",
+          "link": "https://www.npr.org/2026/07/28/nx-s1-5909232/lindsey-graham-funeral",
+          "pubDate": "Tue, 28 Jul 2026 13:08:29 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Photos: Spain and France battle record wildfires",
+          "link": "https://www.npr.org/2026/07/28/g-s1-135880/photos-spain-france-wildfires-climate-change",
+          "pubDate": "Tue, 28 Jul 2026 11:24:07 -0400",
+          "source": "NPR"
+        }
+      ],
+      "ok": true,
+      "updatedAt": "2026-07-29T04:27:54.575Z"
+    },
+    {
+      "name": "AP News",
+      "items": [
+        {
+          "title": "Tropical Storm Fausto to splash past Hawaii as Hurricane Genevieve sends swells to Mexico - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOUhYTEo0c1RRcTBQMDNFUDZrU05xTzk1UUkwMExGSUN1djZmNmZTdll1eXdLeTFuam1JWTR3OFhMalprWGxYYk1zVTdDRXFVNjRBWFJwTm9SektybnpIU19GZzBFUlBkejFmcU83bzdNdEpjc0VTaXhMcEFCMEFic1dFdUhmWm9lMzk5bG5OOThsSkRJM0wwS1l6S3RzY3JlMGdtSTh3?oc=5",
+          "pubDate": "Wed, 29 Jul 2026 03:58:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "France orders 4,000 more evacuated as fires displace a third of a million across southwest Europe - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVnhUbUtjWkcxODdfUXBpS0ZJWl9mVXhtNGd6WnIzVzd6c3lRQWNzaGVHalE3Y0xyOVdpSEtrQXVHcUUzZTVNQ2ZPZmJhcWx3Vzg1WlIzNk9xY2lBTjl3TzlOX3hPQU5RNS0taGcwUHRZYVh4Z3VyYWJoMnpaTkVGdnBZZ0NNUkMySFcxYUk0Qk92aU0ycFJiMk9kdmVSSDQ?oc=5",
+          "pubDate": "Wed, 29 Jul 2026 03:30:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Zelenskyy has a 'good meeting' with Trump at the White House as he seeks more cooperation with US - AP News",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMU5TRHpCaF9Hc1F1eFc0TFVZZGprSGhQTmtnTTRGS01XUkR1aGluZlNRbjctNG5rMUdVYkVxc0g0c1BwOVd0T0M3SDZzUXVFd1loLUxtRk1hcms1bnhmTk1GRmcyQk9kbHJycTJKM0ZNOGJ0b2FTUnZTTUdWNm0yNEFQRno3NUppMEl3RlZrYW83bGlnZXB2aWh1aE9POWo4Q0tjOWJkT2xTejd0Umw3aA?oc=5",
+          "pubDate": "Wed, 29 Jul 2026 03:02:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Keiko Fujimori is inaugurated as Peru’s president following a narrow election victory - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNY1hDLWhPNzZlZVN2c3lJX0NlSndaSGpTazdfUkZQQ1QyUzVCZHFpNTNldUMwcWszdzB0LVFhLUNZQ3pCVjBBbnRlTFpIMW1QSUMyc3Z5U3BJNjZxOXpRNVY0MWtsQ29VQm83SjVVS3FNUnlIdGpCRlJiNDQ1Q2lpdEhRQ2F5UWEwTGlsclRLUjlqSF9wR0pV?oc=5",
+          "pubDate": "Wed, 29 Jul 2026 02:59:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "US thwarts an Iranian missile attack and launches strikes with Saudi Arabia against militias in Iraq - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRWlwZk94dzhfNkVQUDNyVWRCekU3RmZJa09ldGwyOFZ1NzlCWEJhWXN5ZjRqdWRGX25RMWZyMHJJai1LVHZxOVNaZ2NFQ1pyTnI5Q1hONTZZR1Zid25ULUV4T3EyNGtRQTQzSVJPQ3pyS2RKM0I1VUF5cl9ZY2VDd3VwQzMxNzgybnlEXzdXV3RlRUxGX2JZMjZKcHk?oc=5",
+          "pubDate": "Wed, 29 Jul 2026 02:15:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Associated Press News: Breaking News | Latest News Today - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
+          "pubDate": "Wed, 29 Jul 2026 02:02:15 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Busiest US death chamber: Florida executes 2 men in a day, including an octogenarian - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRzhra1VZWVM0Y0F4bDBnSlZGMFRiYXdzNFgwTGpIa0JXV0dXeWVVOHlUN01jMWE3RUxkSS1fN09Yamt5MlREc052bmplUkVqQlgyVEFWMi1ocTUzQ3g4bGVjOFZ0UDdTdE84MUpWNWdYTk5vMVNpVFkzLVhyRENCZExZZ0h0NnZRbVNCdF9sdFFmZlNmTVpCMlpoUQ?oc=5",
+          "pubDate": "Wed, 29 Jul 2026 01:46:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Death toll rises to 13 as rescuers search for the missing after Japan earthquake - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWmZaS1lXNXVXM3BxTlZRZ181alZzT2V3a0FxOFg3VVR2MUcweEtTT29Zb0pLVUdYY295R1VyX3NSVUNweE9iSEpaMURSR3NiV0k5LTM4RTVFS00tZVBfTDB1S0xxV2gtTU1aYjR0RXE1MU5GM2FPbXpMRXUtWmpORkEyNTZTeWJvTGtFUk1kcWFtelBUbV9qa1o5elRpYXpLNlZXXzFWRjJZZ0tf?oc=5",
+          "pubDate": "Wed, 29 Jul 2026 01:42:00 GMT",
+          "source": "AP News"
+        }
+      ],
+      "ok": true,
+      "updatedAt": "2026-07-29T04:27:55.085Z"
+    },
+    {
+      "name": "Reuters",
+      "items": [
+        {
+          "title": "Oil rises as US-Iran tension escalates after Iraq strikes, missile attack - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPd0ctWlZRN0hINkdrNUJmWWxpV0ZGNGw2Y2taRk1DbFBpdzd5bFdXQmJEcW9VRExnRFBtTWlTTHBRTU5tcDN2azF6VmtxdDN6WlVncmJxSVJhYjM4Wlctb3NEcnEzSWt4djdPSWJJX3ItYmpaN0UyZ09pbV85YjlRMkQ4RTV2RDE2c2NhYlRTdEVEUUFoWEVLMVBqUzhhX2xtVlJLUFp0RWFZTFpCSGJwMTRydUQ3NUx6ejJyYWFCdzBMVWpOYWZqbzF3?oc=5",
+          "pubDate": "Wed, 29 Jul 2026 03:20:44 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Trump says meetings with Zelenskiy and Netanyahu were positive - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNk40d25GbEFLaXNXdzJVWFVNZ0Y0cHBFSW0xT2p3M09Vd2ZEaktDYVQ5MVJaYW80a1ptaHJacFlDQk5yWHh0b084dlFfc0NYZThwYVQ2RzdPRGFWelFJQTdOd2FQemtoRmRzZTRpT0dlc09DbGdmRkM3RmhqMjk1c1JIOF9IYi1MWjZXRHZDVkUtQWI2ck82YkRBNVZ0Wkl3Y00tQkFR?oc=5",
+          "pubDate": "Wed, 29 Jul 2026 03:05:43 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "EXCLUSIVE: Iran to get Chinese shoulder-launched missile systems in weeks, sources say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPR19sNWVrRDdhcXlNdTlxcUdNR0dNWDRBcjZPd21xOEM2bEYtdDJiWTEtYzlweWs5ZmtILVlhQkVUNzdaaENHbnhqTl9SSFNCZjk3eXNMS1o4SXFzT2VBS3VZZ0p6MVlrQldWNjRMUGlTN2tDR2xUOVBUdkdkTndueExrQm9vRGtTLTdBWjNGMDhZRC1qNDZXYVk3TXB0bWZ4ZFhpYUtfZ2JaalVZdjU3emN6LUptbjA?oc=5",
+          "pubDate": "Wed, 29 Jul 2026 03:04:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Asian stock rout deepens on AI worries ahead of tech earnings - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1UQ0pPSFVQOVM0dWVQbmRmR3Nrdm9hUG4xLWR6bEVza0FyMVFxdXIwMm9LMXA2azA3c1Baa295M1RwUTJMRTBRc0FLWHdWOUNzUHl0M2hGUVNtWDgwSWt2NU5hYWlrT3ZIOUI5dkRMb3c3WTEwRzBaMzNVQQ?oc=5",
+          "pubDate": "Wed, 29 Jul 2026 02:55:36 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Japan quake toll rises to 13 as rescuers haul people from collapsed mall - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSk5HS2lsMDFmVFM5NUIweFRwRkJLMWZKUWd2NG95WUVFdEFXWnpMeWJEZEVDbndzSEdrLWZtaUh5RXJ0U1FiS3RfRHNoMzFiVXc2NVFEYktIQk5RTmFfdjhqTU9UNjVFb1JpcTFTZWc2bzROM2FxSTJkdVpLRUFDVnVvTUxKY2xyLVBsbnFiandSX0haQzNUVzR3ZE1XYjd5aUtYbkhOYXl5ZjB4NHlVd01vVzlBQnc?oc=5",
+          "pubDate": "Wed, 29 Jul 2026 02:45:17 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Meta's Zuckerberg warns against curbs on Chinese AI models, FT reports - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNGM3TlNxUEczUHdxRW5fUWYwM3g0YTNVR01kQURibVZtbEtPY1VWRUk1MmhVV0J1QjlVc05nSTFUM2dPcDBKT3BXa3pUZ0xmTUJ2TWJBcGRfNXMwMVotZjNhdVJGeWZIemVQTm1XelUyZ0tkMXFLVHVydEo4OTNFRnRLUVA0aE5mLW1CRWc2Y3FpY2dmd1J2c0xTZXplZUVKX1paR09fSzZMbTZfVkg3N0dFMnZ3aW5pOFE?oc=5",
+          "pubDate": "Wed, 29 Jul 2026 02:34:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US military says US, Saudi forces struck sites of Iran-backed groups in Iraq - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUHJGTGM0cWxxc1lyajNFQ1Y1NXNKUUdnREtjZDk3Z3RaRUFabm41dmF2UE1YVTFfbVJNTHJWZTlRYzJCTEpGbnVRWlg1akk2cGJKamVPRmZQNEZZRFVsSFp1LXFOOWQxYzRObjYyYmQ1U29LWUVyRHAtNHVFcUplWHlZYWZnWVFJeTVxdmktRVdmaTJ2aTh6SkM5R3VJOEtKR254SzdEMFNyZFJHcHJGN3kwaE4ySVdSUngwbTdhZ1M?oc=5",
+          "pubDate": "Wed, 29 Jul 2026 00:37:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Minnesota IT officials disclose 'coordinated cyberattack' at more than 30 local water systems - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaFdMVHoxTjY4QlIyd0phejJIRTFXTTlUQVFjT1ZCRkMtWFcyU055a1hrMGItMk16SklJWFctSXpJTk1XQmZkbThTd00yLXJfUEVVLTlWRGgyYjJsbTREWk1lTk02RWdjM0FjeDhlRlN0NE1qZU1qX1FYdWJJYXJFMkU3cmFBbkh0Y25MUnpYQm1KZ00xR2tDWFo3cW5tSWlXTi1vZGh2SHowby1oWmJ1cUZWNnJwT2VpSXNtOUNUbE5fVE83b1EtQkxLVTVMQQ?oc=5",
+          "pubDate": "Tue, 28 Jul 2026 23:47:02 GMT",
+          "source": "Reuters"
+        }
+      ],
+      "ok": true,
+      "updatedAt": "2026-07-29T04:27:55.505Z"
+    },
+    {
+      "name": "WSJ",
+      "items": [
+        {
+          "title": "Palestinians Stream Back to Northern Gaza on Foot",
+          "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+          "pubDate": "Mon, 27 Jan 2025 14:23:00 -0500",
+          "source": "WSJ"
+        },
+        {
+          "title": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
+          "link": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
+          "pubDate": "Mon, 27 Jan 2025 12:32:00 -0500",
+          "source": "WSJ"
+        },
+        {
+          "title": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
+          "link": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e",
+          "pubDate": "Mon, 27 Jan 2025 12:12:00 -0500",
+          "source": "WSJ"
+        },
+        {
+          "title": "Suspected Sabotage of Deep-Sea Cable Triggers First NATO-Led Response",
+          "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+          "pubDate": "Mon, 27 Jan 2025 11:22:00 -0500",
+          "source": "WSJ"
+        },
+        {
+          "title": "Rwanda-Backed Rebels Enter Congo's Safe-Haven City",
+          "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+          "pubDate": "Mon, 27 Jan 2025 10:07:00 -0500",
+          "source": "WSJ"
+        },
+        {
+          "title": "Cocaine-Funded Gangs Shake Colombia Years After Peace Pact",
+          "link": "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da",
+          "pubDate": "Mon, 27 Jan 2025 07:00:00 -0500",
+          "source": "WSJ"
+        },
+        {
+          "title": "Italy Supports Saudi Arabia Joining Fighter-Jet Program, PM Meloni Says",
+          "link": "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1",
+          "pubDate": "Mon, 27 Jan 2025 05:34:00 -0500",
+          "source": "WSJ"
+        },
+        {
+          "title": "Shippers Wary of Red Sea Routes Despite Houthi Pledge to End Targeting",
+          "link": "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2",
+          "pubDate": "Mon, 27 Jan 2025 01:05:00 -0500",
+          "source": "WSJ"
+        }
+      ],
+      "ok": true,
+      "updatedAt": "2026-07-29T04:27:55.696Z"
+    }
   ]
 }
