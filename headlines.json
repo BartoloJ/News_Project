@@ -1,19 +1,31 @@
 {
-  "generatedAt": "2026-07-29T12:31:05.817Z",
+  "generatedAt": "2026-07-29T15:11:12.868Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "Oscar-winning songwriter Glen Hansard killed in crash",
-          "link": "https://www.bbc.co.uk/news/articles/c3ekn9d37qvo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 29 Jul 2026 12:30:13 GMT",
+          "title": "Anthony Fauci refuses to answer questions during US Senate hearing about Covid origins",
+          "link": "https://www.bbc.co.uk/news/articles/cdx85vkk0gko?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 29 Jul 2026 14:29:34 GMT",
           "source": "BBC News"
         },
         {
           "title": "Thousands in Spain return home but new heatwave raises wildfire fears",
           "link": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 29 Jul 2026 12:29:07 GMT",
+          "pubDate": "Wed, 29 Jul 2026 14:27:13 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Oscar-winning songwriter Glen Hansard killed in crash",
+          "link": "https://www.bbc.co.uk/news/articles/c3ekn9d37qvo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 29 Jul 2026 14:26:56 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
+          "link": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 29 Jul 2026 13:48:41 GMT",
           "source": "BBC News"
         },
         {
@@ -39,26 +51,20 @@
           "link": "https://www.bbc.co.uk/news/articles/cgk43y21j0do?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 29 Jul 2026 11:47:05 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Fifa offers $40m if nations back controversial plan",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cvg7vglq9wpo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 29 Jul 2026 11:33:45 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "'I thought I would die': Survivors describe shock and horror of powerful Japan earthquake",
-          "link": "https://www.bbc.co.uk/news/articles/cvgw52l5kyyo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 29 Jul 2026 11:01:20 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-07-29T12:31:04.434Z"
+      "updatedAt": "2026-07-29T15:11:11.616Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Greetings from an isolated region in northern Pakistan's Hindu Kush mountains",
+          "link": "https://www.npr.org/2026/07/29/g-s1-135641/pakistan-chitral-hindu-kush-mountains",
+          "pubDate": "Wed, 29 Jul 2026 10:21:07 -0400",
+          "source": "NPR"
+        },
         {
           "title": "U.S. and Iran resume attacks. And, Fauci to face Senate questions on COVID pandemic",
           "link": "https://www.npr.org/2026/07/29/g-s1-136076/up-first-newsletter-iran-benjamin-netanyahu-trump-iowa-water-anthony-fauci-fed-rates",
@@ -72,7 +78,7 @@
           "source": "NPR"
         },
         {
-          "title": "Jordan intercepts Iranian missiles as U.S. and Saudi Arabia strike militias in Iraq",
+          "title": "Iran resumes missile attacks as U.S. and Saudis strike Tehran-backed militias in Iraq",
           "link": "https://www.npr.org/2026/07/29/g-s1-136063/us-saudi-arabia-iran-iraq",
           "pubDate": "Wed, 29 Jul 2026 05:07:03 -0400",
           "source": "NPR"
@@ -84,20 +90,8 @@
           "source": "NPR"
         },
         {
-          "title": "More Americans are going bankrupt. What does that mean?",
-          "link": "https://www.npr.org/2026/07/29/nx-s1-5896065/personal-bankruptcy-rates-rising",
-          "pubDate": "Wed, 29 Jul 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
           "title": "As extreme heat grips the South and West, here's how to stay safe",
           "link": "https://www.npr.org/2026/07/29/nx-s1-5910515/heat-dome-stroke-weather",
-          "pubDate": "Wed, 29 Jul 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Rand Paul released Fauci's pandemic-era 'diary.' Now they'll face off on Capitol Hill",
-          "link": "https://www.npr.org/2026/07/29/nx-s1-5910542/fauci-rand-paul-diary-coronavirus-origin-lab-leak-hearing",
           "pubDate": "Wed, 29 Jul 2026 05:00:00 -0400",
           "source": "NPR"
         },
@@ -106,120 +100,126 @@
           "link": "https://www.npr.org/2026/07/29/nx-s1-5905696/2026-midterm-elections-democrats-working-class",
           "pubDate": "Wed, 29 Jul 2026 05:00:00 -0400",
           "source": "NPR"
+        },
+        {
+          "title": "The Federal Reserve faces a critical decision on interest rates",
+          "link": "https://www.npr.org/2026/07/29/nx-s1-5910558/federal-reserve-interest-rates-inflation",
+          "pubDate": "Wed, 29 Jul 2026 05:00:00 -0400",
+          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-07-29T12:31:04.558Z"
+      "updatedAt": "2026-07-29T15:11:11.799Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Rescuers search for survivors after a 7.1 quake kills 18 in southwestern Japan - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWmZaS1lXNXVXM3BxTlZRZ181alZzT2V3a0FxOFg3VVR2MUcweEtTT29Zb0pLVUdYY295R1VyX3NSVUNweE9iSEpaMURSR3NiV0k5LTM4RTVFS00tZVBfTDB1S0xxV2gtTU1aYjR0RXE1MU5GM2FPbXpMRXUtWmpORkEyNTZTeWJvTGtFUk1kcWFtelBUbV9qa1o5elRpYXpLNlZXXzFWRjJZZ0tf?oc=5",
-          "pubDate": "Wed, 29 Jul 2026 12:14:00 GMT",
+          "title": "‘Once’ Oscar winner and Irish musician Glen Hansard dies in motorcycle crash - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU2xOMXBGVWVHZWFaLVF5VmJ6a2NrcDE3MXc2ZW8yTGNvQXlQVTc4V1hoNzUwZVFFTFg4blVVMkNhV1pXaTFPRURvNzlYZ1JYeVUxUmFmS3U3V2tTNlFEcW9FM2hDM01JOWtvbm9aRUpVTFdINkhlQldZYjBxbmN2N2VxTXlNT2Z3R2VTdnRnODFhZ2l4Z0gzdkhKVWVoeGc3bE5n?oc=5",
+          "pubDate": "Wed, 29 Jul 2026 14:44:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "US markets mixed ahead of Fed decision and oil prices jump as Middle East violence flares - AP News",
+          "title": "Oil prices jump following fighting with Iran, while sinking AI stocks drag Wall Street lower - AP News",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVVhqMlRBNU0taHdVcUdHUUE3eDFsZEFQbTZ6dElnTEtMOGVSb1ktYlhpbmJHMm9NY2xRc1lQRWRXcGZ2N0NUNm9FSWV1ZkQ2MjAtaE5WWkwxeHFDMmxxX3I4MHNDNmduRnZ4ODNzNUtSZ2hyZEh3NVBtMmthTHA5UDRzcTBXOWJYNS0yVHlUM0loVXE5VThkeg?oc=5",
-          "pubDate": "Wed, 29 Jul 2026 12:10:00 GMT",
+          "pubDate": "Wed, 29 Jul 2026 14:40:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Austria's 16th-century bell foundry adds modern technology to keep the casting process alive - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdE13LVVHbEUxX3NsQU1SeGhqM0RrMXhwcjFFSTFGMDFuVjkwdVZzaENFV3hLdXBiajhhNENtNnBRLWlwa2lOdzBIX1NETXhFZlItNS1iTllxVXM5RUZwck1QSGs2cWtwTGhXUDlmcmktWTZnSjh1WFBxYURwS2c2WDItcEJxQ3hCSWNTc3ByQy1uWFN2Q3VZUnI1US1DZlU?oc=5",
-          "pubDate": "Wed, 29 Jul 2026 11:21:00 GMT",
+          "title": "Iran resumes missile attacks as US and Saudis strike Tehran-backed militias in Iraq - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcFZvamthZTNrZ0JiSDZZMVJBNW02Y1JiQUlvUlAwN1RRODcyUWNydUtZbGxpVVdhZElfTERINDh6ZURJZll3M25weWk4UVFPczliQWZ0MkRUc09VTTQ0X1BMVDBDa0hMdzE0TjBlYmI3UkJpYl9KZDFYMTFsZ05jNnd0Zm9wUHEwTlJObUEycG1BNTVqVTVQWjl5NnJqdEE?oc=5",
+          "pubDate": "Wed, 29 Jul 2026 14:32:00 GMT",
           "source": "AP News"
         },
         {
           "title": "FIFA's Infantino sets deadline for $20M offer to members in Kushner-backed World Cup investor plan - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNnJua3VkNWFsOW96djl4VHJXUkdpS2R0SVdmY1k4Rlo1TlVNVl9PbzlGVFJ0ZVZBbnN2OGw0aUZqQjlDV2dJQTBvamhqWWcwWmFLOWtVV1doYWktRndXdEFZb1lZeFBsVmI4MUxjMGJHOTBkOHQwZHR1M194emx6Mkk1TWVnd3BCY29FMHVEUUFYZC1fUmFxaHg2OVlmZ3cxbkdkYXVhYmtlLTQ?oc=5",
-          "pubDate": "Wed, 29 Jul 2026 10:59:00 GMT",
+          "pubDate": "Wed, 29 Jul 2026 14:24:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Jordan intercepts Iranian missiles as US and Saudi Arabia launch strikes against militias in Iraq - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcFZvamthZTNrZ0JiSDZZMVJBNW02Y1JiQUlvUlAwN1RRODcyUWNydUtZbGxpVVdhZElfTERINDh6ZURJZll3M25weWk4UVFPczliQWZ0MkRUc09VTTQ0X1BMVDBDa0hMdzE0TjBlYmI3UkJpYl9KZDFYMTFsZ05jNnd0Zm9wUHEwTlJObUEycG1BNTVqVTVQWjl5NnJqdEE?oc=5",
-          "pubDate": "Wed, 29 Jul 2026 10:50:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Trump's attacks on mail balloting and concerns over delays turn midterms spotlight on Postal Service - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPX0swbWFqVE5RTnFTbU51Z1JuMVJGazlkdjg3cDVOazh2UkxRTXh5Z2g3TUhBUjNZLUFGeTc2b0VRRGMtcTJ3NllJRlNkYldhVVlKYWxFZC04QmQtbTN6RFhDQmZVdlNWdWZmbENRU2R0T2xVclBDTHlHWnVrTzVvdkpRU3FqcXpSdnk3Q1h3bnRpUGk0NTRjUnltQ3VmQWJHZmJMWQ?oc=5",
-          "pubDate": "Wed, 29 Jul 2026 10:30:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Fringe Israeli settler group is sneaking into Syria to try to claim land for a Jewish outpost - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTndXODBoWHFqNjZlamRBMnljd0tDODNYZEhiQzRpcEdhSmE1YmtyUThRV0Zvd3NkUDBWS0FYNjhFdFRFWjVvTm9MNTMweGVHSTFfbHNNcnhFbW5IcEZWYXBXeGZETkZhRkg4Ylo2NWo4WjVXQ3gwbWx2UUJWZUE1R0R3NDdkeFRUbGNOZ3JJTlVlajBkUGExTXRlVDZLOHJIREpLMEgwaXg?oc=5",
-          "pubDate": "Wed, 29 Jul 2026 10:19:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Anthony Fauci again faces questions from Senate Republicans about pandemic origins - AP News",
+          "title": "Fauci invokes the Fifth Amendment and declines to testify in GOP-led Senate panel's COVID-19 hearing - AP News",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUm4zZnVKRG1VMWlkQ0ZlaXJnaGJmVks3UTNmQS1BQksya2d0R0pTQUl0M0tZb1dFVS04OXRJSmV1UE4xczhKaWZYbDNXWVUzU0RfNGVyS0lPOU41SkVlRkVyeko2eVN4U2h0UVJkRXNvblhlTTI1Qlo1NzEzWVVBOFlVWTdNMXBSOS1RWk5YZU9WZUs0ZTJERHZZRXJfei1G?oc=5",
-          "pubDate": "Wed, 29 Jul 2026 09:03:00 GMT",
+          "pubDate": "Wed, 29 Jul 2026 14:15:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Lindsay Clancy’s ex-husband resumes testifying about the day she killed their 3 children - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUVV0U3ltZVhVdW9EVWVTMHVmbm9qSTFuUGdMVS1fX3prNDN1Q25pOXRfR1JuRkNlWWZ4OEJTMWdlRVoydkZGNkJoT203djlXVTdWVlJWSkVUdXVUaXN3RDV6UC1mYzM2emxWWnY5U1J5OWlrRkxlOU40dFVmZlVsUG4tZ20wVlFHc3l2aDFXLWtGa0g0TmdWSTdPMnhTUklFU0czZlh4cmhYYWo2?oc=5",
+          "pubDate": "Wed, 29 Jul 2026 13:52:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Rescuers search for survivors after a 7.1 quake kills 18 in southwestern Japan - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWmZaS1lXNXVXM3BxTlZRZ181alZzT2V3a0FxOFg3VVR2MUcweEtTT29Zb0pLVUdYY295R1VyX3NSVUNweE9iSEpaMURSR3NiV0k5LTM4RTVFS00tZVBfTDB1S0xxV2gtTU1aYjR0RXE1MU5GM2FPbXpMRXUtWmpORkEyNTZTeWJvTGtFUk1kcWFtelBUbV9qa1o5elRpYXpLNlZXXzFWRjJZZ0tf?oc=5",
+          "pubDate": "Wed, 29 Jul 2026 13:14:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "France battles wildfire 4 times the size of Paris as tinderbox heat threatens new surge - AP News",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQXlyZVBWRGZZNXU0WjBMZ01TWjh2a2tYcjlERk02Z1RWa0ZmV3ZTSmQ3eG9JVnJCSHdEWTZMT09RN005b3NTUG1TdmhKUS0xZ3FRMlpsRUNVd2FiNmZIdzRrZExlQ3B4NTBReUFBbUhzeWJod3VJeVJzLUZvMEJIVkNRbU5FOER5OElSOER6NmR4SDB4eFE1VzB4amFrSExFQk9sUTdITTQxVW1uLVp6VFJLWnpzbUU?oc=5",
+          "pubDate": "Wed, 29 Jul 2026 13:06:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-07-29T12:31:05.125Z"
+      "updatedAt": "2026-07-29T15:11:12.290Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Oscar-winning Irish musician Glen Hansard dies in motorcycle crash - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObGw5bUF3TmNmVXVIbm9JbUtmbURVTnlybXpnY3RXbnN0dnk2OFJIck9Ea1hNem9oMFFNbTNJRjREc1pvODd4bnlIU2tLdWJ6Q2lTRkZxRV9pbE1NdFlmNFBZaURGU04xUW1NTFdjUlo2RVp5UV9FcW80X3ZzT2lUT1hFNFRub1Z1ZThxQncxZl9OQUI1RXpFb01ZWmRaZ1RqZmFWWHVjYjB6aXlhanFoZ2w3RE9KQnltcEJaekFtVUdaMmxEVzAxZnctMEprNmc?oc=5",
-          "pubDate": "Wed, 29 Jul 2026 11:53:29 GMT",
+          "title": "NextEra, Brookfield plan $100 billion data center at Kentucky uranium site - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPU2FOb2YxUGRraFUwbk5LU3hWVFVoRkVEQWI0VlVDenhGak1wWnA4RjBUSlpzQml5bEhEdFFTWGYtWWRkb2h6VGN6LS1DcktNRm02aTliZ2ZhX2tqUVowcmdDb3hnX2E5V05rQlNCbHYyLWxNX3h3UEloMUI0LU9KNDlxUnFhZ3JBb3ktdDNhZG5nZHVrb1d0aUVCdzBXZEJBLVJtLVdLYnZVM2xJSzE0ZWJGcENWNjlVdnRYclpBbFBjclhpYWVNN21R?oc=5",
+          "pubDate": "Wed, 29 Jul 2026 14:54:26 GMT",
           "source": "Reuters"
         },
         {
-          "title": "S&P 500, Nasdaq futures edge higher ahead of Fed decision; chip stocks wobble - Reuters",
+          "title": "Fauci invokes Fifth Amendment, declines to answer at Rand Paul hearing - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUTRiR2lOSXFrbDN1ckU5bW9fZ3BqUmNnb1J0UVdlMlp4M1V6Uk1RMmhRS2R5RktRV0FVNU51LVlSUjNReFkzbHRrQjVYLVYyU3ZWOG85SWQxb2tLTEdRVmd4bmtRZDlRMDVGb0IxRWNZclFZc3Jjb3liejQ3S2xFc25Ra2plcWdKTm95ZGlBa0hhUnRCcGF5ODRjRU9ZdUVlM0c0dFNxVnRySGYzVDBKVUttZkNVRWVacmUxbGotZVdlWmR6Q2RYVi1MbDA3QQ?oc=5",
+          "pubDate": "Wed, 29 Jul 2026 14:41:35 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Wall St falls before Fed verdict; chip stocks wobble - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYTBjTkgxdmttOW1mOFd3NHRiOHNOdEhqMG12bzU1WWVOcm1pTGNuazF6OGU2VkJya1dZd3lKSXRmZ0V3NFJ6eXJGbGk1SzgtQ2E1NzI0YmJQZk9uZ1lmWTZqNHpEY3lrYVZtYlNIYXllOWNYUDdxT1owV3FnX1ZUNHdyMGN4VlM0QVZpbV9PYzkzT1ktVXZLRWx6dmMtNnRIMnVIUzBfakZmMl9kS25ldGQxbw?oc=5",
-          "pubDate": "Wed, 29 Jul 2026 11:38:00 GMT",
+          "pubDate": "Wed, 29 Jul 2026 14:27:01 GMT",
           "source": "Reuters"
         },
         {
-          "title": "After the quake came the blast: Inside Japan's shopping mall disaster - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbUlpWmt0VXRMT2dCakd5YVQ0QWMzMk5PdnFLNTJfZXJEdHp5eE5VdFZUY0RRYm5GSFdiX0c1OG8zMzkzN0xkV3JQUVh2VjV4OXIyWFphR01qR1pNNUJXOXVVZmIwWWVBQ2dBMVN0eU5jTzF2ZXBJcTQ4YkJPR2hJR1AtZmNGMzFSMDl1RGlpUVBhTElfTlJkVGM1amxFZ1pHdTBXRFdtLTcwaTJUSlA3WXZQU3Y?oc=5",
-          "pubDate": "Wed, 29 Jul 2026 11:22:55 GMT",
+          "title": "Major wildfire stabilises in central Spain but rising temperatures bring new alerts - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZjdnd1liNzN4a2g2cnJyczdiSFVoY3lEMEVUb2hmVDhmQUVhc1pyYUx4N0NKd0FBcWhvb2FlNlY2UGZRbGQ2aENOT2lzbVBvM0NiUEpiMGtVa1VuT25BOFhIcW9tYi1rY25DV2xzdXpIcF9yQ3JLNmp5TmhOSnYwcGFnckF2TGI2M2lJSlVwSmZ5cVpSOC1KaFZOY3JxOHRod3VrWkdTaW5kbjM5dUNHaTBELWdSZU05?oc=5",
+          "pubDate": "Wed, 29 Jul 2026 14:19:43 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Stocks muted as investors count down to Fed verdict, tech earnings - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1UQ0pPSFVQOVM0dWVQbmRmR3Nrdm9hUG4xLWR6bEVza0FyMVFxdXIwMm9LMXA2azA3c1Baa295M1RwUTJMRTBRc0FLWHdWOUNzUHl0M2hGUVNtWDgwSWt2NU5hYWlrT3ZIOUI5dkRMb3c3WTEwRzBaMzNVQQ?oc=5",
-          "pubDate": "Wed, 29 Jul 2026 11:20:13 GMT",
+          "title": "US Democratic lawmakers press SEC to probe Trump Media's fast feed - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdmtBOGJJcnozSzc2SGJnVUgxN0xiZ2JZMHlKTGlzTVJpWThKZ3pheUVDOHdEWkdWT2NsMkRqaW5kY3lDNXVnakEtMk1rTFFmNHBIdXhjd1N4Q0xsT2JEYXRsY3QtclhHVXdNU0hwaFhCUl91UG54ZU9oRUw2ZjFnVGJIa05aYlRhSk8wY0hJRXN5bTc3eXZVZnVGQi12bEswNi1nTnc5a3lzX1BBSnlydmJacHk4UQ?oc=5",
+          "pubDate": "Wed, 29 Jul 2026 14:07:06 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Daily Mail seeks interim $13 million payment after Prince Harry loses lawsuit - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOU9SR2ZTSnhOQmtIVkJkNDZYenFUUlpmSVltSXROeVU3X2hkX3duN25YYUllTktTTGhTeF94Y3dCemxSX3ZvV2lRYlNQVFJuTFNBdWxQdUU4ajNpUFp3dXBJRV9RaU8yM3BFUUloWkt3eDJJS0V2bl9lamdNZ0VSUGFlR2plR3p1MV9HQnp3UlRPVkg3RFNaU0lhbVFtRkZYcDZLUUlRYkZsS3dQd1hieGUwbzFWemhhbnBHWkdFWWVGTHBTS0pNcA?oc=5",
-          "pubDate": "Wed, 29 Jul 2026 11:17:46 GMT",
+          "title": "Oil jumps nearly 7% on escalating Middle East airstrikes - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPd0ctWlZRN0hINkdrNUJmWWxpV0ZGNGw2Y2taRk1DbFBpdzd5bFdXQmJEcW9VRExnRFBtTWlTTHBRTU5tcDN2azF6VmtxdDN6WlVncmJxSVJhYjM4Wlctb3NEcnEzSWt4djdPSWJJX3ItYmpaN0UyZ09pbV85YjlRMkQ4RTV2RDE2c2NhYlRTdEVEUUFoWEVLMVBqUzhhX2xtVlJLUFp0RWFZTFpCSGJwMTRydUQ3NUx6ejJyYWFCdzBMVWpOYWZqbzF3?oc=5",
+          "pubDate": "Wed, 29 Jul 2026 13:56:15 GMT",
           "source": "Reuters"
         },
         {
-          "title": "US diners avoid restaurants as cyclosporiasis fears cut lettuce sales - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSjRPUVN6dVlSUjI2N09Tb0RoRzNCN3NySHlhQUc5Q3lKaFFtT081dGVSSEtDaGRQTzU4RV82RUtxeVFXclY1T0tWRUVpSzdmVzFwZW1XQlNsenRXU2N0enpCbFRBWVJFaUN2VllUWHRQNGx1cFRpbFZrTXVKQzBiNnlmbGtsRFRjNHRhVTV4cVNoX0ltNjJQTl9ubUJxei1GOERiVVZvVHk2YVctbTRhRkl4enhoTzZDbVJV?oc=5",
-          "pubDate": "Wed, 29 Jul 2026 11:09:18 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "SoFi lifts 2026 revenue forecast as member growth, new loans hit records - Reuters",
+          "title": "SoFi's unchanged profit forecast tempers record quarter, revenue outlook lift - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQME54cUN2V1ltTkdIR2E3QUZsNGptVlJpclIxd1NpMlA3MEMtS3FFVHpOODNVenFRMVVpRE1yamFnVjcwWGI4VThyOEEtSkQweHhXaVZob29CQlZ2UWdRNlNXbVd4cmhEOWVKLUd3VkZKRkd4MWxVRVlWOHBxZ0tNeXppZm10d1ZONEJQVXhGMjdiM0Y2Y3lKZndIZndCWG5LRU1CbnduMFBQUXZCYVo2ekNkMVN2M0ticE92TVp6YUlqdw?oc=5",
-          "pubDate": "Wed, 29 Jul 2026 11:05:27 GMT",
+          "pubDate": "Wed, 29 Jul 2026 13:37:58 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Apple set for strongest June-quarter sales growth in 5 years - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZW5OMTZJaTdoN2ItUzRBN1pXUmg0Mkhfbld2djB4RHhCRlpMbnJDTVl5OE9MMExmd3I2U0NQY01mSFZpamZrczVJSGJpdGtFMlVYSGEzSnFRRTY1RTJQWnRINEU2VU1kaHhKSm1vYk9FRTVVZG00cWZfckQ3akdCUFk1LUZKTFgxenpPb19vMkJrRUJaa1FNektvVUJIem9WejB6bUpONVBFOWJVM2Rhc0E3aHY?oc=5",
-          "pubDate": "Wed, 29 Jul 2026 10:59:02 GMT",
+          "title": "Trump to unveil $22 billion plan to remake Washington Dulles airport, sources say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZXhHaHYtMVE2OUdfRHZTUlhoTnpFNHZ6TXBKdV9IVjRYVklkNHJZYVpsWUJEdHpfeFpZNkZNX3plYmFWaVU1a3haQmEwcWV5Vjh4NGlvcEVnTEhqdTl4VkdsZnI2NXpMaFQzLUJSaUNpX2RmY0t5dzNjZ2VXeEhKZUZMcmJ4dmxvU3NOUGRnc2JYdFJFMTVaSXNrWHM0Y0ZFWlBXNkVuVzNrdw?oc=5",
+          "pubDate": "Wed, 29 Jul 2026 13:29:45 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-07-29T12:31:05.596Z"
+      "updatedAt": "2026-07-29T15:11:12.773Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-07-29T12:31:05.817Z"
+      "updatedAt": "2026-07-29T15:11:12.868Z"
     }
   ]
 }
