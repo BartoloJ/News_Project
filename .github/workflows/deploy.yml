@@ -3,6 +3,13 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches: ["claude/daily-headlines-sports-site-v1q3fq"]
+  # A push made with a workflow's default GITHUB_TOKEN (like the commit
+  # update-headlines.yml makes) does not trigger other workflows' `push`
+  # triggers — GitHub's built-in loop prevention. Without this, a fresh
+  # headlines.json would sit committed but never actually get published.
+  workflow_run:
+    workflows: ["Update headlines"]
+    types: [completed]
   workflow_dispatch:
 
 permissions:
@@ -16,12 +23,15 @@ concurrency:
 
 jobs:
   deploy:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.workflow_run.head_sha || github.ref }}
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
