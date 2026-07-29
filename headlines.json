@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T04:27:55.696Z",
+  "generatedAt": "2026-07-29T04:34:28.535Z",
   "sources": [
     {
       "name": "BBC News",
@@ -7,7 +7,7 @@
         {
           "title": "Iran and US trade strikes, shattering brief lull in fighting",
           "link": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 29 Jul 2026 02:47:28 GMT",
+          "pubDate": "Wed, 29 Jul 2026 04:30:08 GMT",
           "source": "BBC News"
         },
         {
@@ -54,7 +54,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-07-29T04:27:54.277Z"
+      "updatedAt": "2026-07-29T04:34:27.124Z"
     },
     {
       "name": "NPR",
@@ -109,7 +109,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-07-29T04:27:54.575Z"
+      "updatedAt": "2026-07-29T04:34:27.460Z"
     },
     {
       "name": "AP News",
@@ -164,7 +164,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-07-29T04:27:55.085Z"
+      "updatedAt": "2026-07-29T04:34:27.961Z"
     },
     {
       "name": "Reuters",
@@ -173,12 +173,6 @@
           "title": "Oil rises as US-Iran tension escalates after Iraq strikes, missile attack - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPd0ctWlZRN0hINkdrNUJmWWxpV0ZGNGw2Y2taRk1DbFBpdzd5bFdXQmJEcW9VRExnRFBtTWlTTHBRTU5tcDN2azF6VmtxdDN6WlVncmJxSVJhYjM4Wlctb3NEcnEzSWt4djdPSWJJX3ItYmpaN0UyZ09pbV85YjlRMkQ4RTV2RDE2c2NhYlRTdEVEUUFoWEVLMVBqUzhhX2xtVlJLUFp0RWFZTFpCSGJwMTRydUQ3NUx6ejJyYWFCdzBMVWpOYWZqbzF3?oc=5",
           "pubDate": "Wed, 29 Jul 2026 03:20:44 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Trump says meetings with Zelenskiy and Netanyahu were positive - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNk40d25GbEFLaXNXdzJVWFVNZ0Y0cHBFSW0xT2p3M09Vd2ZEaktDYVQ5MVJaYW80a1ptaHJacFlDQk5yWHh0b084dlFfc0NYZThwYVQ2RzdPRGFWelFJQTdOd2FQemtoRmRzZTRpT0dlc09DbGdmRkM3RmhqMjk1c1JIOF9IYi1MWjZXRHZDVkUtQWI2ck82YkRBNVZ0Wkl3Y00tQkFR?oc=5",
-          "pubDate": "Wed, 29 Jul 2026 03:05:43 GMT",
           "source": "Reuters"
         },
         {
@@ -194,15 +188,15 @@
           "source": "Reuters"
         },
         {
-          "title": "Japan quake toll rises to 13 as rescuers haul people from collapsed mall - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSk5HS2lsMDFmVFM5NUIweFRwRkJLMWZKUWd2NG95WUVFdEFXWnpMeWJEZEVDbndzSEdrLWZtaUh5RXJ0U1FiS3RfRHNoMzFiVXc2NVFEYktIQk5RTmFfdjhqTU9UNjVFb1JpcTFTZWc2bzROM2FxSTJkdVpLRUFDVnVvTUxKY2xyLVBsbnFiandSX0haQzNUVzR3ZE1XYjd5aUtYbkhOYXl5ZjB4NHlVd01vVzlBQnc?oc=5",
-          "pubDate": "Wed, 29 Jul 2026 02:45:17 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "Meta's Zuckerberg warns against curbs on Chinese AI models, FT reports - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNGM3TlNxUEczUHdxRW5fUWYwM3g0YTNVR01kQURibVZtbEtPY1VWRUk1MmhVV0J1QjlVc05nSTFUM2dPcDBKT3BXa3pUZ0xmTUJ2TWJBcGRfNXMwMVotZjNhdVJGeWZIemVQTm1XelUyZ0tkMXFLVHVydEo4OTNFRnRLUVA0aE5mLW1CRWc2Y3FpY2dmd1J2c0xTZXplZUVKX1paR09fSzZMbTZfVkg3N0dFMnZ3aW5pOFE?oc=5",
           "pubDate": "Wed, 29 Jul 2026 02:34:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Japan quake toll rises to 13 as rescuers haul people from collapsed mall - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSk5HS2lsMDFmVFM5NUIweFRwRkJLMWZKUWd2NG95WUVFdEFXWnpMeWJEZEVDbndzSEdrLWZtaUh5RXJ0U1FiS3RfRHNoMzFiVXc2NVFEYktIQk5RTmFfdjhqTU9UNjVFb1JpcTFTZWc2bzROM2FxSTJkdVpLRUFDVnVvTUxKY2xyLVBsbnFiandSX0haQzNUVzR3ZE1XYjd5aUtYbkhOYXl5ZjB4NHlVd01vVzlBQnc?oc=5",
+          "pubDate": "Wed, 29 Jul 2026 01:27:00 GMT",
           "source": "Reuters"
         },
         {
@@ -216,10 +210,16 @@
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaFdMVHoxTjY4QlIyd0phejJIRTFXTTlUQVFjT1ZCRkMtWFcyU055a1hrMGItMk16SklJWFctSXpJTk1XQmZkbThTd00yLXJfUEVVLTlWRGgyYjJsbTREWk1lTk02RWdjM0FjeDhlRlN0NE1qZU1qX1FYdWJJYXJFMkU3cmFBbkh0Y25MUnpYQm1KZ00xR2tDWFo3cW5tSWlXTi1vZGh2SHowby1oWmJ1cUZWNnJwT2VpSXNtOUNUbE5fVE83b1EtQkxLVTVMQQ?oc=5",
           "pubDate": "Tue, 28 Jul 2026 23:47:02 GMT",
           "source": "Reuters"
+        },
+        {
+          "title": "American Airlines resumes flights after IT issue forced brief nationwide halt - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQS3BxLXZmR09KZlFlRWxlZDZJakZPZ0JQTXJrS2RSZzZxT09GVVd6czJzcEQteXNQVW5LLVdPbkFWMGZzU0xwejBHZ0E2T2lsbklwVFFxUERTSkt4czVkd18zSzQwdC1xa3ZOdnQxakdsRDVpeVNJOF9JNWI4WnVxdEJPWGp5bk1oUmRwbW1LbG1LTjBBSTVWb2lVcC16M25aT3R4MGliNHA0Q1lJ?oc=5",
+          "pubDate": "Tue, 28 Jul 2026 23:46:00 GMT",
+          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-07-29T04:27:55.505Z"
+      "updatedAt": "2026-07-29T04:34:28.351Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-07-29T04:27:55.696Z"
+      "updatedAt": "2026-07-29T04:34:28.534Z"
     }
   ]
 }
