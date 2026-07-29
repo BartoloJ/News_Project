@@ -21,8 +21,11 @@ const CORS_PROXIES = [
 // was unreliable — not because of the specific query, but because Google
 // appears to block/rate-limit requests to news.google.com coming from these
 // free CORS proxies. ESPN and NPR's own domains aren't affected the same
-// way, which is how this got isolated. BBC, NPR, and WSJ use their own
-// direct feeds (reliable, no Google dependency).
+// way, which is how this got isolated. BBC and WSJ are back on their own
+// direct feeds (reliable, no Google dependency). AP News and Reuters don't
+// have a working direct public RSS feed anymore (both retired theirs years
+// ago) and can't be included reliably without a paid news API — see the
+// README for that tradeoff.
 const RSS_FEEDS = [
   // Must be https — the page itself loads over https, and browsers block
   // fetching plain http:// resources from an https:// page outright
@@ -30,18 +33,6 @@ const RSS_FEEDS = [
   { name: 'BBC News', url: 'https://feeds.bbci.co.uk/news/world/rss.xml' },
   { name: 'NPR', url: 'https://feeds.npr.org/1001/rss.xml' },
   { name: 'WSJ', url: 'https://feeds.a.dj.com/rss/RSSWorldNews.xml' },
-];
-
-// AP News and Reuters retired their own public RSS years ago and have no
-// reliable free-proxy path (see above), so these two go through NewsData.io
-// instead, using a free-tier API key. Unlike everything else on this site,
-// this key ships in plain text in this public file — there's no backend to
-// hide it behind on a static site — so treat its quota as shared across
-// every visitor's page load, not just local testing.
-const NEWSDATA_API_KEY = 'pub_bbd786d90d2c4ca1b07685fcc480ecf5';
-const NEWSDATA_SOURCES = [
-  { name: 'AP News', domain: 'apnews.com' },
-  { name: 'Reuters', domain: 'reuters.com' },
 ];
 
 // Grouped by sport so the site stays organized even on days when only one
@@ -135,20 +126,6 @@ async function fetchFeedItems(feed) {
   })).filter((it) => it.title && it.link);
 }
 
-async function fetchNewsDataItems(source) {
-  const url = `https://newsdata.io/api/1/latest?apikey=${NEWSDATA_API_KEY}&domain=${source.domain}&language=en`;
-  const data = await fetchWithFallback(url);
-  if (data.status && data.status !== 'success') {
-    throw new Error(`NewsData.io error: ${JSON.stringify(data.results || data.status)}`);
-  }
-  return (data.results || []).map((r) => ({
-    title: r.title,
-    link: r.link,
-    pubDate: r.pubDate,
-    source: source.name,
-  })).filter((it) => it.title && it.link);
-}
-
 function dedupeByTitle(items) {
   const seen = new Set();
   const out = [];
@@ -161,11 +138,6 @@ function dedupeByTitle(items) {
   return out;
 }
 
-const HEADLINE_SOURCES = [
-  ...RSS_FEEDS.map((feed) => ({ name: feed.name, fetch: () => fetchFeedItems(feed) })),
-  ...NEWSDATA_SOURCES.map((source) => ({ name: source.name, fetch: () => fetchNewsDataItems(source) })),
-];
-
 const HEADLINES_PER_SOURCE = 8;
 
 async function loadHeadlines() {
@@ -175,25 +147,24 @@ async function loadHeadlines() {
   // free services, and firing all feeds at once appears to overload them
   // enough that some time out while others succeed in the same batch.
   const results = [];
-  for (const source of HEADLINE_SOURCES) {
-    results.push(await source.fetch().then(
+  for (const feed of RSS_FEEDS) {
+    results.push(await fetchFeedItems(feed).then(
       (value) => ({ status: 'fulfilled', value }),
       (reason) => ({ status: 'rejected', reason })
     ));
   }
 
-  const bySource = HEADLINE_SOURCES.map((source, i) => {
+  const bySource = RSS_FEEDS.map((feed, i) => {
     const r = results[i];
-    const feed = { name: source.name };
     if (r.status !== 'fulfilled') {
-      console.warn(`Headline fetch failed for ${source.name}:`, r.reason);
+      console.warn(`Headline fetch failed for ${feed.name}:`, r.reason);
       return { feed, items: null };
     }
     const items = dedupeByTitle(r.value)
       .sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate))
       .slice(0, HEADLINES_PER_SOURCE);
     if (items.length === 0) {
-      console.warn(`Headline feed for ${source.name} returned 0 items — the proxy may have returned a non-XML response (e.g. a redirect/consent page) instead of the feed.`);
+      console.warn(`Headline feed for ${feed.name} returned 0 items — the proxy may have returned a non-XML response (e.g. a redirect/consent page) instead of the feed.`);
     }
     return { feed, items };
   });
