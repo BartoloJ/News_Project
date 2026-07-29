@@ -11,12 +11,6 @@ const CORS_PROXIES = [
 ];
 
 const RSS_FEEDS = [
-  // The plain news.google.com/rss?hl=... aggregator feed has been unreliable
-  // through the proxy chain (likely a region/consent redirect returning HTML
-  // instead of XML on some requests). The /rss/search variant, already used
-  // for AP/Reuters below, has been consistently reliable, so use that same
-  // pattern with a broad recency filter instead.
-  { name: 'Google News', url: 'https://news.google.com/rss/search?q=news+when:1d&hl=en-US&gl=US&ceid=US:en' },
   { name: 'BBC News', url: 'http://feeds.bbci.co.uk/news/world/rss.xml' },
   { name: 'NPR', url: 'https://feeds.npr.org/1001/rss.xml' },
   { name: 'AP News', url: 'https://news.google.com/rss/search?q=site:apnews.com+when:2d&hl=en-US&gl=US&ceid=US:en' },
