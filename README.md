@@ -2,17 +2,33 @@
 
 A one-page site showing:
 
-- Today's top headlines
+- Today's top headlines, grouped by source (Google News, BBC, NPR, AP News,
+  Reuters, WSJ), each collapsible independently — so one source with a big
+  feed (looking at you, Reuters) doesn't crowd out the others
 - Yesterday's sports results
 - Today's scheduled games and local start times
+- Tomorrow's scheduled games (collapsed by default, to keep the page from
+  getting crowded)
 
 Sports are grouped by category — Football, Basketball, Baseball, Hockey,
-Soccer — covering NFL, NCAA football, NBA, WNBA, NCAA men's basketball, MLB,
-NHL, and the Premier League, Champions League, Europa League, La Liga,
-Serie A, Bundesliga, Ligue 1, and MLS. Every category is always shown, but
-one with no games that day auto-collapses to a single-line header instead
-of taking up space; categories with games stay expanded. Each of the three
-main sections can also be collapsed/expanded by clicking its header.
+Soccer, Combat Sports — covering NFL, NCAA football, NBA, WNBA, NCAA men's
+basketball, MLB, NHL, the Premier League, Champions League, Europa League,
+La Liga, Serie A, Bundesliga, Ligue 1, MLS, UFC, and boxing. Every category
+is always shown, but one with no games/fights that day auto-collapses to a
+single-line header instead of taking up space; categories with action stay
+expanded. Each of the four main sections can also be collapsed/expanded by
+clicking its header.
+
+Team and fighter names show their full name (e.g. "New York Yankees", not
+just "Yankees") and link out to that team's/fighter's real ESPN.com page for
+full stats, roster, and schedule — rather than this site trying to build
+and keep a second copy of that in sync.
+
+Golf, tennis, and motorsports are intentionally not included: those are
+multi-day leaderboard/tournament formats (ranked fields, no single "final
+score" pair), fundamentally different from the daily match schedule this
+site is built around, and would need their own leaderboard-style UI to do
+properly.
 
 ## How it works
 
@@ -20,11 +36,17 @@ This is a static site (`index.html` / `style.css` / `app.js`) with no build
 step and no API keys. All data is fetched client-side, in the visitor's
 browser, each time the page loads:
 
-- **Headlines** come from public RSS feeds (Google News, BBC, NPR, and
-  AP News/Reuters via Google News site-search), fetched through a CORS
-  proxy — trying a direct fetch first, then falling back through
-  `api.allorigins.win`, `corsproxy.io`, and `api.codetabs.com` (whichever
-  responds first) — since browsers block direct cross-origin RSS reads.
+- **Headlines** come from public RSS feeds: BBC, NPR, WSJ directly, and
+  Google News/AP News/Reuters via Google News search (Google's plain
+  aggregator feed was unreliable through the proxy chain — likely a
+  region/consent redirect returning HTML instead of XML on some requests —
+  so all three use the more reliable `/rss/search` endpoint instead).
+  Fetched through a CORS proxy — trying a direct fetch first, then falling
+  back through `api.allorigins.win`, `corsproxy.io`, and `api.codetabs.com`
+  (whichever responds first) — since browsers block direct cross-origin RSS
+  reads. A feed that fails, or returns zero parsed items, logs a warning to
+  the browser console for debugging and collapses to a one-line header
+  instead of breaking the page.
 - **Scores and schedules** come from ESPN's public (unofficial, unauthenticated)
   scoreboard API, fetched directly since it already allows cross-origin
   requests.
