@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T11:55:40.215Z",
+  "generatedAt": "2026-07-30T14:22:43.753Z",
   "sources": [
     {
       "name": "BBC News",
@@ -7,7 +7,19 @@
         {
           "title": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
           "link": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 30 Jul 2026 11:48:50 GMT",
+          "pubDate": "Thu, 30 Jul 2026 13:38:50 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Thousands evacuated in Crete as Europe battles wildfires",
+          "link": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 30 Jul 2026 12:46:16 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Pesticide-sprayed tomatoes suspected to have killed 15 elephants in Kenya",
+          "link": "https://www.bbc.co.uk/news/articles/cp9e0v5xmdyo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 30 Jul 2026 12:14:00 GMT",
           "source": "BBC News"
         },
         {
@@ -35,30 +47,24 @@
           "source": "BBC News"
         },
         {
-          "title": "Thousands evacuated in Crete as European wildfires continue to rage",
-          "link": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 30 Jul 2026 09:10:11 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Trump considering AI controls after OpenAI hacking incidents",
-          "link": "https://www.bbc.co.uk/news/articles/c20dppq3y90o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 30 Jul 2026 07:23:11 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Australia takes Telegram to court over alleged failure to remove 'pro-terror' material",
-          "link": "https://www.bbc.co.uk/news/articles/crmrv4pnexmo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 30 Jul 2026 03:03:12 GMT",
+          "title": "Three children among eight dead in Russian strikes on Ukraine, officials say",
+          "link": "https://www.bbc.co.uk/news/articles/cy8mk59l5jzo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 30 Jul 2026 09:21:55 GMT",
           "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-07-30T11:55:38.971Z"
+      "updatedAt": "2026-07-30T14:22:42.721Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Alien Terrorist Removal Court to hold its first-ever hearing after 30 years",
+          "link": "https://www.npr.org/2026/07/30/g-s1-136289/alien-terrorist-removal-court-isis-terror-plot",
+          "pubDate": "Thu, 30 Jul 2026 09:10:45 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Sen. Paul threatens to hold Fauci in contempt. And, a new rule undercuts U.S. asylum",
           "link": "https://www.npr.org/2026/07/30/g-s1-136285/up-first-newsletter-anthony-fauci-covid-asylum-rule-medicare-drug-plan",
@@ -72,14 +78,8 @@
           "source": "NPR"
         },
         {
-          "title": "Congress hasn't passed AI rules for schools. So these 98 teens did it themselves",
-          "link": "https://www.npr.org/2026/07/30/nx-s1-5853571/students-set-ai-policy",
-          "pubDate": "Thu, 30 Jul 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Digital habits that rob attention and energy — and how to combat them",
-          "link": "https://www.npr.org/2026/07/30/nx-s1-5891818/digital-habits-that-rob-attention-and-energy-and-how-to-combat-them",
+          "title": "Pediatricians and health officials are sidestepping Trump's CDC on vaccine advice",
+          "link": "https://www.npr.org/2026/07/30/nx-s1-5866740/pediatricians-health-officials-sidestepping-trump-cdc-vaccine-advice",
           "pubDate": "Thu, 30 Jul 2026 05:00:00 -0400",
           "source": "NPR"
         },
@@ -96,130 +96,130 @@
           "source": "NPR"
         },
         {
-          "title": "Pediatricians and health officials are sidestepping Trump's CDC on vaccine advice",
-          "link": "https://www.npr.org/2026/07/30/nx-s1-5866740/pediatricians-health-officials-sidestepping-trump-cdc-vaccine-advice",
+          "title": "The Trump administration has undercut the U.S. asylum program. These 3 charts show how",
+          "link": "https://www.npr.org/2026/07/30/nx-s1-5891889/trump-asylum-program-changes-charts",
           "pubDate": "Thu, 30 Jul 2026 05:00:00 -0400",
           "source": "NPR"
         },
         {
-          "title": "The Trump administration has undercut the U.S. asylum program. These 3 charts show how",
-          "link": "https://www.npr.org/2026/07/30/nx-s1-5891889/trump-asylum-program-changes-charts",
+          "title": "Here's how 'parasite' went from a laughing matter to a serious biological threat",
+          "link": "https://www.npr.org/2026/07/30/nx-s1-5909222/parasite-cyclospora-outbreak-odyssey-nolan",
           "pubDate": "Thu, 30 Jul 2026 05:00:00 -0400",
           "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-07-30T11:55:39.062Z"
+      "updatedAt": "2026-07-30T14:22:42.804Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Russian missile and drone strikes across Ukraine kill at least 8 civilians and wound dozens - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVnV5VmFlVUF0bkZUbjdIeHZqZUFXM3Npd0NlN1p6SDlJTGlLd0F1dWhUSjFnRUozNlc1MUx2eUw5d3BMSFJvX3pLYUpYNkkyaHNWWUVETV91Um5tbG5fOXpWS0h4cWV6MkZvN1o0UEd3b3FXbkpfaVVDbER4MTlidXVaM2FSY0hGYV91ekN6aW9mWmdZREt2ckVFOU9vMU41UlpHSVRB?oc=5",
-          "pubDate": "Thu, 30 Jul 2026 10:24:00 GMT",
+          "title": "US economy grows a sluggish 1.5% second-quarter with inflation remaining stubbornly high - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZUM3amF1MFUxODRGUWdydTZvZC1MS0Y4eVM5NzF3WWg2TUN5azdjWGJUZW1tc2pqMkhmbFRreXZ1VTNHNHRqdmg1a2ZHVHdDMFloVzRNMmd5SGhXdFMxdXBkV2tuMXY0X21pX0oxMHVwTHdWeU5pWmcwOUxWbEREUFhmOTc2UzFUQzRENkxBMHlodzZfRFV5VVVBVFdmLXROamEtNjBKbUtBM0dGNzNSS3ZJWTE5dw?oc=5",
+          "pubDate": "Thu, 30 Jul 2026 14:01:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "The US and Iran trade missile barrages as hopes dim for a quick resolution - AP News",
+          "title": "Father who gave his son the gun used in a Georgia high school shooting to be sentenced - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNR3h6WTB6MGE4MnpxcEt6Q1ZlejdBcDlGWFNCZEJTOWNLX2lqam1Fd1VoOW0xeTBpLW1CMHQ3WFhnVmMwdU54U0dOVDZzbXhGQlExVWQ5WjFEOFFCcnJaRnhCdlBHYWw3S0tvd0tNUEFSUzM0QlpvbWwyQ0Myc3FJRzlKODcxekpvQVRhUkZwbDBvTjMzbE5KcFY0M0ZEcVV0c3ZuTmlPcw?oc=5",
+          "pubDate": "Thu, 30 Jul 2026 13:38:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Russian strikes across Ukraine kill at least 8 and injure dozens more - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVnV5VmFlVUF0bkZUbjdIeHZqZUFXM3Npd0NlN1p6SDlJTGlLd0F1dWhUSjFnRUozNlc1MUx2eUw5d3BMSFJvX3pLYUpYNkkyaHNWWUVETV91Um5tbG5fOXpWS0h4cWV6MkZvN1o0UEd3b3FXbkpfaVVDbER4MTlidXVaM2FSY0hGYV91ekN6aW9mWmdZREt2ckVFOU9vMU41UlpHSVRB?oc=5",
+          "pubDate": "Thu, 30 Jul 2026 12:09:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Montana man hikes out of the mountains to get help after he was impaled by a trekking pole - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNTRpM3B2NWJGYkRkUjBEMmZmRTBoMlFtR1ZHUGtSTEJCV2hzR2JXWG1BLTBHVEVYQ2g3RC1wdzZpckdkczE2SmZzVkpwM0Nsa2FKVWM4OHdtRXNvUzZmX0I3UVZ3cEJjQjluS0Jpemw5R0ZiWHZxQ1BlTlVMMVU4LXQ0YXg1RzQxbGVpUC1hMDdjTFZ1eGhSeUc2MHNzRFU?oc=5",
+          "pubDate": "Thu, 30 Jul 2026 11:48:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "How views on Trump’s handling of Iran have shifted, according to a new AP-NORC poll - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY2prN282V24wLTlNdWt6TFM0VURZSjF5SktyblBSWmNPeGtidHNKd09ZVkdmMnlZS3hUbEJmWFE0NUVaVHAyVW5PX0lQY0Vqa19sVW83NWQyVW9qRXR4MGVyVVpPV3lEeVg3czR6UElsdG1ZSHZWXzRKcER2ZFBGM2ZBU3JLOUNhX3RQV0lpMmtHdjYtc1pIQ0lNLUFMX2dqUVlIc1ozdHdQQXVNRWc?oc=5",
+          "pubDate": "Thu, 30 Jul 2026 10:56:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "The US and Iran trade missile barrages as hopes dim for a quick resolution - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUnhRWEFZaDdpMkNfSDhNVmJ6NmxmQUxmZVlfZHJldjhpdVBLdnlaYzVOX3pYNE0wTkhyYmRjempCeDBMNURTejFDNlB5RThIYlhOOWlfb2xvbElYbEl4X3NhUlpYaWwwTkhxSDZSazdXMVc0ei1CYW4xakkzUENEb0tPRXJ4VktVVExvZGpTWnJ6azU5cjVEUmdPS3V0LUE?oc=5",
           "pubDate": "Thu, 30 Jul 2026 10:08:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Australian watchdog files legal action against Telegram, saying it failed to remove violent content - AP News",
+          "title": "Australian watchdog files legal action against Telegram, saying it failed to remove violent content - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYnZMNEdXZWNEUFh2LWpYb044X3NKdEJoR19kTElZTG0yWXpKdXh3eTRxRFBGOEZ3bGR5VVdxWnNVVUJKajRkWWlCMERFNWdMeUdMcXFQWGg0R2VaMWM2dHBIUXlNQWlfV1RScjlHZDlSUENZQlZSUlBWWmhtM1plZGtDUk9jbmRrenQ5ZnB1OG5aenNNc19kS1N1Vm9za3ZPUzl0eVd0RHQtNFljUll6MDE0TWFDLTUwcncwTV9GRQ?oc=5",
           "pubDate": "Thu, 30 Jul 2026 05:49:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Record-low Danube River affects tourism and industry as drought and heat grip Central Europe - AP News",
+          "title": "Record-low Danube River affects tourism and industry as drought and heat grip Central Europe - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOLWx6YnlNOUNGR0R6QnlpYUpNTWh5N0VtZERiM2tkQ0dfNVBESGNhWVJ5eUM1SnE1Zi1lWFR3ZElUVWdxaVVDRzlJSEh5NkpZdGVLQmk5VnhXRDVUVGpWcGpDVFZJM3lEX09Jd3VyVFJjM3FfTkoxa2Z2cTMyXzlCRUxEZVdvRC0zYXZLY2tUNEtSTjh6cmFOVFpkenpBSTU4NG1UOVZIZklUNER2OXc?oc=5",
           "pubDate": "Thu, 30 Jul 2026 05:01:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Small changes in Hanoi’s streets can mean big disruptions for those who depend on them - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT3JjVk4tLUoxOEdHSGxEeWx6S2duR0JrUUdZRW1ob1FYWlhsSEcydEUtaDA1VVFtcVUxTWRYN2FydG4yV2oxbFVfQl83LVNEZUQ1MV9xMUczWmt3X21faWdJR1FuWjU3c005STJueUNBcnpGSE9xWVZYT2hQY05GckF1WVhDV29FeEk1T01yMmRZRDhCbUZKcGxOWXZTeUFyTEtSQ09MWHk?oc=5",
-          "pubDate": "Thu, 30 Jul 2026 05:00:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Photos show the aftermath of a damaging earthquake in southwestern Japan - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQzJ5R2NIOEkxaUZRQTJuaWxiTnh3VGJTRTMtcFFIX2ZRWnVITklaNGpSNFNTT29Kd0NUTU5jU3VQV0VyYTVtV3MwRl9WTE9kLVRzRkhscEtFUHdsZEV3Y3dqZDlFcm5GRmtBTGZSWXUzTU95VFB1cGVQTFp3MUJRbVB4Njd1ajJPRjJGS1M1OEphTHBwbGpKdHJNRjE1dGc?oc=5",
-          "pubDate": "Thu, 30 Jul 2026 04:39:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "US-Iran conflict enters new phase as Saudi Arabia helps hit proxies and diplomacy stalls again - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNejFOUGJhMS1NdDJ2a0FsNUV0T29mUkcwUFI2TzA3anNMZ1NJQWp3eG42TFRIaHcwOUZvQURtSzdvaWZyckZNSm1peU9ZU2lvY3JDa3ZyNUUyb1RkMjh5Q1gwZ0VMUjdLY3R0MlN6V0t2ZFAzc0p0Y0NpZnk1MTBBcGpUSDUyM1pXM0pQVzFNemlLR0lDdGpRSW13?oc=5",
-          "pubDate": "Thu, 30 Jul 2026 04:12:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "US launches strikes on Iranian targets a day after it foiled missile attack on American forces - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcFZvamthZTNrZ0JiSDZZMVJBNW02Y1JiQUlvUlAwN1RRODcyUWNydUtZbGxpVVdhZElfTERINDh6ZURJZll3M25weWk4UVFPczliQWZ0MkRUc09VTTQ0X1BMVDBDa0hMdzE0TjBlYmI3UkJpYl9KZDFYMTFsZ05jNnd0Zm9wUHEwTlJObUEycG1BNTVqVTVQWjl5NnJqdEE?oc=5",
-          "pubDate": "Thu, 30 Jul 2026 03:47:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-07-30T11:55:39.495Z"
+      "updatedAt": "2026-07-30T14:22:43.261Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Israeli strikes kill four in Gaza, including two children, amid new ceasefire push - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNHh3eHRRcUdPRGdqS1ViTm1TTDE0NGQwQXZ6Ml82R3g2cVA2c1NLanFFVHpJZU81VENlQ3NaS0xvWmV4VW5HU0hyX2YzUWhZbFJGN3p0dHh5aG5PQ08zakhtZGZycVpFYVdOLVA1ZlVPNGJqZFNvZGhBZDI5QmxiNUlnTXpSWTV2ZFVMZ1BQeGR4Mmo2TWhTTXZrY1dnUmlDWGlCYzVRNXFMNjROdmIxYkY0OG1mWXZiMXFtM1NPcEVoVUllLUJQdVNKMjk?oc=5",
-          "pubDate": "Thu, 30 Jul 2026 11:09:25 GMT",
+          "title": "Bombardier tops profit estimates, free cash turns positive on private jet order boom - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPd0tFUXp2VmJyR0pZZHlWRXB3VjRjRVp2S0JkV2NQZ1hURlVBbWZVcTRUMWNxX2FYRGQyWlJYeU5Sb3BVMjhodUZubU5nTTh6aFdXUWxuR2xIdl90VVZ2bG9QZmlTLUJjZHZZVUxHTWxUWFJQSmliMHNaQ2VfRkhaRDM3alpXVUJjRThLWU0wb0ppVFc4WVFCMlBpVXFTNzRFUDVjOVlUZjg0NkFKYnM0XzJZbVRUMnhQa1lkNS02ZkZ2ZTlkQzFIY29KRTV3QUtn?oc=5",
+          "pubDate": "Thu, 30 Jul 2026 14:01:42 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Japan quake survivors battle thirst, heat as death toll rises to 25 - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcWdmOTMxcnhrQTh3bTRWZTd0UGpucnZLN1RFY1ZRdjBJSWNlbnF2TXdqZ3BQUnRDSml1cFh4MUJHb29aN0g3MHVxcDVwNjdYRmhHaFRFUEl0c0daMUViWi01UVgzdjVhTnV2M3pXeEplcVVLeGJ5NHBCWUwxaFd5Vkk3bWxXdTBfdVFOX0diT2d0SUtBcGVmQmphSXFFVGtYbThaaVY0cW5tbmw3ejBseGlwZ0t3UWFnQ1RQUkVB?oc=5",
-          "pubDate": "Thu, 30 Jul 2026 10:45:05 GMT",
+          "title": "US government map of Africa mislabels every country at global conference - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSzZBcWtKdy1HUGhMREFCa2tkX0tKODV3SDFqaC1tZVpDRG16SXJjYVBPMXNxb041NXlXWUxuZk5HOW4wc3FUclpBcmx2UzBOVzh6TWphZjVoRXpNTklyTGgtdkVDcWpkQ0VmcjNiTGFObG9WaWpscFI4YlY4RUxGVDRMQnI5Tzh5b2hwWWstUkRSajkzdXl4dFRXNVg5WWpIQXFJcldhZ3A4MTlaSW5Ndnk2Zlp4QQ?oc=5",
+          "pubDate": "Thu, 30 Jul 2026 13:56:40 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Meta's AI splurge lays bare its compute conundrum - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNemprX210eGVvOXJmbDNRYktRX1VDZl82aFBTZ05COUllQnFrdXJFOFBJMmZWTTJLRC1MWW5qZHViUWpGVERtVUloN3RRMC1LZk5NbDAtMHNwTDN3QklhZHRIRy1sRHpqZUwyZnFMNkNaQ1JyVUNFNFdNNFRzRlBvTVpBWFhQQThBNHk5UTFvbWJXRlpnNXNKTGVnZVp5N3k5aTlVZGpabUF3dEZyNXc?oc=5",
-          "pubDate": "Thu, 30 Jul 2026 10:41:44 GMT",
+          "title": "BP to cut 700 jobs as it simplifies company, internal email shows - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRWxTNkdVLTRIQS16YTBScFBMQm1ndlRmaHdUQWYzTXVuYWk1QnNodEl5dHo0RUhqNUs5eHg3cGs2YnAwMFBQN1Jpck83d291bDlCckhLZVMzZ0lpQjhKdGVJdzFraW5HbE95MUZfMHZWNUVLdmRCODV3UE9temFldmY1dXhVZVlHX092ZnBCRmF4LXE5WlUxZUNvQk1IcTg?oc=5",
+          "pubDate": "Thu, 30 Jul 2026 13:52:52 GMT",
           "source": "Reuters"
         },
         {
-          "title": "With fields destroyed and hives lost, Gaza's beekeepers struggle to start over - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQM3k4blF0YzM3UWhsTWZGOHV4dWZXNEdMX1lwRmVaWFBPWk0wMDlMcEN5WlhCd3JRVFRKVU9fdElOWU1VcFRwdXJZMTNoc2VtMVhyOV9nbHh0aWtvdTdJbHdqU0hoVm5yaURycnBRQkVvaVBORjJPVXh3b2hHUk5vSWwwTlNjdDhEVFZZZndYMnlMVS1GVUZhVTg5bnF3enJoUUJENEZ5RHRqcnJIZTc2Y1otdm5FWEZjQVdDeFg3WmM?oc=5",
-          "pubDate": "Thu, 30 Jul 2026 10:39:20 GMT",
+          "title": "Russia likely used N.Korean missile in deadly Ukraine strike for first time this year, sources say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYWM5NFpLa3p4OE1XZUMybkU4TDdyeWxjbTlEaXpUaUtJR1JUNngzd3AxNmgydElQNUc4aVBFS3V6N0FCcXZOTVV0a0tYQjl1dTVRTnZrNXdRaTh4aGVOR25hM0xvQ3hEWElrWWtjWGI0aWhwb28wbjJLMklKZEFQb1dzWVktU2YteVN3dW84MmpzdnRkUXlzZWxWam9COVVHZ1h5NkhFcXRvZi12SUx1S2hGcm93U1lkdmJNVXRDbUpYSjRIemlpX1NqaDk?oc=5",
+          "pubDate": "Thu, 30 Jul 2026 13:48:42 GMT",
           "source": "Reuters"
         },
         {
           "title": "Amazon, Walmart AI detect 'made in USA' fraud but do not flag it, study says - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSEZfOHgyQlRiaG9ucmM3YnBvSnZZaVgxWlA2TU5rWHFBdzBzSTF0MWtjVThYeXBadEtxekF1Q2dRLVNtanFrZko4cVV4czhOVFRhdU9UVld1aS1vc1pwWlFLcnc4Q2wwc2VhUWtuWEhBVXU1MkRLWWo2YXdadG1VaHlGUEJPNlROeXRHN3M1MDlqQU9zeGMteGRHWllNQ3dfQUZwNkVvOEptTDdERGpteEpLZ09JWGt5ZEx6VFo3YWdUdC1r?oc=5",
-          "pubDate": "Thu, 30 Jul 2026 10:33:44 GMT",
+          "pubDate": "Thu, 30 Jul 2026 13:40:51 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Samsung sees chip shortage extending to 2028, touts long-term supply deals - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeEFMZFc3WHBfOVFBR0JhTjNnd2dWdmpoSm9wSW1YNDc0S2FmemlKMWVZaDdPcjJTanc5a19BVHRnTGtMNlNfWFBvbHk1ZGM3YjlIb3lzVU52RUZQS0xDaHgybDFJVFhhUFhyT3NMa0E3bzY2T0M5ZU9PRHg0VklLS3R3d2o5eHVNcWdGdF9rNk1qS29VandoLTdReDV5T0pBR2phRHZiWks3U0hqdHktR2xsUUZMRlpuNjVrRWJ3?oc=5",
-          "pubDate": "Thu, 30 Jul 2026 10:32:43 GMT",
+          "title": "Meta's AI splurge lays bare its compute conundrum - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNemprX210eGVvOXJmbDNRYktRX1VDZl82aFBTZ05COUllQnFrdXJFOFBJMmZWTTJLRC1MWW5qZHViUWpGVERtVUloN3RRMC1LZk5NbDAtMHNwTDN3QklhZHRIRy1sRHpqZUwyZnFMNkNaQ1JyVUNFNFdNNFRzRlBvTVpBWFhQQThBNHk5UTFvbWJXRlpnNXNKTGVnZVp5N3k5aTlVZGpabUF3dEZyNXc?oc=5",
+          "pubDate": "Thu, 30 Jul 2026 13:39:54 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Wall St opens higher as Microsoft's results temper some AI jitters - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTkwycXd5d3BqNDVILVR4WkY3UERXYktQdm13QlEwNkd3MXF6Nm9EcTdWNEQ0dmIyV2lPOTFqaU9icm1kYTVoaFIyS3ZUSTRqLWI5THZ0TjM3WEp3aE5XV28zUTBzWkJzcURDNC1Jb21GeXE4eGJjU2tvbkNCR1Qxc2VTeFJPNlFLS0tydFBYdS1ZUnJoWUJqajF4akF0S2NE?oc=5",
+          "pubDate": "Thu, 30 Jul 2026 13:34:50 GMT",
           "source": "Reuters"
         },
         {
           "title": "France, Spain and Greece battle wildfires as Europe swelters - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbWpsSnpKVndGWThyUHhGTmU3SGw2LWtnTldYT2gxcUFYZmV4Rk9uVlpDb0Vyal9RWGtKdTdONFlhOF9TLTB6c3ZLaWJoVjdNWWNkZzlFWi1iZUhqOVhtdE41U0Yxejdwd05LbjB1d3gyZmIwaV81ZDdWT0EzQ0R0SVdRNmtYUUhKWE4tRkpsZjY2NjRmZlJCOUlfMl9HbEhVTmY1RU1fXzJXZjRtUEE?oc=5",
-          "pubDate": "Thu, 30 Jul 2026 10:23:45 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Oil steady as traders assess US-Iran conflict - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTWJteE84X0d0aDA5bVgwcWZrTlJTTXNZVFNlRmduNGc3aWgyMDRjN3BiN1ZaY0NaSGtXa1VlQjdFSE1pRkxOTS1sQXc2WjkwbkY3Qng1N3g3azFoVUltcjVPVGo5aGM0YkZYVG5DLXM0RS1PSFhkeERKaXZVSFk1cGZXX3ZGS3otSU1FRUtPaTFyMUd0TENNeUtaTXNZeEkxTGJrcWdTcDY4UnRUMzg3ZzZ3OGpYdw?oc=5",
-          "pubDate": "Thu, 30 Jul 2026 10:21:54 GMT",
+          "pubDate": "Thu, 30 Jul 2026 13:28:21 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-07-30T11:55:39.974Z"
+      "updatedAt": "2026-07-30T14:22:43.651Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-07-30T11:55:40.215Z"
+      "updatedAt": "2026-07-30T14:22:43.753Z"
     }
   ]
 }
