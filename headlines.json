@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T21:40:20.887Z",
+  "generatedAt": "2026-07-31T23:07:48.404Z",
   "sources": [
     {
       "name": "BBC News",
@@ -54,7 +54,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-07-31T21:40:19.555Z"
+      "updatedAt": "2026-07-31T23:07:47.259Z"
     },
     {
       "name": "NPR",
@@ -109,15 +109,39 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-07-31T21:40:19.788Z"
+      "updatedAt": "2026-07-31T23:07:47.349Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "Justice Department drops criminal case against ex-Olympian charged with damaging Reflecting Pool - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNR3FFR1RadzVYZW44TWxxMzcwWi1FTElMbHQwdy1sdDRYRWhxeWZnOWZMRWpEaEdodDdWTUJWaHlzd21sWmc1U2FUcjg2bjhKR1NMMUIzM19mRnEySmJ5NGpLZ0ppVzJMYUpDWkhCWm5GWEhqdU92Q2psUFVNQUFxVl9IZTFfdjB6YXA1S0RjZ2owRndsdURBM0Y3cnRPaVNrcTJUX2xB?oc=5",
+          "pubDate": "Fri, 31 Jul 2026 22:21:19 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Marine Corps says F-35B stealth fighter crashed in California, pilot ejected - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS1JrclNxT3JPWkxwamV1Q1FDUHdwVGtZNHRSSUNxZXF2Yzk1YkotZXpWczliM1RDdWUwb2pUN2x2NlVfcXpiRExubklNU3NPNTdsei1TV3NnM0VNZi14Skx2ZXNTNkFOc3I3SER2SlJ6VC1oZWRrV3RTMFl3bm9Hbmp0akFBRWlPb242bXh3dkRWbVlfSHpEWQ?oc=5",
+          "pubDate": "Fri, 31 Jul 2026 22:00:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Authorities release early ransom note in Nancy Guthrie case, hoping someone recognizes it - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM0xwZmNyWmRDRDhJVHYtc3diZEVDRUJ3SDNpYVJUaHJnX1lGZEJRSnkzZl9BQ0c0M1dpQk5NYUVYdjhPQ3R4QTV2UUExb2NCd00tSTFuQ1hES2FXeGVYTmd6azhUWm4zeF8ybjBvRHRKcWZaVTFkXzVfYUFRNjBBOTdYa1R3eWV4NGZyZWZsUzhEdmVWLTRIdjNIUDZWSTBKR3pTRlVZWTFxUQ?oc=5",
+          "pubDate": "Fri, 31 Jul 2026 21:56:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "The Trump administration is ending a Medicare drug subsidy program. Here's how it could affect costs - AP News",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSEZ2VDJGWGo2MnhlQTJoemV0UU1aWXJzNDRhSnpEZ3VZREw2RTUxMjZKRTB0eVJKQ0RQX3ZORnBjd0xIT0hIX3V2T2NDMmJaUWVOb2FrdEFzSnVPZmNVbTBuV3BEQXk2dlVtT29GWUVjVkJFeGo5ampxcFBuUGpCVUZMWHowSjFrSVFsSU83alEwS3RVNWVsUUREUXVicnIzeTkwRE5n?oc=5",
           "pubDate": "Fri, 31 Jul 2026 21:28:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "US stocks rise to finish a wild July as Amazon soars, Apple sinks and inflation worries worsen - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYXVQbFd2b2dBZFVoT3ZiRndKdVVic0xJWVFBWF9hN0FYaUk2ZkhlVkctWWtibi1GNVgxdE5Ec0FzNkpwNnlsZXNla1d5cXgzbFVIZ2pnMFdvMW93QlhXOW9CbkRhd2J2Vl9jaVV1THY2RzFzbUtvSGhNanA5NE5OQXJTN1BNVlEzXzVQQ00zQk54U0NIdlpj?oc=5",
+          "pubDate": "Fri, 31 Jul 2026 21:13:00 GMT",
           "source": "AP News"
         },
         {
@@ -133,93 +157,69 @@
           "source": "AP News"
         },
         {
-          "title": "Authorities release early ransom note in Nancy Guthrie case, hoping someone recognizes it - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM0xwZmNyWmRDRDhJVHYtc3diZEVDRUJ3SDNpYVJUaHJnX1lGZEJRSnkzZl9BQ0c0M1dpQk5NYUVYdjhPQ3R4QTV2UUExb2NCd00tSTFuQ1hES2FXeGVYTmd6azhUWm4zeF8ybjBvRHRKcWZaVTFkXzVfYUFRNjBBOTdYa1R3eWV4NGZyZWZsUzhEdmVWLTRIdjNIUDZWSTBKR3pTRlVZWTFxUQ?oc=5",
-          "pubDate": "Fri, 31 Jul 2026 19:30:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "'The Malvinas are Argentine’: A World Cup banner makes the Falkland Islands a cultural obsession - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeklSeW9hdERxZTJmY0phVnA1RXBYY0VWbVgzLTlfLUZSX3kxSV9BcnlFRkYyaXBKcGxXaTIyZGRYOGtzODlqOWRybUEzdkU4NTBSdmRiWVU2WjVjY184eHFSaDM4YzRicDJ4RnpRYVNJelNpaV90dEc3ejF4bGZtNWZQN2VRenZrVWRrZFE4akVzb3VlMEhsVVAtWEMzU19OT180aDJGOU05Z29Mbzh3?oc=5",
-          "pubDate": "Fri, 31 Jul 2026 19:22:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Wall Street's wild July is ending with more swings as Amazon leaps, Apple sinks and oil prices rise - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYXVQbFd2b2dBZFVoT3ZiRndKdVVic0xJWVFBWF9hN0FYaUk2ZkhlVkctWWtibi1GNVgxdE5Ec0FzNkpwNnlsZXNla1d5cXgzbFVIZ2pnMFdvMW93QlhXOW9CbkRhd2J2Vl9jaVV1THY2RzFzbUtvSGhNanA5NE5OQXJTN1BNVlEzXzVQQ00zQk54U0NIdlpj?oc=5",
-          "pubDate": "Fri, 31 Jul 2026 19:14:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Marine Corps says F-35B stealth fighter crashed in California, pilot ejected - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS1JrclNxT3JPWkxwamV1Q1FDUHdwVGtZNHRSSUNxZXF2Yzk1YkotZXpWczliM1RDdWUwb2pUN2x2NlVfcXpiRExubklNU3NPNTdsei1TV3NnM0VNZi14Skx2ZXNTNkFOc3I3SER2SlJ6VC1oZWRrV3RTMFl3bm9Hbmp0akFBRWlPb242bXh3dkRWbVlfSHpEWQ?oc=5",
-          "pubDate": "Fri, 31 Jul 2026 18:54:42 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "US to make visa bond requirements permanent, affecting mostly African countries - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObXZGQ2ZieTZMNTdFc1JubVRaY0dubDRXaFhfZGx0WjVwU3psc0lOdmFPT3lLQ0NGbEV4ekUzd2pIOThibHBIVVo0aW9yUEdybnhUX3ZxOS1OVVhZSFhOTGlCN0xOWGJ5MjNKTmtaUWJubkZWenZUUzZhdUtJYV9pWUxmb1hxTUZCb1pDRUI5T01jSnVZLXZfaW9FOXdNVno0T2tqY2VXVnhxWGFodTk4?oc=5",
-          "pubDate": "Fri, 31 Jul 2026 18:44:00 GMT",
+          "title": "Ex-deputy who shot Sonya Massey is denied a request for medical release from prison - AP News",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPamtsbmp1dzBiZ1g2dDJmWXZsd21pQzZhUnFFRUlVSGFBb3dxNjFza00wTTJCRG1BeEY4aVJaMHhVZHZ5WC11UVlmdnVoa0JnQVpCUkNaUkRNTEFiVzhCUjY1SkVieFJjMmVLZFQxa0xSMUt6TE1MN2ZaZ0hKcW9TZHE0NjVsNjhhN2pkU3NHcXdxUndwUl8tT21PYmUySkVXa0FIVW5xY1RsYjRKYTJuWUM4aTAyX1JIOG9ZQ0I4OA?oc=5",
+          "pubDate": "Fri, 31 Jul 2026 20:33:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-07-31T21:40:20.255Z"
+      "updatedAt": "2026-07-31T23:07:47.787Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "ExxonMobil misses second quarter profit estimates despite hitting four-year high - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWS1OZDE2YWEyd3pXcklrdzRqbmRBaDVvVkVmSTF5clJqMEs2V2U2N2VwYjJUY0xVTnNjVGI5bW5lR0o1Z0paNXhsbHFWc3NKWkpHblB4T2NGTzRSdmFKckQxaHJjaW5HdVBFLWZiSU9wNUtwTVZrbjUwM00tUjhzZzZLaVdxdDNrdjhFeEtEdF9RS3UyNGtZQ3V4YkRsN3J6V3RSV3hOMExPRk5ZSmdnUTZYU1pudkFUdjhJZ2YxSmVmQQ?oc=5",
-          "pubDate": "Fri, 31 Jul 2026 21:04:51 GMT",
+          "title": "Trump says US has not agreed to Ukraine building Patriot missiles - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQXNqSU9WRVUwMm1rWkFyY0ZVdXpoQ3RudWlwQmI5aGh1VmJITWJuWkpjc3NJQ2VfQU1PZlFwZkhfYTZvYWNxZ1NvM1FseWMxU1J2SDZkN2N3SW5HYmJUTWozTlpwWTBNYmEzQ1Y0N1lPYUotUllyTW5PZ0xQUmo0b3NSNzdsV1QzNzJGNk1ZWVhIam9FNXpUMUVSOGxVaGVCWGJmR0VnV2x3bUZ1Nzh2OHY2TkRyd0dCdGlpYWRhVWhNcVU?oc=5",
+          "pubDate": "Fri, 31 Jul 2026 22:35:51 GMT",
           "source": "Reuters"
         },
         {
           "title": "EXCLUSIVE: Trump's powerful but unofficial Venezuela adviser leaves his role - Reuters",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZXRSWkR5MTFHd0tLTy1pMU5KN29nYnMtRTRvb0Z4WWx5RURqdUtaRTA3dkNaa1JFb0VxWk10TzRFYlFMcWNvRE1QZHo1Qm5nU1FjczhMTWw0Q0pNM0doSVRIcWJnTGlkaFVaSGpWWXE0LXEtQ20tMnU4ZEpUdXE0NFBKRnpfYlQ4YlBvNm94VGduajNNY1hDWVFLcVR3Vzh0dC1BUg?oc=5",
-          "pubDate": "Fri, 31 Jul 2026 20:48:25 GMT",
+          "pubDate": "Fri, 31 Jul 2026 22:18:14 GMT",
           "source": "Reuters"
         },
         {
-          "title": "EXCLUSIVE: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYTc2SUhrNmVER0NvNW9nZHBwbklFMlA0eTNSRFZETXpfSWpVYU1wOUhaMDRLUnRVSEhtRzByeEktX2FEX1ZzaThNMnpZMW9JdVZDZkVRTEQ4UjdlakFPVXZTUjZaM2JOUkhpN1BxeEU4bWJuSjNkUldBNXRVWDkyYWVXVUlKM0VEZU5wZklfX2FJRkQ0bmVybTIyY0xpbHd6aGtIVmZ3YU5ocGdsdFlNeXdOQlBXOUsyZnZtZA?oc=5",
-          "pubDate": "Fri, 31 Jul 2026 20:44:47 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Spain says migrants are returning from Ceuta after 57 die in border rush - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNa1ZzcUQ2cjlBUVYyaXhhaTJHRWQwWkE5UzU4ZUhuaUdmSkpmLURVdmNRS0xjd09pYzJ6MEIzNW1TaDZaMDJ1U09yX1dFS1pZR0szaFhvRVc2ZHk2MFZqLUExRURpY09PdEFUOTZTcWQ5Z29OUXBrQTNnUjNXRjF3V1RoWVZIUTJ6NDJ0Q19ENUQyNnoxREZjYTJrbjFUbmZPMFkyUFlBb1RyaXlLSHdRVWsyY0trYjVZ?oc=5",
-          "pubDate": "Fri, 31 Jul 2026 20:41:15 GMT",
+          "title": "FIFA has scrapped $20 billion World Cup sell-off plan, New York Post reports - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbXdUU2FsekNqTWc1TWdVd09xUXpTTXNScnVjczNNcGVzbERTWmVwOWNGMGlOd2J2dWQwem4yOU4yb0Y0VThodnEzcWJTRjRBZjI2RUhsNDdNXzNtMmVCa2tBNVp2U3lraTE2ZjFObG9WYThxaGJBWVpTSjE2YV9TTnAwNWVXT0d0MjVTcWJlRUs2bjN5bUJzVEU0bG5NNlZ0X1pwSUZPRTF3TjN2QjNWWDRGeWR6SzhTd1pn?oc=5",
+          "pubDate": "Fri, 31 Jul 2026 21:57:27 GMT",
           "source": "Reuters"
         },
         {
           "title": "US proposes deep Colorado River water cuts for Arizona, California, Nevada - Reuters",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYVRQTE1WNlJPS1FPNUo1M0hWQVJuaG9xa2ZMaFBLbTF6cV9STVNPakRSNGxLOWdKSnJzLWhUR2VieVJEWmRRYzVhN3FZdUpmMVpKZm9jMy15ZXNFZUo5TGNUSjg0Q3lEQ1JGbDFNTy1lNTA3U1dzWWQtMmN2bDZ4RTlYb2pDNHZPdU1SU1JfLWQtTFJtejhaQkZiUDRrWXM?oc=5",
-          "pubDate": "Fri, 31 Jul 2026 20:08:32 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Social media rumours, economic hardship fuel migrant surge into Ceuta - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWWpOX0habk9mbjBicnJKX3RTZTRhelk2dEpWbnJpTE9KbWxCWjdrYWhQSXV3NG5SLUZWMG5HaTJXUE9nWVZEVWd1ZkRReGVQM3ZrQVRROEtlSElaZDVzY3ZFOTMwX0ZmdEl4TEh5YXV2NlZiaE1xUFRXVVdRZHFhVEU0dlpGTmNLQV81ZkdsdjNuOE50eWgwaUFkekxWN2ZCZXU5QWlfdHpRd3hIQzRaQmlvREFIRkFF?oc=5",
-          "pubDate": "Fri, 31 Jul 2026 20:02:14 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Wall Street ends higher as Amazon soothes AI jitters - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdXM2OW82ZTlzUGZjWFdRTG9lbm9RWlBPaTR6czltYi1LSE5xZXE1YzFtOXB2ZF81U0gzaklsWDJaaWl3WG5rNWI3dk5QT3lsM1R4OHBfSmZZd3J6ZFcwSGR0aXoyZ3VZSkREdDFEZVJvSlpHcVVhdTZWdkttMDlvYmhxZk9nVHZVRkZUaXVfU0hMMUNMc1Y3Q08zX1VGVzR1ME04YThtaEpjTjloekZXZVpEQTE?oc=5",
-          "pubDate": "Fri, 31 Jul 2026 20:01:42 GMT",
+          "pubDate": "Fri, 31 Jul 2026 21:55:02 GMT",
           "source": "Reuters"
         },
         {
           "title": "Magnitude 4.7 quake strikes near Italy's Naples, causing outages and damage - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPX1ZmenZzT2tFNHk2dDBiazFkT0tzblBEbC1vdzRRWWx2MFVISHFXSy1qcUZKdGsyeWR0bXBlaktKZjFiRUl2SE5VV3k4bGRodFZhcVZERmoxXzMwTjBfNTJMNEZPR0pRSXl6WDVpWW9CX3FUcFBCdmhXOG02UDhCVHRZRzdBcnBjMkxCWkJKS0Jybjg1aXhyX3hvWXBmZmFDNWF2d3dFal9uakQtZFRvajc0VTlKdVAxWEtEZnowZmg4TVk?oc=5",
-          "pubDate": "Fri, 31 Jul 2026 19:22:42 GMT",
+          "pubDate": "Fri, 31 Jul 2026 21:51:01 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US bars imports from 43 more companies over China's alleged forced labor involving Uyghurs - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSzRCdVNpdm4wZldHbEt1WTduUnNQTnh6N2didEJVLTQ5RjBYSGtQemRacGtrRFdjOUt0Ukh0X0lyLS03cDA2YVRWd3piM3V6N1VZZkprcU52QzBJWW10XzRvTnZQUnBwTURxbkJabXduaV82Q0wyd2xWQW5DNERZM2poRlAtM2xmV0tNSGt4LWc0RkVhSTRSQktmeWRfMjlrR0pGQW93Nm9OUnoteEU4b3RQSWxNN2NZaEwxbHdSYUVQdw?oc=5",
+          "pubDate": "Fri, 31 Jul 2026 21:40:36 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Exxon, Chevron warn of continued high fuel prices from Iran war - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMjdEbTVuZzlMdmNabW90dk04NEdXMUdBUFNzR2FpcDJYZE9RWnlQdXFNV1NtZkVWZ2J1M0dzTXhwVGJFYlNsUkp2d211bFB4eXRQQXk3RWJ5c1hBZ1BUYnF3VXNiSzFweUpEaktkOUsyLVBISHlZY2dneU5RTnkyeXNTejVUZlpJa3hURjFsMGZkSVUxVUw4QUg0N3pqZjg0UlZVdTNGSG9kZw?oc=5",
+          "pubDate": "Fri, 31 Jul 2026 21:31:46 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Chevron records highest quarterly profit in six years, beating analyst estimates - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTDJNQWN3bERBZEMtYnM5dVlwOGJvcHk0bzVndi1ZWXVHWllsX0lwUGFKU2xMellLNVlyMVUyck93U0FJNl8wUWtqSzVrVzBjdWRCWWllSTJpT3BFTHNWXzVXM3UyREptOGJQbW1lWV9vVkRsSzh2ekhyQ05XNGZMb0JCX0RCaEU3YjVtaTZodnRoTTNYakdKU2ptSWtLLWNBUEhhOTBLTE1WaXRPckx6Qzh4RUpGaDctenJBdS1nZXlsMVNLR0ZZ?oc=5",
+          "pubDate": "Fri, 31 Jul 2026 21:28:52 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-07-31T21:40:20.718Z"
+      "updatedAt": "2026-07-31T23:07:48.170Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-07-31T21:40:20.887Z"
+      "updatedAt": "2026-07-31T23:07:48.404Z"
     }
   ]
 }
