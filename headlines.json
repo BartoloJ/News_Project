@@ -1,9 +1,15 @@
 {
-  "generatedAt": "2026-07-31T20:22:57.241Z",
+  "generatedAt": "2026-07-31T21:40:20.887Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Body of US climber the latest recovered after Pakistan avalanche",
+          "link": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 31 Jul 2026 20:22:46 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "What triggered the mass migrant crossings into Ceuta?",
           "link": "https://www.bbc.co.uk/news/videos/c171nnql1j4o?at_medium=RSS&at_campaign=rss",
@@ -14,12 +20,6 @@
           "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
           "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 31 Jul 2026 17:03:47 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Two bodies located and search ongoing after avalanche hits Nirmal Purja's team",
-          "link": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 31 Jul 2026 16:41:59 GMT",
           "source": "BBC News"
         },
         {
@@ -54,11 +54,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-07-31T20:22:55.655Z"
+      "updatedAt": "2026-07-31T21:40:19.555Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Climate adaptation at its limits, says one scientist",
+          "link": "https://www.npr.org/2026/07/31/nx-s1-5913376/climate-adaptation-at-its-limits-says-one-scientist",
+          "pubDate": "Fri, 31 Jul 2026 16:28:46 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Drone delivery helps in Rwanda, but only so much",
+          "link": "https://www.npr.org/2026/07/31/nx-s1-5867626/drone-delivery-helps-in-rwanda-but-only-so-much",
+          "pubDate": "Fri, 31 Jul 2026 16:28:41 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Google pauses AI satellite images, after fears of deepfakes in the sky",
           "link": "https://www.npr.org/2026/07/31/nx-s1-5914652/google-adds-ai-to-satellite-images-raising-fears-of-deepfakes-in-the-sky",
@@ -94,26 +106,32 @@
           "link": "https://www.npr.org/2026/07/31/nx-s1-5910885/student-loans-colleges-fraud-borrower-defense-education-department-trump",
           "pubDate": "Fri, 31 Jul 2026 05:00:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Trump's claims of 250,000 non-U.S. citizens on voter rolls leave some states baffled",
-          "link": "https://www.npr.org/2026/07/31/nx-s1-5906708/trump-claim-noncitizens-midterms-election-interference-voter-rolls",
-          "pubDate": "Fri, 31 Jul 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Democrats show divisions on Israel amid competitive midterm elections",
-          "link": "https://www.npr.org/2026/07/31/nx-s1-5896216/democrats-israel-congress-2026-midterm-elections",
-          "pubDate": "Fri, 31 Jul 2026 05:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-07-31T20:22:56.089Z"
+      "updatedAt": "2026-07-31T21:40:19.788Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "The Trump administration is ending a Medicare drug subsidy program. Here's how it could affect costs - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSEZ2VDJGWGo2MnhlQTJoemV0UU1aWXJzNDRhSnpEZ3VZREw2RTUxMjZKRTB0eVJKQ0RQX3ZORnBjd0xIT0hIX3V2T2NDMmJaUWVOb2FrdEFzSnVPZmNVbTBuV3BEQXk2dlVtT29GWUVjVkJFeGo5ampxcFBuUGpCVUZMWHowSjFrSVFsSU83alEwS3RVNWVsUUREUXVicnIzeTkwRE5n?oc=5",
+          "pubDate": "Fri, 31 Jul 2026 21:28:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Arizona, California and Nevada would share cuts under federal proposal to manage the Colorado River - AP News",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZ05NSTFnWmRQVy1kdjdGaUlSZThIZ2FTVlpXNTlWOUFJRTJHOTlYNWd6MmVvSDNNYkNNU0NjTUlCOTJwN2dvaU9NQktjMXlvdTM4U05ZQ1pRajEzMVYzS0JUTUduSlA2LUUxTzkwMDFmQmpQU2tFbzVPNlV2QUhvdnNGMHBHeHFTM1kyTmFuX2lra0JTQUI4V1p6Q3Y4b0pNMS1aQ01VNUhaYlZzeHRQQmMwS09lV1lmUlNkSFhHTQ?oc=5",
+          "pubDate": "Fri, 31 Jul 2026 21:01:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Tens of thousands of migrants voluntarily leave after crossing into Spanish territory of Ceuta - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTzlVVHhpVWswMGd1LVZPeE1xOW1ENnNnbzFtTTBlOW94QV95RkM0ckM3enJHRmc1cExGLXRxTW40LW4wTkU0b3dNdHRxWGVpNWpvZkR6WVZvS2xMcjFyVmxjX0QtUXVQb3hmb0Z6a3VILTBqSFg2RkFVWUlYY0p5WXlCbjhfNUVa?oc=5",
+          "pubDate": "Fri, 31 Jul 2026 20:46:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Authorities release early ransom note in Nancy Guthrie case, hoping someone recognizes it - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM0xwZmNyWmRDRDhJVHYtc3diZEVDRUJ3SDNpYVJUaHJnX1lGZEJRSnkzZl9BQ0c0M1dpQk5NYUVYdjhPQ3R4QTV2UUExb2NCd00tSTFuQ1hES2FXeGVYTmd6azhUWm4zeF8ybjBvRHRKcWZaVTFkXzVfYUFRNjBBOTdYa1R3eWV4NGZyZWZsUzhEdmVWLTRIdjNIUDZWSTBKR3pTRlVZWTFxUQ?oc=5",
@@ -141,38 +159,50 @@
         {
           "title": "US to make visa bond requirements permanent, affecting mostly African countries - AP News",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObXZGQ2ZieTZMNTdFc1JubVRaY0dubDRXaFhfZGx0WjVwU3psc0lOdmFPT3lLQ0NGbEV4ekUzd2pIOThibHBIVVo0aW9yUEdybnhUX3ZxOS1OVVhZSFhOTGlCN0xOWGJ5MjNKTmtaUWJubkZWenZUUzZhdUtJYV9pWUxmb1hxTUZCb1pDRUI5T01jSnVZLXZfaW9FOXdNVno0T2tqY2VXVnhxWGFodTk4?oc=5",
-          "pubDate": "Fri, 31 Jul 2026 18:34:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "60,000 migrants crossed into Spanish territory of Ceuta, but most soon left voluntarily - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTzlVVHhpVWswMGd1LVZPeE1xOW1ENnNnbzFtTTBlOW94QV95RkM0ckM3enJHRmc1cExGLXRxTW40LW4wTkU0b3dNdHRxWGVpNWpvZkR6WVZvS2xMcjFyVmxjX0QtUXVQb3hmb0Z6a3VILTBqSFg2RkFVWUlYY0p5WXlCbjhfNUVa?oc=5",
-          "pubDate": "Fri, 31 Jul 2026 18:22:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Immigration crackdown threatens Haitian caregivers and the seniors who rely on them - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQlVOVndrNHo0bEdBU0FiYkdmbmw4Q0g4RzR0MmRVTy1TMTh6dHNaVGNoYmJJVUF4ZW94cUttRm9ieFhmNTdmaDhYVmpad1lfekQ0MEQxVHZwRlBmTFpWSUZyS1pSYjJkZkE2LXdseXRxUXVOa1JaOHpMOWprRE5Ib3BJTGJLS2F2WWgtN2RaN05WaDJQdkF5bmJRel9tdndTLUthWUxB?oc=5",
-          "pubDate": "Fri, 31 Jul 2026 17:40:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Israelis worry about weakening connection with younger Jewish Americans - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU2tRckZReWV0cXQ5Sk5CVjlSaEMxV3BPNVBZNUliOTFqZHY4WHdJM0tGNTRFWk5ZLUlUNGJiSFJiMHhRS3VGTUUxTHV1T25zajVkLXlyTjdpTm5kaEtGZFlKOEx3NVBQdjBEU1pmWDNBYnZNTm1rM3RwelprZm8wbmZDMm9HN0RUN0RmZTZSUXJsSUpZZ0R1TnNESzVGWTZOeDMzZEIzeDRIM2JmQ2ZQTFVGMUt6NFpHZkE?oc=5",
-          "pubDate": "Fri, 31 Jul 2026 17:40:00 GMT",
+          "pubDate": "Fri, 31 Jul 2026 18:44:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-07-31T20:22:56.591Z"
+      "updatedAt": "2026-07-31T21:40:20.255Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "US bars imports from 43 more companies over China's alleged forced labor involving Uyghurs - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSzRCdVNpdm4wZldHbEt1WTduUnNQTnh6N2didEJVLTQ5RjBYSGtQemRacGtrRFdjOUt0Ukh0X0lyLS03cDA2YVRWd3piM3V6N1VZZkprcU52QzBJWW10XzRvTnZQUnBwTURxbkJabXduaV82Q0wyd2xWQW5DNERZM2poRlAtM2xmV0tNSGt4LWc0RkVhSTRSQktmeWRfMjlrR0pGQW93Nm9OUnoteEU4b3RQSWxNN2NZaEwxbHdSYUVQdw?oc=5",
-          "pubDate": "Fri, 31 Jul 2026 20:05:38 GMT",
+          "title": "ExxonMobil misses second quarter profit estimates despite hitting four-year high - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWS1OZDE2YWEyd3pXcklrdzRqbmRBaDVvVkVmSTF5clJqMEs2V2U2N2VwYjJUY0xVTnNjVGI5bW5lR0o1Z0paNXhsbHFWc3NKWkpHblB4T2NGTzRSdmFKckQxaHJjaW5HdVBFLWZiSU9wNUtwTVZrbjUwM00tUjhzZzZLaVdxdDNrdjhFeEtEdF9RS3UyNGtZQ3V4YkRsN3J6V3RSV3hOMExPRk5ZSmdnUTZYU1pudkFUdjhJZ2YxSmVmQQ?oc=5",
+          "pubDate": "Fri, 31 Jul 2026 21:04:51 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "EXCLUSIVE: Trump's powerful but unofficial Venezuela adviser leaves his role - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZXRSWkR5MTFHd0tLTy1pMU5KN29nYnMtRTRvb0Z4WWx5RURqdUtaRTA3dkNaa1JFb0VxWk10TzRFYlFMcWNvRE1QZHo1Qm5nU1FjczhMTWw0Q0pNM0doSVRIcWJnTGlkaFVaSGpWWXE0LXEtQ20tMnU4ZEpUdXE0NFBKRnpfYlQ4YlBvNm94VGduajNNY1hDWVFLcVR3Vzh0dC1BUg?oc=5",
+          "pubDate": "Fri, 31 Jul 2026 20:48:25 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "EXCLUSIVE: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYTc2SUhrNmVER0NvNW9nZHBwbklFMlA0eTNSRFZETXpfSWpVYU1wOUhaMDRLUnRVSEhtRzByeEktX2FEX1ZzaThNMnpZMW9JdVZDZkVRTEQ4UjdlakFPVXZTUjZaM2JOUkhpN1BxeEU4bWJuSjNkUldBNXRVWDkyYWVXVUlKM0VEZU5wZklfX2FJRkQ0bmVybTIyY0xpbHd6aGtIVmZ3YU5ocGdsdFlNeXdOQlBXOUsyZnZtZA?oc=5",
+          "pubDate": "Fri, 31 Jul 2026 20:44:47 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Spain says migrants are returning from Ceuta after 57 die in border rush - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNa1ZzcUQ2cjlBUVYyaXhhaTJHRWQwWkE5UzU4ZUhuaUdmSkpmLURVdmNRS0xjd09pYzJ6MEIzNW1TaDZaMDJ1U09yX1dFS1pZR0szaFhvRVc2ZHk2MFZqLUExRURpY09PdEFUOTZTcWQ5Z29OUXBrQTNnUjNXRjF3V1RoWVZIUTJ6NDJ0Q19ENUQyNnoxREZjYTJrbjFUbmZPMFkyUFlBb1RyaXlLSHdRVWsyY0trYjVZ?oc=5",
+          "pubDate": "Fri, 31 Jul 2026 20:41:15 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US proposes deep Colorado River water cuts for Arizona, California, Nevada - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYVRQTE1WNlJPS1FPNUo1M0hWQVJuaG9xa2ZMaFBLbTF6cV9STVNPakRSNGxLOWdKSnJzLWhUR2VieVJEWmRRYzVhN3FZdUpmMVpKZm9jMy15ZXNFZUo5TGNUSjg0Q3lEQ1JGbDFNTy1lNTA3U1dzWWQtMmN2bDZ4RTlYb2pDNHZPdU1SU1JfLWQtTFJtejhaQkZiUDRrWXM?oc=5",
+          "pubDate": "Fri, 31 Jul 2026 20:08:32 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Social media rumours, economic hardship fuel migrant surge into Ceuta - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWWpOX0habk9mbjBicnJKX3RTZTRhelk2dEpWbnJpTE9KbWxCWjdrYWhQSXV3NG5SLUZWMG5HaTJXUE9nWVZEVWd1ZkRReGVQM3ZrQVRROEtlSElaZDVzY3ZFOTMwX0ZmdEl4TEh5YXV2NlZiaE1xUFRXVVdRZHFhVEU0dlpGTmNLQV81ZkdsdjNuOE50eWgwaUFkekxWN2ZCZXU5QWlfdHpRd3hIQzRaQmlvREFIRkFF?oc=5",
+          "pubDate": "Fri, 31 Jul 2026 20:02:14 GMT",
           "source": "Reuters"
         },
         {
@@ -182,44 +212,14 @@
           "source": "Reuters"
         },
         {
-          "title": "Social media rumours, economic hardship fuel migrant surge into Ceuta - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWWpOX0habk9mbjBicnJKX3RTZTRhelk2dEpWbnJpTE9KbWxCWjdrYWhQSXV3NG5SLUZWMG5HaTJXUE9nWVZEVWd1ZkRReGVQM3ZrQVRROEtlSElaZDVzY3ZFOTMwX0ZmdEl4TEh5YXV2NlZiaE1xUFRXVVdRZHFhVEU0dlpGTmNLQV81ZkdsdjNuOE50eWgwaUFkekxWN2ZCZXU5QWlfdHpRd3hIQzRaQmlvREFIRkFF?oc=5",
-          "pubDate": "Fri, 31 Jul 2026 19:54:57 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Spain says migrants are returning from Ceuta after 57 die in border rush - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNa1ZzcUQ2cjlBUVYyaXhhaTJHRWQwWkE5UzU4ZUhuaUdmSkpmLURVdmNRS0xjd09pYzJ6MEIzNW1TaDZaMDJ1U09yX1dFS1pZR0szaFhvRVc2ZHk2MFZqLUExRURpY09PdEFUOTZTcWQ5Z29OUXBrQTNnUjNXRjF3V1RoWVZIUTJ6NDJ0Q19ENUQyNnoxREZjYTJrbjFUbmZPMFkyUFlBb1RyaXlLSHdRVWsyY0trYjVZ?oc=5",
-          "pubDate": "Fri, 31 Jul 2026 19:52:30 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US proposes deep Colorado River water cuts for Arizona, California, Nevada - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYVRQTE1WNlJPS1FPNUo1M0hWQVJuaG9xa2ZMaFBLbTF6cV9STVNPakRSNGxLOWdKSnJzLWhUR2VieVJEWmRRYzVhN3FZdUpmMVpKZm9jMy15ZXNFZUo5TGNUSjg0Q3lEQ1JGbDFNTy1lNTA3U1dzWWQtMmN2bDZ4RTlYb2pDNHZPdU1SU1JfLWQtTFJtejhaQkZiUDRrWXM?oc=5",
-          "pubDate": "Fri, 31 Jul 2026 19:26:15 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "Magnitude 4.7 quake strikes near Italy's Naples, causing outages and damage - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPX1ZmenZzT2tFNHk2dDBiazFkT0tzblBEbC1vdzRRWWx2MFVISHFXSy1qcUZKdGsyeWR0bXBlaktKZjFiRUl2SE5VV3k4bGRodFZhcVZERmoxXzMwTjBfNTJMNEZPR0pRSXl6WDVpWW9CX3FUcFBCdmhXOG02UDhCVHRZRzdBcnBjMkxCWkJKS0Jybjg1aXhyX3hvWXBmZmFDNWF2d3dFal9uakQtZFRvajc0VTlKdVAxWEtEZnowZmg4TVk?oc=5",
           "pubDate": "Fri, 31 Jul 2026 19:22:42 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Greece fights fires near Athens as France, Spain improve - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOd05jdW45TDVMejhCUHVfa2RCaDJLTFk5RUxkOTFmeEdKMllFcTk1eVllOFlsZWFXWTBXTVdIME1OUWxMemY3WUhJdFpZVUpyNXoxNy1SMTRBVTRNTjYteHNBRmhRTHB5T19PRmFFcFNheE91aUFEY1FkbzItS18xR2dDTHFpTDVKcVBYU2VmaWItSnRzeHJPeFhWTlRtRDRpTTAwd0RiWElITEdhdHc?oc=5",
-          "pubDate": "Fri, 31 Jul 2026 19:20:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Amazon sued by consumers over seafood sustainability claims - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWmp1amEwUVhDdUFSOEhuZV9fZDl1eHRFbXEzY3d6NUlrbnNyNEN6VG16eUZ4VWVHNGhsQjUtbHZIVjM0bEN6bEREVnlqZE12YUpOcGQ3QTRTcXdfNWt4SzRDWGNxOUJuV29uTXp3cUZpSUg4QzBzMXpheEx1bmNmdk9RWlo0MlJsNWk3M185SWFfZU9aV3pqbmJxWEc0SjNyck9VUWVseUtpcVpNZVl0bGhZWWZ1a3NpYnc?oc=5",
-          "pubDate": "Fri, 31 Jul 2026 19:14:31 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-07-31T20:22:57.040Z"
+      "updatedAt": "2026-07-31T21:40:20.718Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-07-31T20:22:57.240Z"
+      "updatedAt": "2026-07-31T21:40:20.887Z"
     }
   ]
 }
