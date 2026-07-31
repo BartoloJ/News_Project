@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T00:08:02.747Z",
+  "generatedAt": "2026-07-31T04:02:21.035Z",
   "sources": [
     {
       "name": "BBC News",
@@ -7,13 +7,25 @@
         {
           "title": "Hamas says it has agreed to disarm after Trump announces Board of Peace plan",
           "link": "https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 31 Jul 2026 00:07:17 GMT",
+          "pubDate": "Fri, 31 Jul 2026 03:24:14 GMT",
           "source": "BBC News"
         },
         {
-          "title": "Hundreds of migrants swim from Morocco to Spanish enclave of Ceuta",
+          "title": "Spain sending troops as thousands enter enclave of Ceuta from Morocco",
           "link": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 30 Jul 2026 21:24:31 GMT",
+          "pubDate": "Fri, 31 Jul 2026 02:41:09 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Anthropic says Claude AI hacked three firms during cyber tests",
+          "link": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 31 Jul 2026 01:31:14 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Nirmal Purja among 10 climbers feared missing after avalanche",
+          "link": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 31 Jul 2026 00:52:54 GMT",
           "source": "BBC News"
         },
         {
@@ -39,22 +51,10 @@
           "link": "https://www.bbc.co.uk/news/articles/c78gnyq3wvdo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 30 Jul 2026 17:26:01 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Uefa to boycott World Cups if Fifa plans approved",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 30 Jul 2026 16:47:40 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Thousands evacuated in Crete as wildfires threaten tourist resorts",
-          "link": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 30 Jul 2026 16:04:53 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-07-31T00:08:01.421Z"
+      "updatedAt": "2026-07-31T04:02:19.797Z"
     },
     {
       "name": "NPR",
@@ -109,7 +109,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-07-31T00:08:01.524Z"
+      "updatedAt": "2026-07-31T04:02:20.056Z"
     },
     {
       "name": "AP News",
@@ -117,109 +117,109 @@
         {
           "title": "Spain deploys military to Ceuta after thousands of people breach Morocco’s border and at least 9 die - AP News",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUmc2NzV3ZzBoUzRtbUJaX0s4bS03YkE2Ykhfa3NPWlRYODlTUDJJeFpEa1VIRUFqdG9YcFByb1ZHVnRfTTZZYUZDWWtjR21WdGtEX3JZSmZYa0NGSHp6SG9GazRBN3NVd1pNRVE3SmY5Wk9zRjFiWFQxdjc3MGg0SHF1ejdELVRLVkdxOTJkVUNySUFSc1dwZXgySjQ?oc=5",
-          "pubDate": "Thu, 30 Jul 2026 23:38:00 GMT",
+          "pubDate": "Fri, 31 Jul 2026 02:48:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "What to know about the Spanish enclave of Ceuta as migrant arrivals from Morocco spike - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVDZ0cTJsQlVfb1NSX2NwYWRaemctTlhPRjZBT2F3NWtvQXNyTGYyTVFhaTNDUjF4S3pvT1d4T0dRZXpLYVRFdGc4eEEyT0hOS3RPUVBtQnpQLUpPSlhvTlVXMlNkcmlveVJWRHk0aU96bUtGcGZSLU9mZFF1aUxwRGpPVXFFVkZzczVpU2VtbW5lTTJPcUxUblhlbWNrU3BJYnc?oc=5",
-          "pubDate": "Thu, 30 Jul 2026 23:11:00 GMT",
+          "title": "Hope dwindles for rescue in southwestern Japan quake as death toll climbs to 25 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdUI5RmE0STdnLThRMWpSNF9VTGRjWklIX2NEako2cXBMc2ttYldYdzVWM0hfZFZBVWozRlRtRndJREljUGduOGViX0xtN3RYSEYwdG1oTXc1VTBBMFhMekFpVUprOTB2M3I4ajdfOUZyM1kwckI5VFlhUGtNU2kyOGQ1NkN5Y2l4UU01dTV2LWRiandpOWJzV2g0dTE5RzQ?oc=5",
+          "pubDate": "Fri, 31 Jul 2026 01:43:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Trump announces a deal for Hamas to disarm in Gaza, but many hurdles and uncertainty remain - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPU3NpUUpTMzE1SHUwQlBNM0w5QUQzR08wTWtXQ0xDX0FHX2RxV2NCUDRJNUItNDhoekQxeVJLSkpVMjV6MmFCZlU1M1VyQTRwVVd3M29RQmFyZTNnRWs0Tkx6aUZSbjZ2WjQxMUJURjN5R3FNTHVmMXVIcTZEbFE2WDFPbUk0YTlYUG1BNG5ZWFNEOEJ5bFpvOQ?oc=5",
+          "pubDate": "Fri, 31 Jul 2026 01:24:00 GMT",
           "source": "AP News"
         },
         {
           "title": "Some robotaxis approved to operate without steering wheels and losing the brake pedal could be next - AP News",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcW5yMkRPMXRLa3lOWXZuX2wwbGxoYm5GcHlLS2c4dlJEN2RqUjQ4QWF1cHp1MG9PTnhLY0pzUlBsdFRlOE9fb2xCV3hHVkZhbXMzOGYzaWxpZmNWbHNPSUF4b181emFyUm1uZDJNOURPZmxfWkdEM2R5MlNpdWJzSmp6eXdJWHE5cVBZWF9JbGc2c3lHTndHSTV3?oc=5",
-          "pubDate": "Thu, 30 Jul 2026 23:05:00 GMT",
+          "pubDate": "Fri, 31 Jul 2026 01:17:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Human-caused climate change made Spanish, French fires much more likely, scientists calculate - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSU1MeVdrYjhveWpLMW1RNlFwcUc4ai0tQWROaFJDRzNKMUVFWXo2Qmk0MktrdDBtOUxYdkVhQlFXQnRrMnlFNkU4c1RTTXpDbVRxa19ydlZvR2g4SFI3VXowWnRSOHFLQm9YV2IxQmx1YVNZQUhZLWlnWlFaQzJYWE4yZk1PSk43VERZMURoeDUyWTU1TVQ5dkk4NmlTQUtqQjItRU8zaDhhT0FKd0FlRmFn?oc=5",
-          "pubDate": "Thu, 30 Jul 2026 22:00:00 GMT",
+          "title": "Scouting America drops diversity initiatives from event after pressure from the Pentagon - AP News",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUDNoMTVGelItSHdkc25xOFJuejJVT0V5eUt4MVRoOHpZdVluUFF3WVg4V1hoa3lwM3A4NG5RWks5RTRWX1JHTVg5WjhiS0NxMVQtUlNOTXV3d2xFQTl2TkphcFdYWjhJZWs1eHU0SEp1VUtKNUJqYkRJWnBONzRYdzltUDBYT0UxaTJhRHRzT0p5OHJGMmd4ZFZLRWpoWFFaMHBQY3lVOU9kRTNDb0x5LW53?oc=5",
+          "pubDate": "Fri, 31 Jul 2026 00:55:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Mandela Barnes drops out of the Democratic primary for Wisconsin governor - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYmpVVVNiTUlMRVlmSUpERVd3MDd6WXhkYS1uUWc2R3hZM2NoUy1pY0gzcUNtcnQtSVFQS2thZEt0Rnk1OU1SajA5VXVIYmpUMDFmRk9fYlE0aU5nVVpCdnZnM3FNVTJzeC04TnBzMVNvQ292aG9OdEs1aXhBZkRfQlZqaXFINUEyVkNSSGVGQWlCZlJBaHNmb2lXOEZBVGV6cFFjb2F3?oc=5",
-          "pubDate": "Thu, 30 Jul 2026 21:56:00 GMT",
+          "title": "Here’s why new fronts seem to be opening up across the Middle East - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOXzdoeWRhajFIWkNRR2tLa2hmSlUtUzJWODdKZjZjbmdwa2RoejJvemVxQmFnUFV5SmRyZXhydnRDdmIxdkdBdTljN0stZVFacEFRMVNkeFBVUUVaQzRMSU9FNWJHSzJaRHV6blRnUDRIM1VnSEhOdGZSU0FPdmcydDhCMHBIcEVYMU9rakl1eENRY09SX25KWEJ3?oc=5",
+          "pubDate": "Fri, 31 Jul 2026 00:22:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "The Trump administration is ending a Medicare drug subsidy program. Here's how it could affect costs - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSEZ2VDJGWGo2MnhlQTJoemV0UU1aWXJzNDRhSnpEZ3VZREw2RTUxMjZKRTB0eVJKQ0RQX3ZORnBjd0xIT0hIX3V2T2NDMmJaUWVOb2FrdEFzSnVPZmNVbTBuV3BEQXk2dlVtT29GWUVjVkJFeGo5ampxcFBuUGpCVUZMWHowSjFrSVFsSU83alEwS3RVNWVsUUREUXVicnIzeTkwRE5n?oc=5",
-          "pubDate": "Thu, 30 Jul 2026 21:15:00 GMT",
+          "title": "US cites ‘unauthorized travel’ to end DACA status for a mother of 3 deported to Mexico - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYTVZaWU5ai1jZ1JvMnJuOFl0OUI3RW9hcTk4NkdxempjSmRyTEtnX0pFWEVLQXFpaE1fZ1QxdlhzYUhIR2FFRkY0eFNCc1dfMTdqR0xjeTIwSjE4cmJYSS1oNC1vN2UxY053TmtYd2lwUy1USnZqMUNDcWlzeXdFZFQwMWdfN0NvZ0w2NzZiRGJPZw?oc=5",
+          "pubDate": "Thu, 30 Jul 2026 23:42:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "US and Iran trade missile barrages as hopes dim for a quick resolution to the five-month conflict - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUnhRWEFZaDdpMkNfSDhNVmJ6NmxmQUxmZVlfZHJldjhpdVBLdnlaYzVOX3pYNE0wTkhyYmRjempCeDBMNURTejFDNlB5RThIYlhOOWlfb2xvbElYbEl4X3NhUlpYaWwwTkhxSDZSazdXMVc0ei1CYW4xakkzUENEb0tPRXJ4VktVVExvZGpTWnJ6azU5cjVEUmdPS3V0LUE?oc=5",
-          "pubDate": "Thu, 30 Jul 2026 21:02:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "European nations vow FIFA World Cup boycott over Infantino private equity plan as opposition spreads - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbUNHcXRDN1RPZVdnVjZqUjVOb0hZUWJFbEt1SW1zQmFPRFB2VlJwNno4eUNmU0M3d3EtSGlGZ3Q3REpFaUZkdHp4YWhRQ0piUkFfYi1jc3RrbjJmdHo3RDY3SG9MX080Q2FMRkRCc0tRMTI3ZXhjXzFEZlA4LTV3NFFBNUh2N09Fb18wRm5mR3l1anJqbHBNaUE5R0d2ZnlfdlAw?oc=5",
-          "pubDate": "Thu, 30 Jul 2026 20:08:00 GMT",
+          "title": "Milei empowers Argentina to bar or deport foreigners over hateful remarks about the country - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUDhveWdjTHFlTVpVLS14emJtaC1KYk5RcG5uMGFoRmQtd0VNVEc4WUlJY1VFd0lGa2FWbzdDNmlBNmRGbUJaamNKUFBScXk5WUhLNGxQYlV2TEpMYWFmczNJM3NRandsRWFjUThDRFRfblEtenh1MThUNEJ5MUhWSG5ENHplX29jWURUR0x3?oc=5",
+          "pubDate": "Thu, 30 Jul 2026 23:25:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-07-31T00:08:01.958Z"
+      "updatedAt": "2026-07-31T04:02:20.510Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Trump says 'Board of Peace' reaches Gaza disarmament deal - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOc1pSMmZLbHZsNjFobXRnOF8tSGRMa1V5Vmh1eW9ydUZvWFJDNXQ4Vm5SUXBzQUNOdGdDQms3NTFlZTV6WEM2Q041UE1ySE9PYXpXRHdNNTcwOU9YRE1GdVdWTWlvend3TUxWclBxaFpRWG50dnNsc1FqNXdnZnUzeDR0TnQxVlNSWDBubWh2S3hpOFYwdGMxMVlsNzAwTzFCVnlnSzJCVDBuZw?oc=5",
-          "pubDate": "Thu, 30 Jul 2026 22:51:54 GMT",
+          "title": "Asia stocks surge, yen steals spotlight after suspected intervention - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNlVXYXdFRjZLcGRvZUdsRkVNc0ZwYUJzNE1rcHdzN3VQOC00WF90TVNOdXhudGZVY3BqWlJ5ZUVTUDZYLVVhd2VEekFRX25rdnZwck13QThNMUhLOEpuVUZHUDhMV3d5ZmlKbDJOTmJmRDQ2Y29uTDBONzZSZ2d5aGtNZw?oc=5",
+          "pubDate": "Fri, 31 Jul 2026 01:31:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Wall Street ends sharply higher, lifted by soaring Microsoft - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTkwycXd5d3BqNDVILVR4WkY3UERXYktQdm13QlEwNkd3MXF6Nm9EcTdWNEQ0dmIyV2lPOTFqaU9icm1kYTVoaFIyS3ZUSTRqLWI5THZ0TjM3WEp3aE5XV28zUTBzWkJzcURDNC1Jb21GeXE4eGJjU2tvbkNCR1Qxc2VTeFJPNlFLS0tydFBYdS1ZUnJoWUJqajF4akF0S2NE?oc=5",
-          "pubDate": "Thu, 30 Jul 2026 22:49:38 GMT",
+          "title": "Death toll from Japan earthquake rises to 34 - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTDF2aTQxV1BJbDNHMlJaUDJROHROZ1BaWmxMUndqRWZJYWVmUmtvUW9NUUREYzVjczhqTFg2WTVpV3dUWWJQU3RWU2trX3FnSmJNSlVaZFJ2YnRwQzVFcm93dnJrTXVIVUplS3FzeERYOVNvdHdzX1BQdjh2cjVaMmFhazRaYU9fcV8tbDRwZG1QZEl4dWc?oc=5",
+          "pubDate": "Fri, 31 Jul 2026 01:28:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Migrants pour into Spain's Ceuta from Morocco, military called in - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNLTJ4YmJvZ19TT3o5RDRpZzdoSm9Vd2hwNVozSjVURDkyMjcyZ3B1WGdxY2Q0QWlkdkU1VGFsY0ktaXZpVDlXdE5RdDJMYTR6UkdYMDl2ZGx0QXpLcW1TZUZ0OThmdENpdW5VYnprSVF1WF9iXzlPdmhnd3dsUldjZ0IzYWtJX1JWYnhudDJadFlidzM1ME9YWGV4Mmdma2ZzZGVxQUhoLVhoMm5N?oc=5",
-          "pubDate": "Thu, 30 Jul 2026 22:42:57 GMT",
+          "title": "Gold on track to end four-month slump as investors weigh Fed signals - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd2tTZWFrV1E2TTVkdXlnRkRoZ1ZyZlJaUE5IQmREM1BWNWdKa2JWWHpuQm91NkltbXRaWWllTHNiWDJQQWRiYVBqd2xWN1FKdUxrQ0tucTE4S0VkcjhfcktHZEdvcTdJbVlvNnh2dDVURkU2OE9tbC1weWkxN2NFcFJrQ1JwT2xKNkhFZUF6NFhTQmFrR2M3cld6aGNYOXlLMmt2aVVSTjAyTUk?oc=5",
+          "pubDate": "Fri, 31 Jul 2026 01:25:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "HSBC to sell $25.3 billion Australian home loan portfolio to Blackstone - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWmNEbzNraXlwVEpqXzh4ZFBmZWlxQkk0Zk9WaVdhQ3owRHhzYWRUUnBjYnpyWG5ia3dlOTJNbFhNZzNPUGtZUVY5RkgtRzdYcklJUGp5MWRmWFhaT3RqcV80bS1JVnVBVm83UV9BWjdxSlVaUGlGVlJRQ0otYU5hVVI3TENKZ3o1UGFQTDdGenJTQjNJb2VjVUJXRnhGZlphdmkxQTBINXJVemZkU0pST2IwQlNyRFh2Vk13?oc=5",
-          "pubDate": "Thu, 30 Jul 2026 22:35:05 GMT",
+          "title": "Tesla weighs sale of China business to pave way for potential SpaceX merger, WSJ reports - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQN3l5b25GTzhYR0c5dDFhN0dRXzhZelYxMXFRWVB3RXFjR2sxbkRseEhFV3pLVmNoZ3hIMXRxekhZTHFBdVJXNVo2b1FEcmU5NWJpRFpLNGplRmFMZWNMTVZXN09sUW9USGpQQ3FuX0lXTG5QRVhMckNhM3JSZTZIdkxyTFNVSjFjWV8wN2NoTHNpc1UzeGRlR0pMUC12VGE3NERaY3Fxckhsa1dNemo2bUFjcG9iemNvVDY3cWVscktqaFMzWFBEUGhCb1N6Vnkwd1E?oc=5",
+          "pubDate": "Fri, 31 Jul 2026 01:12:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Amazon lifts capex plan after strong cloud sales; shares jump - Reuters",
+          "title": "Yen weakens after intervention-led surge ahead of BOJ policy decision - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObG50QjFDY2VPUEhRMEx0U1JQb0lobkF2V2QwRVdVMVZKR3NEMDZEbGphZmU0RURka0xtQ1dVbHd3Y01HMDlGSkVnWXBNQ1BDa0dfNk5Ed1k2Q0lCV0dKYXdVMDI5MHlRSlBZZjktbVVBZENUdjdYRy1iOXJnVXBodzNNNEtzV3BXVmdqN2pfVWVDalRvVW5Wd3JndlBsM2pMSlVtTzBySHpoQ2pSYTd4alQ0RWl6OWNLc3hIODNB?oc=5",
+          "pubDate": "Fri, 31 Jul 2026 00:29:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Cuba takes steps to implement economic overhaul amid US pressure campaign - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPME15MUpEQ1dzSEYxQzRoV3RvNGt6WjBncWtYMml5T0xaWng2V1A3WlI2M0ZsZk9LaFZ4MjBBcllJNUJLM1FGcGZ2S0dhc3ZMOWt5YWZxODd4NEJmMmt5dW0wYW5Mbm52ejFjeXRsM0p5WW1CcmxleWZfWF9Kb1VSSnVpZkZzd2xYWGw2VDZEVTExSU1yZDdlSnlvVVBvVHF6bTl5S2JQRG1YdlA5a2JCcDZFVVFISjRFNVpKSm9mSjk?oc=5",
+          "pubDate": "Fri, 31 Jul 2026 00:23:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Ukraine's envoy to US says 'We need the missiles' - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQc0FoYW84ZXVPNFhUSGFHMWR1SlU5QmdBa0dydFY2MFBuaXNDSklqVGNLNk1uN3dINTNNM0Vmb3pleWdLSEM4SDBRb201TXd1cTEyM0t1SF9sMnNTQXlBX0o0dU1RWHdoSWRxaTgyNEVMSjNEVnBfWXIzaEJKUklHQVFCZ1RFVWUwN1pFSGk2OHlpcjdQWm9TMXk3aHRkb3dEc3FlQQ?oc=5",
+          "pubDate": "Fri, 31 Jul 2026 00:04:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Amazon lifts investment plans after strong cloud sales; shares jump - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY0xqQmlIUXJydk1wNzhibDVjTzVaekhCb3A1NWs2cm1aQUVtWU5tVEswRkhpdjE4Z3hzVk5MbmtBWUYtdnlPT3Q5a3lDRUdYd0prRnJhWXBqN1dpTVB3N0dFQW1oUGZYWHgyX19maWlvQkNKWnpBXzNCSUdKcThxdWxGTkhoTVZsOHdGZENlMXZHb1NnYzY2Y2ZBRVVkVURPd0pKeHZVb2ZjNzNGMnpTLUNWeE8?oc=5",
-          "pubDate": "Thu, 30 Jul 2026 22:31:33 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Informal poll shows Costa Rica's Grynspan ahead in race to be next UN chief - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMHhzZG9OM3l3X25iY3BGbE43ZDFXemRIdWs5bDhWbzZhU19VSlNYWi1qeFItc1hUSEFNaWo1U01nbFdpaU5HNGdvWW5XTkRqU2NfdEpmMUJLalRkdUJNdUctalhKSE02eFd0bkRjRkVKMXc5eW1HeG1JZTFJYnRLcWI4UnpZTEV6d1VpX3JEVXFZbnhXU2VuSU8tdFlBZUk0Wnd5bm5GeHNYZzFaRjlyd2F4Z2tvOTVBWWhB?oc=5",
-          "pubDate": "Thu, 30 Jul 2026 22:25:19 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Apple revenue forecast lags Wall Street targets as iPhone maker struggles with supply chain - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPanFaaGdUMnRidmVSWXhQVXVDeG9fazRla240ZEFBdmhIcGJINkVvUVRhb1d0NGx2cEluMnlxYWdjVWpSWmJLbDdiWXE1LVVxVGR0Zm9yeVVfS1Z5RFN1cDB2M0ZRelQ2MnFhZHlfdm9ySHREOFhJVFFRc2xOMUowdzVISlY4aHpoQWRKYzcwN3ZQNV9mSFV6T3FPYjdobDFOdmF3WVRzODk5Z0Z0WF9mSW5xZS1IVXlM?oc=5",
-          "pubDate": "Thu, 30 Jul 2026 22:23:58 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Trump orders restrictions on export of critical minerals scrap, White House officials say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNU14WEhPWkY3aVFrOTdOWDhod2s5WVB4VDRFTm1CbGptaDRWNDVrV3djUmVyR3JkZVEyTkNCcUdFVG9icGZFMFRnZWxRSzE4Z0o3cjc2WkVuTTltSGtOMGZzYnZtMi1pUFhCUGU1Y2lWRmVTOWNPcDVqbXRXbVJMTWhqMUNDNzZUZzNGSURzTEhrUkxqZW92VTdia0QwUkNaQ1U2WUVVRjV0a1p3LU1OVjdYRTBuT1ZHdUV3cHYwWjB5VnB2a3dibmM2QQ?oc=5",
-          "pubDate": "Thu, 30 Jul 2026 21:38:31 GMT",
+          "pubDate": "Thu, 30 Jul 2026 23:36:14 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-07-31T00:08:02.398Z"
+      "updatedAt": "2026-07-31T04:02:20.936Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-07-31T00:08:02.747Z"
+      "updatedAt": "2026-07-31T04:02:21.035Z"
     }
   ]
 }
