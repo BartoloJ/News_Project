@@ -1,9 +1,15 @@
 {
-  "generatedAt": "2026-07-31T17:06:38.998Z",
+  "generatedAt": "2026-07-31T18:54:46.571Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "What triggered the mass migrant crossings into Ceuta?",
+          "link": "https://www.bbc.co.uk/news/videos/c171nnql1j4o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 31 Jul 2026 18:29:04 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
           "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
@@ -45,20 +51,20 @@
           "link": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 31 Jul 2026 10:32:17 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Anthropic's Claude AI escapes to hack into three organisations",
-          "link": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 31 Jul 2026 10:18:54 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-07-31T17:06:37.575Z"
+      "updatedAt": "2026-07-31T18:54:45.099Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Google pauses AI satellite images, after fears of deepfakes in the sky",
+          "link": "https://www.npr.org/2026/07/31/nx-s1-5914652/google-adds-ai-to-satellite-images-raising-fears-of-deepfakes-in-the-sky",
+          "pubDate": "Fri, 31 Jul 2026 13:48:26 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Keeping cool without AC: Our readers share their tips",
           "link": "https://www.npr.org/2026/07/31/g-s1-136442/extreme-heat-air-conditioning-keeping-cool",
@@ -90,12 +96,6 @@
           "source": "NPR"
         },
         {
-          "title": "Democrats show divisions on Israel amid competitive midterm elections",
-          "link": "https://www.npr.org/2026/07/31/nx-s1-5896216/democrats-israel-congress-2026-midterm-elections",
-          "pubDate": "Fri, 31 Jul 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
           "title": "Ahead of midterms, Republicans run ads after cutting healthcare funds",
           "link": "https://www.npr.org/2026/07/31/nx-s1-5870960/republican-ads-healthcare-medicaid-2026-midterms",
           "pubDate": "Fri, 31 Jul 2026 05:00:00 -0400",
@@ -109,11 +109,35 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-07-31T17:06:37.852Z"
+      "updatedAt": "2026-07-31T18:54:45.270Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "60,000 migrants crossed into Spanish territory of Ceuta, but most soon left voluntarily - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTzlVVHhpVWswMGd1LVZPeE1xOW1ENnNnbzFtTTBlOW94QV95RkM0ckM3enJHRmc1cExGLXRxTW40LW4wTkU0b3dNdHRxWGVpNWpvZkR6WVZvS2xMcjFyVmxjX0QtUXVQb3hmb0Z6a3VILTBqSFg2RkFVWUlYY0p5WXlCbjhfNUVa?oc=5",
+          "pubDate": "Fri, 31 Jul 2026 18:22:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "US stocks swing as Amazon leaps, Apple sinks and rising oil prices add to worries about inflation - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYXVQbFd2b2dBZFVoT3ZiRndKdVVic0xJWVFBWF9hN0FYaUk2ZkhlVkctWWtibi1GNVgxdE5Ec0FzNkpwNnlsZXNla1d5cXgzbFVIZ2pnMFdvMW93QlhXOW9CbkRhd2J2Vl9jaVV1THY2RzFzbUtvSGhNanA5NE5OQXJTN1BNVlEzXzVQQ00zQk54U0NIdlpj?oc=5",
+          "pubDate": "Fri, 31 Jul 2026 17:49:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Israelis worry about weakening connection with younger Jewish Americans - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU2tRckZReWV0cXQ5Sk5CVjlSaEMxV3BPNVBZNUliOTFqZHY4WHdJM0tGNTRFWk5ZLUlUNGJiSFJiMHhRS3VGTUUxTHV1T25zajVkLXlyTjdpTm5kaEtGZFlKOEx3NVBQdjBEU1pmWDNBYnZNTm1rM3RwelprZm8wbmZDMm9HN0RUN0RmZTZSUXJsSUpZZ0R1TnNESzVGWTZOeDMzZEIzeDRIM2JmQ2ZQTFVGMUt6NFpHZkE?oc=5",
+          "pubDate": "Fri, 31 Jul 2026 17:40:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "First US refueling aircraft arrive at air base in Bulgaria to support Middle East operations - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNTF5M2laOFRLRFZvVzRiVGl6NHVGdTIwOUUzZlZ2RlRrSDVWZnY4dW5heDQzcVRFTkU3YXBMaEdCUG53amFnb3lSOUNNWlNUU2xFd0oweklUNGRieFh2U25WZXlORU5KT0pobzc2bXlVcUZWWW56RGNWejZPSnRIUTF1X2c2cW82R2pDamhxTEVHaXhLRl9xVzlneW9xR1FGU1c1OXJqZlc5OXhuSXBoR05INA?oc=5",
+          "pubDate": "Fri, 31 Jul 2026 17:03:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Hamas says it will disarm if Israel halts strikes and withdraws from Gaza, but obstacles remain - AP News",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSUxHNXg5a1dsek1MODNNZ1RiNnNUWGpGV0VoMmdBVFNQN201aDFjb2xWbm45dUdEMmphS3RZSlpPUEIzN0J3RV9JTTN6WjRCTW81Y0NHMGxCT0M2SVlyR2hnZnd5eWFySTJickhrNDRIbnl4dS1WSDkzNzhlTXJSUmw0cnlQNnFBZkJTVHhDMUZ4SVpld2g3Tkxza3c3ck0?oc=5",
@@ -133,93 +157,69 @@
           "source": "AP News"
         },
         {
-          "title": "60,000 migrants crossed into Spanish territory of Ceuta, but many soon left voluntarily - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTzlVVHhpVWswMGd1LVZPeE1xOW1ENnNnbzFtTTBlOW94QV95RkM0ckM3enJHRmc1cExGLXRxTW40LW4wTkU0b3dNdHRxWGVpNWpvZkR6WVZvS2xMcjFyVmxjX0QtUXVQb3hmb0Z6a3VILTBqSFg2RkFVWUlYY0p5WXlCbjhfNUVa?oc=5",
-          "pubDate": "Fri, 31 Jul 2026 16:04:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "US stocks swing as Amazon leaps, Apple sinks and rising oil prices add to worries about inflation - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYXVQbFd2b2dBZFVoT3ZiRndKdVVic0xJWVFBWF9hN0FYaUk2ZkhlVkctWWtibi1GNVgxdE5Ec0FzNkpwNnlsZXNla1d5cXgzbFVIZ2pnMFdvMW93QlhXOW9CbkRhd2J2Vl9jaVV1THY2RzFzbUtvSGhNanA5NE5OQXJTN1BNVlEzXzVQQ00zQk54U0NIdlpj?oc=5",
-          "pubDate": "Fri, 31 Jul 2026 15:16:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Major oil companies reap massive profits as US and Iran fighting drives energy prices higher - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWVU4NU1jc1BmT0hoUWpPZ2QyR2VnNUFoN3V5YloyQVJLdkhpTzYwRjlxTklYdU5GamN5SlJHYmZCbjNfUENqLVM1bzJ2NFBmWExMWmZ0WHFLRTJNVUJaZDJTZjhkS01NRWh1dk16OEtBWjQ5SlQ5dXJZczVVcDYxUGxTeE1pSVVpcEcwdlAtTzhPS0RKYkpxRnhVbw?oc=5",
-          "pubDate": "Fri, 31 Jul 2026 15:11:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Algerian bus plunges into a ravine near Algiers, killing at least 25 and injuring 44 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTHlRQTNtbXNTdnNMZlRKUUQ3MGEwaWZ1ZkpOMUN4clRaVEZSTlViUTR3cEJFelhFU0dYT1hJa0pGakJPSURXaDNBdFREOGhlZE5sXzMxWTZHTGVsbHVKU2FZNTBoVkVIS3VsN2JBbnNnMy1LSndRRC1KTllRTHFrTWN0VQ?oc=5",
-          "pubDate": "Fri, 31 Jul 2026 13:54:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Israelis worry about weakening connection with younger Jewish Americans - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU2tRckZReWV0cXQ5Sk5CVjlSaEMxV3BPNVBZNUliOTFqZHY4WHdJM0tGNTRFWk5ZLUlUNGJiSFJiMHhRS3VGTUUxTHV1T25zajVkLXlyTjdpTm5kaEtGZFlKOEx3NVBQdjBEU1pmWDNBYnZNTm1rM3RwelprZm8wbmZDMm9HN0RUN0RmZTZSUXJsSUpZZ0R1TnNESzVGWTZOeDMzZEIzeDRIM2JmQ2ZQTFVGMUt6NFpHZkE?oc=5",
-          "pubDate": "Fri, 31 Jul 2026 13:46:00 GMT",
+          "title": "Immigration crackdown threatens Haitian caregivers and the seniors who rely on them - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQlVOVndrNHo0bEdBU0FiYkdmbmw4Q0g4RzR0MmRVTy1TMTh6dHNaVGNoYmJJVUF4ZW94cUttRm9ieFhmNTdmaDhYVmpad1lfekQ0MEQxVHZwRlBmTFpWSUZyS1pSYjJkZkE2LXdseXRxUXVOa1JaOHpMOWprRE5Ib3BJTGJLS2F2WWgtN2RaN05WaDJQdkF5bmJRel9tdndTLUthWUxB?oc=5",
+          "pubDate": "Fri, 31 Jul 2026 15:30:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-07-31T17:06:38.282Z"
+      "updatedAt": "2026-07-31T18:54:45.783Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Greece fights fires near Athens as France, Spain improve - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOd05jdW45TDVMejhCUHVfa2RCaDJLTFk5RUxkOTFmeEdKMllFcTk1eVllOFlsZWFXWTBXTVdIME1OUWxMemY3WUhJdFpZVUpyNXoxNy1SMTRBVTRNTjYteHNBRmhRTHB5T19PRmFFcFNheE91aUFEY1FkbzItS18xR2dDTHFpTDVKcVBYU2VmaWItSnRzeHJPeFhWTlRtRDRpTTAwd0RiWElITEdhdHc?oc=5",
-          "pubDate": "Fri, 31 Jul 2026 16:54:43 GMT",
+          "title": "Trump hails Gaza deal, while Hamas and Israeli officials see hurdles - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNjNyWTNWX1YxTjU0OEJlQjZZRWxGa3dLSDlrTzRma0dNMzczQm1sNldhbVRsT0Q0OVc4OXpSeXMyYXNCM21EX1BhbVd3XzdCeXhFdUktZEVFZjgtYXhiS1pfWEFKS2htMktkZDdyQTBmOGlmOFc0enhNNlFiRWdwVWJYUzBwdXZkTi0wTlRMNWh2d0VIS2tqaWo5WXNxcEl1VFdDRlN5VmdGaXFURG5ralM2RzNBLTFINFMzRzhNYjNWbnRVZTV4c0pzU0F1XzA?oc=5",
+          "pubDate": "Fri, 31 Jul 2026 18:35:09 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Trump convenes Cabinet at Camp David amid simmering Iran war - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZks0akNQUmpqVGdGaE5rakdfRldLS25IaTFzeVF2VzVmVGc5TkF4VTI2NjI1UlVVdXlveTFxRXFMRWlGTEN4STFsYUdySDQzNE9pSGF6SzJ5bk83M3RsWGc3a3N1Q21oQlQtMGZ4QnFjSHd1dlhlbkNsZ3dvVmFhOFpwVVpNaUx0TmxTTEp2bGZzRExacFhmaEdBS3VjQ0l3cGpPWQ?oc=5",
-          "pubDate": "Fri, 31 Jul 2026 16:31:43 GMT",
+          "title": "Spain says migrants are returning from Ceuta after 57 die in border rush - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNa1ZzcUQ2cjlBUVYyaXhhaTJHRWQwWkE5UzU4ZUhuaUdmSkpmLURVdmNRS0xjd09pYzJ6MEIzNW1TaDZaMDJ1U09yX1dFS1pZR0szaFhvRVc2ZHk2MFZqLUExRURpY09PdEFUOTZTcWQ5Z29OUXBrQTNnUjNXRjF3V1RoWVZIUTJ6NDJ0Q19ENUQyNnoxREZjYTJrbjFUbmZPMFkyUFlBb1RyaXlLSHdRVWsyY0trYjVZ?oc=5",
+          "pubDate": "Fri, 31 Jul 2026 18:34:44 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Trump says 'weaponization' fund is dead despite his wishes as Blanche nomination stalls - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQ3NWakstbEU3UGFDdGlSNFR6VVNuVDV6cjZjY2sxdm1pNi1qMkNSOGlQMlhqcnluc3E0c21FMVZrNnZQLUhtbEthbUIxMV8xNGk3YnpRajVyaHROZmxVSzFLWlJXdWdOMUNHaDF5NS1OOWwzcld3VDFKdFpQNUpTdVV3aHhOZE1rdkJFQ3kxLW1xZTBmQ1d4bGhoakx6YVVOVXlhSUlMblNMXzJ4REltbGdqOW5taUk?oc=5",
+          "pubDate": "Fri, 31 Jul 2026 18:33:15 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Trump says US has not agreed to Ukraine building Patriot missiles - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQXNqSU9WRVUwMm1rWkFyY0ZVdXpoQ3RudWlwQmI5aGh1VmJITWJuWkpjc3NJQ2VfQU1PZlFwZkhfYTZvYWNxZ1NvM1FseWMxU1J2SDZkN2N3SW5HYmJUTWozTlpwWTBNYmEzQ1Y0N1lPYUotUllyTW5PZ0xQUmo0b3NSNzdsV1QzNzJGNk1ZWVhIam9FNXpUMUVSOGxVaGVCWGJmR0VnV2x3bUZ1Nzh2OHY2TkRyd0dCdGlpYWRhVWhNcVU?oc=5",
+          "pubDate": "Fri, 31 Jul 2026 18:08:09 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "EXCLUSIVE: Trump's powerful but unofficial Venezuela adviser leaves his role - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZXRSWkR5MTFHd0tLTy1pMU5KN29nYnMtRTRvb0Z4WWx5RURqdUtaRTA3dkNaa1JFb0VxWk10TzRFYlFMcWNvRE1QZHo1Qm5nU1FjczhMTWw0Q0pNM0doSVRIcWJnTGlkaFVaSGpWWXE0LXEtQ20tMnU4ZEpUdXE0NFBKRnpfYlQ4YlBvNm94VGduajNNY1hDWVFLcVR3Vzh0dC1BUg?oc=5",
+          "pubDate": "Fri, 31 Jul 2026 18:06:40 GMT",
           "source": "Reuters"
         },
         {
           "title": "Wall St struggles for direction as rate uncertainty offsets Amazon jump - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdXM2OW82ZTlzUGZjWFdRTG9lbm9RWlBPaTR6czltYi1LSE5xZXE1YzFtOXB2ZF81U0gzaklsWDJaaWl3WG5rNWI3dk5QT3lsM1R4OHBfSmZZd3J6ZFcwSGR0aXoyZ3VZSkREdDFEZVJvSlpHcVVhdTZWdkttMDlvYmhxZk9nVHZVRkZUaXVfU0hMMUNMc1Y3Q08zX1VGVzR1ME04YThtaEpjTjloekZXZVpEQTE?oc=5",
-          "pubDate": "Fri, 31 Jul 2026 16:29:05 GMT",
+          "pubDate": "Fri, 31 Jul 2026 17:53:06 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Nuclear firm Westinghouse confidentially files for US IPO - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUi05dGwzYTU3U0N1YWJHZ3JlSVozMUF5d0FSV2VYWjQ5eUt3YXVwQjVnSlVtSm1KbC0ycHlGYk1TNlFMa2FwZWl4bzZkbnMwNEZvZkVrbTNVWlNQb3JQR0Y3OHFNZF9XWWN5a2h5OXZXU3dic25QYmVtS0x2U1doeFR1M09TeUtWdjZSWXozd21DaEd5MV82Sl9lc2ZaMXFaaWJj?oc=5",
-          "pubDate": "Fri, 31 Jul 2026 16:25:36 GMT",
+          "title": "Apple set to lose nearly $500 billion in value after weak forecast - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZi0ya0lkQWtBRjNSR0o0YkFvMnVrZUx6N3EzRHBnTEtva0gtc2RwajIxM0ZXY2hLN2h1eUl3THBILVBrbTNrNHRDVmpLUmxBWWtQeUNuTURRa2xMZXktdG55Ymd3YzZmR296U3lTLVFSZjQ3eS01QzFwZExkVDN5Mk9PWjROR3hDZlRja0YxNGM2Tm5MUE9CRjNYWUtuR19RQUxPc0FoZEdaVGsyQUtiQmdqQmFGUmhqV0l0SXZqUzRoRHhzckpv?oc=5",
+          "pubDate": "Fri, 31 Jul 2026 17:52:29 GMT",
           "source": "Reuters"
         },
         {
-          "title": "ExxonMobil misses second quarter profit estimates despite hitting four-year high - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWS1OZDE2YWEyd3pXcklrdzRqbmRBaDVvVkVmSTF5clJqMEs2V2U2N2VwYjJUY0xVTnNjVGI5bW5lR0o1Z0paNXhsbHFWc3NKWkpHblB4T2NGTzRSdmFKckQxaHJjaW5HdVBFLWZiSU9wNUtwTVZrbjUwM00tUjhzZzZLaVdxdDNrdjhFeEtEdF9RS3UyNGtZQ3V4YkRsN3J6V3RSV3hOMExPRk5ZSmdnUTZYU1pudkFUdjhJZ2YxSmVmQQ?oc=5",
-          "pubDate": "Fri, 31 Jul 2026 16:25:01 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Israel must approve Trump agreement before Hamas will implement, says Hamas official - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNjNyWTNWX1YxTjU0OEJlQjZZRWxGa3dLSDlrTzRma0dNMzczQm1sNldhbVRsT0Q0OVc4OXpSeXMyYXNCM21EX1BhbVd3XzdCeXhFdUktZEVFZjgtYXhiS1pfWEFKS2htMktkZDdyQTBmOGlmOFc0enhNNlFiRWdwVWJYUzBwdXZkTi0wTlRMNWh2d0VIS2tqaWo5WXNxcEl1VFdDRlN5VmdGaXFURG5ralM2RzNBLTFINFMzRzhNYjNWbnRVZTV4c0pzU0F1XzA?oc=5",
-          "pubDate": "Fri, 31 Jul 2026 16:19:01 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US Treasury informed banks that it may intervene in Japan's yen, source says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdXpOeGRTaEJ5bzQ0eldfM0hpWFlCTUlsVGE4WHJhTFAtNTdwT0Y4R0tDSjBJX1lseXYxVnhDZ1FWRDRmZG05X3lFUl9JdnRBVDZEbHJma1NfdmMxbnNscm1SMmVfT0F4NXhhRGhoZlY4RlJfZDRrdXluMEJfWm1RODA2ek82a2poakpMMnRsZ0Mwd0JOQmV4SFczako3VnRzb1JXN2xCejdUdHJ3Mk5Tc0JkWnpxUXQwQzZr?oc=5",
-          "pubDate": "Fri, 31 Jul 2026 16:14:09 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Spain says migrants are returning from Ceuta after 57 killed in border rush - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNa1ZzcUQ2cjlBUVYyaXhhaTJHRWQwWkE5UzU4ZUhuaUdmSkpmLURVdmNRS0xjd09pYzJ6MEIzNW1TaDZaMDJ1U09yX1dFS1pZR0szaFhvRVc2ZHk2MFZqLUExRURpY09PdEFUOTZTcWQ5Z29OUXBrQTNnUjNXRjF3V1RoWVZIUTJ6NDJ0Q19ENUQyNnoxREZjYTJrbjFUbmZPMFkyUFlBb1RyaXlLSHdRVWsyY0trYjVZ?oc=5",
-          "pubDate": "Fri, 31 Jul 2026 16:12:35 GMT",
+          "title": "German court rules AI music firm Suno broke copyright rules - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYjBLM01uX0dLclpkY041M29fZHdIbm52RmhrcUxBdEhxZ1dzeVlHY25tRVJYcGRIejJ5ZjZZOU9RYnhsaFdGX0dWdG9aRGxpRDE5QzItNFNqWm9RVDRheEYxaFVuRm54aXh3cmRNLTlLSEV1ZVZ5azgzMDNtUGR4dVNjQUp2b0R1eldwSTVqeFJXMmJZQWl2MkxMNzFGYkxKM3ZR?oc=5",
+          "pubDate": "Fri, 31 Jul 2026 17:49:26 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-07-31T17:06:38.702Z"
+      "updatedAt": "2026-07-31T18:54:46.265Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-07-31T17:06:38.998Z"
+      "updatedAt": "2026-07-31T18:54:46.571Z"
     }
   ]
 }
