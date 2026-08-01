@@ -1,9 +1,15 @@
 {
-  "generatedAt": "2026-08-01T01:05:12.212Z",
+  "generatedAt": "2026-08-01T04:55:56.563Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Peru's ex-president leaves jail after 15-year jail term for corruption overturned",
+          "link": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 01 Aug 2026 02:21:29 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Body of US climber the latest recovered after Pakistan avalanche",
           "link": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
@@ -45,20 +51,20 @@
           "link": "https://www.bbc.co.uk/news/articles/c0kmzx8vpv4o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 31 Jul 2026 14:26:07 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Peru's ex-president has 15-year jail sentence for corruption charges overturned",
-          "link": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 31 Jul 2026 10:32:17 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-01T01:05:10.776Z"
+      "updatedAt": "2026-08-01T04:55:55.268Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "FIFA scraps controversial deal to sell stakes in World Cup to private investors",
+          "link": "https://www.npr.org/2026/07/31/nx-s1-5915820/fifa-world-cup-gianni-infantino",
+          "pubDate": "Fri, 31 Jul 2026 22:08:51 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Prosecutors move to dismiss Reflecting Pool vandalism case, saying 'botched installation' to blame",
           "link": "https://www.npr.org/2026/07/31/nx-s1-5915828/reflecting-pool-david-hearn-dismiss",
@@ -100,20 +106,44 @@
           "link": "https://www.npr.org/2026/07/31/g-s1-136527/up-first-newsletter-trump-hamas-israel-todd-blanche-us-economy",
           "pubDate": "Fri, 31 Jul 2026 07:30:26 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Who's driving a bookmobile full of Epstein files? The quiz knows!",
-          "link": "https://www.npr.org/2026/07/31/g-s1-136290/epstein-trump-fauci-grammys-bts-news-quiz",
-          "pubDate": "Fri, 31 Jul 2026 05:01:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-01T01:05:11.065Z"
+      "updatedAt": "2026-08-01T04:55:55.452Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "SEC, Big Ten add long-missing support to college sports bill and revive its chances in the Senate - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMTlMV09QUXN5bG9WcDh0c1g5ay1ZWFV5b0FjV2JYT3dCSG9UaFRDUDFmc21KLXZZMF9HN0ZRRGxabG9EY0VuVlY4YXBabXEzTXppcUdmWkZrMENTYXJCWVFValF1bUF1S3hJRjZGSVlFMjQyS191blBaV3M5T1ZLOUhfcWp5VFRhSTZiQ2p1MFFfYXYxd2ZaREVzdFlXLXc?oc=5",
+          "pubDate": "Sat, 01 Aug 2026 03:26:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Migrants cross into Spain’s Ceuta territory from Morocco, in photos - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWlo3SVBubjNqaVBQZWgxdzQxYk9QUFJzV29iZWMtTlBvR2RTZlRBaE1uM3ZUTkI2SzhVX3MzVHpoalZYWjFkNGlYUUVtUk1vcWo0WmJESjdsR3Z0TWpVWnRlNDFZeHdOUENmRjFjUUVSVWppTVRnZlJIWlBMRlBUMl9ZMW84WnAzbzl1RFliWXl2X3V1VjF2Yl82MFpleU9FclRTTFFmdWtPdUdXWl9vQjVkWVNVS1c5?oc=5",
+          "pubDate": "Sat, 01 Aug 2026 03:05:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "What to know about the Spanish territory of Ceuta as migrant arrivals from Morocco spike - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVDZ0cTJsQlVfb1NSX2NwYWRaemctTlhPRjZBT2F3NWtvQXNyTGYyTVFhaTNDUjF4S3pvT1d4T0dRZXpLYVRFdGc4eEEyT0hOS3RPUVBtQnpQLUpPSlhvTlVXMlNkcmlveVJWRHk0aU96bUtGcGZSLU9mZFF1aUxwRGpPVXFFVkZzczVpU2VtbW5lTTJPcUxUblhlbWNrU3BJYnc?oc=5",
+          "pubDate": "Sat, 01 Aug 2026 03:03:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Sophie Cunningham says she’s not concerned about being a distraction for the Fever - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaWdYaEZOVkwyNjZObXZkSEYtNGcwbE41RXRzQkFsV042bFFNMElSRGUxbF91UWM4SDcyRHJQcjNDVW83Nk0yREgtZUM5OXVER3NVU2dtME5UUlk5cDI3cmQ1Rll6S0w0ZHExR1dFTjJOSGJNWGRRSlJSTUYwdUtsMDlta3g1V3I2Tld1N29qd1N3V25wLWh5X194cHU?oc=5",
+          "pubDate": "Sat, 01 Aug 2026 02:55:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Infantino abandons plans to sell World Cup profits to private equity following massive pushback - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWEpDcHVOTlpQTHlKczVBamNkUWFHcUtOT2VlS1pSVlZ2VWg1QTZfLXFJZDA4VEl1eDB6c3FGbU5USlNZbjFDMXlaX0xRZHlSbmpmckh4WjF5RTZrWEFEOHh6SDVmSC0zWW9RQ2Zxd2hLajhkV1lVaTgwb3F1aC1tNWhxdUgxYlU1bVRyQnphemhPck95Mkh1bjR3?oc=5",
+          "pubDate": "Sat, 01 Aug 2026 01:47:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Infantino abandoned his World Cup equity plan after seismic FIFA backlash. Here's what to know - AP News",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeXVVaG1zc0QyQ3JfMFoxWjVfUEx2cTRpTDRxTzZIQ0pjcFdvLVJwQWdJQ2hVQnBLOVRsZDNKOGp0X3FuRW1tOWVJb3NLRGJtdkQzY0toazlHbzFDaVZFZl8xT1Z6UnlBbzZMYlVWUVR2Sy1VMXBWb1NWMGFTMnlFblJzdm55MHpmSXBrYkZsU0prM0lHcVZHZzFn?oc=5",
@@ -121,58 +151,52 @@
           "source": "AP News"
         },
         {
-          "title": "Infantino abandons plans to sell World Cup profits to private equity following massive pushback - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWEpDcHVOTlpQTHlKczVBamNkUWFHcUtOT2VlS1pSVlZ2VWg1QTZfLXFJZDA4VEl1eDB6c3FGbU5USlNZbjFDMXlaX0xRZHlSbmpmckh4WjF5RTZrWEFEOHh6SDVmSC0zWW9RQ2Zxd2hLajhkV1lVaTgwb3F1aC1tNWhxdUgxYlU1bVRyQnphemhPck95Mkh1bjR3?oc=5",
-          "pubDate": "Fri, 31 Jul 2026 23:55:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Arizona, California and Nevada would share cuts under federal proposal to manage the Colorado River - AP News",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZ05NSTFnWmRQVy1kdjdGaUlSZThIZ2FTVlpXNTlWOUFJRTJHOTlYNWd6MmVvSDNNYkNNU0NjTUlCOTJwN2dvaU9NQktjMXlvdTM4U05ZQ1pRajEzMVYzS0JUTUduSlA2LUUxTzkwMDFmQmpQU2tFbzVPNlV2QUhvdnNGMHBHeHFTM1kyTmFuX2lra0JTQUI4V1p6Q3Y4b0pNMS1aQ01VNUhaYlZzeHRQQmMwS09lV1lmUlNkSFhHTQ?oc=5",
-          "pubDate": "Fri, 31 Jul 2026 23:18:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Marine Corps says F-35B stealth fighter crashed in California, pilot ejected safely - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS1JrclNxT3JPWkxwamV1Q1FDUHdwVGtZNHRSSUNxZXF2Yzk1YkotZXpWczliM1RDdWUwb2pUN2x2NlVfcXpiRExubklNU3NPNTdsei1TV3NnM0VNZi14Skx2ZXNTNkFOc3I3SER2SlJ6VC1oZWRrV3RTMFl3bm9Hbmp0akFBRWlPb242bXh3dkRWbVlfSHpEWQ?oc=5",
-          "pubDate": "Fri, 31 Jul 2026 22:52:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Justice Department drops criminal case against ex-Olympian charged with damaging Reflecting Pool - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNR3FFR1RadzVYZW44TWxxMzcwWi1FTElMbHQwdy1sdDRYRWhxeWZnOWZMRWpEaEdodDdWTUJWaHlzd21sWmc1U2FUcjg2bjhKR1NMMUIzM19mRnEySmJ5NGpLZ0ppVzJMYUpDWkhCWm5GWEhqdU92Q2psUFVNQUFxVl9IZTFfdjB6YXA1S0RjZ2owRndsdURBM0Y3cnRPaVNrcTJUX2xB?oc=5",
-          "pubDate": "Fri, 31 Jul 2026 22:21:19 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Puerto Rico authorizes $2 billion coastal luxury development that activists oppose - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRzJ4NnpQSGQtRFBOcnRQeDV4VXhZT3VOZXBzQWNyWktXMml1ekwtVC11Mlp3M3RfYmJTcWo5ZzdlTDBfa3AtZTNVUkJGeUotLXdGUHBlN0l4MklucmRjaTdVWGlXaVJwTXMtODBVMlY1WFVPczVDXzN1OEloWExHY1RiOEdVRkNpNWtIOGtnWEpYd0RfMlJ3dUNoblEzcG5MN2c?oc=5",
-          "pubDate": "Fri, 31 Jul 2026 22:14:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Authorities release early ransom note in Nancy Guthrie case, hoping someone recognizes it - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM0xwZmNyWmRDRDhJVHYtc3diZEVDRUJ3SDNpYVJUaHJnX1lGZEJRSnkzZl9BQ0c0M1dpQk5NYUVYdjhPQ3R4QTV2UUExb2NCd00tSTFuQ1hES2FXeGVYTmd6azhUWm4zeF8ybjBvRHRKcWZaVTFkXzVfYUFRNjBBOTdYa1R3eWV4NGZyZWZsUzhEdmVWLTRIdjNIUDZWSTBKR3pTRlVZWTFxUQ?oc=5",
-          "pubDate": "Fri, 31 Jul 2026 21:56:00 GMT",
+          "pubDate": "Fri, 31 Jul 2026 23:57:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Pressure rises on Infantino and FIFA's World Cup investor plan as adviser resigns and Asia opposes - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUU5fMm9VeDFhRFZOV1c4MU1Sc19iclF0bVFZWnl4NVprSkJELTd3eVoyWnl4Smd4VHFRaUpLSldnMlBrbG0tdmJ5dFhaSFRjNWpsb2JxM0RQMmpUWGlnYWNVYzh2NlhKZmZBWnk2TWxzamlaLU92VEwzRkF4dDJZMzEyNWU2cWEzc2MzdEdwT3BsYlBXay1ZNVJ0SEFEX1E5czlNdFJR?oc=5",
-          "pubDate": "Fri, 31 Jul 2026 21:45:00 GMT",
+          "title": "Justice Department moves to drop case against ex-Olympian charged with damaging Reflecting Pool - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNR3FFR1RadzVYZW44TWxxMzcwWi1FTElMbHQwdy1sdDRYRWhxeWZnOWZMRWpEaEdodDdWTUJWaHlzd21sWmc1U2FUcjg2bjhKR1NMMUIzM19mRnEySmJ5NGpLZ0ppVzJMYUpDWkhCWm5GWEhqdU92Q2psUFVNQUFxVl9IZTFfdjB6YXA1S0RjZ2owRndsdURBM0Y3cnRPaVNrcTJUX2xB?oc=5",
+          "pubDate": "Fri, 31 Jul 2026 23:40:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-01T01:05:11.560Z"
+      "updatedAt": "2026-08-01T04:55:55.906Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "US to make visa bond program permanent for people from dozens of countries - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVzlLSWZRazMxRDYzOEoyR2s4TUd2czgtdkt3ejMydU5tOWRWZU5VanB3WDF1SmpWNGt1M0pJcGJqUGNTU2o4a0hrX2Ftdmp2MnJPeXdVVkh0a0tLbVhscWhHZ1JQczZHT3pvZmZNUjViekVqYnIwWHNPaVNKYjZvTmhET05TUUxuR3FKbkZmcjRLWnRYMWRVeXF0cXg3NXluUDVEOE5GTQ?oc=5",
+          "pubDate": "Sat, 01 Aug 2026 03:15:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Treasury selloff signals need to bolster Fed's inflation credibility, Musalem tells FT - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdm1UZEtzb3Zzem5MeU1jTGFIV2pKUzJSbjlhcWNrT1RNM3B1aWZBcDRsX3ZkbHBaQXBiTkVZY2pmeERNUmw2c2NVeldxR2VBT2dzeGJUZTVwalRIaWJOZUt3R0tuc29yeUt0R1k4bEJaUW1MTWtiT0szQl9mdml4X1VnRzROSUR6eG55dXZVVTZSbHRnaklpVWZFMExWdUV2ODl6MGFJM3NyVG1WaGd6UHRPdnVJYmFuNFRwMExqOXpGdjFReW9GdGhzRQ?oc=5",
+          "pubDate": "Sat, 01 Aug 2026 02:12:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US Treasury intervenes to support yen after Japan steps in, FT reports - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQU0lVZ3FOWEp0MkVGaWc4UkprSmVwZlZMSzBQRlBuQ3UzOEVuN09za080MDFQTHFfOVFGU1hsOUF3THBnbGc0Tk4zdi1sR0xBdHhJV3FiOTNmaEZkbWNWQ0VMRjROZXJUQ1VwX1BrS3NvdWRDYThPSWVhdnhZUmxHWHNsVEFRYTZFXy1CeTJVdW13SVpqcl9wdTBoRjdINnV6R0tEcTI3Qnpjc3RpLWxQOVVB?oc=5",
+          "pubDate": "Sat, 01 Aug 2026 00:28:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "With Situational Awareness AI deal, Citadel's Griffin rides to the rescue again - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUEJvTTNHX2ZwRVB4clhaX21yT08wR1hHTHhZd3c5U1dvYWZ0cDJfYkdsblNiWmhQYzJ6Qm9zMk1meUR4cVRsZk9LS0k4Y3lLUW1zMmV6cmtfOXZOWmpPTG9LN3FXa3o2ODlGbGVhNnR4VUpKMHRzbWhtSDUxa1EydHdURkRqdFdpekUxMmRkT1NfcnZmS2pRRy12RXpaaGZrOEhGSnA5NGNtbnN4OXFhdnlXM3c2NERLUmRTbEZRbUpmWGsz?oc=5",
+          "pubDate": "Fri, 31 Jul 2026 23:57:00 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "FIFA scraps World Cup sell off plans, Infantino says - Reuters",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTkZFYldHcnVYaHpSRmlSa1ViV2lxOEN0R25fZ1VLei1nSW91N1N5VEE0Mkh6VXdqRXk0SlJnR0ZjNEtEalJJdEVtMWV5aEFQSU1vRy1MbWU3SS02VndTaDVkZnZDbUtXUFE4Mm9ROFNGcGFhRnhpOTN0Yy14UzFDRmJaeGhXVFdhamdEVXNtV2RuaG1Eb3czLTB3?oc=5",
-          "pubDate": "Fri, 31 Jul 2026 23:50:13 GMT",
+          "pubDate": "Fri, 31 Jul 2026 23:49:00 GMT",
           "source": "Reuters"
         },
         {
@@ -192,34 +216,10 @@
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOY3JMOWh6OTFSeHRod0U3ZURXMVBZc202SWhscFNKVGY1WGRGMFhJNEhGaHk1NnUyaTlmU2FVMFRVUE9Xbzk5WW5sZTBOaVczYXNfam5fS0pnb3BwS2VmcEFfZGgwZnZHbFRDdjFFTkYtajVzMXJiUzJVdjhaV0tOWm1aZk9PWlg0aTdyX1NzUzlJMUZLU3FFQUZEUWc1bHQ0bWNqRkI4cXh2WktLa0VlanJUbFJuS3ZrMWVBNEtnWE52NzRFTzBHcEZ3?oc=5",
           "pubDate": "Fri, 31 Jul 2026 23:20:42 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "US says contractor caused Reflecting Pool damage, drops case against former Olympian - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOTR5LTJldEVKcS0xZlI3MTh0VGVfQkFkclBwOFBqUHlzME5ETVA0V0pLNVRyWVFmUWtlV1FXTWNtYUpUT19LU19kdmFJZmtvbGdCYnd3dGp1a1ppSDAzcUVqZmxMblllSHlvUUloZGhtQUxzcDdQS2VRWWtOWHNNTEl1N2hzY3VXQVUxSGtLalVXdU1DUFk5OFBaNk9KUmVzN3doMmpTYm91dFpRQVlObmdyOXI?oc=5",
-          "pubDate": "Fri, 31 Jul 2026 22:57:38 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "EXCLUSIVE: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYTc2SUhrNmVER0NvNW9nZHBwbklFMlA0eTNSRFZETXpfSWpVYU1wOUhaMDRLUnRVSEhtRzByeEktX2FEX1ZzaThNMnpZMW9JdVZDZkVRTEQ4UjdlakFPVXZTUjZaM2JOUkhpN1BxeEU4bWJuSjNkUldBNXRVWDkyYWVXVUlKM0VEZU5wZklfX2FJRkQ0bmVybTIyY0xpbHd6aGtIVmZ3YU5ocGdsdFlNeXdOQlBXOUsyZnZtZA?oc=5",
-          "pubDate": "Fri, 31 Jul 2026 22:39:05 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Trump says US has not agreed to Ukraine building Patriot missiles - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQXNqSU9WRVUwMm1rWkFyY0ZVdXpoQ3RudWlwQmI5aGh1VmJITWJuWkpjc3NJQ2VfQU1PZlFwZkhfYTZvYWNxZ1NvM1FseWMxU1J2SDZkN2N3SW5HYmJUTWozTlpwWTBNYmEzQ1Y0N1lPYUotUllyTW5PZ0xQUmo0b3NSNzdsV1QzNzJGNk1ZWVhIam9FNXpUMUVSOGxVaGVCWGJmR0VnV2x3bUZ1Nzh2OHY2TkRyd0dCdGlpYWRhVWhNcVU?oc=5",
-          "pubDate": "Fri, 31 Jul 2026 22:35:51 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US ICE detains Johns Hopkins researcher as airport arrests surge - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeGZwTGtTTTFEUnU2TERZUDdKeVZEZ0ZOZWI3d3AyNmVQM3ZoblNMa0JqbG5McFpPNHFnU1d5cFFzQnZNdmJ6bmdvUW9KWl9vS2ZMc0tvVm0zdWtlYXRGY0pMZ0dPdE56dnFDQVoxZG5sbVpCbHZhV2FIdTJ1VXk4cXpKSFpDVEN2T0kwTmpMUGZPd3ZqZENTa2w0cXNYbDhtNXJJSklEeGlUaFZQNUM2YUNTOFY?oc=5",
-          "pubDate": "Fri, 31 Jul 2026 22:29:30 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-01T01:05:12.012Z"
+      "updatedAt": "2026-08-01T04:55:56.324Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-01T01:05:12.212Z"
+      "updatedAt": "2026-08-01T04:55:56.563Z"
     }
   ]
 }
