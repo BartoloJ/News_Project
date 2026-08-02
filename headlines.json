@@ -1,13 +1,19 @@
 {
-  "generatedAt": "2026-08-02T07:07:43.707Z",
+  "generatedAt": "2026-08-02T09:34:49.064Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "Trump says he is cancelling strikes on Iran subject to deal being made 'rapidly'",
+          "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
           "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 02 Aug 2026 06:24:01 GMT",
+          "pubDate": "Sun, 02 Aug 2026 09:10:51 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Ginger hair portraits show unexpected 'golden thread' connecting Americans",
+          "link": "https://www.bbc.co.uk/news/articles/ce97nyz4rvmo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 02 Aug 2026 07:58:51 GMT",
           "source": "BBC News"
         },
         {
@@ -45,20 +51,38 @@
           "link": "https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 01 Aug 2026 23:03:35 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Russian ship defies sanctions to send military vehicles to Mali",
-          "link": "https://www.bbc.co.uk/news/articles/cgk4rdley0ko?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 01 Aug 2026 23:03:23 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-02T07:07:42.491Z"
+      "updatedAt": "2026-08-02T09:34:47.790Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "We asked a first grader to interview his hero: A bird scientist",
+          "link": "https://www.npr.org/2026/08/02/nx-s1-5758054/we-asked-a-first-grader-to-interview-his-hero-a-bird-scientist",
+          "pubDate": "Sun, 02 Aug 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "What Cyclospora does inside the gut and how it gets there",
+          "link": "https://www.npr.org/2026/08/02/nx-s1-5914624/cyclospora-michigan-infection-lettuce-parasite-outbreak",
+          "pubDate": "Sun, 02 Aug 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Idaho fast food restaurant shooting leaves 3 dead, city spokesman says",
+          "link": "https://www.npr.org/2026/08/02/nx-s1-5917121/idaho-fast-food-restaurant-shooting-3-dead",
+          "pubDate": "Sun, 02 Aug 2026 04:01:27 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Trump says he's cancelling Iran strikes, deal pending",
+          "link": "https://www.npr.org/2026/08/02/nx-s1-5917113/trump-says-hes-cancelling-iran-strikes-deal-pending",
+          "pubDate": "Sun, 02 Aug 2026 03:34:27 -0400",
+          "source": "NPR"
+        },
         {
           "title": "'Sopranos' actor Vincent Pastore, known for playing mobsters and tough guys, dead at 80",
           "link": "https://www.npr.org/2026/08/01/nx-s1-5916418/vincent-pastore-sopranos-obit",
@@ -82,38 +106,26 @@
           "link": "https://www.npr.org/2026/08/01/nx-s1-5916330/spain-sanchez-ceuta-migrants",
           "pubDate": "Sat, 01 Aug 2026 14:33:27 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Opinion: Remembering Margo Howard",
-          "link": "https://www.npr.org/2026/08/01/nx-s1-5907932/opinion-remembering-margo-howard",
-          "pubDate": "Sat, 01 Aug 2026 08:00:00 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "How these slum dwellers went from one-room shacks to beautiful new apartments",
-          "link": "https://www.npr.org/2026/08/01/g-s1-135362/slum-apartments-india-design",
-          "pubDate": "Sat, 01 Aug 2026 07:14:58 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "FDA weighs a new kind of flu shot based on technology RFK Jr. has questioned",
-          "link": "https://www.npr.org/2026/08/01/nx-s1-5897441/fda-mrna-moderna-flu-vaccine",
-          "pubDate": "Sat, 01 Aug 2026 07:00:00 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Lebanese who fled the Israeli invasion visit to see what's left",
-          "link": "https://www.npr.org/2026/08/01/nx-s1-5910555/lebanon-israel-war-hezbollah",
-          "pubDate": "Sat, 01 Aug 2026 06:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-02T07:07:42.678Z"
+      "updatedAt": "2026-08-02T09:34:48.069Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Donald Trump - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wVk5Dek1LUTk3V2t2cml3Q0lRWEhETXdYUzNTaUtrYW9ZYU5ybFVkbFduc3ZvV3VVTDVXMkl1NktRX3l6OU56M0h2MA?oc=5",
+          "pubDate": "Sun, 02 Aug 2026 09:28:32 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "All 10 climbers swept away in avalanche in Pakistan are confirmed dead - AP News",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQUliYnNTNW9Pdm9nd3MwRWpIYmxNX3JBTGg5VUpEQlpvWnRnWnRhSEQwcWhZMmRkU3A4TndHNC14b3lZbGhpeTR5cVEzTlpPeHR1TFo4RUNBaWVmTDJvTXNyVFdhN3RydkhFaFl3RFg3ZUJCNzMzeGExbmN1SnF2UTk2VzRjaWQteVlpZXNnNG1FamMxejRSWEpYci0wUnpubXVzNDE1TTVEMW1pcUpJTw?oc=5",
+          "pubDate": "Sun, 02 Aug 2026 06:55:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Idaho fast food restaurant shooting leaves 3 dead and 7 injured, city spokesman says - AP News",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYW9uN0pxS05KdmgwSlBrYXdBTjBJTDY2N05QS2FSbUIycnRaR3ZnYTdBVTU5OUxpWnpGZnJUS0tVUWR0dFJIbGNKZGVYZEdxS3RfZjk1bHVnc3h3TTRHN2g1TUFMRU8yZHk3NnE0elkzZXFtUEwxRWNuZjktOTdmcGpCbUxYQW9vM05nZUZ3?oc=5",
@@ -139,12 +151,6 @@
           "source": "AP News"
         },
         {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Sun, 02 Aug 2026 02:50:43 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Wind-driven wildfire prompts evacuations in eastern Washington - AP News",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTmpxLWw0WF91MFowZkpGc2JmRXdPMHM2cHRyd0V5S1NRZHlDQXhRYzVJYnhlUEhwblVVVUNlNm1vMW9FN3V1MFR6WWsxVUZlbkRMUDZHTl9pQlYzbW41d24ySWRQeUlPSDR5M2hPWXRYTVUtZDBPSVkxX3pWYVdpejVsbjh1TWNaOVdoS0ZPcS1QcmJLWm9EMHlFSV8xNEJMRkJoZ1Q3QmFSRC1H?oc=5",
           "pubDate": "Sun, 02 Aug 2026 02:31:00 GMT",
@@ -155,71 +161,65 @@
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRjdHZzA2RVEzM205b2pGVndobXEtQmotZ3NDS1Q3WGxPQTFxbHpPdXRRMTFGejJpaHZfVkdZVEFNNDY2NDVSQWFyRWx1LW5lNzgxXzdoeHdiWU0xZ3Q0aVFFbTBMZUVLMVpjbTNacDNsaUFFV0hqbUtKaklkaFVUVFZndzRxMXMz?oc=5",
           "pubDate": "Sun, 02 Aug 2026 02:07:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Plane carrying European tourists crashes in Peru, killing 13 people on Nazca Lines viewing flight - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOLWZkRTh0SXlFdnZSX2hqRGRvNzI4cXIzOEg2MFIyWGpMVWs4cVNhYkJPbjBHZHR0aUpZSzVXWnVuQmtkaDFueGwxUldON0YwWElNNnFlWDFGR0Q3NmVDRENQMEdzN1VYcjJfLTJySUkwZWZZUWlIbFhMOEFzTlF5Y05B?oc=5",
-          "pubDate": "Sun, 02 Aug 2026 01:54:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-02T07:07:43.082Z"
+      "updatedAt": "2026-08-02T09:34:48.532Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Fires on more than 250,000 acres of Washington state prompt evacuations - reuters.com",
+          "title": "OPEC+ set for September quota increase followed by pause, sources say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOUxtS1l6d0U4NVcxelJCQ1EwSGpaQ3BjNXJHUlpQcVlfZXJjMWU5WllQR21KdDZ0dlo2NDI0cW1RVXd3U0FiTHZMRHNDNng5ZXZseU9lT19KeG1RY18xRGNTVzBjdHpzOWpYQkwxTENWWko4NmtFQm5iQzFvQWdfeGhvQVZSMHdrZjhzRFREVnN2RWQyanBEdGp0T19mazNxR0ZiRXdFRVlvX1RZNW5mVFgyYlUxeS15QlZfOHhWY1UzSzFTZk13Yw?oc=5",
+          "pubDate": "Sun, 02 Aug 2026 08:12:44 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "WestJet flight attendants go on strike after talks fall through, grounding flights - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQblhNTDVZU3dqTmw4d252dTlOaS1pdnFEcU5ZTjdobll4RnNJYXdVVkszRExqOHRLRGFYbG5XNVE3a0h0TUp3UzZocVNic3l1dXdPMzNGaDljWWZmS2kwUF90RVlfcG02TVc0LVJTS0dqbUV2QWhLZlhEVTloNHUxUjZJLXdwb0FRUk8td1FDaHdUdC1SalhBTWlJVEJ5cDBiaGlmeWtLNHBycWJlVFU0VTlFYThLamVfMGNB?oc=5",
+          "pubDate": "Sun, 02 Aug 2026 06:16:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Life after Orban: Hungary Inc digs in as new political era takes hold - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRm5DNHdPUDhzLXBHNEhFTVFnTVQyN3RGNXVvSWFpWVVTZEE2X0V6cTNmQi1iV2RxWTZqdnJGR1RSZ0pZNnk1UEV1Y1AtM19pYXJWUzBwM09ucEU5OElmVnV4OW4wWXdNNWh4QVpTelZZbTdVVjZyYjdXNEpZRzJDckV6cGJoNUxoQU5JU2NfVnZ3MWNsVDFVcGZiZ25WVnFEdmVFZUV5enNDdlF3Q1hzTDl3RVpwZw?oc=5",
+          "pubDate": "Sun, 02 Aug 2026 06:03:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Landslide death toll rises in China's Gansu Province as heavy rains continue - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOU211TUJlRDhVUV9BaEFiVG9wY18xdnJ0U1NBZDgtRFZsVTVDN0puSnkyRnk0Mi11Q0RrcV9NalNyY2RxUDNNNjkwM3FnNlVNTkZMcVBVeGF3RHBHNXFqclEtME9JSWxpRHJjRXNMRUgtVlpfYl9lUzlfZ1RsRm1SRXdjMGJsSy1lYzVEWjBFbVNhRHVjenMzWkRfYUUwV3BvRmdSdXBsVnVnaGhxSFV1YXRULWplREx5YVVJcEFFQVZBUEd6?oc=5",
+          "pubDate": "Sun, 02 Aug 2026 04:12:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Fires on more than 250,000 acres of Washington state prompt evacuations - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYThmc2Z4VmNwMVRiazd6X3c4T0Myd0pqbWplTkNMU3o5M0RoVnFNRzViejJ3UlZnUGk4Z29tVGwwRXk2ZS1hM1BWa252d2t3bVhPcU1LLWs1UTVxdTR0Yl91cTl3blhQV2xBMERaODkwZ29iU1RjXzBXY25qTkh6djNXTjdmSTRBNUZRYVo2d1l5cm9jWFpTRjMwOEpzRmlqeHpDNXlOSDFnSzltaFdldk5MNUtWZkVy?oc=5",
           "pubDate": "Sun, 02 Aug 2026 03:13:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "EXCLUSIVE: Japan to announce Tokyo, Washington took joint action on yen, sources say - reuters.com",
+          "title": "EXCLUSIVE: Japan to announce Tokyo, Washington took joint action on yen, sources say - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeWRxZmUtQUZfS21oaHA2QVRaX0FYX09hRTBYRXZ6dnZ4dzAxamMzREtPN2laazBKdDNacXg3UUcxbS1fM3VSNGV4bDFNVkJPU3RCUWFDZjlDQ3VaTV9zTmQzaDgxYlV1MmNJcFZZcmJvRG9qSlRWTnZlQ1MyTm14OVItU2M2cDJfcklTdERRR2xBZ09FVWtYVkhZaTJiQXE5S0Q1eUNFdE5fbGl1X3VyUko1bHFiQ1M2SExvVw?oc=5",
           "pubDate": "Sun, 02 Aug 2026 01:12:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Three dead in Idaho shopping center shooting - reuters.com",
+          "title": "Three dead in Idaho shopping center shooting - Reuters",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSUlHQUFzUk1GbXRXbmxaSzJVZVVFbXpIZ1lvSzhCbHcyZnlCREt6UmtPYi0zaUhya0hSMENVckhaUUxUTDNQMTM4YVhHWmU1dU9mMXJGRE00a0JMOUltaFNDOHJPemk5eXpyZ0tuVHE3MjM0R1hDM3NYWUoxTThHVGxvN3AxcVVpeVZocUk0TQ?oc=5",
           "pubDate": "Sun, 02 Aug 2026 00:50:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Israeli strikes kill at least four in Gaza despite Trump announcing breakthrough - reuters.com",
+          "title": "Israeli strikes kill at least four in Gaza despite Trump announcing breakthrough - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNzFyTXBvZ1pGeVZXTUlTRWM3VGxjTjd5dXk4Y1RwZUYtaE9adFlFRGNkcU1tNmR6M2lCckhIN2cwMG54RUNiNzNib3RQVWxLd1FqWlY5eVZObDc4b3NCdGlLZi10a214V25teXViTkpCZXBXeDRfazBSOUNJVkZTM1RLcWt5SzUwaURiUUJMcDlOZFJFTkg5NXZXV0ZuakxZanh2YUNVMko3R1pJS3RsUFBsQjNpOXlLcHQwbHJtZ1FZWk9VdDRz?oc=5",
           "pubDate": "Sat, 01 Aug 2026 23:50:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Capital One says it closed Trump Organization's accounts after anti-money laundering probe - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORFNsQWFYNkk3UUhkdm5yRmpmNmZnTjVLS1RrSGdTcGZxTVhOaHVURzlhQTJUd3BYSzlYa3dNcnRXb1Y5VEZuSE1HdjA0bXNjNkM3Y2hHOHptN2I3N2FsQWxsLXFhNVZ2ZDROUkJFaXFLYVNjd0FmcUNqRlNYbkN0SUhfVURTQzdZbzRvaXkyRFVCTGZMTkJMa0Q3SlVHeW0zaGtvY1VidWRETENLWERtSUJUeHdlMmFzemp4bXhTV1BySTQ?oc=5",
-          "pubDate": "Sat, 01 Aug 2026 23:23:32 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US Justice Department subpoenas New York Times freelancer over North Korea story, paper says - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZUlFSGZMX01QYlFDclh0cnJFeWx4RC1kdU40aUFyLTVUcHhXY0pSY1I0VUNlaXZOOWc2eFBXY014bmhnWGlYXy1lN3hBMGhYMVpEQ3haZnQ2LURWdnlocFlmTjhVdjJQdkhNbWdrakQxN2dGWUhkdTlmcFc0WkQzNkNTbl9EcU1yVEJzY1N4dmZCQmJwRkRoT2ZyUXdqOWtxWDZSMzlFTkJOcmVrTi1tRGlBRDFtRGdjQkF1TF9wN3c0VW9tZDlEUzVsaS11QQ?oc=5",
-          "pubDate": "Sat, 01 Aug 2026 23:16:27 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Hungary to shut down sole nuclear plant as Danube falls to record low, PM says - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeWpyZFpUY19WRVp3aFN1ZURWa3hNTU55WnltbHBodng0WlhUekcyX1BEcWJZc0sxOGdTaXdrUDBVaG9uV192bXFveWVWUjdLeUhVeEFZWi1RekN4eEZkV1gzb3ZPdV80MGV4a1dWVXRyRFFiS1N4VHBZZWgzQ2NmVkNRVHhEM0E1SGhGcXBib0hCZU1nT3ppWnhFbk1xMXRMMFBGUjl3SmVjNEFXU1kxX3pkX0g5cWFFUjBablUwWQ?oc=5",
-          "pubDate": "Sat, 01 Aug 2026 22:58:28 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Migrants say hunger and hostility drove them back from Spain's Ceuta to Morocco - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTzdtaDJZaWxwWXdCU2ZFdGktck10WUNJNndTOHhfelE2Z2FxcnlveklNOEJtVlBoVnAta0FKQmY0dHlNM1kyTjItSDRkcGV1dDVLeUwxZ1VrNktPQ2JGbW1MemNMSm5CNmxDZ0pfbklES0lGQ0RDN2pUN1RtVzl0OVZqcnpfaVRqd3ZhTDhBVFIzbXBJNzg5M0huSlJGMDdWcE1fQlZyV1h5WHZkaWhRQVhFeHpqZw?oc=5",
-          "pubDate": "Sat, 01 Aug 2026 22:42:02 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-02T07:07:43.466Z"
+      "updatedAt": "2026-08-02T09:34:48.937Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-02T07:07:43.707Z"
+      "updatedAt": "2026-08-02T09:34:49.064Z"
     }
   ]
 }
