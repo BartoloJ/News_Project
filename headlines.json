@@ -1,13 +1,25 @@
 {
-  "generatedAt": "2026-08-02T04:05:12.662Z",
+  "generatedAt": "2026-08-02T07:07:43.707Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "Trump says he is cancelling strikes on Iran subject to 'rapidly' making deal",
+          "title": "Trump says he is cancelling strikes on Iran subject to deal being made 'rapidly'",
           "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 02 Aug 2026 03:05:16 GMT",
+          "pubDate": "Sun, 02 Aug 2026 06:24:01 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
+          "link": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 02 Aug 2026 05:40:42 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
+          "link": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 02 Aug 2026 05:26:39 GMT",
           "source": "BBC News"
         },
         {
@@ -20,12 +32,6 @@
           "title": "Tourist plane crashes in Peru, killing 13",
           "link": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 02 Aug 2026 00:29:55 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
-          "link": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 02 Aug 2026 00:02:18 GMT",
           "source": "BBC News"
         },
         {
@@ -45,16 +51,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cgk4rdley0ko?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 01 Aug 2026 23:03:23 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Why Uganda seems to be winning the battle against Ebola as virus spreads in DR Congo",
-          "link": "https://www.bbc.co.uk/news/articles/clyemjn44qqo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 01 Aug 2026 23:03:15 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-02T04:05:11.511Z"
+      "updatedAt": "2026-08-02T07:07:42.491Z"
     },
     {
       "name": "NPR",
@@ -109,15 +109,27 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-02T04:05:11.598Z"
+      "updatedAt": "2026-08-02T07:07:42.678Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Trump says he will order halt to Iran strikes after parameters reached for deal to end war - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdjdiZU1CVmhFWmRaYWtqRW82NnNUMEZjRzNlR293WTljQW1McXpnY3BiLXdWbVdobmRIdUJDVmVuWngwUHRVSUtyMkJjejRkQTl4WU0xc2xfcFpwaHBKamZGdUNqd1RIblhERllZY01hYjlmVUdOblVIVGxjTjVqVndGSURnTGJ5M2U5Vkp6dDVIRHZPZW8wTmRYaXl4WmQtejR6SzFBaw?oc=5",
-          "pubDate": "Sun, 02 Aug 2026 02:58:00 GMT",
+          "title": "Idaho fast food restaurant shooting leaves 3 dead and 7 injured, city spokesman says - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYW9uN0pxS05KdmgwSlBrYXdBTjBJTDY2N05QS2FSbUIycnRaR3ZnYTdBVTU5OUxpWnpGZnJUS0tVUWR0dFJIbGNKZGVYZEdxS3RfZjk1bHVnc3h3TTRHN2g1TUFMRU8yZHk3NnE0elkzZXFtUEwxRWNuZjktOTdmcGpCbUxYQW9vM05nZUZ3?oc=5",
+          "pubDate": "Sun, 02 Aug 2026 04:29:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Women’s Professional Baseball League makes a rainy debut in front of enthusiastic crowd - AP News",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVDI2cFRlS3JPN1JHY2pHaHVFQTZIMWhVMHJhMmdkV3p1V1l0QlM5aVRPcDBELVVqRFpGNDJZdllLNGlTYnRPLU5BcE0tUWhaN3hIcTBuNlJZYjBlNUJ3VnFzN1E1SmtvUlVFNlNULWpoTFQwWlFMaFNUS3Y3bTJQWjhHMWJNdw?oc=5",
+          "pubDate": "Sun, 02 Aug 2026 03:49:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Trump says Mideast allies have reached outlines of deal to end Iran war, says US to stop new strikes - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWUxMdnNIZ1MzaWNwNXBYV19IbUpVbUo2LTBiR3BiS05fVE1fOUczeVM1MVk3TEJWbjA5cmVZZmlNZ2ZLdnp6NlNLRlBmanlpTnhVbFZPc0RicnVJRjFBUS1uNU1kMldjb2F3ZnN3QTRkZGVLNW8wSklmVjZIcG52dks0TE5kXzlmdkF1d01SUW9TemFEQ09DSGlZdkxON1k?oc=5",
+          "pubDate": "Sun, 02 Aug 2026 03:43:00 GMT",
           "source": "AP News"
         },
         {
@@ -127,21 +139,21 @@
           "source": "AP News"
         },
         {
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Sun, 02 Aug 2026 02:50:43 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Wind-driven wildfire prompts evacuations in eastern Washington - AP News",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTmpxLWw0WF91MFowZkpGc2JmRXdPMHM2cHRyd0V5S1NRZHlDQXhRYzVJYnhlUEhwblVVVUNlNm1vMW9FN3V1MFR6WWsxVUZlbkRMUDZHTl9pQlYzbW41d24ySWRQeUlPSDR5M2hPWXRYTVUtZDBPSVkxX3pWYVdpejVsbjh1TWNaOVdoS0ZPcS1QcmJLWm9EMHlFSV8xNEJMRkJoZ1Q3QmFSRC1H?oc=5",
           "pubDate": "Sun, 02 Aug 2026 02:31:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Saudi crown prince urges Trump not to escalate Iran war as US leader weighs new strikes: AP source - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWUxMdnNIZ1MzaWNwNXBYV19IbUpVbUo2LTBiR3BiS05fVE1fOUczeVM1MVk3TEJWbjA5cmVZZmlNZ2ZLdnp6NlNLRlBmanlpTnhVbFZPc0RicnVJRjFBUS1uNU1kMldjb2F3ZnN3QTRkZGVLNW8wSklmVjZIcG52dks0TE5kXzlmdkF1d01SUW9TemFEQ09DSGlZdkxON1k?oc=5",
-          "pubDate": "Sun, 02 Aug 2026 02:08:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Multiple people dead after shooting at fast food restaurant in southern Idaho - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYW9uN0pxS05KdmgwSlBrYXdBTjBJTDY2N05QS2FSbUIycnRaR3ZnYTdBVTU5OUxpWnpGZnJUS0tVUWR0dFJIbGNKZGVYZEdxS3RfZjk1bHVnc3h3TTRHN2g1TUFMRU8yZHk3NnE0elkzZXFtUEwxRWNuZjktOTdmcGpCbUxYQW9vM05nZUZ3?oc=5",
-          "pubDate": "Sun, 02 Aug 2026 02:01:00 GMT",
+          "title": "‘Sopranos’ actor Vincent Pastore, known for playing mobsters and tough guys, dead at 80 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRjdHZzA2RVEzM205b2pGVndobXEtQmotZ3NDS1Q3WGxPQTFxbHpPdXRRMTFGejJpaHZfVkdZVEFNNDY2NDVSQWFyRWx1LW5lNzgxXzdoeHdiWU0xZ3Q0aVFFbTBMZUVLMVpjbTNacDNsaUFFV0hqbUtKaklkaFVUVFZndzRxMXMz?oc=5",
+          "pubDate": "Sun, 02 Aug 2026 02:07:00 GMT",
           "source": "AP News"
         },
         {
@@ -149,77 +161,65 @@
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOLWZkRTh0SXlFdnZSX2hqRGRvNzI4cXIzOEg2MFIyWGpMVWs4cVNhYkJPbjBHZHR0aUpZSzVXWnVuQmtkaDFueGwxUldON0YwWElNNnFlWDFGR0Q3NmVDRENQMEdzN1VYcjJfLTJySUkwZWZZUWlIbFhMOEFzTlF5Y05B?oc=5",
           "pubDate": "Sun, 02 Aug 2026 01:54:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Trump stands to profit off US policy announcements by selling fast access to his social media posts - AP News",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTnE2clhGSzhVY192V0ZoZGVCWGhJU1lWZ2tEeklTcC03dTJaU1lXMWU4LW1YbXNQcjg2QS1fQnFZd1hnM0dfbkdCSUx1Um9YcUV5bjB2bzZjMG02T2ZCQk1BR0M1U2FVZWN1NUtOZDZoclZYaHdNQ19iR1BvMG9xN0lsSjZjZWxLb2dSc1VBSDRPSzA0cGtvTGtiZGFMTmpYcjRPb09vb1NLVkxUTE9fby1VOVJ0Um9QdzMzTA?oc=5",
-          "pubDate": "Sun, 02 Aug 2026 01:27:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "‘Sopranos’ actor Vincent Pastore, known for playing mobsters and tough guys, dead at 80 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRjdHZzA2RVEzM205b2pGVndobXEtQmotZ3NDS1Q3WGxPQTFxbHpPdXRRMTFGejJpaHZfVkdZVEFNNDY2NDVSQWFyRWx1LW5lNzgxXzdoeHdiWU0xZ3Q0aVFFbTBMZUVLMVpjbTNacDNsaUFFV0hqbUtKaklkaFVUVFZndzRxMXMz?oc=5",
-          "pubDate": "Sun, 02 Aug 2026 01:23:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-02T04:05:12.064Z"
+      "updatedAt": "2026-08-02T07:07:43.082Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "EXCLUSIVE: Japan to announce Tokyo, Washington took joint action on yen, sources say - Reuters",
+          "title": "Fires on more than 250,000 acres of Washington state prompt evacuations - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYThmc2Z4VmNwMVRiazd6X3c4T0Myd0pqbWplTkNMU3o5M0RoVnFNRzViejJ3UlZnUGk4Z29tVGwwRXk2ZS1hM1BWa252d2t3bVhPcU1LLWs1UTVxdTR0Yl91cTl3blhQV2xBMERaODkwZ29iU1RjXzBXY25qTkh6djNXTjdmSTRBNUZRYVo2d1l5cm9jWFpTRjMwOEpzRmlqeHpDNXlOSDFnSzltaFdldk5MNUtWZkVy?oc=5",
+          "pubDate": "Sun, 02 Aug 2026 03:13:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "EXCLUSIVE: Japan to announce Tokyo, Washington took joint action on yen, sources say - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeWRxZmUtQUZfS21oaHA2QVRaX0FYX09hRTBYRXZ6dnZ4dzAxamMzREtPN2laazBKdDNacXg3UUcxbS1fM3VSNGV4bDFNVkJPU3RCUWFDZjlDQ3VaTV9zTmQzaDgxYlV1MmNJcFZZcmJvRG9qSlRWTnZlQ1MyTm14OVItU2M2cDJfcklTdERRR2xBZ09FVWtYVkhZaTJiQXE5S0Q1eUNFdE5fbGl1X3VyUko1bHFiQ1M2SExvVw?oc=5",
           "pubDate": "Sun, 02 Aug 2026 01:12:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Capital One says it closed Trump Organization's accounts after anti-money laundering probe - Reuters",
+          "title": "Three dead in Idaho shopping center shooting - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSUlHQUFzUk1GbXRXbmxaSzJVZVVFbXpIZ1lvSzhCbHcyZnlCREt6UmtPYi0zaUhya0hSMENVckhaUUxUTDNQMTM4YVhHWmU1dU9mMXJGRE00a0JMOUltaFNDOHJPemk5eXpyZ0tuVHE3MjM0R1hDM3NYWUoxTThHVGxvN3AxcVVpeVZocUk0TQ?oc=5",
+          "pubDate": "Sun, 02 Aug 2026 00:50:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Israeli strikes kill at least four in Gaza despite Trump announcing breakthrough - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNzFyTXBvZ1pGeVZXTUlTRWM3VGxjTjd5dXk4Y1RwZUYtaE9adFlFRGNkcU1tNmR6M2lCckhIN2cwMG54RUNiNzNib3RQVWxLd1FqWlY5eVZObDc4b3NCdGlLZi10a214V25teXViTkpCZXBXeDRfazBSOUNJVkZTM1RLcWt5SzUwaURiUUJMcDlOZFJFTkg5NXZXV0ZuakxZanh2YUNVMko3R1pJS3RsUFBsQjNpOXlLcHQwbHJtZ1FZWk9VdDRz?oc=5",
+          "pubDate": "Sat, 01 Aug 2026 23:50:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Capital One says it closed Trump Organization's accounts after anti-money laundering probe - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORFNsQWFYNkk3UUhkdm5yRmpmNmZnTjVLS1RrSGdTcGZxTVhOaHVURzlhQTJUd3BYSzlYa3dNcnRXb1Y5VEZuSE1HdjA0bXNjNkM3Y2hHOHptN2I3N2FsQWxsLXFhNVZ2ZDROUkJFaXFLYVNjd0FmcUNqRlNYbkN0SUhfVURTQzdZbzRvaXkyRFVCTGZMTkJMa0Q3SlVHeW0zaGtvY1VidWRETENLWERtSUJUeHdlMmFzemp4bXhTV1BySTQ?oc=5",
           "pubDate": "Sat, 01 Aug 2026 23:23:32 GMT",
           "source": "Reuters"
         },
         {
-          "title": "US Justice Department subpoenas New York Times freelancer over North Korea story, paper says - Reuters",
+          "title": "US Justice Department subpoenas New York Times freelancer over North Korea story, paper says - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZUlFSGZMX01QYlFDclh0cnJFeWx4RC1kdU40aUFyLTVUcHhXY0pSY1I0VUNlaXZOOWc2eFBXY014bmhnWGlYXy1lN3hBMGhYMVpEQ3haZnQ2LURWdnlocFlmTjhVdjJQdkhNbWdrakQxN2dGWUhkdTlmcFc0WkQzNkNTbl9EcU1yVEJzY1N4dmZCQmJwRkRoT2ZyUXdqOWtxWDZSMzlFTkJOcmVrTi1tRGlBRDFtRGdjQkF1TF9wN3c0VW9tZDlEUzVsaS11QQ?oc=5",
           "pubDate": "Sat, 01 Aug 2026 23:16:27 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Migrants say hunger and hostility drove them back from Spain's Ceuta to Morocco - Reuters",
+          "title": "Hungary to shut down sole nuclear plant as Danube falls to record low, PM says - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeWpyZFpUY19WRVp3aFN1ZURWa3hNTU55WnltbHBodng0WlhUekcyX1BEcWJZc0sxOGdTaXdrUDBVaG9uV192bXFveWVWUjdLeUhVeEFZWi1RekN4eEZkV1gzb3ZPdV80MGV4a1dWVXRyRFFiS1N4VHBZZWgzQ2NmVkNRVHhEM0E1SGhGcXBib0hCZU1nT3ppWnhFbk1xMXRMMFBGUjl3SmVjNEFXU1kxX3pkX0g5cWFFUjBablUwWQ?oc=5",
+          "pubDate": "Sat, 01 Aug 2026 22:58:28 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Migrants say hunger and hostility drove them back from Spain's Ceuta to Morocco - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTzdtaDJZaWxwWXdCU2ZFdGktck10WUNJNndTOHhfelE2Z2FxcnlveklNOEJtVlBoVnAta0FKQmY0dHlNM1kyTjItSDRkcGV1dDVLeUwxZ1VrNktPQ2JGbW1MemNMSm5CNmxDZ0pfbklES0lGQ0RDN2pUN1RtVzl0OVZqcnpfaVRqd3ZhTDhBVFIzbXBJNzg5M0huSlJGMDdWcE1fQlZyV1h5WHZkaWhRQVhFeHpqZw?oc=5",
           "pubDate": "Sat, 01 Aug 2026 22:42:02 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Trump says he will hold off on fresh Iran attack in hope of quick deal - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQnFCZlNtaWNsWjNfQzZYSUltNnlianRRMlRsUmVqWFNEWlEwWERhVmp5dVdSazcwNmo4bTNzQjNwcW1rS1pYSFRzUXZvUkF5dEFRYzY4T3Q4UUF0ZVBFLXlxVzA5YnRXZTliVWN0M2ZlcV9WVEw4ZjZqblVxOFJ6N2JmX1FMSk5HUXdLWWpOM2l1SWI3b0E2NHB5UU5rLUFRbjRXUEZ6ajZ1VUt1N0JIdURWT1VNbkVHX2UxUVU1b1lFTzY4aFNaOEJ5TTJJdw?oc=5",
-          "pubDate": "Sat, 01 Aug 2026 22:33:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Infantino faces crisis as UEFA, CONCACAF declare lost confidence over scrapped World Cup deal - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcXRXNWJWSDNJWk9BVFdoMVlpX0lCVURrSmtnQXRVUVE1TjJqVG1sNXU2QkZZUjZ3cHhVWk1pajNteWtJRmllQjBVSFMybFlyQ00tVjBLQ3ktS2dRVjdLRkRNa3lIU1pZcWNYVjlOb0VhNDRaYkhIa2Ewd09pOTE4ZVUydjNkNzVhd2JETW44Sy1EUjBmbnFUWlRlZVg2eVpONlFzNTg1Nk14NWtJaFJNbm9NM3RrLW5VU19nXzZhazg?oc=5",
-          "pubDate": "Sat, 01 Aug 2026 22:13:39 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Bomb carried by woman kills three, injures 21 near Moscow restaurant, authorities say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNkhRMDdsSlFaempsUmw0WmZQV0VzNTg5MnQ2TE9pbEs0WUg1ZDVYQWlfVWdXSjRwdUM4YThmMnB3aUs2cUVDZ0s0MnNlSDNHMDJDZU5iWmE0eFdpTmRlMlcwV05HNkI4b0d5SVJhS080bl9CZlNPUkpoSWZjRjRNZUw5alNtaFVQdERIT2p5MDlSTTFCWms4?oc=5",
-          "pubDate": "Sat, 01 Aug 2026 21:32:43 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Wildfires spread across Greece, conditions worsen in France and Spain - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaENSUzhSWi1xMmhoSVFXRFZLTUM2V2Rydm5sOUp0aW1WYkxkV1pWdDFCTVpkbkF0WVFpSUlZbFZuQ2FwYXVvOVR1X1I0NWlWTjFUaFdlU2tyd1RXNm1rcWF5OWV1SzNHYVpvRGtlWFQ2NWxCYUk1R2c1UWVaU3k0SENqbDMxS1B3eUZoOE9pSGhxNGZScDBFY2NLUjVoNzhxNm1BYzFoUm5EbVE0dXQyUGJoQkd1YkRTdjNqXw?oc=5",
-          "pubDate": "Sat, 01 Aug 2026 20:09:48 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-02T04:05:12.438Z"
+      "updatedAt": "2026-08-02T07:07:43.466Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-02T04:05:12.662Z"
+      "updatedAt": "2026-08-02T07:07:43.707Z"
     }
   ]
 }
