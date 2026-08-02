@@ -1,13 +1,25 @@
 {
-  "generatedAt": "2026-08-02T11:20:15.488Z",
+  "generatedAt": "2026-08-02T12:35:44.588Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
+          "title": "Five dead, 41 missing, after Indonesia ferry catches fire",
+          "link": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 02 Aug 2026 11:49:40 GMT",
+          "source": "BBC News"
+        },
+        {
           "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
           "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 02 Aug 2026 11:12:00 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Fastest runner to cross the Alps says it was an incredible experience",
+          "link": "https://www.bbc.co.uk/news/videos/crk5j6g8lmko?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 02 Aug 2026 10:59:55 GMT",
           "source": "BBC News"
         },
         {
@@ -17,15 +29,15 @@
           "source": "BBC News"
         },
         {
-          "title": "Five dead, 41 missing, after Indonesia ferry catches fire",
-          "link": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 02 Aug 2026 10:46:47 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
           "link": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 02 Aug 2026 10:32:28 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Washington state wildfires trigger evacuations",
+          "link": "https://www.bbc.co.uk/news/videos/cpd7912xyq4o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 02 Aug 2026 10:20:10 GMT",
           "source": "BBC News"
         },
         {
@@ -39,26 +51,20 @@
           "link": "https://www.bbc.co.uk/news/articles/ce97nyz4rvmo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 02 Aug 2026 07:58:51 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Tourist plane crashes in Peru, killing 13",
-          "link": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 02 Aug 2026 00:29:55 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Solitude as a new aspirational lifestyle: 'We are not lonely'",
-          "link": "https://www.bbc.co.uk/news/articles/c5y63dw2x3wo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 01 Aug 2026 23:56:19 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-02T11:20:14.143Z"
+      "updatedAt": "2026-08-02T12:35:43.110Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "New video evidence upends the unsolved killing of a Black teen at a Seattle protest",
+          "link": "https://www.npr.org/2026/08/02/g-s1-133360/seattle-shooting-capitol-hill-occupied-protest",
+          "pubDate": "Sun, 02 Aug 2026 08:00:00 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Why is the rate of premature births so high in this community?",
           "link": "https://www.npr.org/2026/08/02/g-s1-135946/premature-birth-slum-pakistan",
@@ -100,20 +106,26 @@
           "link": "https://www.npr.org/2026/08/01/nx-s1-5916368/nirmal-purja-climbers-dead-avalanche",
           "pubDate": "Sat, 01 Aug 2026 18:23:39 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Overnight Russian barrage kills nine in Kyiv, as air defense struggle with U.S. continues",
-          "link": "https://www.npr.org/2026/08/01/nx-s1-5916393/overnight-russia-kyiv-ukraine-strikes",
-          "pubDate": "Sat, 01 Aug 2026 16:27:32 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-02T11:20:14.405Z"
+      "updatedAt": "2026-08-02T12:35:43.320Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Moscow mayor calls Saturday’s deadly bomb attack on restaurant a ‘terrorist act’ - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWVBacmRlT19aRlY0RWdSNVdRd25YMklxdENfSk9XTkVSMzhEeElNUUtKMm84cXVuSnpmT3RGc08zYTdBVENVb2FuOTRUZEpUdGJaSEIzR1pySlotZ18wbldZSVlKUy1nN3VDNE80dFBqd01mc3kyMDJiVWpES3VtVXVYeVJpdVhFNDgtQUNWRmlONHJyZThMczlB?oc=5",
+          "pubDate": "Sun, 02 Aug 2026 11:11:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "French wildfire near Bordeaux contained as 1,500 firefighters battle separate blaze in Provence - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSVVmOGN3UkdYdHBLWVhmMlFheVFwZkplU2xkekoybWZtRi0tbXFRMHBwVHpBTUlwU1RfdFVBTUhuSEVVYnQ0TFVLYXFTWlFNbDZ6Q3JhQUwtMTk0R25HRlZ4OVNKOWtwN2FzYW5Ia2NKdWFsd1U2OFdXVWFyb290dGFUT2VDREhreE5CbUxUQWlmRi1KaWlNdGVuRF80NThpckZ2c2VsSlVRTzU0aUFUVTI4RQ?oc=5",
+          "pubDate": "Sun, 02 Aug 2026 10:25:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Hundreds of thousands line Amsterdam canals for the annual Pride boat parade - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVnQ4TDNhMkhhUXVZRHM2TkI3ZXFiblVFeld5VHVsTm91aTVYWFZkQ3FOQWFOcFBleHlFM1ZIWHRtZWpJNmRBOFlPdUxHVDh6TGxNNGNEMTl4d2ZSZllDUEJzRTRwMk95QjlMRVFQRzljYVRpZ0l5QVJhR0pIRXZBdEctZzRZUXNxSnlMUVFsYVJPQVVoNlIwRENVa3FBOEFTMzdmWXFXYnU?oc=5",
@@ -149,22 +161,10 @@
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWUxMdnNIZ1MzaWNwNXBYV19IbUpVbUo2LTBiR3BiS05fVE1fOUczeVM1MVk3TEJWbjA5cmVZZmlNZ2ZLdnp6NlNLRlBmanlpTnhVbFZPc0RicnVJRjFBUS1uNU1kMldjb2F3ZnN3QTRkZGVLNW8wSklmVjZIcG52dks0TE5kXzlmdkF1d01SUW9TemFEQ09DSGlZdkxON1k?oc=5",
           "pubDate": "Sun, 02 Aug 2026 03:43:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Heat wave brings record-breaking temps, heightened wildfire risk to parts of Western US - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNV25Vd0hVYjdlaGdjTWxFUlVSVnFpNkRxWURpaW9GQlBDU1RKa3o1MF8yaG9ZMVM5aFZ4M2VVdnNQTUVHSjFhZWVBejIyRlVlblptT1l4M0k1WEc3WGFmRTZFUlNTWnM2Vkk2dlZMcWlDRm95YnN0ejROU1FBUE9heGhmbllmRzdxdHc?oc=5",
-          "pubDate": "Sun, 02 Aug 2026 02:58:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Wind-driven wildfire prompts evacuations in eastern Washington - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTmpxLWw0WF91MFowZkpGc2JmRXdPMHM2cHRyd0V5S1NRZHlDQXhRYzVJYnhlUEhwblVVVUNlNm1vMW9FN3V1MFR6WWsxVUZlbkRMUDZHTl9pQlYzbW41d24ySWRQeUlPSDR5M2hPWXRYTVUtZDBPSVkxX3pWYVdpejVsbjh1TWNaOVdoS0ZPcS1QcmJLWm9EMHlFSV8xNEJMRkJoZ1Q3QmFSRC1H?oc=5",
-          "pubDate": "Sun, 02 Aug 2026 02:31:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-02T11:20:14.874Z"
+      "updatedAt": "2026-08-02T12:35:43.852Z"
     },
     {
       "name": "Reuters",
@@ -172,19 +172,25 @@
         {
           "title": "Five dead, 41 missing after Indonesian ferry catches fire, authorities say - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPalBXdlNoQ05vVlFLOElTc3BweEhPcWhyd2x4UjBiUmROdDVKN0tvZGlSWnFveF8tNG1zZVBjbVM3VGhYc2hTNGVlZzJrUzcyeEZaY0h5Zllrd25MNUl2ZkI0bGpnaEZubUlYTmNXSUl4RjVpZ2pmckVta1J1NWVQTWlsRVV6aG5JM3BVb2RlMWJncnVqblEyV0R3YmFSNWl3Q1FESl9zVEx0T3ZydjZCX0F0REdZdF9yTUVqZmRwd2lnR3NZRHc?oc=5",
-          "pubDate": "Sun, 02 Aug 2026 10:05:22 GMT",
+          "pubDate": "Sun, 02 Aug 2026 12:19:21 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Holcim to sell Philippines unit to China's Huaxin in $807 million deal - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRVVGZmt6VDlQODNUNGdYbUhqdmtGdUNDU0gycTNuU1RaWXFEUFNXNEswbTN4LW1zNnJKdkYwTWtYTy1NZTY0UFRmRlZzNkpyZmxKQnpzMXJ4NWd4N24weXA5YlRxdV9IZU1RVDFDTFJGLU5lZE9xSWNEdkJEYi0yNG1rZ19rU0tncC1wQ2ljN19IdVI1RVBJeTFzZXhBNEg1NGJRLVFZMDRjUS1aNVZ4bzRhSEY5aHpH?oc=5",
+          "pubDate": "Sun, 02 Aug 2026 11:49:19 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Hungary PM flags \"critical\" days ahead with looming nuclear shutdown - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ3k3dmJWR3pfSnFZRFVOcE1KMXF6UkpsQUoyTk9JVVFLOW1XNGlLQXkxRlhnNXVuaTRnOElUT2paNnlneG1pYnNNMjhxZFVsR3R4czN3dFdab2w4S1hfZms5TC1tRDdpR3F3cGYzQnFvOVViWGtsdFdaQUpZZ1FvOFJiMl9QUk1raEF1M1BDZzdUM1NyZDB1Znp4OGlUZWdIMDRBeEptWlhpaU9BeTl2YkF6dDluS1VIRmc?oc=5",
+          "pubDate": "Sun, 02 Aug 2026 10:45:44 GMT",
           "source": "Reuters"
         },
         {
           "title": "Ukrainian drones kill two in Russia, strike Wildberries warehouse, governors say - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNalRXTDFKTmlXU19IODRKYXA1bkZiSXU2MEMxUmxBRlpjakdLenAtS3EyZ1NaR1ByOXBsc182MzRkLTRUX1R2NFNJTXMyNWt4Nm5mZlBtbEw5ZWhNM2dndjJTZElZbGhWVXhjQm93bkJ1NURwSV9GWlItZjRKTDJYdV9vRjhDYWt2SVZFWGpfNXV4UXpWNnFVeGhQZkpnMEdnMFdZYThzQmxzS0YyNEVqSEFWdkJIX19a?oc=5",
           "pubDate": "Sun, 02 Aug 2026 09:17:54 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Holcim to sell Philippines unit to China's Huaxin in $807 million deal - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRVVGZmt6VDlQODNUNGdYbUhqdmtGdUNDU0gycTNuU1RaWXFEUFNXNEswbTN4LW1zNnJKdkYwTWtYTy1NZTY0UFRmRlZzNkpyZmxKQnpzMXJ4NWd4N24weXA5YlRxdV9IZU1RVDFDTFJGLU5lZE9xSWNEdkJEYi0yNG1rZ19rU0tncC1wQ2ljN19IdVI1RVBJeTFzZXhBNEg1NGJRLVFZMDRjUS1aNVZ4bzRhSEY5aHpH?oc=5",
-          "pubDate": "Sun, 02 Aug 2026 09:10:58 GMT",
           "source": "Reuters"
         },
         {
@@ -210,16 +216,10 @@
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQblhNTDVZU3dqTmw4d252dTlOaS1pdnFEcU5ZTjdobll4RnNJYXdVVkszRExqOHRLRGFYbG5XNVE3a0h0TUp3UzZocVNic3l1dXdPMzNGaDljWWZmS2kwUF90RVlfcG02TVc0LVJTS0dqbUV2QWhLZlhEVTloNHUxUjZJLXdwb0FRUk8td1FDaHdUdC1SalhBTWlJVEJ5cDBiaGlmeWtLNHBycWJlVFU0VTlFYThLamVfMGNB?oc=5",
           "pubDate": "Sun, 02 Aug 2026 06:16:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Life after Orban: Hungary Inc digs in as new political era takes hold - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRm5DNHdPUDhzLXBHNEhFTVFnTVQyN3RGNXVvSWFpWVVTZEE2X0V6cTNmQi1iV2RxWTZqdnJGR1RSZ0pZNnk1UEV1Y1AtM19pYXJWUzBwM09ucEU5OElmVnV4OW4wWXdNNWh4QVpTelZZbTdVVjZyYjdXNEpZRzJDckV6cGJoNUxoQU5JU2NfVnZ3MWNsVDFVcGZiZ25WVnFEdmVFZUV5enNDdlF3Q1hzTDl3RVpwZw?oc=5",
-          "pubDate": "Sun, 02 Aug 2026 06:03:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-02T11:20:15.254Z"
+      "updatedAt": "2026-08-02T12:35:44.243Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-02T11:20:15.487Z"
+      "updatedAt": "2026-08-02T12:35:44.588Z"
     }
   ]
 }
