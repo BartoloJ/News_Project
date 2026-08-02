@@ -1,9 +1,27 @@
 {
-  "generatedAt": "2026-08-02T14:38:55.190Z",
+  "generatedAt": "2026-08-02T16:04:53.213Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
+          "link": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 02 Aug 2026 15:50:59 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths",
+          "link": "https://www.bbc.co.uk/news/articles/c998gg5pe09o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 02 Aug 2026 15:48:00 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Helicopters fighting Greece wildfires collide in mid-air",
+          "link": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 02 Aug 2026 15:21:56 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Five dead, 41 missing, after Indonesia ferry catches fire",
           "link": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss",
@@ -33,28 +51,10 @@
           "link": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 02 Aug 2026 10:32:28 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Wildfires scorch Washington state as thousands evacuated and emergency declared",
-          "link": "https://www.bbc.co.uk/news/videos/cpd7912xyq4o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 02 Aug 2026 10:20:10 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Body of mountaineer Nirmal Purja recovered after Pakistan avalanche",
-          "link": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 02 Aug 2026 10:11:26 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Ginger hair portraits show unexpected 'golden thread' connecting Americans",
-          "link": "https://www.bbc.co.uk/news/articles/ce97nyz4rvmo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 02 Aug 2026 07:58:51 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-02T14:38:53.921Z"
+      "updatedAt": "2026-08-02T16:04:51.776Z"
     },
     {
       "name": "NPR",
@@ -66,8 +66,8 @@
           "source": "NPR"
         },
         {
-          "title": "New video evidence upends the unsolved killing of a Black teen at a Seattle protest",
-          "link": "https://www.npr.org/2026/08/02/g-s1-133360/seattle-shooting-capitol-hill-occupied-protest",
+          "title": "A teen was killed at a Seattle protest. New video evidence shows what really happened",
+          "link": "https://www.npr.org/2026/07/31/g-s1-133360/chop-digital",
           "pubDate": "Sun, 02 Aug 2026 08:00:00 -0400",
           "source": "NPR"
         },
@@ -109,11 +109,47 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-02T14:38:54.112Z"
+      "updatedAt": "2026-08-02T16:04:52.121Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Republicans want voters to elect Kansas Supreme Court justices and move court to the right - AP News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUzJQc3ZQcWlQcTFaR2d6RkljcW5yQTRldTRqX1hZbzEycWNpd25yWmRycERxY2lGMmdzbndBZFA1dU9WdEsyS1FHVWRKRWp0TVJaZXJvcVRKQUFUN0NyYUpSc0xxOW9JbU5KYzN2aEpiUEg4VjNSYjE4VUVXT0dZaFBmdlpvUThfLUdocXVxVTlRaWptZS15SUZFUzc5bjls?oc=5",
+          "pubDate": "Sun, 02 Aug 2026 15:36:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Ceuta grapples with aftermath of border surge after most migrants leave the Spanish territory - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNV82Z0xEX2JldWNxWXNmMFQtakZrbndjeWNKaEgwRDQ2Z2pNRzJHQllnRkVVcjh4SzgtTmJPWTV4VEV0Z3YzdFctekpqck92RGpYLU1kMUtIN29IOEpwZVNBMTlFRDQtVktmWWYtbG9LZ0NwZER2QzJwYjByTWduVUtaR1lNVG5GVDVMRXd0dEJPdG9QYnk3VU5ORWtsYjRONkE?oc=5",
+          "pubDate": "Sun, 02 Aug 2026 15:11:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Ukrainian drones kill 5 in Russia and set fire to Wildberries warehouse - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWWdtblg2S1BkaGRZcFZVZ2d1TndRREJ6Uzd0N1BkUG5qVFFWU2ptSDNSc1NXdHBYTVBydUtSNlhfdVI5bGZLRGNvQ2JKVFFEQ09mTTZLcFJuWlVfRG5LOGNDWFZrSXEyVlJZaXVwejBkSXZKN1U5ZXpQbmlRbjRzb3JIX2JHQUc2V1pvMlphX3dFTkx6YjRSR3ctOVJXUG5aNEhNejRSOHIta1FN?oc=5",
+          "pubDate": "Sun, 02 Aug 2026 14:49:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "From Athens to Bordeaux, Europe’s deadly wildfire emergency rages on - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSVVmOGN3UkdYdHBLWVhmMlFheVFwZkplU2xkekoybWZtRi0tbXFRMHBwVHpBTUlwU1RfdFVBTUhuSEVVYnQ0TFVLYXFTWlFNbDZ6Q3JhQUwtMTk0R25HRlZ4OVNKOWtwN2FzYW5Ia2NKdWFsd1U2OFdXVWFyb290dGFUT2VDREhreE5CbUxUQWlmRi1KaWlNdGVuRF80NThpckZ2c2VsSlVRTzU0aUFUVTI4RQ?oc=5",
+          "pubDate": "Sun, 02 Aug 2026 13:50:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "A blaze on an Indonesian passenger ferry leaves at least 5 dead and dozens missing - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPc0lKdjVraF9jNC00MkFVWW9laUIzY3dhUGtXZE5sT1J2dzVCUFo0dS1EZ1ZOZTVlWHhBaXRYeFZDb1ZTeXdCM3lyQi1xWm9wd3JxWVVsNU5ycWI1Ynd1WUM0WVJQVllad1VudGJwRGRlcWZrT2JENC1vRVVWSTNQMUt4cklGUG91dzgySTVRcVlGbU9XUGZiaXE4M1I?oc=5",
+          "pubDate": "Sun, 02 Aug 2026 13:49:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Body of famed international climber Nirmal Purja and 3 more found after Pakistan avalanche - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOLUVWQ0N2ZkhfTnFnckVPWUpwMTlreDFmTzk5dnpoNkdFam4zZWYxTUtlUERDR09BZlRQWjFGdTFIN2E4NkNWWDd3WUU4a05Xak9TdVpiSDdFNGZvc2Q1cGhtc1pZamxhUHppenh1WXlLWThjd2kxS3F3eVBhNDNBQzFWeGo0QTR6dENLSDBiOXlWWmlYd3c1T0FwOS1FUEpxdmxBRWpmQQ?oc=5",
+          "pubDate": "Sun, 02 Aug 2026 13:18:13 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Moscow mayor calls a deadly bomb attack on a restaurant a ‘terrorist act’ - AP News",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWVBacmRlT19aRlY0RWdSNVdRd25YMklxdENfSk9XTkVSMzhEeElNUUtKMm84cXVuSnpmT3RGc08zYTdBVENVb2FuOTRUZEpUdGJaSEIzR1pySlotZ18wbldZSVlKUy1nN3VDNE80dFBqd01mc3kyMDJiVWpES3VtVXVYeVJpdVhFNDgtQUNWRmlONHJyZThMczlB?oc=5",
@@ -121,50 +157,14 @@
           "source": "AP News"
         },
         {
-          "title": "Ceuta grapples with aftermath of border surge after most migrants leave the Spanish territory - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNV82Z0xEX2JldWNxWXNmMFQtakZrbndjeWNKaEgwRDQ2Z2pNRzJHQllnRkVVcjh4SzgtTmJPWTV4VEV0Z3YzdFctekpqck92RGpYLU1kMUtIN29IOEpwZVNBMTlFRDQtVktmWWYtbG9LZ0NwZER2QzJwYjByTWduVUtaR1lNVG5GVDVMRXd0dEJPdG9QYnk3VU5ORWtsYjRONkE?oc=5",
-          "pubDate": "Sun, 02 Aug 2026 12:19:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "A blaze engulfs an Indonesian passenger ferry off Java, leaving at 5 dead and dozens missing - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPc0lKdjVraF9jNC00MkFVWW9laUIzY3dhUGtXZE5sT1J2dzVCUFo0dS1EZ1ZOZTVlWHhBaXRYeFZDb1ZTeXdCM3lyQi1xWm9wd3JxWVVsNU5ycWI1Ynd1WUM0WVJQVllad1VudGJwRGRlcWZrT2JENC1vRVVWSTNQMUt4cklGUG91dzgySTVRcVlGbU9XUGZiaXE4M1I?oc=5",
-          "pubDate": "Sun, 02 Aug 2026 11:37:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "All 10 climbers swept away in avalanche in Pakistan are confirmed dead - AP News",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQUliYnNTNW9Pdm9nd3MwRWpIYmxNX3JBTGg5VUpEQlpvWnRnWnRhSEQwcWhZMmRkU3A4TndHNC14b3lZbGhpeTR5cVEzTlpPeHR1TFo4RUNBaWVmTDJvTXNyVFdhN3RydkhFaFl3RFg3ZUJCNzMzeGExbmN1SnF2UTk2VzRjaWQteVlpZXNnNG1FamMxejRSWEpYci0wUnpubXVzNDE1TTVEMW1pcUpJTw?oc=5",
           "pubDate": "Sun, 02 Aug 2026 06:55:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Idaho fast food restaurant shooting leaves 3 dead and 7 injured, city spokesman says - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYW9uN0pxS05KdmgwSlBrYXdBTjBJTDY2N05QS2FSbUIycnRaR3ZnYTdBVTU5OUxpWnpGZnJUS0tVUWR0dFJIbGNKZGVYZEdxS3RfZjk1bHVnc3h3TTRHN2g1TUFMRU8yZHk3NnE0elkzZXFtUEwxRWNuZjktOTdmcGpCbUxYQW9vM05nZUZ3?oc=5",
-          "pubDate": "Sun, 02 Aug 2026 04:29:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "A woman with apparent heat stroke found dead while taking shelter in a car in quake-hit Japan - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQ2RidE56LW16bEJ1dV9JTXBPc3dCazAtc3lxM3NQZ0d3ZlhfdE5IZ2hiU0JsU1o0NjJxTnRoWHNGVzZFaW45di1yWDBxNm9Ld1VFVEhXeC1qRzFNaHY3SmJRbTRjMnEyMWpmUHBQMGtzTTlma0NDamFOYTdzNUFzVERqVGtOZkhkZnhNV2cwZmNkQlRLb3Z2TkJIT1laUF90dlE?oc=5",
-          "pubDate": "Sun, 02 Aug 2026 03:54:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Women’s Professional Baseball League makes a rainy debut in front of enthusiastic crowd - AP News",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVDI2cFRlS3JPN1JHY2pHaHVFQTZIMWhVMHJhMmdkV3p1V1l0QlM5aVRPcDBELVVqRFpGNDJZdllLNGlTYnRPLU5BcE0tUWhaN3hIcTBuNlJZYjBlNUJ3VnFzN1E1SmtvUlVFNlNULWpoTFQwWlFMaFNUS3Y3bTJQWjhHMWJNdw?oc=5",
-          "pubDate": "Sun, 02 Aug 2026 03:49:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Trump says Mideast allies have reached outlines of deal to end Iran war, says US to stop new strikes - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWUxMdnNIZ1MzaWNwNXBYV19IbUpVbUo2LTBiR3BiS05fVE1fOUczeVM1MVk3TEJWbjA5cmVZZmlNZ2ZLdnp6NlNLRlBmanlpTnhVbFZPc0RicnVJRjFBUS1uNU1kMldjb2F3ZnN3QTRkZGVLNW8wSklmVjZIcG52dks0TE5kXzlmdkF1d01SUW9TemFEQ09DSGlZdkxON1k?oc=5",
-          "pubDate": "Sun, 02 Aug 2026 03:43:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-02T14:38:54.599Z"
+      "updatedAt": "2026-08-02T16:04:52.541Z"
     },
     {
       "name": "Reuters",
@@ -172,7 +172,25 @@
         {
           "title": "Two helicopters collide as Greece battles wildfires, Hungary shuts nuclear plant - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPU0hsUjhJMWI1WXh1VkRmYTVMdzNvcmpNeEplc3pyeHFsM0J5LU9mSzJkNk9sUXpUQ3JITERKRzlNQ004Sm9WMHplUVVyYm9UWmowQjR2ZXlscnJXc3JOMmtKTG1aWUMzNXduNENWY2Y5UFlPWEZnbUpNR1VzYV9kQjJrUGgxNXFvYnBpSVBKdlVEajBzRklYYThaWGtXb25BU0FIN0QzYlFxWmMyRVRUdnRzcHpua2xYdktsNklfQ1hpVE1zSHc?oc=5",
-          "pubDate": "Sun, 02 Aug 2026 14:26:58 GMT",
+          "pubDate": "Sun, 02 Aug 2026 14:59:22 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Death toll from migrant rush into Ceuta rises to 72 - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNenRaMVlhSGtZV3ZHSzZqZnNrcDRfVDViVDFYTElZdnRNWW5TNUlsRWZvMElrRVJ3OWlWbjBwdmFtQ2FBRGFqaF9IU1pidG9ZTzZISnUwWXN6bjBxTjFJSlRFTEc4dzJoak9ObGhuWExVazBxOVJtRnVEM0hXOEFUVkVsUVdvYWxfWmZsb3IyTWhBOWZFbHA0?oc=5",
+          "pubDate": "Sun, 02 Aug 2026 14:35:20 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Ukrainian drones kill eight in Russia and strike Wildberries warehouse, governors say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNalRXTDFKTmlXU19IODRKYXA1bkZiSXU2MEMxUmxBRlpjakdLenAtS3EyZ1NaR1ByOXBsc182MzRkLTRUX1R2NFNJTXMyNWt4Nm5mZlBtbEw5ZWhNM2dndjJTZElZbGhWVXhjQm93bkJ1NURwSV9GWlItZjRKTDJYdV9vRjhDYWt2SVZFWGpfNXV4UXpWNnFVeGhQZkpnMEdnMFdZYThzQmxzS0YyNEVqSEFWdkJIX19a?oc=5",
+          "pubDate": "Sun, 02 Aug 2026 14:12:47 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Italian-led EU force boards sanctioned tanker from Russia's 'shadow fleet' in Mediterranean - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONW5zbU8yMjdVdGc1Z0pTSGFZVUZRTDJPR2lQM3NNU2p0Ym5OcW5xSkgwbnZ5ZmNsUWRaWHgwckZSRFFPMHNWQWtkVS1wcHIwX19uUEdER3Ewd3BLS25NdnFEb29WNHd3dzVPaHJZRVBwamp6MWltM29hbXNNYTVTc2FCUmZpaWF4b0dsNUJzYnRYMHhfRWR4emdRaFBkd0tHX0ViZlZoMXBDN3FEWS1rV21kaXpqdWlHXzkxaU50SGlfaGdvZEI4LQ?oc=5",
+          "pubDate": "Sun, 02 Aug 2026 13:53:25 GMT",
           "source": "Reuters"
         },
         {
@@ -194,32 +212,14 @@
           "source": "Reuters"
         },
         {
-          "title": "For GLP-1 users, the in-store clothes shopping trip is back - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUDk3MVJGS1lYMFV0WUtSaVBTT3JsOXBNcmpsZTBXM0FMdHFLbHBxWWVNeS1USG5QaDZUUDNqc1RTdWNocFo5SkRHNVVxVWxsUV9hWUpPTTVoWm5ubUMyMGhhaVF4eWJqMUFOeXhQZndoZ090UXlDd25KTi1rdGcyNXhOZTJZLTZ1Y3czMEU2VGtrREtuVC1TNnJlTURJQVkyLTlfNl9iUU5CaHItNlJnZEgtSU1QWkcyWjlRckhDYw?oc=5",
-          "pubDate": "Sun, 02 Aug 2026 12:23:19 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Holcim to sell Philippines unit to China's Huaxin in $807 million deal - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRVVGZmt6VDlQODNUNGdYbUhqdmtGdUNDU0gycTNuU1RaWXFEUFNXNEswbTN4LW1zNnJKdkYwTWtYTy1NZTY0UFRmRlZzNkpyZmxKQnpzMXJ4NWd4N24weXA5YlRxdV9IZU1RVDFDTFJGLU5lZE9xSWNEdkJEYi0yNG1rZ19rU0tncC1wQ2ljN19IdVI1RVBJeTFzZXhBNEg1NGJRLVFZMDRjUS1aNVZ4bzRhSEY5aHpH?oc=5",
-          "pubDate": "Sun, 02 Aug 2026 11:49:19 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Hungary PM flags \"critical\" days ahead with looming nuclear shutdown - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ3k3dmJWR3pfSnFZRFVOcE1KMXF6UkpsQUoyTk9JVVFLOW1XNGlLQXkxRlhnNXVuaTRnOElUT2paNnlneG1pYnNNMjhxZFVsR3R4czN3dFdab2w4S1hfZms5TC1tRDdpR3F3cGYzQnFvOVViWGtsdFdaQUpZZ1FvOFJiMl9QUk1raEF1M1BDZzdUM1NyZDB1Znp4OGlUZWdIMDRBeEptWlhpaU9BeTl2YkF6dDluS1VIRmc?oc=5",
-          "pubDate": "Sun, 02 Aug 2026 10:45:44 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Ukrainian drones kill two in Russia, strike Wildberries warehouse, governors say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNalRXTDFKTmlXU19IODRKYXA1bkZiSXU2MEMxUmxBRlpjakdLenAtS3EyZ1NaR1ByOXBsc182MzRkLTRUX1R2NFNJTXMyNWt4Nm5mZlBtbEw5ZWhNM2dndjJTZElZbGhWVXhjQm93bkJ1NURwSV9GWlItZjRKTDJYdV9vRjhDYWt2SVZFWGpfNXV4UXpWNnFVeGhQZkpnMEdnMFdZYThzQmxzS0YyNEVqSEFWdkJIX19a?oc=5",
-          "pubDate": "Sun, 02 Aug 2026 09:17:54 GMT",
+          "title": "India proposes transmission charge relief for delayed renewable projects - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcEFaYXJKY0R2MDJ6UHJBcUFzNFdoU3JqNktqM3FRYWxreTlfQUI2QllCUDhsYU9kNjFRQjc0eUZ0YVJBSlNfaWxXMVFnTDhlV3pPVXc0V2pCaUVMWlFtZUY1UGVpZGs4YTBUSWNoODJGakZfUDc1RFViZWFMTlZrNnBEZFU2QXcwVTlFQVA2UV9XaFpYd3lCZFpZQnBVcGhZNVRkYlFZaGNyRGswVmp5aWU5WGxYQmhtam02bQ?oc=5",
+          "pubDate": "Sun, 02 Aug 2026 12:52:12 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-02T14:38:55.001Z"
+      "updatedAt": "2026-08-02T16:04:52.938Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-02T14:38:55.190Z"
+      "updatedAt": "2026-08-02T16:04:53.213Z"
     }
   ]
 }
