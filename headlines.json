@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T22:32:06.806Z",
+  "generatedAt": "2026-08-03T00:02:45.816Z",
   "sources": [
     {
       "name": "BBC News",
@@ -54,11 +54,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-02T22:32:05.655Z"
+      "updatedAt": "2026-08-03T00:02:44.477Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Defunct part of SpaceX Falcon 9 rocket will slam into the moon",
+          "link": "https://www.npr.org/2026/08/02/nx-s1-5917201/space-x-falcon-nine-moon",
+          "pubDate": "Sun, 02 Aug 2026 19:38:05 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Capital One says it closed Trump Organization accounts over money-laundering concerns",
           "link": "https://www.npr.org/2026/08/02/g-s1-136834/capital-one-trump-bank-anti-money-laundering",
@@ -100,20 +106,26 @@
           "link": "https://www.npr.org/2026/08/02/nx-s1-5917121/idaho-fast-food-restaurant-shooting-3-dead",
           "pubDate": "Sun, 02 Aug 2026 04:01:27 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Trump says he's cancelling Iran strikes, deal pending",
-          "link": "https://www.npr.org/2026/08/02/nx-s1-5917113/trump-says-hes-cancelling-iran-strikes-deal-pending",
-          "pubDate": "Sun, 02 Aug 2026 03:34:27 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-02T22:32:05.915Z"
+      "updatedAt": "2026-08-03T00:02:44.736Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Oil prices drop after Trump orders US forces to hold off on new strikes against Iran - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcEZkWTg3a001MVcwRG1xUHMyZEswTmlEdWZTSjhHc0ZoTDhjcHJjeG9RajROSHJRQzV1RHQyMTJtTFo0czE3NDRnUzJlcjZZblZtRzZZRWlFODlUZEhoeU1ETzJiTlEwWGQ5RU5XS1pTV2Fib2FnWXJNRHhkRmx4MDlwUGkzTHVxcFc4VzJB?oc=5",
+          "pubDate": "Sun, 02 Aug 2026 23:02:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Brazil’s Lula launches reelection bid as concerns rise over foreign interference - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQVhVOWVPWk5lVnU3TGw4ZGtCTkNxVkN1VG92cVlJU0YydG1vbk9uVTFuUzZuMFQzQlYyVmEzRG83bnM3MTR1cDNsSzRZMmhldU14d0dMVTZaSDk2VFZKUERDLXJZcE5iWjVtQXBIS2VKSHM4ZHNEYThRbm1ONDhMang2MzhWUlhkVjBuTnp4aWVVNWp3Yzhyci1HbFFhRXZrb2h2MDVoVnZJNG1mTkdMZUM1ZVhGN0ZLSmc?oc=5",
+          "pubDate": "Sun, 02 Aug 2026 22:36:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Sen. Bernie Moreno says former son-in-law Max Miller should not serve in the House - AP News",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLXZOMkdIZmx2RlB1bmpTMzV0enV1UVVmdVViTURLSENNYjMwVTFmN1RWQlZHRm44OFh5MGpPLUliY1lLWGktVmlXTVREZTI4THNnRkgydHVIVFExQ3ppamJrTTV5WmZWdkhVZVdiOExWanFFV1JGcjBqNmZCazhqR3RMMFRGWXV5UFhiUHFRelBSeEhuOHR3MU5R?oc=5",
@@ -123,7 +135,19 @@
         {
           "title": "Suspect in shooting at Idaho fast-food restaurant died from self-inflicted gunshot wound, police say - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbmxQdEZiSXlLeERWT1Mya3c4bm5OWWtvOGxyNjJ5LUFGYjBHeTZlVjA3SkdfNUNyQzhNTE5Rc0tDcXRLUW9Zdkd6aWFBcElaMEl1b3FIbkxpWkYyQTJZUzBlYXg3RDlOYWNUd1cwV0ROUGppZlkzcG5uY1RZWnBZX29SNlI0a1RwbzY0YzZSX0lJSHpONWpmZUJHLTMyVmRfZFhVMUpUNXJKZw?oc=5",
-          "pubDate": "Sun, 02 Aug 2026 21:07:00 GMT",
+          "pubDate": "Sun, 02 Aug 2026 22:00:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Eastern Washington fires have burned 600 structures and forced the evacuation of 5,000 homes - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdDZXcXlCclB1VmpxU0VWUl9uTmtBZDNLWjNCUm5GXzAzOHoxY2k4eUVtRWtfZ3BKMzVTRHpwclBzZ0JFbHNfZm10MVA1bUttWmVYVnNOb3NHNGU0VGJJQW9lMW9kTGxXUXdKblVYVUJpRU5nb3VTNkM4SDZ1RnpObFdtQ1RMeVA5cThHOXIyNjF1S0JsYWZUeTBRSVRGNzlTV2E1amVNQzlMMms?oc=5",
+          "pubDate": "Sun, 02 Aug 2026 21:11:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Skubal to Dodgers, Peralta to Rays as MLB teams add pitching at trade deadline - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMFlvWmZ2M1ljRHlONWdkeVcwd1JiQWhHSmtIUFktb2ZrTmVWVGVOdWNfRFF0RVMyUWFYXzFrV3VlYVNVOTFadWRsRVozSUkwbXZTRWJnaWRYcWoxdUhQa3VyMGVUMU1JWmhOUmhTTGxWRlJ2TTR1N1hkblprZjVoekxnMEFwdlN2dVpfN0c5UVVaQWp2MjlpWjg3ZlVoQkdDcFRubg?oc=5",
+          "pubDate": "Sun, 02 Aug 2026 21:10:00 GMT",
           "source": "AP News"
         },
         {
@@ -137,42 +161,42 @@
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSEtNZW9oWnRaVXZNYmhxaFNrSERYaDdIaVBCdEsxalJBd1V0d3l5MWl2a2k4azI4Y1cyNHAzeHdBNEdiZmdRREc1b2x5b2ZQb0N0R1lNQ05fRWpCaHlTUWU3RGRQLTc3SXJ5SUN3Z2J6MnJYZFRUVjhfMHJnckc2VktnN2lTaGN1SGNuYk9HaENlcmJTRkF0ekp1MTA3b0tO?oc=5",
           "pubDate": "Sun, 02 Aug 2026 21:01:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Rallies surround Fever-Lynx game after Sophie Cunningham's stance on transgender athletes - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRjRhLWVoT1JPQ0RCc3pLT1A3bEoxUWFmWlV3QzRRSGx1NmdpRk1mZjNXVXFxY3piaGRiaGR0U05KYjhGdFZfMjlETURWbUh6QkdrQlpGem80eFRCTXhrS1RIUG9JV3kxTTRFTGMydDh5dWxqaE94TW0xd3ZEbks0SUotbjl1cVhjam44djRRX2xPSUJpLThj?oc=5",
-          "pubDate": "Sun, 02 Aug 2026 20:24:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Israel says it has serious concerns with Hamas disarmament deal - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUU5CY216dkdHTXZGZUZYUmt6WXRhZWlSMTVmc2xydFZwb3ZCQ2Vfbk0wRzI1aWxNRHpkUTgyUks3aHNGZ2dkS2RvSWhGbXFoNERoZGs0a1FOSVUwUi1YTVlLVXBTek5YRzcxb0FMQlIxdjRQeFIyNlA5Szh1MFhnVHhUZ1RFUk1Gdi1yUFRUcS1HSmhzLTFESGh3N1BRVG9EVTBqLWFJdUxwTXN0UUlpN2R0QQ?oc=5",
-          "pubDate": "Sun, 02 Aug 2026 20:15:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Brazil’s Lula launches reelection bid as concerns rise over foreign interference - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQVhVOWVPWk5lVnU3TGw4ZGtCTkNxVkN1VG92cVlJU0YydG1vbk9uVTFuUzZuMFQzQlYyVmEzRG83bnM3MTR1cDNsSzRZMmhldU14d0dMVTZaSDk2VFZKUERDLXJZcE5iWjVtQXBIS2VKSHM4ZHNEYThRbm1ONDhMang2MzhWUlhkVjBuTnp4aWVVNWp3Yzhyci1HbFFhRXZrb2h2MDVoVnZJNG1mTkdMZUM1ZVhGN0ZLSmc?oc=5",
-          "pubDate": "Sun, 02 Aug 2026 20:11:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Trump frequently announces he’s halting strikes in Iran. But they keep happening - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdTlJZWZtalpsdl9pdHI2eDlzTl9iNndGZjlHRzZUSks2ZlZMU2VNcTQ4UEl4bWxEUExOSk9MV1M0UmY1eGp0QlZzUkNnZWxOYnlIbnU2ZG5FbHlUdjFXbUlkSUFmSkluRnUzVTRjN0FHV29Kc3AxMnpWS0VlNkhaZ2dOQ0FfY0FLSjVTREpPeThGRmNfV29QQUl3?oc=5",
-          "pubDate": "Sun, 02 Aug 2026 20:09:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-02T22:32:06.324Z"
+      "updatedAt": "2026-08-03T00:02:45.217Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "AstraZeneca holds talks with Bristol Myers Squibb on $400 billion megadeal, FT reports - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWTM3b3YyclowY0NiOHZsQ0VWaElaZm5IVmZpRGN6TG9DemlkNDR5LTNYb0VtRm8zS0tENWtDekRSZHlFN3FnUmd2SHhhUVFmcE82dnQwNTByU0dwck1keWQwWnRXYkt2ajd4UEhuVXZaXzZmb3RWUnlwUkhYNXNHTld6Nzl2WVpvdjVwbFZFeGw1MUhRczBNemZZQVhCV0xCeWtScl9LNFd0VVByZXBwTWdZYVBzbmNwOWlXem1MRFUyZTZyRmdWbVdaS04?oc=5",
+          "pubDate": "Sun, 02 Aug 2026 22:57:34 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Italian-led EU force boards sanctioned tanker from Russia's 'shadow fleet' in Mediterranean - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONW5zbU8yMjdVdGc1Z0pTSGFZVUZRTDJPR2lQM3NNU2p0Ym5OcW5xSkgwbnZ5ZmNsUWRaWHgwckZSRFFPMHNWQWtkVS1wcHIwX19uUEdER3Ewd3BLS25NdnFEb29WNHd3dzVPaHJZRVBwamp6MWltM29hbXNNYTVTc2FCUmZpaWF4b0dsNUJzYnRYMHhfRWR4emdRaFBkd0tHX0ViZlZoMXBDN3FEWS1rV21kaXpqdWlHXzkxaU50SGlfaGdvZEI4LQ?oc=5",
-          "pubDate": "Sun, 02 Aug 2026 22:19:45 GMT",
+          "pubDate": "Sun, 02 Aug 2026 22:45:08 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Ukrainian drones kill eight in Russia and strike Wildberries warehouse, governors say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNalRXTDFKTmlXU19IODRKYXA1bkZiSXU2MEMxUmxBRlpjakdLenAtS3EyZ1NaR1ByOXBsc182MzRkLTRUX1R2NFNJTXMyNWt4Nm5mZlBtbEw5ZWhNM2dndjJTZElZbGhWVXhjQm93bkJ1NURwSV9GWlItZjRKTDJYdV9vRjhDYWt2SVZFWGpfNXV4UXpWNnFVeGhQZkpnMEdnMFdZYThzQmxzS0YyNEVqSEFWdkJIX19a?oc=5",
+          "pubDate": "Sun, 02 Aug 2026 22:43:43 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US Senator Moreno says Ohio's Miller should not serve in Congress, citing abuse allegations - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdjRwZGczVkVkNGRrWHNRV1BUWS14QkFEOVJ1SmRhWmdtTDlUUm9xT0VLNTR3MjEtM2FKd0hIbDgxd2FlR2FBbmVpVlF3Sk5aanBaYlpweS1jQ1pRZE1OWS05UUdHckEzaFhXQkpQTHUzdXU1Vl9MN1BXMEFMZ2tnUGZLOThabWZ0dWQ4d2ZUUHlkNmI0UVNsMFRkVlhLRTlmQVRaVW1kVXllLVNvU0FJQ2NGMng3V2ROQ2w3LXVHVlIwLUVxWVE?oc=5",
+          "pubDate": "Sun, 02 Aug 2026 22:32:56 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Japan to vow coordination with US on weak yen in historic battle - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYWxCY2xleXI0czB5WEhyRThFYVhWT0pYcFE1TzY5NnZSbVBvc0Vsc05hM2hwd0sySWFGT213d2hFSkhqRlJ5LXg4djlZXzRBZmZ1Y2c2VHhnUHlmUlpwTlFqbDI5U25KT0NPajF2eWsya0k1UXVVOHZyZEdrZGZTQXRycGt4R0oySUc2TVk3T01XemExNEJOMDJ2MkU0a0dtMTFkNDRIYTlwaWRGR2hB?oc=5",
+          "pubDate": "Sun, 02 Aug 2026 22:28:06 GMT",
           "source": "Reuters"
         },
         {
@@ -188,38 +212,14 @@
           "source": "Reuters"
         },
         {
-          "title": "WestJet flight attendants go on strike after talks fall through, grounding flights - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQblhNTDVZU3dqTmw4d252dTlOaS1pdnFEcU5ZTjdobll4RnNJYXdVVkszRExqOHRLRGFYbG5XNVE3a0h0TUp3UzZocVNic3l1dXdPMzNGaDljWWZmS2kwUF90RVlfcG02TVc0LVJTS0dqbUV2QWhLZlhEVTloNHUxUjZJLXdwb0FRUk8td1FDaHdUdC1SalhBTWlJVEJ5cDBiaGlmeWtLNHBycWJlVFU0VTlFYThLamVfMGNB?oc=5",
-          "pubDate": "Sun, 02 Aug 2026 20:36:23 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "AstraZeneca holds talks with Bristol Myers Squibb on $400 billion megadeal, FT reports - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWTM3b3YyclowY0NiOHZsQ0VWaElaZm5IVmZpRGN6TG9DemlkNDR5LTNYb0VtRm8zS0tENWtDekRSZHlFN3FnUmd2SHhhUVFmcE82dnQwNTByU0dwck1keWQwWnRXYkt2ajd4UEhuVXZaXzZmb3RWUnlwUkhYNXNHTld6Nzl2WVpvdjVwbFZFeGw1MUhRczBNemZZQVhCV0xCeWtScl9LNFd0VVByZXBwTWdZYVBzbmNwOWlXem1MRFUyZTZyRmdWbVdaS04?oc=5",
-          "pubDate": "Sun, 02 Aug 2026 19:53:07 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "'Spider-Man: Brand New Day' opens to a huge $927 million global box office - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdFlQbEdGa3g5TjA2Sno1dk5icnlES2wwWHE3MGtQcy1aMUE1d0RiWkU3SmRHMmloT25HeTlJWW8zLTdRdTJfdnFScWlBeDZQYklvRjR5SzFLUlVpZ3lLY3hIZUZnZEVUajRlZ1BJUGEtNzJpdFA5ZTFIaHBaN2tzX3FiVjJib2FsR1lqV2pkWFVSSFNfb01PcEdHajBVc2c?oc=5",
-          "pubDate": "Sun, 02 Aug 2026 19:48:53 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US lawmaker Kaptur injured in car crash, her office says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOckJKbXBPVUFQMTZUQ0JobXpGVHMwX2JYVGtlSGRweWpoUjFqTlZmTkZJaEoydjItYlRXMjNsOFNNN0ZCTWdrc0E4NFczNmNoYmk2ZUphWWVnYWdyRkc2TzhpSDNzYVg4eU5RY0FzRXhMdlNJWi1nRFMzWVMxdl90d2tVVHg3TG13TnNxWjJaaFF5enlHalVRSW5RQlphZw?oc=5",
-          "pubDate": "Sun, 02 Aug 2026 19:35:43 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Suspected suicide bombing at police station kills at least 14 in Pakistan, officials say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVTZuMDlfeGlmTG14UGlTZ2EtWHd6LVR1Nk9zSlE1ZDNwZ19PbTVnS1B2bktSZnMxRjFYaU9RX29Xa0djazNpRW0xVThaOHVtVW0xZTFiVURWd1dGNkd0cWV2OHNLcGI1OTVOY19JUTdTX3RiZmE0RzdHWjdTd29jLVlMNUFtM3R5cHBkNHYzbjVqYkh4eXlGNUtDYlduVkxOTG9jaWlZS1FHN2J6QjZTb00zWC1mblRzcFhsYjYwWUgxb0YxNTRYZXRPcjUxUQ?oc=5",
-          "pubDate": "Sun, 02 Aug 2026 19:26:47 GMT",
+          "title": "Australia's home price retreat gathers pace in July, Cotality data shows - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdGg4bVFYenpSVXdnRm5SYWJBUHNiVzdSRjU4OF9IRGpSMWtfTzhaLUo1dVZ0Y3JsS2NBNENlRWRvbGF4STBhbGpnNzUxMzdHQ3hrV3pNa2piRzlfelctektnN1VJd21oQTdwemoyTWl1ODRBZmhKUjNaTHFOcXY4QXJRcTd5eFpNZmhXTGVzcGdxR2dMbnlhcTdjdHJFQ19rcm1pTWY3NVQ5TVlkVVY5Q0lBZGxQM0JmWGpnZG0zSQ?oc=5",
+          "pubDate": "Sun, 02 Aug 2026 21:00:20 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-02T22:32:06.716Z"
+      "updatedAt": "2026-08-03T00:02:45.640Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-02T22:32:06.805Z"
+      "updatedAt": "2026-08-03T00:02:45.816Z"
     }
   ]
 }
