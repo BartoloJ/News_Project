@@ -1,9 +1,33 @@
 {
-  "generatedAt": "2026-08-03T11:37:44.612Z",
+  "generatedAt": "2026-08-03T14:52:28.233Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
+          "link": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 03 Aug 2026 14:20:56 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
+          "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 03 Aug 2026 14:18:30 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Moroccan king's letter confirms naming of major highway in honour of Trump",
+          "link": "https://www.bbc.co.uk/news/articles/c3r0vg88zr2o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 03 Aug 2026 12:20:11 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Hundreds flee fighting in northern Ethiopia as fears rise of return to civil war",
+          "link": "https://www.bbc.co.uk/news/articles/cdrv6r3xgyeo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 03 Aug 2026 11:49:48 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Todd Blanche formally withdraws Trump's 'anti-weaponisation' fund plan",
           "link": "https://www.bbc.co.uk/news/articles/c3w05gx32d4o?at_medium=RSS&at_campaign=rss",
@@ -17,21 +41,9 @@
           "source": "BBC News"
         },
         {
-          "title": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
-          "link": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 03 Aug 2026 10:58:48 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "Sudan army drone strike on court session kills 35, rights group says",
           "link": "https://www.bbc.co.uk/news/articles/ce85097leydo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 03 Aug 2026 10:29:24 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Iran denies Trump's claim that new talks will begin on Monday",
-          "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 03 Aug 2026 10:23:35 GMT",
           "source": "BBC News"
         },
         {
@@ -39,26 +51,32 @@
           "link": "https://www.bbc.co.uk/news/articles/c24mr09r99eo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 03 Aug 2026 08:40:22 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "US and Japan take action to prop up yen in rare joint move",
-          "link": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 03 Aug 2026 07:30:52 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "'Your legacy will live forever': Nepal mourns climber Nirmal Purja",
-          "link": "https://www.bbc.co.uk/news/articles/c07rvy4e7mno?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 03 Aug 2026 05:31:55 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-03T11:37:43.371Z"
+      "updatedAt": "2026-08-03T14:52:26.852Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Washington wildfires destroy homes, force thousands to evacuate",
+          "link": "https://www.npr.org/2026/08/03/nx-s1-5918018/washington-spokane-wildfires-evacuations",
+          "pubDate": "Mon, 03 Aug 2026 10:28:44 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "U.S. men's national team coach Mauricio Pochettino will stay through 2030 World Cup",
+          "link": "https://www.npr.org/2026/08/03/nx-s1-5917999/us-soccer-mauricio-pochettino-coach-2030",
+          "pubDate": "Mon, 03 Aug 2026 10:05:24 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Todd Blanche rescinds 'anti-weaponization fund'. And, Trump calls off striking Iran",
+          "link": "https://www.npr.org/2026/08/03/g-s1-136892/up-first-newsletter-iran-war-todd-blanche-capital-one-bank-accounts-trump-conspiracy",
+          "pubDate": "Mon, 03 Aug 2026 07:57:06 -0400",
+          "source": "NPR"
+        },
         {
           "title": "What would it take to get peptides on the shelf?",
           "link": "https://www.npr.org/2026/08/03/nx-s1-5913381/health-fda-peptides-product-regulation",
@@ -66,7 +84,7 @@
           "source": "NPR"
         },
         {
-          "title": "This lawyer believes in second chances. Now AI is providing a boost",
+          "title": "For those with criminal records, AI is breaking down barriers to employment",
           "link": "https://www.npr.org/2026/08/03/nx-s1-5892484/ai-legal-tech-jobs-clean-slate",
           "pubDate": "Mon, 03 Aug 2026 05:42:28 -0400",
           "source": "NPR"
@@ -78,20 +96,8 @@
           "source": "NPR"
         },
         {
-          "title": "For Republicans planning post-Trump future, one race in Washington is worth watching",
-          "link": "https://www.npr.org/2026/08/03/nx-s1-5902154/2026-primaries-washington-state-republican-party-trump",
-          "pubDate": "Mon, 03 Aug 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
           "title": "Over 4 million people are no longer receiving food aid amid sweeping changes to SNAP",
           "link": "https://www.npr.org/2026/08/03/nx-s1-5906797/snap-food-stamp-federal-changes-what-to-know",
-          "pubDate": "Mon, 03 Aug 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Bedbugs, bad Wi-Fi: Federal workers say forced summer relocations have been chaos",
-          "link": "https://www.npr.org/2026/08/03/nx-s1-5896088/forced-federal-relocations-haphazard",
           "pubDate": "Mon, 03 Aug 2026 05:00:00 -0400",
           "source": "NPR"
         },
@@ -100,126 +106,120 @@
           "link": "https://www.npr.org/2026/08/03/nx-s1-5886263/ice-dhs-immigration-enforcement-conspiracy-arrests",
           "pubDate": "Mon, 03 Aug 2026 05:00:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Israel says it has serious concerns with Hamas disarmament deal",
-          "link": "https://www.npr.org/2026/08/03/g-s1-136877/israel-serious-concerns-hamas-disarmament-deal-trump",
-          "pubDate": "Mon, 03 Aug 2026 03:03:52 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-03T11:37:43.546Z"
+      "updatedAt": "2026-08-03T14:52:27.143Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Prime minister visits quake-hit southern Japan as cleanup begins in intense heat - AP News",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZWdCVmdMVFRCSlFoaHJudV9wMjI5bXFsWWJzR1VvNkRYeldLcFNWLVlLT2dGN0g4RkZpdl80WllJTnBNSHJPT3dBTEYyVXBSV3g5VUpfSFR1UGNudEpwYkVpZzZkZ25GSEFBZmVDWjJzVllCMnpQaDNTSjRndGVTOE9Pdk15TnUtYS1aR3JNNjNLNXBSZ0lzNndqN1RTcU9q?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 10:54:00 GMT",
+          "title": "Democrats’ future is on the line as El-Sayed and Stevens make final push in Michigan primary - AP News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUkdXNjVtRDJnWExmWEZEN1ZUWG10OXJUZXlma1l3SXlLelNvSEhqc0VTVWlwZHUzQUlxdUM5b3pSaU9CdUhfUUIwcThINko0MjJzbXBGV1NPa0ljU2xPUUVNVFYtOTZyZDQ3ZHZuY1g5TGZFZXhuc09UZVZZaWxocUYxZmhqLVdRUlVTOVZHNWhzQ2pkR2ptay0wNW5zUmpB?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 13:54:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Record low Danube levels push some countries in Eastern Europe to the brink of energy emergency - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRVh3V1FLVExDcEN6Sm80UnlINWYxYlAtSUZtYWtRZDJ2R0RqTnl4RFp4MWp3Z1J0VHZ1M25UUGk3LTZlV1o2Q3F0bHg0VGg0QVpzS1hPVjJFLTVpZXhobjZRdVhldnBpajlLOGM1ZUcwZldWT2RqUTdqSVlHSnBZa2dhYVU2RFVXUGc5YWxzMG9FOG5wME5zRlNDdHEwM3Bsb2JoR0hYZTk0cGsyUUJpMA?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 10:29:37 GMT",
+          "title": "Russian Embassy in Rome blames Ukraine for deadly Italian restaurant bombing in Moscow - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMTQ0d1JKQzRTU1NONWhCT1N5VzV4Rms1dkR5bVhiT2kwRWpiUVI4Q0lnanJtcXFPRWNBY2IxSDNpRm4xSDJ0MmtXbkd3X1hUQ3VyZmJaT2tvWEJZdE52SW1PeHp1QTdRMml2aDhWVUhsQnFfeElVVFdGcGltSmU3Y0V5QU93anpRTHVtYkk3QTZpbEZQYzNhYjFZYmIwTjR5X3c5a2l2WUZyOGxGa2c?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 13:21:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "‘Spider-Man: Brand New Day’ nets second best North American opening ever with $355 million - AP News",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVU5HWmxndk5IaGVQT2tkRnZncDhoejZsSjdDVGQ3V0FCbWhzN1hBd1NHWWFISmYtY3Y5SmVLU0tHNDA5cWZRR09SeWFvY21lLUZoZ0xFXzBZY1dVd2dqM3UyRVFvNUpJYllxaWZZN25fRVh1al9GNWQ1SnBLSm1DcDhuSTh6SU0?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 10:06:00 GMT",
+          "title": "Myanmar's detained former leader Aung San Suu Kyi has rare meeting with International Red Cross - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSlctT0dBVG9VVlhKZ284bjkxZlJVUFJDMFg0eGdHNkp2X1pQa2pPV0VZN3JZWFlRQ25zWHVCTkIzampNaWRqYjZ4VFdiQjk2WGZaS0didzJnaGc4M2JYV0dYdFU5dy1pTUZnRmFwcmpsb01iRzRBUFRQcUlKZWFhdzV1M1JfdV8yNlA1UzBiRUNVRUR5dVlqQUJ0QmNpS2pxMGVFVw?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 13:20:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Russian planes fire a salvo of glide bombs at a southern Ukraine city, killing 1 and wounding dozens - AP News",
+          "title": "Trump claims Iran talks will start Monday, and other developments in the Middle East - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeXk4T2kzT3g2bk5zc040bF9IVk1UTlB2WXNoa2tPTldBbjdRY0F6dFo5dk1YY1N1YUFFaFpONHdWeG9YaENDaG9KcExEUHJCdUYwdEV1c3lGMURoenctSVlaUW93ODYwUi1SSGdRd3lWNkpGazlMYndZT0p3TzhWZ3lEWVBSZDdFblJVbnpIZnhLWTNvc2h0MU81SHJRNDBrb3c?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 13:12:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "AP Decision Notes: What to expect in the Kansas state primary - AP News",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4NmNXbkRxWjVfOVgtTDhPUzZTQVVsQTlBWVFfZlVzUjFlWlllYmlqUFY5TmlIY3Y5Ri1yVWV2N0l1MkI5THdodVFVSmFqd0prSTBfYThJbTNLZU5zampzXzRWa1RycmY1cEh5cU9QOXh4bmVSNmZIYWc3MmtPMWc?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 12:54:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "US faces new pressure to build weapons without China’s rare earth magnets - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWXlhalFIVUFKQVFKRnBZMlpzMkpXSkd2dFVtUGFjQzRET3MtV2hybUZXaTAxdm1OU05Md1pNaUpoY3B2LU9iUzFjeWhQTXpqb0JibFRmYTZRRVAtX3AtT2x1M2tSSmx2emM1a1lzS0F1WWZjeUR1N0tQNzJvaVFEQ3lKbmx6M3NfeGZPY1d5cjJDR2RpalFMcUVFWjFoMzhzakdabzlYZ2t5UQ?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 12:36:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Unknown number of people are missing after an Indonesian ferry fire killed 5 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNT1pmNldsV21oUlBKbmhQUnlFY2oyZ0pKenlQYWFNb3BUMXBiR2VaSlJrZy1ienJIS3B5UnBWb1R3SzU5NnoyZy01bVJ1cy1hWG5PWTc4OFdJckQzR01keUF1SHRBbXB5dzJyb1c0S21Ha3BQcUFnbXFDMlF0ZkpUbk1QZWtmczM0aDBVZWwxdm9BYkYyeEc5aFB3a2xCeGtzcC1vSTNHeWpqdw?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 12:33:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Russia blasts southern Ukrainian city with glide bombs while Ukrainian drones reportedly kill 9 - AP News",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOalh4VDFWWlhRM2N4ZkphWlhzeXNXTGRfMUdubEVJaGdlWE5HUHJpNXNoNnlBRk15akZUQm5rS3oxN1VZUDlRSUpIR1JWMnVIOEpfRlBoekMyWVcxUHVFN2NjZnRhVElIajFKX3FxSkZRREE2QkhnWnF5YmpPTE9WZHRKRE51VTAyOV84TGRZUXBSZVgxbFdCTl83VUw3NXlGYWNfMjlzNERyTTVqS2lXc01B?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 09:53:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Water-dropping aircraft take off to tackle major Greek wildfire, after 2 killed in crash - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWVJ3YktkdzVuTjE5NnBtRXhReVlTNDdxZUpfOHZGTmhfVjRtd0pka2J4Nk5kR3FwNHFTWGc1aVIzX0ZteWF5dGRfdW1fdl9BVF9uRmctOGxnd1QxbzlicEpzaWlwYXVrRWFzLWFTM3VhT1AzV3llelkyUEhCWnRhblRCRHkwdW45aFA4SjZNdEkweExfNU4wMzcxWUFjcnNENm5lV2d2UFZKdFdmZ1NuNnZn?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 09:41:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "European soccer body UEFA warns FIFA of legal action over Infantino's failed World Cup sell-off plan - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQS1lMdTNycFBsQVJid1UxY0RFd0xEcVRKdW5MM2NSRGlLUTVraUVtU2xuMzk5MGFUVXhzd19XUXJwajdiNTIxX3lGSGF6UlhLODdwbjhzc1d6c09DbWZzMjJyYmo4ZXBSQ1lRWEtSeHFBRjF2UDM4NzY4OFhGX3ZXS1h4YnFXU29WdS1jTE12RW1YVmNtZUliT0E0WQ?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 09:30:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Top US admiral warns against coercion, says no nation will dominate Indo-Pacific - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVkpoWlZZdlFmb1dETDRXNGctX253cHZGTEtuMnhaQzl5SjlfQ011OGk4eDFVMHNEakdoZ2NVaDRuMVpINTRsSURSMEpDSVZ4cE1XeGxrRHEyQUJ4cFE2Y2oyQWdlamRzaDFVbHI0X1lmdnJtLTRCcV9ReFNBZ1lvQ19tbC1lOFYyN1FyazEtdENvQ0dkeXc?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 08:57:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "This ethnic community in Estonia turns a village into a symbolic kingdom for a day - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZTd0RnlzRTc1X0VJLWtpaGNBQ3ZNemNBMVNfaFJuTi1OTTliRU1FYk5JMUdoWDk0ZWNqS2Y5MTNJS0dpR3BvemRYSlZ1U2ZuMC1DRENBSXVGa1ZUUWYzdXU5TXdVSm5tTGpDTENBZTYzSEQ4Si1xZlBQZGJGbEZ6VDVWdzBNQm0tUlMzRw?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 08:46:00 GMT",
+          "pubDate": "Mon, 03 Aug 2026 12:30:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-03T11:37:43.979Z"
+      "updatedAt": "2026-08-03T14:52:27.609Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Massive Attack band says Singapore police detained, questioned them after concert - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbHdCX1FkdkhtUzlHOERFVjV3MUV6amxRa2VTa05aZThmSkkwYk9PWW9JN0E0UVZ2dGlBamNyZG9ORllTdFpvaUxmX2U0ZXRGaE15ZEduTjEzZzZfaTA1ak1IdEtpcXJaMXdISWRlOHRTS1FIcEF0eXhVNi11V2FTcHUyTDlYbGN1aUtONG96aHlOXzA3TFZsbG8xc0ZTWmpiNWJ6aDJzVFdVY19ha0t1R3lRM05IVDRDYVN2LWlOX2FjWkZZa3poS09ON1NVTEFY?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 10:41:06 GMT",
+          "title": "England set to follow Wales in withdrawing support for Infantino re-election - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaHoyYXVud3NrcC03c0FNa1BBbEZFT0dsaHphTDBmQ3ZBRDRsNm00UjJja3NKTWdRS1hwLUYtOEc5QS03Z281Z01JQTNMU1RmanNQSE9iaXNLa3lVSFdpenhkLTR3ZkhFZlQ3Z2RtZU12ZU9jSFFweW1lclZuMi1SN2k5T001RWI5V3Q1QWxQTWdRdkFwYy16bm5xc2RkLVZzc2cwdF92UFNZeVR5eWlHcXlzNTlMdTBheDIxUVVjN1E0Z0tQ?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 14:18:26 GMT",
           "source": "Reuters"
         },
         {
-          "title": "EXCLUSIVE: Fed's Williams expects inflation to ease, says Fed will act if it doesn't - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSW5GWU1oN1VmZjRKVjJXb2p0NENaV2VXcEU5a094OWJwTy1HbGk5UHZRNl9hT2UwVU01bnhJMDg1RS1YWTM0Z1F6SFp0RmttanY3dVprbENuMGlnQndRNWh0VmEzTEp4Tm9pOHJNQlMxbktWN1dLeThZWEhVSVpTRkdTRFozaDJ1Zmx0R2dxTnhaaXdmaHJ0WHR3cHpmcHVoeTN2QjBzYjhtemVocWFvQmln?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 10:20:30 GMT",
+          "title": "Wall St starts the month strong as Mideast deal hopes rise - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTC1HdWxXY3dmcFlCNm9FZ3N5VnVhSWg0ZHV4a1RRdUdlUVM5QUhNYUlueDN2akloUFFEUWRIWXNHeFk1VEFHMDhBRTV1XzY5TnBxUXlVQk96NkFMSnNuTURuTzhCOVRBUkVVT2p1VjBOZFBZdk4zM01WQlFDY1ZZTGhqR2NaeXNrVWN0Ym5aQ1VENmZ5aGRKRWRoMHlNRTVxMWxVSFVrOA?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 14:11:21 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Planemakers and repair shops take steps to conserve aircraft windows in tight market - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdjVKeUJKRkpmY1NzM05YMlFTVFFuelQ1WllGS09EVkMzeVpRRE94ZFhkeEVoZzFWdmQwVzJ1OXRNZEhhbFlZdTM2WGkzM0hOZU1UbW9XTi1ZQVQ5NWVucUlyQnVoTjRXVk44MWhHZnVQODlfZURTS2huM2wwYXpYQWZ5eVdXTFlpbWVrWUhrekwxa2FlVExQMHF5X3RadVdqcjJNRUJ3c2lEcUxtSWFTUnRnTS1UWW5IZU9oNlpQU1BBX0RfNEhKaTE2bEpFc1ZPb2Vz?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 10:06:29 GMT",
+          "title": "WestJet flight attendants to end strike after reaching tentative wage deal - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMjd6NTB1UFpVNHR2aDgtMWpCR1RINVpBbjJpR0h1WWRoSm85dzlaTTFLRXV2am5YT182WmY0WE40Z2dGaEdsdGZ4YXEyeGZTanY2em9OMkNpN1B4dmZOZC1pY05OLThKM3FsZlNpMy1hejV0SUx3eEZpVnQ0eW1NVnAtRjhMWWNSVjFudk5tOFluanZmQks2UTRpTmd2STM1NXJwMmdJOGx3MURuckE0ZTFGLURvaFphRUN3Zg?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 13:47:49 GMT",
           "source": "Reuters"
         },
         {
-          "title": "AstraZeneca investors baulk at $400 billion Bristol Myers talks - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMzhDZ2Y1UkxQTnZCTjg1NHdXUGZBb2Q3d3ppcnZEbWFEY1JJRWZLU0RHd1N3eDRDOVRIUXMycjdyWDNzR2pDY1ZPYXg0cFlUUWNZRWJadkt1Sld3VzZCVjN6YW1zaE1aTUt0U2x6S3p2bTRQd3dMMXc0cDhUcjJERlhyRF80YTF5My1qRmVGSU5kM3Z6bTdUcTJlS2R4TjkwM3RvdXk4eXdkYVhILWdqTS1GZlZtZ0dTZHZUMVZ5Mkk4QnI1U0lyQm1acVBfaHc?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 10:05:08 GMT",
+          "title": "EU can give Morocco more border support, von der Leyen tells Spain after Ceuta spat - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNC1XNmpUMjU2RUMyZE04eEY4VFp0eU5YUUZ0bDdLTExPR3BPT3ExOFpmSmVaOHdzQjVmNllkalBHMVlVVHB4LWZGWFM5S3hkeElyMXhWN05aczJKMjI1SUdQakt1dmFjYXVTZTkteVRmTXVQVDFjeTNNQWY0T0lQVFB3TC1EMEFHcGx2NDVHSjJva0t3ZzhsTC1pWThVUFBNejNLYUNGX0pfR0lsZFBFQllldWdfeDNDTi1zWHpZTTJsRDFKRHhwcQ?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 13:37:57 GMT",
           "source": "Reuters"
         },
         {
-          "title": "How Iran is widening its pressure campaign to force US concessions - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQU2VYbG9DT1JoZWlaZkxlVTc4T01mcjJ0cU9rc2FCWWxuY1dONTVmN0ZTU1RUZzlLUTNGbzgzYURCTFFqZzRWVXZSWXZKZC1Ldm05dFVOdmNZdnlxRVBBUzE2VDVjSU1wMlFXMkFBeDlKeVBuRWQxa2tYV1hPb0hvOHdRd0JvUGREek5HZXhuVXpMR0RBZzdKSE1fNmIyQWVzRVdfUEEzdkt5Zm1XNUVOVnpnbEg3bnNu?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 10:02:50 GMT",
+          "title": "Romania blasts rocks to reroute Danube water to reactor, Hungary gets reprieve - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNc0NCWUZNek9CZlFRVXdwMjJmd2R4cVhscGFpeS1ubmFhSWF0ZnkwU1VXc3Z6N1hCcDVWclZjSzVBUXNEWlJwNWpuUFhVSXh2YzJCc3RIeHlET2FKMjBadXp3NldkQXoyR0ZzWXUxTlE2QUJvMTBTQjNpVW15SzJWMEZNR09iQXhEZnFoa3VidVd6ckJfTDViSlZPbUg3bWZQUHplR0d6cGRpZWlmdlpCWVRmek5tbjZvUUpXM3Faak9MVDlOcUFJYQ?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 13:27:45 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Iran executes two people accused of spying for Israel - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObVpPMnE4MnRQckNZZXg0SU9TYTI4WG5qdmc2aUhydFU0LXlJS04taFVoOU5idUFqb3ZtSFZsVUlpYUhackVhN2lGQUlYQ3hqekNxYkkxd1E1aDU2TGVZTEJQc3V5U1EwVzJLRDdiQmdITzZFYlI4TWZzOTBtT2c5bTREN2tvVVZWUk1hb1EwSlVmRHpSaVJvTDdINzFCaTFHRFI0?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 09:53:04 GMT",
+          "title": "Denmark begins extended military conscription in response to Russia, Trump - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOFFyX2FGQlBGYWZVYkc5dlBIbGZFaEFQa0dHVkpCLU9wQS1kbWVsclUtNUdnUDBDNXNGUVpfTU96UlY3SUpsN1FRb1M2bzZFY1Z0OXAxS1ZHSmxISVJId1ZVNGZ0dE5vQVRNUkVoak90c1VkYWFVLWJVdXhnVWVSUWxXcHdEX0NCaGV5Ty04RER2NktkQllod1dPSDljSFphaTNlYUQ5Slh0TUJ6c0E?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 13:19:30 GMT",
           "source": "Reuters"
         },
         {
-          "title": "India proposes extending tax breaks for contract manufacturing in a boost for Apple - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWUNBY19KVllkb2drU0RkRnBTVmZLVV9kbzNxajl6a01VNTJuYnRwNTFCLUlTM2ZYOFZUeGVFTWJSV01lbXVWeWpZYzlTa0VUTnB4cTB0WV9pREI5dkp5b19HVEtONy0xRG56QlkxM0I0MjF4VFZjQzVBWjRiMkVSbDVtOTY5NW1QTDVpOTZxMHdPRW5oZEREZUt1ajZ5NTVacG1ENVhPTWlfQ2V4YjVJOVRCTTFoNnRzazNfTGNLeWlEbXgwVDdjRkdCMA?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 09:22:22 GMT",
+          "title": "Visa beefs up cybersecurity offerings with $2.4 billion BioCatch deal - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLVFQdnYtT25JcU9yZC1KUVlDaTN6djh5UjRtdDV0bFM2N2lXZWFfZXBoSFN5LXpuSFJDZkcxMWZUdzhyYzFfUFhtSS15OGxmR2N6X25zOEtkNjVMdWw3d3loUG1YNXVyMW9waHBELVNMMWdZMHNnNFJmZmFMaE9ZWDdKeWtrZGNPamRScm5SV2Q0UFBsaDFuUk1JX2hnSndseUVhV2VESW1zZDlVNnhjSVBn?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 13:11:18 GMT",
           "source": "Reuters"
         },
         {
-          "title": "China evacuates residents as heavy rains hit northwest, southwest - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYWY4ck5lM1lreHlteFFvdGg5WFFtN3BVTHk0MnVETjdaemFhYkFsQjQ3M3NRR2pWWV9lNWpDUzFDTEdRR2swOHZwM21FYjFDTS04amVRUU93TzBmRjVDdUtZcWJHTXdjckNDMl9WbVNGZTlVbUlVVGRSU2ZQd0hUTDB5WW5FamtXT0tVTnlzVmZSOUNPNUt4N0E1cThlcGI1OFp2VXMtM3ZPYktKNWthU1hvb2t6MlNxM2c?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 08:56:58 GMT",
+          "title": "US signs deal to boost output of parts for Patriot, THAAD interceptor systems - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZVpSLU9DNzZlb3plSWpueFdNUFN3ZmxuZkQxN1RhRTlaZlBteHFVVEVXN0p4NnBOY2paYTNwNGlxaGdfWGRCRjVXazlOLVUtUVZnNlB4eFB1RFBKQjBtXzQtbEN6djVNZGs5dWJBTXYtVmxSVEtfU1I1WFdJWmU4dEQ2eU8xX1Z5MVNCV1pjdkJ6dVRaVnNwbm9HbmVSaFFqd3k1aGdmbW44NEUyRENTZmtMZk9iVGxpRklr?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 13:08:49 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-03T11:37:44.361Z"
+      "updatedAt": "2026-08-03T14:52:28.011Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-03T11:37:44.612Z"
+      "updatedAt": "2026-08-03T14:52:28.232Z"
     }
   ]
 }
