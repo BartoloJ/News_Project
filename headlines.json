@@ -1,9 +1,33 @@
 {
-  "generatedAt": "2026-08-05T18:25:58.876Z",
+  "generatedAt": "2026-08-05T20:11:00.402Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Israel strikes south Lebanon after first evacuation warning in weeks",
+          "link": "https://www.bbc.co.uk/news/articles/c998711dyjvo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 05 Aug 2026 20:03:36 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Drone carrying explosives found at German airport, police say",
+          "link": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 05 Aug 2026 20:01:51 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Watch: 'Scariest night' as Ukraine fails to intercept Russian attack",
+          "link": "https://www.bbc.co.uk/news/videos/clyxdgx7m8no?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 05 Aug 2026 19:00:32 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Youth protests have weakened Modi, Indian activist who went on hunger strike tells BBC",
+          "link": "https://www.bbc.co.uk/news/articles/cn7nkyr1j7ro?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 05 Aug 2026 18:38:46 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives",
           "link": "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo?at_medium=RSS&at_campaign=rss",
@@ -17,12 +41,6 @@
           "source": "BBC News"
         },
         {
-          "title": "Drone carrying explosives found at German airport, police say",
-          "link": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 05 Aug 2026 16:06:30 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "El-Sayed's victory sends tremors through Democratic Party",
           "link": "https://www.bbc.co.uk/news/articles/cp309ng0xq1o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 05 Aug 2026 16:04:16 GMT",
@@ -33,32 +51,20 @@
           "link": "https://www.bbc.co.uk/news/articles/c1e14lj7vg7o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 05 Aug 2026 14:58:41 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "UN rights chief alarmed by rise in Iran executions since March",
-          "link": "https://www.bbc.co.uk/news/articles/c75gvzxrz49o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 05 Aug 2026 14:04:09 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Armed man arrested near Trump's golf course ahead of president's visit",
-          "link": "https://www.bbc.co.uk/news/articles/c20jp3mp7lyo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 05 Aug 2026 13:58:01 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Nigeria's president orders a 80% salary increase for junior soldiers",
-          "link": "https://www.bbc.co.uk/news/articles/cj031jp3g6jo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 05 Aug 2026 12:52:19 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-05T18:25:58.101Z"
+      "updatedAt": "2026-08-05T20:10:59.041Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Dr. Erica Schwartz confirmed as CDC director, filling a leadership vacuum",
+          "link": "https://www.npr.org/2026/08/05/nx-s1-5920379/cdc-director-confirmed-erica-schwartz",
+          "pubDate": "Wed, 05 Aug 2026 16:00:24 -0400",
+          "source": "NPR"
+        },
         {
           "title": "How Trump made an estimated $2.2 billion during the first year of his second term",
           "link": "https://www.npr.org/2026/08/05/nx-s1-5919997/how-trump-made-an-estimated-2-2-billion-during-the-first-year-of-his-second-term",
@@ -96,20 +102,14 @@
           "source": "NPR"
         },
         {
-          "title": "Russian missile and drone barrage in Ukrainian capital region kills 17",
+          "title": "A Russian barrage in Ukraine's capital kills 17 as air defenses fall short",
           "link": "https://www.npr.org/2026/08/05/nx-s1-5921194/russian-missile-drone-barrage",
           "pubDate": "Wed, 05 Aug 2026 06:15:44 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Progressives see biggest win yet in Michigan, while Trump flexes power over GOP",
-          "link": "https://www.npr.org/2026/08/05/g-s1-137422/primary-elections",
-          "pubDate": "Wed, 05 Aug 2026 06:08:28 -0400",
           "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-05T18:25:58.348Z"
+      "updatedAt": "2026-08-05T20:10:59.349Z"
     },
     {
       "name": "AP News",
@@ -117,19 +117,43 @@
         {
           "title": "Michigan Primary Results 2026: Senate, House and Governor - AP News",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB5eTdZMjVBNkZFTmFOWWRXeWIyX093LU15X1c1SEt6MG5CU1ZobWM0d1ozTk0tMUgzT3ZEY3IyX3dRd0c0UEJSYm9pVWNEY2FIWk9ZZng5QzJYQmpnQWE1Y1czUHR6ckxITEJkMjJmZllYR1AtLW1F?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 18:22:12 GMT",
+          "pubDate": "Wed, 05 Aug 2026 20:10:16 GMT",
           "source": "AP News"
         },
         {
-          "title": "Michigan U.S. Senate Primary Election Live Results 2026 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZlo2TEIzbk95cldwdmxxbEg5N19zM2dvVWFuY2lnaGI2ZU9nR0xOZ1hDUlFlcHUxbVFpUWpzcWJmN19YLVBtbUJIOFJla3hCbmpjRTRBMzVvOFhWbGhJaFpUUnJUdTVhbjRoZzc4ZngwbGFTOWhPbVhiMXc0eC1jYnU0Wms?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 18:22:11 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Trump says deal to reopen the Strait of Hormuz could come this week - AP News",
+          "title": "Iran and the US say a Strait of Hormuz deal is close, but one or both would have to back down - AP News",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcXpENFpMQ0V4N2VNNW9aXzJoWmV5V0R5U2t1QmY1OUFuSmQwcUIxb0x2aUZIdk9WWFFVc2RZM0NHSnh4eFhiekFUdWNjWDVkMlFkdzVCSXJaQnVyNmUtazRkVk1fUHVtc2w0N19OQnNTQV9XV0FqQUF4anhhNmhybkp3TF85NTY2MXR5MW9scDNrYWswN244QTBDRXFIM0E?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 17:44:00 GMT",
+          "pubDate": "Wed, 05 Aug 2026 19:44:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Missouri Primary Results 2026: House - AP News",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBwSE1heVN0eHdFTlQ2WTEwS1pidVZVMU1hMmJHalpMQzd2X1NJMFl2UkdwOS1NNzRRREpnVHBSWmp5WWQwWXZRM05sVEZ5Rkd1c05hRUZ2d0dRQzBzNDFPMGwwaTQzZVJ3eDc2bnFEOTNNWmlnSEpr?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 19:39:16 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Abdul El-Sayed wins Michigan Senate primary in major victory for Democrats’ progressive wing - AP News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOb21OakF0VFB5eUd5WV84MmZLTDJUaTA5SjhMbjVKX3pOMGczZWE0X2tjZkplbV94TkJjejZNbmpVNkREc242Zk9MTDI0SVhid1ViUjVucFpIazNGdld1a2pHY1JvaEZfZjE3YmlVajlLU0pJV2FfMVdYbVl4cmttRGVRQk1JYXY5VVVjS2o1TzhRY3A0SkJZd0FjVC1tRmFX?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 19:13:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "FAA is investigating why a plane was allowed to take off as President Trump's helicopter approached - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONE5raWVJWkRoTjlxeFdDMU5BYnAzUUNJQndWendKTkpSNDYtT181VzFYZVZlV3g4Zl9hZGtMYzhjbHRPc0lWdUIxY0RjSWdrZEQ5SDB0a3JqWW5EaEpKR2dUYWd1c3hTV3JOWk4wVWJ4WFd0MXFOcXNfaklrZlVvdkoxTlVZN085dGpPLVVfRlB6WjlOX3R6bzA4VVlpcXFxd3RqVg?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 18:32:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Russian barrage in Ukraine’s capital region kills 17 as air defenses fall short - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOR0p3ci13M2E4ZHdienF4dUc4Ni1rZDlJZUhrTVJMNlA1NmNaOTNqMUpXaG16cGlCekJCdlBReFgtQmR4ZlJMdThKSTZIcGZwR0pXS0QzcmV5eGE5MG0tRmFWNEt2cnpzaW82YU81akZRR3pXZHF6amg2c1RzUEZKWGNDRWNKdS1lOGRYNW9wdkpZVTltVW1IZkhtSkpqU21sY2pKMVNkMU9XY0ZVbVE?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 18:15:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "State of New Mexico sues Justice Department and Todd Blanche, saying they blocked its Epstein probe - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSXg4LWN6Qk1RMUpFSG9jOUhnOFFLVFFKOW51SmdCcXRLVFBFVGd0VTJQelcybEVhSzRfcGxROWpVTHZCZUNnUnhjN3FrNVl6Q1VjOURSZVhkYUVvQjRDeVQtSFA0LTR3RExQQVo0SXpFNW92cFJrZHlZTFlWc0dlTkc4LWVqVWRVM1dxcw?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 17:14:00 GMT",
           "source": "AP News"
         },
         {
@@ -137,89 +161,65 @@
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcm4wTWJvdk8tSU5TcE51eDdzQXBVNUUtbzhoR1M5eGJZUDlQSUZjd19RMWlUZWJBZGxEM2pyR0hJeDh5VmNpaEctQWotUU1WM0pzVW5sZ1lIdDNXdU5wdk5DT1ppLWtOZlVYcE51M0tnbkJISEJNc09OM1ExTHZSSm1XTnR0V1NtV3Rray1BSFRtbGxRVTZuLTRR?oc=5",
           "pubDate": "Wed, 05 Aug 2026 17:10:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Abdul El-Sayed wins Michigan Senate primary in major victory for Democrats’ progressive wing - AP News",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOb21OakF0VFB5eUd5WV84MmZLTDJUaTA5SjhMbjVKX3pOMGczZWE0X2tjZkplbV94TkJjejZNbmpVNkREc242Zk9MTDI0SVhid1ViUjVucFpIazNGdld1a2pHY1JvaEZfZjE3YmlVajlLU0pJV2FfMVdYbVl4cmttRGVRQk1JYXY5VVVjS2o1TzhRY3A0SkJZd0FjVC1tRmFX?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 17:03:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "North Carolina congressman Edwards quits reelection bid after committee finds inappropriate conduct - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOS3pWY0RILUFpWnZIX2pGb3FJNWxiUDdHNjNXM1Vwdm8taUFEV1FOOWQ0LWxjcUNiN0s3eUhmdU5ncEg5NjA5aWs4VC1Na2I5RF9vOElGUUZzWEtNSlM5bEozR2tXVXdycUFGbnozNlFWVEdFVlZkMnhqOWRNaU1tcGJXa19SQWxCTjB1clN0S2JYTmowR1FLUDJyYmp6Z0ZuVVoydnJTNTkyeS1xZ3lxbU1aMkk1MzV6?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 16:45:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Missouri Primary Results 2026: House - AP News",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBwSE1heVN0eHdFTlQ2WTEwS1pidVZVMU1hMmJHalpMQzd2X1NJMFl2UkdwOS1NNzRRREpnVHBSWmp5WWQwWXZRM05sVEZ5Rkd1c05hRUZ2d0dRQzBzNDFPMGwwaTQzZVJ3eDc2bnFEOTNNWmlnSEpr?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 16:38:18 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Russian drone factory director badly injured in car explosion - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaXJoY204ZmVSTl9SS3ZLS2luVnFtTmh1REZPZElkbmVxR0tvcjIycnFVYlA4UDE2UE55ZnpPbjhvQnZzTjBMd1JzRnhmRy1KdHBfU2VUaWc4MW5iLTBOTjd2UndhNDVzWnJObHppQUVkMmJ0eDVyTmMyRVh2dXplSUdCeUZXbGVWVDRFbmhIQ1RJMG1jWWsybUNKUE5obk5PMHRNQWR4STJtS0JUXzdMLWYzcFNRNlhl?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 16:24:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-05T18:25:58.802Z"
+      "updatedAt": "2026-08-05T20:10:59.867Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "EXCLUSIVE: India may charge gas users to fund planned $42 billion fuel reserves, sources say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPV0pqbWloUzBFS3l6TFRQWDlXdFFLX00xUTdNMkRGRTZ3NlRhQTBfN0dpd1RyR1ZxclBBNXE1b3duNHZQSlFwOHQ4MmthRU9jeFBmZTZRdUpyemt6X2pOVjZxQ3F0ZmNpYy1VSzZQMXRqSWlBOEhxZ2xOOFlmYzRyNmpNTHhManEzZHl0c19CemNJUW1Id2pBbWhiMjFIRkdVOGVhVWNkT3NGOXVpZHd3TGtNNVFHS3BvcWpzbVVFOG9FUDF6bHlB?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 18:14:48 GMT",
+          "title": "Dow closes at record on Mideast optimism; SpaceX, AMD drag Nasdaq - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdklHVUNCN0JQTDlLR0piZnVyYXRkNkU1akFlU3dWWFRoQTUyVUFxTXVtbnU2V3pTY2QwZ3pXRUw3eTFZeG1IbDAzM0Q5eEJPd0VSRldTckFHb1dBYXUtQ2tocm44b2p1SE5EbGhCNUJyMG9SX0RhZTlRZjFFbURfWmhPbnN2YmNSTlF3NFFZbG5yNmFzWTNiZFBOTlFfOWp1cmZIMkxicE50d2tJWkVXOVZQRmFxc21qN01jaDR6RQ?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 20:02:10 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Stocks mixed with Nasdaq down; gold prices jump - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSjNOaFJhdXRJblJMNldJM09LeFJDOXNqY2Y0R3dhcGt3S1ZyNm1peFdvVlBfN2RrNmtCYVhQa3pzenI5VlBld2c2Y0JPLTAzNWRhTWxUYWxjNEpvWGxIYlR3M2NLdGg5RnpRSmtYVVVwamJfYTZ5S1JaQ3J5QjFEQ3B0WQ?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 17:34:01 GMT",
+          "title": "Austria hits record temperature, Hungary curbs power use as Europe feels the heat - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORk8tLU80VmpYc2JMRnhDaDdyTmNUWi0weDNiQ2doY2h3UG5WOVRrc3JucExNb2J4YUppekFmTnFnSi15ak00WTgyTXIzWEVRNVhtcnBGaGVaWWZoTkMteWNsZ0lDY2ZPcFNMMzdVY0w5NXZLYmVrRHVuMGExOTM5ZW83VXVCRmw5RVFVUk4xWWlnaGpDdVlqSEdKazFqUjZYSVh0eTZSZDVBc3h2MFlkeTFaYTAxeGNhR0djYnB2Wm1DdzRPUlE?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 19:57:21 GMT",
           "source": "Reuters"
         },
         {
-          "title": "EU to use €1.4 billion from interest on frozen Russian assets to help Ukraine - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVVh5T1hYRGM0UTBiVEM5TDJYNE90amJFN1Zad2JCTEJ1Q0duVzlJTnMtYTBLZzl0UXNKMkwwdUVYdU90TE5OM3RUYnM0eHVmZDI0bExyQVJpMklyMDRMampTdTJOZlcyYVlCWjNZUzZyWVVXNFYwUFJSQ1I4UVJEUk1TSlVPSmNmazYyNnV4eWg2TVNkM2NzOFUzZ0FDT2xxM1UtNWNVU0VGaWhrY0UtaEg3NEs?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 17:32:54 GMT",
+          "title": "Israeli military strikes southern Lebanon after evacuation warning to village - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSUNJWWdZUW9teWxlNDE2eWVZWTFmd0JQdmwwYUNvSEpES1BhMjBJNF9LczlwUTZkaTZjMm5MNFhEUFN1RnpZclZHamljVnlGcW5GdkFMclYyUjQ4dEpHRWwtNjJLdjNoNWx5YlU3Q1FIUmhoV1hxMktXNnZXanZLLW9YS1JjRGp6ZkNMbTNGOVlETVRSUGREMnZ5dDVhUjYyWlB1RzBwenhtUDg3dDdIYVpoTXBlN2dFWTkyVnJn?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 19:17:01 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Kraft Heinz raises forecasts, but turnaround efforts struggle to excite investors - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORzNrdERFR2c4eVMtR09LaDhYcUZNM3FucWtfdDRjUHNYMjQ2SzdVNXl1NXg0ZG14cHJMYzFuaXoxb05zdXlEUDdnblpBVnMzektzM0VtaW9WaW44aF93WEhyUngwb29uNzBjYUlZTzl4RFE3STMtTnUtd29ZWkM3OGU3QWlvWm1ERV95cXRCbE5zNXBOZXFJUXZuMzE?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 17:29:46 GMT",
+          "title": "EXCLUSIVE: Iran threatens to hit Gulf states if US launches new strikes - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPajFnaXk0anVrT2IwaV9XMDBma0pMQU53ZF9LRUJiT01nWjJsdG5FZXhwUjNtZFp2Yy1NV3Q4dFRIeUxzV1pCWk9RMVVZNk1UbWxxMFdiNEdNTG5KSVBVWTRCaWFJSFNlT3RiMFF6RWtqN2pnRThTUU9GaHNfelhwV3RZTXdfMzJwUk1aVlFXZ0FBNk1qWFFmd2xIRWNVWVpmQl9DSkE2NnhMaXlJZ2FFeQ?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 19:11:49 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Spain's Ceuta seeks transfer of unaccompanied migrant minors to mainland Spain after border rush - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNamh6Wi15cnNtQ2dJZ3BZV1A1YTRsaG5MbHNWcW9nZi1qVm5lVGpYdlVqTE1JLWZ3VGZtNzBSTTJERXh3a0QzSmFHdnVua3htUDNhbF9WdVVwMUgwRUhxWUFvZUVDbHktb0lnaTBVeTIyVVhiZ21zREtaZkQ3eFFMUTdxSzJsQ05GRkhrMzNLMUlWNzJQdlJLeGJVcVI3MFNjWS1MMk9tYTlIbEpQOUMtYkg0N3NoT051cldQcHh4cmlMRUtN?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 17:28:19 GMT",
+          "title": "Major Wall Street firms targeted in attempted cyberattacks, sources say - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORTh0MGxWX1RCZWdvU0lqaUZVczZzdDJaYlNDVlM5aURvZlVLWUpXaTJPZjRvOXpjQ2c2eUwwbDkzaTZBc3dRaHhyYkViSGdMV25VdWpvWVB6OXphVlZmOXl1OFRXV0pQZ2VxRkZtX1psOTN4UnRQeV9nNllHUzdadnB2Z3M4bTR1NG9HQW1pTVlYNzJBcXJZU0JYcmhEZVNIcWF2RmF6b1pucFFxWFpKWmtMbm10QXd4Vy1CT2V4dWI5NmUycW1fUw?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 19:03:35 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Progressive El-Sayed wins Michigan primary in jolt to Democrats - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa0p3Y0RnWFBLOTZuVEltR3Y5emZqWWRFU040dmhxSXBzUXpHcWNFMFBIanNoZV9GUTA2RU02QVN5aEdwT2JvR3loQmUtU2hYaU9hV1RPWE5PREJqUEJOQjU2NE5jaG9odk5RMnl5OEZLZlpBdlotZXdXRmF1UTc5eDZncURyNUg3ajJiemRZelMwLXI2WkJBZXFwR1JyRE5kNF9Ba19iWV9seERkeEpDZ3ozWnRGVEtLQ2VJ?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 17:16:32 GMT",
+          "title": "Brazilian presidential candidate Bolsonaro names surprise running mate - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaEhCVXZlazNQMnQyWkc2TVNpSzNlaVhVZDZhY2w2Y1ZWM2JpMFdHLVhybWpGTGVxMlQyMm1hTTN1YXlxWEYzTHhNaWZJdFJGbVk1eXRNVmRYWXhBd1YwMVJzbW1hR2hoLWVZWG5oVHhwcUlfVEpIRW1DeXYwREgyV3NQcUdOUDhlVW5UZDNRaTFvV00zdEJpY2dfOU95VnBiZEFNeEZMTDNDVGtNX3hKQ2t1UTlkcEw1NVVrU0htWXFaSVgtQ3c?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 18:48:38 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Google shakes up AI leadership as DeepMind chief shifts role - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaHV5Q1dFcHFPLTJhTmkyTG05amxnbm1QQkRGYnpCZ0tON1FJVnJ2d0pBQVZENUlJYm01cXBoWFhvVENnbklRLVZoNndsMVpiWGNhNnJ6cEt6VFdKUGdRQ0xPem5kaHo3Y24tTlFqWGFtZGZjS25UbFl5UUMxTWtsWkVRLWQzOTZWbTViWXJXbFdIYUU0STdDcTliOEJCUEFrR0x0cQ?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 16:55:03 GMT",
+          "title": "Infantino holds crisis meeting in Morocco as FIFA stake sale fallout continues - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSmJPenJsYUFVUXJVNXRDN205US1NQnlqbFJ6aW1Pb3RNNlE0MHY0V2prVnZTVVlIQ2ExM3Q1WHp5bEpqa01UVHlHRDdZRXJlSTlTa3Z5R2hFdENLaUtRYnpMZEVhYWFfZE53X3V0eE9YMmM3QlBWamlvb0piMFU5U29Yb0ZVZ01acXhlZGE1Rzl4by15ZWdCUnUzTE0yc3lkWmdTZk9tUnJQUnRzUGdzVFJlT3lKQjlnZVd3Sm5vVQ?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 18:41:41 GMT",
           "source": "Reuters"
         },
         {
-          "title": "US lifts sanctions on Fly Baghdad, previously linked to Iran's IRGC - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdGd5eGNIbFJTUDl0MlJHQ01RR3F5NVhNaVJuTVpvZ0FJMHlrNnFhQ1hsOUFyNWI0c1cyX0RwbTRwTHNrTE1yQ0NzUmlmMXBPYkM1Q1Vya3hOOFRQXzVHOEhHemQtd1dQcXlrcFVZRUh3T0RoWkRiam9jUWxhNld2MjRPMjNwd3hhaWVlZ2IwN2UzaS05NG04dHVCM0FidUxtQjBNcy1GWThaRE9RT1VmOGFzT2g1MEhiUVludGVGaWhCUQ?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 16:44:59 GMT",
+          "title": "US unveils charges against five leaders of Mexico's CJNG cartel - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeUJ1NzFZNjZQZFFHWWcyajkxeEJtbjJGOWtmWm9uX1B5Z2ZFRHZ0b2Z0bnhqSjBsUm1fZTBPTTZoZjhCU3JYV3N5N2xqeUNJbWc2TE9jc0lkRjl0T0FUMFRtamhZQThUdFY1RDdJTklqYTl2ZXhRVnpTZnVzY3RZRUcwdDdKSTRBWlFubVgwUkE2eVdlY1NxRjhzWGJiQjNsZHZQa3dhMjZUYjRkQldDUml3?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 18:39:17 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-05T18:25:58.810Z"
+      "updatedAt": "2026-08-05T20:11:00.302Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-05T18:25:58.876Z"
+      "updatedAt": "2026-08-05T20:11:00.402Z"
     }
   ]
 }
