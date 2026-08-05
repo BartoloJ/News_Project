@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-05T21:49:01.758Z",
+  "generatedAt": "2026-08-05T23:06:01.512Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "Infantino remains Fifa president after executive meeting",
+          "title": "Infantino sorry for errors but stays Fifa president",
           "link": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 05 Aug 2026 21:37:08 GMT",
           "source": "BBC News"
@@ -54,7 +54,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-05T21:49:00.527Z"
+      "updatedAt": "2026-08-05T23:06:00.433Z"
     },
     {
       "name": "NPR",
@@ -109,7 +109,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-05T21:49:00.632Z"
+      "updatedAt": "2026-08-05T23:06:00.474Z"
     },
     {
       "name": "AP News",
@@ -117,7 +117,19 @@
         {
           "title": "Michigan U.S. Senate Primary Election Live Results 2026 - AP News",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZlo2TEIzbk95cldwdmxxbEg5N19zM2dvVWFuY2lnaGI2ZU9nR0xOZ1hDUlFlcHUxbVFpUWpzcWJmN19YLVBtbUJIOFJla3hCbmpjRTRBMzVvOFhWbGhJaFpUUnJUdTVhbjRoZzc4ZngwbGFTOWhPbVhiMXc0eC1jYnU0Wms?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 21:44:13 GMT",
+          "pubDate": "Wed, 05 Aug 2026 23:03:24 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "How Abdul El-Sayed went from political oblivion to progressive breakthrough in Michigan Senate race - AP News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOb21OakF0VFB5eUd5WV84MmZLTDJUaTA5SjhMbjVKX3pOMGczZWE0X2tjZkplbV94TkJjejZNbmpVNkREc242Zk9MTDI0SVhid1ViUjVucFpIazNGdld1a2pHY1JvaEZfZjE3YmlVajlLU0pJV2FfMVdYbVl4cmttRGVRQk1JYXY5VVVjS2o1TzhRY3A0SkJZd0FjVC1tRmFX?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 22:57:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Scientists are certain a wayward SpaceX rocket slammed into the moon as predicted - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcm4wTWJvdk8tSU5TcE51eDdzQXBVNUUtbzhoR1M5eGJZUDlQSUZjd19RMWlUZWJBZGxEM2pyR0hJeDh5VmNpaEctQWotUU1WM0pzVW5sZ1lIdDNXdU5wdk5DT1ppLWtOZlVYcE51M0tnbkJISEJNc09OM1ExTHZSSm1XTnR0V1NtV3Rray1BSFRtbGxRVTZuLTRR?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 22:04:00 GMT",
           "source": "AP News"
         },
         {
@@ -127,9 +139,15 @@
           "source": "AP News"
         },
         {
-          "title": "How Abdul El-Sayed went from political oblivion to progressive breakthrough in Michigan Senate race - AP News",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOb21OakF0VFB5eUd5WV84MmZLTDJUaTA5SjhMbjVKX3pOMGczZWE0X2tjZkplbV94TkJjejZNbmpVNkREc242Zk9MTDI0SVhid1ViUjVucFpIazNGdld1a2pHY1JvaEZfZjE3YmlVajlLU0pJV2FfMVdYbVl4cmttRGVRQk1JYXY5VVVjS2o1TzhRY3A0SkJZd0FjVC1tRmFX?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 20:54:00 GMT",
+          "title": "Senate confirms Dr. Erica Schwartz as CDC director, bringing new leadership to troubled agency - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaWtPUjRvRVE2QmxhRWZscFZRSVV4YnMwZE9rMnJPUHdFeGx1RmNNbVE3eGt4b1Q4TXk5MDlfbnF1eDRZdWF6cXN1bDZKSkZhU3A2ZjdhRHJ2dGZHRGQwSzcwY3hvTWY5MWpwYnRoRllUUVJROUxaTmJ6ckxZUldqUWJqWW42eVJsMnVjMTJPUnpDNm9LZlIySw?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 20:39:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Investigators look at why a plane was allowed to take off as President Trump's helicopter approached - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONE5raWVJWkRoTjlxeFdDMU5BYnAzUUNJQndWendKTkpSNDYtT181VzFYZVZlV3g4Zl9hZGtMYzhjbHRPc0lWdUIxY0RjSWdrZEQ5SDB0a3JqWW5EaEpKR2dUYWd1c3hTV3JOWk4wVWJ4WFd0MXFOcXNfaklrZlVvdkoxTlVZN085dGpPLVVfRlB6WjlOX3R6bzA4VVlpcXFxd3RqVg?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 20:36:00 GMT",
           "source": "AP News"
         },
         {
@@ -139,87 +157,69 @@
           "source": "AP News"
         },
         {
-          "title": "Takeaways from Tuesday's elections: El-Sayed pulls off narrow victory over Democratic establishment - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSVhzbjFSb011WlRldWhpNWU5UkJvTEM2UUpwRG11UTQ5VUZzd3VVRWFxd1dUUFBiUTc1X09zWUI3NEhLZlcxbVp5Y3ZfWHNJQUtPS0VHSWRVUFdHRTVUUDdaNkgtaFpGZGNhaTdrNVNQMlRlRVphTVc1Q283bHVzQU5iRGlLQ0dVTFJ1MWdEQlQ3RDdzWExfbnFCanlNblpHU2I1cy10R1ZNeTkyWkM5bVpOSDRLQmJZNWc?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 19:53:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Iran and the US say a Strait of Hormuz deal is close, but one or both would have to back down - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcXpENFpMQ0V4N2VNNW9aXzJoWmV5V0R5U2t1QmY1OUFuSmQwcUIxb0x2aUZIdk9WWFFVc2RZM0NHSnh4eFhiekFUdWNjWDVkMlFkdzVCSXJaQnVyNmUtazRkVk1fUHVtc2w0N19OQnNTQV9XV0FqQUF4anhhNmhybkp3TF85NTY2MXR5MW9scDNrYWswN244QTBDRXFIM0E?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 19:44:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Missouri Primary Results 2026: House - AP News",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBwSE1heVN0eHdFTlQ2WTEwS1pidVZVMU1hMmJHalpMQzd2X1NJMFl2UkdwOS1NNzRRREpnVHBSWmp5WWQwWXZRM05sVEZ5Rkd1c05hRUZ2d0dRQzBzNDFPMGwwaTQzZVJ3eDc2bnFEOTNNWmlnSEpr?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 19:39:16 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Senate confirms Dr. Erica Schwartz as CDC director, bringing new leadership to troubled agency - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaWtPUjRvRVE2QmxhRWZscFZRSVV4YnMwZE9rMnJPUHdFeGx1RmNNbVE3eGt4b1Q4TXk5MDlfbnF1eDRZdWF6cXN1bDZKSkZhU3A2ZjdhRHJ2dGZHRGQwSzcwY3hvTWY5MWpwYnRoRllUUVJROUxaTmJ6ckxZUldqUWJqWW42eVJsMnVjMTJPUnpDNm9LZlIySw?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 19:05:00 GMT",
+          "title": "Stefon Diggs is signing with the Washington Commanders, AP source says - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUy11U0RDQnJEalU2WF9KcUJWLWpfcGhJQ203Uk56b3hkdm5jTEZLV2N2Sm9wRDJjbW16ZEhLT3lsa1J4M3A3RWJuVGpCZmxDOEYxQ2dUM2szTDZST0F4OHJWeWw4b2t0cFFpSHlnS0RjNW1VNG1Vd2FrcDlGYUJJQWVsb3NBRFl5SXdZ?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 20:21:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-05T21:49:01.125Z"
+      "updatedAt": "2026-08-05T23:06:00.991Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Trump administration to impose 15% tariff in polysilicon probe meant to counter China - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxON0ctWlNTcE9CNEpzbmE4cXRCdFVEU2k2dVpMNjc0M0xLQU1hSWR2MmgwZjdXenNzVnlSM0dGUWVmVlJzUGJ1b3kxV0NReVNqRFItdHlqbzcwR085cmJ5NFRBRlNWTXBRLXRRcmh1Uzl0Wmo2N2d3Wjd1MmpKNkN6Umo4bHlZdFhsbUZYWTVFeGhBUjVCZ3pyNy1EYkVFaWMzVC1ZSzRlQnVYS21LZWc?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 21:04:45 GMT",
+          "title": "Spain's Ceuta seeks transfer of unaccompanied migrant minors to mainland Spain after border rush - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNamh6Wi15cnNtQ2dJZ3BZV1A1YTRsaG5MbHNWcW9nZi1qVm5lVGpYdlVqTE1JLWZ3VGZtNzBSTTJERXh3a0QzSmFHdnVua3htUDNhbF9WdVVwMUgwRUhxWUFvZUVDbHktb0lnaTBVeTIyVVhiZ21zREtaZkQ3eFFMUTdxSzJsQ05GRkhrMzNLMUlWNzJQdlJLeGJVcVI3MFNjWS1MMk9tYTlIbEpQOUMtYkg0N3NoT051cldQcHh4cmlMRUtN?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 22:41:31 GMT",
           "source": "Reuters"
         },
         {
-          "title": "After bitter primary, El-Sayed seeks to unite Democrats in must-win Michigan race - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa0p3Y0RnWFBLOTZuVEltR3Y5emZqWWRFU040dmhxSXBzUXpHcWNFMFBIanNoZV9GUTA2RU02QVN5aEdwT2JvR3loQmUtU2hYaU9hV1RPWE5PREJqUEJOQjU2NE5jaG9odk5RMnl5OEZLZlpBdlotZXdXRmF1UTc5eDZncURyNUg3ajJiemRZelMwLXI2WkJBZXFwR1JyRE5kNF9Ba19iWV9seERkeEpDZ3ozWnRGVEtLQ2VJ?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 21:00:49 GMT",
+          "title": "EXCLUSIVE: JPMorgan CEO Dimon leads new cross-industry effort to tackle AI risks - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX1NwcnBhX3JkLWQ4NWJtbE9kUUctUWZnR1RhQ3FXQnZGX25fck5vZFo0YW5aV080SlVDdU0tYnFpeTViVV9QTEZXTFhlc2gtdENsczA2ejdjYUlPLVdVYTZ5cUk3R29WUEM3c0VMbGNlbndfMHcyWmowS0lCeTVkZEVVWF9ERGNFQ2tfQzVJenpfY2tjbGRzS1FySXNNU3FBcWk3RmxuamFtRW44?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 22:38:55 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Rubio and Miliband discuss Ukraine war, boosting Europe's role in its own security - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNXhKWmZFYjctT3FLTWdsTnkyVVdsRnRoRkZCaXBIWk9hcFhnSEU2YV9UZjM1end5SjFKTzFsYXFWY2RGR2lYcEotR0RDSkZwcTVXWF9CeUM2eGZFTGhodk5DMmk2Tm1BbHp0YXRzX3pOb241N2dGQ0tFYnR1elBQU0tzWUxvTFhyZ2JUYWRqY0lkYWlvbzlGS1gwRUpYYkhuQkxJaEdFQ3JYbFdQRmZXNEk4bV9EMkNFdnA1NQ?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 20:56:08 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Chinese-made Zbtlink routers have backdoor, researchers say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNm1MQlgxU1g2TnA3cEtYc2hIclBLZjcxdWF4aEwwYi1CaUtiYWx3SjJQZTM4Szl3Z0R6OGg1T1lVWEJTTXowc19KeF85UWcwUWY0THoxcjB0Tng5bzlqNk5FdkRiX3MxSlpoSjd5TksxTkw1V1ZsTVhJZ29RNG9XZ3hMOEVGeEd0bTN0dk12N2EzZXN6NWx5SWU0MHlkdHdXSThQWmVNSEs3RFRxTXF1X0hsZw?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 20:38:35 GMT",
+          "title": "SpaceX slides as AI spending worries overshadow early returns - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZWU1MzhJUmZkZWYwa0ItM3ZsMHh3bnVZS3JiYllKRF83UWpmM0d6M2txVnY3eDdNVXdweUd0dFZDcmxZQWE0MlBTYlFzYTg0dFJWODl6Z0hfcWo0QXZwNkN6Z3pXZGJKMlY3SGZQcmZzWmhxbmxvNDdISHR6V29ST2hUVW1FUGUxR2ZOVVM5OUR0THhTcmJ6UXRhTld1WXFjNkdXYkM2REs2V1BnZC11VlR0WS1pUFU4?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 22:05:29 GMT",
           "source": "Reuters"
         },
         {
           "title": "Major Wall Street firms targeted in attempted cyberattacks, sources say - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORTh0MGxWX1RCZWdvU0lqaUZVczZzdDJaYlNDVlM5aURvZlVLWUpXaTJPZjRvOXpjQ2c2eUwwbDkzaTZBc3dRaHhyYkViSGdMV25VdWpvWVB6OXphVlZmOXl1OFRXV0pQZ2VxRkZtX1psOTN4UnRQeV9nNllHUzdadnB2Z3M4bTR1NG9HQW1pTVlYNzJBcXJZU0JYcmhEZVNIcWF2RmF6b1pucFFxWFpKWmtMbm10QXd4Vy1CT2V4dWI5NmUycW1fUw?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 20:37:45 GMT",
+          "pubDate": "Wed, 05 Aug 2026 21:51:04 GMT",
           "source": "Reuters"
         },
         {
           "title": "Google shakes up AI leadership as DeepMind chief shifts role - Reuters",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaHV5Q1dFcHFPLTJhTmkyTG05amxnbm1QQkRGYnpCZ0tON1FJVnJ2d0pBQVZENUlJYm01cXBoWFhvVENnbklRLVZoNndsMVpiWGNhNnJ6cEt6VFdKUGdRQ0xPem5kaHo3Y24tTlFqWGFtZGZjS25UbFl5UUMxTWtsWkVRLWQzOTZWbTViWXJXbFdIYUU0STdDcTliOEJCUEFrR0x0cQ?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 20:26:01 GMT",
+          "pubDate": "Wed, 05 Aug 2026 21:42:10 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Dow closes at record on Mideast optimism; SpaceX, AMD drag Nasdaq - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdklHVUNCN0JQTDlLR0piZnVyYXRkNkU1akFlU3dWWFRoQTUyVUFxTXVtbnU2V3pTY2QwZ3pXRUw3eTFZeG1IbDAzM0Q5eEJPd0VSRldTckFHb1dBYXUtQ2tocm44b2p1SE5EbGhCNUJyMG9SX0RhZTlRZjFFbURfWmhPbnN2YmNSTlF3NFFZbG5yNmFzWTNiZFBOTlFfOWp1cmZIMkxicE50d2tJWkVXOVZQRmFxc21qN01jaDR6RQ?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 20:19:22 GMT",
+          "title": "Meta launches new AI coding tool powered by Muse Spark 1.2 - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMnJqb2s0a2s3WWxWTC1vNWdRNXc5eDBQRnNlUDBnekl4cXR6RG1hcUZ3cWlOMzFtTTNacUQ1cE01dWFpQ0NuMlpvOXJJalFmcFUyWEtaRjJlbVp1djJQWnhNdnJra2RId1B5WHhicUF6a2pVdUZ1M2tubElIbHhsVnFvX1owXzAtYzRaalpKZVkyNFRYU2ZyX3N4ai0xUHE1SkNWLTRzQQ?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 21:31:51 GMT",
           "source": "Reuters"
         },
         {
-          "title": "US Senate confirms Schwartz as CDC director - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdUlSeHMyTFMzMzBSYXp5UHJJZ2dQTEZJYTJ5c1dtdWZHaXJ0WUNMRnVIRkpJY2c5dlRWcVdybmVPbFhJcHZ1XzBaZHRPWUJlY181eDItTEtraEY3d0V6dGJRVE9ReXFJcnktcGJEY25nRWtTbGFpRzQ5UXZXSkVVRWJZYTNrM21fQ0E?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 20:18:21 GMT",
+          "title": "EXCLUSIVE: Iran threatens to hit Gulf states if US launches new strikes - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPajFnaXk0anVrT2IwaV9XMDBma0pMQU53ZF9LRUJiT01nWjJsdG5FZXhwUjNtZFp2Yy1NV3Q4dFRIeUxzV1pCWk9RMVVZNk1UbWxxMFdiNEdNTG5KSVBVWTRCaWFJSFNlT3RiMFF6RWtqN2pnRThTUU9GaHNfelhwV3RZTXdfMzJwUk1aVlFXZ0FBNk1qWFFmd2xIRWNVWVpmQl9DSkE2NnhMaXlJZ2FFeQ?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 21:30:57 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Kansas voters say no to electing state supreme court justices - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMlpSZUFhSndsSEMtY1J6N0xneWNhQklsSno2RWdzU2dTTlp0eURDX1RCZXZFcWc2UDlPeVhoM0MtNXdBV3VwejhFWFZ6NTBmQTlybzJvS1ZObTlFZlplNHl6cFliQm9kX3Nxb0tKM1dmQWY5Q0x6Q1djLTNFUE5ZNVhhVXdULU5JUkh0RTVJX0E5MGo3eWJzbnFsOWRLQXpJWTBuYlR1NUxCY0pFODJLOQ?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 21:29:14 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-05T21:49:01.575Z"
+      "updatedAt": "2026-08-05T23:06:01.436Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-05T21:49:01.758Z"
+      "updatedAt": "2026-08-05T23:06:01.512Z"
     }
   ]
 }
