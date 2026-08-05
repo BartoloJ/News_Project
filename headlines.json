@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-08-05T00:56:03.059Z",
+  "generatedAt": "2026-08-05T04:17:26.298Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall",
+          "link": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 05 Aug 2026 03:44:30 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Russian ballistic missile strike on Kyiv kills two and injures others, officials say",
+          "link": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 05 Aug 2026 03:37:50 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Washington wildfire arson suspect twice linked to other blazes, authorities say",
           "link": "https://www.bbc.co.uk/news/articles/c5y3ppmmev1o?at_medium=RSS&at_campaign=rss",
@@ -39,26 +51,20 @@
           "link": "https://www.bbc.co.uk/news/articles/cgr7nxve05go?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 04 Aug 2026 22:10:00 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "The avalanche that killed a climbing legend - and a generation of record-setting guides",
-          "link": "https://www.bbc.co.uk/news/articles/cm2ge4dnj80o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 04 Aug 2026 22:09:50 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
-          "link": "https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 04 Aug 2026 21:45:20 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-05T00:56:02.089Z"
+      "updatedAt": "2026-08-05T04:17:25.037Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "MLS named LAFC co-owner Larry Berg as its next commissioner. Here's what to know",
+          "link": "https://www.npr.org/2026/08/05/nx-s1-5919621/mls-commissioner-larry-berg-major-league-soccer",
+          "pubDate": "Wed, 05 Aug 2026 00:00:00 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Authorities arrested a man with ammo and apparently monitoring security at Trump golf course near LA",
           "link": "https://www.npr.org/2026/08/04/g-s1-137415/trump-golf-course-arrest-california",
@@ -100,126 +106,120 @@
           "link": "https://www.npr.org/2026/08/04/nx-s1-5919238/jeffrey-epstein-jpmorgan-bank-of-america-deutsche-bank-senate-democrats",
           "pubDate": "Tue, 04 Aug 2026 13:43:06 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Europe's heat wave fuels drought, wildfires and fears about energy supplies",
-          "link": "https://www.npr.org/2026/08/04/nx-s1-5919214/europe-heatwave-danube-rhine-wildfires",
-          "pubDate": "Tue, 04 Aug 2026 12:37:38 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-05T00:56:02.141Z"
+      "updatedAt": "2026-08-05T04:17:25.218Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Trump is making a rare Western trip to to raise cash for Republicans and talk about the economy - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMnpXN09IYUdmVUR1R2JFaW5UT2tQTmswV0l2Z3plU0JTUmt5aXZwRHlGb3NZVERfVVhIRmoyVkNWYmNQUTNOR3hlNVNPTmFVVlZFWW04bzBmNFg0SlFsdTNGc0xfZlJyYUNYbDJJWWFfY1pOdXRkc0RyZloyMTFmWnpOSE5mMGMxbjlLSUhYS1N6bUV3LUE?oc=5",
-          "pubDate": "Tue, 04 Aug 2026 23:56:00 GMT",
+          "title": "Guatemala is on alert and evacuates hundreds of villagers after eruption of the Fuego volcano - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbF9mMWV4WFZuV1plYmgtZU1SZUtuY2xCaExLZWVYbTZjcFpLMDhLUExRaVNBbWlKSFBZajZPRTFLU3VFaUYwcmZUdTFGQkRpaEptMkFfbnZuSGY5bHJ5QnI2aWNGbTROWlMxcEV1Sm5oMjZoREJwcEctSW56OFFvVkJQcjM2a28zYk4wdHVIbF9teUloRG9xdzVuX3ZsVnQxYlBFVFNn?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 03:21:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Former Rep. Elaine Luria wins Democratic nomination for battleground U.S. House seat in Virginia - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOX3lyMDZNUlh3T1UtT0ItQlZib1huVTNGLVRWUE5GVkFLdTF5cVZnUDE1a0diOGlhNXBHenEyUTYwTkwzcmJGXzR1aWQwVDRKQlF5N1ktR3lVS2tpV3ZTZUpDejlLUUxTQlEzMEh6YnBOZlhDNDJNT3BGbVZrNHZkVmNHTlQ4X0NLNF9ySk1XaUJLckJNQVRLUFZoTm94MF80UVRNNnNhQmdmeFRPM2dEQzQ1VTlzMjRNNnhJY1F3QjktcmlsQmVXQWhn?oc=5",
-          "pubDate": "Tue, 04 Aug 2026 23:32:00 GMT",
+          "title": "Rep. Bell wins Democratic primary in Missouri; voters reject high standard for citizen initiatives - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMi1OWHNpNHVPZTdCOWduU0RkQWxhNmpkY1l4SFRaOXNNZ3dGbU5TTU1WNFlTOGd2Rjk2M2FVd2I0YWtoZjJDVzdtZlBtVExCclJ0Z19vZXVtSmRacXRWTmNoZTE4MWhwWW5jbzc2TWZHRjlZUWFRNDd0YUo5S3JwV1V3MWRibnU4aGhsSXhtZjBwcVJa?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 02:20:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Iran and Oman are working on a plan to reopen the Strait of Hormuz, and other Mideast developments - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObXBWcm1tUGMzTS10VXhUNlBaMENHZzBNMnRxVzhQZnEyN3kwSF9Cd0pQUHZLQS11Y0Jpd2tiTGIxRE1WVXNxa3lqWXBiSmdONXFjTkRXb195eThEeEpVYzlZOU1uaTE0d3M1N3Y5NU9IVGpTM0MzUkRjVzA4SnFXTk9RWDhZRzhPc1JZNVhKZUM1ZFBkSk9qeHJsanhpUzdaVUs4UFlMXzVxRE0?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 02:04:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Michigan’s Senate Democratic primary is latest test of the progressive movement’s power - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcVBtQW1SWUtxVzJWZTV3VWFpUTF2azcwZWZrdGRmVHN0dE9jeHJlVHZfYWpKV2lQN0tIelhNdnN4a0UxRzRBb2lSa2xOR1J1eWE0VHIxMWdoRTVKSHg3anloa1gwU0pHQWd1Z3hfX3lGa1pjWk1xdzd4LWFNMXB6WDI5UGdvanpzNmVWbC15cG9KMHp2LUVhR2lIeVVINDQ3dGN0blVTZkVhZw?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 02:02:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "George Lombard Jr. homers in memorable big league debut as Yankees blank Cardinals 2-0 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUGhHNFZBMHBUeV9zQk81aEotOHFuekhfbFRWUnRRNEk2MERnREl4QVp1TnkzUDFzQUNCSnZzQUtJYlVYaUZpa3pZOHVqbVJZdFY4RmlZTkt4ZG5HY2FPYXBzRUJSc01qSDBieVNKY19jdXNva3BGZDloQVlqSWZQZGprckMwbnlyTDg2VzVWNFA2Q29MZ1E?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 01:56:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "House Ethics Committee opens investigation into domestic abuse allegations against Rep. Max Miller - AP News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcXp2OTVsQUNja0thVFFhbXRnMEJnZUVJYlNHaDc4bE1xallJYnRMX1NrNHpVcmVVYnBCb2twNk1oUGV5RGZ5UTZoV2hlVFNYYXJxcFBMSndhSmRQTzBzRDZBay1zS1NaWnNxZFI1OTZrS1l6NFBHUzZnbUhmbjVwNExWbC1zRlBTSXVOTnd3RXJUbkw2ZkNrWnM5M3lpUFJL?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 01:38:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Man charged with setting Spokane's largest wildfire was questioned about 2 other blazes last year - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObjlrYTFEWU1Td0psdzA1WmlzRUpyelV2aEtibTIyY3FidC14QkxNckU3ZmI1VUFmMVFpOExQOFMyQjBXZTlEdUhLTWFqQnd0UUh5ZE16eEZKOThCSFdzQ2RDMTVkbFRKeUN4elR3bHJJQUl6S1l2Um5uSEpRclhIMkZabHRmbjJwTTJLS25QRVNiQjVpSDJPcm9PM3VPeEZZN0J0MUUxTlY?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 01:31:00 GMT",
           "source": "AP News"
         },
         {
           "title": "3 killed in Idaho In-N-Out shooting included a man known for helping others get sober - AP News",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZ2J5eWEwWktqLUh2S0h5OE1SNHJGNnhKVTdCM3U1Zjh0OWtOQ2ZXZkx6ajMxd0JtckJRNWd1WE8weXZPNHRXa0JHQlgxTkdZNG44eGREeFdvOVBFMVMzRUtXLTJsaU8waHVqc1l1NlZLMXNDdEFuV0ZuWnMteUlwQ254OHUxek42cF82aVNXWnJtUWR4WGZF?oc=5",
-          "pubDate": "Tue, 04 Aug 2026 23:21:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Authorities arrested a man with ammo and apparently monitoring security at Trump golf course near LA - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeHFqYUgxWGVsdm9mYWJYVFJxZFNBbDY5MEFmTjVDdEkyeGxMRmx2a0p5UGItaFY1eDRtQTU1VjZZRHdFYlVDdVNWSkZWRlktX2hJNTNxcndDSEQ3OVZLNEZEV3BpSHM5a1JMLXU4bTA3SGVsZmJRMWQyUUVoT2ZPSm9CRUM1UzNvcG1yTmttazRBM1E3Qzk4VkdGeFAyMlNhRHNFbzVGcDRrV1k?oc=5",
-          "pubDate": "Tue, 04 Aug 2026 23:11:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "SpaceX posts loss in first report as a public company but less than expected - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWExWNGc3WlZRU0Frc0ZwX1Zyb01Hd3NPOFowX1M3UEtGWmpmSzNSX3VHMEpIVy1PNkVXZWRZUU9oQ3V3Qk03MFdSZ2JQV05mZVd1OW9hOHdkcVlCeEZiVFBBSmhYa1I4MUJETllZdS1aV3hFMXQxekdEV0VjcUpaYzYwM2tvRkgwdXMzdlFzV05BY01iNWZmQg?oc=5",
-          "pubDate": "Tue, 04 Aug 2026 22:35:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Trump administration revokes visa of Brazil’s ambassador to US in spat with Lula - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbzhJanFZY3p0cWNVZlFLUXEwbEViRktZY1U3MXJfTXBRMWo2MmVtR1RvQ2I1MzMySEM4OE1oYkRLemJqM0FPaWxwMS12NjVBSzdOTTN0bUtGR2JFZklYQVVtQ1dXN0ttdDdpanFWUDVLanBJX0liVHBuR2xscTI0NndFVWgyQWFjTU9OT3FNRFFSQl9nOGMtWWFJaG1Pc3M?oc=5",
-          "pubDate": "Tue, 04 Aug 2026 22:28:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Herd of capybaras joins lawmakers in chambers in central Brazil - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZVhXTjNaaVZSZVc0dlg2RWV5OGZqTGlNaGFpMGRPazYySHRCZWVvZGdKeVFUZUx0dUpRV1RLVTV3SGFSNExLLXZsblVjQzBHYUl0RTJEdmFYT1pYY1NNemdnR0RNeWUzb3hvMG83OW5VWHkxa0xBXzVYd0hmV2kxVFowTmxQZk1SdDA5QVVZM05jcHJzSXc?oc=5",
-          "pubDate": "Tue, 04 Aug 2026 22:24:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Salvadoran man complained of access to medication before death at NJ immigration jail, family says - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOHpPUDY0Sy1FNUF6RDg1cG5tOG01UzdULTRoaHpjZC1XZzN2RUxBV1dxOWtqeFlJLWZtMEUyNkNYTlc2eXZrWWtvaGt2bm1pUHRxdG91dHR6SloyVzBtcWlJQWJYMVRLQ3lFWUhkMEtZTnJab2FwN1ZtdGhXZ2hhZmUwaWRGTlZhbDZMMnJWTUFVT1BYZHFoRHJxTzN6R3pLYzZKeFJ3?oc=5",
-          "pubDate": "Tue, 04 Aug 2026 22:18:00 GMT",
+          "pubDate": "Wed, 05 Aug 2026 01:31:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-05T00:56:02.557Z"
+      "updatedAt": "2026-08-05T04:17:25.678Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "EXCLUSIVE: Sysco has stopped buying iceberg lettuce from Mexico amid US cyclosporiasis outbreak, CEO says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTDlCQTFhUU1LUmo5dHVEZ1RhUjdsV050WVVzUGNzdUNPNHpTdVI3Yms4MXhUMXhYMWVyaERoZlNTMHNHelE1NTFGUUttaEt6RnFwQ3RFLVNtSzQ3aHVwSFhMVGc3X29QVVU5QTJBZEFjQ200dmU4TE50cHNuSFNLMXNpelJRTFg4UXp0bHlzUkE4T0F6MlFPUWlwaE1iSzI3bkJLSFYwejdIeWJtSGVhOUdlNHprX3pSWm1EYkxvd0NLWklxbzRsM1ZqMEdpY1JiOGVXNjdTMA?oc=5",
-          "pubDate": "Tue, 04 Aug 2026 23:51:53 GMT",
+          "title": "Taiwan launches major war games to test command flexibility - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdDZTVDVpUk5LTEl1NmJueDZtSkNwUlllcm1rZmFNUnY4Ml9hb1MzUHRaQ1Z4N1pFUXhyQjJ1YmRaa3hNLThUMEFNOGVkS0RZbmxzZ3pWUDdlM2pSTnN1RGdpZGRvQjNwbzFEVnVRXy03WWNkVjRwV2sta0gyQnhIWWNXN2tHYUNETTdUSDFtTFAwbU5zQ0w0WDFXZktxaENEdmFtWWZiUQ?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 03:02:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "AMD's AI-powered revenue forecast fails to wow investors - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZVI0Wnk2b3Jpb0tucDcyRzl0Y05zX2RwWTZWRU5CYVhyc3BLSjc5NVJDSlZFSGZNZ1F4S1FTei1saXVaaGFaTzFsUTkyUFFOelE5bEY3eTlyMURpYXlBbmNPUk1IOTJVaVlLcjVwWk82Qlhic3lfNndTa2N1ZnNHMXBLOFFTOVRFdXcwYWF0SWQ2a0hVcUNDeDA1U0hmRXdoMXJOVUpVeW1rbmU5dXhZOVFBaHBhRXlMa2pscWRn?oc=5",
-          "pubDate": "Tue, 04 Aug 2026 23:45:13 GMT",
+          "title": "Indian shares likely to open higher ahead of RBI rate decision - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVVdvczY0a3k0cFBWYWNRLXVWTUZudDE4Z1I3TG5lSWxLQUx4aHkyMkcxY01aYlk5V2hVMUo0cVRUOG40b2JXYW5kWjFBdXRiYTJFWmt4enA3TTZEYzNLR0tyblpsZzFrVk9SZTd2c3VaZjFCcGppYThwaDE2NTVZRm5fMkVhS180VllpSEhObG9tVWxHM3Y2RXFhb2F3elkxa21nWktHYw?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 02:03:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Lucid to delay affordable EV launch amid 'operational reset' - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMDg5cmt6UmF4MFNfQ01MekV2MVNyRXhlWXpkZklGbFJmekpGWjdzRUY3eklQRjVxZnJiNFd1X2pfNnpmNzhWa1drLW5aUDBRZ0QzNTVqTW5oRlFWNW5qbWlzcVBUNkY1Q0hXUldid3cyZmlsUVE0dWhVUkhfU21ocXZsUjh5YUdzTDdoUFpZTUtKczZzQXIzRmpyRE82a3hIYkhoU0ZNU1lXVmF1YzhtQ2JKWXpER01MQUxsWXF3?oc=5",
-          "pubDate": "Tue, 04 Aug 2026 23:38:24 GMT",
+          "title": "EXCLUSIVE: Samsung, SK Hynix test Chinese chip tools as hedge against US risks - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeU9NVTFKTDhzZ3Rxa3dWbk9vSktaSE5xd3p3TG5KTlpNRFpLY0IyNEZuRzVTWFV0LWx0LURCdkRvcjdCVE9pU3lGSktXampPUUtZWExRSlNLZ0pzU2thX2pXQWRDLVBUd2JYRGh5RGplLWdsb0tOek8zdXk5elBiZlZwbTd2X0dDSU5hWFRKWHBLZkUteDBSR2VndEpxREMwYTUzY1pJcllRSUZPci1vOQ?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 02:02:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "US revokes visa of Brazilian ambassador over diplomatic dispute - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeGswUzd6Zlg2REIyREhCUnEyNHJSNUdJelJudElYdkVlZ2FnRnBDdDIyTU81clNyM0RmcHpTTHFILVY0ZmItWXA1ZkVkcGFub1ktdFdLdlVSR0pIOXZ0MHB6YkxRdW5tb3NlY3JQd0RheUJ2Tm1JcE1yU2JtRFFESUNuaUhudkl5MGNaNGxFbTBwbC1OMTcyZW9IWjBzSzQxODhMZndxTVl6eTNSODB6dXkzT0xDX01OeDRNdzl3MkV3MkU?oc=5",
-          "pubDate": "Tue, 04 Aug 2026 23:37:51 GMT",
+          "title": "China AI hardware stocks slump after news US plans to ban imports of Chinese components - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOU1dRTlJ3dWthcTVkQnd1NFVJTFZSeHV4TXNiZlZOaVlNa1lSNFVnQWZxZkxEQkV2NGZ3YV8wZ21mbjhRYUg3Z05nci1Ua3o1M0FyTGxIT0VLXzhYUlFpajhQVEEwYmFuZnhZNjZPdjdPcFh2elVnNlFvdVZjYlVTNWU5M21VempmYUVMSzNNMURjeEtwcFFUa2NvY2MwYVE1M0k2RDVpTFR1V0VGUVBBNHNaRkQ3UzlhX2FMUDJFNXpOX1RVU2ZZRQ?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 01:42:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "US yen intervention signals perfect storm rising in FX and bond markets - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOVhFamJnNjNYd1piUGFvMUR6WV9tSWVOdkdaa1lsYmd2UEp3blppbXVKYnZma2E5YjBHQWV1MlJoQjNSZFlQMW04RWRMSEQ3Ykl6Um9DNzJOTFBvSkxuMTVNSC1xWlpzbmtJZFpRMm5NWkxSUFZZRGlpcmpXYjBrNmJHR19UendSQUJzRElnZEtBal94dUUtVlhjN1pacWZNZE10Vlp3Qjk3ZTZzd3ZlZG5FWDROSkUybHNUZE1LamlkYm1heFFFNEhTVEF4UQ?oc=5",
-          "pubDate": "Tue, 04 Aug 2026 23:30:25 GMT",
+          "title": "Asia shares surge on tech mood swing, oil retreats - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSjNOaFJhdXRJblJMNldJM09LeFJDOXNqY2Y0R3dhcGt3S1ZyNm1peFdvVlBfN2RrNmtCYVhQa3pzenI5VlBld2c2Y0JPLTAzNWRhTWxUYWxjNEpvWGxIYlR3M2NLdGg5RnpRSmtYVVVwamJfYTZ5S1JaQ3J5QjFEQ3B0WQ?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 01:37:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Guatemala's Fuego volcano intensifies, prompts preventive evacuations - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPa1JSZThSQXJtM2VFb3RwSGp4dTY2ampYVVBlUk1LR3hGMTRiRHQtYjhRS1BHVnZ6TU12M1A5SVBTUkZfSm1feW1ROXpIUXdKR0kwUFNQNlN1UlpXTTB4cTM1QmN2V2dlUnp2dUw5N1RsbzdIdFV1MS1kR01IVWdHQVFLXzhtdFAyY3BxOWh2NVJVblVuV2F4aUY3Q2trYldNTjQxYnE1MjhQbFVWc0NJMHAtd1o1N1N3dERkcnhwWU96dw?oc=5",
-          "pubDate": "Tue, 04 Aug 2026 23:19:47 GMT",
+          "title": "Oil steadies after two-day slump as investors eye Hormuz traffic - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZDd2cFJ5Z2dsbTliajVMY1o5eVQ3Q3djdGVaYXA2aVhJQUROSVk5NmVjSkUydkw0YUItOGI1VFl1Wl9uZVY2SWhZLVZZY2hFTTFyaEoxM0otRWQ0Vzk4bjdEV18yYkhQS05GUzQ5dHdsY0wwemg4cG53dnZkVmx0M1pMdzl2cDk2MDBlZlN3ZVY0RVMxU2JNcE5Ta2Nrd3l4OVpvTnlIY0hscHRpOUozRVpDUQ?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 01:26:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Trump's EPA was wrong to terminate billions in climate grants, US appeals court rules - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTXVZM0xxUG92N2JHRnBleUJLOU5fcHBZeWo2Tk5Bb2NXXy1sVXBGaDh2cDZGNlJFWTBDTVkySzNiUUcyM3VFc0l2QnByRDFHNjgzbkRDaVBVTi1nR1kxQUh3RERaZjhKWmdFdFdRSkRmd2tiMm4tcnE5SnR3b1ZYVTZTWXN0NVpzUmFic2NvOGZBMmx3d1d4TUFZVmZpMzJrRnM5MkljaTdUckN3eG04NlNmNW9LUQ?oc=5",
-          "pubDate": "Tue, 04 Aug 2026 23:14:31 GMT",
+          "title": "SpaceX plans next Starship launch as soon as this month, catching it on land - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNm52RmJwblIzWVRhaXNpTWhwOHp6QTJNdS1KeFk2NnAwbDNpOGhOTFhHRGZUak81QkYydElTeVdqVkJmMzhvQ1VUM1BId0RXS2ZwNHV3TXV1RWFBcWRQdlpNd3dEY01UT3FPdGIwYWl3WU9WaXNtenNadGZPS0Noc0pvY2Y1SDNLNEE2eEpxWk9oaGp4YjdfazdFSV9KYktJa3llX0x6NWp4UW50dTBJUW0zeHJxUTVkT2NCeVlpTEc2Q3haZGpmSA?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 01:13:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Trump advisers tell AI firms they will not safety-test open-weight models - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNa1dFYnlpdVZxSzIyWnptbDAxbjlwMzNtdEFtVFRkYXQ5OWpxbTBBaU44LUg5Tl9oX2ZnT2R2REQ0S2JWdjVid1NkWmM5aUJyOTZFZE9lQnNRWHhhS1NIVXBsTW9CRGZoRHlQTVZTOXhzVndCYkxZUEFUcElGdG9leU1ISlpLaWJER3dZUC13NmQ2SjNGMVpPcXc4NzdrbWlhekFiV19aYWZKaGJCblhvNnVFbWo0UVJUSWQ4eWVCSHZtRXFqU01zOQ?oc=5",
-          "pubDate": "Tue, 04 Aug 2026 23:03:04 GMT",
+          "title": "Qatar says mediators make progress in efforts to end US-Iran war - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaUY3M2pidURfcVlodzZaVEctbGNSYS1rNlJrR21pQm8yVm50U05QSmRlWURQWWh5UklWZUVMVmlRdzhmbVJrN05IdVNXVW83T3l1TUo0ZjJTMzNURzlOdmNMM2YxY2JwVHQtby1aTFVfZmFnSjRFT0hSaHlzeW50XzNPcUZROG13MUxxNVMwdGd3UkR2cTgyeURHNERQWlUxeFJYR1ln?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 00:56:00 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-05T00:56:02.988Z"
+      "updatedAt": "2026-08-05T04:17:26.116Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-05T00:56:03.059Z"
+      "updatedAt": "2026-08-05T04:17:26.298Z"
     }
   ]
 }
