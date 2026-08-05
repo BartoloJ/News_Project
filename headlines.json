@@ -1,19 +1,25 @@
 {
-  "generatedAt": "2026-08-05T04:17:26.298Z",
+  "generatedAt": "2026-08-05T07:17:00.220Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall",
-          "link": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 05 Aug 2026 03:44:30 GMT",
+          "title": "Police raid Starbucks Korea headquarters over 'Tank Day' fiasco",
+          "link": "https://www.bbc.co.uk/news/articles/c0kmd4xpr46o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 05 Aug 2026 07:04:45 GMT",
           "source": "BBC News"
         },
         {
-          "title": "Russian ballistic missile strike on Kyiv kills two and injures others, officials say",
+          "title": "Russian ballistic missile strike on Kyiv kills at least 17",
           "link": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 05 Aug 2026 03:37:50 GMT",
+          "pubDate": "Wed, 05 Aug 2026 06:54:29 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall",
+          "link": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 05 Aug 2026 03:44:30 GMT",
           "source": "BBC News"
         },
         {
@@ -45,16 +51,10 @@
           "link": "https://www.bbc.co.uk/news/articles/c4g43l251vyo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 04 Aug 2026 22:28:30 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "'I feel like I dug my own grave': The workers caught in the AI transition",
-          "link": "https://www.bbc.co.uk/news/articles/cgr7nxve05go?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 04 Aug 2026 22:10:00 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-05T04:17:25.037Z"
+      "updatedAt": "2026-08-05T07:16:58.821Z"
     },
     {
       "name": "NPR",
@@ -109,117 +109,117 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-05T04:17:25.218Z"
+      "updatedAt": "2026-08-05T07:16:59.030Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Guatemala is on alert and evacuates hundreds of villagers after eruption of the Fuego volcano - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbF9mMWV4WFZuV1plYmgtZU1SZUtuY2xCaExLZWVYbTZjcFpLMDhLUExRaVNBbWlKSFBZajZPRTFLU3VFaUYwcmZUdTFGQkRpaEptMkFfbnZuSGY5bHJ5QnI2aWNGbTROWlMxcEV1Sm5oMjZoREJwcEctSW56OFFvVkJQcjM2a28zYk4wdHVIbF9teUloRG9xdzVuX3ZsVnQxYlBFVFNn?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 03:21:00 GMT",
+          "title": "3 killed in Idaho In-N-Out shooting included a man known for helping others get sober - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZ2J5eWEwWktqLUh2S0h5OE1SNHJGNnhKVTdCM3U1Zjh0OWtOQ2ZXZkx6ajMxd0JtckJRNWd1WE8weXZPNHRXa0JHQlgxTkdZNG44eGREeFdvOVBFMVMzRUtXLTJsaU8waHVqc1l1NlZLMXNDdEFuV0ZuWnMteUlwQ254OHUxek42cF82aVNXWnJtUWR4WGZF?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 04:57:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Rep. Bell wins Democratic primary in Missouri; voters reject high standard for citizen initiatives - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMi1OWHNpNHVPZTdCOWduU0RkQWxhNmpkY1l4SFRaOXNNZ3dGbU5TTU1WNFlTOGd2Rjk2M2FVd2I0YWtoZjJDVzdtZlBtVExCclJ0Z19vZXVtSmRacXRWTmNoZTE4MWhwWW5jbzc2TWZHRjlZUWFRNDd0YUo5S3JwV1V3MWRibnU4aGhsSXhtZjBwcVJa?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 02:20:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Iran and Oman are working on a plan to reopen the Strait of Hormuz, and other Mideast developments - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObXBWcm1tUGMzTS10VXhUNlBaMENHZzBNMnRxVzhQZnEyN3kwSF9Cd0pQUHZLQS11Y0Jpd2tiTGIxRE1WVXNxa3lqWXBiSmdONXFjTkRXb195eThEeEpVYzlZOU1uaTE0d3M1N3Y5NU9IVGpTM0MzUkRjVzA4SnFXTk9RWDhZRzhPc1JZNVhKZUM1ZFBkSk9qeHJsanhpUzdaVUs4UFlMXzVxRE0?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 02:04:00 GMT",
+          "title": "Afghanistan’s child deaths are rising as food distributions face cuts, UN says - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTFByU3ZaX0dZN0k5Wnd4bnR5NzIxWUxaZm8xUXotV2U4ZzVwWnlhZUI3Y3lWT0F3S3dGT1hwbXBrUlNNSWJwSEx2VWU1Y0t0dEVORnNVQ1hGQi1TNHZxRDA2bnVZWURtN1JxdkxPeE9sLUF0TnhxNVpVcDczY2s0ZDRpRVN3cExuMkRoNkpTQlpMeWN1Zk1YTks3NFZhRUFZdFdVY0Y2am40NEJYbjVV?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 04:54:00 GMT",
           "source": "AP News"
         },
         {
           "title": "Michigan’s Senate Democratic primary is latest test of the progressive movement’s power - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcVBtQW1SWUtxVzJWZTV3VWFpUTF2azcwZWZrdGRmVHN0dE9jeHJlVHZfYWpKV2lQN0tIelhNdnN4a0UxRzRBb2lSa2xOR1J1eWE0VHIxMWdoRTVKSHg3anloa1gwU0pHQWd1Z3hfX3lGa1pjWk1xdzd4LWFNMXB6WDI5UGdvanpzNmVWbC15cG9KMHp2LUVhR2lIeVVINDQ3dGN0blVTZkVhZw?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 02:02:00 GMT",
+          "pubDate": "Wed, 05 Aug 2026 04:27:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "George Lombard Jr. homers in memorable big league debut as Yankees blank Cardinals 2-0 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUGhHNFZBMHBUeV9zQk81aEotOHFuekhfbFRWUnRRNEk2MERnREl4QVp1TnkzUDFzQUNCSnZzQUtJYlVYaUZpa3pZOHVqbVJZdFY4RmlZTkt4ZG5HY2FPYXBzRUJSc01qSDBieVNKY19jdXNva3BGZDloQVlqSWZQZGprckMwbnlyTDg2VzVWNFA2Q29MZ1E?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 01:56:00 GMT",
+          "title": "Fuego volcano spews more ash and mud as Guatemala shelters 1,700 who fled nearby villages - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbF9mMWV4WFZuV1plYmgtZU1SZUtuY2xCaExLZWVYbTZjcFpLMDhLUExRaVNBbWlKSFBZajZPRTFLU3VFaUYwcmZUdTFGQkRpaEptMkFfbnZuSGY5bHJ5QnI2aWNGbTROWlMxcEV1Sm5oMjZoREJwcEctSW56OFFvVkJQcjM2a28zYk4wdHVIbF9teUloRG9xdzVuX3ZsVnQxYlBFVFNn?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 04:23:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "House Ethics Committee opens investigation into domestic abuse allegations against Rep. Max Miller - AP News",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcXp2OTVsQUNja0thVFFhbXRnMEJnZUVJYlNHaDc4bE1xallJYnRMX1NrNHpVcmVVYnBCb2twNk1oUGV5RGZ5UTZoV2hlVFNYYXJxcFBMSndhSmRQTzBzRDZBay1zS1NaWnNxZFI1OTZrS1l6NFBHUzZnbUhmbjVwNExWbC1zRlBTSXVOTnd3RXJUbkw2ZkNrWnM5M3lpUFJL?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 01:38:00 GMT",
+          "title": "The Danube River’s water is dropping so low that World War II ships are emerging - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTlFTVkJVNkVFanp6SEVZelFQaGpBR3JhTW9UTHcteFZQQjI5a184WEl2bkZMQjlsZUtQZzhtZGlDNmRtbXJNSzdUWktOOTkyZGVVWVRUSmpZYkNjRHhab29RbF8xdEpCTGJXaHh3X2ptYm5UYmxvNHJWMnZxdzI3TUFxVFFXNkh2WGNmNzRwdUhTRFpTSEFiRg?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 04:09:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Man charged with setting Spokane's largest wildfire was questioned about 2 other blazes last year - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObjlrYTFEWU1Td0psdzA1WmlzRUpyelV2aEtibTIyY3FidC14QkxNckU3ZmI1VUFmMVFpOExQOFMyQjBXZTlEdUhLTWFqQnd0UUh5ZE16eEZKOThCSFdzQ2RDMTVkbFRKeUN4elR3bHJJQUl6S1l2Um5uSEpRclhIMkZabHRmbjJwTTJLS25QRVNiQjVpSDJPcm9PM3VPeEZZN0J0MUUxTlY?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 01:31:00 GMT",
+          "title": "Missouri US Rep. Wesley Bell wins a Democratic primary rematch against former Rep. Cori Bush - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMi1OWHNpNHVPZTdCOWduU0RkQWxhNmpkY1l4SFRaOXNNZ3dGbU5TTU1WNFlTOGd2Rjk2M2FVd2I0YWtoZjJDVzdtZlBtVExCclJ0Z19vZXVtSmRacXRWTmNoZTE4MWhwWW5jbzc2TWZHRjlZUWFRNDd0YUo5S3JwV1V3MWRibnU4aGhsSXhtZjBwcVJa?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 03:52:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "3 killed in Idaho In-N-Out shooting included a man known for helping others get sober - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZ2J5eWEwWktqLUh2S0h5OE1SNHJGNnhKVTdCM3U1Zjh0OWtOQ2ZXZkx6ajMxd0JtckJRNWd1WE8weXZPNHRXa0JHQlgxTkdZNG44eGREeFdvOVBFMVMzRUtXLTJsaU8waHVqc1l1NlZLMXNDdEFuV0ZuWnMteUlwQ254OHUxek42cF82aVNXWnJtUWR4WGZF?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 01:31:00 GMT",
+          "title": "Capybaras keep their chill while crashing Brazilian legislature - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZVhXTjNaaVZSZVc0dlg2RWV5OGZqTGlNaGFpMGRPazYySHRCZWVvZGdKeVFUZUx0dUpRV1RLVTV3SGFSNExLLXZsblVjQzBHYUl0RTJEdmFYT1pYY1NNemdnR0RNeWUzb3hvMG83OW5VWHkxa0xBXzVYd0hmV2kxVFowTmxQZk1SdDA5QVVZM05jcHJzSXc?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 03:17:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Firefighters scramble to contain fires outside Athens before winds and high temperatures return - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUzVRb3NORnl2Y0JsUVZGbm1HNktoLUdQSUNzTjdzUEZLT2NfMGQzaWZkRW51cGU3Sm5iWGdpNWFURmJoWFFjbVlsRmlsWnhWdlA1MWdmMXgwRktDa3BYRjcyTk1mLVlSS21leFIxVkgyX1dXYUhzX0l6VlY5STlZem1wNHVidHliYldBQmNMZVdIdC0teXZGVTNrVE4?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 03:15:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-05T04:17:25.678Z"
+      "updatedAt": "2026-08-05T07:16:59.483Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Taiwan launches major war games to test command flexibility - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdDZTVDVpUk5LTEl1NmJueDZtSkNwUlllcm1rZmFNUnY4Ml9hb1MzUHRaQ1Z4N1pFUXhyQjJ1YmRaa3hNLThUMEFNOGVkS0RZbmxzZ3pWUDdlM2pSTnN1RGdpZGRvQjNwbzFEVnVRXy03WWNkVjRwV2sta0gyQnhIWWNXN2tHYUNETTdUSDFtTFAwbU5zQ0w0WDFXZktxaENEdmFtWWZiUQ?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 03:02:00 GMT",
+          "title": "Mexican influencer Cesar Gastelum shot to death during livestream - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMTRMVHpXRkpKRUNEY3MzR3Z5SV9YcDk0UVJyNmxWcGR2ZzBWYjBtRjRMN0o4YVdTRm40bWNTNHR3UnJDamE1V0c0Z01WUFRyUHRoRlNvWi1vQXRJMkdpaUs0Vkh0M0MtcTlWcW1rdWIxY2ZDazk5OHZLalJIS1N5b0lqS1V6UVBUbXdFQXJtWkJCYTlLMTk1ZzRWNWRfZVF2U0pJcDRxbGU1RTFHSURCTTJSbw?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 05:31:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Indian shares likely to open higher ahead of RBI rate decision - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVVdvczY0a3k0cFBWYWNRLXVWTUZudDE4Z1I3TG5lSWxLQUx4aHkyMkcxY01aYlk5V2hVMUo0cVRUOG40b2JXYW5kWjFBdXRiYTJFWmt4enA3TTZEYzNLR0tyblpsZzFrVk9SZTd2c3VaZjFCcGppYThwaDE2NTVZRm5fMkVhS180VllpSEhObG9tVWxHM3Y2RXFhb2F3elkxa21nWktHYw?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 02:03:00 GMT",
+          "title": "US and Iran having 'very good discussions', Trump says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUFpfZEh3NVhNLURNVl9ETWp2ak5nZEx4d0JYQ19WZ3Z6bTl3V2wyUzVLQmFnTkJrZTZtVXd1cnp2dkdXUmh0d1FXUmhfbGQ1a3dKY1ZzQ0pXQTdUcS02X1llNkdFbzFLN0k2YXk2X2JEUTVCV1RBeGdUaFA2VGFzSW9LYlRDQm5senFDSzFVRkxHaXdSazRBWUlTT1pjY00yU1Qw?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 05:11:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "EXCLUSIVE: Samsung, SK Hynix test Chinese chip tools as hedge against US risks - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeU9NVTFKTDhzZ3Rxa3dWbk9vSktaSE5xd3p3TG5KTlpNRFpLY0IyNEZuRzVTWFV0LWx0LURCdkRvcjdCVE9pU3lGSktXampPUUtZWExRSlNLZ0pzU2thX2pXQWRDLVBUd2JYRGh5RGplLWdsb0tOek8zdXk5elBiZlZwbTd2X0dDSU5hWFRKWHBLZkUteDBSR2VndEpxREMwYTUzY1pJcllRSUZPci1vOQ?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 02:02:00 GMT",
+          "title": "US presses on with Ukraine Patriot missile talks, sources say, despite Trump's doubts - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMkpnYUF2THhmeU1oTWlVZDhlRDBFZ05MMEExSXk4Sldrd3BZQ01ZTUpTc0tsbW5pYWJrcThGSkpXbkhWZHVvSzRYRjV6X3cyanUxQ2NKVXlxUkxFYXFtXzhQZlJCMV92dklHUzk5ZlZ4SUVhdElSX0VuWDBPYkdGbEtKS3NsVVhWUk80SUI3UzZ5cGt2LVh3bFRkeDNOa0F0T0d2NVhSUHFILXFUcjR4c0FjSVNzS2o0RWlZUHF4eWhYQ3ZSZmoxY2l2WFhETTgtYlpQNWJyNk5kUQ?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 05:02:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "China AI hardware stocks slump after news US plans to ban imports of Chinese components - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOU1dRTlJ3dWthcTVkQnd1NFVJTFZSeHV4TXNiZlZOaVlNa1lSNFVnQWZxZkxEQkV2NGZ3YV8wZ21mbjhRYUg3Z05nci1Ua3o1M0FyTGxIT0VLXzhYUlFpajhQVEEwYmFuZnhZNjZPdjdPcFh2elVnNlFvdVZjYlVTNWU5M21VempmYUVMSzNNMURjeEtwcFFUa2NvY2MwYVE1M0k2RDVpTFR1V0VGUVBBNHNaRkQ3UzlhX2FMUDJFNXpOX1RVU2ZZRQ?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 01:42:00 GMT",
+          "title": "Morning Bid: Semis fly again as AI capex shoots the moon - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1fOW9GVnJQVXQ3T1ZBYXpVbFNlYVB2UnliSmV4V1FDNTduM244Z0paV1hqT2Z2dXZlMnlLYl85UU5pWFRiU0pMamd3dXo3eG85eXJVQ3pBU3l6TkpscWpPVW5neFVFb09WZmRpSmVJbThRVVdaZWlXdjVGNkpqWkU?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 04:32:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Asia shares surge on tech mood swing, oil retreats - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSjNOaFJhdXRJblJMNldJM09LeFJDOXNqY2Y0R3dhcGt3S1ZyNm1peFdvVlBfN2RrNmtCYVhQa3pzenI5VlBld2c2Y0JPLTAzNWRhTWxUYWxjNEpvWGxIYlR3M2NLdGg5RnpRSmtYVVVwamJfYTZ5S1JaQ3J5QjFEQ3B0WQ?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 01:37:00 GMT",
+          "title": "India's Manipal Health jumps on market debut, valuing hospital chain at $9 billion - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONmdFYUZRNUp2VGQxTUx2alFNb3VTQ1NtUFpnYW1XOHF4YzBvYUE3a2hlSDJONkxWVmkyVXlUejRQYzAwUDhjWnhMeHgydUZNSFNFVHd5THFaazlqV2U0eWJaelJlYmc2ajhCMUhGdG44MElqWHJiSVVxYjctMldNRjNscV9nOGhyZEVEMHN3MVBXTDhNNDlNMUs1c0JRZ0RTbk5UTUY5bHV6LVhHODhCWnJxaV9sUERuTENfOEdURHIweXdiOVZKV3ZrV2hLSHNXaHNsZnB3?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 04:25:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Oil steadies after two-day slump as investors eye Hormuz traffic - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZDd2cFJ5Z2dsbTliajVMY1o5eVQ3Q3djdGVaYXA2aVhJQUROSVk5NmVjSkUydkw0YUItOGI1VFl1Wl9uZVY2SWhZLVZZY2hFTTFyaEoxM0otRWQ0Vzk4bjdEV18yYkhQS05GUzQ5dHdsY0wwemg4cG53dnZkVmx0M1pMdzl2cDk2MDBlZlN3ZVY0RVMxU2JNcE5Ta2Nrd3l4OVpvTnlIY0hscHRpOUozRVpDUQ?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 01:26:00 GMT",
+          "title": "EXCLUSIVE: North Korean missile unit deploys in Russia for Ukraine war, Kyiv says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaFRSNUJ4Q1ZaYlI0cVl1UjMyRHBNdE40MEYtTGJ6YXplZTdyTG9XTkRDSzg3NUNhUGVTTkY3c1I1MThScU1pZF9Ta1hDYzlHeklKZU8xVTdpUE5xemw4eU4wcUxBUXQ4N1VmMTMxM1N1dXo0SXNMWklQc21EeTFUdnpvTlF4QXRlNGpQM1FySkQ5eDhCWDRLVDVRd1VlaUlpUmtuRS1TVkNEOXRhalVyOXF6VUhFM0JxdzVMaUlXWkpNM2s?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 04:02:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "SpaceX plans next Starship launch as soon as this month, catching it on land - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNm52RmJwblIzWVRhaXNpTWhwOHp6QTJNdS1KeFk2NnAwbDNpOGhOTFhHRGZUak81QkYydElTeVdqVkJmMzhvQ1VUM1BId0RXS2ZwNHV3TXV1RWFBcWRQdlpNd3dEY01UT3FPdGIwYWl3WU9WaXNtenNadGZPS0Noc0pvY2Y1SDNLNEE2eEpxWk9oaGp4YjdfazdFSV9KYktJa3llX0x6NWp4UW50dTBJUW0zeHJxUTVkT2NCeVlpTEc2Q3haZGpmSA?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 01:13:00 GMT",
+          "title": "Taiwan investigates 17 Chinese firms for suspected poaching of high-tech talent - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaDlqbTVGTWxVWW8tZlRpZTJmU19RUU1ZVmphRVRlQk9HM0M3djViemRMeEFSTFI2RHV4QUFFMXJyMUtWYWVMLXBDNDVEeDZTX0tSX3h5aWI1WklKRzNuUEdQaWJ2UmtJbkc1dHRwY0pWdU1EcWlLR1pZdmN4Ui1vZVdpNnVGR3FxOWpaV090Uy1HaEpUQjBWZnpMTk9QYUROLUI4dkU0OENpTklJU3U2RmE2NnpyZGd3c3dOenhKenNtQW1PRlE?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 03:28:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Qatar says mediators make progress in efforts to end US-Iran war - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaUY3M2pidURfcVlodzZaVEctbGNSYS1rNlJrR21pQm8yVm50U05QSmRlWURQWWh5UklWZUVMVmlRdzhmbVJrN05IdVNXVW83T3l1TUo0ZjJTMzNURzlOdmNMM2YxY2JwVHQtby1aTFVfZmFnSjRFT0hSaHlzeW50XzNPcUZROG13MUxxNVMwdGd3UkR2cTgyeURHNERQWlUxeFJYR1ln?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 00:56:00 GMT",
+          "title": "Gulf shipping traffic steady amid uncertainty of peace talks - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaWpxYUZIYkdaMkhoNVRrM2ZkZ3NYdWh4aUJEb2pOa29zOFBROGFHdmxwNDZZOHhicHpOOGVlS0FGTC1QdHR4UmRVbmtacWZrc3J4empuUEt5dDNSZTJRb25obllvdEFaQTVQV1B1Q05wRlpwdVpVaEJHZW80MTBxWmViU2d3V0psZHMxMENsV0x3RzBJWXpZV0hlc3MyeWxSQ3dmZllIZzRkaGNvb2ppaQ?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 03:04:00 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-05T04:17:26.116Z"
+      "updatedAt": "2026-08-05T07:16:59.888Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-05T04:17:26.298Z"
+      "updatedAt": "2026-08-05T07:17:00.220Z"
     }
   ]
 }
