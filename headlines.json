@@ -1,13 +1,31 @@
 {
-  "generatedAt": "2026-08-06T00:53:27.609Z",
+  "generatedAt": "2026-08-06T04:17:46.437Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
+          "title": "Meta says AI model accessed the internet and hacked another firm",
+          "link": "https://www.bbc.co.uk/news/articles/cx2kgdnyk2po?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 06 Aug 2026 02:33:33 GMT",
+          "source": "BBC News"
+        },
+        {
           "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
           "link": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 06 Aug 2026 00:32:42 GMT",
+          "pubDate": "Thu, 06 Aug 2026 01:19:59 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Banned from football at home, Afghan women's team reunite 8,000 miles away",
+          "link": "https://www.bbc.co.uk/news/articles/c8dnrpmgv4yo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 05 Aug 2026 23:28:06 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "AI or real? BBC analyses viral China disaster videos",
+          "link": "https://www.bbc.co.uk/news/videos/ckg9d2egn11o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 05 Aug 2026 22:00:32 GMT",
           "source": "BBC News"
         },
         {
@@ -33,28 +51,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cvg9j8820v6o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 05 Aug 2026 19:02:06 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Watch: 'Scariest night' as Ukraine fails to intercept Russian attack",
-          "link": "https://www.bbc.co.uk/news/videos/clyxdgx7m8no?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 05 Aug 2026 19:00:32 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Youth protests have weakened Modi, Indian activist who went on hunger strike tells BBC",
-          "link": "https://www.bbc.co.uk/news/articles/cn7nkyr1j7ro?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 05 Aug 2026 18:38:46 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives",
-          "link": "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 05 Aug 2026 18:19:51 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-06T00:53:26.426Z"
+      "updatedAt": "2026-08-06T04:17:45.220Z"
     },
     {
       "name": "NPR",
@@ -109,7 +109,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-06T00:53:26.527Z"
+      "updatedAt": "2026-08-06T04:17:45.379Z"
     },
     {
       "name": "AP News",
@@ -117,7 +117,43 @@
         {
           "title": "Michigan Primary Results 2026: Senate, House and Governor - AP News",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB5eTdZMjVBNkZFTmFOWWRXeWIyX093LU15X1c1SEt6MG5CU1ZobWM0d1ozTk0tMUgzT3ZEY3IyX3dRd0c0UEJSYm9pVWNEY2FIWk9ZZng5QzJYQmpnQWE1Y1czUHR6ckxITEJkMjJmZllYR1AtLW1F?oc=5",
-          "pubDate": "Thu, 06 Aug 2026 00:50:58 GMT",
+          "pubDate": "Thu, 06 Aug 2026 04:14:58 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "How Abdul El-Sayed went from political oblivion to progressive breakthrough in Michigan Senate race - AP News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOb21OakF0VFB5eUd5WV84MmZLTDJUaTA5SjhMbjVKX3pOMGczZWE0X2tjZkplbV94TkJjejZNbmpVNkREc242Zk9MTDI0SVhid1ViUjVucFpIazNGdld1a2pHY1JvaEZfZjE3YmlVajlLU0pJV2FfMVdYbVl4cmttRGVRQk1JYXY5VVVjS2o1TzhRY3A0SkJZd0FjVC1tRmFX?oc=5",
+          "pubDate": "Thu, 06 Aug 2026 02:39:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Investigators look at why a plane was allowed to take off as President Trump's helicopter approached - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONE5raWVJWkRoTjlxeFdDMU5BYnAzUUNJQndWendKTkpSNDYtT181VzFYZVZlV3g4Zl9hZGtMYzhjbHRPc0lWdUIxY0RjSWdrZEQ5SDB0a3JqWW5EaEpKR2dUYWd1c3hTV3JOWk4wVWJ4WFd0MXFOcXNfaklrZlVvdkoxTlVZN085dGpPLVVfRlB6WjlOX3R6bzA4VVlpcXFxd3RqVg?oc=5",
+          "pubDate": "Thu, 06 Aug 2026 02:37:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Ousted Bangladeshi leader Sheikh Hasina says she will return from exile in December - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRTN0TDMxMDZncFBJckVJUnp3THVQOHJjbm1CVWxnd3NMc25TLTZXZFJadDZTLWJhcWdDUEFUcGtQeC14VUM2SkZjdUdyYzV6cF8wVkYweUhCcFMyWVdneXhoeWEydS0zNGxXR3JWZVBPcExnTEVXTmxydGhKUEdwLTZUakliNmxwcWVQZ0dZOFAzLWJ4?oc=5",
+          "pubDate": "Thu, 06 Aug 2026 01:52:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Firefighters get a handle on Spokane wildfires as tens of thousands remain evacuated - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSEVDRzljTDRYNUR5U2dwV3Y0d1NMbC1ObjJkMUVYZkhFelR5RFRuMEZXM2w4SXMtME9pYlE0ekwxN0U1ZFZqU2JyNkVVTXluaGEwVlcwTmZBWjRfN3duSDRDaF9lWFNvZEl4dXBkYzc2YnZVSjhPd2NCaXJPYk16dGhWdl92QnVwSHlBZkFlcjA5eUxRcmpfNzdHeGtWMEtQalE?oc=5",
+          "pubDate": "Thu, 06 Aug 2026 01:45:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Missouri Primary Results 2026: House - AP News",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBwSE1heVN0eHdFTlQ2WTEwS1pidVZVMU1hMmJHalpMQzd2X1NJMFl2UkdwOS1NNzRRREpnVHBSWmp5WWQwWXZRM05sVEZ5Rkd1c05hRUZ2d0dRQzBzNDFPMGwwaTQzZVJ3eDc2bnFEOTNNWmlnSEpr?oc=5",
+          "pubDate": "Thu, 06 Aug 2026 01:43:58 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Kansas Primary Results 2026: Senate, House and Governor - AP News",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBlNU9UXzg1R3MyWXI0UFVURE0wTUhzVElYT3Zfc0ZPSktIc3N6OHJnX3gxaG9iV3FRWFdqM0t4QlNic01zSTBPSEdrQTc1UWRhd2NESTlScjJYRVZDNmhCYk1yRXpQVEdwLUQ0dXNubEdHam5W?oc=5",
+          "pubDate": "Thu, 06 Aug 2026 01:04:40 GMT",
           "source": "AP News"
         },
         {
@@ -125,50 +161,44 @@
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcXpENFpMQ0V4N2VNNW9aXzJoWmV5V0R5U2t1QmY1OUFuSmQwcUIxb0x2aUZIdk9WWFFVc2RZM0NHSnh4eFhiekFUdWNjWDVkMlFkdzVCSXJaQnVyNmUtazRkVk1fUHVtc2w0N19OQnNTQV9XV0FqQUF4anhhNmhybkp3TF85NTY2MXR5MW9scDNrYWswN244QTBDRXFIM0E?oc=5",
           "pubDate": "Thu, 06 Aug 2026 00:36:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "How Abdul El-Sayed went from political oblivion to progressive breakthrough in Michigan Senate race - AP News",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOb21OakF0VFB5eUd5WV84MmZLTDJUaTA5SjhMbjVKX3pOMGczZWE0X2tjZkplbV94TkJjejZNbmpVNkREc242Zk9MTDI0SVhid1ViUjVucFpIazNGdld1a2pHY1JvaEZfZjE3YmlVajlLU0pJV2FfMVdYbVl4cmttRGVRQk1JYXY5VVVjS2o1TzhRY3A0SkJZd0FjVC1tRmFX?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 22:57:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "AP Exclusive: Trump's immigration crackdown has detained more than 50 military spouses and parents - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORnozbmNJWkxCLUZVcG1RTzhucVVaeHFYMndzTTZKcWhsUUZ3cDcwaFRrN0JpRDFGaTZLYUc1UnNieTZDNDI1bjZQMk5MNUZ6SW9qUWw1Wk5hbVBfbENzM1ZrZkk1U1ZEMU05MjFkTjJMaERSTlItX19lX2FCUVhfSVhmMHdpYzB5Qk4yTVRnUE5McDc0eXRFWVZmWHB6Z0laMWdWWXFoZmZXamZ3aDBBVGhCdw?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 22:49:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Pirates cut ties with veteran slugger Marcell Ozuna after a nightmarish slump amid playoff chase - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUDdMZnd1UXZVQWhxYWt4TEVfOGJlUFR5NGxSZmhRZzkzb21hTFIwMG44eHY2cF8zYkJtWTVjVHZsNHJwUnQtYkZzTF9rcnB6ZmM0dHRHVFR2dVpCLXc2UmxtNmxjRE9RY2NlN0M3UjVST3lKRUthbnFJT19LZ1ZnRXUtNy1FUG5aRnIzdVd1ZGZOdUhzbFlNLU93Z1NpTjFqU3FWTERkVQ?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 22:45:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Scientists are certain a wayward SpaceX rocket slammed into the moon as predicted - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcm4wTWJvdk8tSU5TcE51eDdzQXBVNUUtbzhoR1M5eGJZUDlQSUZjd19RMWlUZWJBZGxEM2pyR0hJeDh5VmNpaEctQWotUU1WM0pzVW5sZ1lIdDNXdU5wdk5DT1ppLWtOZlVYcE51M0tnbkJISEJNc09OM1ExTHZSSm1XTnR0V1NtV3Rray1BSFRtbGxRVTZuLTRR?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 22:04:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Nanny says Lindsay Clancy appeared to be a loving mother before killing her 3 children - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQVJkYjBFMFJvQXNIQTB4eVFYM3h5aUxsenhBNmd3Mkx2QlhRdnpFSDVMOGZPRXFPbUR2VE5UV1pQWXhha3lqSXRFWmc3NEFzekNzcGJ4aGF4cXp0ejBiX2NHQ3RPOG5SRzhwakxaU3l2eTMxUHZXaHFtZFUtTFNtc3Q3R0NNNmtOMTkzNDJUbVozSy04QXB1ckdHWDNZZlVNY1BDUUtR?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 21:37:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "State of New Mexico sues Justice Department and Todd Blanche, saying they blocked its Epstein probe - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSXg4LWN6Qk1RMUpFSG9jOUhnOFFLVFFKOW51SmdCcXRLVFBFVGd0VTJQelcybEVhSzRfcGxROWpVTHZCZUNnUnhjN3FrNVl6Q1VjOURSZVhkYUVvQjRDeVQtSFA0LTR3RExQQVo0SXpFNW92cFJrZHlZTFlWc0dlTkc4LWVqVWRVM1dxcw?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 21:36:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-06T00:53:26.976Z"
+      "updatedAt": "2026-08-06T04:17:45.901Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Gold touches seven-week peak on Strait of Hormuz reopening hopes - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVWd6ZjFIZXZHQ2JsNi1UdXBvS1JIUm0xYWtjaDQ1UXVOczhzTzZLNEY0ZTRtb1l5N2lrY09ERHFySlMyakJJNndhRUx5M0FabFZ5TllJZWZPU05na2VqMkRVckJ2VndLdUlFUGd1NklHQlN6V1VJUzRxS09jUmtVVWhMTGRuVlN3YzctZjhBWVI2UUZkQkJqZ0NvdF9uQ1I0RGtCNVNORThqQQ?oc=5",
+          "pubDate": "Thu, 06 Aug 2026 03:50:01 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "New Zealand PM Luxon open to referendum on electoral system - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNU3lHWkpyc1pDU1AwOFBEbHJhMk0ycjYxNzlDYWQta2h6SnJmRWYtZjl3dE1mRnNtQ1lOSHFBR0RpU09BYTdxa0w0Q1lFVTM1ZzljLVRDS0JiVDlkQmdlQW5VNV9CMlNqeW9zeFBlMU5CY1RNZWF1bVBka3ViZ2MtdEYtYWhUS1I0dUJLZnBkeXJ4bENKNzY2R2RKOHRPSzk3eWNQS2dGR3ZXaG9v?oc=5",
+          "pubDate": "Thu, 06 Aug 2026 03:09:26 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US FDA approves first mRNA flu shot from Moderna - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdkZQalpnY19jQUQySC1iT2VOTDVZV2JRZTdjS1Zxa1pkdi1HUnl1ZnQ3UkVNN2RYcXhSZDRZSnBNVFpMakIyVlV2bS1RNFp4ZzY1QmxjRXlkSEoxMUZBLTliYUF3VUsyOWNzSVczdk42N05LLTdjem1rczlnOVlqQ0dON3lWTE9iZHotcDQtZ2paa0pWaHVGZmxrNmpKd3BqWThXblNPNzE2QnFiS2QtQ3d2ZnNqdw?oc=5",
+          "pubDate": "Thu, 06 Aug 2026 02:20:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Asia shares ease on tech pullback, oil stable as Iran talks stay in focus - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcE5UZ1dJanFrQ1hFUUNWWmM2N2cxckRKUFYtOHNLUHhtVkdpLXpmNXZjeVMzd2dycVUxSmVlNU54aE1DLVFnMmY0VnVsZk1IT1puQVQydHlUS19RNkVhRXlfbU1fdlhIZ0tORnBOWHl4a2dUZFUyZFpoUzZuZDFkUFZucw?oc=5",
+          "pubDate": "Thu, 06 Aug 2026 01:27:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Oil prices slip as Iran-Oman talks fuel hopes for US-Iran peace deal - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTmw0WV9PeEJVU0pBczd6UzhWSjdUMlQ2aDhwUGxDbWdvc3hMakw5d3h3Q2wxMXNRakctZjRlTW8wNi1PNnU2eDY0anYxakZYSkZBSVN6SUhJOEF4aW1HSTVnUWREc3k2dFBvUEl0azM4TXFoV1I1S1pJRVlVUm1SakpIeVFqM0wxS2gtMDFvc3ktZ05QYjc3VXRtSHdsNk9hLWUwb3VxTzBFcVhBeUx3Zm82Zw?oc=5",
+          "pubDate": "Thu, 06 Aug 2026 01:07:41 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "New Mexico sues US government for access to Epstein files - Reuters",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVG9ib19KSGJURU1OMzJXSVBTdnZrNThocTdMc09VSzViQ2RLR2lMWUM1SXEwZ1NGZTFGTXhFZ0E5UHQ0a2xnZHVYLWVxVU5FbzBnOXRsOGlYVzFhMkc4cTY1Z0tJSVFHSllLYjJnYVhQV2h1cWxIRE1mUFNfTzhsUUUxVXFwTndOSUdubzExanREV1JMa3RWaFd0Z2xMY2sxRjNmTmhB?oc=5",
@@ -182,44 +212,14 @@
           "source": "Reuters"
         },
         {
-          "title": "FIFA apologises to members as Infantino holds crisis meeting amid stake sale fallout - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSmJPenJsYUFVUXJVNXRDN205US1NQnlqbFJ6aW1Pb3RNNlE0MHY0V2prVnZTVVlIQ2ExM3Q1WHp5bEpqa01UVHlHRDdZRXJlSTlTa3Z5R2hFdENLaUtRYnpMZEVhYWFfZE53X3V0eE9YMmM3QlBWamlvb0piMFU5U29Yb0ZVZ01acXhlZGE1Rzl4by15ZWdCUnUzTE0yc3lkWmdTZk9tUnJQUnRzUGdzVFJlT3lKQjlnZVd3Sm5vVQ?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 22:57:55 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US cyclosporiasis probe linked to lettuce widens to 15 states - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZ2cyRFd3NjVWVjdBTkc4MElfeFZhdFlzZFZfS1NyRGthNXZxcEt4Q2ZFZTVMSzhBSWptanVYcHdRQlVSSGd2VVI0UW1RYVdZRnJOMDZHRGpMbWF6VHpSZDh1Z0VFNmFDZmZOZUNwenVNWC1paEJ3SmhlaDNUQzduWE9EUm5VaWo4bHJzS1RnazZaMVhSMHVsU3UtQ2lFS21XXzZVd0dCVWY1UnZKdVVyZG52VkdTV25EZFh6VmpkWkU2QkIwQUdraDBYLTFtQ0ZyZUpMRmozcTRrQTlQaHc?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 22:43:50 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Spain's Ceuta seeks transfer of unaccompanied migrant minors to mainland Spain after border rush - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNamh6Wi15cnNtQ2dJZ3BZV1A1YTRsaG5MbHNWcW9nZi1qVm5lVGpYdlVqTE1JLWZ3VGZtNzBSTTJERXh3a0QzSmFHdnVua3htUDNhbF9WdVVwMUgwRUhxWUFvZUVDbHktb0lnaTBVeTIyVVhiZ21zREtaZkQ3eFFMUTdxSzJsQ05GRkhrMzNLMUlWNzJQdlJLeGJVcVI3MFNjWS1MMk9tYTlIbEpQOUMtYkg0N3NoT051cldQcHh4cmlMRUtN?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 22:41:31 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "EXCLUSIVE: JPMorgan CEO Dimon leads new cross-industry effort to tackle AI risks - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX1NwcnBhX3JkLWQ4NWJtbE9kUUctUWZnR1RhQ3FXQnZGX25fck5vZFo0YW5aV080SlVDdU0tYnFpeTViVV9QTEZXTFhlc2gtdENsczA2ejdjYUlPLVdVYTZ5cUk3R29WUEM3c0VMbGNlbndfMHcyWmowS0lCeTVkZEVVWF9ERGNFQ2tfQzVJenpfY2tjbGRzS1FySXNNU3FBcWk3RmxuamFtRW44?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 22:38:55 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Meta's AI model hacked another company during testing, The Information reports - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOc1VqeGo0bjJGSmZQNEpqOWkyMjdCd0F0ZDlnZFZab2xwX2hwM1lCc3RoLWpTRF96ZlI3SHNnMVNoTWFzY05Sb2FrbG9hQmNhNlJCUS10VjJHYUtUSkt6NHJ3d0hSNGREMlVPUUR5WkUyRjRFU014eU5uM1dpbHgwUFZTUTFwV2Z1dFl4SzItQUFxWkRJdHN3TWRxNTRuUGhtb1liMXFvbFotdDRJTHU3T2hhTHlvQjBNcTE0?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 22:30:41 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US refunds $100 billion in tariffs struck down by Supreme Court, filing shows - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNM0ZqSGY4RWVab20xUFVXUEV5eFJiZGtVdGV5QWhweEZsSjdaZWR3MEREVzBOVUdTLVo0UFNwTHVXZDJmcmMzMUxLUW9PN0VOT2RaZm5LQ1llS3dMbVRkZFpvRXNLTWZkVDM3UUI0NkkzelpMQjZEZERtQldqcjR1SmFBa2F0Y2xZTE4wR3JrRHd0eU1WT2NjektpR1FaLTd6QVB6LVI2ckVjNjh2cElmZUxOQ212Znp1TWkzcWZ3Y29tTEU?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 22:24:55 GMT",
+          "title": "Mexican jalapenos tied to Salmonella outbreak in 27 US states - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSHRrVG01QTZrRnhhNTExRXZOdlNZZ1gwNlRwWFV5cXI1LVdDZkdrbncySkxoUlUwOEVkVFdZUFNWTnRteDJ4c0I4NjUyVVFsYUNKeU1NS3lXM3VEU3FFLWZDY1BrT2hDM1JwMEpRZlM4amVVTkF5b0czMmFQRXFUYWRJSnItSExMTWZsX2IzaHA2UnIyZ01nTFk3MDFiTFlnaHA2ckhvT3hXcExfd1FZMjJGekdxVWdYY1MyVENZa184UFhhXzJPR19JcWJYblJD?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 23:02:00 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-06T00:53:27.430Z"
+      "updatedAt": "2026-08-06T04:17:46.312Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-06T00:53:27.609Z"
+      "updatedAt": "2026-08-06T04:17:46.437Z"
     }
   ]
 }
