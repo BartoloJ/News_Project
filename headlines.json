@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-08-06T10:11:04.024Z",
+  "generatedAt": "2026-08-06T12:27:21.268Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "Indian journalist Tarun Tejpal sentenced to 10 years in jail for rape",
-          "link": "https://www.bbc.co.uk/news/articles/cx2v551w9v8o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 06 Aug 2026 09:49:24 GMT",
+          "title": "Man charged with killing Scottish aid worker in Greece",
+          "link": "https://www.bbc.co.uk/news/articles/cj6390k0e26o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 06 Aug 2026 12:25:05 GMT",
           "source": "BBC News"
         },
         {
-          "title": "Afghan boxer accused of killing Scottish aid worker back in court",
-          "link": "https://www.bbc.co.uk/news/articles/cj6390k0e26o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 06 Aug 2026 09:12:39 GMT",
+          "title": "Indian journalist Tarun Tejpal sentenced to 10 years in jail for rape",
+          "link": "https://www.bbc.co.uk/news/articles/cx2v551w9v8o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 06 Aug 2026 09:49:24 GMT",
           "source": "BBC News"
         },
         {
@@ -54,13 +54,19 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-06T10:11:02.949Z"
+      "updatedAt": "2026-08-06T12:27:19.681Z"
     },
     {
       "name": "NPR",
       "items": [
         {
-          "title": "How deep-rooted medical bias creates deadly consequences for addiction patients",
+          "title": "El-Sayed wins Michigan's primary. And, Fauci faces contempt of Congress vote",
+          "link": "https://www.npr.org/2026/08/06/g-s1-137574/up-first-newsletter-anthony-fauci-erica-schwartz-abdul-el-sayed-las-vegas-economy-stewart-rhodes",
+          "pubDate": "Thu, 06 Aug 2026 07:30:59 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Hospital staff said he was faking it and released him. He died from an overdose soon after",
           "link": "https://www.npr.org/2026/08/06/nx-s1-5845162/addiction-treatment-overdose-deaths",
           "pubDate": "Thu, 06 Aug 2026 05:52:45 -0400",
           "source": "NPR"
@@ -100,30 +106,24 @@
           "link": "https://www.npr.org/2026/08/05/g-s1-137523/ousted-bangladeshi-leader-vows-to-return-from-exile-despite-facing-a-death-sentence",
           "pubDate": "Wed, 05 Aug 2026 16:43:29 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Small Texas law firm set to receive $150M to represent unaccompanied migrant children",
-          "link": "https://www.npr.org/2026/08/05/nx-s1-5922451/150-million-contract-to-represent-migrant-children-awarded-to-trump-texas-law-firm",
-          "pubDate": "Wed, 05 Aug 2026 16:23:02 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-06T10:11:03.027Z"
+      "updatedAt": "2026-08-06T12:27:19.847Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Michigan U.S. Senate Primary Election Live Results 2026 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZlo2TEIzbk95cldwdmxxbEg5N19zM2dvVWFuY2lnaGI2ZU9nR0xOZ1hDUlFlcHUxbVFpUWpzcWJmN19YLVBtbUJIOFJla3hCbmpjRTRBMzVvOFhWbGhJaFpUUnJUdTVhbjRoZzc4ZngwbGFTOWhPbVhiMXc0eC1jYnU0Wms?oc=5",
-          "pubDate": "Thu, 06 Aug 2026 10:02:49 GMT",
+          "title": "Testing is underway on vaccines to intercept brewing colon cancer before it takes root - AP News",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcDlCQWtGenE2cTJRUWZtUkRnZjE3Y2NRZ0Z5WjRHT1pidGpnZVJYRzBCb1laWUk5bTlWRUJISmxnOW9fZHIwTjBPUzRVdlA1LWpxZzdZT0M1OGpNUDl5eE5CUXdzYkZNOWltSFJHZ3BDREQ3M1kwejJBRHhMUkNyaVdtYmFwaEpOaXNzT0ljRG1meFUxeWJIVzRyR19uZw?oc=5",
+          "pubDate": "Thu, 06 Aug 2026 11:00:00 GMT",
           "source": "AP News"
         },
         {
           "title": "Michigan Primary Results 2026: Senate, House and Governor - AP News",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB5eTdZMjVBNkZFTmFOWWRXeWIyX093LU15X1c1SEt6MG5CU1ZobWM0d1ozTk0tMUgzT3ZEY3IyX3dRd0c0UEJSYm9pVWNEY2FIWk9ZZng5QzJYQmpnQWE1Y1czUHR6ckxITEJkMjJmZllYR1AtLW1F?oc=5",
-          "pubDate": "Thu, 06 Aug 2026 08:50:33 GMT",
+          "pubDate": "Thu, 06 Aug 2026 10:32:33 GMT",
           "source": "AP News"
         },
         {
@@ -145,81 +145,81 @@
           "source": "AP News"
         },
         {
+          "title": "New images of the sun show its surface in the finest detail yet - AP News",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZDJjRnY5akxQcmV2bnVVNHFkLTFCX1poTjNmZDVOU0JocUhrUHIyMlJsZjliaWtqZjJiYmN6c2p0X2JZV2ZoNzQtZlRhOUowSTk1b284a25meGVId2hBWlRLUktFVk0zUXlFUHhQWXVfTzc3ZXB3djBSN2tORW51NVcxNnIyU0ZTaGk1ZEhEOWx5YkV3NkstSXhFb0k3LXdqWG5HZGRxZW9ldnZPd202Zk9vaGFUclU?oc=5",
+          "pubDate": "Thu, 06 Aug 2026 07:35:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Senate panel to vote on holding Fauci in contempt for refusing to answer questions - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc0dtOWZGUmVJbHhldC1KMkpOUENBYlV4Q0pxN0x4VFVkbkt4MlhJTjJZQUt3WnUyLWpDZ3FpWG5ydTl3TXZYOFczdTNZQW5GOWd4V3ZVM3dHRVRjOS00R0s4aVJBbTNsYWc3UFpSdk5LYm5IckZuUWRMVUs0ejRJOGdMUmxzTGt1a0xjc2FkNWpWRnkyOHNWbA?oc=5",
+          "pubDate": "Thu, 06 Aug 2026 04:07:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Kansas Primary Results 2026: Senate, House and Governor - AP News",
           "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBlNU9UXzg1R3MyWXI0UFVURE0wTUhzVElYT3Zfc0ZPSktIc3N6OHJnX3gxaG9iV3FRWFdqM0t4QlNic01zSTBPSEdrQTc1UWRhd2NESTlScjJYRVZDNmhCYk1yRXpQVEdwLUQ0dXNubEdHam5W?oc=5",
           "pubDate": "Thu, 06 Aug 2026 04:02:57 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Trump’s IndyCar race: Doing 200 in a 25 mph zone with manhole cover-displacing torque - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTnQ4Mjd2THFTVFBoem5ZSXNaVVNnb1VGM19ERUw3OXY5SEl6MXZic0tVd3JaV1FEdS1SMzc4VS1iZXJVQlRla3BuRzFpQWpGc2JWYTJxRGtzWkE0bGtjRlJRMklGNUJfWlVacGo2dGdRUWV1VXlxblFhV1FBZ3lkUHplb1FZbU5WSHJLeEpVTjEybzFOYXdvbWdjX1I?oc=5",
-          "pubDate": "Thu, 06 Aug 2026 04:01:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Drone with explosives found at German airport, official sees ‘new quality’ of threat - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTm92MmlFQ2hMRDlGRmM1cHk3ZlVIR1locXM5cjFvTEpVR3EtNnM2el82eEtkQWlQbXVDM3JhNkh3Nl90eERjbGF4Q2ZoVjU0eGxvc2dDeGxrd0JLX05oN2ZDMF9kNGJkRFJuWGVSdldCRTBieEV5MVJseTRqYW9OVHZZUkpNQmt5V19ZVElfYUVDTjN4OGlwbjhPUHVGSFFyenc?oc=5",
-          "pubDate": "Thu, 06 Aug 2026 03:21:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-06T10:11:03.474Z"
+      "updatedAt": "2026-08-06T12:27:20.425Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "EXCLUSIVE: Congo bans exports of copper, cobalt concentrates, official order says - Reuters",
+          "title": "EXCLUSIVE: Sinopec steps up Russian oil imports to offset Mideast supply cuts, traders and tracker say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNldJczB0MXMxMnZEaExVV3M1T0ZTM3JxUG1Fci1GVGNMaFd4c1ZsQnh0enBKVUdoSXJScU9aVDgzaFpqTkl5NEZ1LUlTQzhXWWRodjZDU25JeExHLXJDNXNnZ2IyOGxKXzZHaHBRVXczS05wY1JsdU5UcllxVjR4TnNkVXU2RzdIaDhrN21zaWhhYlJOeXJ3cGh5T0hSeGItVlVzbWhGY19MU2JMcEFjdUJrdUQyd2NFVVF3S0Q5R2NsMVAwMnQ1ZXc0SQ?oc=5",
+          "pubDate": "Thu, 06 Aug 2026 12:01:10 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "At Trump's DOJ, watchdogs gutted as misconduct complaints soar - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWXFjRnlDblJRWndwcHF6N293dXV3X21LaVcxVlVXYm9mc2hva0VGazY4Z3Q0Ri1rMDlpYTM1SVQ5RlM1SU02cFpKakI0amppc3Y5dG4xRDJ5T216Q194eUxvSDBZbXhQOHpLUFFELWRjdTM1MjlLM1FwaXc3UjI2WmVwYU9tWXdFZGlyY1FFNmM0ZjMtY2ZiaHBTRkg4N0xCMXdpLW1XOVZENU0?oc=5",
+          "pubDate": "Thu, 06 Aug 2026 11:38:44 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "EXCLUSIVE: Congo bans copper and cobalt concentrates exports, official order says - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVDdLQjduWTlkYVlwaUdCYzMxODBIRVZKTkszM2xWTWxkVVBVajVGVjlDT3BtWC1JUnhpYWFMUVdqZ1NCZUV1OXR2NHlMYmpxR1VoTEFpZkwyY1p0aWJTQnhiek5wNjBWRkVmUTZiRGs1S0p0dUtxckZELTAzZ0VtY2xRSktBcEdhNjZPbjZ3Q2JhN3A2N1E2UTJDMlk0NkxpVk1KS1NPYUkyZ2UyaVkxVjlwQzY?oc=5",
-          "pubDate": "Thu, 06 Aug 2026 09:01:43 GMT",
+          "pubDate": "Thu, 06 Aug 2026 11:22:53 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Gold hovers near seven-week high on easing rate hike concerns - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVWd6ZjFIZXZHQ2JsNi1UdXBvS1JIUm0xYWtjaDQ1UXVOczhzTzZLNEY0ZTRtb1l5N2lrY09ERHFySlMyakJJNndhRUx5M0FabFZ5TllJZWZPU05na2VqMkRVckJ2VndLdUlFUGd1NklHQlN6V1VJUzRxS09jUmtVVWhMTGRuVlN3YzctZjhBWVI2UUZkQkJqZ0NvdF9uQ1I0RGtCNVNORThqQQ?oc=5",
-          "pubDate": "Thu, 06 Aug 2026 09:00:38 GMT",
+          "title": "Sandisk, Western Digital drag on chip stocks as lofty expectations eclipse strong earnings - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOanUtdEozZmZGZVoxTGJtbG4xOTJ0Y21LY1luYmxjMjBaRlBiY2xzV2d6ZVdwM3YwYUVsNGgtUHljR2tUbEhyNjZtNHBrYkJ1VVN6enVweS1peHZ0TVg5a3dpVkVrSjE5QjJaQi1vbGRyaThjbFdjNWNNaG1ZdzFoSmt4Y1pTQ1FiWjNQNDJnX3lBamdYbXpUcnFXbndxdmMtcDRIZElUNDNQMml2REt2OERLWmlkUm1sank0?oc=5",
+          "pubDate": "Thu, 06 Aug 2026 10:59:21 GMT",
           "source": "Reuters"
         },
         {
-          "title": "In Taiwan drill, armoured carrier takes president to command centre - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbDV2MzIwS0NJWE13dDJXNW9GR2x5R3BySnZzZUZvU3NkdzVfazlzQWdhX2pDaDNLSG9keXUtaTVTanlXbEhuX0p4LUZQQjUxclhaVHliQ1drblBYZWhxWHBGVnJmZzBYREpKU2Z1bTlTNTlROUhCYVBtTlg4MEFvWmJZZllFWlVwQUFmYTNCcGxtLTJURFJ6ajNZaE5EeEtOTGFGWk9SWi1vZlVo?oc=5",
-          "pubDate": "Thu, 06 Aug 2026 08:19:43 GMT",
+          "title": "How the new generation of left-wing US media is powering progressive candidates - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWTRPY0l0SF96SVZ1NWNqamhHN0VoUC1rbmNWU2s0VUoxRUE3bjQwV05hYjBrMktYbTVZbzVpS2d6OGtFbjY4enNzRUUyYjBnY1N0TjNGZWhTcGw0VTdySnFJbEFwRHJVWHc4eWtxaFdSaTlyRGMwY0IzWFN5TGJ0Y1lWX010dWVYNEVqZGxOel9hbUJHMmplVnZUTXZGaWgxdXB4U1hvb0lIN0FMNEtlN3lWSW5fYmthay05bVQ0X05HaklPZ1FqVVFCSQ?oc=5",
+          "pubDate": "Thu, 06 Aug 2026 10:56:47 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Armenian church leader to go on trial in widening confrontation with government - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObmhRWlJxakZNbGtrUllUdXJlRk5icUlDa0U2cHVCVVowekNoUUdGMlRUU0ZZNXE1NnlabTNkTG9KSmxkQ091aVdoa0g4Q21leERPQW1BZVdWdzBoNUlEdTZGNDBlU3VsSVpxZ1d6RlBBd05fa012LXNBQzFmZWQwWTRyOW9ma3pvNE9HN1RScjJXUHo3OXZ1WmpkbWNBMDZJR2tZYnowVm1QNjRobGt0cm1B?oc=5",
-          "pubDate": "Thu, 06 Aug 2026 08:11:43 GMT",
+          "title": "As Iran war drags on, Americans are bracing for more chaos in Middle East, Reuters/Ipsos poll finds - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMXI5TE1EUEdoRUpxYzZfdDNOck5jT29pcUNLdnl4TjE2Q1Y1bnlkZS02MmFzY25KUUwxTnZxNTVxWTQybmkxUExnUWN4OXdTT2xCR3RDcmU2eHpZdEhIMWU5QURfWjl5eDNQaGliMUlRYVhYdEgxY1hPbU1zOS1rTXhRX1F2MjRaajl5cmw1Y3ZrSUpBQnNKMFFWV2E1bHN4NXR3cEFwSWJhMjN0bkxkcFV1UmNiNFpKMjdLQ3REbEt3Z1dUbXB2TlU2MA?oc=5",
+          "pubDate": "Thu, 06 Aug 2026 10:56:07 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Google’s $15 billion India data centre project battles water, wildlife concerns - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOGJ0bjViY3QwQ0xySVgtVHMtRjNiM3JvVTNOc3hNQWFkNzFFMmdoRjU0LUdYRlZvWmZtTzJ0RUJEN20ycmZqWklGNWVJSWdETGt3d1hLeGtzbzlYMFNUMkZDc29sdTEyMXE0WmUwQ2lxM1lSWUhQeVhQYlZ2dnlZR2RBVWJ2bkdiU3JFVVRQZHlDc0FpYW9EX0VIQkEwSTVyMUdkSlRvWkRDa3BUbURwWWlpUjJJdWlUWmNpT0tNeGRwSVhJejcwMXRYOA?oc=5",
-          "pubDate": "Thu, 06 Aug 2026 07:58:24 GMT",
+          "title": "Trump's tech ties blamed for AI inaction by MAGA Republicans and Democrats - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObXVRelpoYlFMckQtbW8wV3NQbTBrT0w4RV9XcXBSRm9LR1BhUXNTZkc3LXV5RXJkUUNJdkJCR0lQakRrZWY2MUhVeWJMNWVKUk96cEVVNWY3Q1Q0cFNMWFQ3clo3TkNDMW9GTE5HMUdDdk9FLW1yWjd6U3ZmTHh3SEpSNjBGYmZlZ1U3OXcyT1hMeThhalcxTVk3SnhFOERaOE9hZjVzbTQxa0QzZlpzdGdDYkRrX2pBOVE?oc=5",
+          "pubDate": "Thu, 06 Aug 2026 10:48:26 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Israel strikes south Lebanon after soldiers killed, talks continue in Rome - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORWNLdnd6QTJNaVRGaG5aOVJqRjBnOFAzT05ubjAxY2dya0luUWg4Rk5xZU5KOXF2aEEzY3pQcDlLWXhvQmlNcXBKMTk4M09lWHFqM0ltOXlyeXdxQTFVRTZTTDR2Rl9pNFlDQm1PdFhpRE1zc1hhTzQ2MkZPR0lFbmZ4WXVLRzVLcmdOLXc1QVhUNm1GQlY4MWgxekxSM1NtOGNPS0tlbnJlSDRybFdZNFlqM2k0b1NNeWFaZA?oc=5",
-          "pubDate": "Thu, 06 Aug 2026 07:55:06 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "What we know about North Korean forces joining Russia's war against Ukraine - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPck5RYzRha0ZtTldodHlHZENRNDVadTRPNGoxblhlYmNsOG9iUzhlemNsSFZ2RDZqLUVJWHRTQXluejluUW04Rks5M3l4ZDd1OXBWeVpwODFfRjJHeFlPN2d2S0RSbjFXZkVBWDNmTGZfRFpCWkF4ZTJ4ZlJoRDBVSkhTbHR0UmJEQTduQ3Jra2ZueHhQalhxZXBVRXNBb3NuLWgyRktBM1czU3lrdUNVZndZNlBrXzJjbFlsdS1yTnF0amdiQndQNlVCWWd1WUxQWncw?oc=5",
-          "pubDate": "Thu, 06 Aug 2026 07:50:02 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "ByteDance founder tells staff to avoid AI distillation, The Paper reports - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ042eTRfNkJSQ3J2M2JLampONk5fRVo1N0dlSnhjeEtFMURhRFRfb3VncnhPYl91MHViUldYYzB1WUtZbUI0VjFWMGRRN0R6WTNvZGpmcmkxMFVKMUR5WDgyOU5mRkYwZEhnbHIzbGJKS0RmOVZmYmM2MmZibE9LeTVpemp5NnNMSWU5Zk9ZRVFtemgzcmhuTzR6eDFhS2NuNVlnVGlGbnNuMm5sZ2J3WGlHSQ?oc=5",
-          "pubDate": "Thu, 06 Aug 2026 07:20:15 GMT",
+          "title": "Oil traders double down on Iran deal bet as odds worsen - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYTlrUTg0TjljZzBlaVJyRkJnS21MLU9TblltYU1oUm1NLVRqX1NnVEZvM2ZCTlMwXzBtUWk5cE1pSE5ZTnFYeGVtZjNZcnBlaU1iRHdfYlVzN3pyd0VYM3ZXRTJzcHhUYlNMT1ZmRU15eHhqZi1FNkpKa04waEk2YXA2X2QtUVBKcmZtMjRkWDd6anFaQzBJeXlhUXZmZTZxYUxYcU4wUjFNUnliUDk4YWVRb2FCZTFmV1FHQnFWck8wd0k?oc=5",
+          "pubDate": "Thu, 06 Aug 2026 10:45:49 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-06T10:11:03.903Z"
+      "updatedAt": "2026-08-06T12:27:20.922Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-06T10:11:04.023Z"
+      "updatedAt": "2026-08-06T12:27:21.268Z"
     }
   ]
 }
