@@ -1,23 +1,41 @@
 {
-  "generatedAt": "2026-08-06T07:18:05.043Z",
+  "generatedAt": "2026-08-06T10:11:04.024Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "Outrage as Ugandan football captain murdered in street gang attack",
+          "title": "Indian journalist Tarun Tejpal sentenced to 10 years in jail for rape",
+          "link": "https://www.bbc.co.uk/news/articles/cx2v551w9v8o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 06 Aug 2026 09:49:24 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Afghan boxer accused of killing Scottish aid worker back in court",
+          "link": "https://www.bbc.co.uk/news/articles/cj6390k0e26o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 06 Aug 2026 09:12:39 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Iranian footballers who defied Tehran become Australian citizens",
+          "link": "https://www.bbc.co.uk/news/articles/cn5nlgxv6vdo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 06 Aug 2026 09:04:17 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Air India's new CEO faces financial and safety turbulence",
+          "link": "https://www.bbc.co.uk/news/articles/c9987kkrnl5o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 06 Aug 2026 08:18:02 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Outrage as Ugandan football captain beaten to death in street gang attack",
           "link": "https://www.bbc.co.uk/news/articles/cm2g0038yr8o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 06 Aug 2026 06:04:28 GMT",
           "source": "BBC News"
         },
         {
-          "title": "Indian journalist Tarun Tejpal convicted in rape case",
-          "link": "https://www.bbc.co.uk/news/articles/cx2v551w9v8o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 06 Aug 2026 06:00:27 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Meta says AI model accessed the internet and hacked another firm",
+          "title": "Meta becomes latest firm to say its AI hacked another company",
           "link": "https://www.bbc.co.uk/news/articles/cx2kgdnyk2po?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 06 Aug 2026 05:53:58 GMT",
           "source": "BBC News"
@@ -33,32 +51,44 @@
           "link": "https://www.bbc.co.uk/news/videos/cd7l4zrr2qlo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 06 Aug 2026 04:59:30 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Rihanna is 'in the studio', says partner A$AP Rocky",
-          "link": "https://www.bbc.co.uk/news/articles/c4gwvvw9k1xo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 06 Aug 2026 04:44:22 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Nigerian security forces rescue more than 300 abductees",
-          "link": "https://www.bbc.co.uk/news/articles/cn4ndd8nr8lo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 06 Aug 2026 04:35:33 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
-          "link": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 06 Aug 2026 01:19:59 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-06T07:18:03.844Z"
+      "updatedAt": "2026-08-06T10:11:02.949Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "How deep-rooted medical bias creates deadly consequences for addiction patients",
+          "link": "https://www.npr.org/2026/08/06/nx-s1-5845162/addiction-treatment-overdose-deaths",
+          "pubDate": "Thu, 06 Aug 2026 05:52:45 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Celebrity culture is one thing. For TMZ, Congress is the new 'reality show'",
+          "link": "https://www.npr.org/2026/08/06/nx-s1-5922731/tmz-congress",
+          "pubDate": "Thu, 06 Aug 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Gianni Infantino gets internal support at crisis meeting to remain as FIFA president",
+          "link": "https://www.npr.org/2026/08/06/nx-s1-5923233/infantino-crisis-meeting-fifa",
+          "pubDate": "Thu, 06 Aug 2026 04:52:16 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Morning news brief",
+          "link": "https://www.npr.org/2026/08/06/nx-s1-5921225/morning-news-brief",
+          "pubDate": "Thu, 06 Aug 2026 04:43:07 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Senate committee set to vote on whether to hold Fauci in contempt of Congress",
+          "link": "https://www.npr.org/2026/08/06/nx-s1-5921383/anthony-fauci-contempt-of-congress-vote",
+          "pubDate": "Thu, 06 Aug 2026 03:16:22 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Drone with explosives found at German airport, official sees 'new quality' of threat",
           "link": "https://www.npr.org/2026/08/06/g-s1-137571/germany-drone-explosives-airport",
@@ -76,66 +106,42 @@
           "link": "https://www.npr.org/2026/08/05/nx-s1-5922451/150-million-contract-to-represent-migrant-children-awarded-to-trump-texas-law-firm",
           "pubDate": "Wed, 05 Aug 2026 16:23:02 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Dr. Erica Schwartz confirmed as CDC director, filling a leadership vacuum",
-          "link": "https://www.npr.org/2026/08/05/nx-s1-5920379/cdc-director-confirmed-erica-schwartz",
-          "pubDate": "Wed, 05 Aug 2026 16:00:24 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "How Trump made an estimated $2.2 billion during the first year of his second term",
-          "link": "https://www.npr.org/2026/08/05/nx-s1-5919997/how-trump-made-an-estimated-2-2-billion-during-the-first-year-of-his-second-term",
-          "pubDate": "Wed, 05 Aug 2026 13:41:17 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Judge reluctantly dismisses case against Oath Keepers militia group over Jan. 6 riot",
-          "link": "https://www.npr.org/2026/08/05/g-s1-137440/judge-dismisses-lawsuit-oath-keepers",
-          "pubDate": "Wed, 05 Aug 2026 13:14:46 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Pakistan's ruling party leads in Kashmir vote despite boycott call by banned group",
-          "link": "https://www.npr.org/2026/08/05/g-s1-137449/pakistans-ruling-party-leads-in-kashmir-vote-despite-boycott-call-by-banned-group",
-          "pubDate": "Wed, 05 Aug 2026 12:06:06 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Under China's new 'unity' law, Tibetans fight to preserve language and culture",
-          "link": "https://www.npr.org/2026/08/05/g-s1-137436/under-chinas-new-unity-law-tibetans-fight-to-preserve-language-and-culture",
-          "pubDate": "Wed, 05 Aug 2026 11:26:43 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-06T07:18:03.924Z"
+      "updatedAt": "2026-08-06T10:11:03.027Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Michigan Primary Results 2026: Senate, House and Governor - AP News",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB5eTdZMjVBNkZFTmFOWWRXeWIyX093LU15X1c1SEt6MG5CU1ZobWM0d1ozTk0tMUgzT3ZEY3IyX3dRd0c0UEJSYm9pVWNEY2FIWk9ZZng5QzJYQmpnQWE1Y1czUHR6ckxITEJkMjJmZllYR1AtLW1F?oc=5",
-          "pubDate": "Thu, 06 Aug 2026 06:37:40 GMT",
+          "title": "Michigan U.S. Senate Primary Election Live Results 2026 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZlo2TEIzbk95cldwdmxxbEg5N19zM2dvVWFuY2lnaGI2ZU9nR0xOZ1hDUlFlcHUxbVFpUWpzcWJmN19YLVBtbUJIOFJla3hCbmpjRTRBMzVvOFhWbGhJaFpUUnJUdTVhbjRoZzc4ZngwbGFTOWhPbVhiMXc0eC1jYnU0Wms?oc=5",
+          "pubDate": "Thu, 06 Aug 2026 10:02:49 GMT",
           "source": "AP News"
         },
         {
-          "title": "South Korean police raid local Starbucks headquarters over controversial marketing campaign - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPREtBajVqcy1MR25DVTJILWFVOXFFSUw4eThVaHRTSXdmQ2N6enpXR1ZpcmNrYUxpeVBNMFBGd2R0YkFjcXktdndfRGJGSWRUYnZKcm5BTklTejFjSlNmYkNja1lLYlNyTHdaVzY0Uk1fZjRzQ1VjakUzazhUbURtMU1mRWw5a2gtd0F2cDNydWlEMTV2WThDS2ZpWQ?oc=5",
-          "pubDate": "Thu, 06 Aug 2026 05:52:00 GMT",
+          "title": "Michigan Primary Results 2026: Senate, House and Governor - AP News",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB5eTdZMjVBNkZFTmFOWWRXeWIyX093LU15X1c1SEt6MG5CU1ZobWM0d1ozTk0tMUgzT3ZEY3IyX3dRd0c0UEJSYm9pVWNEY2FIWk9ZZng5QzJYQmpnQWE1Y1czUHR6ckxITEJkMjJmZllYR1AtLW1F?oc=5",
+          "pubDate": "Thu, 06 Aug 2026 08:50:33 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Gianni Infantino gets internal support at crisis meeting to remain as FIFA president - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTUUzblFjVFRKQWlxYngzbXZvcllLWG4wVHo1LW9ZNk5NLU9WVmV5eXhOdEo4a2tEcklkbzZzaHpvT3NBM2NVTjd1MWFWc2lzcW1QWG5vbmxoMVdMZUZVS1duZGdkMDRZRUtydzZYYWZEd2lSeUJ0ZjMwR09oaWxHUzM3UWcwc3pnY0hKdGlZTFdPZGhJR0Vz?oc=5",
+          "pubDate": "Thu, 06 Aug 2026 08:25:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "This organ will play one composition until 2640. It's redefining how slowly music can be played - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNU3ZsMXhFNUNUQkpXbjVGeERmX0dDX3NNWjFRRjNYSGl3SHNHZWsxdTFPMU44WHZaQUFkczEteFNxaC1MaUV6aFRKc3BOV2YwT2tMUXBnblZkOHhhdkRONGU0aVJvVi15azVsLTJocXlkZHkwM2tPV3ZfcVJqWjRkWnpWZFliSlRkd2FlRmh2MWNzc0t4RExMZUtGam5kQTc3N1g5VlRVajBNaEE?oc=5",
+          "pubDate": "Thu, 06 Aug 2026 07:51:00 GMT",
           "source": "AP News"
         },
         {
           "title": "Missouri Primary Results 2026: House - AP News",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBwSE1heVN0eHdFTlQ2WTEwS1pidVZVMU1hMmJHalpMQzd2X1NJMFl2UkdwOS1NNzRRREpnVHBSWmp5WWQwWXZRM05sVEZ5Rkd1c05hRUZ2d0dRQzBzNDFPMGwwaTQzZVJ3eDc2bnFEOTNNWmlnSEpr?oc=5",
-          "pubDate": "Thu, 06 Aug 2026 04:50:04 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "France is banning unsolicited telemarketing calls starting next week - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTkVZd1JFZExYNHlPd1o5Tnctb2FZTm5vMUlHM21EMXhKOTY1c3RSWWxwZHBpWE1iQjFLd2JoN0RwaVRUckJvTl9LLThnN005VW13QXVTUjZFUjJwc19ldnFfLS03U2Q5eC1hekJQdGtzeWF0aEN4dGxtRklLUEdieGZyYUJnQ0tMLWxZUXI4OS1PZG1EYmZBT1FsdnY?oc=5",
-          "pubDate": "Thu, 06 Aug 2026 04:38:00 GMT",
+          "pubDate": "Thu, 06 Aug 2026 07:46:38 GMT",
           "source": "AP News"
         },
         {
@@ -151,75 +157,69 @@
           "source": "AP News"
         },
         {
-          "title": "Ousted Bangladeshi leader Sheikh Hasina says she will return from exile in December - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRTN0TDMxMDZncFBJckVJUnp3THVQOHJjbm1CVWxnd3NMc25TLTZXZFJadDZTLWJhcWdDUEFUcGtQeC14VUM2SkZjdUdyYzV6cF8wVkYweUhCcFMyWVdneXhoeWEydS0zNGxXR3JWZVBPcExnTEVXTmxydGhKUEdwLTZUakliNmxwcWVQZ0dZOFAzLWJ4?oc=5",
-          "pubDate": "Thu, 06 Aug 2026 02:59:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Federal judge lets Utah enforce its anti-gambling laws on the prediction market Kalshi - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObVV3SFN1dkFyanRJZzJ5S0dZVXd1Vi16Qy1FZVNoRXdfTlAxdjloRW9OdTNQdm1xemtEVXdPZE9BdHJsUmVZZzI5Ym1aRndTOGpvbF9GMjF4QXlLdVpTamVpdGRiYUVlUkgwQWdzdFNHU0FGbU1vbF9Wb09lVzFJUWY2dC05Nk0wUGx5Tm5tYXg3aHB0bkMyTTFVOFU1X25qekE?oc=5",
-          "pubDate": "Thu, 06 Aug 2026 02:52:00 GMT",
+          "title": "Drone with explosives found at German airport, official sees ‘new quality’ of threat - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTm92MmlFQ2hMRDlGRmM1cHk3ZlVIR1locXM5cjFvTEpVR3EtNnM2el82eEtkQWlQbXVDM3JhNkh3Nl90eERjbGF4Q2ZoVjU0eGxvc2dDeGxrd0JLX05oN2ZDMF9kNGJkRFJuWGVSdldCRTBieEV5MVJseTRqYW9OVHZZUkpNQmt5V19ZVElfYUVDTjN4OGlwbjhPUHVGSFFyenc?oc=5",
+          "pubDate": "Thu, 06 Aug 2026 03:21:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-06T07:18:04.349Z"
+      "updatedAt": "2026-08-06T10:11:03.474Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "OpenAI asks US judge to dismiss Apple's trade secrets case - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSmhWTlh0eU9takRMMExHYjRRTmNmMm9EcFVlUXJfdzg4Qnc3MWdmWWJXYUJOaDcwWFlTRmFWZGhTd2NKRzlnY2V1RFdmWENIWFNSV2Z5ZVV5U1JOaEZGdlV3MGdZSjFIclhjbTdtRkt6c2ZyWHMxQkR4UEFRV1M4bmgwd0FDZ2JaeWJhM0pCWlRWUTAyVzZTbElOSDk?oc=5",
-          "pubDate": "Thu, 06 Aug 2026 06:11:00 GMT",
+          "title": "EXCLUSIVE: Congo bans exports of copper, cobalt concentrates, official order says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVDdLQjduWTlkYVlwaUdCYzMxODBIRVZKTkszM2xWTWxkVVBVajVGVjlDT3BtWC1JUnhpYWFMUVdqZ1NCZUV1OXR2NHlMYmpxR1VoTEFpZkwyY1p0aWJTQnhiek5wNjBWRkVmUTZiRGs1S0p0dUtxckZELTAzZ0VtY2xRSktBcEdhNjZPbjZ3Q2JhN3A2N1E2UTJDMlk0NkxpVk1KS1NPYUkyZ2UyaVkxVjlwQzY?oc=5",
+          "pubDate": "Thu, 06 Aug 2026 09:01:43 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Russian strikes kill six in Ukraine's Balakliia, Sumy, officials say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQmhCZDZqOXo0djFjSU9LMTFqNkdBT05UcmFabWpWcW9HWmJqbTQ5VGtTWVVmejlsTUFZaEo1M1Q1OUtwc1BlMEh3bjNOdEtPSzV1blAwa1hRRkRIOXE2ODhPT0VVd0RybmVzQTNUZldLUUlwV3JTUnVLMUJfQXBxSHdPaWhheVc4czNHZm52RzBPWHlmSDdyZVM4eTJpYnJLR00zUkJTazBma0djVFAyWA?oc=5",
-          "pubDate": "Thu, 06 Aug 2026 05:23:00 GMT",
+          "title": "Gold hovers near seven-week high on easing rate hike concerns - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVWd6ZjFIZXZHQ2JsNi1UdXBvS1JIUm0xYWtjaDQ1UXVOczhzTzZLNEY0ZTRtb1l5N2lrY09ERHFySlMyakJJNndhRUx5M0FabFZ5TllJZWZPU05na2VqMkRVckJ2VndLdUlFUGd1NklHQlN6V1VJUzRxS09jUmtVVWhMTGRuVlN3YzctZjhBWVI2UUZkQkJqZ0NvdF9uQ1I0RGtCNVNORThqQQ?oc=5",
+          "pubDate": "Thu, 06 Aug 2026 09:00:38 GMT",
           "source": "Reuters"
         },
         {
           "title": "In Taiwan drill, armoured carrier takes president to command centre - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbDV2MzIwS0NJWE13dDJXNW9GR2x5R3BySnZzZUZvU3NkdzVfazlzQWdhX2pDaDNLSG9keXUtaTVTanlXbEhuX0p4LUZQQjUxclhaVHliQ1drblBYZWhxWHBGVnJmZzBYREpKU2Z1bTlTNTlROUhCYVBtTlg4MEFvWmJZZllFWlVwQUFmYTNCcGxtLTJURFJ6ajNZaE5EeEtOTGFGWk9SWi1vZlVo?oc=5",
-          "pubDate": "Thu, 06 Aug 2026 04:09:00 GMT",
+          "pubDate": "Thu, 06 Aug 2026 08:19:43 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Emerging markets get a hard lesson in tech hype - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYUhlRWJfTW1lZGw0WmUtTlUtbFc5bUNGSEVjdldCVGszSEFCSlZXZ2plek8wa2tNYzFybE5ELWxDRDNKUE8welloeUtLVURDMUdpUDVfZkMzZWVJRVlLdFV3SnRsdTZ6bzdxWVl1M2JoZmhOeml6S3dWaEJCc3E5cEhlSDFQdndxUWxMbkdzMEIyN3RMRERpOXlHdw?oc=5",
-          "pubDate": "Thu, 06 Aug 2026 04:02:00 GMT",
+          "title": "Armenian church leader to go on trial in widening confrontation with government - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObmhRWlJxakZNbGtrUllUdXJlRk5icUlDa0U2cHVCVVowekNoUUdGMlRUU0ZZNXE1NnlabTNkTG9KSmxkQ091aVdoa0g4Q21leERPQW1BZVdWdzBoNUlEdTZGNDBlU3VsSVpxZ1d6RlBBd05fa012LXNBQzFmZWQwWTRyOW9ma3pvNE9HN1RScjJXUHo3OXZ1WmpkbWNBMDZJR2tZYnowVm1QNjRobGt0cm1B?oc=5",
+          "pubDate": "Thu, 06 Aug 2026 08:11:43 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Trump reiterates his positive portrayal of Iran talks - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYkljYWk5RVFGOXRJR0hycTRVWW1CTGZ6aFFlcU1MLTlJTUVMWFVvMDVmRm1qTzZyZ1RWaE92S1AzeE1QZHdTZFd0aFkwQ05oVDllUmlScmNtM2xPcUlJalE3Nk1Sbm10cGNjcEZOblcwbTdWTVNYVEFObVNIZzhJV20yUkVVTkFQQ2hlNGxobi1KVzZvQzk5Tm9IVQ?oc=5",
-          "pubDate": "Thu, 06 Aug 2026 02:55:00 GMT",
+          "title": "Google’s $15 billion India data centre project battles water, wildlife concerns - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOGJ0bjViY3QwQ0xySVgtVHMtRjNiM3JvVTNOc3hNQWFkNzFFMmdoRjU0LUdYRlZvWmZtTzJ0RUJEN20ycmZqWklGNWVJSWdETGt3d1hLeGtzbzlYMFNUMkZDc29sdTEyMXE0WmUwQ2lxM1lSWUhQeVhQYlZ2dnlZR2RBVWJ2bkdiU3JFVVRQZHlDc0FpYW9EX0VIQkEwSTVyMUdkSlRvWkRDa3BUbURwWWlpUjJJdWlUWmNpT0tNeGRwSVhJejcwMXRYOA?oc=5",
+          "pubDate": "Thu, 06 Aug 2026 07:58:24 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Indian shares muted as weekly expiry sets stage for Sensex swings - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbXVDUWUzWmlqS09tY3VqRWhJVE8wQUYzUUxHaVNhQWp5NUJIQWFIc19hNXR3TXZjM3dTaFdIeGJkWUtlT05RbDJJdmR3YmduNl9XY3phU0VPNVl3M2xFbXNUM1lUREJZQ0pOWkpJSmp5NkVOTUREdi1IREtPMzhYQlB2a1hVN2t1SDBWb0gwUFBONjZkMElmcTRmODE4YzY2cktyc2xfcWU?oc=5",
-          "pubDate": "Thu, 06 Aug 2026 02:43:00 GMT",
+          "title": "Israel strikes south Lebanon after soldiers killed, talks continue in Rome - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORWNLdnd6QTJNaVRGaG5aOVJqRjBnOFAzT05ubjAxY2dya0luUWg4Rk5xZU5KOXF2aEEzY3pQcDlLWXhvQmlNcXBKMTk4M09lWHFqM0ltOXlyeXdxQTFVRTZTTDR2Rl9pNFlDQm1PdFhpRE1zc1hhTzQ2MkZPR0lFbmZ4WXVLRzVLcmdOLXc1QVhUNm1GQlY4MWgxekxSM1NtOGNPS0tlbnJlSDRybFdZNFlqM2k0b1NNeWFaZA?oc=5",
+          "pubDate": "Thu, 06 Aug 2026 07:55:06 GMT",
           "source": "Reuters"
         },
         {
-          "title": "US FDA approves first mRNA flu shot from Moderna - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdkZQalpnY19jQUQySC1iT2VOTDVZV2JRZTdjS1Zxa1pkdi1HUnl1ZnQ3UkVNN2RYcXhSZDRZSnBNVFpMakIyVlV2bS1RNFp4ZzY1QmxjRXlkSEoxMUZBLTliYUF3VUsyOWNzSVczdk42N05LLTdjem1rczlnOVlqQ0dON3lWTE9iZHotcDQtZ2paa0pWaHVGZmxrNmpKd3BqWThXblNPNzE2QnFiS2QtQ3d2ZnNqdw?oc=5",
-          "pubDate": "Thu, 06 Aug 2026 02:20:00 GMT",
+          "title": "What we know about North Korean forces joining Russia's war against Ukraine - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPck5RYzRha0ZtTldodHlHZENRNDVadTRPNGoxblhlYmNsOG9iUzhlemNsSFZ2RDZqLUVJWHRTQXluejluUW04Rks5M3l4ZDd1OXBWeVpwODFfRjJHeFlPN2d2S0RSbjFXZkVBWDNmTGZfRFpCWkF4ZTJ4ZlJoRDBVSkhTbHR0UmJEQTduQ3Jra2ZueHhQalhxZXBVRXNBb3NuLWgyRktBM1czU3lrdUNVZndZNlBrXzJjbFlsdS1yTnF0amdiQndQNlVCWWd1WUxQWncw?oc=5",
+          "pubDate": "Thu, 06 Aug 2026 07:50:02 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Yen and dollar drift on Iran deal concerns, payroll jitters - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT2VsMnRGWG5QTmNmeVNLM21MZHV1dkdiRnBOWnNrZUdicjNhZTB3M3JjLTdJVGk0VTc4VjhEUkxtdUpGZ0J5bV9BMklYVWhSb1lMQkFlWk1JRm5SY3BmcU1tUkhUbWNaRGZDUHhNcW42RU1QZ0Y0ODdxWXZSa1l4OWxfSVlhMEx1ODdCZUI5UlJRUUpmMEJ4Z3lFOERXVWFXRGRjV3h1MjRlQQ?oc=5",
-          "pubDate": "Thu, 06 Aug 2026 02:01:00 GMT",
+          "title": "ByteDance founder tells staff to avoid AI distillation, The Paper reports - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ042eTRfNkJSQ3J2M2JLampONk5fRVo1N0dlSnhjeEtFMURhRFRfb3VncnhPYl91MHViUldYYzB1WUtZbUI0VjFWMGRRN0R6WTNvZGpmcmkxMFVKMUR5WDgyOU5mRkYwZEhnbHIzbGJKS0RmOVZmYmM2MmZibE9LeTVpemp5NnNMSWU5Zk9ZRVFtemgzcmhuTzR6eDFhS2NuNVlnVGlGbnNuMm5sZ2J3WGlHSQ?oc=5",
+          "pubDate": "Thu, 06 Aug 2026 07:20:15 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-06T07:18:04.736Z"
+      "updatedAt": "2026-08-06T10:11:03.903Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-06T07:18:05.043Z"
+      "updatedAt": "2026-08-06T10:11:04.023Z"
     }
   ]
 }
