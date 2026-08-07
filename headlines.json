@@ -1,9 +1,33 @@
 {
-  "generatedAt": "2026-08-07T20:48:47.528Z",
+  "generatedAt": "2026-08-07T21:44:52.055Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Hunter Biden tells BBC his pardon was 'not good' for America or his father's legacy",
+          "link": "https://www.bbc.co.uk/news/articles/cy8ey458pv5o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 07 Aug 2026 21:32:30 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Watch: BBC asks Infantino if he will resign as Fifa president",
+          "link": "https://www.bbc.co.uk/news/videos/c0ejrdzx98wo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 07 Aug 2026 21:24:17 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
+          "link": "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 07 Aug 2026 21:19:27 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "What is birthright citizenship and how common is birth tourism in the US?",
+          "link": "https://www.bbc.co.uk/news/articles/cn9nz5qwl8jo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 07 Aug 2026 21:09:51 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Kidnapped rare Serbian eagle freed into wild after rescue",
           "link": "https://www.bbc.co.uk/news/articles/cdewxgw69exo?at_medium=RSS&at_campaign=rss",
@@ -17,12 +41,6 @@
           "source": "BBC News"
         },
         {
-          "title": "Watch: BBC questions Infantino over backing as Fifa president",
-          "link": "https://www.bbc.co.uk/news/videos/c0ejrdzx98wo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 07 Aug 2026 20:12:26 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
           "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 07 Aug 2026 17:42:54 GMT",
@@ -33,28 +51,10 @@
           "link": "https://www.bbc.co.uk/news/articles/clylejzkkx4o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 07 Aug 2026 16:13:45 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Seven killed after Thai student opens fire at home and school",
-          "link": "https://www.bbc.co.uk/news/articles/c980j3j578do?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 07 Aug 2026 15:51:16 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Mexico and Peru restore diplomatic relations after asylum row",
-          "link": "https://www.bbc.co.uk/news/articles/cz7dy1l3e77o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 07 Aug 2026 15:38:28 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Trump administration to pay German firm $1.2bn to halt US wind projects",
-          "link": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 07 Aug 2026 13:32:41 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-07T20:48:46.474Z"
+      "updatedAt": "2026-08-07T21:44:50.674Z"
     },
     {
       "name": "NPR",
@@ -109,70 +109,94 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-07T20:48:46.539Z"
+      "updatedAt": "2026-08-07T21:44:50.943Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "US job market stalled in July as employers cut 23,000 jobs, delivering political setback to Trump - AP News",
+          "title": "More than 50 bodies found improperly stored and decomposing at Chicago funeral home - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOT3gyLUtoTnpnQ2hTMVZQRWp1YjBHYTdqTjNXQTFTeElWLU90OWxFanJzXzY0SFhuT1QzMEthaUdVU00tWXBsYTV4Sl90VVloWWlTTnduREMwQ3l6NkxNUWVRSndTdHI3VElyMlFpZ3dNcklHVEYzbkpLdEpWeWhCTDBIamZnNElTZVRwWnBKVmJVUVl5dlVhQ3lpLVlSeHMw?oc=5",
+          "pubDate": "Fri, 07 Aug 2026 21:09:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Appeals court rules Trump can’t build White House ballroom without congressional approval - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQ2Y1LXVndW1CYTZLREtONjNaUGhlamYtSU9GYWM1T3RsRF9fWVBSWnhOMGxVQ3Ywc0lmdzNrY05NMDN3cHc0bXhPS3Z2ejRZdVp2dzN2Q0wzYmNQUnlCakNZTHlaZ0xRU09zYnpGWVZFdmttTzNfeWZpRm5QdWExR2d5ZnRYcVdXdXZiWXRtUW0?oc=5",
+          "pubDate": "Fri, 07 Aug 2026 20:56:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "ICE will release body camera video only when seen in the agency’s ‘best interests,’ policy says - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbTlxdHJMbVc0R0xRU1VNcFJIb0VIMEhnMlQ5d0d3MEFweEhjMDhWLTNOMEFla1RSRy1LM2FBakszM0dnaFY2NTlvMGJxTXNJWTVyTGZsSURHUWZMekJGUzhMU3AxRkRzMW5nWVktekxCMmZsVm0xR0ZhRDJqVjJyb0FDeTZYd0FURmJIZlFid1l5dVlpbURnUS1LSQ?oc=5",
+          "pubDate": "Fri, 07 Aug 2026 20:17:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "US job market stalled in July as employers cut 23,000 jobs, delivering political setback to Trump - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeFN4Y09saFA1TUZ5TFdRWGpSb3NGZHNMU2E2SGlNcGxYWVJlanNoWTRoRHpPS3U1Nm5aSkpQQm9tX0RIYXpCVk9PMExCWWZSMVBBcmZBVXRBSGR0ZHI2WDNxMENrQXdST01leF9mSlZQeFVsblYzdUpLVnpVRVI0V21WUEIxM1J1cVFXYmlpWUljNVpIc3Y2aEJlLWRPeU9VUDQ0Xzh2c2FtSmc?oc=5",
           "pubDate": "Fri, 07 Aug 2026 19:54:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Appeals court rules Trump can’t build White House ballroom without congressional approval - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQ2Y1LXVndW1CYTZLREtONjNaUGhlamYtSU9GYWM1T3RsRF9fWVBSWnhOMGxVQ3Ywc0lmdzNrY05NMDN3cHc0bXhPS3Z2ejRZdVp2dzN2Q0wzYmNQUnlCakNZTHlaZ0xRU09zYnpGWVZFdmttTzNfeWZpRm5QdWExR2d5ZnRYcVdXdXZiWXRtUW0?oc=5",
-          "pubDate": "Fri, 07 Aug 2026 19:38:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Trump administration moves ahead with efforts to fire Federal Reserve governor Lisa Cook - AP News",
+          "title": "Trump administration moves ahead with efforts to fire Federal Reserve governor Lisa Cook - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQVN4VXRHS2pWOHdBdUhwYWpqODh6S0RTTTN0WTFqQlUxcU92YmNvV0ZtQ2FqTXNTbHQ5X3hQWE54RDRPVzhmc0xLZzd3cW9wekFhNGVyTnFDeVJMQmM3aF9OSEhteERaU2Q2Wnl3bHFEMEdsbXJ4aE92QXo4SkFxaHhuNXZKZy1DZ2dBbjBzV3l6MmNQTUkwSXE2OUpjN211Y1ZHYWhsSUhNLWlLdWFLNg?oc=5",
           "pubDate": "Fri, 07 Aug 2026 18:54:58 GMT",
           "source": "AP News"
         },
         {
-          "title": "Saudi Arabia, Turkey and Pakistan have signed a key defense agreement - AP News",
+          "title": "Democrats try to present a united front in Michigan after bitter primary - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNnZETHRKWS1CWVRoQzNhZUY5UG9oN2E4TDFncGxtVG03MWk1YkZxcXBjS2JYZ0ZxQjdfdHQ3Y2hYaDMwLVZkQUo3U05lZkh5Y3ctUGRBZXlSX1lGYWxhMXJDNWFNMFppRjR4Q2x0NjVxbzdkYTJFbmlMNXcyZHljUDZDZUw2XzlfZEVwWHh0UUYtM201NGNWNVFB?oc=5",
+          "pubDate": "Fri, 07 Aug 2026 18:54:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Saudi Arabia, Turkey and Pakistan have signed a key defense agreement - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNHJza3JqMGFfYnZaWFBpdmR0Z1ZWbjBGZHlIUVczN3Jza291OVRJTWprLUdkNjZaYWFTUm5kZ1B3SkRqekpZYmVIQjNnR0htS1ZGdmtxbElnRGRCekI4ZVBra1h5MEplSnowbURxX1RkYS05NFVWamhqYzlaUTkxZjB1M09PNDZrUDl2ME91SElIaXFybWVBMXA5MHVzeC1MQlZJQVExY1FiZw?oc=5",
           "pubDate": "Fri, 07 Aug 2026 18:52:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Colombia’s new president to take office in ceremony in Cali highlighting hard line on armed groups - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX0dWMC1SaXZZYnhVWXFfTlU4YmthWW9EMlVFSlIzaHFjbW9tM0g0MzlRQzJ2RFFKbzE1NXhhVDNrOEpMQXItbVprWkZCV2hQUXpmX0dYZ3VCWFdxZ1FvS0ZZcm9nS0tIY0FkWUdEeVFRQ2FEbGlpZk5UYXRNeHMyRGZRTllXOXRHSC1UR2RvR3FkR3FaRE9ybmdERmJ4dXdaVWJyeUl4M05XUGkzTmYzWXh3SGNNYlRlRlpYNlhNY2pJQjQ?oc=5",
-          "pubDate": "Fri, 07 Aug 2026 18:05:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "A 2-year-old at the center of a Texas brain-death dispute is taken off life support and dies - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM0tUdlotbWlHS3NaSEtsaUZ3ZzQyUk9yTlIwWTE2MDVRc3NDSFUzazdtR2pBUnpSSkZqcnp5VEFmQlJ2Y2ZvT0drUjRtcklxNW1mZjhLSU1MRlhCbDVHSWh6b05NaFBUU3NMWjlYZ01BcnhwcjNPY1pQZmZrTmtldDZvU3dBazBsMEpnMF83Q2lEbzRUWUdDNkl6RmFCYlZCSEpoN1o0OVNfaGx3?oc=5",
-          "pubDate": "Fri, 07 Aug 2026 17:59:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Ukraine’s Zelenskyy arrives for first visit to Russia-friendly Serbia - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPa1FXQmMzaGRsQkg5U0dVSFd4OWhwVkdrcHhWaGRQY0xUbEdOd3hyMk9CSUFHMWQ4UU52Tk8wbHNRLXc4ZGJsNXVKYnNIZEt1c0FZcnJkLXN3QThVdXBNQTZlaGFtUWZsUndNbUhXbmRfN0s3akhFeU9qOWx3LUg3M19kZVJwTDlPRHdSMExhU1ZsSXV5WmE1VENhT3dPblFFQ1pmVmd3?oc=5",
-          "pubDate": "Fri, 07 Aug 2026 17:05:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "More than 50 bodies found improperly stored and decomposing at Chicago funeral home - AP News",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOT3gyLUtoTnpnQ2hTMVZQRWp1YjBHYTdqTjNXQTFTeElWLU90OWxFanJzXzY0SFhuT1QzMEthaUdVU00tWXBsYTV4Sl90VVloWWlTTnduREMwQ3l6NkxNUWVRSndTdHI3VElyMlFpZ3dNcklHVEYzbkpLdEpWeWhCTDBIamZnNElTZVRwWnBKVmJVUVl5dlVhQ3lpLVlSeHMw?oc=5",
-          "pubDate": "Fri, 07 Aug 2026 16:46:00 GMT",
+          "title": "Senate confirms Hamilton to lead FEMA and clears more than 70 other Trump nominees - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPS0ZFNWN2b3l4MW5pSTFPZHctbzFuakNnT3NPanRqb0lNY1dVbE40WlloZHd4U1FBcncxNW1YdEcwWGNrZi1qcl9kSllnOTVVMHA2UG5vbGZXZ0NTMzhUZTZrSXlTY0FySF9telBrZjQ0THUtYmJFZnFJdmF3QXlKY050LTJ2dmtwTjBlMk9wYThSUnlpdFNOR2ZVdXY2c1NMOGlQSmticmo4M0I1?oc=5",
+          "pubDate": "Fri, 07 Aug 2026 18:14:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-07T20:48:47.050Z"
+      "updatedAt": "2026-08-07T21:44:51.461Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "US Senate passes Russia sanctions championed by Graham; US House next - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQb0pzeU9VRmJkMDBtRWM3MFhyR3JKTENJeDVfb3pNNHpycXViQnF6LWpveDVmZlotcWVrV0M3cTV4Q1hyTUlPcnRwaDFqRW5fWE5BdlFSYVd4NnZ5MWU2X241OU1QVzZkREh5MjVVMFBlY0k3RDgtM2RDUEFWNVVwUlJ4RFo4OHpGanRuclQ1WXV0bmVZX1MtRUZWak5ERjJ1Y0FLQlR3SlBtS2VyM0EyWUlJQVRJdw?oc=5",
+          "pubDate": "Fri, 07 Aug 2026 21:24:24 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US appeals court blocks Trump’s $400 million White House ballroom project - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdGllYWlYMjNRcmlTVnZvWlN3YmNtWDI4cUdJb0pMZkFwVjlhTmJ3NHRCRUEtQmJMR3ZaT1dobi1sVUktWWFCN0MzLVdZVXVMOE9qWk1YdnhoMmI2cHBBV0d5SHVNZnQ1V0VVZUpzUm1RRUdPdmxBNEhLWUhTNDdSMXVJZ0R5cXl5R1lOcWlWQTg4bTlJanBrWkRidTAyYjl5alFaQmVURUJjYlNiNzBOcFlqWQ?oc=5",
+          "pubDate": "Fri, 07 Aug 2026 20:50:29 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US judges allow Trump to end protections for migrants from South Sudan, Myanmar - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOS0R4Q05HNGkyM2Zzaml1b0lTTDJBeFpJWUx6YXZIOVM2RmJ1b0Nidk1qamJmQ2oyUFVVWW0wNWVCV0ZGRkx0c2gzdkh2c2F1TEZPR0lHRlUyNFJHdVhQYm1Ja2gwVjVCTkY5b2hHbWFtbFlBTlZDUTVFRDFERGEwSXhac3dXTHpRbFRxb1NYWHd6VWV6Qjl5bjFlZXVrMkZKOTdJWEZzcTRNSThsdEt1Vw?oc=5",
+          "pubDate": "Fri, 07 Aug 2026 20:46:19 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Wall St Week Ahead Inflation data to test record-setting US stocks, Fed rate views - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNT2tydC12dWhpUnJJXzhSQXpxNFR2S2VQamVXcTAwMms4YWNSZnVwSnJEeEtMMi1WZW1EQkc2dzJwSEt0V0hBc3N1VUxHODRfZkhodk5teVg0NHBGS2xBNHVTczA2U1NvTE4xR1Y0dlVDVE5mOWpqbnIzczZiZ1drb3d5V3VWX0xOLUgwakItMF9jTXZzR3hhNWZjRXlnaklZcFg4MDZzOGtZd2RaZkhsT1laaXpST3NUR2JtVFlCNEo?oc=5",
           "pubDate": "Fri, 07 Aug 2026 20:41:09 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "S&P closes at record high as soft jobs report eases rate-hike concerns - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ1d0RTF2VldzYWZCaFg3YzBhd2pEamRMWWU1VWNQOGZBSnFDVXFfZDNlVVowQzFwSmVHUDdObmQ4d1VDQnpZZmlhNS1xLWJabGxUMlNPSHc0NGY2SFptZ2QzOTgxTEZQVkpFblM4ZzI4anFIUkV1amFOZlNrRDRXbTUySWl0c1VMdjdiMWJxVUtNa0RmQXB5V3l6Rnl3aTRJQi1zOW1zTFFaZ1A4YjgxSnp3?oc=5",
+          "pubDate": "Fri, 07 Aug 2026 20:23:03 GMT",
           "source": "Reuters"
         },
         {
@@ -188,38 +212,14 @@
           "source": "Reuters"
         },
         {
-          "title": "Dollar drops as weak US jobs data pushes out Fed hike expectations - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOUNvR1pacXVtTWI3eUROeE54TXVYY3JEU1FNSFA4YlBaVFp6MDFXY0tFaFpqSFBfM2R2WTJQVDVtNG5RN3ozQkZLTTZpTGN5aDMzUE9uUVAyanZWN0VWcnVzWlF1aDh6Y0k2dlY4WWpsMFRMdFNoRW81Y1M2WW9qNTlPSWZVZGFnRVh1eEVTTXhWSlhOQkgyRFJfUm5nMGtGaHRUbnlITTRidldKOFg3ZEg5NnRLR3dj?oc=5",
-          "pubDate": "Fri, 07 Aug 2026 20:16:31 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US appeals court blocks Trump’s $400 million White House ballroom project - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdGllYWlYMjNRcmlTVnZvWlN3YmNtWDI4cUdJb0pMZkFwVjlhTmJ3NHRCRUEtQmJMR3ZaT1dobi1sVUktWWFCN0MzLVdZVXVMOE9qWk1YdnhoMmI2cHBBV0d5SHVNZnQ1V0VVZUpzUm1RRUdPdmxBNEhLWUhTNDdSMXVJZ0R5cXl5R1lOcWlWQTg4bTlJanBrWkRidTAyYjl5alFaQmVURUJjYlNiNzBOcFlqWQ?oc=5",
-          "pubDate": "Fri, 07 Aug 2026 19:24:09 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US official: We expect a deal soon between Iran and Oman on Strait of Hormuz - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMkZHc1FWRXNSWG5BdjNhZ0dqOEdNUFUtUl80NTNFYkFrM2RrLVBiSXlOOFdaek5hcEhIMl84OVJLZnVDMzNodFBScmliaFdNYUpaN21uQ3V3VmQ2V1p3MGZ0QUozdTJQb09EcTJ1VERWc3E0d1Z5dkNvalFEcEVSQzRQejkwZmdybVJTVDJPbk4wMS1hWFBOaXJKaTE4MUxHNS1STUFxTzN4S0ZDSmtZOXFhdUZaa0d1?oc=5",
-          "pubDate": "Fri, 07 Aug 2026 19:15:43 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "EXCLUSIVE: Trump administration to back three mineral projects with $58 million in financing - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdVZodXZtRWQ1dzdvLWxpTi1jTFNKUlF4RnYxc2JSTnZDdXE3S0gtQ1R5MENuMFlUU1M2S1pMX3pMVFBqZGh6NjhlOUNybmd3MU5WR2RVOG91Wml5WGFNS0w1OVhSWDFiWmJsRzBoRzlJZHNnUG5LeEN3M3RaNW9mNkVvMkYzazRRZF85ek5aYk5kOExBNERwTlN5dGNVdjl4MnZGRXRCZnB0NGNJaHRVWERQU2gzd3pqRVpr?oc=5",
-          "pubDate": "Fri, 07 Aug 2026 19:13:46 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Trump to host mining CEOs as administration seeks minerals for defense supply chains - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOC1sWW4tTHpEM1NiQWVIbnZMRVlvcVcyNTl2UE1QU1lqSlBVaTlNai1UUm1yR0htazhtZjA1N3Jtb2dEaHhnWklPREdWdG52a0FrTjBMamVaM1FlR1JmSzZycUpWY3pKUzA4V3pRTk9FRzRsTklOMEhvQlRybVVjTHRNbjByQ3ZHY25ja2JERjBXdDUzNXo1WDNFeEFGa3hZTnZUR2lxWTZIQ2p5M01qV0lnUXBFQm1JRVdlZk90MkZhTWplb3RZdVJ0ZktrNmFKM0dr?oc=5",
-          "pubDate": "Fri, 07 Aug 2026 19:11:43 GMT",
+          "title": "Spain to establish border controls on travellers from Italy amid migration dispute - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQzZ6UV9rMTc4dnZpaHBLM1NjTU55M3VSWGdXdllUaEY1cUV3LUxoZWVGUGhhRlNoOWQwcWVtOS1IdEItWEI1MkN5UjNnbzZyLXhtWFBxMW5hSnlpM0s3NmVHQlhyVjlNaDBFaENhZEF6VlRxbDcxWVUzWDVXdG5pd0d1UGFFYXl3RlNyakpmSHFpOTdFbUlnQ3B5Y3R1YVJNeVRJMzdseVNNQmVnN3c?oc=5",
+          "pubDate": "Fri, 07 Aug 2026 20:19:47 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-07T20:48:47.479Z"
+      "updatedAt": "2026-08-07T21:44:51.873Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-07T20:48:47.528Z"
+      "updatedAt": "2026-08-07T21:44:52.055Z"
     }
   ]
 }
