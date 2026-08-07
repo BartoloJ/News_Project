@@ -1,9 +1,15 @@
 {
-  "generatedAt": "2026-08-07T07:24:58.188Z",
+  "generatedAt": "2026-08-07T08:35:08.305Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Meta fined $567m in largest child safety ruling against social media giant",
+          "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 07 Aug 2026 08:06:40 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Moment earthquake shakes hospital operating room in Japan",
           "link": "https://www.bbc.co.uk/news/videos/c1j1eg31y6no?at_medium=RSS&at_campaign=rss",
@@ -41,12 +47,6 @@
           "source": "BBC News"
         },
         {
-          "title": "Meta fined $567m in largest child safety ruling against social media giant",
-          "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 07 Aug 2026 00:54:03 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "Two people convicted in relation to death of French streamer",
           "link": "https://www.bbc.co.uk/news/articles/c8rnmdy4enpo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 07 Aug 2026 00:51:40 GMT",
@@ -54,13 +54,13 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-07T07:24:57.001Z"
+      "updatedAt": "2026-08-07T08:35:07.193Z"
     },
     {
       "name": "NPR",
       "items": [
         {
-          "title": "Student shoots multiple people at a high school in Thailand, authorities say",
+          "title": "Student kills at least 6 in a shooting at a high school in Thailand, authorities say",
           "link": "https://www.npr.org/2026/08/07/nx-s1-5924583/student-shoots-multiple-people-at-a-high-school-in-thailand-authorities-say",
           "pubDate": "Fri, 07 Aug 2026 01:34:15 -0400",
           "source": "NPR"
@@ -109,76 +109,100 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-07T07:24:57.204Z"
+      "updatedAt": "2026-08-07T08:35:07.280Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Student shoots multiple people at a high school in Thailand, authorities say - AP News",
+          "title": "Student kills at least 6 in a shooting at a high school in Thailand, authorities say - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOX2xvZUJwYnNoTkpuRXVMM056cXZBRzFadUIySTRTRFBENlBOa2plYkQ5M0pBZkFOVGdnMk1ieV9qT2hMYlotSk9LQng3UktZTy1nQmJ3b04zVFZPd1FWMkFvbW9TaW5SV29RcVRmVEV6LVFUTzlSd193RDJLN1B6Z2U3b2hvRldZNWU3YkgtM1FMMnp1WWdqTTB0WQ?oc=5",
-          "pubDate": "Fri, 07 Aug 2026 04:52:00 GMT",
+          "pubDate": "Fri, 07 Aug 2026 06:55:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "A deal with Iran over the Strait of Hormuz may require a compromise from Trump - AP News",
+          "title": "A deal with Iran over the Strait of Hormuz may require a compromise from Trump - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcFVjUWlQRWxQVk1KR2xvem0zOEJkUFVGcjBaNjdCU3dxQkU5Wml4VURmVDRHcVgxekM3ejFLa1Utc1YzRlhhaVJCd0FqWEJGaEQwRGwxbGpYTjdUejlxbXBhQ3hHMmUxaFgyTEgtOEh1LWhhZ2xRQW9oaVBDdUY3TEhpQkxRNjEzdExucFBIWms5OTlqYjlQaWlXcTZ4eThjZHg2MmxlMlA?oc=5",
           "pubDate": "Fri, 07 Aug 2026 04:27:40 GMT",
           "source": "AP News"
         },
         {
-          "title": "Europe heat wave puts all major Italian cities on red alert as Austria sets heat record - AP News",
+          "title": "Europe heat wave puts all major Italian cities on red alert as Austria sets heat record - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWHZINGNSQ2k0bUN6ZzVUWHA4eUVsazdEeEJIbnlGM1dsTGpRUS1Xb2tlM3lPZEhXdnNOblR6N3RQN1h5czZoVzdTRDdxelRXaWJzcjlyRXEtTXJoWmJWN0VtYkpYYXJyTjByak05QnJCOEVQbDRPR1VERERLXzNENmxBMVZYZ1JPVzgxZTRIVno4dUhlSVRLc01SME9yMUJGZ0VkNDNISkxPV2Z2dU5J?oc=5",
           "pubDate": "Fri, 07 Aug 2026 03:51:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Carney says US trade talks are ‘nasty’ after Trump criticizes Canada’s leadership - AP News",
+          "title": "Carney says US trade talks are ‘nasty’ after Trump criticizes Canada’s leadership - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcHl4R1ZMTVEwZzlDaHBiQmE0S3pRdHFGd3ZTZlBDOFkwbE9ld3hrMk4yZVBoZWpIOVBtT29vX2dQTE4xUVc4V25SZGhZazgzRzluZnR0aVZkX2hIN2o3eTJLRHRRYWkyWFNneGdVTDlwbzRUTmg1dnhjaFp6c2ZERWZialpsTkJub0t3aEtGQXpHZGpiRTMzdFNGOEM3WjQx?oc=5",
           "pubDate": "Fri, 07 Aug 2026 02:22:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Man charged with arson in Spokane, Washington, told police he planned wildfire for weeks - AP News",
+          "title": "Man charged with arson in Spokane, Washington, told police he planned wildfire for weeks - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWVNQTUxpLURMZkNFelpVd0Qtb1lqalJNUkU3YTA1TGxrX3d5bHh1NGR3Y29JUWpFaDlvamRYUHNVdFJUMlMta1JJbVY0Wkx6eVdfQU5LeXd0MGhoc0RzS3Vudlk0dTZTV0ZITnUxUHNYYVhOSG9zNEpCMVpMVDNLMU1BVGtWTm5HNmdLY3N1MnJsLTk3MWRHazFwaUp3TS1KZzEzUjJIeUVVT0l6UG1r?oc=5",
           "pubDate": "Fri, 07 Aug 2026 01:54:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "2 soldiers killed in Lebanon in the first Israeli deaths since June truce with Hezbollah - AP News",
+          "title": "2 soldiers killed in Lebanon in the first Israeli deaths since June truce with Hezbollah - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeUc1OHhTU1VHSmtkeXBGM0Vob3M5VW01VVRVMVNIS3hXdk1mTDRDOUdqX0oyMmZpVTY0VUZENE4zaTdkcjR5SlRDdmVrQTVqblBGNmFIcmxPRVdsTllFU1g0Y3ZpeGNpMTJEbTN2TVZFV3F4S0pROHFvR2k5WXVLUTI4T0ItaEhsdkxBb0hYUGFFU2ZRQk5pYkZqZlp0bF9M?oc=5",
           "pubDate": "Fri, 07 Aug 2026 01:30:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Explosion kills 2 people and wounds others in a suburb of the Syrian capital - AP News",
+          "title": "Explosion kills 2 people and wounds others in a suburb of the Syrian capital - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM183NEJqa1NUSFAzcWMxQlNJenF2RWoxelVmNjdrNVQ3YVVoZzBxQUxMemFCQzUzOFB3OUl2SzJjRTJqYXZKc3BzZlBZdmdjMTJtUGkwQVMwYWsycmxEQV9XYTVHa3h0UU5zTlRia3RnMy1NZTB3LUVGU2tYQzNpaGtfNk1YbDNFbWJoRV9qWXhtOU05LXN1eDFITTB4QUpw?oc=5",
           "pubDate": "Fri, 07 Aug 2026 01:18:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Trump administration moves forward with Head Start overhaul, proposing to eliminate regulations - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVUNfNGY3UG5UMUhyR2c3eDJhU0hjdE1XckpNVEFjclNUQzRxN0NTLTRtUmF1TkE4TG9vak9ELTR3elpHVjhLWTFvdkFwNGV2czVQNDNXZFdHMVBFV1RMZUdzQlJWMkM4el96SWh2T2xQRzBRR05idXN4Q09jLUc2QkU1WGF5NjJ5cFo1Z1h2T25BWXZr?oc=5",
-          "pubDate": "Fri, 07 Aug 2026 01:14:00 GMT",
+          "title": "Taiwan’s military drills suggest deeper alignment with the US - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZklLSTVHR0d2aG55dGtmNWRpVlBjYndGcmhuU3lRSVA2bTZuNzQ4VVdpM09CV0FkNVFxVmw0bHVJSVYxZ0RKc1pqb1o0MTdZY19fcENaX2hMSldDZlU5WFI2MTZVaFRXWko1ZWNlYkprRTNMTFJrU3pBeWs2R3lmLWVjYjhMd0tRblFHNlVUUFhWTklmTm5VTUd0QkVuLUE?oc=5",
+          "pubDate": "Fri, 07 Aug 2026 01:12:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-07T07:24:57.588Z"
+      "updatedAt": "2026-08-07T08:35:07.740Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Korean 'ants' swarm back to Wall Street as KOSPI rout dents homecoming drive - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZS10NkNDSzZNU0hhVHhjcVJ5RFN1YUVXVFl4Skt5bEd6cDE4RDE1NDNKc2E5OXVIV01SWEVDN28xQTBFLWp5MWc3aW44OVBuaXNOZVR0dk5nWF8wR1NKRkdEOXFOaGphdnVFZmlYQ0xGSW8wYnplMi1nSzZDVDdTV21obTBoREpmcjBXZ1N0S1FVVEw3TG01Q2FKRXlEckxyb3k1NFdobFBDUTUxRjRHcmZQSVNXRlFCODhScUJYMFU?oc=5",
-          "pubDate": "Fri, 07 Aug 2026 06:05:00 GMT",
+          "title": "EXCLUSIVE: Alibaba plans to charge big users of its next open-source AI model, sources say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbE5xeXpfUzZwaHRia2xzb1A2V3VQU0xPVmpLWG1rckR6dzJYUW51Y1NjdzdtQjUzWlFRdGVJcXE5Y29NZGlKMHdxZDU3dkpHY3BTREx3U0xjVXJ6S1QtSXgwb2xEeHpveEVuVmJIYTRkMDNTNE1lTlM4Wng3V2JMcTNYWExvWnpCZW4xWEdqQ2ktdThBWnJXX0haRW1TRjUwOExfVHBGQ1dHQTNibWNmTjRNQzVMb0ozTGRnMkx6dE9VbXNVR25BYmplc2ZoQQ?oc=5",
+          "pubDate": "Fri, 07 Aug 2026 07:18:36 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Dollar set for weekly gain as traders eye Iran talks, US jobs data - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOUNvR1pacXVtTWI3eUROeE54TXVYY3JEU1FNSFA4YlBaVFp6MDFXY0tFaFpqSFBfM2R2WTJQVDVtNG5RN3ozQkZLTTZpTGN5aDMzUE9uUVAyanZWN0VWcnVzWlF1aDh6Y0k2dlY4WWpsMFRMdFNoRW81Y1M2WW9qNTlPSWZVZGFnRVh1eEVTTXhWSlhOQkgyRFJfUm5nMGtGaHRUbnlITTRidldKOFg3ZEg5NnRLR3dj?oc=5",
-          "pubDate": "Fri, 07 Aug 2026 06:02:02 GMT",
+          "title": "SK Hynix to announce additional shareholder return measures in third quarter - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTk43X2JBY0F0S1B2YWRtRGx0dVhFczZzWGRDbnFEOS04SldQYVViOFJxM1YxOHdwS1VoaHVUbVpxZnZ6YllROUlmQ2tKTXAtRW93b2FPSXFnSWkySlkxVXpSbzdkZnZNV3RXZDg4eVZPcjk3bUFLdTB2TXpHc1BMdE9GVGJrTGpTeVpBckQ4d2xCRVVhX29KdnJsXzIyc2NaVy1WYnZOZWprX21XNm4xM2F1UVZpNmp3UDdWNGVFZUFLTWc?oc=5",
+          "pubDate": "Fri, 07 Aug 2026 07:12:09 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Gold heads for best week since January, US jobs data in focus - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbWpUMWdTeEtHNmJ5VDlJZU9tOGp0d0xFQTBlT2xXUHBTSENUdHowV0JkLTFockFBbUl6T0hHT29nUjN5XzR0RWlCbU9VQjZBY2pJd0o5dmFhel9VeGZqV0E1VFpEZjJ3dWk1T2I5aERGNE41dVlkWlFFeHFsUm80RVVPTkNlX2lKc0tJTEtBRURzbXZZMWI5YnlHS1dlWWJyRkFsSmxXM2NWdU5qV1lj?oc=5",
+          "pubDate": "Fri, 07 Aug 2026 06:54:18 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "India plans polysilicon incentives to reduce reliance on China - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYWt4Z042YUtEOGlFN25QVGxCeXVXVkhBX3ljV20yc3Y3T1FQM0ktQVBMbkJDWVY0LUVLbURGNm1mMTJ4S1h1aDFsLVMwZWE5R3FoMHhhTWZOQzFob0ZkWjU0TjNiRWpqaUl6R0w1OENZOGJab2V6OTJJdEtEQkN5Y01xdVdWaUE3RVE3RUFsRnNRRFM4VFpzMnFUUDVUNk55MHl5MTJpNA?oc=5",
+          "pubDate": "Fri, 07 Aug 2026 06:45:43 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Volkswagen must act now, controlling families say as investments suffer - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSHhIbGJHTVZGN3FHeXJFSkgxTW1vSko3OVRQWnYxTGhhTG1qZXVxQjVpMS1qWHJZdzRUeWVXSGtNVDN4RVVjemM1NTIwemZybmtrdVpHR0d2ZmlPQUc4V2xTUE54SmtVT0dob3BydGRhSFpBU1E2WDNTRjVDcER2SUtROE5Ja05yenVsMFktNjdoV3QwSG53Y1dJMm5LRmJnTUJZZHBlUWc4ZERKSEFSdUN1VWNqcGZEQTZ2eVh5Z3JtM1RJN1E?oc=5",
+          "pubDate": "Fri, 07 Aug 2026 06:34:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Korean 'ants' swarm back to Wall Street as KOSPI rout dents homecoming drive - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZS10NkNDSzZNU0hhVHhjcVJ5RFN1YUVXVFl4Skt5bEd6cDE4RDE1NDNKc2E5OXVIV01SWEVDN28xQTBFLWp5MWc3aW44OVBuaXNOZVR0dk5nWF8wR1NKRkdEOXFOaGphdnVFZmlYQ0xGSW8wYnplMi1nSzZDVDdTV21obTBoREpmcjBXZ1N0S1FVVEw3TG01Q2FKRXlEckxyb3k1NFdobFBDUTUxRjRHcmZQSVNXRlFCODhScUJYMFU?oc=5",
+          "pubDate": "Fri, 07 Aug 2026 06:05:00 GMT",
           "source": "Reuters"
         },
         {
@@ -188,38 +212,14 @@
           "source": "Reuters"
         },
         {
-          "title": "Asian shares pause for US jobs, oil extends gains on Mideast risk - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOc0YzMU1OZXgxZVVsOS1zOHl4RnZ3SVU4WWtmNFVBd24xM1JNbVlvY0dXMm5DQUZQcDh4WHh1YTZpemRib1NEX1JDOTVqR20wZ2ZObnFJN3dtVkdHS3otcEF3OVBaTUVlTEtNNGw5eUx2QkozTGhvRTQxOHd0Vk5xX194QQ?oc=5",
-          "pubDate": "Fri, 07 Aug 2026 05:36:41 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "North Koreans urged to beat heat with dog-meat soup - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR2V1MWRiNERBNVhRQjFENjZ1YVkzcl9XMDFFbmY1bnNBR19ma2ZsaWRxYnotVmh0YUZKV2poT2xXVWFHWEIzelNMUXNDUTFlVm42bDUwcmJyQ0ZPVGNDMFcwMlVqU0pGa01Wa0ZCUDRDa2FHNTB0Tnh4LUVGQ2hWSWVnc3hZQVJscTkxUkZlVGRrNlo3LUhKQ0J3Rl9UWWU1MUNXTkRZeWk?oc=5",
-          "pubDate": "Fri, 07 Aug 2026 05:33:19 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Indian shares edge lower as financials, higher oil prices weigh - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbFBJR0J3ZzdIc1psLWxFTHJXNjVjcENIblQ3Nlh5emxvZkw4S2VoTGs0Y0xpWWlKRFNjYXdnczVaOUxRUExiQ25jeGdITWdWanpHVXp2REF2UElpcXZGODdJUGxQeVN5ckpCbEoyWHZvNGpyeUJlSVhTRENaTzhlQVkyT3JKREU2QlpLdC1Vem9vNWhrejZmT1ExRjctZ2NIVHpCcg?oc=5",
-          "pubDate": "Fri, 07 Aug 2026 04:42:38 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Gold heads for best week since January; US jobs data in focus - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbWpUMWdTeEtHNmJ5VDlJZU9tOGp0d0xFQTBlT2xXUHBTSENUdHowV0JkLTFockFBbUl6T0hHT29nUjN5XzR0RWlCbU9VQjZBY2pJd0o5dmFhel9VeGZqV0E1VFpEZjJ3dWk1T2I5aERGNE41dVlkWlFFeHFsUm80RVVPTkNlX2lKc0tJTEtBRURzbXZZMWI5YnlHS1dlWWJyRkFsSmxXM2NWdU5qV1lj?oc=5",
-          "pubDate": "Fri, 07 Aug 2026 04:32:24 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Teacher and gunman dead, four injured in Thailand school shooting, police say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbENvdlJPcVlPcnZ0SDd5dmxzQkhUWkJkUWNlNUY1Wm5VbFBwTVJaZkdzS3hVdWxNNXBDN2lfVlpYcnV1MXpoWXkwb3VRYTViMGVxVHZEQkVFZldFOHpSZ3AxWGtiUEFfUHgxRG51WmU5SHh1Q0YtekExTm41akhwTlBJZHJQNGd6b0FRemNQN1pHOVk2cTFOS2RNM0xOYXFIQXJXelJsbHJzM0lrYXV1UGtOSUR2VWZlZEQxTFFoLWU?oc=5",
-          "pubDate": "Fri, 07 Aug 2026 04:19:00 GMT",
+          "title": "Congo's Ebola outbreak surpasses 4,000 cases - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRVhWeWRET1VjWk10bkh2aUxENXFrN1lzcWFYQmFBeGZ0aGYwV2FGbzB4N1lEbGswZkNFcVk1bnNFeVpDV0gwWVdBRE9LUlk5SjMxdHd5SjFhNzctN192Z3JOSkhDWExxTVRtSldEY1V0RkxSLUNqSzg3UXg0MlFlaWZFckxlOEJTWGRoNEpoZDFvRzNjOFhVY195SHNuY2FRZkY2SWx0ZjJWT0t0MlVfdzZzUV9UWGxOTDdJOW9rU0lUZkhRd1NNNzBKWQ?oc=5",
+          "pubDate": "Fri, 07 Aug 2026 05:50:12 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-07T07:24:57.991Z"
+      "updatedAt": "2026-08-07T08:35:08.150Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-07T07:24:58.188Z"
+      "updatedAt": "2026-08-07T08:35:08.305Z"
     }
   ]
 }
