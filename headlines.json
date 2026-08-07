@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T10:05:15.655Z",
+  "generatedAt": "2026-08-07T11:23:52.548Z",
   "sources": [
     {
       "name": "BBC News",
@@ -54,15 +54,15 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-07T10:05:12.276Z"
+      "updatedAt": "2026-08-07T11:23:51.644Z"
     },
     {
       "name": "NPR",
       "items": [
         {
-          "title": "Everyone's talking about hormone therapy for menopause. Should I be on it?",
-          "link": "https://www.npr.org/2026/08/07/nx-s1-5922746/menopause-hormone-therapy-hrt-heart",
-          "pubDate": "Fri, 07 Aug 2026 06:00:00 -0400",
+          "title": "Trump targets birthright citizenship. And, Iran aims to ban U.S. from Strait of Hormuz",
+          "link": "https://www.npr.org/2026/08/07/g-s1-137730/up-first-newsletter-trump-birthright-citizenship-iran-oman-strait-of-hormuz-anthony-fauci-mitch-mcconnell",
+          "pubDate": "Fri, 07 Aug 2026 06:56:19 -0400",
           "source": "NPR"
         },
         {
@@ -72,9 +72,9 @@
           "source": "NPR"
         },
         {
-          "title": "Amid cost of living stress, many parents are supporting children well into adulthood",
-          "link": "https://www.npr.org/2026/08/07/nx-s1-5876223/cost-of-living-parents-adult-children-financial-support",
-          "pubDate": "Fri, 07 Aug 2026 05:00:00 -0400",
+          "title": "Everyone's talking about hormone therapy for menopause. Should I be on it?",
+          "link": "https://www.npr.org/2026/08/07/nx-s1-5922746/menopause-hormone-therapy-hrt-heart",
+          "pubDate": "Fri, 07 Aug 2026 06:00:00 -0400",
           "source": "NPR"
         },
         {
@@ -96,40 +96,40 @@
           "source": "NPR"
         },
         {
+          "title": "Amid cost of living stress, many parents are supporting children well into adulthood",
+          "link": "https://www.npr.org/2026/08/07/nx-s1-5876223/cost-of-living-parents-adult-children-financial-support",
+          "pubDate": "Fri, 07 Aug 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
           "title": "Morning news brief",
           "link": "https://www.npr.org/2026/08/07/nx-s1-5921269/morning-news-brief",
           "pubDate": "Fri, 07 Aug 2026 04:41:55 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Student kills at least 6 in a shooting at a high school in Thailand, authorities say",
-          "link": "https://www.npr.org/2026/08/07/nx-s1-5924583/student-shoots-multiple-people-at-a-high-school-in-thailand-authorities-say",
-          "pubDate": "Fri, 07 Aug 2026 01:34:15 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-07T10:05:12.467Z"
+      "updatedAt": "2026-08-07T11:23:51.676Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Student kills at least 6 in a shooting at a high school in Thailand, authorities say - AP News",
+          "title": "Student gunman kills at least 7 people at a high school and a home outside Bangkok, officials say - AP News",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOX2xvZUJwYnNoTkpuRXVMM056cXZBRzFadUIySTRTRFBENlBOa2plYkQ5M0pBZkFOVGdnMk1ieV9qT2hMYlotSk9LQng3UktZTy1nQmJ3b04zVFZPd1FWMkFvbW9TaW5SV29RcVRmVEV6LVFUTzlSd193RDJLN1B6Z2U3b2hvRldZNWU3YkgtM1FMMnp1WWdqTTB0WQ?oc=5",
-          "pubDate": "Fri, 07 Aug 2026 06:55:00 GMT",
+          "pubDate": "Fri, 07 Aug 2026 10:39:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Immigration - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBySVUtSnV5U1NPYXI2a2tlb1BidXFsSGNrOUdRUFo5b29xanY5RmtOYzZ6YXBDbk4yODJsTEd4ZC1kckdwLXdQa0h3?oc=5",
+          "pubDate": "Fri, 07 Aug 2026 10:12:50 GMT",
           "source": "AP News"
         },
         {
           "title": "A deal with Iran over the Strait of Hormuz may require a compromise from Trump - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcFVjUWlQRWxQVk1KR2xvem0zOEJkUFVGcjBaNjdCU3dxQkU5Wml4VURmVDRHcVgxekM3ejFLa1Utc1YzRlhhaVJCd0FqWEJGaEQwRGwxbGpYTjdUejlxbXBhQ3hHMmUxaFgyTEgtOEh1LWhhZ2xRQW9oaVBDdUY3TEhpQkxRNjEzdExucFBIWms5OTlqYjlQaWlXcTZ4eThjZHg2MmxlMlA?oc=5",
           "pubDate": "Fri, 07 Aug 2026 04:27:40 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "US likely added nearly 100,000 jobs in July, but market is still tough for young and unemployed - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeFN4Y09saFA1TUZ5TFdRWGpSb3NGZHNMU2E2SGlNcGxYWVJlanNoWTRoRHpPS3U1Nm5aSkpQQm9tX0RIYXpCVk9PMExCWWZSMVBBcmZBVXRBSGR0ZHI2WDNxMENrQXdST01leF9mSlZQeFVsblYzdUpLVnpVRVI0V21WUEIxM1J1cVFXYmlpWUljNVpIc3Y2aEJlLWRPeU9VUDQ0Xzh2c2FtSmc?oc=5",
-          "pubDate": "Fri, 07 Aug 2026 04:01:00 GMT",
           "source": "AP News"
         },
         {
@@ -164,62 +164,62 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-07T10:05:12.946Z"
+      "updatedAt": "2026-08-07T11:23:52.122Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Infantino gains backing from allies as UEFA maintains hardline stance - Reuters",
+          "title": "Saudi Arabia, Turkey and Pakistan to sign joint defence deal amid regional turmoil - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU2lUV2RTOWpHY1ZMeHh4SVNOUnV4TXZNQjZoa2ZXSmg1SnNGX2lGOEJUdy0taTQyNmJaRzNKdHdNUEQtYzhsOFROeEhHWk11LUlKTy13VmE0dlJuSHpveG1xSTBjNTZZOXJrWGNyU1NSbUpraEFHdTBjNHowdWluRUU5a0lsY3NuY1FmMDViMVJMMkN4VzVydm9aeng4eWxDV1lkVFBwWTNTVzFTaTJJcWxoUFdBTE9zZUx1U0VNYnlQTFNQd18yYg?oc=5",
+          "pubDate": "Fri, 07 Aug 2026 10:45:04 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Trump loses 21 straight court battles for state voter rolls as midterms near - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPb2xaQ2NqSGR3OVh1VDBaZXE1UEVFcF9CMEQ4MzU4RU1saEhiamRmZVk0OE9xcXIxUzRqVmFLazJmOG9TUF85d05aMjgwUnFvVXhJR21ZQzhkYmdVQTl2dHN2OVR2dDhROVJobjNyQmhiSnFQdkhWeDkwUjRlcHhWSTVnUWtQNXV0NnRhSjNmQ2ZKWXJTY00zVVNzUGttWlV1X3lobzBTRktfTnZSZ3VKdVdCdWFiN0I1YUF6UDE2aw?oc=5",
+          "pubDate": "Fri, 07 Aug 2026 10:11:52 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Korean 'ants' swarm back to Wall Street as KOSPI rout dents homecoming drive - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZS10NkNDSzZNU0hhVHhjcVJ5RFN1YUVXVFl4Skt5bEd6cDE4RDE1NDNKc2E5OXVIV01SWEVDN28xQTBFLWp5MWc3aW44OVBuaXNOZVR0dk5nWF8wR1NKRkdEOXFOaGphdnVFZmlYQ0xGSW8wYnplMi1nSzZDVDdTV21obTBoREpmcjBXZ1N0S1FVVEw3TG01Q2FKRXlEckxyb3k1NFdobFBDUTUxRjRHcmZQSVNXRlFCODhScUJYMFU?oc=5",
+          "pubDate": "Fri, 07 Aug 2026 09:26:29 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Infantino gains backing from allies as UEFA maintains hardline stance - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWTJWaTZJVmF2Zm1DNDdfSDY5RzZBcVpLRjhPWjZtSjFnZUhoU0Z0cTMza3J0MGxoNnZjVFMycjdLWUV0a1ZoQUFNTHNJd2k1RHZoUW81VTFWRlhwYUExSHlmX29ZQkxvdWlmcnhRT2E4cmlNcVFqYUtTLXJjbmZjMjJfcmk3U00tU2FENjcyXzFmbk4ydTVSS2t5ZGpNR0U?oc=5",
           "pubDate": "Fri, 07 Aug 2026 09:24:46 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Chinese startup Moonshot's AI model breaks out of testing environment, researchers say - Reuters",
+          "title": "Airbus reports stable July deliveries, confirms China orders - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVUU0WXZ6YkVtQzdoTUFwNFN3YmVVejlTVFFfSFdJVk1fT3R5RlBEN3NlT0dfc0RDNlF5VFpCaGk5SVJDVFdORFNWYjhERTlMSWtHZTVlWjFwckFDV3RfSUZheEx0YVJyS3JrbzhwQU5JRDBmSXhjNjlPelhkWkdLcTVSN2o1dkZHOXFrQUY5eUlQZU1GZDFHbjJTZDRldnN4Sjc3cGM4cjNPMG9LM04wckI4UFJVWXhzVTBaeG91TQ?oc=5",
+          "pubDate": "Fri, 07 Aug 2026 09:10:42 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Ukrainian attacks on Wildberries strike at heart of Russia Inc - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZlIyUFVBbEJvTndDSHJ1Q3VoTnMyTy1Nb3A0TmhRazEtUkxGYmNfUE10aElfZzFVWmhjcE9Za3lFVUhBRmpmdHNtTnpGd1pVMGJmd3FtMndvazRxakdYb3hrWnBnUHdzWndXTXVmdkJuNlMxQlQ1cFU4TVA5X3VyS2s4RWh3Rmg5Njd4UWxEZmx0eDVoalhzeHJYUQ?oc=5",
+          "pubDate": "Fri, 07 Aug 2026 09:06:20 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Chinese startup Moonshot's AI model breaks out of testing environment, researchers say - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQc2Q3eXFPcENXOWZ2cFkyM0lQUEdyMGhqTTdDbHc5dWZMa0xhV2x1U0RpZ2pUT0d5MjdNNjlHR1ZVRklMZmxnZHA3VHJyRnBJTzhsR2Jpc1dGQ2F2cnQ1VkhsMHBiZ3FQOU5BTWNjVERRdktTRjQ2UEFQMi10VmZIQzNQdzlacXc3U2lrNUJFUHV1djVlRGhvYVhCejRpX0w1dDFkS202MU5hUDBSS285b0Q3TnZORE8xZWJoM0F1VU9HVWR1Qkwzdk93?oc=5",
           "pubDate": "Fri, 07 Aug 2026 08:48:13 GMT",
           "source": "Reuters"
         },
         {
-          "title": "World food prices hit 3-year high in July as weather and war weigh, FAO says - Reuters",
+          "title": "World food prices hit 3-year high in July as weather and war weigh, FAO says - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcG45aWJLamV2ZzJnUDBHSnRQMEdBMldKbTItOVVyelg5ZHZiSkJWNGZTaEpuMjBwWlg4bjctSndia2szZ2QxeEx6Zk5jQlBBQmdUV0dQdVgtb1g2Q3JESF9WRlVVVmhLZld1Rno4XzktYmk3WE9xaWthM3l1bXZDQjhSQndrWm1nQjBraEkwS1dCejM2TjNuOFd4VndlTnFpWXFKRVpkMEI3ZjQ?oc=5",
           "pubDate": "Fri, 07 Aug 2026 08:47:08 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "SK Hynix board approves $38 bln investments for South Korea's Yongin, Cheongju chip plants - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdTZUMWRWZ0tWQWhMREpTX1d0dnBfa2YtZFlYTktvLTZLbVZCLU9xX1ZkT3J5WGI5UWt4Zi1xaVFPOXRZZ3lOazktMll2UjZYczdZTHFBdk5NWFZKeUxVMjBVWDVNZzktWS04R1d2c3dpWV81TTNaX2ROLTVsWkRVcjBLUS1sNTJXRGpsQXAxRmJvMlhtRFJVTUZyLUhGQ0NjMjRJZVU5UlVUTGlfRHhYb1FSY0M2cWFtaHBpdlBRUUxyTWwySjhsQk5NSQ?oc=5",
-          "pubDate": "Fri, 07 Aug 2026 08:27:28 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Russia's Wildberries, target of Ukrainian drone campaign, reports another attack in Urals - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZVV0a3F4WUVuVi1vLTBHYzhxaHo0alduWmZDX3habThUSnFrb1RDUFo5bWkwdVVlUG03TkNCbkZKQzRDY2tMVmsycVRWTW9pejJrc1Y4RjQ3UGpzR2ozbl9tVzZ5T3d1OVh4c2p5WEM4cXRkMTg5bzcycnVhT3c1RzZmV2VXUFpJd0luV2FDYXBCdUh2TlZQNUpoTHg2T1U4MVlNbVZjbzdNVFpxdGYwTERDYnhxSm1KNHZlMGtYQQ?oc=5",
-          "pubDate": "Fri, 07 Aug 2026 07:55:47 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Saudi Arabia, Turkey and Pakistan to sign joint defence deal amid regional turmoil - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU2lUV2RTOWpHY1ZMeHh4SVNOUnV4TXZNQjZoa2ZXSmg1SnNGX2lGOEJUdy0taTQyNmJaRzNKdHdNUEQtYzhsOFROeEhHWk11LUlKTy13VmE0dlJuSHpveG1xSTBjNTZZOXJrWGNyU1NSbUpraEFHdTBjNHowdWluRUU5a0lsY3NuY1FmMDViMVJMMkN4VzVydm9aeng4eWxDV1lkVFBwWTNTVzFTaTJJcWxoUFdBTE9zZUx1U0VNYnlQTFNQd18yYg?oc=5",
-          "pubDate": "Fri, 07 Aug 2026 07:53:48 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Heatwaves expose overcrowding crisis in Europe's ageing prisons - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTVkzS3NlVm56cG5pSXQ1czE2N1o4aFozQ01KREU0RDVXR04zaGlKNmpuLV9mNGhJRGZjMEVmdnViejhiWGRKVWJvT1NLNTJOb0NpRjZfQTJ2VU5BUWZkNlJBTXk4eGN3aF80bTd6clpUWkdCdkpDU3RmZ2w1WXRWcW1TLWFZSDQwM1dBRnp0YjVtUk1GQTBOODR3Z2FWVjZMV3ZYODVMOUxONTNf?oc=5",
-          "pubDate": "Fri, 07 Aug 2026 07:49:57 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Global equity funds draw inflows for 11th week as upbeat earnings lift sentiment - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdmZSTVI5U0Rfc3FGN1JJRWVPRmc1ektVOW4tbUZjZkxJbXIxOEFjVU41RWZTSFJ1LVRKbHVzcDhhVUdhRzlGUTBmZWREVmdRay1pRkl6WU5oS3JKMjRCWnVKcGRKT0xGenVjcENpT1AtaEx0aElXdXA4ZjRJREd5MVgtcXM3SXNpNGdSY1R0MThCVnc?oc=5",
-          "pubDate": "Fri, 07 Aug 2026 07:27:44 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-07T10:05:13.411Z"
+      "updatedAt": "2026-08-07T11:23:52.497Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-07T10:05:15.655Z"
+      "updatedAt": "2026-08-07T11:23:52.548Z"
     }
   ]
 }
