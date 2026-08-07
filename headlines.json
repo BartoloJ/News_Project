@@ -1,13 +1,19 @@
 {
-  "generatedAt": "2026-08-07T03:53:20.743Z",
+  "generatedAt": "2026-08-07T05:44:45.315Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
+          "title": "Why was Taiwan’s president evacuated in the middle of the night?",
+          "link": "https://www.bbc.co.uk/news/videos/cly83vm923go?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 07 Aug 2026 04:52:19 GMT",
+          "source": "BBC News"
+        },
+        {
           "title": "Australian aviation crew carries out daring midwinter Antarctica rescue",
           "link": "https://www.bbc.co.uk/news/articles/c89nqlz5p4qo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 07 Aug 2026 02:07:46 GMT",
+          "pubDate": "Fri, 07 Aug 2026 04:02:18 GMT",
           "source": "BBC News"
         },
         {
@@ -45,20 +51,26 @@
           "link": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 07 Aug 2026 00:34:14 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Sudan's invisible children - born in war with no legal identity",
-          "link": "https://www.bbc.co.uk/news/articles/cr7kldz4djno?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 07 Aug 2026 00:26:52 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-07T03:53:19.414Z"
+      "updatedAt": "2026-08-07T05:44:44.160Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Student shoots multiple people at a high school in Thailand, authorities say",
+          "link": "https://www.npr.org/2026/08/07/nx-s1-5924583/student-shoots-multiple-people-at-a-high-school-in-thailand-authorities-say",
+          "pubDate": "Fri, 07 Aug 2026 01:34:15 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Court orders Instagram and Facebook's Meta to pay $567M to address kids' mental health online",
+          "link": "https://www.npr.org/2026/08/07/nx-s1-5924581/court-orders-instagram-and-facebooks-meta-to-pay-567m-to-address-kids-mental-health-online",
+          "pubDate": "Fri, 07 Aug 2026 01:26:31 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Trump signs 2 immigration actions to curb 'birth tourism,' limit birthright citizenship",
           "link": "https://www.npr.org/2026/08/06/g-s1-137686/trump-birthright-citizenship-immigration-curb",
@@ -94,26 +106,44 @@
           "link": "https://www.npr.org/2026/08/06/nx-s1-5923408/uefa-fifa-world-cup-gianni-infantino",
           "pubDate": "Thu, 06 Aug 2026 13:11:42 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "A new flu vaccine geared to older people is coming soon",
-          "link": "https://www.npr.org/2026/08/06/nx-s1-5923342/moderna-mrna-flu-vaccine",
-          "pubDate": "Thu, 06 Aug 2026 13:06:41 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Greetings from a wildlife park in central Sri Lanka that's a haven for elephants",
-          "link": "https://www.npr.org/2026/08/06/g-s1-137317/sri-lanka-elephants",
-          "pubDate": "Thu, 06 Aug 2026 10:19:27 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-07T03:53:19.597Z"
+      "updatedAt": "2026-08-07T05:44:44.247Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Student shoots multiple people at a high school in Thailand, authorities say - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOX2xvZUJwYnNoTkpuRXVMM056cXZBRzFadUIySTRTRFBENlBOa2plYkQ5M0pBZkFOVGdnMk1ieV9qT2hMYlotSk9LQng3UktZTy1nQmJ3b04zVFZPd1FWMkFvbW9TaW5SV29RcVRmVEV6LVFUTzlSd193RDJLN1B6Z2U3b2hvRldZNWU3YkgtM1FMMnp1WWdqTTB0WQ?oc=5",
+          "pubDate": "Fri, 07 Aug 2026 04:52:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "A deal with Iran over the Strait of Hormuz may require a compromise from Trump - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcFVjUWlQRWxQVk1KR2xvem0zOEJkUFVGcjBaNjdCU3dxQkU5Wml4VURmVDRHcVgxekM3ejFLa1Utc1YzRlhhaVJCd0FqWEJGaEQwRGwxbGpYTjdUejlxbXBhQ3hHMmUxaFgyTEgtOEh1LWhhZ2xRQW9oaVBDdUY3TEhpQkxRNjEzdExucFBIWms5OTlqYjlQaWlXcTZ4eThjZHg2MmxlMlA?oc=5",
+          "pubDate": "Fri, 07 Aug 2026 04:01:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Undrafted rookie quarterback Haynes King leads Panthers to 33-30 comeback win over Cardinals - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMGdIcFFGeEV5ZEltSng0YkdJd0JxZVB6Y2FFd1pqZFdsNkRrTmVDOV9IWHNuTGhEQzBWUzFjSDdOYVZYWlNiM3BkdEkyeHVMOEZLTEFuLWRHUFVnN1l4dVNnYVhXM2gyS3A4VE10bDF1ZkhWTW5qbVNURzB2N3Q2aUU3MDZzU2ZIWEFwSQ?oc=5",
+          "pubDate": "Fri, 07 Aug 2026 03:41:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Carney says US trade talks are ‘nasty’ after Trump criticizes Canada’s leadership - AP News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcHl4R1ZMTVEwZzlDaHBiQmE0S3pRdHFGd3ZTZlBDOFkwbE9ld3hrMk4yZVBoZWpIOVBtT29vX2dQTE4xUVc4V25SZGhZazgzRzluZnR0aVZkX2hIN2o3eTJLRHRRYWkyWFNneGdVTDlwbzRUTmg1dnhjaFp6c2ZERWZialpsTkJub0t3aEtGQXpHZGpiRTMzdFNGOEM3WjQx?oc=5",
+          "pubDate": "Fri, 07 Aug 2026 02:22:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Man charged with arson in Spokane, Washington, told police he planned wildfire for weeks - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWVNQTUxpLURMZkNFelpVd0Qtb1lqalJNUkU3YTA1TGxrX3d5bHh1NGR3Y29JUWpFaDlvamRYUHNVdFJUMlMta1JJbVY0Wkx6eVdfQU5LeXd0MGhoc0RzS3Vudlk0dTZTV0ZITnUxUHNYYVhOSG9zNEpCMVpMVDNLMU1BVGtWTm5HNmdLY3N1MnJsLTk3MWRHazFwaUp3TS1KZzEzUjJIeUVVT0l6UG1r?oc=5",
+          "pubDate": "Fri, 07 Aug 2026 01:54:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "2 soldiers killed in Lebanon in the first Israeli deaths since June truce with Hezbollah - AP News",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeUc1OHhTU1VHSmtkeXBGM0Vob3M5VW01VVRVMVNIS3hXdk1mTDRDOUdqX0oyMmZpVTY0VUZENE4zaTdkcjR5SlRDdmVrQTVqblBGNmFIcmxPRVdsTllFU1g0Y3ZpeGNpMTJEbTN2TVZFV3F4S0pROHFvR2k5WXVLUTI4T0ItaEhsdkxBb0hYUGFFU2ZRQk5pYkZqZlp0bF9M?oc=5",
@@ -121,9 +151,9 @@
           "source": "AP News"
         },
         {
-          "title": "Trump administration moves forward with Head Start overhaul, proposing to eliminate regulations - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVUNfNGY3UG5UMUhyR2c3eDJhU0hjdE1XckpNVEFjclNUQzRxN0NTLTRtUmF1TkE4TG9vak9ELTR3elpHVjhLWTFvdkFwNGV2czVQNDNXZFdHMVBFV1RMZUdzQlJWMkM4el96SWh2T2xQRzBRR05idXN4Q09jLUc2QkU1WGF5NjJ5cFo1Z1h2T25BWXZr?oc=5",
-          "pubDate": "Fri, 07 Aug 2026 01:14:00 GMT",
+          "title": "Taiwan’s military drills suggest deeper alignment with the US - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZklLSTVHR0d2aG55dGtmNWRpVlBjYndGcmhuU3lRSVA2bTZuNzQ4VVdpM09CV0FkNVFxVmw0bHVJSVYxZ0RKc1pqb1o0MTdZY19fcENaX2hMSldDZlU5WFI2MTZVaFRXWko1ZWNlYkprRTNMTFJrU3pBeWs2R3lmLWVjYjhMd0tRblFHNlVUUFhWTklmTm5VTUd0QkVuLUE?oc=5",
+          "pubDate": "Fri, 07 Aug 2026 01:12:00 GMT",
           "source": "AP News"
         },
         {
@@ -131,95 +161,65 @@
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWHZINGNSQ2k0bUN6ZzVUWHA4eUVsazdEeEJIbnlGM1dsTGpRUS1Xb2tlM3lPZEhXdnNOblR6N3RQN1h5czZoVzdTRDdxelRXaWJzcjlyRXEtTXJoWmJWN0VtYkpYYXJyTjByak05QnJCOEVQbDRPR1VERERLXzNENmxBMVZYZ1JPVzgxZTRIVno4dUhlSVRLc01SME9yMUJGZ0VkNDNISkxPV2Z2dU5J?oc=5",
           "pubDate": "Fri, 07 Aug 2026 01:08:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Sydney Towle, content creator who documented life with cancer, dies at 26 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOEU2TmFpRXZSX0l5aDlYSUJua2tDeTJ3Z0RENkJxU2JRM2NZenFFU2Zjd3VTUm54UG41cUFST2RiTnl4Rk9qdl9PQTNRbDRtSWZnbU5WZ1Rib0VubDROdXZMNUtzVDg2bUZMNmJEZkhxTVRWdWVCdGxzakhPS2RKNko0Y2VveEFuWU9JNlNEbGkyUFNla3ZIWF82dzUxWEN1elFz?oc=5",
-          "pubDate": "Thu, 06 Aug 2026 23:55:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "UEFA maintains World Cup boycott threat after Gianni Infantino’s crisis meeting - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPY2dZRzk2MlVWMDJsRHU0ZTRJT2ZJNEU4WGx4dTdoa2x3YXNwN1QxQXRKRXBzNG4zUDhuMGVyVFhRSy1GM2ViZ3RralowZXVxNjFHTFJnRkwxc2dqZVoxRVB1c3Z3eHR2aDJwZU5zSjR6WVl2WWxpSS01RW9uQVpWNFpDVkE0emJGcF9VVlJEQ1g?oc=5",
-          "pubDate": "Thu, 06 Aug 2026 23:32:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Possible Strait of Hormuz deal, a large attack in Yemen and other Mideast news - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNd1R4TEFIQVkxS1I2SDdWVUZfalVNQXk2VnNDc1FHUnNYU0xRY3ExT0JiLUp6cDl2N2ZYLUl3UHFlbFUzY2F0MU9iVW9ZRTBTYTIxUWd1RXh0dnY4ZTJPT1Q3cTNFNi1ja2lTVnNsZmZPd09SMFFFMjBUNVJPZWxLVlR6OG9fYk1Cc3Byc3JUY3lTYlhqV2xjRl9RVkFDRnU4Vmx2WkV6R19fcjlHYVZWOQ?oc=5",
-          "pubDate": "Thu, 06 Aug 2026 23:31:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Trump again tries to restrict birthright citizenship after Supreme Court ruling - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcV93M054b1gwek1lYkNKZWw5ZUV0MU5zMEhjanpwWTFOYkR1cW95X0hkUXcyQXNNd2ZsTjRreGprYTVINWYwRUw1bjBIczhsYWdqdnZjYjhYRmtRLWNuTGRlc1IyRW50RjlESXp4VXo4M202UnpsTmx0QVI1eU5PTnp5QnpIdElQUDJwNDZWR1dmTzZnd0w2QVRjRWM3QmFKNDVaYkdlZzFhVU0?oc=5",
-          "pubDate": "Thu, 06 Aug 2026 23:17:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "DOGE overstated savings on federal ‘receipts’ website, auditors find - AP News",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTWRiTDdueDBVVDlpQVJ5OUJpbTBXWVk5bUh2Ny14dFp2NUVBbmsyZjZ1Tjh1U0p4N1ppemZjbzY2UndNRmNCRGdxeWJPNlU1NW1fYzEzRndlV3EySEVZNzZuV0ZSbm1TSUpoZVJxMlFzZzJiTG54cTNEUEl6OW04RWxpWkh1WEg4cE5ZYlVDTHhrakxOMWJMclRjRm8yQQ?oc=5",
-          "pubDate": "Thu, 06 Aug 2026 22:41:39 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-07T03:53:20.172Z"
+      "updatedAt": "2026-08-07T05:44:44.811Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Oil rises on concerns over Strait of Hormuz reopening plans - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN0Z0cU1oY1hpbHZmZ1JoanRWLXVubmFlTDlWbkpqQ3V1d2dYYlV1U18zVEJ1Zkh1QXFFYm51SVJtZ1ctNHRGYnVlZGk3X0xKcVRHdW5MMzlDM2VQWDBYcmlWc25WX2VaWEJITEJCb2lOOFJsNFRiX0NYOVhCcmxEMWVLVGZXSkJfUzJzQXB2ZTFSMlJnZTczRWVJU3ZTUHEyeWNhcFBuSlI?oc=5",
-          "pubDate": "Fri, 07 Aug 2026 03:41:34 GMT",
+          "title": "Teacher and gunman dead, four injured in Thailand school shooting, police say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbENvdlJPcVlPcnZ0SDd5dmxzQkhUWkJkUWNlNUY1Wm5VbFBwTVJaZkdzS3hVdWxNNXBDN2lfVlpYcnV1MXpoWXkwb3VRYTViMGVxVHZEQkVFZldFOHpSZ3AxWGtiUEFfUHgxRG51WmU5SHh1Q0YtekExTm41akhwTlBJZHJQNGd6b0FRemNQN1pHOVk2cTFOS2RNM0xOYXFIQXJXelJsbHJzM0lrYXV1UGtOSUR2VWZlZEQxTFFoLWU?oc=5",
+          "pubDate": "Fri, 07 Aug 2026 04:19:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Gold heads for best week since January, US jobs data in focus - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbWpUMWdTeEtHNmJ5VDlJZU9tOGp0d0xFQTBlT2xXUHBTSENUdHowV0JkLTFockFBbUl6T0hHT29nUjN5XzR0RWlCbU9VQjZBY2pJd0o5dmFhel9VeGZqV0E1VFpEZjJ3dWk1T2I5aERGNE41dVlkWlFFeHFsUm80RVVPTkNlX2lKc0tJTEtBRURzbXZZMWI5YnlHS1dlWWJyRkFsSmxXM2NWdU5qV1lj?oc=5",
-          "pubDate": "Fri, 07 Aug 2026 01:14:00 GMT",
+          "title": "Firmus nearly doubles valuation to over $10.5 billion in Nvidia-backed fundraise - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWFNzZU1VX09CY1g1VGo1a0E5eFI1b08waGZBR2R0dkl1TVpGc2RSVVJzSU55NzUxR000Uy1uOGpTejhyUWVENVBoTl93S1hldHlYLXNiZkJtWlMzZDRuRFZWaVg2WFFCb1Q2V2s3UzljczN3Y2ZtS1hTMmVRMXhCd0RGSkpYRHZVRXRlWjI0dUxIVWlFRDBNY2dydEEwWmNURmNENHhjdTJXak54SHB2ZnJGQzFTcHBkcWRsUEJQOXM?oc=5",
+          "pubDate": "Fri, 07 Aug 2026 04:14:45 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Two dead, including gunman, at school shooting in Thailand, officials say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT05uSV9KT3VqLUIteGZ3aHpRRkF4QURLSGlFMDdtLUVqbVlyenVCbE9hQ0pQWmVFVnA1MFA5UU4zYXpaMTJPeFBkQy03Qk1fTnNMa25WX1R6N2VhYng3cmdpTHQyNkRiZTEwYjk5TThFdk9yRm9kaGtOMFU1ZnZsRktQdkdsRnFEQm5nM2NuSGkyQ3lDMEFlMjZ1LVZuc3RKUnpkMW5oeUM?oc=5",
+          "pubDate": "Fri, 07 Aug 2026 03:29:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Indian shares edge lower as financials, higher oil prices weigh - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbFBJR0J3ZzdIc1psLWxFTHJXNjVjcENIblQ3Nlh5emxvZkw4S2VoTGs0Y0xpWWlKRFNjYXdnczVaOUxRUExiQ25jeGdITWdWanpHVXp2REF2UElpcXZGODdJUGxQeVN5ckpCbEoyWHZvNGpyeUJlSVhTRENaTzhlQVkyT3JKREU2QlpLdC1Vem9vNWhrejZmT1ExRjctZ2NIVHpCcg?oc=5",
+          "pubDate": "Fri, 07 Aug 2026 02:27:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Asian shares pause for US jobs, oil extends gains on Mideast risk - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOc0YzMU1OZXgxZVVsOS1zOHl4RnZ3SVU4WWtmNFVBd24xM1JNbVlvY0dXMm5DQUZQcDh4WHh1YTZpemRib1NEX1JDOTVqR20wZ2ZObnFJN3dtVkdHS3otcEF3OVBaTUVlTEtNNGw5eUx2QkozTGhvRTQxOHd0Vk5xX194QQ?oc=5",
+          "pubDate": "Fri, 07 Aug 2026 02:17:43 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Japan orders evacuations as Typhoon Dolphin approaches, cancels 500 flights - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWFZfc3lhZFI0Tl91RGozVldWUjlvVVV5NUY2UHhXdmVjSXhXaHRoMFQyZDhQcWhGbVZmdVJNb2ttTVlVZEhmQkkyTGl2ZlZkVzJXQjdfdUVVNlpfSVIxS0tDb09wUlhYZXRGdm1mUUVLSV96ajdxenk1R2h2YjVSaWY0OUJ2N2xyWTU5MzRlMTFLdTJIYnVBczlHaVBJc0JHOG55MC0ycUJrbTFQSFdqV2J6VWVtMDhEWVNraXZSNE5xenBWU3lv?oc=5",
+          "pubDate": "Fri, 07 Aug 2026 01:57:00 GMT",
           "source": "Reuters"
         },
         {
           "title": "EXCLUSIVE: Alibaba plans to charge big users of its next open-source AI model, sources say - Reuters",
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbE5xeXpfUzZwaHRia2xzb1A2V3VQU0xPVmpLWG1rckR6dzJYUW51Y1NjdzdtQjUzWlFRdGVJcXE5Y29NZGlKMHdxZDU3dkpHY3BTREx3U0xjVXJ6S1QtSXgwb2xEeHpveEVuVmJIYTRkMDNTNE1lTlM4Wng3V2JMcTNYWExvWnpCZW4xWEdqQ2ktdThBWnJXX0haRW1TRjUwOExfVHBGQ1dHQTNibWNmTjRNQzVMb0ozTGRnMkx6dE9VbXNVR25BYmplc2ZoQQ?oc=5",
-          "pubDate": "Fri, 07 Aug 2026 01:04:00 GMT",
+          "pubDate": "Fri, 07 Aug 2026 01:52:01 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Meta ordered to pay $567 million in New Mexico for teen mental health fund - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZ25adU40RDVWeVlvNTZDdmNqdHZpOERIODV6XzhBRmY3bFdPYmlYN2liNTloRWRkaEVNaDRpSXRXdEh5RVN2SFZGSTZRdXFsaGRyNENpMkRnTDBNdm5EX0trbWJQS3FFcmNMMzZabGRCb2VaZW5LYVExdVp2Zy1uWkFQTU54cC0xbTZKaU1FbDBKVW5TeGdFUDVZLXVjbGd3eW5JNl9mYlNodw?oc=5",
-          "pubDate": "Thu, 06 Aug 2026 23:51:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Former Mexican governor arrested for allegedly destroying evidence tied to 43 missing students - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRUNSR0xscjllRGJMV3cwTzlDZXVXU2JvaHBYeXJjbVF1ZmN4N2ItNW1DRnVIUjNNeUV3MHJFTk9fSURkZF9waUJDVjNRRHRmUE9fLVc3cmZKcmRxZkR3TXBGSWhkZkJXcndaX3JTZXg3LWJpZkR5dFctU1lZbV9HdElDalpuX1d6UmhiZWpnT09XcTd4eFc0THBLbWFGcFFyTEl1NGpvNi1wWmNHTDliNldteE0ycmZDYjMtTEY0TGVTWm9tSGRNTg?oc=5",
-          "pubDate": "Thu, 06 Aug 2026 23:06:56 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Trump administration considers order on autism and vaccines, source says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWU5ZcjdqelFRY3JrODJieE1idFNoME03WktxY2JMNko2SWFOSEJ2ckxDN2c3ZnlaTFc1VTl2c3dYRllaRVBGUnBGRHl0a2R1MmpWNklUM2NoaGduSTV3b01hTC0xUE05MFBfbXVXSEp2SHhGV3NfMER4cnRoaXBNMEQ2dGRXUnp0WGp6eTJ3QzY5VjVLcDBCWTJvTVVhdlZoQTIzSGJIbjBjanN6d3ZqaXhOTGtzcThoamEtcTM3RWRNZFNFWnE4?oc=5",
-          "pubDate": "Thu, 06 Aug 2026 23:03:22 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Singapore's OCBC, UOB beat forecasts as wealth income cushions margin pressure - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWGlabUxWNkswR2dFZlVvWGNoWmhjVHBSOUpoVWhBT2tZUG1PbVVjbl96bDBXR1lqOGluM0l1Vi1EVWY5bUlBWlZ1YmZpSWlVRkZlN0lnT2Nvb3JyVmhRM3J4Tmx4VlpsamE4NUh1bG1NZmd6b1F0QlJKWk9tRVFvbFZheWp5WnBZN3hYalY1Sm1PenhHOTBKUkdIbG03czM1SDA1eWkwUVFvb2RfTXU3bGNrdzUtMHF5YUdRRjJ5VTMtUQ?oc=5",
-          "pubDate": "Thu, 06 Aug 2026 22:41:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Pacific ministers to discuss issuing a joint statement on China missile test - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeVJaNldQMjdyaFZsN2otZlNUUnhubkVTTF9EOGd5Ny1ZczZSVHZ3dnc2Tnl5U2VYMmx5STZyeWs3aGM2Y2lnR1JLS3pKX3VXM3lZaGNuTHkyOGk2Z2M5YzlQZmhIaEFpaTFFV21ybzF0cG1iczVuck4yVmxhNjBBNVBZN18yWmlvUGIwZl9hRWFmNU9GR2hVQllHM3E?oc=5",
-          "pubDate": "Thu, 06 Aug 2026 22:33:00 GMT",
+          "title": "Gold heads for best week since January; US jobs data in focus - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbWpUMWdTeEtHNmJ5VDlJZU9tOGp0d0xFQTBlT2xXUHBTSENUdHowV0JkLTFockFBbUl6T0hHT29nUjN5XzR0RWlCbU9VQjZBY2pJd0o5dmFhel9VeGZqV0E1VFpEZjJ3dWk1T2I5aERGNE41dVlkWlFFeHFsUm80RVVPTkNlX2lKc0tJTEtBRURzbXZZMWI5YnlHS1dlWWJyRkFsSmxXM2NWdU5qV1lj?oc=5",
+          "pubDate": "Fri, 07 Aug 2026 01:14:00 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-07T03:53:20.559Z"
+      "updatedAt": "2026-08-07T05:44:45.255Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-07T03:53:20.743Z"
+      "updatedAt": "2026-08-07T05:44:45.315Z"
     }
   ]
 }
