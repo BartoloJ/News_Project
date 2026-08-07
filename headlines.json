@@ -1,9 +1,15 @@
 {
-  "generatedAt": "2026-08-07T17:25:12.724Z",
+  "generatedAt": "2026-08-07T18:23:46.165Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+          "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 07 Aug 2026 17:42:54 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Spain threatens retaliation if Italy fails to lift border controls after Ceuta crossings",
           "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
@@ -20,12 +26,6 @@
           "title": "Seven killed after Thai student opens fire at home and school",
           "link": "https://www.bbc.co.uk/news/articles/c980j3j578do?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 07 Aug 2026 15:51:16 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
-          "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 07 Aug 2026 15:48:49 GMT",
           "source": "BBC News"
         },
         {
@@ -54,13 +54,31 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-07T17:25:11.627Z"
+      "updatedAt": "2026-08-07T18:23:45.301Z"
     },
     {
       "name": "NPR",
       "items": [
         {
-          "title": "Colombia's new president vows to remake the country — and challenge its fragile peace",
+          "title": "Another court blocks White House ballroom work, teeing up a Supreme Court review",
+          "link": "https://www.npr.org/2026/08/07/nx-s1-5925123/white-house-ballroom-appeals-court-congress",
+          "pubDate": "Fri, 07 Aug 2026 14:10:37 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Monty Roberts, who trained horses through trust, dies at 91",
+          "link": "https://www.npr.org/2026/08/07/nx-s1-5924104/monty-roberts-horse-training",
+          "pubDate": "Fri, 07 Aug 2026 13:48:17 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Senate passes Russia sanctions bill that was long championed by Lindsey Graham",
+          "link": "https://www.npr.org/2026/08/07/nx-s1-5924914/senate-passes-russia-sanctions-bill-that-was-long-championed-by-lindsey-graham",
+          "pubDate": "Fri, 07 Aug 2026 13:33:40 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Colombia's new president vows to remake the country — and challenge rebel groups",
           "link": "https://www.npr.org/2026/08/07/nx-s1-5924775/colombias-new-president-vows-to-remake-the-country-and-challenge-its-fragile-peace",
           "pubDate": "Fri, 07 Aug 2026 11:41:45 -0400",
           "source": "NPR"
@@ -88,32 +106,20 @@
           "link": "https://www.npr.org/2026/08/07/g-s1-137730/up-first-newsletter-trump-birthright-citizenship-iran-oman-strait-of-hormuz-anthony-fauci-mitch-mcconnell",
           "pubDate": "Fri, 07 Aug 2026 06:56:19 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Kalshi and Polymarket bets on clinical trials criticized as 'ghastly'",
-          "link": "https://www.npr.org/2026/08/07/nx-s1-5922530/patients-betting-kalshi-polymarket-clinical-trials",
-          "pubDate": "Fri, 07 Aug 2026 06:00:00 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Everyone's talking about hormone therapy for menopause. Should I be on it?",
-          "link": "https://www.npr.org/2026/08/07/nx-s1-5922746/menopause-hormone-therapy-hrt-heart",
-          "pubDate": "Fri, 07 Aug 2026 06:00:00 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Who or what is 'taking a step back from visibility'? The quiz knows",
-          "link": "https://www.npr.org/2026/08/07/g-s1-137559/space-book-reflecting-pool-tmz-vaccine-news-quiz",
-          "pubDate": "Fri, 07 Aug 2026 05:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-07T17:25:11.670Z"
+      "updatedAt": "2026-08-07T18:23:45.413Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Appeals court rules Trump can’t build White House ballroom without congressional approval - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQ2Y1LXVndW1CYTZLREtONjNaUGhlamYtSU9GYWM1T3RsRF9fWVBSWnhOMGxVQ3Ywc0lmdzNrY05NMDN3cHc0bXhPS3Z2ejRZdVp2dzN2Q0wzYmNQUnlCakNZTHlaZ0xRU09zYnpGWVZFdmttTzNfeWZpRm5QdWExR2d5ZnRYcVdXdXZiWXRtUW0?oc=5",
+          "pubDate": "Fri, 07 Aug 2026 17:30:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "US job market stalled in July as employers cut 23,000 jobs, delivering political setback to Trump - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeFN4Y09saFA1TUZ5TFdRWGpSb3NGZHNMU2E2SGlNcGxYWVJlanNoWTRoRHpPS3U1Nm5aSkpQQm9tX0RIYXpCVk9PMExCWWZSMVBBcmZBVXRBSGR0ZHI2WDNxMENrQXdST01leF9mSlZQeFVsblYzdUpLVnpVRVI0V21WUEIxM1J1cVFXYmlpWUljNVpIc3Y2aEJlLWRPeU9VUDQ0Xzh2c2FtSmc?oc=5",
@@ -121,9 +127,21 @@
           "source": "AP News"
         },
         {
+          "title": "Ukraine’s Zelenskyy arrives for first visit to Russia-friendly Serbia - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPa1FXQmMzaGRsQkg5U0dVSFd4OWhwVkdrcHhWaGRQY0xUbEdOd3hyMk9CSUFHMWQ4UU52Tk8wbHNRLXc4ZGJsNXVKYnNIZEt1c0FZcnJkLXN3QThVdXBNQTZlaGFtUWZsUndNbUhXbmRfN0s3akhFeU9qOWx3LUg3M19kZVJwTDlPRHdSMExhU1ZsSXV5WmE1VENhT3dPblFFQ1pmVmd3?oc=5",
+          "pubDate": "Fri, 07 Aug 2026 17:05:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Blanche wins support for attorney general from GOP Sen. Cassidy, likely paving way for confirmation - AP News",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUks4b2Fka2UwQVNGMXhQdnpVN0Jya2xIMGh2WHJmUnJXblRRQndFbjFQRlNTU0dEUGp6ZWhKUEp1QW0tVTVHMTZRXzlENW9RSWN2QVlVWS04ZFZOSVljQkhiVHoya0JZSnVBQUlGUFJKZmliNWZBM0tSYTlEcG9nZDJZSzlMUVdZYjlTenM2OUs3MnJHdTdxZ01IejhNZ1hXTWQ1OTJaT0U2R2JRLVRXNXVZVjlXc0E?oc=5",
           "pubDate": "Fri, 07 Aug 2026 16:18:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Kellogg says it’s removing artificial dyes from cereals by the end of this year - AP News",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQV211Yjl2NUFEdDA2eXN0ZktUUU5qWnJhM1dMdjRvQTJ5Vk5LcEwxWUYxcDVXemlabDlBX1QxanZjLVB4LVItZndMZDVCWGlRczM1VWtPc1RPUHhwLXo0Q1dQbWUycGZEb2VHR1dWUFlhOVJ0Z0dTMFNlMlpqaXYwYlloNDd6WGtFaTZLU2ZNSnBrNHpraFNYaFIza2JPVmpEOU9aMGc2Z2JBSFV1M3M4REhB?oc=5",
+          "pubDate": "Fri, 07 Aug 2026 16:06:00 GMT",
           "source": "AP News"
         },
         {
@@ -139,40 +157,46 @@
           "source": "AP News"
         },
         {
-          "title": "Appeals court rules Trump must get approval from Congress on ballroom, ordering halt to construction - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQ2Y1LXVndW1CYTZLREtONjNaUGhlamYtSU9GYWM1T3RsRF9fWVBSWnhOMGxVQ3Ywc0lmdzNrY05NMDN3cHc0bXhPS3Z2ejRZdVp2dzN2Q0wzYmNQUnlCakNZTHlaZ0xRU09zYnpGWVZFdmttTzNfeWZpRm5QdWExR2d5ZnRYcVdXdXZiWXRtUW0?oc=5",
-          "pubDate": "Fri, 07 Aug 2026 14:55:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Colombia’s new president to take office in ceremony in Cali highlighting hard line on armed groups - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX0dWMC1SaXZZYnhVWXFfTlU4YmthWW9EMlVFSlIzaHFjbW9tM0g0MzlRQzJ2RFFKbzE1NXhhVDNrOEpMQXItbVprWkZCV2hQUXpmX0dYZ3VCWFdxZ1FvS0ZZcm9nS0tIY0FkWUdEeVFRQ2FEbGlpZk5UYXRNeHMyRGZRTllXOXRHSC1UR2RvR3FkR3FaRE9ybmdERmJ4dXdaVWJyeUl4M05XUGkzTmYzWXh3SGNNYlRlRlpYNlhNY2pJQjQ?oc=5",
-          "pubDate": "Fri, 07 Aug 2026 12:53:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Student kills at least 7 people at a high school and a home outside Bangkok, officials say - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOX2xvZUJwYnNoTkpuRXVMM056cXZBRzFadUIySTRTRFBENlBOa2plYkQ5M0pBZkFOVGdnMk1ieV9qT2hMYlotSk9LQng3UktZTy1nQmJ3b04zVFZPd1FWMkFvbW9TaW5SV29RcVRmVEV6LVFUTzlSd193RDJLN1B6Z2U3b2hvRldZNWU3YkgtM1FMMnp1WWdqTTB0WQ?oc=5",
-          "pubDate": "Fri, 07 Aug 2026 12:49:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "One man works to slow the fastest-growing Ebola outbreak in history, and he's doing it unpaid - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeU5NZnNvRFR5aUlGbzMtYWJWdy0tYVRVMG5BQkFjODE0akVXbmxsNk9XcnZBaEY2NXdrbmNFZDU3anlBQm12alB0VEl1dHdLV1ZBX3UtWjRpb0p6VTFlMVhzM29mOGRxTTZ2RHRkWFpyYS0zUlRxejdzdmNrR1A4YUhKOUtHMW1YVHdsTm4yZW9aZXpIbDNZV0JR?oc=5",
-          "pubDate": "Fri, 07 Aug 2026 12:44:00 GMT",
+          "title": "How the Iran-backed Houthis' claims of deadly attacks are stoking fears of a wider regional conflict - AP News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWjNCNlN4TUd4WVVCR19iUV8xbGdNTE5yeVBMZXA2Zmt2cnBtSUdoY2E4ZVB5U3dsVDdDVU4wc2xmdGc0MFZ5RGEtNE5tN0pNYl92dlNJTnVKZU9wM2lJa1N5S21uanlOakwxNjFhR0RlMk9xS0hKd0FTaUlDMVFpTm0tRHk4WHU5VEZWLVVyQ0hkeXR3Ql9OcXlORHhCQ2ZP?oc=5",
+          "pubDate": "Fri, 07 Aug 2026 13:16:15 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-07T17:25:12.102Z"
+      "updatedAt": "2026-08-07T18:23:45.904Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "US Senate passes sweeping Russia energy sanctions, next stop US House - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQb0pzeU9VRmJkMDBtRWM3MFhyR3JKTENJeDVfb3pNNHpycXViQnF6LWpveDVmZlotcWVrV0M3cTV4Q1hyTUlPcnRwaDFqRW5fWE5BdlFSYVd4NnZ5MWU2X241OU1QVzZkREh5MjVVMFBlY0k3RDgtM2RDUEFWNVVwUlJ4RFo4OHpGanRuclQ1WXV0bmVZX1MtRUZWak5ERjJ1Y0FLQlR3SlBtS2VyM0EyWUlJQVRJdw?oc=5",
+          "pubDate": "Fri, 07 Aug 2026 17:48:30 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US appeals court blocks Trump’s $400 million White House ballroom project - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdGllYWlYMjNRcmlTVnZvWlN3YmNtWDI4cUdJb0pMZkFwVjlhTmJ3NHRCRUEtQmJMR3ZaT1dobi1sVUktWWFCN0MzLVdZVXVMOE9qWk1YdnhoMmI2cHBBV0d5SHVNZnQ1V0VVZUpzUm1RRUdPdmxBNEhLWUhTNDdSMXVJZ0R5cXl5R1lOcWlWQTg4bTlJanBrWkRidTAyYjl5alFaQmVURUJjYlNiNzBOcFlqWQ?oc=5",
+          "pubDate": "Fri, 07 Aug 2026 17:42:15 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Spain plans burials, seeks identities of those killed in Ceuta migrant rush - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcmlwdEhBUnJqS3JfdVRZN3JnZ0RqS2RvZ09BUHRkMEdRTjVVMGttaGo2Sl94SWlnbnJXLWhhYlpsck0tSVN6TWdEQTBJYnFzSnhadWd1eDJVODhCNU1TYkh5VTBLVFhCRFFrM0RtR01EU1kzR3hPRlo1MGJhREM3Q1hnd3FybVB2LTdHTV9sc0ZnbC1pMmZXOTd2NW5HY3JuZFdjT2tjdEc2UHZVSUo4?oc=5",
+          "pubDate": "Fri, 07 Aug 2026 17:09:19 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "US suffers unexpected job losses in July, markets dial back rate hike expectations - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNN1B4WTMtdXVhNDJJNjJ2Sjl5dm14MXI4M3FUc2dYUDN5blRtOTBXQVZqX0ZaUWNQTFpZMDdlU24tY1BLWHVORE03Y0p3ekNQM0RHQjZJWEhpckhfLXl1QWFlVlV2UU9OWFhkWDZZNXA1eHdFVmlkQVlVUWdaQWVKUl9NMC1QcW8zT09NRks4eGViOXpESU82MmpuaWYydkljM1Fv?oc=5",
           "pubDate": "Fri, 07 Aug 2026 17:08:09 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Europe's would-be water bombers in race to tackle future wildfires - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWURYWkFRQ0h3Sk4tWWFVUlQ2QXk5c09vaWVnSUZGWW1LVjVoT1pHejg2VHpUUUxaM185RENRc3czZjZ2VXpqTjYxRDQ0ejBHd1VMLUlONlpCYnp3UzZ4LVFnak8tdV9PTVkwcFI2TWNNZ1VCelFobU0wVDlDX2RDNmh1Yi1mWnNQd1dEN1NMaFp0LU9rbUJBamxWaE9IMUV6aFVvdG1Cb09mVTFwZ2Jsa0k1M01Qd1o3Rnh1YzhEOA?oc=5",
+          "pubDate": "Fri, 07 Aug 2026 16:56:02 GMT",
           "source": "Reuters"
         },
         {
@@ -192,34 +216,10 @@
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcVFRNExNT053MWlFNkJqekV5SFdFSmc5c0RWVk1iNUM2QkswQU1GYzNKM0dQWTQ1UHZtc1k3UVNXdlVxTi1BdVNZUGNzd0tIWUIyVDlWWWtxakVhMVNneDQzd2J6WnRySnR4aGcxRFZyblNyZDZuUXdRYm5CUTh1MmlRU2NWOGxzUjFhWThTcTFieVIzUEc0S0hpVnM2YTZjNGpmQW5odlk2UTltcEhieGFR?oc=5",
           "pubDate": "Fri, 07 Aug 2026 16:27:40 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "US rate futures cut chances of September rate hike after jobs data - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc20xOTBqRG9tVV9IUnA4T1JoVHo1dUpfSV85UzZQdzFqeWZPZ0hFb3kzUVZDUTlUcS10b205dzIyWVRaWUpxUmJJa0EtR2tfQ0sxa0tsRl82SkFXMF9BRWFCSzJDSkRpb25EOW5Fd0hUUzdrMU4wMlRDZVNiQTVoazN4dHFpeUhfNjJaUkkyUnVtdWh4V2l0LXlVcWtzM1pqdmZHVnVCT3ZoT3o5?oc=5",
-          "pubDate": "Fri, 07 Aug 2026 16:15:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Wall St Week Ahead Inflation data to test record-setting US stocks, Fed rate views - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNT2tydC12dWhpUnJJXzhSQXpxNFR2S2VQamVXcTAwMms4YWNSZnVwSnJEeEtMMi1WZW1EQkc2dzJwSEt0V0hBc3N1VUxHODRfZkhodk5teVg0NHBGS2xBNHVTczA2U1NvTE4xR1Y0dlVDVE5mOWpqbnIzczZiZ1drb3d5V3VWX0xOLUgwakItMF9jTXZzR3hhNWZjRXlnaklZcFg4MDZzOGtZd2RaZkhsT1laaXpST3NUR2JtVFlCNEo?oc=5",
-          "pubDate": "Fri, 07 Aug 2026 16:11:56 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Lawyers for Andrew and Tristan Tate urge US judge to release them from jail - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRW93b3FlbEVaS19FR2NXV294amJtdmxNNE1aYTlmdGd4UXJLLVFIRzRxaGdNaDdHSVhfbXM0enByVGlMdGMwWnRCSjktWW15WHJxMDgtMlhqbEtPYjlVMTF2WHJRVTZtQ3FZOXNVclhOU3JLS2w3OHRLdTBsOEtIaUMxdE5ONU5PRlByRUZBSE5feEN6MTVfcW90Wm80ZjVSa2RqSDQtU0ota3Q4RjJvbW9R?oc=5",
-          "pubDate": "Fri, 07 Aug 2026 16:10:45 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Wall St set for best week since April as payrolls surprise eases rate-hike jitters - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ1d0RTF2VldzYWZCaFg3YzBhd2pEamRMWWU1VWNQOGZBSnFDVXFfZDNlVVowQzFwSmVHUDdObmQ4d1VDQnpZZmlhNS1xLWJabGxUMlNPSHc0NGY2SFptZ2QzOTgxTEZQVkpFblM4ZzI4anFIUkV1amFOZlNrRDRXbTUySWl0c1VMdjdiMWJxVUtNa0RmQXB5V3l6Rnl3aTRJQi1zOW1zTFFaZ1A4YjgxSnp3?oc=5",
-          "pubDate": "Fri, 07 Aug 2026 16:02:25 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-07T17:25:12.488Z"
+      "updatedAt": "2026-08-07T18:23:45.926Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-07T17:25:12.724Z"
+      "updatedAt": "2026-08-07T18:23:46.165Z"
     }
   ]
 }
