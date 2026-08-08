@@ -1,9 +1,15 @@
 {
-  "generatedAt": "2026-08-08T14:36:54.535Z",
+  "generatedAt": "2026-08-08T15:35:18.146Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China",
+          "link": "https://www.bbc.co.uk/news/articles/cvglp2zlvrlo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 08 Aug 2026 15:15:17 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
           "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
@@ -45,16 +51,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cz05xn35xj7o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 08 Aug 2026 00:29:27 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "'I ran because I knew I would die': Russian drones target medics in Ukraine",
-          "link": "https://www.bbc.co.uk/news/articles/c3r073eqvrjo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 08 Aug 2026 00:02:49 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-08T14:36:53.209Z"
+      "updatedAt": "2026-08-08T15:35:11.943Z"
     },
     {
       "name": "NPR",
@@ -109,7 +109,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-08T14:36:53.367Z"
+      "updatedAt": "2026-08-08T15:35:12.000Z"
     },
     {
       "name": "AP News",
@@ -121,58 +121,82 @@
           "source": "AP News"
         },
         {
+          "title": "Leaking tanker off Omani coast is sinking deeper, satellite images show - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNVhySnNVYW1DT0lnMDJwU3hKWDlHUWt6Tm1SUXhzTTdTZEplS1M5NWk5S2E5UFpNZndWSTIxTjRtNVBkM3lld3M5NHIxV2stdjBLRU5Wd2JFZUJ5WkJJNmxmRFZIYkZZbXJwWXExM0VONTRlODh4ZGNpZVpNODRQM09XdHBKUG40VVE?oc=5",
+          "pubDate": "Sat, 08 Aug 2026 12:52:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Ukraine honors its ‘collector of souls’ killed while recovering the war dead - AP News",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVkI3UGpBZkg3d2ptZUUtcUJjbk5WQjlNVFdFcmZiSERjeUhVWEhLcjJhbS15UEtQdkVQMGpTR2pKMVoxR2tRdnFkOGY4RmpFeG5qZnRORHZ1anA3VnJTMXFhTzJxcjh2WkJGdGtyb3luWFlkcTVrVWxadEd6dktkVHBoaVFQcWdDVzF2VjNjc2V2eXZuTm1OaXo4OEw2UG16YUxJ?oc=5",
           "pubDate": "Sat, 08 Aug 2026 12:16:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Leaking tanker off Omani coast is sinking deeper, satellite images show - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNVhySnNVYW1DT0lnMDJwU3hKWDlHUWt6Tm1SUXhzTTdTZEplS1M5NWk5S2E5UFpNZndWSTIxTjRtNVBkM3lld3M5NHIxV2stdjBLRU5Wd2JFZUJ5WkJJNmxmRFZIYkZZbXJwWXExM0VONTRlODh4ZGNpZVpNODRQM09XdHBKUG40VVE?oc=5",
-          "pubDate": "Sat, 08 Aug 2026 11:50:00 GMT",
+          "title": "A 12-year-old girl dies after Thailand school shooting, bringing the death toll to at least 8 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZDRVbmJYT1dkcjVDVFcxSUd1N3NQX05HcXVpR0lRRWo4RDVCTGpLTG5aVDRnSk5Yc3NoRi1VaENibDRldWRWZGo2WlFtdXBGZUdNV2RHVl9XWTEzTDIzWEwxNktuNEtUc09uY1FROTNyTWJ4LUo2VFhkcG50UlVaSkpYNTNTMFBQTFlld1I3TENoM3l3Y2RCekJJUnppdHhNMHB5SnpSb1ZmMF91QmdJOA?oc=5",
+          "pubDate": "Sat, 08 Aug 2026 12:05:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "With the right preparation, international trips with babies are possible and even fun - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeTV2dnNXZ3J4MnJ5LUFSMkZQTjJkd3dRaXhSMDhBWWxBS3NhUmhJZW5CUjM4NlU4a0EyVTdpdW1BRjJtTEFmdVlucGN1NVlfYnpGQXMwMk5DRlZFZUNzdmZFZWxCcTF1NURZTThSUFJnWi1XSzVjUjl4TEl6SktyX25feWhBWGhnU3hoR004TGZGN19xaGxvbEtzVmhERmRpM0RsdA?oc=5",
+          "pubDate": "Sat, 08 Aug 2026 11:58:00 GMT",
           "source": "AP News"
         },
         {
           "title": "Volodymyr Zelenskyy - AP News",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xb1ltODYxdGFUVGUzdHFuOXJoaGZQLXE4LS03ZTl3bTJkZXluNlRVTmtZaWFDQWhkX09IM2VYVURYcVVIcjJGM0p4UUhyVjdxSWViaA?oc=5",
-          "pubDate": "Sat, 08 Aug 2026 09:45:51 GMT",
+          "pubDate": "Sat, 08 Aug 2026 10:39:11 GMT",
           "source": "AP News"
         },
         {
           "title": "Senators head for the exits without meeting Trump’s demands for voting bill - AP News",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSnBUaHk5U09VaXptbloyWkxjR2VQNGdjUTByX243TFBwSURBTmdyc1VuVXJRY1U2cm5EdTlZT1pSV3JZZU5DOFVDaTJwNXo1RUs5LUNYYkdydWdRZlpDZmgyNTZYcnVJSk41akdpc3N2QmhKU3I1bmxmNmo5YzdLUkZBdUVqTFZ2NWRDdUxpa1RMY0NX?oc=5",
-          "pubDate": "Sat, 08 Aug 2026 09:23:00 GMT",
+          "pubDate": "Sat, 08 Aug 2026 09:24:34 GMT",
           "source": "AP News"
         },
         {
-          "title": "Todd Blanche narrowly confirmed as Trump’s attorney general in overnight vote - AP News",
+          "title": "Todd Blanche is narrowly confirmed as Trump's attorney general in an overnight Senate vote - AP News",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVVFqcS02ZHV5ZjlaeVFZdTlteEs3VjRqcVhQN3hxZHRQYjFjNUhKenE5MnVQR1J3R1d0cTA2NXJGTHZfcjU0RXM0T0dvSHFUUWItbktmV3JLMVFPaURkMzh5RUhCQmRyY3JUb3NNWGJqSlZvYXhBdzFfeU5hY3d6YVRMRkg5SWt4ZVJSVUpJZWxuYi0tZ2ExbXd5SGdmQzVWWnRvOE5JUm9HOXk4LUVV?oc=5",
-          "pubDate": "Sat, 08 Aug 2026 09:16:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Wall Street week ahead: inflation, retail sales updates - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWVlqNWRqOFllWTBtYUcwU0FBcmRSVUx4Yl9MQWx1dmxvb0sxb3VMU1RQSDlyZEI0MzdfRF9fZF9qZkZZcWNsZGV1M0ZlaDI5ZWVVbHZjbXdCYWJGVy0zNm14WmZweVBna0MtTjY5Z1dPd2szN2hZMW5PQTN5bVU2NkNRUGRiMEZ0Y1RNWFR2d2g?oc=5",
-          "pubDate": "Sat, 08 Aug 2026 08:00:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Student kills at least 7 people at a high school and a home outside Bangkok, officials say - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOX2xvZUJwYnNoTkpuRXVMM056cXZBRzFadUIySTRTRFBENlBOa2plYkQ5M0pBZkFOVGdnMk1ieV9qT2hMYlotSk9LQng3UktZTy1nQmJ3b04zVFZPd1FWMkFvbW9TaW5SV29RcVRmVEV6LVFUTzlSd193RDJLN1B6Z2U3b2hvRldZNWU3YkgtM1FMMnp1WWdqTTB0WQ?oc=5",
-          "pubDate": "Sat, 08 Aug 2026 07:26:00 GMT",
+          "pubDate": "Sat, 08 Aug 2026 08:41:13 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-08T14:36:53.783Z"
+      "updatedAt": "2026-08-08T15:35:17.602Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Berkshire lowers cash stake as buybacks accelerate, reports higher profit - Reuters",
+          "title": "Father of soccer star Lionel Messi dies at 68 in Argentina - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTlJ2MTV3NWVCRm9ZS25KbDZwY2FoQVc2cXp0RFlLZ293cHQ2YXk3YVZHNGc2NS1QenZMNC1sS2lPeTRYaG9HbW56UUtDeENzZTY2amNtMlRXcnlqS2Rqci1xVjVEZ1dHdlNKOVVxakNpWkRybTFMd0xYTzlzZlRqWExMYkFfQnZYNUI4QnF2X1dQTUhtV09YVVhRc3YtdTVj?oc=5",
+          "pubDate": "Sat, 08 Aug 2026 15:31:06 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Berkshire accelerates buybacks, lowers cash stake as profit tops forecasts - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQUQxTUtKTW8xWnBNdHRMdWlZajlZNGhOUlBNeXk3WFJpTjdWYXBqTWNoeVZ6a1RGWG1ZSVVBMU1JdUVDNHJ6N2JxZFVQYl9tOFBEOU91cVJITTdHZ2FJak43MTk3Z0xqMm9hOElreTJ1SjJHRXU0YVROdk92cDNjX25yTTk1aWU0Sm1BdV9ZWDBGTXAtNS13X2NXY3J1eThDN0NOUmNhazI5NkV0ZGc1YlplUXFnM2VQNWZGaGM0MjI4V0k?oc=5",
-          "pubDate": "Sat, 08 Aug 2026 13:10:59 GMT",
+          "pubDate": "Sat, 08 Aug 2026 14:05:45 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Senate Republicans narrowly confirm Todd Blanche as attorney general - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNUFFdU40bEtQWlBwM3l5U3ZPSEFTM3B3NnFVU3RQOS1hRGFpaWhuclhCSVpyQmpQd2NzbklIVEhqS3YzcDZya0kyeGh3QTZXQ1d2VGxWemZVcE9helFzN3ZJaE1SWVhfYklQVUtNNEk2OXEtbE9tX0FhUm5JZ0xVZzZQSmozc3V1SjhPa2FNYXQ3dnA1a21HWmdtbjd0Wjg1MnBDTThobU44MjZhMy1v?oc=5",
+          "pubDate": "Sat, 08 Aug 2026 13:39:36 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Leaders of Serbia and Ukraine pledge closer economic ties - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPN0xra2Zmeno4WmZOSFBtZkVLb190MUVYOUpNNmJMLUp2MWRRMk9wNmhOdTMwQUY5c19RemM5dnVSb0NlZ1NhYmdoZ2FjY2J0Y09RTjRuYmJEMkNzWjNTNzlqemhhM0UxS2R2VnUzZmRoMkZLc0hpdVNkTGxSbmc0UkZ3UUMwYjVRRnVrNEs2cHdZZ1FPaVk0SE0tNA?oc=5",
+          "pubDate": "Sat, 08 Aug 2026 13:21:43 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "India warned Diageo that its whisky's 'matured in American oak casks' claim was misleading - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQa056N3Z4aDVvLU1wcVBZR2FaZ29wRk55NDVjNTdDMmhCTXotNEZ1eXFCZ2J5LUpJUDZ2RUF6dmtUa2s4c1lkQzY3MWVsX1llUk1LREZ4d212cmxhSU5iTHo3cjRvWXBudm5fdkMxX1F5SGs5bjRqbW9Yci11RlFCYXJoM2NqeHNnTm56SFRtejVyZGxicU9RNlMtNHpQT2tTU180UXBqQ0VraFNKSDU0Vk9RYVQ2Rk5ZU09GS29n?oc=5",
+          "pubDate": "Sat, 08 Aug 2026 13:20:13 GMT",
           "source": "Reuters"
         },
         {
@@ -192,34 +216,10 @@
           "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZ0drRnRyQkxIZVZqaHQ3alJqLUZ1azZjeGd1S25MZG1oWkg1bGk3VHJ4R3Mwb3dNYzZtT1U3eXBxSmIyZ1ktLXpOT2d1akVNd2YxQW02TkJGTDhRVnlXNlNwWHY0c2tVd3Jqa2p1T1ZUckdHRnJzaWZVN1RPNFdBZWljWmRGLXVaY1hjMnBJZ0UyRklOWFBRMjZiMF9EU1VZZmgxQUN4S2tocHFTaGZMdi1qU3ZlMXB1WTEwSl9SZmVHeGZLMGtnZEtBWTRMTW5m?oc=5",
           "pubDate": "Sat, 08 Aug 2026 12:38:50 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Apple says Mac users in China can connect to Alibaba's Qwen AI service - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbXVFWnRmd080YXVJQl95andMTEs4bzBySU9OUzFROUdVcVU5UUtjMFF1LVY3WWNEMTZ3di1hM203OUhjQ2d6MFF0NlNWcUdJUndQZXlBWmRXZVhXc2RnSVdORFdmVEZFTWFkNnVVSjVOZFV4NDFkcVo3Z1VramQ5NUZPSkhJclk4R2tuVEtVRzJRNkVmYXhSeTk5NmJ5d0JIRkdSQ1RVR1NnOG5hdmJON0Zlb2t4QV82SWhvZkhWbS1PZw?oc=5",
-          "pubDate": "Sat, 08 Aug 2026 12:35:45 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Senate Republicans narrowly confirm Todd Blanche as attorney general - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNUFFdU40bEtQWlBwM3l5U3ZPSEFTM3B3NnFVU3RQOS1hRGFpaWhuclhCSVpyQmpQd2NzbklIVEhqS3YzcDZya0kyeGh3QTZXQ1d2VGxWemZVcE9helFzN3ZJaE1SWVhfYklQVUtNNEk2OXEtbE9tX0FhUm5JZ0xVZzZQSmozc3V1SjhPa2FNYXQ3dnA1a21HWmdtbjd0Wjg1MnBDTThobU44MjZhMy1v?oc=5",
-          "pubDate": "Sat, 08 Aug 2026 12:35:40 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Democrats plan Trump investigations over impeachment if they win House, sources say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTWl2bmN2bWhrTDhCMERQMHA0cFZaVHpSZFVpZGszY3c2RTNWNi1aNHNyR2ZydXh4ODVtVFN0YzZSa3dCQ3N2OWViYUxRV05ic3ZCSnNEYUVHQkpBWENpRkEzUzVQb015N2NESS1ablUtR1NNR2lnVUVmMmlENUNESDJsdGF0MWhnZW5mQ0FFNzBRd0k0YlI4NzhOUGVUbkt3cng2WDZxMVBRempHVWxrTFdaY2VhZ0lIRkVMOXRGUXgyeEVqUk5uUGwyOA?oc=5",
-          "pubDate": "Sat, 08 Aug 2026 12:12:59 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Bulgaria's Radev says drone exploded in Bulgaria's airspace - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLTJIOVhtd1lJa0ptSGkzVHF4SVNjT0xLVWVJZmdqVXhGQTJNWGF2UklzYldoUmJHNVQ1QnRsbUJLM3k4OUs0aG5mbk43czBEOUE2bDAyakI4a25YWFo0YjdObVRyVGJGeWFaUGZ1eDBhSkVaOUN3NXNDX09pVmFtbmZlSC1ZWWt0eDFVVDNVVWtEbmx3czcwV3E4c0k?oc=5",
-          "pubDate": "Sat, 08 Aug 2026 12:07:43 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-08T14:36:54.192Z"
+      "updatedAt": "2026-08-08T15:35:17.997Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-08T14:36:54.535Z"
+      "updatedAt": "2026-08-08T15:35:18.146Z"
     }
   ]
 }
