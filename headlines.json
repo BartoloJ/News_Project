@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T05:03:21.194Z",
+  "generatedAt": "2026-08-08T06:08:44.442Z",
   "sources": [
     {
       "name": "BBC News",
@@ -7,7 +7,7 @@
         {
           "title": "Child among three killed in Russian missile attacks near Kyiv",
           "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 08 Aug 2026 04:23:33 GMT",
+          "pubDate": "Sat, 08 Aug 2026 05:15:51 GMT",
           "source": "BBC News"
         },
         {
@@ -54,7 +54,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-08T05:03:19.689Z"
+      "updatedAt": "2026-08-08T06:08:30.552Z"
     },
     {
       "name": "NPR",
@@ -109,7 +109,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-08T05:03:19.837Z"
+      "updatedAt": "2026-08-08T06:08:30.722Z"
     },
     {
       "name": "AP News",
@@ -163,7 +163,7 @@
           "source": "AP News"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-08-08T05:03:20.382Z"
     },
     {
@@ -218,7 +218,7 @@
           "source": "Reuters"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-08-08T05:03:20.815Z"
     },
     {
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-08T05:03:21.194Z"
+      "updatedAt": "2026-08-08T06:08:44.442Z"
     }
   ]
 }
