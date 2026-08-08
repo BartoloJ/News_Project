@@ -1,9 +1,15 @@
 {
-  "generatedAt": "2026-08-08T09:43:34.906Z",
+  "generatedAt": "2026-08-08T10:38:51.887Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Todd Blanche, Trump's ex-lawyer, confirmed as US attorney general",
+          "link": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 08 Aug 2026 10:19:46 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Child among three killed in Russian missile attacks near Kyiv",
           "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
@@ -45,20 +51,32 @@
           "link": "https://www.bbc.co.uk/news/articles/cy8ey458pv5o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 07 Aug 2026 22:07:00 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Watch: BBC asks Infantino if he will resign as Fifa president",
-          "link": "https://www.bbc.co.uk/news/videos/c0ejrdzx98wo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 07 Aug 2026 21:24:17 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-08T09:43:33.200Z"
+      "updatedAt": "2026-08-08T10:38:50.647Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "The Women's Professional Baseball League makes its historic debut",
+          "link": "https://www.npr.org/sections/the-picture-show/2026/08/08/nx-s1-5923371/womens-professional-baseball-league-debut",
+          "pubDate": "Sat, 08 Aug 2026 06:30:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Federal funds can't be used to give test strips to drug users, raising overdose fears",
+          "link": "https://www.npr.org/2026/08/08/nx-s1-5874719/federal-funds-cant-be-used-to-give-test-strips-to-drug-users-raising-overdose-fears",
+          "pubDate": "Sat, 08 Aug 2026 06:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Private prisons announce $1.4 billion in revenue as immigration detentions climb",
+          "link": "https://www.npr.org/2026/08/08/nx-s1-5923881/geo-group-corecivic-immigration-detention",
+          "pubDate": "Sat, 08 Aug 2026 06:00:00 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Data centers are a political issue crossing party lines, driving voters to candidates",
           "link": "https://www.npr.org/2026/08/08/g-s1-137853/data-centers-primaries-midterms",
@@ -88,36 +106,18 @@
           "link": "https://www.npr.org/2026/08/07/nx-s1-5925123/white-house-ballroom-appeals-court-congress",
           "pubDate": "Fri, 07 Aug 2026 14:10:37 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Monty Roberts, who trained horses through trust, dies at 91",
-          "link": "https://www.npr.org/2026/08/07/nx-s1-5924104/monty-roberts-horse-training",
-          "pubDate": "Fri, 07 Aug 2026 13:48:17 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Senate passes Russia sanctions bill that was long championed by Lindsey Graham",
-          "link": "https://www.npr.org/2026/08/07/nx-s1-5924914/senate-passes-russia-sanctions-bill-that-was-long-championed-by-lindsey-graham",
-          "pubDate": "Fri, 07 Aug 2026 13:33:40 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Colombia's new president vows to remake the country — and challenge rebel groups",
-          "link": "https://www.npr.org/2026/08/07/nx-s1-5924775/colombias-new-president-vows-to-remake-the-country-and-challenge-its-fragile-peace",
-          "pubDate": "Fri, 07 Aug 2026 11:41:45 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-08T09:43:33.651Z"
+      "updatedAt": "2026-08-08T10:38:50.814Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Senate approves funding bill to avoid a shutdown before the election - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQczJKQlNxb05hS05Zc0hoUC1HTjJ2ZlpoWHRRVzlXTDNyTDFWQ3BKVnZhM1hmb1FZb0NiVkp3aDF6ZW5qWW9CU2Fyd1BiTTFmVTEzNmdpbkxRd0pOLVNqRTZyOWJVVVdLSWRrdW1uSDA3bWoxV0RyUlhQUzc1ZHlDUUctbFpQbnJWV3NpZGY2b3d6bzdJ?oc=5",
-          "pubDate": "Sat, 08 Aug 2026 07:59:00 GMT",
+          "title": "Climate change - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1PcnJYZVhLUXZTYVBjZGN6MTJMaWRCSXFaZXFXZEVMckp0VEMySmF5ajJENTNPaXBxRHpxXzV5Vlh1aVc1a21GYkVNdU41QQ?oc=5",
+          "pubDate": "Sat, 08 Aug 2026 09:20:09 GMT",
           "source": "AP News"
         },
         {
@@ -127,9 +127,21 @@
           "source": "AP News"
         },
         {
-          "title": "What to know about Trump’s new attempt to limit birthright citizenship - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTVpjOTZUUTYzSEtEWEdtLTNybmdWdDZhMVFuWmw1U1ZWUWo2QWpzUTNYM2oyQmsyenBHX1I2ZjViakd1WWxlLTFvankxYzZNMXBuamJXSVJPVTJpRVhNaThpWFRfNWYyc2x3cUV1XzVCWWRTQXJEaW1DMkN1bnF3Qi16dkp1bm1XUHFXaE1kYWpBdW85WU11UTRCWUVYYmlXNVE?oc=5",
-          "pubDate": "Sat, 08 Aug 2026 04:01:00 GMT",
+          "title": "Iran’s leaders think they have Trump cornered, but their strategy carries great risks - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMjQyZGM5S1VnU3NWQ0VMWkk3TkpRTGxySnBlQlRLRmNORHV0MnZMM0NXWFpKa1B6RjQ5OVVQNzdZcGRtZHBlaURzZTVmNXd5QzZVSXd6LWJ2UVlDbk9Tc0F6dk1PTzlOQWFHT0ZpTlh0YzRZa0toaVhzZndvazNWWTRoM1o0TTVNelBIMDA2OHIxZG1mLUlaX1lXbjRteE5BTlBB?oc=5",
+          "pubDate": "Sat, 08 Aug 2026 07:01:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Eastern China braces for Typhoon Dolphin, shutting schools and tourist activities - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTm0za0swNG1VbTNRVnl3M0wxMkJTUnA1RXh1aXhIZDhkZmltX0dObFFlUnRhQUVvRXVZVkNJOEQ5aThzaVhlalNoazVna2F2OVNlbUJyZG1FazhMWTJXeHJ0djcwdFkxUDhuNjZfMzZpaGJTcEJCNndMaEd0ai00aTh3T3hDRml5Yi1pRlZrNkoxUHg3?oc=5",
+          "pubDate": "Sat, 08 Aug 2026 05:45:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Volodymyr Zelenskyy - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xb1ltODYxdGFUVGUzdHFuOXJoaGZQLXE4LS03ZTl3bTJkZXluNlRVTmtZaWFDQWhkX09IM2VYVURYcVVIcjJGM0p4UUhyVjdxSWViaA?oc=5",
+          "pubDate": "Sat, 08 Aug 2026 05:35:41 GMT",
           "source": "AP News"
         },
         {
@@ -145,26 +157,14 @@
           "source": "AP News"
         },
         {
-          "title": "Volodymyr Zelenskyy - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xb1ltODYxdGFUVGUzdHFuOXJoaGZQLXE4LS03ZTl3bTJkZXluNlRVTmtZaWFDQWhkX09IM2VYVURYcVVIcjJGM0p4UUhyVjdxSWViaA?oc=5",
-          "pubDate": "Sat, 08 Aug 2026 01:35:24 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "A helicopter battling a Utah wildfire crashes as a blaze kills dozer operator in Oregon - AP News",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSzAtTWRwTDNnTlJBV1FubThkaEEtSlNZaE9ETi1qSTQ1UThILWJ6c1B2TmZiOXo4Z0pKQjdTajJ5eWNmSEJFYkNWU3BNVHF2LUM0U3p4THFEQmgwaXhkSUN1VHJIdjBrcFI2Q2pjSGZfRC1LZDdLdlhFSlF4amxZQXdwUTVSMkF3VnJOWXZKYy14SGtv?oc=5",
           "pubDate": "Sat, 08 Aug 2026 01:25:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Appeals court rules Trump can’t build White House ballroom without congressional approval - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQ2Y1LXVndW1CYTZLREtONjNaUGhlamYtSU9GYWM1T3RsRF9fWVBSWnhOMGxVQ3Ywc0lmdzNrY05NMDN3cHc0bXhPS3Z2ejRZdVp2dzN2Q0wzYmNQUnlCakNZTHlaZ0xRU09zYnpGWVZFdmttTzNfeWZpRm5QdWExR2d5ZnRYcVdXdXZiWXRtUW0?oc=5",
-          "pubDate": "Sat, 08 Aug 2026 00:02:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-08T09:43:34.111Z"
+      "updatedAt": "2026-08-08T10:38:51.245Z"
     },
     {
       "name": "Reuters",
@@ -184,7 +184,7 @@
         {
           "title": "US says it plans $1 billion security assistance to government of Colombia's new leader - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeW1jcFhmVTc4MXRBdGZsZ0FuVXZBUFdSVVlXVEVWZTNPR2JTUVZITGk4blEtVDFkVWNfSkJuUk1zRkZSYlBDZzVsWDE5ejZUWTl4TE9mOHFmZFZac1VxRVduQU1HWkhIMGRycWE2ZWNVYTdzWFpjanBrVEZvWW55alM4QS03YnBwQ2x6MXc0QVlWV3Zoak5hM21Tay1MY0FaOUQ5ejZ6MFdCMnNsc19LNE5WbWMxN3l4YzgtdTFDR3I?oc=5",
-          "pubDate": "Sat, 08 Aug 2026 02:52:13 GMT",
+          "pubDate": "Sat, 08 Aug 2026 02:51:00 GMT",
           "source": "Reuters"
         },
         {
@@ -219,7 +219,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-08T09:43:34.539Z"
+      "updatedAt": "2026-08-08T10:38:51.659Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-08T09:43:34.906Z"
+      "updatedAt": "2026-08-08T10:38:51.886Z"
     }
   ]
 }
