@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T22:35:06.121Z",
+  "generatedAt": "2026-08-08T23:34:09.827Z",
   "sources": [
     {
       "name": "BBC News",
@@ -54,7 +54,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-08T22:35:04.823Z"
+      "updatedAt": "2026-08-08T23:34:08.494Z"
     },
     {
       "name": "NPR",
@@ -109,15 +109,21 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-08T22:35:04.980Z"
+      "updatedAt": "2026-08-08T23:34:08.717Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Dangerous wildfire keeps crews from reaching helicopter crash in Utah - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeWR4UU03c2Q4b0ZHWlNtcHRWSlgydk1xZjdMeXNqX0o2dF9sUXpjSzhEdk9vVE56TW1TTjhzQ2FrMzZvWkFiMGF2WGdFZms0ZmtJaXJNZzBKWDJQZ2QxYWcwdl9qZFRWa0lHNG5VdUJVM0RPa2hEWVRzd1o0R3FXSDZMUDg2andYSW5Ca3dnYU9UeE1PZ2l5eVhDSmdNMWh6bEdQZA?oc=5",
-          "pubDate": "Sat, 08 Aug 2026 21:05:00 GMT",
+          "title": "Whitney Houston's new No. 1s album, first-ever Barbie, Clive Davis and more: A Q&A with Pat Houston - AP News",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYnFxLWl1TmJSY0t6R25JNHBBSjNOWEpjOERRUWhfSGVwRXdhWnBVMVFKczhFd1poVWFDWW5PTHczWUFZajRraVVQOFcyMC1sOGJ6WVBWdmJDTlloLWlzSzMxWWFPbEZJeUlFNTVPMVhZaGEwTzBidEpXd3FDal9Xb1ppME1DMEdFVGxBS3JNUU1raWN1VkNsUThUWE5Fdw?oc=5",
+          "pubDate": "Sat, 08 Aug 2026 22:00:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Chicago’s DiJonai Carrington ejected for foul on Sophie Cunningham and posts 'white privilege' - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbkIyYi1MTXdLSlpLdGRPajVfaWJyZFRRZmxFZlMxZnhsejZxbHRFd1BuaWRfdF92Wkt2OU1QSUZYZ3hXd1MzRTZOX1BCbFdEbTN4ajdGY0pBbnlXb21zZG9vWFNKODRSSkxsN1hBTlo0ZjdSdTIwcGlGLUJQRk04VE95eXJBd1NCWG1fTXF5Wk13Y1VaTmpHcWFQUmVLYjhRUFl1eVNpQnI?oc=5",
+          "pubDate": "Sat, 08 Aug 2026 21:33:45 GMT",
           "source": "AP News"
         },
         {
@@ -136,12 +142,6 @@
           "title": "Turkey says defense pact with Saudi Arabia and Pakistan is not aimed at Iran or any other country - AP News",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcUpUOU9hYmtTNTVWYWo5dHRzR1owQjZ6dGdndWlyWmF0cUowcVZjbUkzUE94QTFZeDVQUHBLME83VFhxT2JHcElDZTZmS1BrbUFBaE9pazVPQVhGOEx5OWlrTGMydjFlTll6ZXhZb1hJNkFiN0RBUW1oSXFabXFlbXQ0S1FvZksyT1AzV00zR3pEdHRQcjBWc2R3VGNwd3ZlZUNBcGFHNU5uWjBnME5sSQ?oc=5",
           "pubDate": "Sat, 08 Aug 2026 20:07:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Iran makes new strait demands, the UAE says a ship was targeted and other Middle East news - AP News",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONHBEUUlsdUlIcC1vM0pPSm9IUk9fdnRseE15OXFhN3FRTHRqa0dEcmR4aXVjMmJMLVEyMzNsWDlnaFFLRkRKRkQyb24tTC1MNjBGMVcwa2cyeXczemdMY3AtX2x4TENBWmc4S0Nqbm5COEd6NmVhNEN4MjVPajdrd3UyQ0FsRXoxU0JTdm1BTTBCRjVzcmZ3WTJVNVZ1Y3JFV3owRzBGQXNIVXBiSUVKZ2FJZUpxeUdJZzNFaWhR?oc=5",
-          "pubDate": "Sat, 08 Aug 2026 20:02:00 GMT",
           "source": "AP News"
         },
         {
@@ -164,27 +164,27 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-08T22:35:05.423Z"
+      "updatedAt": "2026-08-08T23:34:09.196Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Vollering snatches overall lead in Tour de France Femmes with dramatic stage eight win - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOd2NUaFI0UHV6VzhMMlhKSnlmU2F3Y3kyMFdPNE95U1FzZVFBd3lmUU9RNWp4TzJNcWdqSVY4bDR0RlFWTTVUcnI2ajZVZ1JMTGZFbU1FVEFqRkdOb2M1ZmFFSzVIM0I4MjFYZTVDdnJkcjhZV19KSWhHb3RPbG5oZEJNbnNGUXVjZkRGb2k0LVJzdnF3bzZvMTBJUjVTczhfUjI5ZGtWMTFkWXFadks4?oc=5",
-          "pubDate": "Sat, 08 Aug 2026 22:00:58 GMT",
+          "title": "British Columbia declares state of emergency as more than 20,000 flee wildfires - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeUg1Y1BqdGNyMk45Z19zcUlaNXlrQWc5MDRMc1cydHgzSjhBeERvNDc5TXZ4NVBSOVFyd1gybkM5Um11Z1lGcXdxQ1pZUFptLVdtd0ZZWXhsa1lfem13aUNkVnIyNDlSckhSSk12b1VNMkc2U0VoVlJzQzlXVlp1T0VVRi1LUVVQQ3lYWVNTMjVaWVE0SU5EeENDRUVVVXNQWjlVZkx6eXZpZ2JjemhoTW8zdlhkdmNnd0ZabTEweWNibkFpcFBmUGh1Y2k?oc=5",
+          "pubDate": "Sat, 08 Aug 2026 22:57:12 GMT",
           "source": "Reuters"
         },
         {
           "title": "Iran says deal on Strait of Hormuz is close but not enough to open the waterway - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX3lCSkcxU1lGMG5WLWZnQ3BPMzVqREVjajhDeUVndVBndkNPSklSaWV2RVM2a3FKcWhBMEwtcVRfbUgwNXZGMDNJUy1PU1NCVWszOG03N1RySFdMZlBrMTJ0SHo3bmc0MUt1V3pMb052UmxRSFg3cDhkY2VGR2hyMlRyMjBIYVBRajFwWkJOa05sMFhkUEZ1M3NuNjFRTURGS2pDSzBjOWNRSVlidXBPNnVWNlJ2U1VRMWxpQ2E1WWhzdw?oc=5",
-          "pubDate": "Sat, 08 Aug 2026 21:37:45 GMT",
+          "pubDate": "Sat, 08 Aug 2026 22:54:58 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Thousands told to evacuate in British Columbia's wine region as wildfire grows - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeUg1Y1BqdGNyMk45Z19zcUlaNXlrQWc5MDRMc1cydHgzSjhBeERvNDc5TXZ4NVBSOVFyd1gybkM5Um11Z1lGcXdxQ1pZUFptLVdtd0ZZWXhsa1lfem13aUNkVnIyNDlSckhSSk12b1VNMkc2U0VoVlJzQzlXVlp1T0VVRi1LUVVQQ3lYWVNTMjVaWVE0SU5EeENDRUVVVXNQWjlVZkx6eXZpZ2JjemhoTW8zdlhkdmNnd0ZabTEweWNibkFpcFBmUGh1Y2k?oc=5",
-          "pubDate": "Sat, 08 Aug 2026 21:06:04 GMT",
+          "title": "Vollering snatches overall lead in Tour de France Femmes with dramatic stage eight win - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOd2NUaFI0UHV6VzhMMlhKSnlmU2F3Y3kyMFdPNE95U1FzZVFBd3lmUU9RNWp4TzJNcWdqSVY4bDR0RlFWTTVUcnI2ajZVZ1JMTGZFbU1FVEFqRkdOb2M1ZmFFSzVIM0I4MjFYZTVDdnJkcjhZV19KSWhHb3RPbG5oZEJNbnNGUXVjZkRGb2k0LVJzdnF3bzZvMTBJUjVTczhfUjI5ZGtWMTFkWXFadks4?oc=5",
+          "pubDate": "Sat, 08 Aug 2026 22:00:58 GMT",
           "source": "Reuters"
         },
         {
@@ -219,7 +219,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-08T22:35:05.854Z"
+      "updatedAt": "2026-08-08T23:34:09.615Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-08T22:35:06.121Z"
+      "updatedAt": "2026-08-08T23:34:09.827Z"
     }
   ]
 }
