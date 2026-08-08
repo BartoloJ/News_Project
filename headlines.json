@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T10:38:51.887Z",
+  "generatedAt": "2026-08-08T11:33:48.829Z",
   "sources": [
     {
       "name": "BBC News",
@@ -54,11 +54,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-08T10:38:50.647Z"
+      "updatedAt": "2026-08-08T11:33:47.566Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Switzerland is a neutral nation but has more nuclear bunkers than any country in the world",
+          "link": "https://www.npr.org/2026/08/08/g-s1-137635/switzerland-nuclear-bunkers",
+          "pubDate": "Sat, 08 Aug 2026 07:01:00 -0400",
+          "source": "NPR"
+        },
         {
           "title": "The Women's Professional Baseball League makes its historic debut",
           "link": "https://www.npr.org/sections/the-picture-show/2026/08/08/nx-s1-5923371/womens-professional-baseball-league-debut",
@@ -100,16 +106,10 @@
           "link": "https://www.npr.org/2026/08/07/nx-s1-5925167/trump-lisa-cook-federal-reserve",
           "pubDate": "Fri, 07 Aug 2026 15:35:35 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Another court blocks White House ballroom work, teeing up a Supreme Court review",
-          "link": "https://www.npr.org/2026/08/07/nx-s1-5925123/white-house-ballroom-appeals-court-congress",
-          "pubDate": "Fri, 07 Aug 2026 14:10:37 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-08T10:38:50.814Z"
+      "updatedAt": "2026-08-08T11:33:47.759Z"
     },
     {
       "name": "AP News",
@@ -118,6 +118,12 @@
           "title": "Climate change - AP News",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1PcnJYZVhLUXZTYVBjZGN6MTJMaWRCSXFaZXFXZEVMckp0VEMySmF5ajJENTNPaXBxRHpxXzV5Vlh1aVc1a21GYkVNdU41QQ?oc=5",
           "pubDate": "Sat, 08 Aug 2026 09:20:09 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Russian attacks kill 4 in Kyiv and surrounding region as air defenses fall short - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbDFfY3QyOTNzV21YQ0VINm5YT013Y3BXZ2Y5aWg5M0xVUVhTRFc0U2JxTktwa0MyS0RERFR3RWZvekQzdVBYdnBnWGhtckZDay1sMS1iZmUyZllQN2hjNGM2X1ZNTjRlaVJMTnNDdW92ekg5QkJDRUVmZzhNYzNhOWM2cUpFMEU3VjB5U0lWQm40enFTUHJMSnJKWEk3T0lXUHJleHhQbEE?oc=5",
+          "pubDate": "Sat, 08 Aug 2026 08:33:00 GMT",
           "source": "AP News"
         },
         {
@@ -155,71 +161,65 @@
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUks4b2Fka2UwQVNGMXhQdnpVN0Jya2xIMGh2WHJmUnJXblRRQndFbjFQRlNTU0dEUGp6ZWhKUEp1QW0tVTVHMTZRXzlENW9RSWN2QVlVWS04ZFZOSVljQkhiVHoya0JZSnVBQUlGUFJKZmliNWZBM0tSYTlEcG9nZDJZSzlMUVdZYjlTenM2OUs3MnJHdTdxZ01IejhNZ1hXTWQ1OTJaT0U2R2JRLVRXNXVZVjlXc0E?oc=5",
           "pubDate": "Sat, 08 Aug 2026 01:37:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "A helicopter battling a Utah wildfire crashes as a blaze kills dozer operator in Oregon - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSzAtTWRwTDNnTlJBV1FubThkaEEtSlNZaE9ETi1qSTQ1UThILWJ6c1B2TmZiOXo4Z0pKQjdTajJ5eWNmSEJFYkNWU3BNVHF2LUM0U3p4THFEQmgwaXhkSUN1VHJIdjBrcFI2Q2pjSGZfRC1LZDdLdlhFSlF4amxZQXdwUTVSMkF3VnJOWXZKYy14SGtv?oc=5",
-          "pubDate": "Sat, 08 Aug 2026 01:25:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-08T10:38:51.245Z"
+      "updatedAt": "2026-08-08T11:33:48.194Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Bodies spotted at site where five climbers went missing last year - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaG9oc3YzV2dOeEItN0E5YktTV3ZKZHFlQjVkR3Y1U2JmeEZZOUNRSFR3czZ6RWNxMklOcG9BZzhFUWMyRFpmTDhZamlYMmxWbGVRY000RE1MNEc3Z0w5c1kxRE5wcmdtV21jcUF1WUxLNVItemEyV05UYU9idnpvZ1hwS1NrOVdWTEdGSFpMUmo0cXNqekItTWR0b1BmQlk5aTlkaEVGTVJjbEF0VjYxd1VLOS1QV3RL?oc=5",
-          "pubDate": "Sat, 08 Aug 2026 04:43:00 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "Typhoon Dolphin hits Japan's Okinawa, China shuts ports ahead of landfall - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPb0J4a1l5M0xKRnRfV3I3SVhteEVqM2NOTVdiWnNYMi1zMlZ2WmtydHpDZmZvenRoMWRVeVBmSmotNldBa3U1bGRtcUhqZHdaam1oUDRCYmVoUVlTZkRrbEhuXzJzUTYtVU9GcUFzdXdjNm54S1o2ZlJfTm90bnJWYnBqRVR2TUQ2bWRsWVVlUlRSbWVhWWpYemp1S0c0a3ZSenZzZmdWODVYd1VINDhtSjlOZHpZSDVJbzFUVEVMVFh6YWs?oc=5",
-          "pubDate": "Sat, 08 Aug 2026 04:33:00 GMT",
+          "pubDate": "Sat, 08 Aug 2026 11:07:21 GMT",
           "source": "Reuters"
         },
         {
-          "title": "US says it plans $1 billion security assistance to government of Colombia's new leader - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeW1jcFhmVTc4MXRBdGZsZ0FuVXZBUFdSVVlXVEVWZTNPR2JTUVZITGk4blEtVDFkVWNfSkJuUk1zRkZSYlBDZzVsWDE5ejZUWTl4TE9mOHFmZFZac1VxRVduQU1HWkhIMGRycWE2ZWNVYTdzWFpjanBrVEZvWW55alM4QS03YnBwQ2x6MXc0QVlWV3Zoak5hM21Tay1MY0FaOUQ5ejZ6MFdCMnNsc19LNE5WbWMxN3l4YzgtdTFDR3I?oc=5",
-          "pubDate": "Sat, 08 Aug 2026 02:51:00 GMT",
+          "title": "Drones spotted above German military base two days after suspected drone attack - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPclAtNUZ3Z3drR0pPSjJpaVBLa292ay1pdEZxZlJnanFnT1AwbGJPYVJZbEVZWWVRSm9xempKX3VVXzM5NlRzRFNVWHJiSFBEZk1vRmsxekhLZnFZLXpjb2xlcXFJOW10bHZzZlN6NXZjMUVfR1VxWENJV2JqT0ZMemlkbWNJZFN6QkpYSFUwbkdKeXp4UHowQlR3ZEk1bnNEWVhWdE1vMEhrbEpFbW1jT1NEVUFlQ19mRmxSUTh3?oc=5",
+          "pubDate": "Sat, 08 Aug 2026 10:19:49 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Taiwan president oversees coastal strike drill during annual war games - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbmRWNXBNUDIwNU1QVmU3UmctOVNZVXZfVk1idDQ3TWJZRDRKV0FleVRndE5ZTGJsY1p0aUNodG05dzNvdUR1eDJZa0RzdU9OZ0VYREg0RzdqaVBuNXVpYXltckRzNUhnaHZRV0RrNG9Kbm9tZzZ3aHZ1RXQ1U0xBdlA3Mm5BLTJsdFhrVnB1endPSjUtZ3Z2TjJ5ZVQ5M2IwUVZHcHJmcWs2SHNaOEdKa2d6TkhlVnRHc1E?oc=5",
-          "pubDate": "Sat, 08 Aug 2026 02:38:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Nvidia to invest up to $3 billion in Stargate data center developer Lancium, the Information reports - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQVlHNnRpWjl0RUFEajBjQnAtMGtUTnYyVXVBNEpCMFRFVEJNb3g4Q0FPWWtRNnAxX0x3RHMzdVFLN3dJLXQ3Z0pTOEtMQnFnUWFCVS1jUlhZYXZIaGpCTF9EQXVWVmhyemxIZmF5X1JveTNJbC1Hb2FWNjBrZkFyRjNmQlRhbFpET2Q2c3pRMjhYVUN4eEs1WURpaEVWWnpi?oc=5",
-          "pubDate": "Sat, 08 Aug 2026 01:42:00 GMT",
+          "title": "Democrats plan Trump investigations over impeachment if they win House, sources say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTWl2bmN2bWhrTDhCMERQMHA0cFZaVHpSZFVpZGszY3c2RTNWNi1aNHNyR2ZydXh4ODVtVFN0YzZSa3dCQ3N2OWViYUxRV05ic3ZCSnNEYUVHQkpBWENpRkEzUzVQb015N2NESS1ablUtR1NNR2lnVUVmMmlENUNESDJsdGF0MWhnZW5mQ0FFNzBRd0k0YlI4NzhOUGVUbkt3cng2WDZxMVBRempHVWxrTFdaY2VhZ0lIRkVMOXRGUXgyeEVqUk5uUGwyOA?oc=5",
+          "pubDate": "Sat, 08 Aug 2026 10:04:36 GMT",
           "source": "Reuters"
         },
         {
           "title": "Taipei says China's traffic control order for Taiwan Strait during typhoon is 'ridiculous' - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWjIzWVZmYlV0bEl6Uk9kazZtSmgyVGF5Yk9IOVFaNUc1YWJ4d0VRbTdZYXJsaTFEQ21tLWw4cl9XaXB6dWd5MW9mUDJPanlFWWdkSHJRNkViRnlDUWVodDlSRlB2eGFETm10clBIYm5PUW1xV3BUUEhJR3h1dHZzWjZJMnFPUnUtVFB0UjhpU0Jmck42Ul8wR3NCRU1vd1Y0OUo4U0loM29Jd1hSX2YxN1pyU3d3N09RM3pHeg?oc=5",
-          "pubDate": "Sat, 08 Aug 2026 01:37:00 GMT",
+          "pubDate": "Sat, 08 Aug 2026 09:42:14 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Three killed in Russian strikes in Kyiv region, official says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb011X2cwd2NtQm5jMDB6VjBDX3cyd01nVlFYendoMHBGWUE0NGdJUF9fNU56cENkbGxweF9YZGVFR3k5VFlWZFdNZVVXcXhWVTlJeHZJRzBQODhONWhER0tWU1VWYUFGTGZYM2VFekEzTndJVTVIeV9fWUtlRTlkQ3NFc2xyYk5ndWVfWXREYWJzakRVZHVLU0Z5VVdVN1NmTk5sRzRB?oc=5",
-          "pubDate": "Sat, 08 Aug 2026 01:31:00 GMT",
+          "title": "Fire at Russia's Ilsky oil refinery put out after Ukrainian drone attack - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZF9rMGhXdGhNYTJuckV5Z3VqRGIxT2VwbzhWNXlxU24yYlRBQ2Q0bUJhbnpRSkEwRWFRNXpWdFdGSGdRUjh0X1RYLWxsTXJ3STd5VWd3Qmd2VEtNQjZNTUU2d2hVRHo4aXBRa3FNSjVVVHF4SGRlV0tKc2JDUWxRNFNKUUk0eFNDbGVLOGFqeVpaRTZZQzJIenhmUmVBLUNVVUZ3ZDVPM1FyRUF3N0NVRDlXU2ZrUTlwd2ctcQ?oc=5",
+          "pubDate": "Sat, 08 Aug 2026 09:30:47 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Justice Alito says he is staying on Supreme Court for another term - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRUFqU1p6WmdWcHFJOHhMME1YRTl6bE13N2hrNEJDYm1kRm9zT3hUTjI2clI5Z3A3UnB0ajY4RTBuVi1uNnRCS3BXNjdpN0lrbThSTVZFYmUtSUk1ZV9RSnNXQ2FkVUMxektVUDNqQWNIRHJGM0wxOTU3TjRueDRKVHlzRkgzZUdZWU94U0lMeWR1dmx0QlB1OTBXM3pwSk1McUhnWjNqUUFINkRjdlkxU0hn?oc=5",
-          "pubDate": "Fri, 07 Aug 2026 23:23:08 GMT",
+          "title": "Senate Republicans narrowly confirm Todd Blanche as attorney general - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNUFFdU40bEtQWlBwM3l5U3ZPSEFTM3B3NnFVU3RQOS1hRGFpaWhuclhCSVpyQmpQd2NzbklIVEhqS3YzcDZya0kyeGh3QTZXQ1d2VGxWemZVcE9helFzN3ZJaE1SWVhfYklQVUtNNEk2OXEtbE9tX0FhUm5JZ0xVZzZQSmozc3V1SjhPa2FNYXQ3dnA1a21HWmdtbjd0Wjg1MnBDTThobU44MjZhMy1v?oc=5",
+          "pubDate": "Sat, 08 Aug 2026 09:18:31 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "U.S. Senate passes short-term funding bill to avert federal shutdown before election - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdWRVbHNkMjA4cmYxWXRuOEh0bjk4YlNZODFMYXphZEJNZlhRYmhtX3JUTWplenMzemoxYU01LXoydTNfX3p5N29nSkNkSnYyMENNbXJ2RU9FeU1Ed2s1b3lXdWNPYjNwWXg0S3Fodm9TVGRyODBQX2Z4dVQ2bTRpTmh6cDJhQTh3ZWNtTlRYdkU3UEJKeTFqcmhEY0VQNl8zUDkxTW51YXM0OG1jUHpDb2Ewa1ZXdHRqRWFYeWF3?oc=5",
+          "pubDate": "Sat, 08 Aug 2026 09:02:26 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Bodies spotted at site where five climbers went missing last year - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaG9oc3YzV2dOeEItN0E5YktTV3ZKZHFlQjVkR3Y1U2JmeEZZOUNRSFR3czZ6RWNxMklOcG9BZzhFUWMyRFpmTDhZamlYMmxWbGVRY000RE1MNEc3Z0w5c1kxRE5wcmdtV21jcUF1WUxLNVItemEyV05UYU9idnpvZ1hwS1NrOVdWTEdGSFpMUmo0cXNqekItTWR0b1BmQlk5aTlkaEVGTVJjbEF0VjYxd1VLOS1QV3RL?oc=5",
+          "pubDate": "Sat, 08 Aug 2026 04:43:00 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-08T10:38:51.659Z"
+      "updatedAt": "2026-08-08T11:33:48.560Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-08T10:38:51.886Z"
+      "updatedAt": "2026-08-08T11:33:48.829Z"
     }
   ]
 }
