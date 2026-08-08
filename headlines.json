@@ -1,9 +1,15 @@
 {
-  "generatedAt": "2026-08-08T19:34:34.950Z",
+  "generatedAt": "2026-08-08T20:36:41.638Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Paris tells e-scooter riders to wear safety gear or face fines",
+          "link": "https://www.bbc.co.uk/news/articles/c89nkln7w7ko?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 08 Aug 2026 20:18:28 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
           "link": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
@@ -45,16 +51,10 @@
           "link": "https://www.bbc.co.uk/news/videos/cvg8je12xxeo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 08 Aug 2026 15:59:37 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
-          "link": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 08 Aug 2026 15:56:39 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-08T19:34:33.606Z"
+      "updatedAt": "2026-08-08T20:36:40.250Z"
     },
     {
       "name": "NPR",
@@ -109,15 +109,39 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-08T19:34:33.732Z"
+      "updatedAt": "2026-08-08T20:36:40.476Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "Iran makes new strait demands, the UAE says a ship was targeted and other Middle East news - AP News",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONHBEUUlsdUlIcC1vM0pPSm9IUk9fdnRseE15OXFhN3FRTHRqa0dEcmR4aXVjMmJMLVEyMzNsWDlnaFFLRkRKRkQyb24tTC1MNjBGMVcwa2cyeXczemdMY3AtX2x4TENBWmc4S0Nqbm5COEd6NmVhNEN4MjVPajdrd3UyQ0FsRXoxU0JTdm1BTTBCRjVzcmZ3WTJVNVZ1Y3JFV3owRzBGQXNIVXBiSUVKZ2FJZUpxeUdJZzNFaWhR?oc=5",
+          "pubDate": "Sat, 08 Aug 2026 20:02:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Jorge Messi, Lionel Messi’s father and longtime agent, dies at 68 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOFNFX1NIa2tfR0ZnVXRwRm5PV2pYY0FkSmNiVzFhQzhuOUdDdnNsZHQ1dkZUcFk5RnVDazUweEhyYnJaalU4bnp4RmtKQWZXX2tXRi1oYVlzRmpNUlJJcVRTUThuSXZHaHd5Q19qVTJyWHF2Y1Q1bVpPMU1HZnpZcGlXZF9MaDViYXFwRzQ5azR3TDR2ZUE0RmZYQQ?oc=5",
+          "pubDate": "Sat, 08 Aug 2026 19:38:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Iran’s leaders think they have Trump cornered, but their strategy carries great risks - AP News",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMjQyZGM5S1VnU3NWQ0VMWkk3TkpRTGxySnBlQlRLRmNORHV0MnZMM0NXWFpKa1B6RjQ5OVVQNzdZcGRtZHBlaURzZTVmNXd5QzZVSXd6LWJ2UVlDbk9Tc0F6dk1PTzlOQWFHT0ZpTlh0YzRZa0toaVhzZndvazNWWTRoM1o0TTVNelBIMDA2OHIxZG1mLUlaX1lXbjRteE5BTlBB?oc=5",
           "pubDate": "Sat, 08 Aug 2026 18:55:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "A drone likely from Ukraine explodes in Bulgaria near a gas pipeline - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdHdjMXFHeUM1REdDNnZONnZ6WU1DM190YkFIYlUxUEt5ckJWdVNQZU1ramthb01ZSFAyYUpoNzgxN1BYZFU3ams5WmZrRVU5OUlVcGlCbVNPLXNQRkc1Vk1Cay1yYnd3ak9rM3F4RTg5UzNwZE5wa2tqVnJMNC1ncFh5aFZzTVNXRzB1VkRVUWFYUDZUdVpKczlzaVZpUXpGbFVPX01xclI?oc=5",
+          "pubDate": "Sat, 08 Aug 2026 18:28:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Wall Street week ahead: inflation, retail sales updates - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWVlqNWRqOFllWTBtYUcwU0FBcmRSVUx4Yl9MQWx1dmxvb0sxb3VMU1RQSDlyZEI0MzdfRF9fZF9qZkZZcWNsZGV1M0ZlaDI5ZWVVbHZjbXdCYWJGVy0zNm14WmZweVBna0MtTjY5Z1dPd2szN2hZMW5PQTN5bVU2NkNRUGRiMEZ0Y1RNWFR2d2g?oc=5",
+          "pubDate": "Sat, 08 Aug 2026 17:50:00 GMT",
           "source": "AP News"
         },
         {
@@ -133,52 +157,46 @@
           "source": "AP News"
         },
         {
-          "title": "Jorge Messi, Lionel Messi’s father and longtime agent, dies at 68 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOFNFX1NIa2tfR0ZnVXRwRm5PV2pYY0FkSmNiVzFhQzhuOUdDdnNsZHQ1dkZUcFk5RnVDazUweEhyYnJaalU4bnp4RmtKQWZXX2tXRi1oYVlzRmpNUlJJcVRTUThuSXZHaHd5Q19qVTJyWHF2Y1Q1bVpPMU1HZnpZcGlXZF9MaDViYXFwRzQ5azR3TDR2ZUE0RmZYQQ?oc=5",
-          "pubDate": "Sat, 08 Aug 2026 17:01:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Iran makes new strait demands, the UAE says a ship was targeted and other Middle East news - AP News",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONHBEUUlsdUlIcC1vM0pPSm9IUk9fdnRseE15OXFhN3FRTHRqa0dEcmR4aXVjMmJMLVEyMzNsWDlnaFFLRkRKRkQyb24tTC1MNjBGMVcwa2cyeXczemdMY3AtX2x4TENBWmc4S0Nqbm5COEd6NmVhNEN4MjVPajdrd3UyQ0FsRXoxU0JTdm1BTTBCRjVzcmZ3WTJVNVZ1Y3JFV3owRzBGQXNIVXBiSUVKZ2FJZUpxeUdJZzNFaWhR?oc=5",
-          "pubDate": "Sat, 08 Aug 2026 16:14:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Lake Mead hits historic low water level as Colorado River struggles - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMmZ6Z01kclNFSVd6V09LUzVGYVNIb3EyWTl5YW01eXBGLXI1SjExZ0NXbHZXdXVDN2hVNXNiNUlpSFgwNFozTWhFNnF2SWU1djBZUkdzWXBhdEY5S3FRS1BuX0RFcUJJQTlLNmdfWEI0QXJMWGRISVpBSHB6blc3cE1PaDA0YkR3UW1GREkybmhJc2hzNDgxdzBLYw?oc=5",
-          "pubDate": "Sat, 08 Aug 2026 15:14:03 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Zelenskyy visits Moscow-friendly Serbia as Russian attacks on Kyiv region kill 4 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbDFfY3QyOTNzV21YQ0VINm5YT013Y3BXZ2Y5aWg5M0xVUVhTRFc0U2JxTktwa0MyS0RERFR3RWZvekQzdVBYdnBnWGhtckZDay1sMS1iZmUyZllQN2hjNGM2X1ZNTjRlaVJMTnNDdW92ekg5QkJDRUVmZzhNYzNhOWM2cUpFMEU3VjB5U0lWQm40enFTUHJMSnJKWEk3T0lXUHJleHhQbEE?oc=5",
-          "pubDate": "Sat, 08 Aug 2026 15:12:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "A 12-year-old girl dies after Thailand school shooting, bringing the death toll to at least 8 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZDRVbmJYT1dkcjVDVFcxSUd1N3NQX05HcXVpR0lRRWo4RDVCTGpLTG5aVDRnSk5Yc3NoRi1VaENibDRldWRWZGo2WlFtdXBGZUdNV2RHVl9XWTEzTDIzWEwxNktuNEtUc09uY1FROTNyTWJ4LUo2VFhkcG50UlVaSkpYNTNTMFBQTFlld1I3TENoM3l3Y2RCekJJUnppdHhNMHB5SnpSb1ZmMF91QmdJOA?oc=5",
-          "pubDate": "Sat, 08 Aug 2026 15:06:00 GMT",
+          "title": "Daily life around the world, in photos - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVUo4TDRKVmU3MHEyWHZwT1BhVUFoYnJlUVlNclpZR1pKXzJGQmZSUFlyM1VNNllnOWxuQU1nNjg3TlViWW1jdEhwUDJrc2FhY3BSWUFQaEM0Z1pzMVNnaEUtNGNMRHVWQmJFenplOGZLQVN6bElEQXlmZ2xBbk5lTW1aWl9fTC1pcm1obk04TmdqV1UtWWdfekFQLXM?oc=5",
+          "pubDate": "Sat, 08 Aug 2026 16:31:38 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-08T19:34:34.176Z"
+      "updatedAt": "2026-08-08T20:36:40.973Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Messi's father Jorge dies aged 68 in Argentina - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTlJ2MTV3NWVCRm9ZS25KbDZwY2FoQVc2cXp0RFlLZ293cHQ2YXk3YVZHNGc2NS1QenZMNC1sS2lPeTRYaG9HbW56UUtDeENzZTY2amNtMlRXcnlqS2Rqci1xVjVEZ1dHdlNKOVVxakNpWkRybTFMd0xYTzlzZlRqWExMYkFfQnZYNUI4QnF2X1dQTUhtV09YVVhRc3YtdTVj?oc=5",
-          "pubDate": "Sat, 08 Aug 2026 18:21:49 GMT",
+          "title": "Thousands told to evacuate in British Columbia's wine region as wildfire grows - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeUg1Y1BqdGNyMk45Z19zcUlaNXlrQWc5MDRMc1cydHgzSjhBeERvNDc5TXZ4NVBSOVFyd1gybkM5Um11Z1lGcXdxQ1pZUFptLVdtd0ZZWXhsa1lfem13aUNkVnIyNDlSckhSSk12b1VNMkc2U0VoVlJzQzlXVlp1T0VVRi1LUVVQQ3lYWVNTMjVaWVE0SU5EeENDRUVVVXNQWjlVZkx6eXZpZ2JjemhoTW8zdlhkdmNnd0ZabTEweWNibkFpcFBmUGh1Y2k?oc=5",
+          "pubDate": "Sat, 08 Aug 2026 20:01:07 GMT",
           "source": "Reuters"
         },
         {
-          "title": "British Columbia district declares state of emergency, issues evacuation orders as wildfire rages - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeUg1Y1BqdGNyMk45Z19zcUlaNXlrQWc5MDRMc1cydHgzSjhBeERvNDc5TXZ4NVBSOVFyd1gybkM5Um11Z1lGcXdxQ1pZUFptLVdtd0ZZWXhsa1lfem13aUNkVnIyNDlSckhSSk12b1VNMkc2U0VoVlJzQzlXVlp1T0VVRi1LUVVQQ3lYWVNTMjVaWVE0SU5EeENDRUVVVXNQWjlVZkx6eXZpZ2JjemhoTW8zdlhkdmNnd0ZabTEweWNibkFpcFBmUGh1Y2k?oc=5",
-          "pubDate": "Sat, 08 Aug 2026 17:10:31 GMT",
+          "title": "Turkey, Pakistan, Saudi Arabia defence pact technically same as NATO's Article 5, Turkish minister says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLVVZeXNFQ1JsdkxwT29TdjNMRmVVM0V6Y3B1NzB3SDVpMzRaTXdFZjJpcWEteGxQd1dWalV1WDlnS2NhSVlTZGhYVHhLU2tUNHhjZ1I4Zl9WbFFZaVRudVU3TEFCMnFtRFlGU2ZYZDNreVlQTjljdWFMbndxVGdyNUlaZFJPUjRZd0F2SnB5dUtvUWZYYWFJUmpjNjVWeFdTTGwyaU8zOGdtdUFjQW5zb0E2aUt1VEUybWxjX2pLZHdwTlVSN2lzbg?oc=5",
+          "pubDate": "Sat, 08 Aug 2026 19:53:53 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Ex-President Joe Biden's cancer has spread, is very painful, son says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUHdGT2JicUc2MmpyR1JUOE1jNGgxT1V2ZDlzdG9Fd2tzeWdVSWJkWDdIbmJZWjhkUVQzZUxGeFg1RlR5X0pMOXdmclBpbmlwOGhjYkdhRWJOUUdUemdZaEc4M2tUV2tZOXJISDFiTlhsdnVxdWJ3b0o0SktBSk5fNE9VekdGNHlyNU9wRUFkTkRYTkhFaG53TGNmTUZxZmNwYTJhWFRDb1BTWXJpY25TZg?oc=5",
+          "pubDate": "Sat, 08 Aug 2026 19:35:43 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US Senate advances landmark crypto bill before heading on August recess - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMVhmVXltaDhxQW1BeWtBZktQbmNhUGI1Y0s5X2xJSDVaSkZPLXZlckdUMWRoSmcwX0NvUmtERjBrc3dRc1lPQXMxZzVlVmFVMnpXMjEwTGZzaEs0anJPdzJ4UU9RMFRpVjFHMWJKekFNaThIZjA4cUZZMm85MVhfbGt2YlNKV2d3SHY5TGI5UjdXOWlocTdiQ1RqMUtQMXBDZHlzTUdTZDNGbW5yeWtwWl81TTZ0ZTNSeHNlTTdB?oc=5",
+          "pubDate": "Sat, 08 Aug 2026 19:18:35 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Messi's father Jorge dies aged 68 in Argentina - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTlJ2MTV3NWVCRm9ZS25KbDZwY2FoQVc2cXp0RFlLZ293cHQ2YXk3YVZHNGc2NS1QenZMNC1sS2lPeTRYaG9HbW56UUtDeENzZTY2amNtMlRXcnlqS2Rqci1xVjVEZ1dHdlNKOVVxakNpWkRybTFMd0xYTzlzZlRqWExMYkFfQnZYNUI4QnF2X1dQTUhtV09YVVhRc3YtdTVj?oc=5",
+          "pubDate": "Sat, 08 Aug 2026 18:21:49 GMT",
           "source": "Reuters"
         },
         {
@@ -198,28 +216,10 @@
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNjdvZmtIbUhPd2hSMjBTbGJkbExLVFZGQlY3dzhSUXNfdS1fSzF1Uk5HRWUtcEhKUE1wNk82T0Q3S2k2T2dMdXl6ZFJQaHFWUkpzM2hMei1reHI1LUVneEk3Y2dMdE9iSzJhMVY5MUNCcVJhS0w4aXlyal9YZ0s1a3kwV0JHcnVCYUdmY1dwamprYnJFSTJPUUpPMk1vaDFxaEFrZVMzLUh5X1RKRS1uUw?oc=5",
           "pubDate": "Sat, 08 Aug 2026 16:27:54 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Berkshire accelerates buybacks, lowers cash stake as profit tops forecasts - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQUQxTUtKTW8xWnBNdHRMdWlZajlZNGhOUlBNeXk3WFJpTjdWYXBqTWNoeVZ6a1RGWG1ZSVVBMU1JdUVDNHJ6N2JxZFVQYl9tOFBEOU91cVJITTdHZ2FJak43MTk3Z0xqMm9hOElreTJ1SjJHRXU0YVROdk92cDNjX25yTTk1aWU0Sm1BdV9ZWDBGTXAtNS13X2NXY3J1eThDN0NOUmNhazI5NkV0ZGc1YlplUXFnM2VQNWZGaGM0MjI4V0k?oc=5",
-          "pubDate": "Sat, 08 Aug 2026 16:15:36 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Bulgaria says drone explodes in its airspace, no damage - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLTJIOVhtd1lJa0ptSGkzVHF4SVNjT0xLVWVJZmdqVXhGQTJNWGF2UklzYldoUmJHNVQ1QnRsbUJLM3k4OUs0aG5mbk43czBEOUE2bDAyakI4a25YWFo0YjdObVRyVGJGeWFaUGZ1eDBhSkVaOUN3NXNDX09pVmFtbmZlSC1ZWWt0eDFVVDNVVWtEbmx3czcwV3E4c0k?oc=5",
-          "pubDate": "Sat, 08 Aug 2026 15:33:36 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Russia says it struck vessels and military facilities supporting Ukraine in Odesa, Mykolaiv - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZ3gyby1TbzRmZ0MtRE1WeVVQZGg0V0RUZjBqbHZrbnZXaWxDWVlsd0U1NmNFekZ3cjB6amx5SjUtUnlFb2VVT0JxQk9wZDBNdFJfVGJtUWpDNWNEazRVVmNFdWdDN0doUEVyeExQV3FmTTNLNGZtMV9tR3dXMEtwb281dzdJY2RlZDd0cU5USkRRbW5HYWtYMzhSVlpRVGhGLVh5WUZYMVUwYjJiejF2ZFJDQUJLNjg?oc=5",
-          "pubDate": "Sat, 08 Aug 2026 15:00:38 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-08T19:34:34.627Z"
+      "updatedAt": "2026-08-08T20:36:41.378Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-08T19:34:34.950Z"
+      "updatedAt": "2026-08-08T20:36:41.638Z"
     }
   ]
 }
