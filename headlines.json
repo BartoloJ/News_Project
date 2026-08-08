@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T02:00:33.515Z",
+  "generatedAt": "2026-08-08T03:51:41.740Z",
   "sources": [
     {
       "name": "BBC News",
@@ -54,11 +54,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-08T02:00:18.600Z"
+      "updatedAt": "2026-08-08T03:51:41.041Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Women in Maine may choose the victor in this year's Senate race",
+          "link": "https://www.npr.org/2026/08/07/nx-s1-5915655/women-in-maine-may-choose-the-victor-in-this-years-senate-race",
+          "pubDate": "Fri, 07 Aug 2026 16:24:38 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Trump renews push to fire Fed Governor Lisa Cook",
           "link": "https://www.npr.org/2026/08/07/nx-s1-5925167/trump-lisa-cook-federal-reserve",
@@ -100,42 +106,54 @@
           "link": "https://www.npr.org/2026/08/07/nx-s1-5924786/employers-economy-labor-jobs-federal-reserve",
           "pubDate": "Fri, 07 Aug 2026 09:10:10 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "A new vaccine could vanquish a major cause of deadly diarrheal disease",
-          "link": "https://www.npr.org/2026/08/07/g-s1-137456/diarrhea-disease-vaccine-childhood-deaths-shigella",
-          "pubDate": "Fri, 07 Aug 2026 07:36:33 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-08T02:00:18.650Z"
+      "updatedAt": "2026-08-08T03:51:41.162Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Colombia’s new president takes office in ceremony in Cali highlighting hard line on armed groups - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX0dWMC1SaXZZYnhVWXFfTlU4YmthWW9EMlVFSlIzaHFjbW9tM0g0MzlRQzJ2RFFKbzE1NXhhVDNrOEpMQXItbVprWkZCV2hQUXpmX0dYZ3VCWFdxZ1FvS0ZZcm9nS0tIY0FkWUdEeVFRQ2FEbGlpZk5UYXRNeHMyRGZRTllXOXRHSC1UR2RvR3FkR3FaRE9ybmdERmJ4dXdaVWJyeUl4M05XUGkzTmYzWXh3SGNNYlRlRlpYNlhNY2pJQjQ?oc=5",
-          "pubDate": "Fri, 07 Aug 2026 22:14:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Memphis forward Brandon Clarke died from effects of heroin and cocaine, authorities say - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWnB0bEFEMnZMVnpiRnNoaUg5TVlfNHRsZ0U1Y0Zya1lSU09PY3FHQ2xLRlJQcWlLeDBGdHVoNHhTY2NLMTJmRV9rWWJBMHRhbmF2VGFCWmJvRUJjSFFOWkcyS1ZXR1dRY3FMRGFYcUM5bUhqc1BuZzFHTjQwT0o1cjZsWGFFeFNDUU1fT0xsenE1b1k?oc=5",
-          "pubDate": "Fri, 07 Aug 2026 21:24:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "More than 50 bodies found improperly stored and decomposing at Chicago funeral home - AP News",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOT3gyLUtoTnpnQ2hTMVZQRWp1YjBHYTdqTjNXQTFTeElWLU90OWxFanJzXzY0SFhuT1QzMEthaUdVU00tWXBsYTV4Sl90VVloWWlTTnduREMwQ3l6NkxNUWVRSndTdHI3VElyMlFpZ3dNcklHVEYzbkpLdEpWeWhCTDBIamZnNElTZVRwWnBKVmJVUVl5dlVhQ3lpLVlSeHMw?oc=5",
-          "pubDate": "Fri, 07 Aug 2026 21:09:00 GMT",
+          "title": "Blanche wins support for attorney general from GOP Sen. Cassidy, likely paving way for confirmation - AP News",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUks4b2Fka2UwQVNGMXhQdnpVN0Jya2xIMGh2WHJmUnJXblRRQndFbjFQRlNTU0dEUGp6ZWhKUEp1QW0tVTVHMTZRXzlENW9RSWN2QVlVWS04ZFZOSVljQkhiVHoya0JZSnVBQUlGUFJKZmliNWZBM0tSYTlEcG9nZDJZSzlMUVdZYjlTenM2OUs3MnJHdTdxZ01IejhNZ1hXTWQ1OTJaT0U2R2JRLVRXNXVZVjlXc0E?oc=5",
+          "pubDate": "Sat, 08 Aug 2026 01:37:00 GMT",
           "source": "AP News"
         },
         {
           "title": "Appeals court rules Trump can’t build White House ballroom without congressional approval - AP News",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQ2Y1LXVndW1CYTZLREtONjNaUGhlamYtSU9GYWM1T3RsRF9fWVBSWnhOMGxVQ3Ywc0lmdzNrY05NMDN3cHc0bXhPS3Z2ejRZdVp2dzN2Q0wzYmNQUnlCakNZTHlaZ0xRU09zYnpGWVZFdmttTzNfeWZpRm5QdWExR2d5ZnRYcVdXdXZiWXRtUW0?oc=5",
-          "pubDate": "Fri, 07 Aug 2026 20:56:00 GMT",
+          "pubDate": "Sat, 08 Aug 2026 00:02:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Colombia’s new president takes office in ceremony in Cali highlighting hard line on armed groups - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX0dWMC1SaXZZYnhVWXFfTlU4YmthWW9EMlVFSlIzaHFjbW9tM0g0MzlRQzJ2RFFKbzE1NXhhVDNrOEpMQXItbVprWkZCV2hQUXpmX0dYZ3VCWFdxZ1FvS0ZZcm9nS0tIY0FkWUdEeVFRQ2FEbGlpZk5UYXRNeHMyRGZRTllXOXRHSC1UR2RvR3FkR3FaRE9ybmdERmJ4dXdaVWJyeUl4M05XUGkzTmYzWXh3SGNNYlRlRlpYNlhNY2pJQjQ?oc=5",
+          "pubDate": "Fri, 07 Aug 2026 23:38:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Remains of 56 people found improperly stored and decomposing at Chicago funeral home - AP News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOT3gyLUtoTnpnQ2hTMVZQRWp1YjBHYTdqTjNXQTFTeElWLU90OWxFanJzXzY0SFhuT1QzMEthaUdVU00tWXBsYTV4Sl90VVloWWlTTnduREMwQ3l6NkxNUWVRSndTdHI3VElyMlFpZ3dNcklHVEYzbkpLdEpWeWhCTDBIamZnNElTZVRwWnBKVmJVUVl5dlVhQ3lpLVlSeHMw?oc=5",
+          "pubDate": "Fri, 07 Aug 2026 23:10:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Volodymyr Zelenskyy - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xb1ltODYxdGFUVGUzdHFuOXJoaGZQLXE4LS03ZTl3bTJkZXluNlRVTmtZaWFDQWhkX09IM2VYVURYcVVIcjJGM0p4UUhyVjdxSWViaA?oc=5",
+          "pubDate": "Fri, 07 Aug 2026 22:42:25 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "ICE will release body camera video only when seen in the agency’s ‘best interests,’ policy says - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbTlxdHJMbVc0R0xRU1VNcFJIb0VIMEhnMlQ5d0d3MEFweEhjMDhWLTNOMEFla1RSRy1LM2FBakszM0dnaFY2NTlvMGJxTXNJWTVyTGZsSURHUWZMekJGUzhMU3AxRkRzMW5nWVktekxCMmZsVm0xR0ZhRDJqVjJyb0FDeTZYd0FURmJIZlFid1l5dVlpbURnUS1LSQ?oc=5",
+          "pubDate": "Fri, 07 Aug 2026 21:40:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "US stocks jump as employers unexpectedly cut 23,000 jobs, raising hopes that rate hikes can wait - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNM2hsUkw2Zkw4Q3dRTnFBMEFzZWhKMUhiS0d2NkM0dmhTNVRMLWhoOExzSUZncENvdy1NOEJkRUlNNm9CRlR6ZnFPQ0dsM1VFM2V2ajVRS1VTZlJKcWZPVzc1bEtlWjVTdl90V1NKV3pndXVFQUZEMFJjSDRUcUlGdVJaMUctejZUYWVCQ1FR?oc=5",
+          "pubDate": "Fri, 07 Aug 2026 20:46:00 GMT",
           "source": "AP News"
         },
         {
@@ -143,32 +161,38 @@
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPamF4eGVRV29Xc2ZuV2NhWTBNbnlXa2JKbjE3aHI1cDI3eDNKOGpPWEVLUXNLSDZUb3loXzQ3NWx5dHFfQjd5QWIyeENNREo2MEE5cC1KQngxdHRFY0VrUXNXWm1rcGk2amhhTG9sOW56YUVaX3Fsa0pBeHd5ZlZGTHdGb1dmREtoMXFzdmdCbmN0eUdNX0Fv?oc=5",
           "pubDate": "Fri, 07 Aug 2026 20:24:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "ICE will release body camera video only when seen in the agency’s ‘best interests,’ policy says - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbTlxdHJMbVc0R0xRU1VNcFJIb0VIMEhnMlQ5d0d3MEFweEhjMDhWLTNOMEFla1RSRy1LM2FBakszM0dnaFY2NTlvMGJxTXNJWTVyTGZsSURHUWZMekJGUzhMU3AxRkRzMW5nWVktekxCMmZsVm0xR0ZhRDJqVjJyb0FDeTZYd0FURmJIZlFid1l5dVlpbURnUS1LSQ?oc=5",
-          "pubDate": "Fri, 07 Aug 2026 20:17:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "New video shows gunman shooting victims at Idaho In-N-Out Burger drive-thru - AP News",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYWNfNkRadTdIZll4QXl1cXNlQzBjS2tOdlpkQl9kX0FHd2RzMmhJZFMtQUlmc2lDRS13OTJFRXhUSmdYUkwxYTcxeTBSM3lNVFctRTVOeG8xQTA2YWxJU29tS09mQ3o1RnAtaURsMkhyYy1NTE5oQ1lLdGt6SE1ENGJFeXJDQ00?oc=5",
-          "pubDate": "Fri, 07 Aug 2026 20:07:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "US job market stalled in July as employers cut 23,000 jobs, delivering political setback to Trump - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeFN4Y09saFA1TUZ5TFdRWGpSb3NGZHNMU2E2SGlNcGxYWVJlanNoWTRoRHpPS3U1Nm5aSkpQQm9tX0RIYXpCVk9PMExCWWZSMVBBcmZBVXRBSGR0ZHI2WDNxMENrQXdST01leF9mSlZQeFVsblYzdUpLVnpVRVI0V21WUEIxM1J1cVFXYmlpWUljNVpIc3Y2aEJlLWRPeU9VUDQ0Xzh2c2FtSmc?oc=5",
-          "pubDate": "Fri, 07 Aug 2026 19:54:00 GMT",
-          "source": "AP News"
         }
       ],
-      "ok": false,
-      "updatedAt": "2026-08-07T23:38:07.882Z"
+      "ok": true,
+      "updatedAt": "2026-08-08T03:51:41.652Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Nvidia to invest up to $3 billion in Lancium, the Information reports - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQVlHNnRpWjl0RUFEajBjQnAtMGtUTnYyVXVBNEpCMFRFVEJNb3g4Q0FPWWtRNnAxX0x3RHMzdVFLN3dJLXQ3Z0pTOEtMQnFnUWFCVS1jUlhZYXZIaGpCTF9EQXVWVmhyemxIZmF5X1JveTNJbC1Hb2FWNjBrZkFyRjNmQlRhbFpET2Q2c3pRMjhYVUN4eEs1WURpaEVWWnpi?oc=5",
+          "pubDate": "Sat, 08 Aug 2026 01:42:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Justice Alito says he is staying on Supreme Court for another term - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRUFqU1p6WmdWcHFJOHhMME1YRTl6bE13N2hrNEJDYm1kRm9zT3hUTjI2clI5Z3A3UnB0ajY4RTBuVi1uNnRCS3BXNjdpN0lrbThSTVZFYmUtSUk1ZV9RSnNXQ2FkVUMxektVUDNqQWNIRHJGM0wxOTU3TjRueDRKVHlzRkgzZUdZWU94U0lMeWR1dmx0QlB1OTBXM3pwSk1McUhnWjNqUUFINkRjdlkxU0hn?oc=5",
+          "pubDate": "Fri, 07 Aug 2026 23:23:08 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "OpenAI flags possible critical cybersecurity risk in upcoming model, tightens controls - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZElVazNoTFpWVXNrSTdTVGdLck5WbnNSMWRIbHpuaFNFcmd0OTV5NXB0Rk4yQjlEQ2JvQ0Rrb0R2VVNsRTNYNjBEb0wtem0yZVlZeXlGNVBHOVZiVnlKcnEwODVfbVNjRUdleGZ4cjVHY0Z6RE5pVWdOb3ExZGIwdkJpeTYzMEhvN1kyS0t3bTdKZ1ZHMUNDUmliUVFGMEFtTmpveVhGa1h2QVpMQXRDNG9pRXFhMkNHRTRwQWhNejNiVGtk?oc=5",
+          "pubDate": "Fri, 07 Aug 2026 23:12:19 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US expects deal soon on Strait of Hormuz; Sunni powers unite in defense pact - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeTlKQUF3VjE1MnpMNE5PNFRFZmloMHhQMjdHUmhwU0s4QWdWQVl6TFA4NjJCSi1qbnJyRFVjajVIamtFOVd3eHpSdlozSDd4YzlrdW93UHdfaGVDOEVicFByV1hkemlNTFFxbWxiNW5OWUJ4Y3FRbDBkd05nX05pTVNOUUpHc3hjVFlqR3daRnpBNkVDZF91dHV3WTJYQ0ZqLUh3VVVaMV9DU1FtWXlocDlxb3d0cGw1eFVKVA?oc=5",
+          "pubDate": "Fri, 07 Aug 2026 23:02:00 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "US suffers unexpected job losses in July, markets dial back rate hike expectations - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNN1B4WTMtdXVhNDJJNjJ2Sjl5dm14MXI4M3FUc2dYUDN5blRtOTBXQVZqX0ZaUWNQTFpZMDdlU24tY1BLWHVORE03Y0p3ekNQM0RHQjZJWEhpckhfLXl1QWFlVlV2UU9OWFhkWDZZNXA1eHdFVmlkQVlVUWdaQWVKUl9NMC1QcW8zT09NRks4eGViOXpESU82MmpuaWYydkljM1Fv?oc=5",
@@ -188,38 +212,14 @@
           "source": "Reuters"
         },
         {
-          "title": "Trump's new attack on birthright citizenship faces uphill legal battle - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWl9pVjdTTDRja3M3UVFTY3lQNTZkWThLaHlBRjdrWFZhZEpsd2Y1OU9nX0MyVkliUlhiOHRTYS1jaXhJYlYzVGhoWU1YcENwZUhRUU83bnZNV2JFaWgtQjVKMy1qaEFkUmZzSk5VRVdBdUc2UUhfR2NBTkNVOFM2XzQ0cHQwbkd1eDZDMDFqX1ZWbUM3YmtSRHE0WFFURnc0a1VrWWNNWWNqX2ktSkdqQ3VHVDNyeEJfZUww?oc=5",
-          "pubDate": "Fri, 07 Aug 2026 22:14:15 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "US appeals court blocks Trump’s $400 million White House ballroom project - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdGllYWlYMjNRcmlTVnZvWlN3YmNtWDI4cUdJb0pMZkFwVjlhTmJ3NHRCRUEtQmJMR3ZaT1dobi1sVUktWWFCN0MzLVdZVXVMOE9qWk1YdnhoMmI2cHBBV0d5SHVNZnQ1V0VVZUpzUm1RRUdPdmxBNEhLWUhTNDdSMXVJZ0R5cXl5R1lOcWlWQTg4bTlJanBrWkRidTAyYjl5alFaQmVURUJjYlNiNzBOcFlqWQ?oc=5",
           "pubDate": "Fri, 07 Aug 2026 22:09:15 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Trump nominee Todd Blanche clears major hurdle in bid to become attorney general - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcGRoT0I4aHE3c2dpeDZ2a0lFMFk2eU1mTGtrTWVCZjQwdzl3SkloSDNnX3FqTTVtc0ZjYWxQWlNIRkFTYWowZ2ZCRThnc216U0FPelZtSnZQYU1tWUE5a282WjBMMElDSUlrUUdqTGNwRWZJQXVkYXBVTEVjNm56VXhrNjRaN0p3S3kwS1EyQ0Z6QU9Pal9FQ3FQc2lfVWJwazU1YWdMc3J1LWNOWGJuVGNB?oc=5",
-          "pubDate": "Fri, 07 Aug 2026 22:05:40 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Trump renews effort to fire Fed's Cook, continuing attacks on central bank - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaUlRc0EybG1QTjhRc0F1OUxpNjVwQjdnVHZ4VWwxWEllQkp1Q0lKdHREWkxJRGl2T2l4QTZObW5VajVxbDYzQm5RbWxuV3FBbmJ0WXh0Yk5xbkx0UzNvbE4zQzBqN0FwTUZJa3VfTVl1aGxiTEowLTRIT1pYOXZxNXV0Y0MwamNqLTJrNkR5LXN5WEJDX29TMmpoY25fMUxsS01fMGRDVkVrZlRidEkxV0FXT2R2M3dnc3B2WU5BczZSQQ?oc=5",
-          "pubDate": "Fri, 07 Aug 2026 21:51:36 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Explainer: How could New Mexico's $567 million ruling change Meta? - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUDNKSFpzUmZWOFFaVEdKNXBsWUg5dGt3Z1VQRzBvVWdGaFlpb0VYUWtmVmQxXy1hUUlzNG5TdXg0YWo3emxGa3VUdHQxanBmMFZWNWxiOHkwVGJoXzg1Tm5EcDhmeFZqaFJXMUNHM3VGSnB4QVh0UHJybDRvLUxkOUJVUF9lRUtUYkh5Y2RHYzVZLUNCbS03Um9KNHFxQzJBQktCSVgwQjY?oc=5",
-          "pubDate": "Fri, 07 Aug 2026 21:47:30 GMT",
-          "source": "Reuters"
         }
       ],
-      "ok": false,
-      "updatedAt": "2026-08-07T23:38:08.312Z"
+      "ok": true,
+      "updatedAt": "2026-08-08T03:51:41.685Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-08T02:00:33.514Z"
+      "updatedAt": "2026-08-08T03:51:41.740Z"
     }
   ]
 }
