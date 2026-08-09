@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T02:07:43.018Z",
+  "generatedAt": "2026-08-09T04:00:09.398Z",
   "sources": [
     {
       "name": "BBC News",
@@ -54,7 +54,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-09T02:07:41.984Z"
+      "updatedAt": "2026-08-09T04:00:07.941Z"
     },
     {
       "name": "NPR",
@@ -109,11 +109,35 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-09T02:07:42.071Z"
+      "updatedAt": "2026-08-09T04:00:08.205Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Wildfires force 20,000 to flee as British Columbia declares state of emergency - AP News",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRWFHcGZLTElaS2tjME10OWxDWE9aM3ZHeXpMVzJIUVhLeVMzY0Y1LWxZODh1SmRrdDJvRHVHR09TOEV3STlXNVc1YnRtbFdSYWdpR0E5alVOMDB5QWdBdmw1U3VzZkVQYU5oalA4cU9NNk5CZ0EtZ3dlRDV4R0xkRWNGR1MzTDVVVTd3UWpTcW50QkdjZkFhY0hVbGRmZWtVSmZycjAzcTBHRmdMYTYyT2pB?oc=5",
+          "pubDate": "Sun, 09 Aug 2026 03:10:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Pentagon pushes defense companies to boost weapons production after concerns of depleted stocks - AP News",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS05uS1RyLUd6dmFHSkt1bUxJUzA2RnVrZlhwZDFJQmVrQ19wRmd2RFNJRWQ5RGVoZDRGeXlIWi1laXQySGUxaERfQkszMGdOVElVdmFfRDYzNWdrU2ppQU1DS2VULWtsUnNMTTZXMVAzV1VTdnMzaG5VLW1kMUlScndvenRpaVhGQUxVSFdmb1VqR2thZm15LVZoMlBSYTc0THFQV3RRLXJXaXdhb0V0UFhR?oc=5",
+          "pubDate": "Sun, 09 Aug 2026 02:00:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Pilots of helicopter that crashed while fighting wildfire in Utah are dead, officials say - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeWR4UU03c2Q4b0ZHWlNtcHRWSlgydk1xZjdMeXNqX0o2dF9sUXpjSzhEdk9vVE56TW1TTjhzQ2FrMzZvWkFiMGF2WGdFZms0ZmtJaXJNZzBKWDJQZ2QxYWcwdl9qZFRWa0lHNG5VdUJVM0RPa2hEWVRzd1o0R3FXSDZMUDg2andYSW5Ca3dnYU9UeE1PZ2l5eVhDSmdNMWh6bEdQZA?oc=5",
+          "pubDate": "Sun, 09 Aug 2026 01:59:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "FIFA defends Infantino against allegations tied to his time at UEFA - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRHZWdENHOFlLNEdUbFU0T3dGWklNRG1qOXdLaHZUN0x5MzNkSExOd3M4cFNEZFhQMENUTHhRQXlsQVBIdks2WkN0aG4tMkE3SVFXVFdrcmdkVjU3WGNTYTBROGFtNGk0SnhrSUlqWFROZllIa1Jqc3hrZjZ5aktVU0I4SUZkcVlKejlqclZqcXhoenc?oc=5",
+          "pubDate": "Sun, 09 Aug 2026 01:14:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Chicago’s DiJonai Carrington ejected for foul on Fever's Cunningham and posts 'white privilege' - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbkIyYi1MTXdLSlpLdGRPajVfaWJyZFRRZmxFZlMxZnhsejZxbHRFd1BuaWRfdF92Wkt2OU1QSUZYZ3hXd1MzRTZOX1BCbFdEbTN4ajdGY0pBbnlXb21zZG9vWFNKODRSSkxsN1hBTlo0ZjdSdTIwcGlGLUJQRk04VE95eXJBd1NCWG1fTXF5Wk13Y1VaTmpHcWFQUmVLYjhRUFl1eVNpQnI?oc=5",
@@ -121,9 +145,9 @@
           "source": "AP News"
         },
         {
-          "title": "Wildfires force 20,000 to flee as British Columbia declares state of emergency - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRWFHcGZLTElaS2tjME10OWxDWE9aM3ZHeXpMVzJIUVhLeVMzY0Y1LWxZODh1SmRrdDJvRHVHR09TOEV3STlXNVc1YnRtbFdSYWdpR0E5alVOMDB5QWdBdmw1U3VzZkVQYU5oalA4cU9NNk5CZ0EtZ3dlRDV4R0xkRWNGR1MzTDVVVTd3UWpTcW50QkdjZkFhY0hVbGRmZWtVSmZycjAzcTBHRmdMYTYyT2pB?oc=5",
-          "pubDate": "Sat, 08 Aug 2026 23:54:00 GMT",
+          "title": "Raiders suspend Kirk Cousins and Maxx Crosby from team drills after practice fight - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPU21SX0FhODNfQ0VxLWVsaWdVSUFDUDlDUW01TWV3c2ZYeTc5SDI0VFVhNjZ3OXZ0cDhweUhZTXFhQjNqSGxNYXplOTl5ZXk0VWZld2tiaE5VU2l2NkZfM1ZhaDFZWmJ2OGQzR0dxcHdwS2JkUjFwLVlBMHhDN3QxODdROHZjZEVpUTRnbkhNNnoxajVMWUtrLUs5dVI0Yk9VZ1JFQnZobmg1QQ?oc=5",
+          "pubDate": "Sun, 09 Aug 2026 00:07:15 GMT",
           "source": "AP News"
         },
         {
@@ -137,38 +161,20 @@
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYnFxLWl1TmJSY0t6R25JNHBBSjNOWEpjOERRUWhfSGVwRXdhWnBVMVFKczhFd1poVWFDWW5PTHczWUFZajRraVVQOFcyMC1sOGJ6WVBWdmJDTlloLWlzSzMxWWFPbEZJeUlFNTVPMVhZaGEwTzBidEpXd3FDal9Xb1ppME1DMEdFVGxBS3JNUU1raWN1VkNsUThUWE5Fdw?oc=5",
           "pubDate": "Sat, 08 Aug 2026 22:00:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "ICE says it expects to equip every field officer with body cameras by the end of August - AP News",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWHdaOFBncl8wQnFHNWVtbzFDSWNmMERyMHNETERIRzBWZm1pU3lKRTAtMHc1dkhjY05QRUpEOG1pWm9ibHZRUm5nS3NaUGd4OFFVOFN6dHhUNm95dFZzdFFrLWsxYk4xamh3b3RCNGxGSlYzYUpacWNvaktMTk50dUtkOFF1RmtkR2E2LW5kTWduLXU3N0otaTlLYklybmRH?oc=5",
-          "pubDate": "Sat, 08 Aug 2026 20:15:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Turkey says defense pact with Saudi Arabia and Pakistan is not aimed at Iran or any other country - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcUpUOU9hYmtTNTVWYWo5dHRzR1owQjZ6dGdndWlyWmF0cUowcVZjbUkzUE94QTFZeDVQUHBLME83VFhxT2JHcElDZTZmS1BrbUFBaE9pazVPQVhGOEx5OWlrTGMydjFlTll6ZXhZb1hJNkFiN0RBUW1oSXFabXFlbXQ0S1FvZksyT1AzV00zR3pEdHRQcjBWc2R3VGNwd3ZlZUNBcGFHNU5uWjBnME5sSQ?oc=5",
-          "pubDate": "Sat, 08 Aug 2026 20:07:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Jorge Messi, Lionel Messi’s father and longtime agent, dies at 68 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOFNFX1NIa2tfR0ZnVXRwRm5PV2pYY0FkSmNiVzFhQzhuOUdDdnNsZHQ1dkZUcFk5RnVDazUweEhyYnJaalU4bnp4RmtKQWZXX2tXRi1oYVlzRmpNUlJJcVRTUThuSXZHaHd5Q19qVTJyWHF2Y1Q1bVpPMU1HZnpZcGlXZF9MaDViYXFwRzQ5azR3TDR2ZUE0RmZYQQ?oc=5",
-          "pubDate": "Sat, 08 Aug 2026 19:38:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Raiders suspend Kirk Cousins and Maxx Crosby from team drills after practice fight - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPU21SX0FhODNfQ0VxLWVsaWdVSUFDUDlDUW01TWV3c2ZYeTc5SDI0VFVhNjZ3OXZ0cDhweUhZTXFhQjNqSGxNYXplOTl5ZXk0VWZld2tiaE5VU2l2NkZfM1ZhaDFZWmJ2OGQzR0dxcHdwS2JkUjFwLVlBMHhDN3QxODdROHZjZEVpUTRnbkhNNnoxajVMWUtrLUs5dVI0Yk9VZ1JFQnZobmg1QQ?oc=5",
-          "pubDate": "Sat, 08 Aug 2026 19:00:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-09T02:07:42.523Z"
+      "updatedAt": "2026-08-09T04:00:08.706Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Fire extinguished at Aramco refinery in Jazan, Saudi Arabia says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVzBVeVBiZENRc3B0WldHbXZqbXBjLU5ucDVuODRNY3pIWFRKaWlES0lzRDVoWEFjOFBLQVkxeGVHd0pHWWV6Y0V0OFphUk81YksyX3BHQ0I2MVY2RHdfNDY1dE9XdGozaVQ0RWsyaXNieWlRT2RYdHNRNEp4ZHptOHBBTVFST2pfZXVIbkJZUlIteElMRTlQWEt5eGZ6RU9JMjRtUmdCYWVXUUM0TUE?oc=5",
+          "pubDate": "Sun, 09 Aug 2026 01:48:00 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Iran says deal on Strait of Hormuz is close but not enough to open the waterway - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX3lCSkcxU1lGMG5WLWZnQ3BPMzVqREVjajhDeUVndVBndkNPSklSaWV2RVM2a3FKcWhBMEwtcVRfbUgwNXZGMDNJUy1PU1NCVWszOG03N1RySFdMZlBrMTJ0SHo3bmc0MUt1V3pMb052UmxRSFg3cDhkY2VGR2hyMlRyMjBIYVBRajFwWkJOa05sMFhkUEZ1M3NuNjFRTURGS2pDSzBjOWNRSVlidXBPNnVWNlJ2U1VRMWxpQ2E1WWhzdw?oc=5",
@@ -200,26 +206,20 @@
           "source": "Reuters"
         },
         {
+          "title": "Russian drones kill 3-year-old boy and grandparents near Kyiv, Zelenskiy says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb011X2cwd2NtQm5jMDB6VjBDX3cyd01nVlFYendoMHBGWUE0NGdJUF9fNU56cENkbGxweF9YZGVFR3k5VFlWZFdNZVVXcXhWVTlJeHZJRzBQODhONWhER0tWU1VWYUFGTGZYM2VFekEzTndJVTVIeV9fWUtlRTlkQ3NFc2xyYk5ndWVfWXREYWJzakRVZHVLU0Z5VVdVN1NmTk5sRzRB?oc=5",
+          "pubDate": "Sat, 08 Aug 2026 17:24:55 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Democrats plan Trump investigations over impeachment if they win House, sources say - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTWl2bmN2bWhrTDhCMERQMHA0cFZaVHpSZFVpZGszY3c2RTNWNi1aNHNyR2ZydXh4ODVtVFN0YzZSa3dCQ3N2OWViYUxRV05ic3ZCSnNEYUVHQkpBWENpRkEzUzVQb015N2NESS1ablUtR1NNR2lnVUVmMmlENUNESDJsdGF0MWhnZW5mQ0FFNzBRd0k0YlI4NzhOUGVUbkt3cng2WDZxMVBRempHVWxrTFdaY2VhZ0lIRkVMOXRGUXgyeEVqUk5uUGwyOA?oc=5",
           "pubDate": "Sat, 08 Aug 2026 16:58:20 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "'Mom, don't call me': Inside Thailand's deadly school shooting - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNjdvZmtIbUhPd2hSMjBTbGJkbExLVFZGQlY3dzhSUXNfdS1fSzF1Uk5HRWUtcEhKUE1wNk82T0Q3S2k2T2dMdXl6ZFJQaHFWUkpzM2hMei1reHI1LUVneEk3Y2dMdE9iSzJhMVY5MUNCcVJhS0w4aXlyal9YZ0s1a3kwV0JHcnVCYUdmY1dwamprYnJFSTJPUUpPMk1vaDFxaEFrZVMzLUh5X1RKRS1uUw?oc=5",
-          "pubDate": "Sat, 08 Aug 2026 16:27:54 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Berkshire accelerates buybacks, lowers cash stake as profit tops forecasts - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQUQxTUtKTW8xWnBNdHRMdWlZajlZNGhOUlBNeXk3WFJpTjdWYXBqTWNoeVZ6a1RGWG1ZSVVBMU1JdUVDNHJ6N2JxZFVQYl9tOFBEOU91cVJITTdHZ2FJak43MTk3Z0xqMm9hOElreTJ1SjJHRXU0YVROdk92cDNjX25yTTk1aWU0Sm1BdV9ZWDBGTXAtNS13X2NXY3J1eThDN0NOUmNhazI5NkV0ZGc1YlplUXFnM2VQNWZGaGM0MjI4V0k?oc=5",
-          "pubDate": "Sat, 08 Aug 2026 16:15:36 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-09T02:07:42.960Z"
+      "updatedAt": "2026-08-09T04:00:09.123Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-09T02:07:43.018Z"
+      "updatedAt": "2026-08-09T04:00:09.398Z"
     }
   ]
 }
