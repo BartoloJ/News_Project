@@ -1,9 +1,15 @@
 {
-  "generatedAt": "2026-08-09T21:38:07.648Z",
+  "generatedAt": "2026-08-09T22:36:57.511Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Residents warned to brace for the worst as Canada wildfire rages out of control",
+          "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 09 Aug 2026 22:27:53 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
           "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
@@ -29,12 +35,6 @@
           "source": "BBC News"
         },
         {
-          "title": "Residents warned to brace for the worst as Canada wildfire rages out of control",
-          "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 09 Aug 2026 18:03:55 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "Puerto Rico rations water supplies due to intense drought",
           "link": "https://www.bbc.co.uk/news/articles/cqlxgk7r2vwo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 09 Aug 2026 16:43:23 GMT",
@@ -54,11 +54,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-09T21:38:06.219Z"
+      "updatedAt": "2026-08-09T22:36:56.102Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Crews battle wildfires in western U.S. and Canada",
+          "link": "https://www.npr.org/2026/08/09/nx-s1-5926463/western-us-wildfires-canada-utah",
+          "pubDate": "Sun, 09 Aug 2026 18:03:09 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Demi Vollering wins Tour de France for the 2nd time",
+          "link": "https://www.npr.org/2026/08/09/g-s1-137991/demi-vollering-tour-de-france-winner",
+          "pubDate": "Sun, 09 Aug 2026 18:00:52 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Netanyahu rejects Trump's Gaza Peace Plan, demands Hamas disarm first",
           "link": "https://www.npr.org/2026/08/09/nx-s1-5926459/netanyahu-rejects-trump-gaza-peace-plan-israel-hamas",
@@ -94,81 +106,81 @@
           "link": "https://www.npr.org/2026/08/08/nx-s1-5925939/solar-eclipse-august-2026",
           "pubDate": "Sat, 08 Aug 2026 20:56:21 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Meet the man circumnavigating the Arctic Ocean, alone",
-          "link": "https://www.npr.org/2026/08/08/nx-s1-5923345/circumnavigate-arctic-ocean-matt-rutherford-10000-mile-odyssey",
-          "pubDate": "Sat, 08 Aug 2026 17:30:56 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Tanker sailors still face danger in the Strait of Hormuz",
-          "link": "https://www.npr.org/2026/08/08/nx-s1-5923592/tanker-sailors-still-face-danger-in-the-strait-of-hormuz",
-          "pubDate": "Sat, 08 Aug 2026 17:19:54 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-09T21:38:06.401Z"
+      "updatedAt": "2026-08-09T22:36:56.244Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Braves ace Chris Sale ejected by umpire Dan Merzel before start of game against Yankees - apnews.com",
+          "title": "Braves ace Chris Sale ejected by umpire Dan Merzel before start of game against Yankees - AP News",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNGV5NmZMS2ZxeW1OQ094Z1ZyelBXV1VmODQxRzYtR0hJMnhicktWb29JYmVSenVJMERsYU1FU3lmYU52R012TTZDNmlHOFNuZlVRLW4wYlllQ0NTMGdkbnF6VVd6SHBveTl1Q1U5WFB6cHFTMmxEdFRHdm5KQXdlMUZMY00tR2FoYzNTbVBIUjFlU3lOOEIxcDRB?oc=5",
           "pubDate": "Sun, 09 Aug 2026 21:09:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Wildfires burn across western US and Canada as residents are evacuated - apnews.com",
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Sun, 09 Aug 2026 21:03:31 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Suspected Irish crime boss lands in Dublin after extradition from Dubai to face allegations - AP News",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUnpyMEFsbnFKMHRLMUZPWmcwV3o0bU9qLU4zRHNZd0YwXzh4NmRvNS1Xa3NkOVJJRGYzZXA5R0NNa19pandCVVNNODk0SFpPVE42MFpNUEhya2ZyaHVpTTVIbzdQMUFPSnBZQks5dEdvWWVHWGJpMWlvcjZOcjBDNklhWWFIN1J4OHB3QlhQNGtoeGM1WUREYVAxU1Zydw?oc=5",
+          "pubDate": "Sun, 09 Aug 2026 20:49:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Don Nelson, second-winningest NBA coach who won 5 titles as a Celtics player, dies at 86 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOEhpV2ZGcF9TOGdsV3FOc2pLVGt6d3ZPSmhlWS1CVjVyLXhHRVdMRHBmckhRRDRINm83bHJnbDg5eXJhRDlrSXdISDkxVHRRN1UwOURvX2FiWW5vOFRUbWt2RUpQM3NPOWFQT2NvelZveXZ2dWlQMDREUy1NanI5MGRtbDRrNzlvbDVDZUhB?oc=5",
+          "pubDate": "Sun, 09 Aug 2026 20:31:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Teddy Bridgewater steps away from Lions, leaving question at backup QB - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaUhKLVN3X0wwUGU2cjlMZ0x2YWRRM1lWQzBuN3FPeGhLTm91bXZUSXlkcWVPb1VrQkJfcjEwLU9od0U0MDN6dENiZmJrQVU1c3gwN05kekxWYzRpUzgyUDE0UHJEZ1U0alBwbHE4ZWhENFlYWC12WmthU21VQjc0UnpKdFlKWVR6UFRsaXpyWnNrVXZpYU4xREFPUXpBNXJsNnc?oc=5",
+          "pubDate": "Sun, 09 Aug 2026 20:18:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Wildfires burn across western US and Canada as residents are evacuated - AP News",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMjJ5UUtGSnBqYXN1Zjh2aG5TM3RlaVMwbWNHeWk4ZDBwcW5XVVdzY3RjSWsyYzljWmhGYmlGXzZ3Xy1vRDFtRUM0RnIwTzRkQTVmNzBBSjBTYzJQeGE5emhKODdhT2t2aUFqZ0lKcDFCSlVkWnM5bGpUTWlpeGtqbkQ1UlBteEZhUmxXYVFhV1o?oc=5",
           "pubDate": "Sun, 09 Aug 2026 20:11:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "‘Spider-Man: Brand New Day’ keeps record pace, ‘The Odyssey’ sets new high for Nolan - apnews.com",
+          "title": "‘Spider-Man: Brand New Day’ keeps record pace, ‘The Odyssey’ sets new high for Nolan - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMDRXM1E2Z25Ta2tVMlJGVVFmbUFzLXRMc09IR1NWN3F2ZFNubFlVUERBcHliSEFQZFNEYUdRS29NdDc3NUFoclg1VmlEWTdUczY1NlpOQkszcVlTODRuX0dDa1NVeU5NRVVzRU90SlYwWVJxa2wyVENwNy10TmtHNlNJZ2JkUV9xbkFQY0pESFpWdjY1RUR4XzBwTmx4dDRZSHVsaUNmQTZXUQ?oc=5",
           "pubDate": "Sun, 09 Aug 2026 19:42:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Don Nelson, second-winningest NBA coach who won 5 titles as a Celtics player, dies at 86 - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOEhpV2ZGcF9TOGdsV3FOc2pLVGt6d3ZPSmhlWS1CVjVyLXhHRVdMRHBmckhRRDRINm83bHJnbDg5eXJhRDlrSXdISDkxVHRRN1UwOURvX2FiWW5vOFRUbWt2RUpQM3NPOWFQT2NvelZveXZ2dWlQMDREUy1NanI5MGRtbDRrNzlvbDVDZUhB?oc=5",
-          "pubDate": "Sun, 09 Aug 2026 19:39:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Israel rejects Trump's Gaza plan, more details emerge on the Strait of Hormuz and other Mideast news - apnews.com",
+          "title": "Israel rejects Trump's Gaza plan, more details emerge on the Strait of Hormuz and other Mideast news - AP News",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV2psZVVzWDFLUWxaM0N2dTlwTXpyQUhLVXRUNzFMZ1hoWVpQQk1iUXlZQWNFRTJKeFRZSFdfOWZCU0VxenBzOExCUXJDZm9DM3FCMmpOYXc5Y1dkSHpPOUdUTDFYN09mc0d0NmV4ZEtDWEhuVDdMcjN3QWdpcmlXUy1KcGRXd1NuSmt6ZTNMX0hTanNQZF9DelRIMFQxUHJ3UUJEb3FhM3QzMFRrNnZ5ZW9n?oc=5",
           "pubDate": "Sun, 09 Aug 2026 19:33:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Boat capsizes in New York Harbor, woman and 5-month-old baby die - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUVZYOXIzQjktcGoxYlBqbS01YkNxejVwd0JtWTNDMWJNLWtsczRyZWVkYloyTExOU3pvcFJWUkVZLTl6NXEwUi1JZUdGbEYzZGg4NTExTHlhZG5FVm5KRExKdmlfajdWdDJEZ0hfai1kZlhpamZmVjR4SHRaNGJmTUc4NW42SGZObUY1d0E3QXZDQXpmN0dYX1kwbC1VeXJqNXc?oc=5",
-          "pubDate": "Sun, 09 Aug 2026 19:00:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "How to spot the Perseid meteor shower, a summer light show that promises to dazzle - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYlRFbnhjM2FtSUhnMDRaN0NtRHhOVGFrNU9zU2N5Zkt0aVl2QVRmUWJ5UmVxMkd2Y1dqaUlCTTNVMjFxTGYtNDFFVDlscDR5aTJBODJFQnoxRWs2VHV4NVVqQVA4UlRsM2l0TXBTU0I4RkYwRGxlaHotRm9kVmhVellYRjJNN05TRkEybU5FekdkZWNoSVFiNFFFTEZBU1hu?oc=5",
-          "pubDate": "Sun, 09 Aug 2026 18:21:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "MLB | Latest News, Stats, and Scores - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Sun, 09 Aug 2026 18:07:50 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-09T21:38:06.964Z"
+      "updatedAt": "2026-08-09T22:36:56.677Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Nelson, Hall of Fame coach and five-time NBA champion as a player, dies at 86 - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcHhLbHVkXzBvREhTUndsR0xUSktyTGFyR1VVMzNpSXFHT0NMZUJpNEZHbVZrNTIxcEUxNGNsam1kQkhGWGZ5czdqYWNDenRILTFpTUhSYVhtSmJLY3RBUmdQUlAxcGszbjFoN0R3SFpqUHhyTXM1NklWV0stMi1IWXRNdHdMaHZBSG5xanVMMzNSMFZpNUsyZjRwZ0ZZOG9wMFNRTnJn?oc=5",
+          "pubDate": "Sun, 09 Aug 2026 21:18:13 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Alleged Irish crime boss Kinahan charged with directing criminal organisation - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUzl5TEZoallFdF9oRFpZcHRETGZPXzRmYnNwRGU5eXBweFRkTFVEU0lSb2VDLVg0dFBueFhEeWc5YVlCdUJtckVvcXdVWndxMDRSdmREeGc3YzBkQUZLU2dmX2EwRVc3cmdXamhYRUhoTExqeklKZDhoaU9RM0NKNl90RkEwRGc1R1JMZ1BxWFU3VVBoZjBtaVl3U1J5YnZ1MTJv?oc=5",
+          "pubDate": "Sun, 09 Aug 2026 20:53:26 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Six die in Ukrainian drone attack on Belgorod, Russian authorities say - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOENwSFprNnAxMlVVRDZJclVmY0VZR1VpN2I0SnhjY2d2cGwzc2QtUHRSWk9jdEg1eW84WnFadDJHaWhIWEU3R3hPNHlsSXJCdk04R3NNbGlYTTU5RzQ1QlhER1lDLWh6Z2czZU9jWkFIdkdkdzdZLW5tcHQwTE1qZ0ctSl96OWdWbFB6WlN2UXhTbnRtYlpvNUFBY0FMWDBJN2xKanJUUU1GU1Y3N0ZSd0k4TnM2QUJW?oc=5",
@@ -176,15 +188,21 @@
           "source": "Reuters"
         },
         {
-          "title": "Israel military closes Palestinian Christian village Taybeh to halt settler attacks - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcWhzbGhpYTNuV1JTcU8wSEotZ01CQ3lJb1pteWZiUzRpVVdmdmhUYldVSlV5cXNnR0pKQTFZVmFZeG1VUjZJWkN5Tm5Vak9FTmZFd1RncERPZnJBQmQwdllYaktkQ1VKeWQ5Qi1WaUdSdVlwbGRGaFM0NUJrNmt4MExPczhrVHdSZTVBQlJ4OUN5WVpvSi1XMDE0N0hub292RmlkOUJ1eG9xbkh2U0RXdEpraUF5VU01bXY2NFVqUVFYdjRLT0JWaVN3a0FjY0E?oc=5",
-          "pubDate": "Sun, 09 Aug 2026 19:57:43 GMT",
+          "title": "Houthis resume attacks on Yemen's Mocha port city, Yemeni military spokesperson says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQY1pLdDR5UUhyOFl0d1dQNFFWV3lPV1RkNVg0TFgtSjVidElQVlpTcmt1cFQ0QmI4bTNsOXdjNlozM1RWLU9DUThrNmNjTURRZV9sSjJPbTVIYTR2ZUZQYzQ2NGdFbVRsSVlzeno5NWhiajhucW8ySmYwc1B6cENtOHg1RVhBY0pKUUFHSENiM0w5dU1lNkNJNTB0S0FLSFNKZnpZRHJLaGZHSVk2OFg1X3B0TEUyT0R4V2EtWHoxY2pjVF9IOHl4ZEpZZGF3QQ?oc=5",
+          "pubDate": "Sun, 09 Aug 2026 20:24:10 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Alleged Irish crime boss Kinahan charged with directing criminal organisation - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVkNiWTEyOWVSUTFRWE84YjZiang2N19rR3BPaE9zM19Zb3otaGVDNmFkbUYtclYzd29XUDFMdWtRenNBYUJaWC0xMVFNMXZTQnVkeWhoRjVLZW5mMWxxOFZRTmIxOXQyVlBBMks1ZWtCR2JjYkxvanV6ZTZTQlJ5Q3E3eERWNnZISzBodUtYSnFWLU9BVWVlTGhCTjFPYno4dFpVdUQ5TkZzN1FoT01UaTJWZVVEQ1ViVUFaWGJZb2N4Tko4?oc=5",
-          "pubDate": "Sun, 09 Aug 2026 19:27:46 GMT",
+          "title": "NORAD intercepts two aircraft as Trump watches golf tourney in New Jersey - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbmxlZ0JvLUxjSzh2TkhGZUJlV2EwWHc0Q2NtcmhzbVNoaGFqT3A4dVJuMzBQQWlTODlwTFlfTkRqazlJWWVab0NGMDFJeFA1czR2eUFZclk5M1gta3o4VW5YeFpIOENjeUY0NnBGWTBRbkY4azhkdE4tYVpQZWhjT2R2WWQ5aVVZZl9LWkNkX1RTNHZaZGo5cE5FOGI5bkxhb3BUal9JNTdlUllSXzlsTW5R?oc=5",
+          "pubDate": "Sun, 09 Aug 2026 19:59:33 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Israel military closes Palestinian Christian village Taybeh to halt settler attacks - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcWhzbGhpYTNuV1JTcU8wSEotZ01CQ3lJb1pteWZiUzRpVVdmdmhUYldVSlV5cXNnR0pKQTFZVmFZeG1VUjZJWkN5Tm5Vak9FTmZFd1RncERPZnJBQmQwdllYaktkQ1VKeWQ5Qi1WaUdSdVlwbGRGaFM0NUJrNmt4MExPczhrVHdSZTVBQlJ4OUN5WVpvSi1XMDE0N0hub292RmlkOUJ1eG9xbkh2U0RXdEpraUF5VU01bXY2NFVqUVFYdjRLT0JWaVN3a0FjY0E?oc=5",
+          "pubDate": "Sun, 09 Aug 2026 19:57:43 GMT",
           "source": "Reuters"
         },
         {
@@ -198,28 +216,10 @@
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLVlSazBucFNIOGZ3aG91cDZhcTFfMWI4NWMycVczNWtmVHRKTU54WlJud1JqVUxCOW84U1p0OU5aSjdBNnJHS2xmLVVIaVdGZUpNemJKaTA5aV9TU1NHaHlZMEo1X1VjX2wxTExReTl0Tk5SYkRsMWsxWUo3UWw3UE1iV0N2UmJydWZFeHZpX01Ba1NISVdtei01OXRnMUtpem80dW5wa1FKNnhNQzZOMGlJMG8?oc=5",
           "pubDate": "Sun, 09 Aug 2026 18:55:32 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Trump says U.S. is 'low-keying it' with Iran, stresses economic pain, according to Axios interview - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOazVhN1R5WHRFQTBvX1BRNWoyT1F4WGlKVXBncE5ad1h2TVZqM0ZPLWdEYy1OVkdDYnE2THh4Z2twaGtiRXBMdVY3V3NBT01UeGxuVlljODZHUVptY3NqNnVldHNDOEIzYndQQi0zUExFbExpVGdQbS0zS2ppeGpMbWlvVnZsNS10aVBLaXR1ZDA4Q0piT09XVHR4bjRNSk5qaDQtOGwzWm1seTB0UXlVUl9uN3FIRlVCWUdNS0lNX2xWUWR2ZHdTNnVqdS1sdw?oc=5",
-          "pubDate": "Sun, 09 Aug 2026 17:19:59 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Ukraine, Russia accuse each other of lethal attacks, Odesa port damaged - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYkNMLVhYYm1zdG9veTFxQlIxY3IzNHpyOFZGMzAzWVZVWU9xU0xTUzdGMUplZmlzZTlPbEZCV3Fsb3pPa1J2MWhuU0Vhc0xoSDhsZXpLWUh6ektRLUItdUVUd2g4Q1lTSmtLZWlNd1p4ZnhhYUxlRFdCVjZlOUtQaU5qX1U4Ql9DRUtvNWZOVnRJMjNOOHJMSmFkQzNqTThMY2ZFamxQV0dqemsyRlhmaGFHZHgzLXd0b081dDZKRVRfTE9PeVhj?oc=5",
-          "pubDate": "Sun, 09 Aug 2026 16:22:10 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "PODCAST: Israel rejects Gaza plan, Yemen Saudi strike and Taylor Swift - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRGs5LVJQSnlqLXhUVEdVN1h2OTdZaXlLVzVnaW9xVk50VGdvM004MWpQNXIyLUVxMjV1aGhoSXhVcmhlMmZqNVltVUhyblg2MmtIbjBpZldLSmRLLWxCX0xvVGhmVFJKbk81S1NQQnM0TTYzM0tTLUotcC1DQ1JGVGx6dG8xVktZOHJydHNnODNvXzhKWDhXVENkX2RWRnJBM1Aw?oc=5",
-          "pubDate": "Sun, 09 Aug 2026 15:28:24 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-09T21:38:07.370Z"
+      "updatedAt": "2026-08-09T22:36:57.140Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-09T21:38:07.648Z"
+      "updatedAt": "2026-08-09T22:36:57.511Z"
     }
   ]
 }
