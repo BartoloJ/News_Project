@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-08-09T15:02:13.340Z",
+  "generatedAt": "2026-08-09T15:59:24.716Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Ecuador charges ex-minister over presidential candidate assassination case",
+          "link": "https://www.bbc.co.uk/news/articles/cgjeznj6979o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 09 Aug 2026 15:34:04 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Man arrested after boat capsizes near Statue of Liberty killing woman and infant",
+          "link": "https://www.bbc.co.uk/news/articles/c935w1d05d7o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 09 Aug 2026 15:25:50 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
           "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
@@ -39,22 +51,10 @@
           "link": "https://www.bbc.co.uk/news/articles/c2elpkg1l0jo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 09 Aug 2026 03:00:44 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Nigeria's mass wedding - and how telling lovers from fraudsters is proving tricky",
-          "link": "https://www.bbc.co.uk/news/articles/cqx7q17531do?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 09 Aug 2026 01:10:50 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "An unbearable rotting stench is plaguing an LA neighbourhood",
-          "link": "https://www.bbc.co.uk/news/articles/c2elpz33zp2o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 09 Aug 2026 00:15:28 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-09T15:02:12.187Z"
+      "updatedAt": "2026-08-09T15:59:23.468Z"
     },
     {
       "name": "NPR",
@@ -66,7 +66,7 @@
           "source": "NPR"
         },
         {
-          "title": "Can birth control trends explain the rise in abortions? It's complicated",
+          "title": "There's a birth control backlash online. Can it explain the rise in abortions?",
           "link": "https://www.npr.org/2026/08/09/nx-s1-5887615/abortion-rate-birth-control-pills-roe-v-wade",
           "pubDate": "Sun, 09 Aug 2026 08:12:15 -0400",
           "source": "NPR"
@@ -109,62 +109,62 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-09T15:02:12.251Z"
+      "updatedAt": "2026-08-09T15:59:23.608Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Syria agrees deal with Russia over future use of 2 key Mediterranean bases - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb0xUOUZscjJubmJIbnBRTHVjbUV4emlhWXo1MjZNdVpWRFIxOFFYeVlENUR6ZDkxbkMxVkRCcGVXTWJ6dkM2OGRSMHlUZGx5bFl4aHV6dHJONmtPenpsZDZkb0NOY0NUWjhWRGFsZVV6VkM0dy1SSEJPRDBSN2Vod3dNM3B3eW9QYmdlYXFZSUJuOWFKWnA3dkd2ZmU0OGZoR3h1SGVjaEkzdw?oc=5",
-          "pubDate": "Sun, 09 Aug 2026 14:07:00 GMT",
+          "title": "Shanghai cancels at least 1,300 flights as Typhoon Dolphin hits China’s eastern coast - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdGtvcElBNThyOFktNjcySXRiVGJNaXBiMnZCNnFmQi1QaTc5MVRLck95ZjMtdGtvT0hUdms2dGV1WXJOekpxYm1sZkd1cmR4dzlkMDNJUGRWZzlMT0F1UENhRG5zQXZNc0NuUDlVMWFFTUpacnZNREItSTVaLUhBeQ?oc=5",
+          "pubDate": "Sun, 09 Aug 2026 15:11:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Boat capsizes in New York Harbor, woman and 5-month-old baby die - AP News",
+          "title": "Syria agrees deal with Russia over future use of 2 key Mediterranean bases - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb0xUOUZscjJubmJIbnBRTHVjbUV4emlhWXo1MjZNdVpWRFIxOFFYeVlENUR6ZDkxbkMxVkRCcGVXTWJ6dkM2OGRSMHlUZGx5bFl4aHV6dHJONmtPenpsZDZkb0NOY0NUWjhWRGFsZVV6VkM0dy1SSEJPRDBSN2Vod3dNM3B3eW9QYmdlYXFZSUJuOWFKWnA3dkd2ZmU0OGZoR3h1SGVjaEkzdw?oc=5",
+          "pubDate": "Sun, 09 Aug 2026 14:09:15 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Boat capsizes in New York Harbor, woman and 5-month-old baby die - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUVZYOXIzQjktcGoxYlBqbS01YkNxejVwd0JtWTNDMWJNLWtsczRyZWVkYloyTExOU3pvcFJWUkVZLTl6NXEwUi1JZUdGbEYzZGg4NTExTHlhZG5FVm5KRExKdmlfajdWdDJEZ0hfai1kZlhpamZmVjR4SHRaNGJmTUc4NW42SGZObUY1d0E3QXZDQXpmN0dYX1kwbC1VeXJqNXc?oc=5",
           "pubDate": "Sun, 09 Aug 2026 13:40:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Houthis claim attacks on Saudi Arabian oil facility and Yemeni port, and other Mideast news - AP News",
+          "title": "Houthis claim attacks on Saudi Arabian oil facility and Yemeni port, and other Mideast news - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV2psZVVzWDFLUWxaM0N2dTlwTXpyQUhLVXRUNzFMZ1hoWVpQQk1iUXlZQWNFRTJKeFRZSFdfOWZCU0VxenBzOExCUXJDZm9DM3FCMmpOYXc5Y1dkSHpPOUdUTDFYN09mc0d0NmV4ZEtDWEhuVDdMcjN3QWdpcmlXUy1KcGRXd1NuSmt6ZTNMX0hTanNQZF9DelRIMFQxUHJ3UUJEb3FhM3QzMFRrNnZ5ZW9n?oc=5",
           "pubDate": "Sun, 09 Aug 2026 13:15:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "No Ebola cases found on quarantined river boat, Congo authorities say - AP News",
+          "title": "No Ebola cases found on quarantined river boat, Congo authorities say - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRkdnNzFkUkJ2VGx1cE1kSGoteEtCd2dFR25Dc2hEYVdfdDNna2ZnQ0x3MmtOaVJlTTZBMk5fWXl6NmZEUzVoeHhySUZvOXlzWGRPZEVqVDNPbjZmbVVlVHBmcWF1Q1R4cFRCNGEtWlFxV1BMRmhQTVNVX0N5UERaS3NDUzQ0M0lkYjJqdzJlQ2ttUDJIVlhDR2tjdm9USDQ?oc=5",
           "pubDate": "Sun, 09 Aug 2026 12:00:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Shanghai cancels 1,300 flights as Typhoon Dolphin hits China’s eastern coast - AP News",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdGtvcElBNThyOFktNjcySXRiVGJNaXBiMnZCNnFmQi1QaTc5MVRLck95ZjMtdGtvT0hUdms2dGV1WXJOekpxYm1sZkd1cmR4dzlkMDNJUGRWZzlMT0F1UENhRG5zQXZNc0NuUDlVMWFFTUpacnZNREItSTVaLUhBeQ?oc=5",
-          "pubDate": "Sun, 09 Aug 2026 11:51:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Many immigrants face deportation without a lawyer at their side in court. This program tries to help - AP News",
+          "title": "Many immigrants face deportation without a lawyer at their side in court. This program tries to help - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUjg2QTFyNTZBb3hxeDdiM2IzUElZLTM2MmtGM3RvbEZ0U3Zzb0JZd2VVN1dqQ1ZmNzhqUHY4TkF5WnN5TlhUVGVGVmJUMHR1NHZsWTB1MG9idERBankyRjk0aXFDX3pOdlFRTUxrWkxSQkpUc2kwdFVNNjhnd1FVbzdZRWltamFLeGVpNjVtNUs4Q0NVbnZUZ1ZxbTdhSFVlTE54VnNZUHRSdHFL?oc=5",
           "pubDate": "Sun, 09 Aug 2026 11:36:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Myanmar rebuffs ASEAN call to free Aung San Suu Kyi, questions need for envoy - AP News",
+          "title": "Myanmar rebuffs ASEAN call to free Aung San Suu Kyi, questions need for envoy - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbkxYOXZ3LS0wYjlLbko5S3BsRkVnZERxVlBHbGxBRW9Oa19fNkhIRFR4RTdER1hrakdITzZfdFYtM3JRSUtYZFphVExsZE5iMTNid3A1ZmFsbDJseGZkNm05bVYyNVZiOUdXTEVKVFdnUjdhYUY1dWtOTjhJREFyRFZ0amVYUkhwMzlMT2lIajQzYl9PMU1acFdOa1dEb3VJ?oc=5",
           "pubDate": "Sun, 09 Aug 2026 07:17:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Wildfires force 20,000 to flee as British Columbia declares state of emergency - AP News",
+          "title": "Wildfires force 20,000 to flee as British Columbia declares state of emergency - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRWFHcGZLTElaS2tjME10OWxDWE9aM3ZHeXpMVzJIUVhLeVMzY0Y1LWxZODh1SmRrdDJvRHVHR09TOEV3STlXNVc1YnRtbFdSYWdpR0E5alVOMDB5QWdBdmw1U3VzZkVQYU5oalA4cU9NNk5CZ0EtZ3dlRDV4R0xkRWNGR1MzTDVVVTd3UWpTcW50QkdjZkFhY0hVbGRmZWtVSmZycjAzcTBHRmdMYTYyT2pB?oc=5",
           "pubDate": "Sun, 09 Aug 2026 03:10:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-09T15:02:12.661Z"
+      "updatedAt": "2026-08-09T15:59:24.046Z"
     },
     {
       "name": "Reuters",
@@ -219,7 +219,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-09T15:02:13.096Z"
+      "updatedAt": "2026-08-09T15:59:24.450Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-09T15:02:13.340Z"
+      "updatedAt": "2026-08-09T15:59:24.716Z"
     }
   ]
 }
