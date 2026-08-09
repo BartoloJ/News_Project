@@ -1,9 +1,15 @@
 {
-  "generatedAt": "2026-08-09T06:24:13.619Z",
+  "generatedAt": "2026-08-09T07:35:06.349Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "State of emergency declared as fast-moving Canada wildfire doubles in size",
+          "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 09 Aug 2026 06:46:40 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Perez Hilton faces long recovery after reports he self-harmed during livestream",
           "link": "https://www.bbc.co.uk/news/articles/cg5lnqjz497o?at_medium=RSS&at_campaign=rss",
@@ -35,12 +41,6 @@
           "source": "BBC News"
         },
         {
-          "title": "Fast-moving Canada wildfire doubles in size forcing thousands to flee homes",
-          "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 08 Aug 2026 22:01:54 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
           "link": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 08 Aug 2026 19:18:57 GMT",
@@ -54,7 +54,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-09T06:24:12.385Z"
+      "updatedAt": "2026-08-09T07:34:51.901Z"
     },
     {
       "name": "NPR",
@@ -109,7 +109,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-09T06:24:12.569Z"
+      "updatedAt": "2026-08-09T07:34:52.154Z"
     },
     {
       "name": "AP News",
@@ -163,7 +163,7 @@
           "source": "AP News"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-08-09T06:24:13.045Z"
     },
     {
@@ -218,7 +218,7 @@
           "source": "Reuters"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-08-09T06:24:13.414Z"
     },
     {
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-09T06:24:13.619Z"
+      "updatedAt": "2026-08-09T07:35:06.349Z"
     }
   ]
 }
