@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T16:48:26.674Z",
+  "generatedAt": "2026-08-09T17:36:15.874Z",
   "sources": [
     {
       "name": "BBC News",
@@ -54,7 +54,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-09T16:48:25.638Z"
+      "updatedAt": "2026-08-09T17:36:14.757Z"
     },
     {
       "name": "NPR",
@@ -109,11 +109,41 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-09T16:48:25.738Z"
+      "updatedAt": "2026-08-09T17:36:14.943Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Houthis claim attacks on Saudi oil facility and Yemeni port, and other Mideast news - AP News",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV2psZVVzWDFLUWxaM0N2dTlwTXpyQUhLVXRUNzFMZ1hoWVpQQk1iUXlZQWNFRTJKeFRZSFdfOWZCU0VxenBzOExCUXJDZm9DM3FCMmpOYXc5Y1dkSHpPOUdUTDFYN09mc0d0NmV4ZEtDWEhuVDdMcjN3QWdpcmlXUy1KcGRXd1NuSmt6ZTNMX0hTanNQZF9DelRIMFQxUHJ3UUJEb3FhM3QzMFRrNnZ5ZW9n?oc=5",
+          "pubDate": "Sun, 09 Aug 2026 16:33:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Trump’s immigration crackdown looms over Minnesota’s bruising Senate primary - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOb2hvX1JZYmNKUXQ2RWVObVJJN3VWdFpLWXM1cUs0TkZNUHB6Wlc5eTFGcm83cjB1d2VVSmpFOTZxR3lCZTBvZnBaTGRJc0VOQ1NjVGpYUVRlazlsRkk1ZFZXMjlCWjhIeUdHT3kxdHpYQXdNTE05X2VyczFTR2lXa1BVRmtuOXJMUVVVTlpRVURkQTVQM1k2c3dhNUFVc2NBNVFqN3BnZndnVXptakE?oc=5",
+          "pubDate": "Sun, 09 Aug 2026 16:26:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Health officials urge caution for Gulf Coast beachgoers during surge of deadly bacterial infections - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVHZ4ZTczbFBkMldxZ1AxeXpPbUZlcFlRMFdIekNfcDVjUVp5VTUtaHIwVWMxLTdfdEg0cmoxVFQwX2w5cVdTekxUbXBQSm1ib0EwRW5yWUNFS1lpUDZJaDQ2cGh3bFFTdWdfeHRBOVFySWpiWVhhelFBQjNkODZrRy1rUGxHbWNwTkpnSTAtMFJpYnJVTFc5NGxtcVQ2TFpxWDB2TEdWNnpKMVNOanp5dTlOdw?oc=5",
+          "pubDate": "Sun, 09 Aug 2026 16:09:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Boat capsizes in New York Harbor, woman and 5-month-old baby die - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUVZYOXIzQjktcGoxYlBqbS01YkNxejVwd0JtWTNDMWJNLWtsczRyZWVkYloyTExOU3pvcFJWUkVZLTl6NXEwUi1JZUdGbEYzZGg4NTExTHlhZG5FVm5KRExKdmlfajdWdDJEZ0hfai1kZlhpamZmVjR4SHRaNGJmTUc4NW42SGZObUY1d0E3QXZDQXpmN0dYX1kwbC1VeXJqNXc?oc=5",
+          "pubDate": "Sun, 09 Aug 2026 15:47:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Syria will take back control from Russia of 2 key Mediterranean bases under a new deal - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb0xUOUZscjJubmJIbnBRTHVjbUV4emlhWXo1MjZNdVpWRFIxOFFYeVlENUR6ZDkxbkMxVkRCcGVXTWJ6dkM2OGRSMHlUZGx5bFl4aHV6dHJONmtPenpsZDZkb0NOY0NUWjhWRGFsZVV6VkM0dy1SSEJPRDBSN2Vod3dNM3B3eW9QYmdlYXFZSUJuOWFKWnA3dkd2ZmU0OGZoR3h1SGVjaEkzdw?oc=5",
+          "pubDate": "Sun, 09 Aug 2026 15:38:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Shanghai cancels at least 1,300 flights as Typhoon Dolphin hits China’s eastern coast - AP News",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdGtvcElBNThyOFktNjcySXRiVGJNaXBiMnZCNnFmQi1QaTc5MVRLck95ZjMtdGtvT0hUdms2dGV1WXJOekpxYm1sZkd1cmR4dzlkMDNJUGRWZzlMT0F1UENhRG5zQXZNc0NuUDlVMWFFTUpacnZNREItSTVaLUhBeQ?oc=5",
@@ -121,50 +151,20 @@
           "source": "AP News"
         },
         {
-          "title": "Syria agrees deal with Russia over future use of 2 key Mediterranean bases - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb0xUOUZscjJubmJIbnBRTHVjbUV4emlhWXo1MjZNdVpWRFIxOFFYeVlENUR6ZDkxbkMxVkRCcGVXTWJ6dkM2OGRSMHlUZGx5bFl4aHV6dHJONmtPenpsZDZkb0NOY0NUWjhWRGFsZVV6VkM0dy1SSEJPRDBSN2Vod3dNM3B3eW9QYmdlYXFZSUJuOWFKWnA3dkd2ZmU0OGZoR3h1SGVjaEkzdw?oc=5",
-          "pubDate": "Sun, 09 Aug 2026 14:09:15 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Boat capsizes in New York Harbor, woman and 5-month-old baby die - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUVZYOXIzQjktcGoxYlBqbS01YkNxejVwd0JtWTNDMWJNLWtsczRyZWVkYloyTExOU3pvcFJWUkVZLTl6NXEwUi1JZUdGbEYzZGg4NTExTHlhZG5FVm5KRExKdmlfajdWdDJEZ0hfai1kZlhpamZmVjR4SHRaNGJmTUc4NW42SGZObUY1d0E3QXZDQXpmN0dYX1kwbC1VeXJqNXc?oc=5",
-          "pubDate": "Sun, 09 Aug 2026 13:40:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Houthis claim attacks on Saudi Arabian oil facility and Yemeni port, and other Mideast news - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV2psZVVzWDFLUWxaM0N2dTlwTXpyQUhLVXRUNzFMZ1hoWVpQQk1iUXlZQWNFRTJKeFRZSFdfOWZCU0VxenBzOExCUXJDZm9DM3FCMmpOYXc5Y1dkSHpPOUdUTDFYN09mc0d0NmV4ZEtDWEhuVDdMcjN3QWdpcmlXUy1KcGRXd1NuSmt6ZTNMX0hTanNQZF9DelRIMFQxUHJ3UUJEb3FhM3QzMFRrNnZ5ZW9n?oc=5",
-          "pubDate": "Sun, 09 Aug 2026 13:15:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "MLB | Latest News, Stats, and Scores - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Sun, 09 Aug 2026 13:14:09 GMT",
+          "pubDate": "Sun, 09 Aug 2026 14:45:15 GMT",
           "source": "AP News"
         },
         {
-          "title": "No Ebola cases found on quarantined river boat, Congo authorities say - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRkdnNzFkUkJ2VGx1cE1kSGoteEtCd2dFR25Dc2hEYVdfdDNna2ZnQ0x3MmtOaVJlTTZBMk5fWXl6NmZEUzVoeHhySUZvOXlzWGRPZEVqVDNPbjZmbVVlVHBmcWF1Q1R4cFRCNGEtWlFxV1BMRmhQTVNVX0N5UERaS3NDUzQ0M0lkYjJqdzJlQ2ttUDJIVlhDR2tjdm9USDQ?oc=5",
-          "pubDate": "Sun, 09 Aug 2026 12:00:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Many immigrants face deportation without a lawyer at their side in court. This program tries to help - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUjg2QTFyNTZBb3hxeDdiM2IzUElZLTM2MmtGM3RvbEZ0U3Zzb0JZd2VVN1dqQ1ZmNzhqUHY4TkF5WnN5TlhUVGVGVmJUMHR1NHZsWTB1MG9idERBankyRjk0aXFDX3pOdlFRTUxrWkxSQkpUc2kwdFVNNjhnd1FVbzdZRWltamFLeGVpNjVtNUs4Q0NVbnZUZ1ZxbTdhSFVlTE54VnNZUHRSdHFL?oc=5",
-          "pubDate": "Sun, 09 Aug 2026 11:36:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Myanmar rebuffs ASEAN call to free Aung San Suu Kyi, questions need for envoy - AP News",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbkxYOXZ3LS0wYjlLbko5S3BsRkVnZERxVlBHbGxBRW9Oa19fNkhIRFR4RTdER1hrakdITzZfdFYtM3JRSUtYZFphVExsZE5iMTNid3A1ZmFsbDJseGZkNm05bVYyNVZiOUdXTEVKVFdnUjdhYUY1dWtOTjhJREFyRFZ0amVYUkhwMzlMT2lIajQzYl9PMU1acFdOa1dEb3VJ?oc=5",
-          "pubDate": "Sun, 09 Aug 2026 07:17:00 GMT",
+          "title": "Pakistan says new defense pact with Saudi and Turkey is 'purely defensive' and open to others - AP News",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUzZVbFVNN1Y3STJlT2VWN1pQMkJVLXZkNHN1cUkyQUpOT2VwQmF1WVhfTGFGSXYzMFM1TmViNENOaVNrNFUwSkpCZ25WSlpMUDVxQVdyaE9lMTJ0TDJMQlRZMFZna1RUZU9MNWktaEVZa0NXd1N0a09iaUp1aDhvUkI4YzJ4bzVwallrbWZQM1Fuc21oNm02dVIwbFBBNmlFbkhhQ25EejJkLUZqblJaYzhhQUV0dGs?oc=5",
+          "pubDate": "Sun, 09 Aug 2026 12:15:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-09T16:48:26.154Z"
+      "updatedAt": "2026-08-09T17:36:15.377Z"
     },
     {
       "name": "Reuters",
@@ -173,6 +173,12 @@
           "title": "Ukraine, Russia accuse each other of lethal attacks, Odesa port damaged - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYkNMLVhYYm1zdG9veTFxQlIxY3IzNHpyOFZGMzAzWVZVWU9xU0xTUzdGMUplZmlzZTlPbEZCV3Fsb3pPa1J2MWhuU0Vhc0xoSDhsZXpLWUh6ektRLUItdUVUd2g4Q1lTSmtLZWlNd1p4ZnhhYUxlRFdCVjZlOUtQaU5qX1U4Ql9DRUtvNWZOVnRJMjNOOHJMSmFkQzNqTThMY2ZFamxQV0dqemsyRlhmaGFHZHgzLXd0b081dDZKRVRfTE9PeVhj?oc=5",
           "pubDate": "Sun, 09 Aug 2026 16:22:10 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Netanyahu says Israel won't pull out of Gaza before Hamas disarms - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMm5hSE0yMGxRN0hITzZOLXp3R2tCX1dRc1IxaWp3MmZ5Uzc5T20yYmQxVlQ2ZDUzdkppNUJRNzJQcDNwaDh4aGd2cmI1S1lKY2lKRzNBUnJXVVpfOVNwa1JDM2JLenNkMi1YQ2h4MFJ3Yk1HM0FBY2RZZTVnbXd5QmhxU3ZKWTNQZDNEWmdEYVVBUzV3b2tZMEx5TDVTOER0SVZsemE4Z1F2VFJ0Ym9qX3Zn?oc=5",
+          "pubDate": "Sun, 09 Aug 2026 16:05:54 GMT",
           "source": "Reuters"
         },
         {
@@ -206,12 +212,6 @@
           "source": "Reuters"
         },
         {
-          "title": "Netanyahu says Israel won't pull out of Gaza before Hamas disarms - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMm5hSE0yMGxRN0hITzZOLXp3R2tCX1dRc1IxaWp3MmZ5Uzc5T20yYmQxVlQ2ZDUzdkppNUJRNzJQcDNwaDh4aGd2cmI1S1lKY2lKRzNBUnJXVVpfOVNwa1JDM2JLenNkMi1YQ2h4MFJ3Yk1HM0FBY2RZZTVnbXd5QmhxU3ZKWTNQZDNEWmdEYVVBUzV3b2tZMEx5TDVTOER0SVZsemE4Z1F2VFJ0Ym9qX3Zn?oc=5",
-          "pubDate": "Sun, 09 Aug 2026 13:09:15 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "Ukraine's Zelenskiy says up to 50,000 North Korean troops to be deployed in Russia - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWmFXOGFFSU15XzVjYmpRc1VOMF9NWlZWbDJULXIxaldkeGd1RHVtQzFiOTF6T1Zmcmt0T2FZOW5LdzQwc2lZSW4yai1tQVR0UlVGY0Q3eTF4N1AyWFJJS1l2SXZyb1FqQ1FWX1NoSWE3aE9XT0V1aDdiTHBmZkxjbWxCNTFwVk5hekVDcWthT1A4U3haS2ZBcTZ0UVNqZExSQmVIeXV2ZGJQTHpkTjMxVlVqalB5UUVYVHk0bFQzZTQ4aVdK?oc=5",
           "pubDate": "Sun, 09 Aug 2026 12:47:44 GMT",
@@ -219,7 +219,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-09T16:48:26.565Z"
+      "updatedAt": "2026-08-09T17:36:15.800Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-09T16:48:26.674Z"
+      "updatedAt": "2026-08-09T17:36:15.874Z"
     }
   ]
 }
