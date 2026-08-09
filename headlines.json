@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T18:49:44.922Z",
+  "generatedAt": "2026-08-09T19:38:03.457Z",
   "sources": [
     {
       "name": "BBC News",
@@ -54,7 +54,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-09T18:49:43.506Z"
+      "updatedAt": "2026-08-09T19:38:02.039Z"
     },
     {
       "name": "NPR",
@@ -109,21 +109,39 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-09T18:49:43.745Z"
+      "updatedAt": "2026-08-09T19:38:02.343Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "‘Spider-Man: Brand New Day’ keeps record pace, ‘The Odyssey’ sets new high for Nolan - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMDRXM1E2Z25Ta2tVMlJGVVFmbUFzLXRMc09IR1NWN3F2ZFNubFlVUERBcHliSEFQZFNEYUdRS29NdDc3NUFoclg1VmlEWTdUczY1NlpOQkszcVlTODRuX0dDa1NVeU5NRVVzRU90SlYwWVJxa2wyVENwNy10TmtHNlNJZ2JkUV9xbkFQY0pESFpWdjY1RUR4XzBwTmx4dDRZSHVsaUNmQTZXUQ?oc=5",
-          "pubDate": "Sun, 09 Aug 2026 17:21:00 GMT",
+          "title": "Israel rejects Trump's Gaza plan, more details emerge on the Strait of Hormuz and other Mideast news - AP News",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV2psZVVzWDFLUWxaM0N2dTlwTXpyQUhLVXRUNzFMZ1hoWVpQQk1iUXlZQWNFRTJKeFRZSFdfOWZCU0VxenBzOExCUXJDZm9DM3FCMmpOYXc5Y1dkSHpPOUdUTDFYN09mc0d0NmV4ZEtDWEhuVDdMcjN3QWdpcmlXUy1KcGRXd1NuSmt6ZTNMX0hTanNQZF9DelRIMFQxUHJ3UUJEb3FhM3QzMFRrNnZ5ZW9n?oc=5",
+          "pubDate": "Sun, 09 Aug 2026 19:33:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Houthis claim attacks on Saudi oil facility and Yemeni port, and other Mideast news - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV2psZVVzWDFLUWxaM0N2dTlwTXpyQUhLVXRUNzFMZ1hoWVpQQk1iUXlZQWNFRTJKeFRZSFdfOWZCU0VxenBzOExCUXJDZm9DM3FCMmpOYXc5Y1dkSHpPOUdUTDFYN09mc0d0NmV4ZEtDWEhuVDdMcjN3QWdpcmlXUy1KcGRXd1NuSmt6ZTNMX0hTanNQZF9DelRIMFQxUHJ3UUJEb3FhM3QzMFRrNnZ5ZW9n?oc=5",
-          "pubDate": "Sun, 09 Aug 2026 16:33:00 GMT",
+          "title": "Don Nelson, second-winningest NBA coach who won 5 titles as a Celtics player, dies at 86 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOEhpV2ZGcF9TOGdsV3FOc2pLVGt6d3ZPSmhlWS1CVjVyLXhHRVdMRHBmckhRRDRINm83bHJnbDg5eXJhRDlrSXdISDkxVHRRN1UwOURvX2FiWW5vOFRUbWt2RUpQM3NPOWFQT2NvelZveXZ2dWlQMDREUy1NanI5MGRtbDRrNzlvbDVDZUhB?oc=5",
+          "pubDate": "Sun, 09 Aug 2026 18:51:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "How to spot the Perseid meteor shower, a summer light show that promises to dazzle - AP News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYlRFbnhjM2FtSUhnMDRaN0NtRHhOVGFrNU9zU2N5Zkt0aVl2QVRmUWJ5UmVxMkd2Y1dqaUlCTTNVMjFxTGYtNDFFVDlscDR5aTJBODJFQnoxRWs2VHV4NVVqQVA4UlRsM2l0TXBTU0I4RkYwRGxlaHotRm9kVmhVellYRjJNN05TRkEybU5FekdkZWNoSVFiNFFFTEZBU1hu?oc=5",
+          "pubDate": "Sun, 09 Aug 2026 18:21:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Braves ace Chris Sale ejected by umpire Dan Merzel before start of game against Yankees - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNGV5NmZMS2ZxeW1OQ094Z1ZyelBXV1VmODQxRzYtR0hJMnhicktWb29JYmVSenVJMERsYU1FU3lmYU52R012TTZDNmlHOFNuZlVRLW4wYlllQ0NTMGdkbnF6VVd6SHBveTl1Q1U5WFB6cHFTMmxEdFRHdm5KQXdlMUZMY00tR2FoYzNTbVBIUjFlU3lOOEIxcDRB?oc=5",
+          "pubDate": "Sun, 09 Aug 2026 18:17:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "‘Spider-Man: Brand New Day’ keeps record pace, ‘The Odyssey’ sets new high for Nolan - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMDRXM1E2Z25Ta2tVMlJGVVFmbUFzLXRMc09IR1NWN3F2ZFNubFlVUERBcHliSEFQZFNEYUdRS29NdDc3NUFoclg1VmlEWTdUczY1NlpOQkszcVlTODRuX0dDa1NVeU5NRVVzRU90SlYwWVJxa2wyVENwNy10TmtHNlNJZ2JkUV9xbkFQY0pESFpWdjY1RUR4XzBwTmx4dDRZSHVsaUNmQTZXUQ?oc=5",
+          "pubDate": "Sun, 09 Aug 2026 17:21:00 GMT",
           "source": "AP News"
         },
         {
@@ -133,38 +151,20 @@
           "source": "AP News"
         },
         {
+          "title": "Nigerian army rescues 33 people abducted by gunmen in northwest region - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeDg4cjV0c1dnRjNiUF9NaXVVenY3RXZLVFN0QjhpaWU0Zm52VmNaQndDZk1KU2IzdzdpV1FyNFdGR0JLbjVuemlBZmp3ZVJHN0hhUDhrVVRXNzhqZldQWTRiaWVkX2lpLUpPNjhDSVBIbFB6Wkd0N0x5MkZaNnN0SUZvNkxvUGE5cW5TemtqZlg3UUtNVVA0VTV3?oc=5",
+          "pubDate": "Sun, 09 Aug 2026 16:11:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Health officials urge caution for Gulf Coast beachgoers during surge of deadly bacterial infections - AP News",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVHZ4ZTczbFBkMldxZ1AxeXpPbUZlcFlRMFdIekNfcDVjUVp5VTUtaHIwVWMxLTdfdEg0cmoxVFQwX2w5cVdTekxUbXBQSm1ib0EwRW5yWUNFS1lpUDZJaDQ2cGh3bFFTdWdfeHRBOVFySWpiWVhhelFBQjNkODZrRy1rUGxHbWNwTkpnSTAtMFJpYnJVTFc5NGxtcVQ2TFpxWDB2TEdWNnpKMVNOanp5dTlOdw?oc=5",
           "pubDate": "Sun, 09 Aug 2026 16:09:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Cyprus natural gas to supply Europe by first half of 2028, minister says, as EU seeks new sources - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPM0xBMHlUTzZVelZLcmxkM0k2cTB6eUgxSG9wVW5veW1xN3BzX0NaNzc4SGEycjBrQTNHVWlFVDZtWmZZQWRlTnB1cGNNLU1uXzdVb1ZmdC1RYzhLdFh3dk5vNWFTRklQSHhTbnpQMncxVlNYVURhaHBNMDRXQVdmTVFiLXBWUXowZDhoX0NWNHplWUNRbC1iTUttNzNRYzRLcUdrZTJ0bw?oc=5",
-          "pubDate": "Sun, 09 Aug 2026 15:51:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Boat capsizes in New York Harbor, woman and 5-month-old baby die - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUVZYOXIzQjktcGoxYlBqbS01YkNxejVwd0JtWTNDMWJNLWtsczRyZWVkYloyTExOU3pvcFJWUkVZLTl6NXEwUi1JZUdGbEYzZGg4NTExTHlhZG5FVm5KRExKdmlfajdWdDJEZ0hfai1kZlhpamZmVjR4SHRaNGJmTUc4NW42SGZObUY1d0E3QXZDQXpmN0dYX1kwbC1VeXJqNXc?oc=5",
-          "pubDate": "Sun, 09 Aug 2026 15:47:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Syria will take back control from Russia of 2 key Mediterranean bases under a new deal - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb0xUOUZscjJubmJIbnBRTHVjbUV4emlhWXo1MjZNdVpWRFIxOFFYeVlENUR6ZDkxbkMxVkRCcGVXTWJ6dkM2OGRSMHlUZGx5bFl4aHV6dHJONmtPenpsZDZkb0NOY0NUWjhWRGFsZVV6VkM0dy1SSEJPRDBSN2Vod3dNM3B3eW9QYmdlYXFZSUJuOWFKWnA3dkd2ZmU0OGZoR3h1SGVjaEkzdw?oc=5",
-          "pubDate": "Sun, 09 Aug 2026 15:38:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Russia, Ukraine exchange overnight strikes that leave 7 dead, many injured - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZUUwZGVYSU5sMHpMazg3MEo2YkJ0RlJEOGloN2UxcXVNSENMSWYwdFM2aFdTa3g1ZjdER3FxS3ZDS3c1cWZoSy1nVUFWODlOM2g4VzRmN2VvYWZxaGJ3aHdvX2VSdTJlN3RyOVhsQW5NTllELTI5U1d0VmxwYWlsRWNVNnlQWk01eGtMQ09mYV9JLVFETDJncU4xaUpab0Vrc2lGVw?oc=5",
-          "pubDate": "Sun, 09 Aug 2026 15:18:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-09T18:49:44.208Z"
+      "updatedAt": "2026-08-09T19:38:02.819Z"
     },
     {
       "name": "Reuters",
@@ -172,7 +172,13 @@
         {
           "title": "Iran says Oman deal is in 'final stages' but US must act to open Hormuz - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLVlSazBucFNIOGZ3aG91cDZhcTFfMWI4NWMycVczNWtmVHRKTU54WlJud1JqVUxCOW84U1p0OU5aSjdBNnJHS2xmLVVIaVdGZUpNemJKaTA5aV9TU1NHaHlZMEo1X1VjX2wxTExReTl0Tk5SYkRsMWsxWUo3UWw3UE1iV0N2UmJydWZFeHZpX01Ba1NISVdtei01OXRnMUtpem80dW5wa1FKNnhNQzZOMGlJMG8?oc=5",
-          "pubDate": "Sun, 09 Aug 2026 17:36:11 GMT",
+          "pubDate": "Sun, 09 Aug 2026 18:55:32 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Trump says U.S. is 'low-keying it' with Iran, stresses economic pain, according to Axios interview - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOazVhN1R5WHRFQTBvX1BRNWoyT1F4WGlKVXBncE5ad1h2TVZqM0ZPLWdEYy1OVkdDYnE2THh4Z2twaGtiRXBMdVY3V3NBT01UeGxuVlljODZHUVptY3NqNnVldHNDOEIzYndQQi0zUExFbExpVGdQbS0zS2ppeGpMbWlvVnZsNS10aVBLaXR1ZDA4Q0piT09XVHR4bjRNSk5qaDQtOGwzWm1seTB0UXlVUl9uN3FIRlVCWUdNS0lNX2xWUWR2ZHdTNnVqdS1sdw?oc=5",
+          "pubDate": "Sun, 09 Aug 2026 17:19:59 GMT",
           "source": "Reuters"
         },
         {
@@ -210,16 +216,10 @@
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYmN1cVJOX3p5bTZnYkt1bFNRSUtMVU9sZjRCWmtWQVNNdkFzMnZpa3BsYjFrdXpMTzVkUWJrWFktLVZJMHh0VXRsMmtuV2RGbDJCLWtkaVA5RVcwUzZ0Nm9RdW1QUldtdkNiTFJEbUVaT0NGOFd2YUw3cTMxcHh0cFhzdUlxYjBJR2htVWFXQmJyMVhkYVJqRjVrMTZUYnBqdFd2d3Z2VmFpQmFnMnJkUzVma28?oc=5",
           "pubDate": "Sun, 09 Aug 2026 13:41:43 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Syria and Russia reach deal on future of Tartous and Hmeimim bases after 18 months of talks - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTHltYW1BZ2tteEtoRWZwSUVpMy1vMVZTTF9HUzJYcUxZeGN0TGdPTzJ6dzB4clFRTWNDRkR1ZUVRT1BmbnNiZm9tQkZRdFZHSmVydXdDOHVnZERHVElJZm0zSk1HdG51LVZCRjVpakpfWDZiWXh0X0lmN0dQangwM01QNU5DY1BmNmdCR3FOX0FYQjdCNF9teE5zc0tTOXA3WWQyYUswOS1oYzVKUzdnNFdGdU5KREFyUnlyWVZSZld6c1NPa3Q4?oc=5",
-          "pubDate": "Sun, 09 Aug 2026 13:09:43 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-09T18:49:44.672Z"
+      "updatedAt": "2026-08-09T19:38:03.214Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-09T18:49:44.922Z"
+      "updatedAt": "2026-08-09T19:38:03.457Z"
     }
   ]
 }
