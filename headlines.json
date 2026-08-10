@@ -1,19 +1,25 @@
 {
-  "generatedAt": "2026-08-10T15:08:28.970Z",
+  "generatedAt": "2026-08-10T16:24:35.260Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
-          "link": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 10 Aug 2026 14:43:08 GMT",
+          "title": "Watch: What we know about suspected crime boss Daniel Kinahan",
+          "link": "https://www.bbc.co.uk/news/videos/cm2g97nnr5go?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 10 Aug 2026 15:54:19 GMT",
           "source": "BBC News"
         },
         {
-          "title": "Watch: What we know about suspected crime boss Daniel Kinahan",
-          "link": "https://www.bbc.co.uk/news/videos/cm2g97nnr5go?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 10 Aug 2026 14:34:49 GMT",
+          "title": "Former Thai MP allegedly kills official and confesses on YouTube",
+          "link": "https://www.bbc.co.uk/news/articles/cqx7lje8l79o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 10 Aug 2026 15:21:27 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
+          "link": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 10 Aug 2026 14:43:08 GMT",
           "source": "BBC News"
         },
         {
@@ -41,12 +47,6 @@
           "source": "BBC News"
         },
         {
-          "title": "Former Thai MP allegedly kills official and confesses on YouTube",
-          "link": "https://www.bbc.co.uk/news/articles/cqx7lje8l79o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 10 Aug 2026 09:51:07 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "Suspected crime boss Kinahan spends first night in custody in Ireland",
           "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 10 Aug 2026 09:33:25 GMT",
@@ -54,11 +54,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T15:08:27.608Z"
+      "updatedAt": "2026-08-10T16:24:34.038Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Despite Mideast wars, 20 million gather in Iraq for Shia pilgrimage",
+          "link": "https://www.npr.org/2026/08/10/g-s1-137832/iraq-shia-pilgrimage-shia-war",
+          "pubDate": "Mon, 10 Aug 2026 12:08:06 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Does spending money make you feel bad? Read this comic",
           "link": "https://www.npr.org/2026/08/10/nx-s1-5860936/does-spending-money-make-you-feel-bad-read-this-comic",
@@ -84,12 +90,6 @@
           "source": "NPR"
         },
         {
-          "title": "Mike Lindell touts Trump ties in race for governor of Minnesota, where Trump has lost",
-          "link": "https://www.npr.org/2026/08/10/nx-s1-5925152/lindell-minnesota-primary-elections-trump",
-          "pubDate": "Mon, 10 Aug 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
           "title": "An arts school where Epstein allegedly preyed on students reveals decades of abuse",
           "link": "https://www.npr.org/2026/08/10/nx-s1-5924901/michigan-students-jeffrey-epstein-sexual-abuse-interlochen-center-arts",
           "pubDate": "Mon, 10 Aug 2026 05:00:00 -0400",
@@ -109,117 +109,117 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T15:08:27.932Z"
+      "updatedAt": "2026-08-10T16:24:34.181Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Blink-182's Travis Barker almost died. A new documentary celebrates his life before and after - apnews.com",
+          "title": "Authorities ID the officer who fatally shot a Black man on a bike in Madison, Wisconsin - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVjZpS2dnZ1dZT25tMWhfQlNIbTZjbERUc0YtSDlQUEhwLXpEYjdKRC1PaE4zbG80b0NfNTdORnkwMzFuOGdRUHBMcUZKYmZscXIzeXBHODJVMkI3LTBodTk4dWZKU19EU3VzTDNCb3dYTlRyam05VW1tWlpNLXZvMGNQNmpKTEdJYnN0dFJpWkwtV0NTTkdpWTRR?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 15:49:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "US stocks drift near their records as oil prices rise - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLUE4QXJjenhzdy1DTVEtby1VRDU5TnoyczNRWGM0SFVEWDVVelIwQ08xRVRyaVpVbWpuR2dKMzZaZG9vU0tqLUJWaVM2OFd5U2FkTUhfQ3hrczVIcVVVeldhNGRfajlrLUFrZWRpOVM2bFZSekxmT2NISmxqSDVmR1kyZkZ5VjZoT2liZFJmSm1sZw?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 15:44:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Chiefs’ Eric Bieniemy returns to practice after wife’s shooting at their Virginia home - AP News",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTG5uRGlEbXZVQ3piQ25QclJsRXVqamw5Tl80RWdsT0lTbklETmpkNGZ0RzduLXo5dEhpaEUySXMwRHBsLUJOa3FIZC1iSVZ3NkVCWkctVVYxaUFPTkNaUmZ6ZmpLM1FySDJPc1hENFBabC1jVjR6OGhfQ284VmJkMkdYRlhVTW14N3RpRXBKQUtTRTcySlM4YVliV2pLQQ?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 15:32:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Trump officials propose new scrutiny of food additives and ingredients - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcndWdkVCRDB1WVdGU29tZmNGd1VhNXgyTjFTXzFhV1FpY1FHNWFaTUwzRC1mWDBTRlVCa2xJSXVUMWtyd3hTMmVyNWw4c0I0YlNYSWlNYnRVZVU2VnY3RnVGYXFLOVBCdmR3Z2JSbjA1SG9oYjRxWWpoVzMxcDBMZFJod3lKWDRReTllMGd5NUJBV0hUa0NhaXA3WUhhQmRGOWlOdl9FZFpDWEZ6?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 15:06:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Taylor Farms recalls jalapeno products over salmonella concerns - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZkNwYm1QNk5KMnZQR2RSbXdUWHJhSlNpYjFyOVlNX3VvSHd3aWxYVmtiVEFzU1FYMDNkTjRZMkE0Sk9GVFJ0aEJDR1UtUGZCOXFHcDB1SjV5Mzg3eGF4QzBoSE5CYWItUmVELW5Icnp2OTZib0FfTXlrM3h2TzhJeUNqWDFfRFpiYVNKZVZ0dlM1OWl0NEFNdTFxTlJHRTc0Zk9ERnFncXZTMF84RGJ0M1hiOA?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 14:53:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Middle East News | Latest News From The Middle East Today - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE05b1dqSlZ2X2tIcTFyZ0NfdEQzaGpTQzBhWUV5Rk5tZkowNU95RWd5ZkJqQWRINDFkSGhCM19BazF6VndzclpBNHhB?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 14:16:14 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "AP Decision Notes: What to expect in Alabama’s special congressional primaries - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdTZ3Z3BCRl9sTFJFclFwS0pZWTFqWGo5RTZ2b3pxLTJSTVdFalhweEhkS200QURMN3pCWlhIVVBaWHIwQ2g2OGttQjJYLWFJLWhzd0YzZ0VMN3lmNzZsUjZscFhWdFFsNE0zVzFlRVdlY0RtMGh6RnFHeUFZd2xjZ1lsM19rQVhENTZ0N1IyRTA1UXhrSFFNRmdoMnhvNW9FRWN5YlYtZG8?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 14:14:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Blink-182's Travis Barker almost died. A new documentary celebrates his life before and after - AP News",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSDdpLUJ6M3I2c3cwYzRnUUgtUXdXMU5lOXF3YXhxUmxQODNERXVpTlZyZ2x5cWVZbUlZb2paSnBzdktOMzUxSzJ3SWlnTkpjOWVDZW1GcENxWXhqYlFXNElyaGxFcnc2Qi1zek5YUTFsWV9GRDZhZEFabGh6WVlUTzRnU3Jpc0V1V2x2WE5QdGpXaTdZYndkVmJTRUlUbEpXY20zQWw2a2ljemdOSnBDWnVn?oc=5",
           "pubDate": "Mon, 10 Aug 2026 14:00:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Chinese users of AI companions bereft after government tightens regulations - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTEQxanVDVmhMMGZEaUdxeXdFV3g2QThxUWpsQ0lPNjgyNnNOeVVpdU1Od2FOc3gxS29vV0MwaDRCMGdjR0VlWkJTWk5PLTR3X2pvVEhOOVF3NWFTMFcwQ19abjU3RkE0M1lCYldGTHZkTXFEclZyaVpRLTh2bDhzLUR0LUZ1T3AyU1V3RExWYXM0emxiWV96ckxWOFdZdmppNndDd05SQQ?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 13:48:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Ukraine’s push to cripple Russia in Crimea is just getting started, drone chief tells AP - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZGI3ZEkwRkVXWXhoWDVOWDNQQi1ZaXU1RE1BWWxpWlJYeWxxZDdmS0xfRDBVYW1jOGt1Q1NRU3dPZWJVVXpwNEdCbEloN0ZiWHozOG5YaE5yUzlhR2R6dVhoM2w2MWg3ejZoa2RRY3FHLWVMSmQxOHdEZ1A4V0kyVWJrYy04SV9xSWM3NGdQLXFydi1yU2NpWWtiNA?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 13:30:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Powerful earthquake shakes Colombia and Ecuador prompting people to evacuate homes and buildings - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeC1FV2UwSUJ1TGdfbjNOa1B6WWJ1R1N4TFBycWJsc016ZDQwSUdzblo1SXU5a2x4cWsySkw1eV90clVKbS1Iekc0RzVTaDNzWGdvamJiT0s0NVprWUdEbmN5WUFsMHM2MlVVbTZTRnNnMFZWQlA1Rk9EM1VDLVNqbGMyZXMtRlZPZGc3Wnd3V1E?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 13:25:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "WHO says Congo’s Ebola outbreak started months before it was declared - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMzQ2WnExRkN1SjVSWUVhWkxJbVFHT1VwZmI4bmlSOUpGdnV6b1RKc25NOFBKZVExUm1lNEZuSzZYYXBWVkkxak12U3BMM2JwUDdTakpheklyVjA1X3RsSXhjRWdPRmJndXo2cG5Jb1R3c0JPVVhmVkpxQjc4RG1SWWhZNDZ1a2tfUzFfSGQtaHdzNkhaNS13eGc3a05adw?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 13:23:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Washington grapples with a National Guard deployment extended until 2029 - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOS2ZCYU1xa1JPMnFGT0JJLTctLW1IS3lidF9WYUt6aFpJU2kyekt3NHlueUhiS0lCa1ljQi1lN2dDUmxQTTVDV0E0U056aU9BNUF3bWZGcXZWeThRRDE5S0NYQl9reEFDR1V1aXd4X0NSU0xEYk5GZ0k2MGdLSVdiczlPTGdMLWRPWm05enhXSWswYXBNZzNmMXp1WGpPcEk0UzFpNVRMYXI2OE9D?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 13:16:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "AP Decision Notes: What to expect in Wisconsin’s state primary - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNM2tscFdzd09NMm15YzJETUo5Q0ZfXzNqYUMxVWY2VHN2NFpJZ3hFWnhpQkptYnY2dlJOVndhVkRQYWhtYTJFNFdoemJuMkVKb0s4RU1jUEtCOUNqNXBKc252VWUwRWg3bW95WklXWlV4ZlJnSEZ4dklyZjNJdmFFV2NTQnpBTFBWdTRhYUpNQ1dVbk5QNEZUSFZHNzVTMDAxNUJibFRuaFkxT2RTOFV2ak1DSmxSZWN2MG9kcklNdXpiSkVFbnpMZmdZRDFPQQ?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 13:08:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Traditional plastic forks shed harmful microplastics. Plastic created from sugar is an alternative - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPS1k2QTZBNXNfSWJtWlZtaXZ0MlNORWFKaHpCSFVCeERERnRBU1ZtQ25RTWtwVF82b0VodFdubVltOUdxX3NXZVVsNXl1a0drNW1rRGtXZEJhQTFXejdxcHhLQWROVkNkNDRCRERiY0ZUaUViOW1GUmZmQi0ySmZ1Ujk3WGxXeUdFdnl6MEZuNWx1WTRGSFJ1bVpaN2oyUWJpdXRPN3A1eWphc1E?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 13:00:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T15:08:28.407Z"
+      "updatedAt": "2026-08-10T16:24:34.666Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Oman says grounded tanker oil spill covers 400 square km - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQX3dqbHVnc1RTLW5XOVYycjU1dExQZEUxRy1ORVBiWEtWLWFLQ3VoVGtTaFk5U3hQcThZRGdobnlSczZwYkJDOWR2OGtXbWhVMmdqTFV0U0xhVWtNMXQ1Z25GVnNtME0xWjJIV3RtNnpUUHFtOGFOSEtlblpZN3F0RUp3MzRreDRXVXRCaFlVczlOTmRSczlCQTBvODF4bnM0ZUJPeS1qNC1ZSzhwZXNEV0RoRDV2a0swVVFYTHNUU1dvcEFaT0xzY1VxTQ?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 15:06:17 GMT",
+          "title": "Lenders scrutinize US data center financing as community opposition builds - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVjhTUGRUd0ZyQXQtaWNVa2ZhQ3BGWFAwRkQ1OVN4b1ptbXo5UnR4LXhKM1JMUndWR2FCVXJRR2tOVXhaWHZrcGVUeEl4cTNtcXRMRXUyZE0xdFJuV3dsdW81TzhVUmhxZWllV1lQYk45VUtyXzlTQnFoX3RKTkhkR1pIdUVRaVhUZjlzRG5DWmhvTjNjaWlVNDEtcUQ2aURTbmI2SmE0VXBNOVc1NkotMXNFX05hRE90NG1nMkJCcUU1eWdIOGc?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 16:11:58 GMT",
           "source": "Reuters"
         },
         {
-          "title": "UEFA, AFC, CONCACAF hit out at Infantino over failed World Cup stake sale proposal - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa3k1MmQ0NXQ1SXJLbTdKbVM4blFGTDh1MUNPZHB0M0dzcGhSYUZ2YkljeTZNM05tYlhJczdGaEs5anljMDc1SlkxWEphZVdWTVViV1A3dGFtXzdyUkxZNzI3VWpXZ3VfMkV3QXIzUFlMdFZfcnJIM1ZFWnFtSmFkZWVxV3Nld18zZVRJLUd4MHRxWDc0eTA1U1RyOWlaNC12X01rWWxmOXJKNVBZcS1TUw?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 14:39:53 GMT",
+          "title": "New ConocoPhillips CEO inherits $7 billion cash flow pledge riding on Alaska oil project - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVzI5YWkxX0c3c250czBjbUNwVmgyS3ZuOXlfaFYtTURXb2l5eEE4T3p6OTBrQW8yT2FmWGRzTjBjeXhBSXRqVWZGLU55VnJ5THVpMDAyNGhPYm5aWlY0OFNVYnlodTlWZnZCSXJxeGc0dHd4YVY0QWhSZml3a1FjWGs4akNTTGRaMFhNR1hncWRFcDdLQ2UxSXFJOS1yeHppdTVweXpIS0c1MC1KZTdvekJBM0l5R0ZzX0NLWjI0QlV3TzFiek1MYQ?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 15:55:33 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Earthquake on Colombia's Pacific Coast causes injuries, damage - Reuters",
+          "title": "Colombia earthquake kills at least 22 as buildings collapse in several cities - Reuters",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQm11YVZfbDU1RnZ6SmtvZUJDX3JZT0JpajE4MkV2TzZsRVZhRW05X1JjUnU3a093elpuM1pIdjdKa2dhSkdLY1FtYWhkd3FBSGNLcHloc0d2ck9ESmtNOG5PRDlCQkVKLTlOMEpwbl9adkozZmppWFVvbUIxV3d6WDk5WE5VcDgwazIzajlaQlZtdXA5YVE?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 14:35:44 GMT",
+          "pubDate": "Mon, 10 Aug 2026 15:50:38 GMT",
           "source": "Reuters"
         },
         {
-          "title": "July US container imports hit fourth-highest on record, Descartes says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRFp5eTRqbmJxRHF0bkxpcUZmQ1NEX1NrVVlRdFltLTY4V3dROGhnT01PUTZxZzVkN3R3bDcyRHdWNVIzclktOVdub0pWLW5raUJ5WWxNU3JLb3hQVll0YkVWV2pQc0dSaTJGaFJoMXJnSVFsUVVGYkZjWDFqck0wRkc5OWhfaGxPOWp5S0Z4ZzBMRnZwNGRqN0lDYk1MdjU3end0cEhsaVVqRGkyZ0V1UmkxWlYxNFVRTlJZSElSWHI5alV4eHc?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 14:24:27 GMT",
+          "title": "In rural Wisconsin, frustrations over Trump ag policies heat up House race - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVTJZX0ZnQWw3aVlsYmM2N1RfYTZzUDFSeEQxaXJFNFdVcTE3Z2ZWN2lyVU4xR3FYSlFSdGVsemRpaUtnSm9BcUEzdHlpRVB2c1lhV2tQZWtBV19zaldEdUFULWhxVmhJcDZuWldlanJKNm1odTdxM2ZnZk9ha3lFZVJtTU8xN0ZSLUlFS093UTFHNHlYQnNhVjlkdWVvRG1IampNU3hsZFBjdzUzUEt3X2k2bG54Zw?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 15:49:36 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Bristol Myers to build $2.3 billion manufacturing site in Houston - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQWpzV09IWVJGNWNUYXV3cURuN291SVoyLWIwYnBvZGt4aE1YbUgwNG5WX3JFTEc3VURCZE5UNTc3RHJjM0QzY1hPQjZBMDJyU0pxNE9XczEtRlJTQjlsQXFtR0VVS29vWjBUMVVlbHktZEcyM0FseGQ0cDh1WVB1WktsUi05TWd5TFJvMFZsNko0eVNQMXNnVjN6cFVaV0tnTFk4TWNFWjZOLTlQcEM4?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 14:19:46 GMT",
+          "title": "Archer to buy Boeing's Wisk, two other units for nearly 20% equity stake - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObWNZUFk4b3kwbU8zSXcwUmhWeEh4bHhuRVRtSUt6bXhOZlJPTzFkUGRfNUdXaHdXb3NROGlxcWNxQUtsUUh2SUtTb0lVN2NpU2FIUUJYV1dIRndBZG9aUFdxZ0h4cjc0bTRqWS1XQTZoUVZaYXRFNm9CQkFEOFlKMWRkeWdOYU82Sm1VUGdCcU9FOG9HVnAtd0MxM3N0Yi05UE9ZZWRkai02S2tWQjB1UlREQlBtemZMV2pIN01BbmNXaGJuVERr?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 15:41:31 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Swedish security service says it broke up Russian spy plot - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcEFPNHFDYjhabjlIdmttTXpNenRWaUlJMHFjbTBjUnJLb3hyTm5IQktaU1FycVdWek1xYTF3TS1uYnhtYTJ6dk1RdDVNQjloTGhTT0J5UlBHSGNRaXhZdDJzZGxvRUdNNE1IWVdEQmxRekZ2cWpKdUpVeVdRbDBXbGhNTXNsbkU4X1BteTZtUFBRN0hvVHRMV1JDTEtTSHd0cWc?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 15:24:59 GMT",
           "source": "Reuters"
         },
         {
           "title": "Lilly's weight-loss pill gets UK regulator's nod - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNGZUUEFXaGh3M2FrQlNiMVNBek9tTElJR3VITmx0MXljVGNnZnZBUmk3WFZzZzluWnBnUVZrNVh2ZzZwc3ZfNnNEcjNLUUxMbVhOT3JGS1VVUEJ6NUdoMXc0TDd1NTQ2OGZNWjlPWS0yTllEWm1ZWUhYQ1RReU95ek1oVFRTRWJBZjQ5c0l4bERleVNfZjhkQ0ZUeXRyOFBxNHJ3OFRhRU1TNXc?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 14:18:17 GMT",
+          "pubDate": "Mon, 10 Aug 2026 15:21:04 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Wall St ticks lower as markets monitor Hormuz situation; data awaited - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ1dvZ2c1V0lTdG9JSjJSTkR1eFdqSUFMZkZhLVNHWVppM2lMUEluay12RmYxaHozajVfaDZLOTlaMGk5eHpJbTNScmhEbkFwUmMtdWc2ZWh1eEtJSlRGUGJqdFhEdlp4UFJqQm1JQWNqNV9RNUhneDdnSDFzRGVvZHQ0YmpyeElzS1VwMGtmeGI2NzZja09Sd1BITm1IUHVYdDc4djlFQQ?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 14:17:11 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Italian scientists ready new solar instrument for high-stakes eclipse test - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRVhabkxMWFpJb0E5NXlQNnlRS3pPOFhDcXd6SkRya2FGVFQ0Y1BEZE9BdVpRTmpWZER3TFBvVkQtWU5RenVxYTRPbFhGZi1Ta1JnaTF4ZFMteFRiWlJXWk1GR3lmR0Jnblo2WTN4bkZsQ0sydW1qY3ZiVld2ejAtV05UQklsdUItOUl5a1BFeWs3SUFhZTQ3Q0QwRjJkeW53c1lQcmR6YmFyWnA4VGJXcURuWnA?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 14:13:01 GMT",
+          "title": "China says Long March 7A rocket launch failed after flight anomaly - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMmhiUEZQdFdha0t1VC11T29nTHBhUkQxN0EwWW1tVFd4c3UzeW40Nmc0OFUwMDRZQkpndUNJWmZiS0M2XzdsTTNJb3NKODk5X2hiQ1VPbkRxM3gtY1Z5QkNHRUd6cEJnNklsN2VTa2lod2ZVd1ZyRkJ5enJfWEhhbGFYOGs4TG1JNFB3NS14RHBVWTVrRU5GaE85Z0F0OFdSU2kzUFJFVG1Edw?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 15:14:18 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T15:08:28.806Z"
+      "updatedAt": "2026-08-10T16:24:35.137Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T15:08:28.970Z"
+      "updatedAt": "2026-08-10T16:24:35.260Z"
     }
   ]
 }
