@@ -1,19 +1,37 @@
 {
-  "generatedAt": "2026-08-10T12:10:07.495Z",
+  "generatedAt": "2026-08-10T13:57:29.934Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "Man arrested after boat capsizes near Statue of Liberty killing woman and infant",
-          "link": "https://www.bbc.co.uk/news/articles/c935w1d05d7o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 10 Aug 2026 11:28:01 GMT",
+          "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
+          "link": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 10 Aug 2026 12:54:13 GMT",
           "source": "BBC News"
         },
         {
-          "title": "At least 13 killed in Ukrainian strike on Russia's Tatarstan region, officials say",
-          "link": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 10 Aug 2026 10:03:58 GMT",
+          "title": "Battle for Mali base has killed dozens of militants, army says",
+          "link": "https://www.bbc.co.uk/news/articles/cly8j7ygwvlo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 10 Aug 2026 12:32:26 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Alleged rebel leader killed in Colombia as president targets armed groups",
+          "link": "https://www.bbc.co.uk/news/articles/c5yrljp9x9eo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 10 Aug 2026 12:23:21 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "India police fire tear gas at protesters seeking exam reforms",
+          "link": "https://www.bbc.co.uk/news/articles/c89nkz4vjyxo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 10 Aug 2026 10:41:04 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "World's oceans hit record-high July temperatures",
+          "link": "https://www.bbc.co.uk/news/articles/cpvw8vmmgrwo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 10 Aug 2026 10:24:46 GMT",
           "source": "BBC News"
         },
         {
@@ -33,32 +51,20 @@
           "link": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 10 Aug 2026 07:23:54 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "'Body in suitcase' found in Australia turns out to be lifelike doll",
-          "link": "https://www.bbc.co.uk/news/articles/clyqg4w3gz9o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 10 Aug 2026 05:16:40 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Residents warned to brace for the worst as Canada wildfire rages out of control",
-          "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 10 Aug 2026 03:33:51 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Evidence that South African special forces murdered top detective shared with BBC",
-          "link": "https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 09 Aug 2026 23:05:29 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T12:10:05.929Z"
+      "updatedAt": "2026-08-10T13:57:28.632Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Flood death toll in India's Assam reaches 100 as thousands lose their homes",
+          "link": "https://www.npr.org/2026/08/10/g-s1-138015/flood-death-toll-in-indias-assam-reaches-100-as-thousands-lose-their-homes",
+          "pubDate": "Mon, 10 Aug 2026 08:39:05 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Decades of abuse revealed at Michigan art school. And, the Iran war's impact on midterms",
           "link": "https://www.npr.org/2026/08/10/g-s1-138013/up-first-newsletter-epstein-interlochen-center-for-the-arts-trump-iran-midterms-wildfires",
@@ -69,6 +75,12 @@
           "title": "Some disabled people want to advance their careers. They say Medicaid rules stop them",
           "link": "https://www.npr.org/2026/08/10/nx-s1-5910791/disabilities-people-work-requirements-medicaid-income-caps-buy-in",
           "pubDate": "Mon, 10 Aug 2026 07:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Mike Lindell touts Trump ties in race for governor of Minnesota, where Trump has lost",
+          "link": "https://www.npr.org/2026/08/10/nx-s1-5925152/lindell-minnesota-primary-elections-trump",
+          "pubDate": "Mon, 10 Aug 2026 05:00:00 -0400",
           "source": "NPR"
         },
         {
@@ -84,8 +96,8 @@
           "source": "NPR"
         },
         {
-          "title": "Mike Lindell touts Trump ties in race for governor of Minnesota, where Trump has lost",
-          "link": "https://www.npr.org/2026/08/10/nx-s1-5925152/lindell-minnesota-primary-elections-trump",
+          "title": "Voters are sick of the 2-party system. A new poll shows they're open to big changes",
+          "link": "https://www.npr.org/2026/08/10/nx-s1-5920312/proportional-representation-poll",
           "pubDate": "Mon, 10 Aug 2026 05:00:00 -0400",
           "source": "NPR"
         },
@@ -94,132 +106,120 @@
           "link": "https://www.npr.org/2026/08/10/nx-s1-5920359/health-men-safety-testosterone-fda-hormone-therapy",
           "pubDate": "Mon, 10 Aug 2026 05:00:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "The FAA wants to reboot the nation's airspace. This airline shows how it might work",
-          "link": "https://www.npr.org/2026/08/10/nx-s1-5872752/airspace-reboot-alaska-airlines-flyways",
-          "pubDate": "Mon, 10 Aug 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Voters are sick of the 2-party system. A new poll shows they're open to big changes",
-          "link": "https://www.npr.org/2026/08/10/nx-s1-5920312/proportional-representation-poll",
-          "pubDate": "Mon, 10 Aug 2026 05:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T12:10:06.306Z"
+      "updatedAt": "2026-08-10T13:57:28.710Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "UK and France prepare for another heat wave as western Europe sets new temperature record - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQWlXMklpT2cyRS16eEZiZFBpTElONGRxeDd3NXhRY1VfX0RPai16b0loVXhpdENxYzU1QVhaOHh6X2dNNDRmaHRNeTFGVnNyajAwaVFpQ042bjhDU3ZpQVhGaUNVWEVBYTlwZUh4YmVMT09BOXllMnIxU0RNVnlpTi1WcFNYSVRNX2hCbllBMlVldms?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 11:08:00 GMT",
+          "title": "Ukraine’s push to cripple Russia in Crimea is just getting started, drone chief tells AP - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZGI3ZEkwRkVXWXhoWDVOWDNQQi1ZaXU1RE1BWWxpWlJYeWxxZDdmS0xfRDBVYW1jOGt1Q1NRU3dPZWJVVXpwNEdCbEloN0ZiWHozOG5YaE5yUzlhR2R6dVhoM2w2MWg3ejZoa2RRY3FHLWVMSmQxOHdEZ1A4V0kyVWJrYy04SV9xSWM3NGdQLXFydi1yU2NpWWtiNA?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 13:30:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Washington grapples with a National Guard deployment extended until 2029 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOS2ZCYU1xa1JPMnFGT0JJLTctLW1IS3lidF9WYUt6aFpJU2kyekt3NHlueUhiS0lCa1ljQi1lN2dDUmxQTTVDV0E0U056aU9BNUF3bWZGcXZWeThRRDE5S0NYQl9reEFDR1V1aXd4X0NSU0xEYk5GZ0k2MGdLSVdiczlPTGdMLWRPWm05enhXSWswYXBNZzNmMXp1WGpPcEk0UzFpNVRMYXI2OE9D?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 11:08:00 GMT",
+          "title": "Powerful earthquake shakes Colombia and Ecuador prompting people to evacuate homes and buildings - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeC1FV2UwSUJ1TGdfbjNOa1B6WWJ1R1N4TFBycWJsc016ZDQwSUdzblo1SXU5a2x4cWsySkw1eV90clVKbS1Iekc0RzVTaDNzWGdvamJiT0s0NVprWUdEbmN5WUFsMHM2MlVVbTZTRnNnMFZWQlA1Rk9EM1VDLVNqbGMyZXMtRlZPZGc3Wnd3V1E?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 13:25:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Zuckerberg spokesperson says his yacht did not hear call for maritime assist from skiff - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZE9iemdpdmcxVjFVRzJSMWMtbHp1Wlhxdmw0VU9OaGU2X3R6QWd6c1BfeTg0QnVxTUozdW9WWFNxMkRJSWZXeV9SRHg2VUpGT01PN3p6SVJhVmZTU2RxOWhwMXFKMXV6Z2tYck9oQVBobDBSVDlxZllXZ2dvNTVaVG45UGlrSkJIOHdqMDVpbTJVZw?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 11:01:00 GMT",
+          "title": "Traditional plastic forks shed harmful microplastics. Plastic created from sugar is an alternative - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPS1k2QTZBNXNfSWJtWlZtaXZ0MlNORWFKaHpCSFVCeERERnRBU1ZtQ25RTWtwVF82b0VodFdubVltOUdxX3NXZVVsNXl1a0drNW1rRGtXZEJhQTFXejdxcHhLQWROVkNkNDRCRERiY0ZUaUViOW1GUmZmQi0ySmZ1Ujk3WGxXeUdFdnl6MEZuNWx1WTRGSFJ1bVpaN2oyUWJpdXRPN3A1eWphc1E?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 13:00:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Iran won’t reopen Strait of Hormuz without US concessions and other Mideast developments - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTHRSRTdObVh1eUFaNml6X3lhU0FnaEJvWHM2V2g2eC0yblF2QktZTnctM1Vud0pqZ2ZzQ0ZZTzBRNUV2TnpFNkV2V3lNUVhfcGlHbmtzT1k5bnJCclRCS1dTYnB5WTdmRk5aaHM4aEktLVFzc1lhallpd1FfM2J1aTE3NzBIejRSaTctUDdETm1hSFBadWk2aTR1ZDk?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 10:58:24 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Ukrainian drone attack on a Russian city kills 13, officials say, with a refinery reportedly hit - AP News",
+          "title": "Ukrainian drone attack on an oil hub deep inside Russia kills 13, officials say - AP News",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUUNmLWxickRLU05ySXVrTTR6U2Q4aTVSZExPY3ZaZnhCR01UcUtUMzhMU1c5Q0YwNFFCc0ZRVWpLYWo0RWZHWkhRc3Y2d1lLdDhwbTFNSmRZcXJ0SHV1VUtVWmdxQUZOei1iS1dwNEk3dkhyVTJvSWZiSjl6MXU1X01nQTZjenBZWkdUYmU4eG4tdUk?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 10:13:00 GMT",
+          "pubDate": "Mon, 10 Aug 2026 12:48:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "World shares are mixed after Wall Street gains, while oil prices bounce higher - AP News",
+          "title": "US markets point to a mixed open and oil prices tick higher over Hormuz stalemate - AP News",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLUE4QXJjenhzdy1DTVEtby1VRDU5TnoyczNRWGM0SFVEWDVVelIwQ08xRVRyaVpVbWpuR2dKMzZaZG9vU0tqLUJWaVM2OFd5U2FkTUhfQ3hrczVIcVVVeldhNGRfajlrLUFrZWRpOVM2bFZSekxmT2NISmxqSDVmR1kyZkZ5VjZoT2liZFJmSm1sZw?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 10:01:00 GMT",
+          "pubDate": "Mon, 10 Aug 2026 12:46:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "UEFA, CONCACAF and AFC accuse FIFA of 'deception' and 'breach of trust' over World Cup plans - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVXJCME51SU1HS2NsdmdyWDYxeXRWaFF3QVBfTDdGWGNJejZYdEtJZTUzaTZlSjA5WHZxSzc5RXF2blhlcWctVzZia2NtRDVsQlRFSFIxTUVsSmNORzItVk15WDdfd0dYTzFaQWJqcUpIRS00Z0JDOFk4YXNESjRfcldvZTVNNFZKcEVYNzhVaUQ2NDl5SE5IelVrRjJGLUdGb1JBSg?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 09:06:00 GMT",
+          "title": "Taylor Farms recalls jalapeno products over salmonella concerns - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZkNwYm1QNk5KMnZQR2RSbXdUWHJhSlNpYjFyOVlNX3VvSHd3aWxYVmtiVEFzU1FYMDNkTjRZMkE0Sk9GVFJ0aEJDR1UtUGZCOXFHcDB1SjV5Mzg3eGF4QzBoSE5CYWItUmVELW5Icnp2OTZib0FfTXlrM3h2TzhJeUNqWDFfRFpiYVNKZVZ0dlM1OWl0NEFNdTFxTlJHRTc0Zk9ERnFncXZTMF84RGJ0M1hiOA?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 12:42:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Turkey’s parliament opens debate on a pardon-like bill for thousands of PKK militants - AP News",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRENnejlLRWNBZklCRG9CS2xhTjdoVlhsOWdycW5MTE8wR3BlMTBnLU1tRU5XQjhLTklFam9ZTVJ4YlNOVTJWQmxaU085ZVhPa014a3NUdWhQc0xkRWc1cFN6RkFjZUVXZjU4NS0tSDh3OFpkbzFsUG9ZazNYeGhXdGoyOW5TYmd2S0NFMXA2Zm95VWpYaFpIcllOSGlBNjI2?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 08:52:00 GMT",
+          "title": "AP Decision Notes: What to expect in South Carolina’s special primary to replace Sen. Lindsey Graham - AP News",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWXMwbFhiWVNTUHpsQUlLcHhEUkhSVTZMRnRVblMySC1fMVJDa0VKZW0zWmE1MlRnRFdGaXZfRTBQZkgzLXN2TzBFV2h4TVFldUZDbi1JUkI4RzB2VF9KU0JRVHdoZXc1NGtqT2FBUjR3MWp0VmstSFgxSE5ERXFmY0lTTFNNblh1OEJFaHlVb01xNE9lYjJEcXlNVnFwQzZ2TGI2MnlIS3RTamRnZzRVOUZR?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 11:54:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Highlights from the election platforms of perennial British joke candidate Count Binface - AP News",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWnNEYlhtc2VHSFhJSTQyY09ZQVZ0MUQ5dFVFNEZ6ZjRrM2x1VVhvUW5fTzZOOFZyZGMwbjFxenlqdEZOaE91dXdqZHhKSzRZQlh5dlVkTmRFaktiM0Zja20xaDZDSXZRb1JvRnNzV3ZIdWdfRXJKM1g3SEl3QkluVUxFYW9ab1R1U293dkx1bUlXdW9iTXF1X1VqVWhpbVYzX1licnRyZ1FHYk16Sndmdkw1QmRZWjQ?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 11:50:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T12:10:06.883Z"
+      "updatedAt": "2026-08-10T13:57:29.210Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Indian police fire tear gas, use batons to disperse youth protesters - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSlV6ekdTcVZKdmNXeUJqZVZDRDRBbGRhbFBnQ2JNYU9SOF92d1ZIWWg0cFoxbjNlZ05TMUN2Zmg1UjViUHhEVm1DRTNUTWp2UE55czVOdmxydHFRQXNFc3YxZU10VTN1SmdITkdqa2c2MTR0RXpidnNBaEZKQjJNMEdlOHV4VXptbGdTem8yRDk0YVAwZllQdndWTWpVVUhlRDVjT3J4aXBSVG5WWVY1YU9tbVhwWkllMGUwNVpUcnNoX0tfZGZkak4xd3BDeXpG?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 11:48:09 GMT",
+          "title": "PODCAST: Too many Cooks? - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcmE3SWNMUGNhSXJXQzZpcGdPTHE4aHpkekRma2tfUTZfYi1QQmFSNW9HREUzQVRwcGoyWVZudjFoZVB6WDJPaHVzZW4xZm1aTDlVamtnSTBlYW02NmpaeXRKU3hsNGdab25zWXdYdm4tNGZLdE9UX2JjM3F6ZURZMFo5YWpnUQ?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 13:38:37 GMT",
           "source": "Reuters"
         },
         {
-          "title": "S&P 500, Nasdaq futures inch up as markets monitor Hormuz situation - Reuters",
+          "title": "Intel plans $15 billion share sale as turnaround rally lifts stock - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWmlPY1Jtc3A4X2YxbXFKRmx6eUpMRGhzeTJCXzRwdVlIbzkyZVgzdFBONFRrRVZuOGNtTzQtSXRfd3MySUhnT1JWc3NBS1BYS2JlcDlVUUcydnRacHdzaE9WRmI5NWpvUHYxa1lRamVvZmpwSnBTdl9ueGZWdXJmTGcwSnBoa3g1UnJMT05VRUlyaTdsNGx0dlhjUVV6QXcweFVvaUhwV3dkdnBTWWJRT2x6VXNSa2FrSGVjRUx3?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 13:34:23 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Earthquake on Colombia's Pacific coast causes injuries, damage - governor - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQm11YVZfbDU1RnZ6SmtvZUJDX3JZT0JpajE4MkV2TzZsRVZhRW05X1JjUnU3a093elpuM1pIdjdKa2dhSkdLY1FtYWhkd3FBSGNLcHloc0d2ck9ESmtNOG5PRDlCQkVKLTlOMEpwbl9adkozZmppWFVvbUIxV3d6WDk5WE5VcDgwazIzajlaQlZtdXA5YVE?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 13:13:05 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Oil spill off Oman from tanker under sanctions against Russia spreads over huge area - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQX3dqbHVnc1RTLW5XOVYycjU1dExQZEUxRy1ORVBiWEtWLWFLQ3VoVGtTaFk5U3hQcThZRGdobnlSczZwYkJDOWR2OGtXbWhVMmdqTFV0U0xhVWtNMXQ1Z25GVnNtME0xWjJIV3RtNnpUUHFtOGFOSEtlblpZN3F0RUp3MzRreDRXVXRCaFlVczlOTmRSczlCQTBvODF4bnM0ZUJPeS1qNC1ZSzhwZXNEV0RoRDV2a0swVVFYTHNUU1dvcEFaT0xzY1VxTQ?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 13:11:20 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Archer to acquire Boeing's Wisk and two units for near 20% equity stake - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObWNZUFk4b3kwbU8zSXcwUmhWeEh4bHhuRVRtSUt6bXhOZlJPTzFkUGRfNUdXaHdXb3NROGlxcWNxQUtsUUh2SUtTb0lVN2NpU2FIUUJYV1dIRndBZG9aUFdxZ0h4cjc0bTRqWS1XQTZoUVZaYXRFNm9CQkFEOFlKMWRkeWdOYU82Sm1VUGdCcU9FOG9HVnAtd0MxM3N0Yi05UE9ZZWRkai02S2tWQjB1UlREQlBtemZMV2pIN01BbmNXaGJuVERr?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 13:02:57 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Wall St set for subdued open as markets monitor Hormuz situation - Reuters",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ1dvZ2c1V0lTdG9JSjJSTkR1eFdqSUFMZkZhLVNHWVppM2lMUEluay12RmYxaHozajVfaDZLOTlaMGk5eHpJbTNScmhEbkFwUmMtdWc2ZWh1eEtJSlRGUGJqdFhEdlp4UFJqQm1JQWNqNV9RNUhneDdnSDFzRGVvZHQ0YmpyeElzS1VwMGtmeGI2NzZja09Sd1BITm1IUHVYdDc4djlFQQ?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 11:35:14 GMT",
+          "pubDate": "Mon, 10 Aug 2026 13:02:17 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Poland and Baltics shield infrastructure, fearing a Russian false-flag strike - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSzlSZVg4b1J6YUFBV0R5Z0VqcU0zeldEdldXSW9WQlhEMzJoM0ZoaWpjN3oxeEhnLXVRWkdzNEZEVExfN280MkVISTJOMnhTa0o2R3dLZHJodDdENVZvZHZSYktLaG1uVlQzb3lsRHE2QUJJY3pSejN6UEJBMmhuSGZtbGdFQk9MdnhTaE5rMm9pTVZGaktib3Z1WDM5azJTMU5xQ0FyWXJzYzFBTXpIaFRmVE41UFZKSDFj?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 11:21:16 GMT",
+          "title": "Amazon founder Bezos nears deal to buy stake in Liverpool, reports say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcDdMbHg5dEV5Z2x3bW1Ua2pDc0Z4bXhTX0pCWkhfc01fY1pBWGtNLVZRQ3BOcXJHS2FvSlRyWWxlZDUyd09aQ3FNSHRjUDBTQnMzci1BY1MyYnRtekRZN1dfNEwwdktkMGRUVkx6Sk5HWmd3RFoyS05UYm15aGQ5VENNWGFkcDlqbmxpQzkxLTYwelZtQTE0YlRSTndRNkQwZGpHSnJqdTQ0YlpYc3ZhczRfb0o2UQ?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 12:53:19 GMT",
           "source": "Reuters"
         },
         {
-          "title": "China is balancing Asia's crude oil demand by itself - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNN0lBeUJuUi1Nek03cm1rOF9xMFhxS2RNa1NUNkxqQk9UT1dYOENkMHduLUx3ei12d3VQZmxLSlV6cFd3cDZXc05JcnJ3YnRXRjl2b3VMb2M0T1R3OUpVUnhfVWNxY1d0akVsQ1U0V1hkOEE1eUZWN2FySzNXcHRmLXJpNlR2SWlRekRYbkVld1VqNDI5S0RFdWFVUHBJQXF2bl9FMDZJUmotVzlfZlBidUhVTWpRTVMzYWZlTQ?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 11:01:03 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Retail investors sold SpaceX shares for first time on Friday - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTGpaWVF2U0MtYkg1LWp3SHI4QmFQMkdONFhaNFE4MU40QlJuMEVVcEg3cmRLcUJOUjI3Y1RKa1B2UHFWaW5oazNNdzEyUFdCTWpoZVFjRWt0Q05MQWJEbFhOeFBqNXVlYlZkRTFpNHVOa2tqb2ZwdEN5anpaXzNQbVFvbk1jdXZNMk5ocVNXaks1ZkYycGU1ckN2LUEtbndEd1BNZ0ZFMFFoVmtaTl9tdW5B?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 10:59:59 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Final vote delayed in parts of Pakistan-administered Kashmir over security fears - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTndXb0JjaW0yVEQ3VG82UzVHSC1pU21NbzlqakY3Z1dZUkpGLXFxMmdEMTIyZTBaY0QtUFpFM0VjTi12M01JdDJqNkZPdWxFY1FhMGdUSmNrc3NiV1JEYV9ROEk4NHNacXdqY1lBWDE1Sy02NElsX0JnMHY1clJSazF5S3QwS3F3SU5jbnNNdnRGNkNGb3JFVUpNeEoyTW1iT2ZFWGU5X0EtRzVtV1BabS1sbmJzRWxaUlN5NzJkenJ4M1VyTHhDcw?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 10:30:09 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "UEFA, AFC, CONCACAF hit out at Infantino over World Cup stake sale - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa3k1MmQ0NXQ1SXJLbTdKbVM4blFGTDh1MUNPZHB0M0dzcGhSYUZ2YkljeTZNM05tYlhJczdGaEs5anljMDc1SlkxWEphZVdWTVViV1A3dGFtXzdyUkxZNzI3VWpXZ3VfMkV3QXIzUFlMdFZfcnJIM1ZFWnFtSmFkZWVxV3Nld18zZVRJLUd4MHRxWDc0eTA1U1RyOWlaNC12X01rWWxmOXJKNVBZcS1TUw?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 10:29:27 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Trial opens for ex-gang leader charged with Tupac Shakur's 1996 murder - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRExTWkVOT3Z2WjAtQTFxWnd4Wk5WUVVDbGhtX28tOEx1VTBJQ1A5a2lSWkFOUVU3VDBpOEdPeGs3a2UzMFZWcXVDamhjVnBmMjh5ajJIMzBvd1dZdy1nRTFMY3FZb2JnejVKSmdOUl9kdUpGU3hSVXIzUVJPUkRfd1dUNDkteG45NzJ4bkFSQy01cFFYUGUzSEhiaWZuX2dFR1lBM3A4U1R5ZEdaMTMxZE5Ha0dId3JhVFE?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 10:27:48 GMT",
+          "title": "Earthquake of magnitude 6.8 strikes Colombia, EMSC says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbTVmdTJrZGhIN3BDTWJGYnJlZVJjMmdNZkdacW84NGdEbEthY0FpN3FJcTFVMW1TWlZkNFBSS0JxYmlxaUxMUzMzenpKdDNKT1FQSTBtdEhFc1RVemY0YkZOdmlzYXhMcndOc0QxU0hsaWZxRVdCVDAtRHA4d1hXTFB0MWoxNGNrV05kNXdhR2tPVjJaWmZtOHNUTFpoN0doYnJraEZDMlRteW8?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 12:44:25 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T12:10:07.284Z"
+      "updatedAt": "2026-08-10T13:57:29.619Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T12:10:07.495Z"
+      "updatedAt": "2026-08-10T13:57:29.934Z"
     }
   ]
 }
