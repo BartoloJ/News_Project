@@ -1,9 +1,15 @@
 {
-  "generatedAt": "2026-08-10T19:34:35.676Z",
+  "generatedAt": "2026-08-10T20:50:24.642Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Trump signs order to limit childhood vaccines and split MMR shots",
+          "link": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 10 Aug 2026 20:16:34 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "'We've had a lot of close calls': Canada wildfire evacuees wonder if they still have homes",
           "link": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss",
@@ -45,20 +51,20 @@
           "link": "https://www.bbc.co.uk/news/articles/cqx7lje8l79o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 10 Aug 2026 15:21:27 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
-          "link": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 10 Aug 2026 14:43:08 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T19:34:34.121Z"
+      "updatedAt": "2026-08-10T20:50:23.343Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Trump and RFK Jr. try again to upend vaccines for kids",
+          "link": "https://www.npr.org/2026/08/10/nx-s1-5927313/trump-rfk-jr-vaccines-autism-executive-order",
+          "pubDate": "Mon, 10 Aug 2026 16:25:02 -0400",
+          "source": "NPR"
+        },
         {
           "title": "'The Nerd Reich' tracks the 'unmasking of Silicon Valley's true politics'",
           "link": "https://www.npr.org/2026/08/10/nx-s1-5925350/the-nerd-reich-tracks-the-unmasking-of-silicon-valleys-true-politics",
@@ -96,12 +102,6 @@
           "source": "NPR"
         },
         {
-          "title": "An arts school where Epstein allegedly preyed on students reveals decades of abuse",
-          "link": "https://www.npr.org/2026/08/10/nx-s1-5924901/michigan-students-jeffrey-epstein-sexual-abuse-interlochen-center-arts",
-          "pubDate": "Mon, 10 Aug 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
           "title": "In a competitive Maine Senate race, women voters could be the deciders",
           "link": "https://www.npr.org/2026/08/10/nx-s1-5925349/maine-senate-race-susan-collins-troy-jackson-women-voters",
           "pubDate": "Mon, 10 Aug 2026 05:00:00 -0400",
@@ -109,117 +109,117 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T19:34:34.484Z"
+      "updatedAt": "2026-08-10T20:50:23.524Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Trump to sign executive order calling for spacing out childhood shots - AP News",
+          "title": "Trump signs order calling for spacing out childhood vaccines, against medical groups' guidance - AP News",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNU05teTUxck9vNEhwYXl1UGRVYnJjb0xLVkc1bjdhXzktckFicDlCaUc5T0ZvVlA3U3B4ZV8tUjE1Vkk2Y1d2U0hmOHpoeUlSNFBTaDVUMEZtbTQ5NERyU0cycGFiM1gyNWRoSlU5U2hTaGZDOVQwQ041Y29LU0ZWTExyOXVVdjdEeVZTUWN0OE5zU2RZLVBOaVUzc3RObUpWaWxR?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 19:00:00 GMT",
+          "pubDate": "Mon, 10 Aug 2026 20:28:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Magnitude 7.4 quake hits western Colombia, killing at least 111 people - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeC1FV2UwSUJ1TGdfbjNOa1B6WWJ1R1N4TFBycWJsc016ZDQwSUdzblo1SXU5a2x4cWsySkw1eV90clVKbS1Iekc0RzVTaDNzWGdvamJiT0s0NVprWUdEbmN5WUFsMHM2MlVVbTZTRnNnMFZWQlA1Rk9EM1VDLVNqbGMyZXMtRlZPZGc3Wnd3V1E?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 18:52:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "A man accused of orchestrating Tupac Shakur’s 1996 killing is on trial. Here’s what to know - AP News",
+          "title": "Former gang leader accused of ordering Tupac Shakur's killing goes on trial. Here's what to know - AP News",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTXVkbTA3M0Nvd1RSZjc2aDRJV1VOT01vTlJ0anlYNUJwQWJnUjYwMmllSmZyLV91QjUwazI3U2swc3hiNjNtZFowTUQxWVVaaTRiTWstcGp0cWsydjFJYlRjR3F2NlN0TmZUaDlHcnVyMkgyLVN5M1VMYTIwYUplamNqenZ1Tk9zWmdNMHIwWm1Ma2IxdWJ5RG1CVUtDU1lyQ1E?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 18:49:00 GMT",
+          "pubDate": "Mon, 10 Aug 2026 20:23:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Trump officials propose new requirements for food additives and ingredients - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcndWdkVCRDB1WVdGU29tZmNGd1VhNXgyTjFTXzFhV1FpY1FHNWFaTUwzRC1mWDBTRlVCa2xJSXVUMWtyd3hTMmVyNWw4c0I0YlNYSWlNYnRVZVU2VnY3RnVGYXFLOVBCdmR3Z2JSbjA1SG9oYjRxWWpoVzMxcDBMZFJod3lKWDRReTllMGd5NUJBV0hUa0NhaXA3WUhhQmRGOWlOdl9FZFpDWEZ6?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 18:30:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Ben Jones, good ol’ boy ‘Dukes of Hazzard’ actor and 2-term US House member, dies at 84 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNODgzWG9yZlFfS2MxVHYwa3RqbVZWbzgzOVF3OTdLYlNSU2pPcGIzdmNZQUpVVGhPbXNseWo3aVRxUG1abnNrcnk2b0dhQTRaVXdSY0VSUU1RZzItNWJNdEdOcDBQNmFISE9WcDFKbGlKbThIY09pU3FlQjBsZUZIUEM1NVZLNlkxSVppa2VXMXV2aVcyQWpJ?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 18:23:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Trump scoffs at Iran’s demand for war reparations and other Mideast developments - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTHRSRTdObVh1eUFaNml6X3lhU0FnaEJvWHM2V2g2eC0yblF2QktZTnctM1Vud0pqZ2ZzQ0ZZTzBRNUV2TnpFNkV2V3lNUVhfcGlHbmtzT1k5bnJCclRCS1dTYnB5WTdmRk5aaHM4aEktLVFzc1lhallpd1FfM2J1aTE3NzBIejRSaTctUDdETm1hSFBadWk2aTR1ZDk?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 18:15:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "US stocks drift near their records as oil prices rise - AP News",
+          "title": "US stocks edge down from their record after oil prices climb 5% - AP News",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLUE4QXJjenhzdy1DTVEtby1VRDU5TnoyczNRWGM0SFVEWDVVelIwQ08xRVRyaVpVbWpuR2dKMzZaZG9vU0tqLUJWaVM2OFd5U2FkTUhfQ3hrczVIcVVVeldhNGRfajlrLUFrZWRpOVM2bFZSekxmT2NISmxqSDVmR1kyZkZ5VjZoT2liZFJmSm1sZw?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 18:11:00 GMT",
+          "pubDate": "Mon, 10 Aug 2026 20:20:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Contiguous US breaks its record for hottest month ever, NOAA says - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMk5kR3hfSE02c2Z4RVZ2WUF3VWJkN2I4RW5tbjJQZmFJamcxeVZDR2pmRXlRNUJfNmFTc0cwQ2FRV0p4d2FRQlJnemw5ODlNNDl3YURhR0w2bUZVRVNWZ0F1aUFWeWg2MkJ0eEZQUHpkY2tUR2hCbVJJU1dtNzg2TGYxSXR4UXNIUlRJcENyMHNKazdIR2hPMw?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 17:49:00 GMT",
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 20:19:20 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Feds charge speedboat operator after mother and infant are killed in New York Harbor capsizing - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObDNMNHA1MDJhWmlpcENXc3dNdUJWSGw0Q19BU0l5WUtoeWJiU1ZJREt0bFdCV3JKN3FuUEt3bUxIV0ZwY0JGQTZqNGdnT0E2dkNwOVZ1X3M0UXowbmJUMDVOYXphZXJaaV9UcXd3MU1lYWZjZzR5WS05T204ci1mWjlHMFJmOWQyVjRPektlX2FobUpPekNCR0VXT1FuTHk5bUE?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 19:57:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Defense lawyer takes aim at psychiatrist’s care before Lindsay Clancy killed her 3 kids - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZUFsdXRzY3NWUURUVmgwcnVOS1RNNTlVRFF4c3FmcWZsMmRscUZpT1dHUWhuT3VxazRTREZxR2s0QTNUM3gyWjlFejhtNFNHQ2hoaGNnVXdXdXQtVVNiX2h0Z1hialZYWmhoVHFUMjdLMUlvZURsRlpRZkhabjB5LUM4SV9mY2lmcHpEM2RMZDB5bVJkdFdEXzlCdGZrMkhUM3JNV0JHazlEYkVCdXNlWVlTN0JyQ1B1bmc?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 19:09:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Zuckerberg spokesperson says his yacht did not hear call for maritime assist from skiff - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZE9iemdpdmcxVjFVRzJSMWMtbHp1Wlhxdmw0VU9OaGU2X3R6QWd6c1BfeTg0QnVxTUozdW9WWFNxMkRJSWZXeV9SRHg2VUpGT01PN3p6SVJhVmZTU2RxOWhwMXFKMXV6Z2tYck9oQVBobDBSVDlxZllXZ2dvNTVaVG45UGlrSkJIOHdqMDVpbTJVZw?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 19:01:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Washington grapples with a National Guard deployment extended until 2029 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOS2ZCYU1xa1JPMnFGT0JJLTctLW1IS3lidF9WYUt6aFpJU2kyekt3NHlueUhiS0lCa1ljQi1lN2dDUmxQTTVDV0E0U056aU9BNUF3bWZGcXZWeThRRDE5S0NYQl9reEFDR1V1aXd4X0NSU0xEYk5GZ0k2MGdLSVdiczlPTGdMLWRPWm05enhXSWswYXBNZzNmMXp1WGpPcEk0UzFpNVRMYXI2OE9D?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 18:56:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T19:34:35.003Z"
+      "updatedAt": "2026-08-10T20:50:24.057Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Wall Street eases as hopes for imminent Hormuz deal fade; Intel drops - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ1dvZ2c1V0lTdG9JSjJSTkR1eFdqSUFMZkZhLVNHWVppM2lMUEluay12RmYxaHozajVfaDZLOTlaMGk5eHpJbTNScmhEbkFwUmMtdWc2ZWh1eEtJSlRGUGJqdFhEdlp4UFJqQm1JQWNqNV9RNUhneDdnSDFzRGVvZHQ0YmpyeElzS1VwMGtmeGI2NzZja09Sd1BITm1IUHVYdDc4djlFQQ?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 19:10:41 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "OPEC oil output rises further in July led by Gulf producers, Reuters survey shows - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNamx6ZmttRHhDNkRmaGxMNngyOFpJbkwxcVU4a3JqZFZ0U3ZXSzNmeUlNWkowUHh2Q29FYnhfNVZ3Wm15WUFsd1FjSDJfczk5Sk90bG1zV2I1emtmOGZuUHpNZTF6TXNGSDVEQXVhMjBRSHQ5TkJ2eWljS3lCU24tRGlCeWgwMlhOa0V0SGlLQUZDX0RDOFExS3VacFpzUWJQdFJEMUFfYVNzeWNzUVE2bmZrNTVkN2tBOVBneVR0dlp1SWwyS2JQLQ?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 18:59:25 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Eli Lilly's weight-loss pill secures first European nod in Britain - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNGZUUEFXaGh3M2FrQlNiMVNBek9tTElJR3VITmx0MXljVGNnZnZBUmk3WFZzZzluWnBnUVZrNVh2ZzZwc3ZfNnNEcjNLUUxMbVhOT3JGS1VVUEJ6NUdoMXc0TDd1NTQ2OGZNWjlPWS0yTllEWm1ZWUhYQ1RReU95ek1oVFRTRWJBZjQ5c0l4bERleVNfZjhkQ0ZUeXRyOFBxNHJ3OFRhRU1TNXc?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 18:50:16 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "At least 111 killed after powerful earthquake hits western Colombia - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQm11YVZfbDU1RnZ6SmtvZUJDX3JZT0JpajE4MkV2TzZsRVZhRW05X1JjUnU3a093elpuM1pIdjdKa2dhSkdLY1FtYWhkd3FBSGNLcHloc0d2ck9ESmtNOG5PRDlCQkVKLTlOMEpwbl9adkozZmppWFVvbUIxV3d6WDk5WE5VcDgwazIzajlaQlZtdXA5YVE?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 18:40:25 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US court rules Meta, other tech companies must face thousands of lawsuits over social media addiction - Reuters",
+          "title": "US court rules Meta, other tech firms must face thousands of lawsuits over social media addiction - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNanM3a2JVejlVN1lRcUE2Q2xxMXprZ1lPY25kdWtYNk41RHBnenZsWWk0R3h0dWFpSS1Wck5QNUdSNTFmd19fbHRIMjh0UnpCRUNNdUFnRHQ4dnRCcll1SkRwSURPOW5CN2FIZ2JHbTdFcC15RVpyOXJhTlNnODBjWXl5QTRZUzNjZklPMklfUWZXX1NMbGdfd2VkeFZ1LWFKclpWY0dmY2JQcDk4bm9janE1WTVrUHBBUE81Nw?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 18:32:31 GMT",
+          "pubDate": "Mon, 10 Aug 2026 20:42:35 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Nigerians' cost of living pain deepens as election looms - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZUEzSDdKQmM1cmFtSUpxRGRqTVdWelRGT2NHVUNDZV9JaExndU1UNXdocmxpMXVRRVNUYmtLSlhpdXlTLU9xZEphcEo1eUM2a09Zbk9LYlZwQmltM1l2MkVzWFU3Y3J2WDdJdGx0YmROcjM3MTJRUzJndi1QZ2ppdDRuUmJCTHFOMFJTQl9JOTdvVlgxb3B5WWVseUhOWm8?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 20:30:08 GMT",
           "source": "Reuters"
         },
         {
           "title": "Octogenarian is first killed in British Columbia wildfire - Reuters",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWHJhQURYWHdTZVU1bDVoYXFvRTVSaXNBc1BORDc5TktmYU8wcDNBbUxmbGljR0FUQ3YzYzBfVUVWemZKNGdTVWtXTkRXNmFjZzdUY2R5cF9QY2tFeWlFa3Z2ZVRtNG80aVlrcXBHel9lZ2h4bTFJaF9hTnlDUWFlMVVUWWZPT3o0Y21fQ1ZfOEpkR0IzNks1VEFqSkt4TnR1RXF6bHJ4SE4tUXF6bzRBVA?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 18:25:44 GMT",
+          "pubDate": "Mon, 10 Aug 2026 20:12:12 GMT",
           "source": "Reuters"
         },
         {
-          "title": "EXCLUSIVE: India seizes thousands of Diageo whisky, vodka bottles in food safety crackdown - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcWVWaVdOVF94TXZTT0ZTWE5YaE92YjU1UGV3aGdOWHRSMHA4RWEwbmVWY24wcTUyRERtT1hkM0NMLW5YbVdQVXdKcTRxem1vaUhITHRzOFZuRnRmX3RYbWxVNGxDekZwc3FLazlaWHRMdWhlR3E5UG9sZGwzV1hoU3ZMSHg0NlhoYjNOVlc4VUtnQlE2U1VtTmFYM0ZBbkluamVwNWlISlVueGNtZGNXT29McjJNZzNfY09EVnNhSFluRGM?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 18:06:47 GMT",
+          "title": "Eli Lilly's weight-loss pill secures first European nod in Britain - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNGZUUEFXaGh3M2FrQlNiMVNBek9tTElJR3VITmx0MXljVGNnZnZBUmk3WFZzZzluWnBnUVZrNVh2ZzZwc3ZfNnNEcjNLUUxMbVhOT3JGS1VVUEJ6NUdoMXc0TDd1NTQ2OGZNWjlPWS0yTllEWm1ZWUhYQ1RReU95ek1oVFRTRWJBZjQ5c0l4bERleVNfZjhkQ0ZUeXRyOFBxNHJ3OFRhRU1TNXc?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 20:06:43 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Russia's top court bars anti-war party from parliamentary vote - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOUFBcmJEaktPRWUyd2VRaFVob05RVXZic2dIMmIyQ2pxcUNrZ2c2ZERNMENsamM3YXdkQkJMbWJncjV1UUdsZmsxZ0h5MGtzczdCc0lhb2F1b1pkdzlvMzBPTE51ZHlTb01JQlNMRFRwMmdKbkZndmZlY24xN0NPYTZHaEJwUVVuNW5Jby1ONUk?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 18:00:07 GMT",
+          "title": "JBS taps Wesley Filho as CEO as founding family retakes top post - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNDhQYkNtaHJSYWdkaWNCOXpLdGR0LXVJV25zU2hHWFBTcUp2RzM0dk02ODNSa29YazB5QWdra0c1QWFDNWJyRjlnd08xWU1MNmlRLVNteHh4Sk1RbElHZ3dlZHU1QVpSdEhhVlRwSzFwYUpJSU41U3BEanVTTEYyaGFuS293em4yclVrNmgzaEh3MU5mUjNEbldyYUFWQkFteWNVMmxsMHdQTGhUZ3ZwUElyWlI?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 20:00:27 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Trump signs order reducing recommended childhood vaccines - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUFVEZzFRZGZDeDBUUllvNkUwbjZXVGxDTHI0NmJsNHFBNDNrdzBGdThjZ09MRUJMUXdMVVFILThYRW9tem1SaEZkQmY4TC1ocnFGOEUxWXFGZ0dEQlpqc3F2MUdvaHRCTV95OEN2SGRLUGJkSi1hdEFLeEJuZ050Si1vVGpRS2VyZE5nSnplV2JPcVFIcURJX0VSX214T3BWNDJxVEE0cVZfWld3R3JhNnZQam1KaFZHajRybHczd01DSkFKU3AxeXZNTjgwZnJ0dldxQQ?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 19:55:43 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US House Democrats press Anthropic, OpenAI about rogue AI agents - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMDRJNHZDWC05T1Jvbm9qcjJvSTZXSHZfV1pabmhRWFU0MWZ5TVhhOV8zaFFvbzRmdnk1MXhkeXNmbDhMY2NKaDNGaFM3SVBUTHc1cklXYzJFU3F4dm8xcENxWHk1OVJnUnc5ZG9KMWZDUFRHUWlIcTZUSmYzNTBwZV9GSGJuUFMxSVhNQkRWemEwdEhpMjVUYVpFeWYxOGFXeUwxTDFoYkdkT2V4Q0ZxdTNva2Nha1E?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 19:48:45 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US judge dismisses criminal case against Indian billionaire Adani - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNm9VZEVSU1lVVG9MNTJlU3FhX0V3QUU5LWRvMkJHZnUzUVZMS1ZxLW4zZzZJT0xSbDQyWlc1SjJCTzJZc2VSTERHR2Q3bWtVYlVwLVZvbGgwMW5GZ1Jrd3Y5RkNGSU1xeXFYcksxaWNRYkZkeXZpc3JzalJjQ2F6OFdlLUdhZUhOM0c3bE56WjZyYU5icVpRbWQ1VjFBZ0t1dkJud3p2aUNTU2hyU3RieEVVTlZRVHdFUkE?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 19:45:41 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T19:34:35.389Z"
+      "updatedAt": "2026-08-10T20:50:24.492Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T19:34:35.676Z"
+      "updatedAt": "2026-08-10T20:50:24.642Z"
     }
   ]
 }
