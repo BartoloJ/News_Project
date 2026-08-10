@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T02:12:39.114Z",
+  "generatedAt": "2026-08-10T04:14:07.767Z",
   "sources": [
     {
       "name": "BBC News",
@@ -7,7 +7,7 @@
         {
           "title": "Residents warned to brace for the worst as Canada wildfire rages out of control",
           "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 10 Aug 2026 00:17:46 GMT",
+          "pubDate": "Mon, 10 Aug 2026 03:33:51 GMT",
           "source": "BBC News"
         },
         {
@@ -54,11 +54,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T02:12:37.397Z"
+      "updatedAt": "2026-08-10T04:14:06.594Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "The view from the proving grounds for next-generation nuclear reactors, Atomic City, Idaho",
+          "link": "https://www.npr.org/2026/08/10/nx-s1-5884029/the-view-from-the-proving-grounds-for-next-generation-nuclear-reactors-atomic-city-idaho",
+          "pubDate": "Mon, 10 Aug 2026 00:01:00 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Crews battle wildfires in western U.S. and Canada",
           "link": "https://www.npr.org/2026/08/09/nx-s1-5926463/western-us-wildfires-canada-utah",
@@ -100,20 +106,26 @@
           "link": "https://www.npr.org/2026/08/09/g-s1-137636/paintings-religious-renaissance-old-masters-marc-padeu-african-cameroon-artist",
           "pubDate": "Sun, 09 Aug 2026 07:58:02 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Yemen's Houthis claim attack on Aramco oil facility in Saudi Arabia, and other Middle East news",
-          "link": "https://www.npr.org/2026/08/09/nx-s1-5926387/yemens-houthis-claim-attack-on-aramco-oil-facility-in-saudi-arabia-and-other-middle-east-news",
-          "pubDate": "Sun, 09 Aug 2026 05:44:02 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T02:12:38.199Z"
+      "updatedAt": "2026-08-10T04:14:06.657Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Wildfires burn across western US and Canada as residents are evacuated - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMjJ5UUtGSnBqYXN1Zjh2aG5TM3RlaVMwbWNHeWk4ZDBwcW5XVVdzY3RjSWsyYzljWmhGYmlGXzZ3Xy1vRDFtRUM0RnIwTzRkQTVmNzBBSjBTYzJQeGE5emhKODdhT2t2aUFqZ0lKcDFCSlVkWnM5bGpUTWlpeGtqbkQ1UlBteEZhUmxXYVFhV1o?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 02:47:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Western Europe sets new temperature record as heat waves pummel the region - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQWlXMklpT2cyRS16eEZiZFBpTElONGRxeDd3NXhRY1VfX0RPai16b0loVXhpdENxYzU1QVhaOHh6X2dNNDRmaHRNeTFGVnNyajAwaVFpQ042bjhDU3ZpQVhGaUNVWEVBYTlwZUh4YmVMT09BOXllMnIxU0RNVnlpTi1WcFNYSVRNX2hCbllBMlVldms?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 02:07:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Israel rejects Trump's Gaza plan, more details emerge on the Strait of Hormuz and other Mideast news - AP News",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV2psZVVzWDFLUWxaM0N2dTlwTXpyQUhLVXRUNzFMZ1hoWVpQQk1iUXlZQWNFRTJKeFRZSFdfOWZCU0VxenBzOExCUXJDZm9DM3FCMmpOYXc5Y1dkSHpPOUdUTDFYN09mc0d0NmV4ZEtDWEhuVDdMcjN3QWdpcmlXUy1KcGRXd1NuSmt6ZTNMX0hTanNQZF9DelRIMFQxUHJ3UUJEb3FhM3QzMFRrNnZ5ZW9n?oc=5",
@@ -139,87 +151,75 @@
           "source": "AP News"
         },
         {
-          "title": "Wildfires burn across western US and Canada as residents are evacuated - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMjJ5UUtGSnBqYXN1Zjh2aG5TM3RlaVMwbWNHeWk4ZDBwcW5XVVdzY3RjSWsyYzljWmhGYmlGXzZ3Xy1vRDFtRUM0RnIwTzRkQTVmNzBBSjBTYzJQeGE5emhKODdhT2t2aUFqZ0lKcDFCSlVkWnM5bGpUTWlpeGtqbkQ1UlBteEZhUmxXYVFhV1o?oc=5",
-          "pubDate": "Sun, 09 Aug 2026 22:32:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Lynx guard Kayla McBride sets WNBA record by making 10 3s in win over the Wings - AP News",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdXpjd0tNVl9BMFBHaXdlWGtWVWRxd25Uc3QwUVRCNW9CT2tyX1VIUXJFSlB0V3hXVTFzOE56WDh5LWd1dFhVc3RCVU9ieWoweHZRQ040bnlCcGFCSTBvTTlFOC1YUEt6MnZpMDNxN0VoTHE2Q0lQQXpyUFBGeWthVFc0TDNWX01ROXhkWmFfYw?oc=5",
           "pubDate": "Sun, 09 Aug 2026 22:28:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Braves ace Chris Sale ejected by umpire Dan Merzel before start of game against Yankees - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNGV5NmZMS2ZxeW1OQ094Z1ZyelBXV1VmODQxRzYtR0hJMnhicktWb29JYmVSenVJMERsYU1FU3lmYU52R012TTZDNmlHOFNuZlVRLW4wYlllQ0NTMGdkbnF6VVd6SHBveTl1Q1U5WFB6cHFTMmxEdFRHdm5KQXdlMUZMY00tR2FoYzNTbVBIUjFlU3lOOEIxcDRB?oc=5",
-          "pubDate": "Sun, 09 Aug 2026 21:09:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Suspected Irish crime boss lands in Dublin after extradition from Dubai to face allegations - AP News",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUnpyMEFsbnFKMHRLMUZPWmcwV3o0bU9qLU4zRHNZd0YwXzh4NmRvNS1Xa3NkOVJJRGYzZXA5R0NNa19pandCVVNNODk0SFpPVE42MFpNUEhya2ZyaHVpTTVIbzdQMUFPSnBZQks5dEdvWWVHWGJpMWlvcjZOcjBDNklhWWFIN1J4OHB3QlhQNGtoeGM1WUREYVAxU1Zydw?oc=5",
-          "pubDate": "Sun, 09 Aug 2026 20:49:00 GMT",
+          "title": "- AP News",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMFZKMG1kVWw1OUVHVS1nTzYxM3RmdGxCTDRuU21lemRMSUR1TGNlb29xZmNGU3A5MjNRMWFsNWd0WlJZZDZMS05mQldpVUhFcHFzSlM1MnBCZFVSOHo1MzdNUTJKQnVZeEE5UzktOWdkNTNzSkJsdzJJT3A4N3Q2ZE05bGN0TnJtUjZUOVpkZFB2RTA0SUJGdGswdzZ0b0Vjc0tBSXZlSQ?oc=5",
+          "pubDate": "Sun, 09 Aug 2026 21:28:16 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T02:12:38.624Z"
+      "updatedAt": "2026-08-10T04:14:07.045Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Taiwan simulates repelling Chinese assault, to slow mobile internet in annual war games - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZ0V2YVUtVDBTRWNFMk85UERyby1qRkNveUZvWnNIZjFaUk05Q0xKWlJUWDNLT3htQWo4R09jeHZHbDFFV2gxWWtxcTdrMnk2aHpkbHVtVDBMWTNqX3dJcHRBcEh2eWg1YTJoWEpSYmxaNldMaFFleWpwVVRTRUpwN210dzdPd1hQdW5SZW5pV2VYc3gzamdvMllmRERsSFctYkZiZFJrZktwYWNscFZsdFRvOGpBeVhESlBPRXlqVXJiSTFIYnduLWw3amZ0c293UWJ0Vy1VZjNGTWs?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 00:39:00 GMT",
+          "title": "Fire near Indonesia's Mount Bromo extinguished after 550 hectares burnt, but new hotspots emerge - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUXRsQ2s1TFBDbXJidFVrMzViWGc3MzB3OEJ3V2lvbDVVLVE4VWxCVkNkYUFPakR1SDZtR3ZzR3Q5UTJJR0U5dlFSMG5IbUJ2TGViRnFXTmJEQ1R3U2IyRk9tQnRyLUtteDUyVWRaS2ctakZPLXBlUXA4Sk1BemNSSTNJUzgxTmNNY0tOMVJnQ1RzY285RW1hV1hzQUdXdk45bE82cjFtY0x0MWNxcUdUeHlaRkFmejVJb3ZUcUUyUzE1bEFKYWNmMEhyVQ?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 02:54:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Asia stocks edge higher, oil up amid Gulf confusion - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa0JfVHdob1VJM3o3c2RjRHBySGdOb0h0OFVfVTNUdGo5ems0NjhoaGhMaVhpWG9iR3J4dlJkZVBlYVgwS0w2SUd6ZGZiLUtMUndydTZycjNJQ1l0MENqTmdpOTFycEZBRkJ3ZUEyWlM3RERCOGhoYk5ISEdLZnNIUm9HYw?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 00:25:00 GMT",
+          "title": "Indian shares set to gain as soft US jobs data offsets oil worries - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWUtCM0hIYk1wODVSVUtjaFN6ZzY5NzVvd3Jld1kzMnJLdnQ0VU5mOFlMV25IRldtLXA0R0VjWkplQmtJaVlfVVdMaGtsMGI3VUxjVlpoaFdkUnlSYzVnMkNZcHh3eGpYeFdEdmw3amNvZzlrMjRmOGV4TlRwQ3BJZ1g5OUY4d1ZYV1RVdDVfdWw0Si1KZGN0MS1nMHQ2NzdzN3FmMFlKenpNa0df?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 02:25:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Alleged Irish crime boss Kinahan charged with directing criminal organisation - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUzl5TEZoallFdF9oRFpZcHRETGZPXzRmYnNwRGU5eXBweFRkTFVEU0lSb2VDLVg0dFBueFhEeWc5YVlCdUJtckVvcXdVWndxMDRSdmREeGc3YzBkQUZLU2dmX2EwRVc3cmdXamhYRUhoTExqeklKZDhoaU9RM0NKNl90RkEwRGc1R1JMZ1BxWFU3VVBoZjBtaVl3U1J5YnZ1MTJv?oc=5",
-          "pubDate": "Sun, 09 Aug 2026 23:24:50 GMT",
+          "title": "Gold drifts lower from seven-week peak, US inflation data looms - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdEF0Uk1tb1JuQWhENTdaLVRfN2ZtbExLM3RoUFVJZ0IzNkhCYlZuc3R2dTY5ZHJxWVJBZVpQbHBES0NybEFsRVkxUFRmT0lVSVMxeUFxOEJKb2ZMWUFDSDh5WHh6S2NscTc1dE5uUFJTalpGLUltVllCX085a2lUbndIeDRVU0NvUmVINTRjU1BnZm9oREFxbUFPeVhTSllrc1h2d29vN0E?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 02:22:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Taylor Farms recalls salsa and guacamole over salmonella risk - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWFJnNGUzeUlCdlUzOGNzdVY5M3k3SU9YdmRFUUFDdlYtb3V2LUo5VUlOMEVaZHhELVotZGVFWWxmNUZ6SGp2SU4tMGotS2xXV3JMdzZZRm5DaXNNeGxSMHBnWUZOX196WndVUE8wV3BRQ1Q1R2FmNHMycFc4ZTJiejRfZU9IcXY3LTdpTmNzSmZ6UnBPdDNMNDZJZTcyb19pNVpVOHd1SGM5Qks2UFFHbm1JYlpiYVZTenFSa3MtUXdIYzFVbGJ4a1pDeVVLSVpJMV9NY3BiZ3pHRnZfVE1R?oc=5",
-          "pubDate": "Sun, 09 Aug 2026 23:22:00 GMT",
+          "title": "Indian rupee, bonds to track oil prices; local and US inflation data in focus - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYkJmQ3gzN0huY0ozZUo2SGlsN1BlYzhESmlzSXA4SENqTlZBYXNaT0c1cU5HOXZwOGQxME90VUhTT0hES09NcnFGZ0JVOHZWbjdHUlhMQkJ4SnFncTlzVzBZdHNreHZaTkExM0UtVktIazNnMEVhQXJHbnIwc1hHS3pLV0JaVXVQdW4xQ1RxM2pNeG10OUotd21SMF9icjlDWkcyNjZ2cG4wZUNRbUlCRFllRQ?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 01:36:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Treasury Wine announces $395 million charge tied to US supply chain revamp - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdlpBZ1BKWkw3LXpMcVRXcWJhLTU5cjNVakhzSnEzQ2p6VmUzOThjbnl0RXNhdnA5UzNYZG9VTmRfaHJ2TzJ1bldxVTZQY1Zic2RYdGtYbEhNaTRQT09GWHMyX1NnZUZxOFlaaWZhbWFPVmNMMFczeWZGZWZlVEVPM3BUYUJlYkk1SVNvaDNrMWVIekY3R1NSeDF1TnJBNUNoTHlWNWZ2SEdFWkNQVU5uS1F4TzBqdGpwQ3pwdVhLQng3MUYzNDJXcEZ3?oc=5",
-          "pubDate": "Sun, 09 Aug 2026 23:19:03 GMT",
+          "title": "Japan posts first current account deficit in nearly 1-1/2 years - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOV1pzbjBnckZzNXc2TGlRclRtNFFiWHk2aTNmZUZpbXlYWWtHWTdFbENPWkI2eVdEQ0trT2hqSVcxenM3akdqelh5X2cyTnlTZ2l2V1lhdGF4aUJwOVhUeTJ6cUZhOGhtdUh5QzA2ZmpDaVdEUzlTN2g3QkhwNGoyYWxkaWpkanBnX1RveDF0dV9HLWdrdS16TUJkRTNFM1JIQzctWnJCdzliQUxfTGUtOHpSWHM?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 01:33:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Shein finds there's no place like China after Vietnam warehouse experiment disappoints - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcWZMYzRmQzgwUGNHU3pZeEdCS2xIS3NIRVhFaFk2ZnFETnlmYkQ3YmxrRmdlM3NoelNVcHZMTEdzNnNZdk5pTDFlQ19Vd01lMTZzMzBBeWhpVkhlYm1xb3NYeEdHZ3JmZ3R3bnZYMWdIXzhrRXhGVHdfQklRaUtQWXNNb1QyLVdIZWpsTENhM282emdQcVlvU21VV29qcUlqWkVQWXlOaFZ2R3pQWi1adjh0ZUItSl9Wc2RUc1RQRHN1UWpTeFJoRWZCNmtRRDA?oc=5",
-          "pubDate": "Sun, 09 Aug 2026 23:09:00 GMT",
+          "title": "Dollar near two-month trough as US inflation data awaited - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcUNXbzdKZzN4SWREMXRobGFBNUZTbkhiRERVTXVER0xFMndJbzBGXzRwckk4SWJLTlJtUHNaSDN1Uy1BRUMwZDY2U3dYRVRzeWV1NTNWN3QzazF5NHZuNGUteGpmanpqQnloXzBQWk1oY1FKWWFjUWYyX0ljSF91NXhWQVl0ek5RVWhwakpoZWZTbXJFelRXN3hIZnlfMlk3elZtUEtzbU5DQWZiamc?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 01:31:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Iran ties Hormuz reopening to US concessions on several demands - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSmFvNGYwRDFRdHZrdWhBOWR0ZmVCdkZTSzRROXVNMG1UX1Azb04xa3ZCbEtYNkl4eFhSZG16b0xYeHNyd2tTdHhGWXFUTXJ6WFNVRjg3bmZYOEhEeHNaNHh4NU9qN0RQYXY3ZG13Qzh6Mk1LNG9jaGZraUZwRHVKY0hMZlFWUTdMOEpoaTRuemlPWEFJZUhsYk5TaUpNdWFqR1dId3NCM0xvYS1SNlNBMg?oc=5",
-          "pubDate": "Sun, 09 Aug 2026 23:06:01 GMT",
+          "title": "Australian shares dip as Westpac weighs on banks ahead of RBA decision - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNek44dncteUw3MnFHODd1S0hKZ2lSOWZLNEdZV1FEaXFZNnR2S25jcndpQmtiR2VheHRmaUtTSEdrQVZPU3dQbXBYUHEzdG5BZ0Q2ZU9PbGltZHFLREhuVHM5Q05jbDhYU29FWEJ6X2c4N25vbW4yZDhPUEZQX3dOMFp4TFRZNjFaYjRMX285dWFfeWFxY3RXS2RaQ0VZRzVJeXlaeDlvdk1oN0FYQzdxakt5dEs?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 01:30:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Oil rises on uncertainty over reopening of Hormuz - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaXpSdTFpV0NCUnZ4ZmZ3bXhmR3QxR1VVbGthTXNFSmZDNU03WWxGTDQ2eE9SeVZPYVE1aHl3NWZuS3FxcW1WSnBBb3J1SXJLY1F6RnFkTy1wdVZHaXdMZkhpclJjM09BU0k1RmMyaFNHQmtnZzA5elZZbUpHVUFEZHFNbnJaek93UlM4cUZJTlU5ZzRUckVJVXdTVVd3amluLWRDb1ljZkY?oc=5",
-          "pubDate": "Sun, 09 Aug 2026 22:17:00 GMT",
+          "title": "China is balancing Asia's crude oil demand by itself - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNN0lBeUJuUi1Nek03cm1rOF9xMFhxS2RNa1NUNkxqQk9UT1dYOENkMHduLUx3ei12d3VQZmxLSlV6cFd3cDZXc05JcnJ3YnRXRjl2b3VMb2M0T1R3OUpVUnhfVWNxY1d0akVsQ1U0V1hkOEE1eUZWN2FySzNXcHRmLXJpNlR2SWlRekRYbkVld1VqNDI5S0RFdWFVUHBJQXF2bl9FMDZJUmotVzlfZlBidUhVTWpRTVMzYWZlTQ?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 01:16:00 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T02:12:39.053Z"
+      "updatedAt": "2026-08-10T04:14:07.503Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T02:12:39.114Z"
+      "updatedAt": "2026-08-10T04:14:07.767Z"
     }
   ]
 }
