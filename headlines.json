@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T22:43:47.341Z",
+  "generatedAt": "2026-08-10T23:40:16.196Z",
   "sources": [
     {
       "name": "BBC News",
@@ -7,7 +7,7 @@
         {
           "title": "Trump signs order to limit childhood vaccines and split MMR shots",
           "link": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 10 Aug 2026 21:33:25 GMT",
+          "pubDate": "Mon, 10 Aug 2026 23:03:52 GMT",
           "source": "BBC News"
         },
         {
@@ -54,7 +54,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T22:43:45.513Z"
+      "updatedAt": "2026-08-10T23:40:14.779Z"
     },
     {
       "name": "NPR",
@@ -109,15 +109,27 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T22:43:46.074Z"
+      "updatedAt": "2026-08-10T23:40:14.858Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "Ben Jones, good ol’ boy ‘Dukes of Hazzard’ actor and 2-term US House member, dies at 84 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNODgzWG9yZlFfS2MxVHYwa3RqbVZWbzgzOVF3OTdLYlNSU2pPcGIzdmNZQUpVVGhPbXNseWo3aVRxUG1abnNrcnk2b0dhQTRaVXdSY0VSUU1RZzItNWJNdEdOcDBQNmFISE9WcDFKbGlKbThIY09pU3FlQjBsZUZIUEM1NVZLNlkxSVppa2VXMXV2aVcyQWpJ?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 22:37:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Former gang leader accused of ordering Tupac Shakur's killing goes on trial. Here's what to know - AP News",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTXVkbTA3M0Nvd1RSZjc2aDRJV1VOT01vTlJ0anlYNUJwQWJnUjYwMmllSmZyLV91QjUwazI3U2swc3hiNjNtZFowTUQxWVVaaTRiTWstcGp0cWsydjFJYlRjR3F2NlN0TmZUaDlHcnVyMkgyLVN5M1VMYTIwYUplamNqenZ1Tk9zWmdNMHIwWm1Ma2IxdWJ5RG1CVUtDU1lyQ1E?oc=5",
           "pubDate": "Mon, 10 Aug 2026 22:33:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Magnitude 7.4 quake rocks western Colombia, killing at least 111 people - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeC1FV2UwSUJ1TGdfbjNOa1B6WWJ1R1N4TFBycWJsc016ZDQwSUdzblo1SXU5a2x4cWsySkw1eV90clVKbS1Iekc0RzVTaDNzWGdvamJiT0s0NVprWUdEbmN5WUFsMHM2MlVVbTZTRnNnMFZWQlA1Rk9EM1VDLVNqbGMyZXMtRlZPZGc3Wnd3V1E?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 22:27:00 GMT",
           "source": "AP News"
         },
         {
@@ -127,9 +139,15 @@
           "source": "AP News"
         },
         {
-          "title": "Magnitude 7.4 quake rocks western Colombia, killing at least 111 people - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeC1FV2UwSUJ1TGdfbjNOa1B6WWJ1R1N4TFBycWJsc016ZDQwSUdzblo1SXU5a2x4cWsySkw1eV90clVKbS1Iekc0RzVTaDNzWGdvamJiT0s0NVprWUdEbmN5WUFsMHM2MlVVbTZTRnNnMFZWQlA1Rk9EM1VDLVNqbGMyZXMtRlZPZGc3Wnd3V1E?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 21:58:00 GMT",
+          "title": "Jackie, the California bald eagle who became an internet sensation, dies after illness - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQWxjaWdTQWYxVkJVMWY5ZndNbE9kcVBNV1ZzVEM4TDZaVW5wUmNXQXJYdzNjVUhLVVh1NUJKQm9Rbm5IXzlJWmtfclMwX1E2R0xyVGhuaDJ4RFBBNU1CRmVGR1d4T0d1WUlYYnlYZ1J2OXJpSlJqcGd3NnFjYU1lbllhWnlaOUJLbUhUOXJlbzhCRUhsZjVneg?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 22:16:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Deadly 7.4 magnitude earthquake hits Colombia, leaving widespread destruction, in photos - AP News",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNT0RjVGRZTkwyWVR4dFpXckFJRUdMdVJWcDNvQllJWVJqdjVjOUY5ajRmWnVwZERtRFplQVFOazVnajAyQWs1Z0ItdFJpcWZ2dFp0RXpzdDdqT25xaF9Iek1rdEMtWC1pQ0prSU5mOFV2NWVhNW9zQWRTZWJVYzJvaTBISU1fSFcwS2hSemRFb2tqemV2Z3JIOVNvampFMVhPMUhhM25IY2VvNGlwY3ZYNDJ0c1NfWS1YVUh6azRJby14bGFiX2VaR1VrMi12cF9HREhvY1JzSVlmWDlxWmpnNUZhMA?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 21:43:53 GMT",
           "source": "AP News"
         },
         {
@@ -139,36 +157,30 @@
           "source": "AP News"
         },
         {
-          "title": "Deadly 7.4 magnitude earthquake hits Colombia, leaving widespread destruction, in photos - AP News",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNT0RjVGRZTkwyWVR4dFpXckFJRUdMdVJWcDNvQllJWVJqdjVjOUY5ajRmWnVwZERtRFplQVFOazVnajAyQWs1Z0ItdFJpcWZ2dFp0RXpzdDdqT25xaF9Iek1rdEMtWC1pQ0prSU5mOFV2NWVhNW9zQWRTZWJVYzJvaTBISU1fSFcwS2hSemRFb2tqemV2Z3JIOVNvampFMVhPMUhhM25IY2VvNGlwY3ZYNDJ0c1NfWS1YVUh6azRJby14bGFiX2VaR1VrMi12cF9HREhvY1JzSVlmWDlxWmpnNUZhMA?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 21:15:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "US stocks edge down from their record after oil prices climb 5% - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLUE4QXJjenhzdy1DTVEtby1VRDU5TnoyczNRWGM0SFVEWDVVelIwQ08xRVRyaVpVbWpuR2dKMzZaZG9vU0tqLUJWaVM2OFd5U2FkTUhfQ3hrczVIcVVVeldhNGRfajlrLUFrZWRpOVM2bFZSekxmT2NISmxqSDVmR1kyZkZ5VjZoT2liZFJmSm1sZw?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 21:09:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "The top photos of the day by AP’s photojournalists - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ2FUOFhaUDB2bFQxMXNDdFpmTFpmMkxELUM1T3BEVnVSdVVOWm4tVEw1U2Q2OEl0WUFNcWQwUG5IWHhQQ1BocFRXYmpFNDJvWlNwWFloSm43OFVha3hBZWltVW42YmFzM2VMaUs4emF0bHhrdVdXLVViMEFTU1RmeDNNaGNwVDh6YTA3dDFVUjZMM18zSENlZTZSb3Q4d2F5MkFXLQ?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 21:00:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 20:54:55 GMT",
+          "title": "An oil field became California’s first carbon vault. Who’s responsible if something goes wrong? - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbkxKYVJxVlQ4MWl3cl9qVUV4dUN3QWNfemVRNnRGcjJiaVBvdWQ4NE4xZW1WTDBCMkpUMUVicnRpU0hBSnBtYXpGTjhTS1JhQUtyMlh2RXBQeFdPdWdUT2R5cEs0YU04Ujg0N2VwajRZUlZHejBjckdpT3Z2OFQwVkhxU1pRbXkzQVpFbGc4SFljX3U0Rl9IWXVKUzJKRVkyN2Mw?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 21:25:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T22:43:46.583Z"
+      "updatedAt": "2026-08-10T23:40:15.451Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Octogenarian is first killed in British Columbia wildfire - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWHJhQURYWHdTZVU1bDVoYXFvRTVSaXNBc1BORDc5TktmYU8wcDNBbUxmbGljR0FUQ3YzYzBfVUVWemZKNGdTVWtXTkRXNmFjZzdUY2R5cF9QY2tFeWlFa3Z2ZVRtNG80aVlrcXBHel9lZ2h4bTFJaF9hTnlDUWFlMVVUWWZPT3o0Y21fQ1ZfOEpkR0IzNks1VEFqSkt4TnR1RXF6bHJ4SE4tUXF6bzRBVA?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 22:52:42 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Jury selection begins for ex-gang leader charged with Tupac Shakur's 1996 murder - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRExTWkVOT3Z2WjAtQTFxWnd4Wk5WUVVDbGhtX28tOEx1VTBJQ1A5a2lSWkFOUVU3VDBpOEdPeGs3a2UzMFZWcXVDamhjVnBmMjh5ajJIMzBvd1dZdy1nRTFMY3FZb2JnejVKSmdOUl9kdUpGU3hSVXIzUVJPUkRfd1dUNDkteG45NzJ4bkFSQy01cFFYUGUzSEhiaWZuX2dFR1lBM3A4U1R5ZEdaMTMxZE5Ha0dId3JhVFE?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 22:30:09 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "More than 100 killed after strongest quake this century hits western Colombia - Reuters",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQm11YVZfbDU1RnZ6SmtvZUJDX3JZT0JpajE4MkV2TzZsRVZhRW05X1JjUnU3a093elpuM1pIdjdKa2dhSkdLY1FtYWhkd3FBSGNLcHloc0d2ck9ESmtNOG5PRDlCQkVKLTlOMEpwbl9adkozZmppWFVvbUIxV3d6WDk5WE5VcDgwazIzajlaQlZtdXA5YVE?oc=5",
@@ -200,26 +212,14 @@
           "source": "Reuters"
         },
         {
-          "title": "EXCLUSIVE: Ukraine, Moldova consider shipping grain by rail through Moldova, sources say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQczZCdjhQdk9TTWZQblR0V0Fac2xTTWk3TWhRLUt2akZ4THduLVB3aUhzYlNtMGt2YkxhMDVfRlgxeDRELVptZmRweko5WWVDY2NoRFRzVTlHMWdSUXlhV1J5Ry1fRnVYUFJTVzNQUnBlOGNXcXRnRFIwa2ZKQjNkZjBIRTI2ZkZ1UkQ3YkRzNGZEY0Nxa3FIZGg0bnBPLWRtM0VTLVQ3TlhxeDMyakQxOXNJQ2lBd1FOUF9IRg?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 20:56:58 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US court rules Meta, other tech firms must face thousands of lawsuits over social media addiction - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNanM3a2JVejlVN1lRcUE2Q2xxMXprZ1lPY25kdWtYNk41RHBnenZsWWk0R3h0dWFpSS1Wck5QNUdSNTFmd19fbHRIMjh0UnpCRUNNdUFnRHQ4dnRCcll1SkRwSURPOW5CN2FIZ2JHbTdFcC15RVpyOXJhTlNnODBjWXl5QTRZUzNjZklPMklfUWZXX1NMbGdfd2VkeFZ1LWFKclpWY0dmY2JQcDk4bm9janE1WTVrUHBBUE81Nw?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 20:42:35 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Nvidia partners with Wall Street giants to raise $500 billion for AI buildout - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNC15TDEteDI0VXNtbnFkb016anJWMDJqVHRSTDlRNVNkTXFIS2NVWWlDVVVldmN1Qld0ZWIyeXowZ3d6WkFQR2YtQWN6SUU1Tzl3VFR2YmphekZzUWtCZGpsQmFWQVR4bzhEdGI1Tkxfby15cy1xVWVhWXYzQUU5WTlYWDRHc2d1azhzYXJaMHcyeGxJT0pBdU5RRXpfZG15QTJrdmRBd3hrSnlDLV9wTUdiU3U5NW5PYXBUbGJoZEdmVHBY?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 20:40:37 GMT",
+          "title": "Trump extends Jones Act waiver for 90 days, narrows scope - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNGFTVU5fdWluaFpiQ1VoYW10MTRuY3FuZFY4VTU3bHlzaklrUm1rVDRxR3pOb0ZsQWJ6d21wb3BGMlNiTkNUT1VYT3c0TE9uNEtNbnQ5S05zWl83Y1g2cVdCZldjMXF0QXltdEpybE15bzZPR3JWbXp0b094YmxXU3JPWnBrbm5YemVsQXQ0dE50WnlULVhPZmhCc2ZXelJ3WmV1aUlMc3VENTNoU01FVUdseHdTSW9WM2pMV3VkaFk?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 20:52:16 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T22:43:46.987Z"
+      "updatedAt": "2026-08-10T23:40:15.947Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T22:43:47.341Z"
+      "updatedAt": "2026-08-10T23:40:16.196Z"
     }
   ]
 }
