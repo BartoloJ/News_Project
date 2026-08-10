@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-08-10T18:27:11.993Z",
+  "generatedAt": "2026-08-10T19:34:35.676Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "'We've had a lot of close calls': Canada wildfire evacuees wonder if they still have homes",
+          "link": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 10 Aug 2026 19:17:11 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "New train service connects Finland and Sweden for first time in decades",
+          "link": "https://www.bbc.co.uk/news/articles/cx2lwpzz6qjo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 10 Aug 2026 18:28:11 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Watch: What we know about suspected crime boss Daniel Kinahan",
           "link": "https://www.bbc.co.uk/news/videos/cm2g97nnr5go?at_medium=RSS&at_campaign=rss",
@@ -23,9 +35,9 @@
           "source": "BBC News"
         },
         {
-          "title": "'Total incinerated destruction': Canada wildfire evacuees wonder if they still have homes",
-          "link": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 10 Aug 2026 16:10:56 GMT",
+          "title": "30 years later, a former gang member will stand trial for Tupac's murder",
+          "link": "https://www.bbc.co.uk/news/articles/cgmkl1j3dwvo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 10 Aug 2026 16:52:47 GMT",
           "source": "BBC News"
         },
         {
@@ -39,22 +51,10 @@
           "link": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 10 Aug 2026 14:43:08 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
-          "link": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 10 Aug 2026 14:34:25 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Alleged rebel leader killed in Colombia as president targets armed groups",
-          "link": "https://www.bbc.co.uk/news/articles/c5yrljp9x9eo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 10 Aug 2026 12:23:21 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T18:27:10.446Z"
+      "updatedAt": "2026-08-10T19:34:34.121Z"
     },
     {
       "name": "NPR",
@@ -109,11 +109,41 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T18:27:10.721Z"
+      "updatedAt": "2026-08-10T19:34:34.484Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Trump to sign executive order calling for spacing out childhood shots - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNU05teTUxck9vNEhwYXl1UGRVYnJjb0xLVkc1bjdhXzktckFicDlCaUc5T0ZvVlA3U3B4ZV8tUjE1Vkk2Y1d2U0hmOHpoeUlSNFBTaDVUMEZtbTQ5NERyU0cycGFiM1gyNWRoSlU5U2hTaGZDOVQwQ041Y29LU0ZWTExyOXVVdjdEeVZTUWN0OE5zU2RZLVBOaVUzc3RObUpWaWxR?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 19:00:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Magnitude 7.4 quake hits western Colombia, killing at least 111 people - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeC1FV2UwSUJ1TGdfbjNOa1B6WWJ1R1N4TFBycWJsc016ZDQwSUdzblo1SXU5a2x4cWsySkw1eV90clVKbS1Iekc0RzVTaDNzWGdvamJiT0s0NVprWUdEbmN5WUFsMHM2MlVVbTZTRnNnMFZWQlA1Rk9EM1VDLVNqbGMyZXMtRlZPZGc3Wnd3V1E?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 18:52:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "A man accused of orchestrating Tupac Shakur’s 1996 killing is on trial. Here’s what to know - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTXVkbTA3M0Nvd1RSZjc2aDRJV1VOT01vTlJ0anlYNUJwQWJnUjYwMmllSmZyLV91QjUwazI3U2swc3hiNjNtZFowTUQxWVVaaTRiTWstcGp0cWsydjFJYlRjR3F2NlN0TmZUaDlHcnVyMkgyLVN5M1VMYTIwYUplamNqenZ1Tk9zWmdNMHIwWm1Ma2IxdWJ5RG1CVUtDU1lyQ1E?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 18:49:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Trump officials propose new requirements for food additives and ingredients - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcndWdkVCRDB1WVdGU29tZmNGd1VhNXgyTjFTXzFhV1FpY1FHNWFaTUwzRC1mWDBTRlVCa2xJSXVUMWtyd3hTMmVyNWw4c0I0YlNYSWlNYnRVZVU2VnY3RnVGYXFLOVBCdmR3Z2JSbjA1SG9oYjRxWWpoVzMxcDBMZFJod3lKWDRReTllMGd5NUJBV0hUa0NhaXA3WUhhQmRGOWlOdl9FZFpDWEZ6?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 18:30:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Ben Jones, good ol’ boy ‘Dukes of Hazzard’ actor and 2-term US House member, dies at 84 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNODgzWG9yZlFfS2MxVHYwa3RqbVZWbzgzOVF3OTdLYlNSU2pPcGIzdmNZQUpVVGhPbXNseWo3aVRxUG1abnNrcnk2b0dhQTRaVXdSY0VSUU1RZzItNWJNdEdOcDBQNmFISE9WcDFKbGlKbThIY09pU3FlQjBsZUZIUEM1NVZLNlkxSVppa2VXMXV2aVcyQWpJ?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 18:23:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Trump scoffs at Iran’s demand for war reparations and other Mideast developments - AP News",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTHRSRTdObVh1eUFaNml6X3lhU0FnaEJvWHM2V2g2eC0yblF2QktZTnctM1Vud0pqZ2ZzQ0ZZTzBRNUV2TnpFNkV2V3lNUVhfcGlHbmtzT1k5bnJCclRCS1dTYnB5WTdmRk5aaHM4aEktLVFzc1lhallpd1FfM2J1aTE3NzBIejRSaTctUDdETm1hSFBadWk2aTR1ZDk?oc=5",
@@ -121,105 +151,75 @@
           "source": "AP News"
         },
         {
-          "title": "Hundreds more flights are canceled as Tropical Storm Dolphin causes flooding in eastern China - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWlhwTk85MEdiQ3UzOWRkSFpQYTh3a29HT2I2U1dmMVRoY0dVczZWenAxblplYXBrTVdMOThNcVMtUFlwWVVobUV6SlVCT01fUVVUQ3ZlS1FWUXNYQks0LTk3VS1UZDF6aklFTFZTUl9vRHVzMFQzOTd4YlJibmZadnp1MHpyNTdLVWs4UTVUVzNWWlpOYTNLZ043MTRVRm1qMlR1aF9FMEhMbUU?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 17:26:00 GMT",
+          "title": "US stocks drift near their records as oil prices rise - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLUE4QXJjenhzdy1DTVEtby1VRDU5TnoyczNRWGM0SFVEWDVVelIwQ08xRVRyaVpVbWpuR2dKMzZaZG9vU0tqLUJWaVM2OFd5U2FkTUhfQ3hrczVIcVVVeldhNGRfajlrLUFrZWRpOVM2bFZSekxmT2NISmxqSDVmR1kyZkZ5VjZoT2liZFJmSm1sZw?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 18:11:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Pentagon official asks Asian allies to invest more in defense to deter aggression - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNnFnVV9lZ0ZyWUl0LUh4ZGRlTEE5YUs1WnNTTndYMEhfc3dUTW5XRGw3ZHZ2YndnMlNLajdzVkwySGV5X0VFMUoxMFRwNlc4UzUxTTJxRWZoSmpDZFFSRnZyeGtQT1R6a0RHUHI0YWpDeUdHZFY2Z2lHNVZEUEU4Z1pWLUgwQTVmdjd6RG8zeDk2YnBCZkpCbldsdw?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 17:10:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "China fails to launch a rocket carrying a coms satellite, state news agency says - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNc1VQRHBHVHVwYmdIMUZ5OEZwZndxRXFXalFicW0yekdhLUlxXzhTOGpmQmY1bHl1ZzJQRWZoSEgzeENENFItUERTbWtTQXhaUzBnOVNpMUFpTjJqRWkydGVEQXhBWDdacE11RGo2VldMZmxyb09nOFFUOGVGai1GUFlVOXVZNllONEdnWW42OHQzZmNWUGhWbg?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 16:53:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Ben Jones, good ol’ boy ‘Dukes of Hazzard’ actor and 2-term US House member, dies at 84 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNODgzWG9yZlFfS2MxVHYwa3RqbVZWbzgzOVF3OTdLYlNSU2pPcGIzdmNZQUpVVGhPbXNseWo3aVRxUG1abnNrcnk2b0dhQTRaVXdSY0VSUU1RZzItNWJNdEdOcDBQNmFISE9WcDFKbGlKbThIY09pU3FlQjBsZUZIUEM1NVZLNlkxSVppa2VXMXV2aVcyQWpJ?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 16:50:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Feds charge speedboat operator after mother and infant are killed in New York Harbor capsizing - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObDNMNHA1MDJhWmlpcENXc3dNdUJWSGw0Q19BU0l5WUtoeWJiU1ZJREt0bFdCV3JKN3FuUEt3bUxIV0ZwY0JGQTZqNGdnT0E2dkNwOVZ1X3M0UXowbmJUMDVOYXphZXJaaV9UcXd3MU1lYWZjZzR5WS05T204ci1mWjlHMFJmOWQyVjRPektlX2FobUpPekNCR0VXT1FuTHk5bUE?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 16:48:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Washington grapples with a National Guard deployment extended until 2029 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOS2ZCYU1xa1JPMnFGT0JJLTctLW1IS3lidF9WYUt6aFpJU2kyekt3NHlueUhiS0lCa1ljQi1lN2dDUmxQTTVDV0E0U056aU9BNUF3bWZGcXZWeThRRDE5S0NYQl9reEFDR1V1aXd4X0NSU0xEYk5GZ0k2MGdLSVdiczlPTGdMLWRPWm05enhXSWswYXBNZzNmMXp1WGpPcEk0UzFpNVRMYXI2OE9D?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 16:30:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "A man accused of orchestrating Tupac Shakur’s 1996 killing is on trial. Here’s what to know - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTXVkbTA3M0Nvd1RSZjc2aDRJV1VOT01vTlJ0anlYNUJwQWJnUjYwMmllSmZyLV91QjUwazI3U2swc3hiNjNtZFowTUQxWVVaaTRiTWstcGp0cWsydjFJYlRjR3F2NlN0TmZUaDlHcnVyMkgyLVN5M1VMYTIwYUplamNqenZ1Tk9zWmdNMHIwWm1Ma2IxdWJ5RG1CVUtDU1lyQ1E?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 16:27:00 GMT",
+          "title": "Contiguous US breaks its record for hottest month ever, NOAA says - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMk5kR3hfSE02c2Z4RVZ2WUF3VWJkN2I4RW5tbjJQZmFJamcxeVZDR2pmRXlRNUJfNmFTc0cwQ2FRV0p4d2FRQlJnemw5ODlNNDl3YURhR0w2bUZVRVNWZ0F1aUFWeWg2MkJ0eEZQUHpkY2tUR2hCbVJJU1dtNzg2TGYxSXR4UXNIUlRJcENyMHNKazdIR2hPMw?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 17:49:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T18:27:11.173Z"
+      "updatedAt": "2026-08-10T19:34:35.003Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Retail investors sold SpaceX shares for first time on Friday - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTGpaWVF2U0MtYkg1LWp3SHI4QmFQMkdONFhaNFE4MU40QlJuMEVVcEg3cmRLcUJOUjI3Y1RKa1B2UHFWaW5oazNNdzEyUFdCTWpoZVFjRWt0Q05MQWJEbFhOeFBqNXVlYlZkRTFpNHVOa2tqb2ZwdEN5anpaXzNQbVFvbk1jdXZNMk5ocVNXaks1ZkYycGU1ckN2LUEtbndEd1BNZ0ZFMFFoVmtaTl9tdW5B?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 17:53:55 GMT",
+          "title": "Wall Street eases as hopes for imminent Hormuz deal fade; Intel drops - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ1dvZ2c1V0lTdG9JSjJSTkR1eFdqSUFMZkZhLVNHWVppM2lMUEluay12RmYxaHozajVfaDZLOTlaMGk5eHpJbTNScmhEbkFwUmMtdWc2ZWh1eEtJSlRGUGJqdFhEdlp4UFJqQm1JQWNqNV9RNUhneDdnSDFzRGVvZHQ0YmpyeElzS1VwMGtmeGI2NzZja09Sd1BITm1IUHVYdDc4djlFQQ?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 19:10:41 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Oman says grounded tanker oil spill covers 400 square km - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQX3dqbHVnc1RTLW5XOVYycjU1dExQZEUxRy1ORVBiWEtWLWFLQ3VoVGtTaFk5U3hQcThZRGdobnlSczZwYkJDOWR2OGtXbWhVMmdqTFV0U0xhVWtNMXQ1Z25GVnNtME0xWjJIV3RtNnpUUHFtOGFOSEtlblpZN3F0RUp3MzRreDRXVXRCaFlVczlOTmRSczlCQTBvODF4bnM0ZUJPeS1qNC1ZSzhwZXNEV0RoRDV2a0swVVFYTHNUU1dvcEFaT0xzY1VxTQ?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 17:47:38 GMT",
+          "title": "OPEC oil output rises further in July led by Gulf producers, Reuters survey shows - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNamx6ZmttRHhDNkRmaGxMNngyOFpJbkwxcVU4a3JqZFZ0U3ZXSzNmeUlNWkowUHh2Q29FYnhfNVZ3Wm15WUFsd1FjSDJfczk5Sk90bG1zV2I1emtmOGZuUHpNZTF6TXNGSDVEQXVhMjBRSHQ5TkJ2eWljS3lCU24tRGlCeWgwMlhOa0V0SGlLQUZDX0RDOFExS3VacFpzUWJQdFJEMUFfYVNzeWNzUVE2bmZrNTVkN2tBOVBneVR0dlp1SWwyS2JQLQ?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 18:59:25 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Eli Lilly's weight-loss pill secures first European nod in Britain - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNGZUUEFXaGh3M2FrQlNiMVNBek9tTElJR3VITmx0MXljVGNnZnZBUmk3WFZzZzluWnBnUVZrNVh2ZzZwc3ZfNnNEcjNLUUxMbVhOT3JGS1VVUEJ6NUdoMXc0TDd1NTQ2OGZNWjlPWS0yTllEWm1ZWUhYQ1RReU95ek1oVFRTRWJBZjQ5c0l4bERleVNfZjhkQ0ZUeXRyOFBxNHJ3OFRhRU1TNXc?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 18:50:16 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "At least 111 killed after powerful earthquake hits western Colombia - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQm11YVZfbDU1RnZ6SmtvZUJDX3JZT0JpajE4MkV2TzZsRVZhRW05X1JjUnU3a093elpuM1pIdjdKa2dhSkdLY1FtYWhkd3FBSGNLcHloc0d2ck9ESmtNOG5PRDlCQkVKLTlOMEpwbl9adkozZmppWFVvbUIxV3d6WDk5WE5VcDgwazIzajlaQlZtdXA5YVE?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 18:40:25 GMT",
           "source": "Reuters"
         },
         {
           "title": "US court rules Meta, other tech companies must face thousands of lawsuits over social media addiction - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNanM3a2JVejlVN1lRcUE2Q2xxMXprZ1lPY25kdWtYNk41RHBnenZsWWk0R3h0dWFpSS1Wck5QNUdSNTFmd19fbHRIMjh0UnpCRUNNdUFnRHQ4dnRCcll1SkRwSURPOW5CN2FIZ2JHbTdFcC15RVpyOXJhTlNnODBjWXl5QTRZUzNjZklPMklfUWZXX1NMbGdfd2VkeFZ1LWFKclpWY0dmY2JQcDk4bm9janE1WTVrUHBBUE81Nw?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 17:22:27 GMT",
+          "pubDate": "Mon, 10 Aug 2026 18:32:31 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Who is Iran's Mohsen Rezaei, the hardliner appointed to key security role? - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORnBEVG1SUHZxZmRmdkNDQzUwSnFRTEF2SVFBWUF6SmZlTDZlb0tGa1V1dE5OZFFGVU5EQXhHd0QteldVRkhySVprMVd2TFh5aFA5S2thQjFKX1hsajBlSHBTM2tFNkRuVmpTR3ExSUVQcEcyVExxNVpRZVkwZnBFT1hpV01BcDc5anBpZmF3MHkwd05UZ3BWWTR5TTlaQXdFSkNsX19IMzl3UTZMVmx5RFhsRjdJNHRfMmc?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 17:20:11 GMT",
+          "title": "Octogenarian is first killed in British Columbia wildfire - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWHJhQURYWHdTZVU1bDVoYXFvRTVSaXNBc1BORDc5TktmYU8wcDNBbUxmbGljR0FUQ3YzYzBfVUVWemZKNGdTVWtXTkRXNmFjZzdUY2R5cF9QY2tFeWlFa3Z2ZVRtNG80aVlrcXBHel9lZ2h4bTFJaF9hTnlDUWFlMVVUWWZPT3o0Y21fQ1ZfOEpkR0IzNks1VEFqSkt4TnR1RXF6bHJ4SE4tUXF6bzRBVA?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 18:25:44 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Mohsen Rezaei appointed as secretary of Iran's top security body - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOX01YNGdkRGZ6S1FUOFNoaHVnTGRjSFJISXI1QTVqVDFfMzI0bTBhZFhrcDJRNTkzcmh0YmpjN1RMQzZqak5GSldnMXVMMnpkTTRoMWZQQ01tLUFhLUpzT1NPWDNSQzZGZmZHVnR3ZXZGbThMNHpVdFZkSjZOd21EUE96TWI0czAyUkVGR0dJZFlsZDVaNEkxbWVvNmlyb19nZTlEOEVoa1VaMzI3MDNGWA?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 17:19:54 GMT",
+          "title": "EXCLUSIVE: India seizes thousands of Diageo whisky, vodka bottles in food safety crackdown - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcWVWaVdOVF94TXZTT0ZTWE5YaE92YjU1UGV3aGdOWHRSMHA4RWEwbmVWY24wcTUyRERtT1hkM0NMLW5YbVdQVXdKcTRxem1vaUhITHRzOFZuRnRmX3RYbWxVNGxDekZwc3FLazlaWHRMdWhlR3E5UG9sZGwzV1hoU3ZMSHg0NlhoYjNOVlc4VUtnQlE2U1VtTmFYM0ZBbkluamVwNWlISlVueGNtZGNXT29McjJNZzNfY09EVnNhSFluRGM?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 18:06:47 GMT",
           "source": "Reuters"
         },
         {
-          "title": "EXCLUSIVE: BP to sell 20% stake in Venezuela's Cocuina gas field to Trinidad's NGC, sources say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbzRsV0ZrY0J6VUtPUElhcVl6VWRvMWZkd0ZVekppekJNZUZHSEhNZzBBaEpIRnFndWRpcFdCTmVveThva2tneU1DYWRpSkZZMVJ5WEdCc3JfOXZtbElVcEozNWtLTWc3c2ROUWw5T3Rua09rX3NnQ1FtcEoyYzJmblphUVIxVkE4QkNlQW5IX2FLdFQ0dDJfay1fci1XMDdTZW5nS3Rja09ZVm05Q1dZZ1dnR3dYNU1IbVdEREpRRno?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 17:16:38 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "At least 77 killed after powerful earthquake hits western Colombia - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQm11YVZfbDU1RnZ6SmtvZUJDX3JZT0JpajE4MkV2TzZsRVZhRW05X1JjUnU3a093elpuM1pIdjdKa2dhSkdLY1FtYWhkd3FBSGNLcHloc0d2ck9ESmtNOG5PRDlCQkVKLTlOMEpwbl9adkozZmppWFVvbUIxV3d6WDk5WE5VcDgwazIzajlaQlZtdXA5YVE?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 17:11:14 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Nvidia, Wall Street firms partner on $500 billion AI financing venture, source says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNC15TDEteDI0VXNtbnFkb016anJWMDJqVHRSTDlRNVNkTXFIS2NVWWlDVVVldmN1Qld0ZWIyeXowZ3d6WkFQR2YtQWN6SUU1Tzl3VFR2YmphekZzUWtCZGpsQmFWQVR4bzhEdGI1Tkxfby15cy1xVWVhWXYzQUU5WTlYWDRHc2d1azhzYXJaMHcyeGxJT0pBdU5RRXpfZG15QTJrdmRBd3hrSnlDLV9wTUdiU3U5NW5PYXBUbGJoZEdmVHBY?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 17:08:36 GMT",
+          "title": "Russia's top court bars anti-war party from parliamentary vote - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOUFBcmJEaktPRWUyd2VRaFVob05RVXZic2dIMmIyQ2pxcUNrZ2c2ZERNMENsamM3YXdkQkJMbWJncjV1UUdsZmsxZ0h5MGtzczdCc0lhb2F1b1pkdzlvMzBPTE51ZHlTb01JQlNMRFRwMmdKbkZndmZlY24xN0NPYTZHaEJwUVVuNW5Jby1ONUk?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 18:00:07 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T18:27:11.591Z"
+      "updatedAt": "2026-08-10T19:34:35.389Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T18:27:11.993Z"
+      "updatedAt": "2026-08-10T19:34:35.676Z"
     }
   ]
 }
