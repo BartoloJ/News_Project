@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T05:56:39.110Z",
+  "generatedAt": "2026-08-10T07:57:42.993Z",
   "sources": [
     {
       "name": "BBC News",
@@ -54,7 +54,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T05:56:37.813Z"
+      "updatedAt": "2026-08-10T07:57:41.691Z"
     },
     {
       "name": "NPR",
@@ -109,15 +109,45 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T05:56:38.115Z"
+      "updatedAt": "2026-08-10T07:57:41.777Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 07:54:12 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Donald Trump - AP News",
           "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wVk5Dek1LUTk3V2t2cml3Q0lRWEhETXdYUzNTaUtrYW9ZYU5ybFVkbFduc3ZvV3VVTDVXMkl1NktRX3l6OU56M0h2MA?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 04:45:32 GMT",
+          "pubDate": "Mon, 10 Aug 2026 07:54:11 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Count Binface, the man in a can with a plan, seeks Parliament seat in Britain's wackiest election - AP News",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaDJ4QUJwdmtvMmFkNUFCdHJvdEZEWmR5MWlNYnliVlU0R1FsRm5kVzM0bHozaDNmVFdCVGlzejFqbmF2eDQ5SVFPdUwxLU52R0VwVUh5WWRhRHVxVkpMSHl2aTFhazZqMjZtc0ZjbHFjS2FTV1FnVWhMdVdKQXgyS0VBRDlBekczZWl0RGN2OWJJeEN3TzQ4Z1dHTFB3anFMc3RPR1Q4VzcybW1LZVhvb0J3?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 07:14:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Chinese users of AI companions bereft after government tightens regulations - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTEQxanVDVmhMMGZEaUdxeXdFV3g2QThxUWpsQ0lPNjgyNnNOeVVpdU1Od2FOc3gxS29vV0MwaDRCMGdjR0VlWkJTWk5PLTR3X2pvVEhOOVF3NWFTMFcwQ19abjU3RkE0M1lCYldGTHZkTXFEclZyaVpRLTh2bDhzLUR0LUZ1T3AyU1V3RExWYXM0emxiWV96ckxWOFdZdmppNndDd05SQQ?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 06:49:09 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Crimea strikes could rise sevenfold if Western funds came faster, Ukraine drone commander tells AP - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZGI3ZEkwRkVXWXhoWDVOWDNQQi1ZaXU1RE1BWWxpWlJYeWxxZDdmS0xfRDBVYW1jOGt1Q1NRU3dPZWJVVXpwNEdCbEloN0ZiWHozOG5YaE5yUzlhR2R6dVhoM2w2MWg3ejZoa2RRY3FHLWVMSmQxOHdEZ1A4V0kyVWJrYy04SV9xSWM3NGdQLXFydi1yU2NpWWtiNA?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 04:14:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "A man accused of orchestrating Tupac Shakur’s 1996 killing is on trial. Here’s what to know - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTXVkbTA3M0Nvd1RSZjc2aDRJV1VOT01vTlJ0anlYNUJwQWJnUjYwMmllSmZyLV91QjUwazI3U2swc3hiNjNtZFowTUQxWVVaaTRiTWstcGp0cWsydjFJYlRjR3F2NlN0TmZUaDlHcnVyMkgyLVN5M1VMYTIwYUplamNqenZ1Tk9zWmdNMHIwWm1Ma2IxdWJ5RG1CVUtDU1lyQ1E?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 04:10:00 GMT",
           "source": "AP News"
         },
         {
@@ -127,48 +157,36 @@
           "source": "AP News"
         },
         {
-          "title": "Count Binface, the man in a can with a plan, seeks Parliament seat in Britain's wackiest election - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaDJ4QUJwdmtvMmFkNUFCdHJvdEZEWmR5MWlNYnliVlU0R1FsRm5kVzM0bHozaDNmVFdCVGlzejFqbmF2eDQ5SVFPdUwxLU52R0VwVUh5WWRhRHVxVkpMSHl2aTFhazZqMjZtc0ZjbHFjS2FTV1FnVWhMdVdKQXgyS0VBRDlBekczZWl0RGN2OWJJeEN3TzQ4Z1dHTFB3anFMc3RPR1Q4VzcybW1LZVhvb0J3?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 04:03:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Myanmar rebuffs ASEAN's call to free Aung San Suu Kyi and questions the need for an envoy - AP News",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbkxYOXZ3LS0wYjlLbko5S3BsRkVnZERxVlBHbGxBRW9Oa19fNkhIRFR4RTdER1hrakdITzZfdFYtM3JRSUtYZFphVExsZE5iMTNid3A1ZmFsbDJseGZkNm05bVYyNVZiOUdXTEVKVFdnUjdhYUY1dWtOTjhJREFyRFZ0amVYUkhwMzlMT2lIajQzYl9PMU1acFdOa1dEb3VJ?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 03:40:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Wildfires burn across western US and Canada as residents are evacuated - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMjJ5UUtGSnBqYXN1Zjh2aG5TM3RlaVMwbWNHeWk4ZDBwcW5XVVdzY3RjSWsyYzljWmhGYmlGXzZ3Xy1vRDFtRUM0RnIwTzRkQTVmNzBBSjBTYzJQeGE5emhKODdhT2t2aUFqZ0lKcDFCSlVkWnM5bGpUTWlpeGtqbkQ1UlBteEZhUmxXYVFhV1o?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 02:47:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Western Europe sets new temperature record as heat waves pummel the region - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQWlXMklpT2cyRS16eEZiZFBpTElONGRxeDd3NXhRY1VfX0RPai16b0loVXhpdENxYzU1QVhaOHh6X2dNNDRmaHRNeTFGVnNyajAwaVFpQ042bjhDU3ZpQVhGaUNVWEVBYTlwZUh4YmVMT09BOXllMnIxU0RNVnlpTi1WcFNYSVRNX2hCbllBMlVldms?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 02:07:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Israel rejects Trump's Gaza plan, more details emerge on the Strait of Hormuz and other Mideast news - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV2psZVVzWDFLUWxaM0N2dTlwTXpyQUhLVXRUNzFMZ1hoWVpQQk1iUXlZQWNFRTJKeFRZSFdfOWZCU0VxenBzOExCUXJDZm9DM3FCMmpOYXc5Y1dkSHpPOUdUTDFYN09mc0d0NmV4ZEtDWEhuVDdMcjN3QWdpcmlXUy1KcGRXd1NuSmt6ZTNMX0hTanNQZF9DelRIMFQxUHJ3UUJEb3FhM3QzMFRrNnZ5ZW9n?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 00:31:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Reaction to the death of Don Nelson, the NBA’s second-winningest coach - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOME1JN3h2VzBLcUl5OU5id09OWVA2WGRqd2hhcDZOb1ZnS0RjZXVMUTJ4QVE2djlBSnRveUttTDFET1NJeDA0eTdlTF80aHhrMDZFMkdvUlVCMkpTVEl5ZHpNeERyWFFXaFhZMEREdFRrVGFYdlV3VXltVmtQTUdaamdHei0tMjg5TTFlTGpR?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 00:19:00 GMT",
+          "title": "Wisconsin, Minnesota primaries are next to feature progressive clash with Democratic establishment - AP News",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOFpKRUxjQWtsQWdGQlZHSkhmdGZGSDI5b1psR182NHljd1BYQ2pBRjByNmw2VFZMZ0NOTGY3bG5EazdFZ1RVTUl2SURsTzhyRGVGTi1GSFUySWI1SUhyYzhRTkNVRGZYY0ZWMXFRWEpTVlA2R3RPU0RDWUIySVRWdDljZkJzRjlzV0llNUh1X2ppT29ib2h1eExyT3F1NlZZb0pLRHdZOEdiUllNanZ4V0xpUDk2Zw?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 04:04:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T05:56:38.530Z"
+      "updatedAt": "2026-08-10T07:57:42.365Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "J.P. Morgan lifts 2026-end target for S&P 500 to 8,000 on AI, earnings strength - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNU1QwcG1rS0tYLXJ3R0JXc0IzMDhhNm9XMW9SX3RiMW1abW9VZEQ4OHRGd2FzSWFsNVNCUXFUQkhUdEFTXzVJQWwwR1JUX2t0UWpnNkxmVlZmSTVSTU9PUS1qTk9mOERWclA0UzNGNVAxNm45RGdiNmd6bWZFX2lnbnVWUFR1SHB5WGZEOURwV09iYU9KdkpHTlBTeUtCR2MteWI5TWFTQmNJSnRSSUE?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 06:21:44 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Gunman fires inside Thai government office as country reels from school shooting - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWG9raTBHTG1vQW4zcmlxaGctSVFqLS05NjNxUGo5SjJHaE0zVUhGdlJfdnhYNzlYWnRqRmFMekpPOHFGdWVBRXZaUWxZRDNuRDBVYktYc1NlYmd4T1l5cUxKaWFKT3lVRGFFV1NSZjZtdHF3Wk5jbzRCNDR4bFRLRlpYUnEyZ1JIU1NyYW5sTkxpYnc2TjRYZW15X2ZLX2N3djFMOVRqcktWN1I4Y1oxUExwNHJPRGplSlhNaUM5cWZ5dzdNTV9JUkV0bw?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 05:27:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Fire at Saudi factory kills 16 Bangladeshi migrant workers - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPa053YkgxUFdweDFoVzg2VV9QRFNnRk03Z3VVUVdlSHM3S3ZxZ09oUHhvSkdRY2lyNE1GZ3dIb2U2LXdQNkEyMXFUU2pjNVdLM0tPOXdhaExPb1BOS3pET0thMDJWLVlZcmlteTZTbmFwT2ZWbDg0ZlZ5ZFdxV0oxUE1nLVdGTGFhYUhDenU1QjJoU2FmYXJZaThhRzdUT3I3RDVMYmgwQWdFZmxMOWxJ?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 05:22:00 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "How the hard reality of climate change hit Europe's economy this summer - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNFFOeHJsTmtMNUdzeWw0WnhwY2xRQlJvOURPczNwdjNtVXk4Z2x6dDFYVS0xdFJDQ3JMOEpla19XMmdRVU52V2xMalotMmdvRGtodFJSdEN2RHlxdjVsbDlQYkk2ZmlVajV1blVlTDYtQko3UGZtbXlrM3hndm1aX2dYcnl1LXpHZjdlSDhWcF9qMUVQZlVzOE9NOEU2RlBzcGRqbjllbWdEM1NpV3FrRmVSczduMy1EN0h6ag?oc=5",
@@ -194,32 +212,14 @@
           "source": "Reuters"
         },
         {
-          "title": "Fire near Indonesia's Mount Bromo extinguished after 550 hectares burnt, but new hotspots emerge - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUXRsQ2s1TFBDbXJidFVrMzViWGc3MzB3OEJ3V2lvbDVVLVE4VWxCVkNkYUFPakR1SDZtR3ZzR3Q5UTJJR0U5dlFSMG5IbUJ2TGViRnFXTmJEQ1R3U2IyRk9tQnRyLUtteDUyVWRaS2ctakZPLXBlUXA4Sk1BemNSSTNJUzgxTmNNY0tOMVJnQ1RzY285RW1hV1hzQUdXdk45bE82cjFtY0x0MWNxcUdUeHlaRkFmejVJb3ZUcUUyUzE1bEFKYWNmMEhyVQ?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 02:55:01 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Fading Fed hike bets, RBI backstop blunts oil pressure on rupee - Reuters",
+          "title": "Rupee anchored by central bank hand, traders watchful of oil ructions - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOemZSaHlNTUFDLUNEeE02ZnFaTkxPQlhCSk13VFJtWFpURVBRR2pfVVltSzVlQVRwbjJLcVZSZ19ncGFoc21Ybk5xN1VVUHQyTERVaENnbXE1V2ZJNFVoWGlQY3IyY3BGMUZzVEcyZktnb1RuZkhDT2FQRHVrd1BuZnU4anpKdS0yTHdkRjVSVTZVSmhtUlZqYzRvdjRiejRBeHlDUGFBMlpibXc?oc=5",
           "pubDate": "Mon, 10 Aug 2026 02:55:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Indian shares muted as soft US jobs data offsets oil worries - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWUtCM0hIYk1wODVSVUtjaFN6ZzY5NzVvd3Jld1kzMnJLdnQ0VU5mOFlMV25IRldtLXA0R0VjWkplQmtJaVlfVVdMaGtsMGI3VUxjVlpoaFdkUnlSYzVnMkNZcHh3eGpYeFdEdmw3amNvZzlrMjRmOGV4TlRwQ3BJZ1g5OUY4d1ZYV1RVdDVfdWw0Si1KZGN0MS1nMHQ2NzdzN3FmMFlKenpNa0df?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 02:25:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Gold eases from seven-week peak, US inflation data looms - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdEF0Uk1tb1JuQWhENTdaLVRfN2ZtbExLM3RoUFVJZ0IzNkhCYlZuc3R2dTY5ZHJxWVJBZVpQbHBES0NybEFsRVkxUFRmT0lVSVMxeUFxOEJKb2ZMWUFDSDh5WHh6S2NscTc1dE5uUFJTalpGLUltVllCX085a2lUbndIeDRVU0NvUmVINTRjU1BnZm9oREFxbUFPeVhTSllrc1h2d29vN0E?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 02:22:00 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T05:56:38.892Z"
+      "updatedAt": "2026-08-10T07:57:42.797Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T05:56:39.110Z"
+      "updatedAt": "2026-08-10T07:57:42.993Z"
     }
   ]
 }
