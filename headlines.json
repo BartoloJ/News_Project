@@ -1,9 +1,15 @@
 {
-  "generatedAt": "2026-08-10T11:13:00.945Z",
+  "generatedAt": "2026-08-10T12:10:07.495Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Man arrested after boat capsizes near Statue of Liberty killing woman and infant",
+          "link": "https://www.bbc.co.uk/news/articles/c935w1d05d7o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 10 Aug 2026 11:28:01 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "At least 13 killed in Ukrainian strike on Russia's Tatarstan region, officials say",
           "link": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
@@ -45,36 +51,24 @@
           "link": "https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 09 Aug 2026 23:05:29 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "How Kinahan's hearing unfolded inside the courtroom in Dublin",
-          "link": "https://www.bbc.co.uk/news/videos/cly5zpx0ypdo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 09 Aug 2026 21:26:56 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T11:12:59.890Z"
+      "updatedAt": "2026-08-10T12:10:05.929Z"
     },
     {
       "name": "NPR",
       "items": [
         {
+          "title": "Decades of abuse revealed at Michigan art school. And, the Iran war's impact on midterms",
+          "link": "https://www.npr.org/2026/08/10/g-s1-138013/up-first-newsletter-epstein-interlochen-center-for-the-arts-trump-iran-midterms-wildfires",
+          "pubDate": "Mon, 10 Aug 2026 07:42:58 -0400",
+          "source": "NPR"
+        },
+        {
           "title": "Some disabled people want to advance their careers. They say Medicaid rules stop them",
           "link": "https://www.npr.org/2026/08/10/nx-s1-5910791/disabilities-people-work-requirements-medicaid-income-caps-buy-in",
           "pubDate": "Mon, 10 Aug 2026 07:00:00 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Voters are sick of the two-party system. A new poll shows they're open to big changes",
-          "link": "https://www.npr.org/2026/08/10/nx-s1-5920312/proportional-representation-poll",
-          "pubDate": "Mon, 10 Aug 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Mike Lindell touts Trump ties in race for governor of Minnesota, where Trump has lost",
-          "link": "https://www.npr.org/2026/08/10/nx-s1-5925152/lindell-minnesota-primary-elections-trump",
-          "pubDate": "Mon, 10 Aug 2026 05:00:00 -0400",
           "source": "NPR"
         },
         {
@@ -90,8 +84,8 @@
           "source": "NPR"
         },
         {
-          "title": "The FAA wants to reboot the nation's airspace. This airline shows how it might work",
-          "link": "https://www.npr.org/2026/08/10/nx-s1-5872752/airspace-reboot-alaska-airlines-flyways",
+          "title": "Mike Lindell touts Trump ties in race for governor of Minnesota, where Trump has lost",
+          "link": "https://www.npr.org/2026/08/10/nx-s1-5925152/lindell-minnesota-primary-elections-trump",
           "pubDate": "Mon, 10 Aug 2026 05:00:00 -0400",
           "source": "NPR"
         },
@@ -102,18 +96,54 @@
           "source": "NPR"
         },
         {
-          "title": "Ukrainian drone attack on the Russian city of Nizhnekamsk kills 12, authorities say",
-          "link": "https://www.npr.org/2026/08/10/nx-s1-5927024/ukrainian-drone-attack-russia",
-          "pubDate": "Mon, 10 Aug 2026 04:58:22 -0400",
+          "title": "The FAA wants to reboot the nation's airspace. This airline shows how it might work",
+          "link": "https://www.npr.org/2026/08/10/nx-s1-5872752/airspace-reboot-alaska-airlines-flyways",
+          "pubDate": "Mon, 10 Aug 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Voters are sick of the 2-party system. A new poll shows they're open to big changes",
+          "link": "https://www.npr.org/2026/08/10/nx-s1-5920312/proportional-representation-poll",
+          "pubDate": "Mon, 10 Aug 2026 05:00:00 -0400",
           "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T11:12:59.995Z"
+      "updatedAt": "2026-08-10T12:10:06.306Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "UK and France prepare for another heat wave as western Europe sets new temperature record - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQWlXMklpT2cyRS16eEZiZFBpTElONGRxeDd3NXhRY1VfX0RPai16b0loVXhpdENxYzU1QVhaOHh6X2dNNDRmaHRNeTFGVnNyajAwaVFpQ042bjhDU3ZpQVhGaUNVWEVBYTlwZUh4YmVMT09BOXllMnIxU0RNVnlpTi1WcFNYSVRNX2hCbllBMlVldms?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 11:08:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Washington grapples with a National Guard deployment extended until 2029 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOS2ZCYU1xa1JPMnFGT0JJLTctLW1IS3lidF9WYUt6aFpJU2kyekt3NHlueUhiS0lCa1ljQi1lN2dDUmxQTTVDV0E0U056aU9BNUF3bWZGcXZWeThRRDE5S0NYQl9reEFDR1V1aXd4X0NSU0xEYk5GZ0k2MGdLSVdiczlPTGdMLWRPWm05enhXSWswYXBNZzNmMXp1WGpPcEk0UzFpNVRMYXI2OE9D?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 11:08:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Zuckerberg spokesperson says his yacht did not hear call for maritime assist from skiff - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZE9iemdpdmcxVjFVRzJSMWMtbHp1Wlhxdmw0VU9OaGU2X3R6QWd6c1BfeTg0QnVxTUozdW9WWFNxMkRJSWZXeV9SRHg2VUpGT01PN3p6SVJhVmZTU2RxOWhwMXFKMXV6Z2tYck9oQVBobDBSVDlxZllXZ2dvNTVaVG45UGlrSkJIOHdqMDVpbTJVZw?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 11:01:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Iran won’t reopen Strait of Hormuz without US concessions and other Mideast developments - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTHRSRTdObVh1eUFaNml6X3lhU0FnaEJvWHM2V2g2eC0yblF2QktZTnctM1Vud0pqZ2ZzQ0ZZTzBRNUV2TnpFNkV2V3lNUVhfcGlHbmtzT1k5bnJCclRCS1dTYnB5WTdmRk5aaHM4aEktLVFzc1lhallpd1FfM2J1aTE3NzBIejRSaTctUDdETm1hSFBadWk2aTR1ZDk?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 10:58:24 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Ukrainian drone attack on a Russian city kills 13, officials say, with a refinery reportedly hit - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUUNmLWxickRLU05ySXVrTTR6U2Q4aTVSZExPY3ZaZnhCR01UcUtUMzhMU1c5Q0YwNFFCc0ZRVWpLYWo0RWZHWkhRc3Y2d1lLdDhwbTFNSmRZcXJ0SHV1VUtVWmdxQUZOei1iS1dwNEk3dkhyVTJvSWZiSjl6MXU1X01nQTZjenBZWkdUYmU4eG4tdUk?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 10:13:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "World shares are mixed after Wall Street gains, while oil prices bounce higher - AP News",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLUE4QXJjenhzdy1DTVEtby1VRDU5TnoyczNRWGM0SFVEWDVVelIwQ08xRVRyaVpVbWpuR2dKMzZaZG9vU0tqLUJWaVM2OFd5U2FkTUhfQ3hrczVIcVVVeldhNGRfajlrLUFrZWRpOVM2bFZSekxmT2NISmxqSDVmR1kyZkZ5VjZoT2liZFJmSm1sZw?oc=5",
@@ -121,58 +151,58 @@
           "source": "AP News"
         },
         {
-          "title": "Driver who broke the sound barrier attempts another land speed record in Utah - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdlZVN2VQOHVQNFlvOGRMbWlqREZ3VzNTSWk1QzE1RkF5emZ2MkZHQ0p0enRYeFRWZWxmaHVDZzlWLVJpMVJSZXNEUFRrZUQ5SlFfQzNRdkpRdmViWGxIb2xNR05uQzhqVko3a2JHTHNNdlZuSGNLNkdERnVsVFlCVFFnUnEzblAxVVNNTy1hbmc4MTI3SWw5MFBDSnpjVkxKVGxSWGN2YTZwQQ?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 08:00:00 GMT",
+          "title": "UEFA, CONCACAF and AFC accuse FIFA of 'deception' and 'breach of trust' over World Cup plans - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVXJCME51SU1HS2NsdmdyWDYxeXRWaFF3QVBfTDdGWGNJejZYdEtJZTUzaTZlSjA5WHZxSzc5RXF2blhlcWctVzZia2NtRDVsQlRFSFIxTUVsSmNORzItVk15WDdfd0dYTzFaQWJqcUpIRS00Z0JDOFk4YXNESjRfcldvZTVNNFZKcEVYNzhVaUQ2NDl5SE5IelVrRjJGLUdGb1JBSg?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 09:06:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Ukrainian drone attack on the Russian city of Nizhnekamsk kills 12, authorities say - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUUNmLWxickRLU05ySXVrTTR6U2Q4aTVSZExPY3ZaZnhCR01UcUtUMzhMU1c5Q0YwNFFCc0ZRVWpLYWo0RWZHWkhRc3Y2d1lLdDhwbTFNSmRZcXJ0SHV1VUtVWmdxQUZOei1iS1dwNEk3dkhyVTJvSWZiSjl6MXU1X01nQTZjenBZWkdUYmU4eG4tdUk?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 07:45:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "LISA MASCARO - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA4dVVqc1hwVXBTcGF6b29sUFZoenNRNUlIclZrLUJFeDhuRU40bUtMMG52TXhZQVdRZ3VuUWsxeVBLek4yaUtwSHhlMmVBd2s?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 07:44:05 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Count Binface, the man in a can with a plan, seeks Parliament seat in Britain's wackiest election - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaDJ4QUJwdmtvMmFkNUFCdHJvdEZEWmR5MWlNYnliVlU0R1FsRm5kVzM0bHozaDNmVFdCVGlzejFqbmF2eDQ5SVFPdUwxLU52R0VwVUh5WWRhRHVxVkpMSHl2aTFhazZqMjZtc0ZjbHFjS2FTV1FnVWhMdVdKQXgyS0VBRDlBekczZWl0RGN2OWJJeEN3TzQ4Z1dHTFB3anFMc3RPR1Q4VzcybW1LZVhvb0J3?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 07:14:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Chinese users of AI companions bereft after government tightens regulations - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTEQxanVDVmhMMGZEaUdxeXdFV3g2QThxUWpsQ0lPNjgyNnNOeVVpdU1Od2FOc3gxS29vV0MwaDRCMGdjR0VlWkJTWk5PLTR3X2pvVEhOOVF3NWFTMFcwQ19abjU3RkE0M1lCYldGTHZkTXFEclZyaVpRLTh2bDhzLUR0LUZ1T3AyU1V3RExWYXM0emxiWV96ckxWOFdZdmppNndDd05SQQ?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 06:49:09 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "New Zealanders abroad urged to enroll for the election as new law locks out last-minute voters - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRmVmVDlwQ2JCZWdHV3EwWWNPMGFLd3drQWJuUmtEQkh4OFBKMXZiWHFTTW10ZVR3TVNjTnNLQnpqYXB5eGQtbU1CWmJ1QnFCUDdRQlk3ZFdKaEVlb0Z5WTVkRW5BVG1oMXNBaW9mZU81dVFtNlY4WG1uS243QVhqczlicDFtNlBfV0NYTmZNM1VmMTZkUlRqaEhWR0VHSDNYNnY5cFh4TGhkbUlIYUxUbXotdWRpSDlE?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 05:33:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Congressional Democrats launch probe into efforts to deport US military members and their families - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZ1ZGYTFYNVhqMWFRdzMtNmt2M08zVVpCZk1Va3p3dWlkYnpGLUZmSWhvcmtiUDBrTElteGY4RkY2SmpzNjFWUzBFMmhxUnFmMDVtWUxLVmZQZWNEb3ZCanlKNF9tOGRKZGw1TWhVQ0RmRmpNUHhrWG1ieHpyNXBuTTFDaW1ZazR1QzRXMjFHVGJ5dDF4M2RiTTZUY09qLVAzTDctOTZiTFU4NzdjYXhMUXJB?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 04:53:50 GMT",
+          "title": "Turkey’s parliament opens debate on a pardon-like bill for thousands of PKK militants - AP News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRENnejlLRWNBZklCRG9CS2xhTjdoVlhsOWdycW5MTE8wR3BlMTBnLU1tRU5XQjhLTklFam9ZTVJ4YlNOVTJWQmxaU085ZVhPa014a3NUdWhQc0xkRWc1cFN6RkFjZUVXZjU4NS0tSDh3OFpkbzFsUG9ZazNYeGhXdGoyOW5TYmd2S0NFMXA2Zm95VWpYaFpIcllOSGlBNjI2?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 08:52:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T11:13:00.466Z"
+      "updatedAt": "2026-08-10T12:10:06.883Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "Indian police fire tear gas, use batons to disperse youth protesters - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSlV6ekdTcVZKdmNXeUJqZVZDRDRBbGRhbFBnQ2JNYU9SOF92d1ZIWWg0cFoxbjNlZ05TMUN2Zmg1UjViUHhEVm1DRTNUTWp2UE55czVOdmxydHFRQXNFc3YxZU10VTN1SmdITkdqa2c2MTR0RXpidnNBaEZKQjJNMEdlOHV4VXptbGdTem8yRDk0YVAwZllQdndWTWpVVUhlRDVjT3J4aXBSVG5WWVY1YU9tbVhwWkllMGUwNVpUcnNoX0tfZGZkak4xd3BDeXpG?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 11:48:09 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "S&P 500, Nasdaq futures inch up as markets monitor Hormuz situation - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ1dvZ2c1V0lTdG9JSjJSTkR1eFdqSUFMZkZhLVNHWVppM2lMUEluay12RmYxaHozajVfaDZLOTlaMGk5eHpJbTNScmhEbkFwUmMtdWc2ZWh1eEtJSlRGUGJqdFhEdlp4UFJqQm1JQWNqNV9RNUhneDdnSDFzRGVvZHQ0YmpyeElzS1VwMGtmeGI2NzZja09Sd1BITm1IUHVYdDc4djlFQQ?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 11:35:14 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Poland and Baltics shield infrastructure, fearing a Russian false-flag strike - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSzlSZVg4b1J6YUFBV0R5Z0VqcU0zeldEdldXSW9WQlhEMzJoM0ZoaWpjN3oxeEhnLXVRWkdzNEZEVExfN280MkVISTJOMnhTa0o2R3dLZHJodDdENVZvZHZSYktLaG1uVlQzb3lsRHE2QUJJY3pSejN6UEJBMmhuSGZtbGdFQk9MdnhTaE5rMm9pTVZGaktib3Z1WDM5azJTMU5xQ0FyWXJzYzFBTXpIaFRmVE41UFZKSDFj?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 11:21:16 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "China is balancing Asia's crude oil demand by itself - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNN0lBeUJuUi1Nek03cm1rOF9xMFhxS2RNa1NUNkxqQk9UT1dYOENkMHduLUx3ei12d3VQZmxLSlV6cFd3cDZXc05JcnJ3YnRXRjl2b3VMb2M0T1R3OUpVUnhfVWNxY1d0akVsQ1U0V1hkOEE1eUZWN2FySzNXcHRmLXJpNlR2SWlRekRYbkVld1VqNDI5S0RFdWFVUHBJQXF2bl9FMDZJUmotVzlfZlBidUhVTWpRTVMzYWZlTQ?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 10:41:23 GMT",
+          "pubDate": "Mon, 10 Aug 2026 11:01:03 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Retail investors sold SpaceX shares for first time on Friday - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTGpaWVF2U0MtYkg1LWp3SHI4QmFQMkdONFhaNFE4MU40QlJuMEVVcEg3cmRLcUJOUjI3Y1RKa1B2UHFWaW5oazNNdzEyUFdCTWpoZVFjRWt0Q05MQWJEbFhOeFBqNXVlYlZkRTFpNHVOa2tqb2ZwdEN5anpaXzNQbVFvbk1jdXZNMk5ocVNXaks1ZkYycGU1ckN2LUEtbndEd1BNZ0ZFMFFoVmtaTl9tdW5B?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 10:59:59 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Final vote delayed in parts of Pakistan-administered Kashmir over security fears - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTndXb0JjaW0yVEQ3VG82UzVHSC1pU21NbzlqakY3Z1dZUkpGLXFxMmdEMTIyZTBaY0QtUFpFM0VjTi12M01JdDJqNkZPdWxFY1FhMGdUSmNrc3NiV1JEYV9ROEk4NHNacXdqY1lBWDE1Sy02NElsX0JnMHY1clJSazF5S3QwS3F3SU5jbnNNdnRGNkNGb3JFVUpNeEoyTW1iT2ZFWGU5X0EtRzVtV1BabS1sbmJzRWxaUlN5NzJkenJ4M1VyTHhDcw?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 10:30:09 GMT",
           "source": "Reuters"
         },
         {
@@ -182,44 +212,14 @@
           "source": "Reuters"
         },
         {
-          "title": "Meta launches new AI model as Zuckerberg champions open-weight push - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR21CNUV6bEJhdkl2SU1sOTRiM0N2MnVJTjhJV3YyY20wcFdHUmNOUW1lWUlVcnZLeGpnNlhYQkZCTGhpR0ZIOEp0U0VZWDlQLVdZZFFqQ196X241R1hLVXpXMU5Xclo3SFBxWHRRY1pFeTFHeEFEVDlCbDdwbWpRQUhROTFKRGFZSGE2QkhZSjdLVmJqVGdUWmFRT2R3WjhxZXptdEt3UG1KNVVqRWZOZUpR?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 10:14:28 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Iran says no reason to fear Pakistan-Turkey-Saudi security pact - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT0ZKNWFNbV9WOEFpMnZYa3NkbzBGWUNiVnVsMlJtT1IzRDliNHJIM0g0eUZ0N2lNcWxSSEd5QVV4QW1pZFRCSTQ5WndIdGtVRTFMcmYxUVVVZzVQazFQRy1vNG5Vd1hhbG9ObG14SnJnbl94VDJLZnJ6dmN4ZUJKTXRiTFBrTkdkN0FyWkFua3FhR3B6aHN5Z05ETmpNUkxLTlViUm4xdGtINktfUDk2UmRUOGtqdw?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 09:21:03 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Drought scorches Italy's rice belt as water supplies hit record lows​ - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSlhjRFdtT2VidEZ4bmNDVlk5TFNYZDZfZ3NQdzc3NDUzV2EyU2RQbTM1eW9xZUJoazhkOWxfVzVRaXV2UW52QS01dnNVQnFTU095TmdMRmI4LWFWU2VFU2tuazc1WmE4Zy1qUlBzdlNVN1NXTzNUTXo1VFNwNExtYmNRci1XdDR6Q0lQY2pzME9rd2JqbEVuSDRjS1UxcTVOeEkyZ2xsUFNIbmxHMEVySE1ub3BRQ3NYWWVRN1NB?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 09:20:55 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "South Korea to establish fund for semiconductor materials, parts and equipment, official says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcVRHZVRKcW90cHJRVDZLcEU4NTlTSVZhSy0yOTU2ZVI2SFdBQ0tNNUFSQXZ1LWRvWkRjT1pkdndpbkxFVFJZbDlaOFBDdVNIRDlCR2RkRC11VFV3UElNLWZBYVlTNTFXZWtIQ1RYZnV0UXp4YXNqbHRGSXpGYWloVjktTzBWM0owd2VQZUkzSmJ2SlY3bmVlZnVvN1BUQlZaVTUxRzJmblVRV0NuRlZZRUNrY1VQeklJV0JFUUdiYjBIYWozekFnRDNBOGFhVTUy?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 09:20:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "UK's Revolut gets French bank licence in European expansion drive - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLW0ydllRVHUyVU1yOVZwTlNpQkhXWmFXVTJ5S2w4Mm81Vjc0bzBCUEhyUktKWFlrZ0lEZnpvc2lKYktjRzkwVERnaEw0aEVvSzR0UW9nR2J4NGxWSU90QTBadjAzekhXRzBzLXNjOG55YTVqWEdpRlNPX25sUDJNQUdSZ01GNGI5NFZMX0Nn?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 09:19:27 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "FOMO fuels Wall Street's breakout rally as traders pile in - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNkpEM1BlSlZXSUZmWnBXOU0tcGVCb3kyRWpQV0gtR3VVR3JraTVKdjYzemxKeS0wYVFYRmplNDlxaUVEU1JsVTJfTVQxZ3Ricy1Wa3dwTUxYWjRrYnRoX0NzQnoyX1F3aEIxVnJWbk9VQkhGNHZFQjktUGxXU0NHd2QtQjZEY3F2YkFFNnNxbTQ1YV9BLVhianAxLUw?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 09:11:03 GMT",
+          "title": "Trial opens for ex-gang leader charged with Tupac Shakur's 1996 murder - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRExTWkVOT3Z2WjAtQTFxWnd4Wk5WUVVDbGhtX28tOEx1VTBJQ1A5a2lSWkFOUVU3VDBpOEdPeGs3a2UzMFZWcXVDamhjVnBmMjh5ajJIMzBvd1dZdy1nRTFMY3FZb2JnejVKSmdOUl9kdUpGU3hSVXIzUVJPUkRfd1dUNDkteG45NzJ4bkFSQy01cFFYUGUzSEhiaWZuX2dFR1lBM3A4U1R5ZEdaMTMxZE5Ha0dId3JhVFE?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 10:27:48 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T11:13:00.875Z"
+      "updatedAt": "2026-08-10T12:10:07.284Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T11:13:00.945Z"
+      "updatedAt": "2026-08-10T12:10:07.495Z"
     }
   ]
 }
