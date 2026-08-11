@@ -1,9 +1,33 @@
 {
-  "generatedAt": "2026-08-11T13:56:27.270Z",
+  "generatedAt": "2026-08-11T15:07:05.568Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
+          "link": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 11 Aug 2026 14:50:10 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
+          "link": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 11 Aug 2026 14:47:28 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Thailand suspends new gun permits after mass shooting",
+          "link": "https://www.bbc.co.uk/news/articles/cm2g550v0pvo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 11 Aug 2026 14:16:44 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Drone captures devastating aftermath of Spokane wildfires",
+          "link": "https://www.bbc.co.uk/news/videos/c80nm9melpmo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 11 Aug 2026 14:02:07 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "At least 169 killed in Colombia's largest  earthquake in years",
           "link": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
@@ -11,9 +35,9 @@
           "source": "BBC News"
         },
         {
-          "title": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
-          "link": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 11 Aug 2026 10:43:07 GMT",
+          "title": "Luigi Mangione back in court as key questions remain over case ahead of murder trial",
+          "link": "https://www.bbc.co.uk/news/articles/cgje05wd1v4o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 11 Aug 2026 11:35:20 GMT",
           "source": "BBC News"
         },
         {
@@ -27,34 +51,10 @@
           "link": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 11 Aug 2026 10:00:04 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
-          "link": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 11 Aug 2026 09:58:45 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
-          "link": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 11 Aug 2026 09:39:58 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Wall Street giants hand Nvidia $500bn to fund boom in AI projects",
-          "link": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 11 Aug 2026 08:44:52 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Libyan authorities battle big blaze at major oil refinery",
-          "link": "https://www.bbc.co.uk/news/articles/cp308z9pl30o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 11 Aug 2026 08:28:24 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-11T13:56:25.861Z"
+      "updatedAt": "2026-08-11T15:07:03.970Z"
     },
     {
       "name": "NPR",
@@ -109,11 +109,41 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-11T13:56:26.132Z"
+      "updatedAt": "2026-08-11T15:07:04.363Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "US existing homes fall 1.7% in July as record prices, high mortgage rates stifle would be-buyers - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRHJlUU1TNS0xMnRSWkFhWUVqLW1QVldXTXh4RjZsanlJUUV1UFZiUU5QY1JLR3lnQ0Y3OXZ2cWd5NjdJTktqZExidGNhVUJxcWpjcDk5cHdIZGZtU0NzaEhxUVVydXFYcm5GVEYxa1JlY29zYk1pUVdWd19PNkQxYjBKVXBveFlJZENMc2Z2VTNtcENYNThBMg?oc=5",
+          "pubDate": "Tue, 11 Aug 2026 14:55:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Congo says 2,000 people have died in its Ebola outbreak, the fastest growing on record - AP News",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSF9yUjNXX2h4OXJYMjN4LUdDRS03dGd6MmwzWXM4azBtY2FPMW0zcGsyRXNoRHBoZEhERXNUOTFfd3RYOEhvVEF0WEZuLVp1X0JtdUFFZWlVNlVyeXgtR05sUkc5c19CWW85WmZYRWRCNG9YSHVJVU4xUDZCWjEydDNpSHY1WGs?oc=5",
+          "pubDate": "Tue, 11 Aug 2026 14:02:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "As Trump Media scraps some businesses, it's doubling down on Truth Social and the president - AP News",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWkVQdkVnS3JpYUFkTkU0dVJabzltOVJJLUs4YzduSVBBWkd1OG9vSENiaWtzWWNGZFBxNU9MRnBVTndSUDlneS1TcmVqN1FNSDA0eHdIOHVNRlNGZGpqY2xwX0VqVlRRVW5sTzUtRWFobzNfcS1pV21DX004MjJtOW50TWd3QW5CZ0g1WE1iNnR3aUQ2WkNDR2R5UTNsMHVQVGZfd2tERFRYVjNhTTFWN0M5ekhSTzQ?oc=5",
+          "pubDate": "Tue, 11 Aug 2026 13:56:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "YouTube sensation Ms. Rachel announces debut album with Mr. Aron, ‘I’m So Happy’ - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTnN3N1Z5TTBkOFM4YTJZaEE4dXBfa3BoQkhsbWtndUx1R1NPQ3g3SlVvMndYYjBlbEJBMC15MXRiTWJFZ1BPWV84Zk9Na3U1WXRINkk4UUtVM3J3VG9EYzAwY0dzekRiX1ZXdHNraW5hN282R0cwSjRaODQxc0lhMGRRcXRlVS1MeGtjV2N3?oc=5",
+          "pubDate": "Tue, 11 Aug 2026 13:52:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "What to watch Tuesday: Primaries in Wisconsin and Minnesota showcase Democratic divide - AP News",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRjFDMUI5eVYzTk9VRHJSRTYyQ1hvU3dpQXU3OVVGdW0wX0dWbkJWWldpRUVMeHdrdEVhOWRKQ2hneDgyYnB3eEtJbkhWRWhEbXZkRHprai1vRTlFSkcxSXg2VEI4TVJkMnIwbmJpazZVN3JXUkd3dzdteE9PQnRidnlWQnlsZWRxUFlPMnlCOFFpSkFPWW1vNlJDc3NBSFNuSk5SQnVYajVrZ2tnejJnMUdrOWRlWTA?oc=5",
+          "pubDate": "Tue, 11 Aug 2026 13:39:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Trump pivots back to sanctions for Iran as other strategies to end his war fizzle - AP News",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZm1US05CR2dscjFVYXVxckszQzlrZUJMQ2N5TUJCb1Vka21vclZwRGdweDlDWE52UWtaWkhsMnlvX2lBVkdoWnhDS2oxeVdRdmtsUFZjdEZwYy01bVpxeFNOU2R6MGFsd1RxdFFxbkUyNlBxMU44eGh0ZUFGWGxUcTg2U0hjSkk?oc=5",
@@ -121,105 +151,75 @@
           "source": "AP News"
         },
         {
+          "title": "Colombia searches for over 3,000 missing after a powerful earthquake kills more than 100 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMnk3enhDLU5PRHZPNVlfdkVRb0t5ZjFPYmExTFlGcmIzVnh3eDNWQ3loVVF6MEg4ejNZOE92YkxKc0lpNE5pcXRQYnhPRXFWV05QUnpmNE0tMXZkVVU3YndadUxkampNUWx0Q3JqdjY3aC1Wa0pYT0dwVzgyT2JpVDMwVnAteFdDT2NXTXFOLTUwR0x6X01z?oc=5",
+          "pubDate": "Tue, 11 Aug 2026 13:10:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Heading off to college? Here are some tips for managing your finances - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbjMwaU9pMVU3ZUtieXZDMkMzUlJYV1dSQUk3R1dKMmVQaGtJUVlhOVhoWEh2N01WUzQtVHpoTktXdXBNbDNBMlFLTDd6cWYwNDdsQXFsN0hSS0FvWWlfcWZEYmF4YWVDVkJia3JZNXdsRXJiVUhqX0dQQVBpbkJJTzhVZFdTWkhzREVXdW1mM0c4WVpwUHZnX1JfZC1yQ0J0d2RsR2FVSjJRQQ?oc=5",
           "pubDate": "Tue, 11 Aug 2026 12:39:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Congo says 2,000 people have died in its Ebola outbreak, the fastest growing on record - AP News",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSF9yUjNXX2h4OXJYMjN4LUdDRS03dGd6MmwzWXM4azBtY2FPMW0zcGsyRXNoRHBoZEhERXNUOTFfd3RYOEhvVEF0WEZuLVp1X0JtdUFFZWlVNlVyeXgtR05sUkc5c19CWW85WmZYRWRCNG9YSHVJVU4xUDZCWjEydDNpSHY1WGs?oc=5",
-          "pubDate": "Tue, 11 Aug 2026 12:38:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "YouTube sensation Ms. Rachel announces debut album with Mr. Aron, ‘I’m So Happy’ - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTnN3N1Z5TTBkOFM4YTJZaEE4dXBfa3BoQkhsbWtndUx1R1NPQ3g3SlVvMndYYjBlbEJBMC15MXRiTWJFZ1BPWV84Zk9Na3U1WXRINkk4UUtVM3J3VG9EYzAwY0dzekRiX1ZXdHNraW5hN282R0cwSjRaODQxc0lhMGRRcXRlVS1MeGtjV2N3?oc=5",
-          "pubDate": "Tue, 11 Aug 2026 12:32:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Trump told Ukraine it had no cards. Then Kyiv took the war to Russia - AP News",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBaMUwzUGYyQ2IyNXNfS1JPQi13cktObW5NSXV0SmJwbURsaU9FNDRpeWlFR3ZPS01YdG9pNFlvZ0lWeTBTRUJfQ2l6dW5hWjB1NFJUSGk4QUpiUVYzRWZUcVlzNktFTzQxc3VqTFQ3bUZSUFdjZll3Zg?oc=5",
-          "pubDate": "Tue, 11 Aug 2026 12:08:50 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Former Syrian President Assad sentenced to death in absentia for war crimes - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbFZ5cVRQTjZBaDZEOFZuSi1ZUXFwd0J6SnNBeGVleVBqdExEY3VweDY5a3ZnUnNpal83SS03QWVGUlN4TExhNDU4VmxKd1FlTDRUaExBbDY2MjU3ZWVqRGptSllyTjRFS2Mzd1JHdlFFaVE5NkY2WjdYREdjYWxqUnJreWZwemR6SVJN?oc=5",
-          "pubDate": "Tue, 11 Aug 2026 11:59:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Iranian-backed Houthi rebels renew attacks on key port, and other developments in the Mideast - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORXhISUZDNXVZTlFMeWpOeGVEUDVsYWZKYkFQV2tmaXVSSW45SW5RZmtyeGQtaVIxMlVGdVZVNm5vemI5Rm9yMS1xMFc4Q0kzcTN4UThPTnF1anVDd1FSdWlIdEY2SWM2bkRiZ0VQQVQxOUJ4dXl2U2pIZFZOWVJyQ0NrelJvSlJsUWlpOHhxeFBSa0V6Y1BYb3dvaXQ?oc=5",
-          "pubDate": "Tue, 11 Aug 2026 11:24:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "2 ex-Chinese military personnel arrested in South Korea for alleged espionage - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTUxENU1pR2N1djZ3Rm5SUDZQS0Z4SzA1YnZsOHU1RG54eWljQTByWW9UVmQwbTh0SUc0bmhRcXk0OHU0bW9VYUlxdUFoU0ktTzVjRmN3bEhKQmFJNW5fOEYxNnJPOUNVZm1nRnRXVTZJVGRCOWZMMDBIYXNNczJpZ2c5UGxJb3ZGbGI0NVI0eEVjcWNh?oc=5",
-          "pubDate": "Tue, 11 Aug 2026 10:53:26 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-11T13:56:26.626Z"
+      "updatedAt": "2026-08-11T15:07:04.862Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "S&P 500, Nasdaq open higher as investors weigh report of fresh U.S.-Iran peace deal - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVjkzU2JZemo3b1RFMlU3SU1qeTE0NEY0eHBaakpscDY4blhsX3c5VFdFUmxkWVk2Yk9ab040Z1dRbEN4SDMwQU9fSnFrWUN2SkZHNzZqOFRJc0FXWUNOZTFRTnRvX0hqRTFfMGdBMnh2S2lPMjlqZ01kSFNyT0dqLVZMNDBZcm13a01lQWdScHVhSUFXQ215cjJGWXg2T180?oc=5",
-          "pubDate": "Tue, 11 Aug 2026 13:35:44 GMT",
+          "title": "French press body asks competition watchdog to take action over Google AI - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcDJvQkhzeGlfOGhHZTZ6V2FVZlZaRzNsbk51TlpwYms2ZzlfVnhjcTc4WDl5TjB0c2t0Yml1eEVSX2tuRHNPOWtnLWtvZFRSUkZOME5FMklZc241VE9GSkY1R2xORmt2NEVYX3FSS0U4VzM4QXJRR282VTEzazdVLTVSaWlaQXRhSHpJTHloSmR1VjhGTllKRlZWekNwSTVDTWJz?oc=5",
+          "pubDate": "Tue, 11 Aug 2026 14:38:14 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Latvia finds tunnel under Belarus border, vows to combat people smugglers - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTEVnVFJoVDBRZ0hhMHJGZEpxZzJKdW5TSUpHVXZYSnkwX2sxQWZQb1VFTjQ4V1M0TkdOWmU1YWl6WGt2OXVLWFV2c1RTWWdUVFhTcUdpWjlNcDNXSHFvZHlTbkNCSExiRmMxSUxteTJyX1hSSElrVWJ2YXBLS0doOEstbDduNFJIV29GVlVsVVp6QW9GbFJ6THllT1Z2RUdQR1RZMVk1bkV3dWwxeFp6MGJVNklwaE90U0E?oc=5",
-          "pubDate": "Tue, 11 Aug 2026 13:27:43 GMT",
+          "title": "Hungary parliament elects former supreme court head Andras Baka as president - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOU3dlWVJ6OFQ1cWYtQWRtdk5Mbk4waXkzWVhLNEFrNkZWbXpMc3NXazZSZ2xiUVZPN2NZbnpNNjRtOVp1TFJqX0hhV2xJNkNVRUhrQktLalJ0aGlURVR0Y1Z0NGhSUVh2eTNrSzF3c0VvSjNRZkUzamxzSlc5NnVpU2h3Q01SOGpJOTdzbVhoeXJHcnpUWGZ0QnZsaVhwdWtsWlpqaUxMcEQyTVBLTWJJYTFxTUZjZw?oc=5",
+          "pubDate": "Tue, 11 Aug 2026 14:34:43 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Jury in Luigi Mangione's insurance CEO murder trial to be anonymous - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOc2hEc2dXbWpSTGZIdWkyVlhKbjhub2FkYU9ZSlpoZXlZYlBBUHdlRFR0OFNEN0Q3VUdfVGd5OFZxNEVNbldLMmgyaDZfZjBXMU9tZndFeVViNzlmb2R6Wm9pMG1rRGQ1SnRUNTNYd2pOTFVHVi0yREk2OHZ1eHZGYXVGc3FEUEtjdE03MWdGZnF6OGNycGpNeXJvcldOUWYtSmdjbU5GWXJxQWx4aFlB?oc=5",
+          "pubDate": "Tue, 11 Aug 2026 14:31:40 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Russia frees ailing ex-US Marine Robert Gilman from detention - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTXpnZnBhTlBSWUJfd2FMRWtYLUVtT09XU2RzYjV3OThoZWoyYzlneEhJWjBfVDVkb1dEYjhtd3FzLXliaVpGbWRjSXZhVDNrNVhOOEtzVGdQYlBwXzNaS1Jab2xzQTA3V25abXFwVGY3NkdBeE9kRTA5V1hia0t0TGpZUVJvanJ3QWpqdU9wdWxtN2gxenA4QmEzRjRwZ28?oc=5",
+          "pubDate": "Tue, 11 Aug 2026 14:27:59 GMT",
           "source": "Reuters"
         },
         {
           "title": "Taylor Swift wedding-dress fever puts bridal brands on high alert - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNT2NyZ0RTTVhkaVExNzJ4d1JkVUxKY0hoOE8yckk4dkpDZGt6UVBRUDhxTm9JcEFZLXdjdzUyRldhMkNGQVFFdjBGcFQ4aHhQTjdYN29neWcwRDUxU2RMTW85bXhvRGlMVXd1d1dQcmV2WksxUWxyUjR5QnI4NWxvSTM4T1NHeF9vUlcyM2dhQW1LaUtsbmN4OUJxc3dpOFFUTDZrVVNpUGlydlJI?oc=5",
-          "pubDate": "Tue, 11 Aug 2026 13:03:44 GMT",
+          "pubDate": "Tue, 11 Aug 2026 14:17:13 GMT",
           "source": "Reuters"
         },
         {
-          "title": "US fuel sales to Cuban business bring a glimpse of capitalism to Havana - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYnMyemdyTXd6SlJlZE1sTWM1VXhPV3NuVTJwRHJhUEVQa1NBVWpDT1pGZnNRcUZFOS1HSG5Ga2I0dW11S3h6eHNyUWI3SWEyb0hKSWtMdEZsdXJveklJNlAzZGNrRGhmTjBvWTgzWkVoTVBPQUxsRmJ6WDRuemRVR3JBdnRkSHVocFZHdGhrUzYyTk5wTTZtYUlNUmF3NllwcGxvU3U3eFpMVmwzcDd2ODJn?oc=5",
-          "pubDate": "Tue, 11 Aug 2026 13:00:19 GMT",
+          "title": "Russia's Sibur petrochemical plant in western Siberia shut after drone attack, sources say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaUk4OEtuQkJoalZXZFBfS0RPVHhicHktZkwwN3VoOTZPV0JUR0wxakVueUpUU1g5V21HcERUOTg3ekxGSjNhQjFwZnY0aU5uRWsySDVBRkpLUmNHZm9jNWd2NFJxZU1rc3JsT2k2X3ZrcFlDaXpXQ0tveXJMSWVNWU90Znlla1V6YVc0bndkWWlMMEk4MmpjbUdBTFdTTS0zenFQY1VMT3I4RVpCUzNCWkQ3WlNQYnpmd1p4VExobWdXSlU?oc=5",
+          "pubDate": "Tue, 11 Aug 2026 13:47:39 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Trump boarded secret Turkey flight via catering truck due to Iran threat, reports say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPREluUlJXa0tGLWNUdk9DbkpRazRWWFZyQjlnblJiaC1xc3N1c2hUOXIwVGgwZXU4dlhfcERmX3MxMUltNFJ2TWVxb19ZbVRjRk00eGVWUlR0cW5jSTl5Y3M2dWhJc1I4NVVNdlV2a2U1MmR5Q2FaYnlhMk10a1lmNFNXQTBQZm5xaklVQUM2NlppTU9zeHV5ck9pTE1UVWU1eTNxZzB3d2pQNzkwQlhRTWZCbDhaRkZXR2pHR1FJYkZYanp2N2VIbmxkc0Y?oc=5",
-          "pubDate": "Tue, 11 Aug 2026 12:57:35 GMT",
+          "title": "South Africa mine dump collapse kills 14 illegal miners, police say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaFI5R1VuQTM4WHNtYWRUTWh2dW9UTWI5ZUNWUEFrQ1RhT01GRm01c21BX1poeXhjVzRDY29kZXpUOXk2RmZ5LXJleWt2TkRXN0RtVVJldkhJYkoxVnZkdDQwMmNtZ1psb2RqRW5rQ19sREFCTDd0d21qc2wwWEUxZm5OUlpQcFhlUTJ1Z2VrSHFHQUwwdTMybU1hc2lTWEZWQWJIaXVWUERsTER4eGZhSDZENGxGSTVRaGZIQQ?oc=5",
+          "pubDate": "Tue, 11 Aug 2026 13:38:09 GMT",
           "source": "Reuters"
         },
         {
-          "title": "US fired on Panama-flagged ship that tried to break blockade of Iranian ports, WSJ reports citing US official - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTElqUlBOZlk3YzNMRzFoNEV6S1MxOXFhTXRaRF83Rjdzc1FxYUZZV3ZOZnJibWdPNmN5TWtrQnVRYzFyTWkwbjRVRjRqUWxhbExsdUxRN2ZOcDlwYV93U1ltaWRJdy0xYlBvSzhFLXM3TmV4VG1oOHRDWEdGTW44UEo1RkJDY2tqUG1zbjd5U3JSd1pDNVlpOTlxckxSYV93VXVVM2lpT1JGeVo5TmVUOEVZTEVsaVpLNk9BYnFqOWRTMHRoMElia2Nodw?oc=5",
-          "pubDate": "Tue, 11 Aug 2026 12:43:04 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Swiss government rejects rigid interpretation of neutrality ahead of referendum - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNY2lRS1lhRm9pX3V6bTlDbTJsMEVZMkFhTGJSNU9Tbk1oM0RIVE9QY1BabHVvSGpob1BkTFJ5a2JGMlNYODRaTlJielpNQlVpQV9QRDNFR3VIMjZDdUNrVTZneXNiQWlzVVF5QXVlejltVUZONnI2NDBEcVJsdXVMTWdqUGhfLVJHMW5maW1ab2czTG9uM2lPczVYM0NUcU9iSmZYLVJwemNVN0VtQzU1RUxJUUtvQQ?oc=5",
-          "pubDate": "Tue, 11 Aug 2026 12:34:44 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Meta and TikTok agree to fact-check content on Spain border crossings after deadly rush - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWl9feWhQdTVlYnFhSjgzSml1UEx5dTFuQ084SVp2UHdxVmIzX3RuU21FQXRFR1Ryeks4bllBRjUxR2g1OWl5OVJkVWE2OUtROVhEOWc4RUFpd1Jxek96aWlqSzV0dy1FcUdVaV9ZX1ZTN0J4VU81cVRuOHljaXVIWHpYQkhCQlZua0ZvZWpwTXV1d05GOElka1JncHRXbHZKRGhlbEU2dDJlSVMwQ0Q3dk9Ya1FubFhkNGdzLQ?oc=5",
-          "pubDate": "Tue, 11 Aug 2026 12:27:49 GMT",
+          "title": "S&P 500, Nasdaq open higher as investors weigh report of fresh U.S.-Iran peace deal - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVjkzU2JZemo3b1RFMlU3SU1qeTE0NEY0eHBaakpscDY4blhsX3c5VFdFUmxkWVk2Yk9ab040Z1dRbEN4SDMwQU9fSnFrWUN2SkZHNzZqOFRJc0FXWUNOZTFRTnRvX0hqRTFfMGdBMnh2S2lPMjlqZ01kSFNyT0dqLVZMNDBZcm13a01lQWdScHVhSUFXQ215cjJGWXg2T180?oc=5",
+          "pubDate": "Tue, 11 Aug 2026 13:36:31 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-11T13:56:27.065Z"
+      "updatedAt": "2026-08-11T15:07:05.322Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-11T13:56:27.270Z"
+      "updatedAt": "2026-08-11T15:07:05.568Z"
     }
   ]
 }
