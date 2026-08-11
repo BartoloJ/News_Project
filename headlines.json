@@ -1,9 +1,15 @@
 {
-  "generatedAt": "2026-08-11T16:25:49.039Z",
+  "generatedAt": "2026-08-11T17:30:47.755Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Russia releases former US Marine reported in poor health",
+          "link": "https://www.bbc.co.uk/news/articles/cvgj4m8e1ryo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 11 Aug 2026 17:02:22 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
           "link": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
@@ -29,12 +35,6 @@
           "source": "BBC News"
         },
         {
-          "title": "Russia releases former US Marine reported in poor health",
-          "link": "https://www.bbc.co.uk/news/articles/cvgj4m8e1ryo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 11 Aug 2026 15:47:53 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "Houthis reportedly kill four in first deadly attack since start of Iran war",
           "link": "https://www.bbc.co.uk/news/articles/ckg9wpmzmlno?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 11 Aug 2026 15:41:13 GMT",
@@ -54,7 +54,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-11T16:25:47.707Z"
+      "updatedAt": "2026-08-11T17:30:46.083Z"
     },
     {
       "name": "NPR",
@@ -90,6 +90,12 @@
           "source": "NPR"
         },
         {
+          "title": "Alabama holds second primary Tuesday, leading to confusion, concerns about low turnout",
+          "link": "https://www.npr.org/2026/08/11/nx-s1-5927490/alabama-primary-election-2026-midterms-redistricting",
+          "pubDate": "Tue, 11 Aug 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
           "title": "In Minnesota and Wisconsin, competitive primaries will again test power of progressive candidates",
           "link": "https://www.npr.org/2026/08/11/nx-s1-5927455/minnesota-wisconsin-primaries-hong-dsa-crowley-lindell-craig-flanagan-trump",
           "pubDate": "Tue, 11 Aug 2026 05:00:00 -0400",
@@ -100,16 +106,10 @@
           "link": "https://www.npr.org/2026/08/11/nx-s1-5927230/national-guard-dc-anniversary-trump",
           "pubDate": "Tue, 11 Aug 2026 05:00:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Alabama holds second primary Tuesday, leading to confusion, concerns about low turnout",
-          "link": "https://www.npr.org/2026/08/11/nx-s1-5927490/alabama-primary-election-2026-midterms-redistricting",
-          "pubDate": "Tue, 11 Aug 2026 05:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-11T16:25:47.943Z"
+      "updatedAt": "2026-08-11T17:30:46.362Z"
     },
     {
       "name": "AP News",
@@ -121,9 +121,33 @@
           "source": "AP News"
         },
         {
+          "title": "Trump used elaborate ruse to fly out of Turkey following summit because of Iran threat, report says - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaWEwRVJMUWthdlFuSTV5N2ZqaDA2TXViaUlic1NJSlgtbXNKYzY5Qnh2d0QtMGRGYTg1QU5uUFNaY2xXOEpPenR1TEZrWGJIT2NxTFFtUE9yZFlUdUlKNFNfRUJ0MV9wT3NjdkhXYWVKN1NTeUh5c1JlTzNiMUM0ZzNyZXBmX0dkdkxWTHktRG9HeWpQMEE?oc=5",
+          "pubDate": "Tue, 11 Aug 2026 16:13:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Toyota recalls 655K Camrys over display error that may deactivate turn signals and other indicators - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNkFjTmlkWVBSLXh6TW94WE9fbGxsOHhDLUQwZ0pkYTVlQ1Vxeks2OU50LUstbFRPV3Vtb1hvQXdIaUFSZGE3enpQSHFuanNCMUtJZUh1QkJPSnNYTTFjQkNjTjVYR0pLSENuN1dGY2RSYmFBbFFLSUZpS1EtVVRxRXkyWEFoZTdYb3psN1VmY2JnbVo2NU1uSnln?oc=5",
+          "pubDate": "Tue, 11 Aug 2026 16:03:48 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Taylor Swift, Lyle Lovett and more are headed for Nashville Songwriters Hall of Fame - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY0tCV0paNmZFTndpZWI5Q1VZOFh6b0pDZ2RRaWY1QUdLcHJpVG5jaWxtRXlsSGVCWFpac29zQV8wa2pZbWFqTW9oNTlHQ3B5VS1VNFdwUmpXd3JsVjlWLVo1eU55US1KRjhqZ2NBck14UWkxS0RjbGMzNUdoUGNudUJHTTFwRFFLcmlwOExIYkFzbVNINnJHZE16MlZkN3JTNXF6azdVT0M4VFk?oc=5",
+          "pubDate": "Tue, 11 Aug 2026 16:02:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Former US Marine held in Russia for more than 4 years has been released, his advocates say - AP News",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOGY2X3hsV2ZqU20tcG9taFJfTDVrZHFqTU9wLXhEMlhvbTd0Und6QWE4VloxVkk2WjBEVDFpTTlHTmN2SkhndmtYTjRzMXZETDQ4UjhWYzNiZDFHUEVhdW1HRzNmRmtBMzQ1ZkctQ3Q2aGdORmpRM2YybGtPS1RuQlhxSzRLOGlibDIyREFVWWRfdGlXZl9HMzNtSkhBSjdy?oc=5",
-          "pubDate": "Tue, 11 Aug 2026 15:50:00 GMT",
+          "pubDate": "Tue, 11 Aug 2026 15:15:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Colombia searches for over 3,000 missing after a powerful earthquake kills more than 100 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMnk3enhDLU5PRHZPNVlfdkVRb0t5ZjFPYmExTFlGcmIzVnh3eDNWQ3loVVF6MEg4ejNZOE92YkxKc0lpNE5pcXRQYnhPRXFWV05QUnpmNE0tMXZkVVU3YndadUxkampNUWx0Q3JqdjY3aC1Wa0pYT0dwVzgyT2JpVDMwVnAteFdDT2NXTXFOLTUwR0x6X01z?oc=5",
+          "pubDate": "Tue, 11 Aug 2026 15:07:00 GMT",
           "source": "AP News"
         },
         {
@@ -137,38 +161,32 @@
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWkVQdkVnS3JpYUFkTkU0dVJabzltOVJJLUs4YzduSVBBWkd1OG9vSENiaWtzWWNGZFBxNU9MRnBVTndSUDlneS1TcmVqN1FNSDA0eHdIOHVNRlNGZGpqY2xwX0VqVlRRVW5sTzUtRWFobzNfcS1pV21DX004MjJtOW50TWd3QW5CZ0g1WE1iNnR3aUQ2WkNDR2R5UTNsMHVQVGZfd2tERFRYVjNhTTFWN0M5ekhSTzQ?oc=5",
           "pubDate": "Tue, 11 Aug 2026 15:05:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "US existing homes fall 1.7% in July as record prices, high mortgage rates stifle would be-buyers - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRHJlUU1TNS0xMnRSWkFhWUVqLW1QVldXTXh4RjZsanlJUUV1UFZiUU5QY1JLR3lnQ0Y3OXZ2cWd5NjdJTktqZExidGNhVUJxcWpjcDk5cHdIZGZtU0NzaEhxUVVydXFYcm5GVEYxa1JlY29zYk1pUVdWd19PNkQxYjBKVXBveFlJZENMc2Z2VTNtcENYNThBMg?oc=5",
-          "pubDate": "Tue, 11 Aug 2026 14:55:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Groups sue the Trump administration over its targeting of the International Criminal Court - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYmtEZUtuNVVkZEp3ZkNjejZuTEQ0TEdONnF5TU9CenhoWERab2MxUEEtOHRNeUVBbTE2MThfTFZDdlNmcFhHMXNBTkF1eGFXcnBhNUFLZzU1MU5IdERFUzBHOUh2Y0V6QnEtWkRFRWpFbm9NTFotRmp4bXBuU2FDTzFQVVhtQ29aaWtVakR2ZDlWVkt4Ym02dThjaVZpNmp4QmIxTkRNSEI2WDZDbm5scDZR?oc=5",
-          "pubDate": "Tue, 11 Aug 2026 14:41:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Democratic Arizona Gov. Katie Hobbs chooses former Republican Mayor John Giles as her running mate - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTV90bXNlMjZmNWJqUlRuTk11SG9aUmY4ZXRxQXlRYjFQSzdGMjRLX3FacHdRTlljTUpRamhWZ1JxdjdzYlBxdldBRGxwWGQ2MFFvcmJ1U3NmSEhKbU03YnNpZE1MVjR3dEhjMHV5c0Jna1h4bnphU0l0U3o1SjdEWl95N296S1UyUk1DMllCcVFHTjVLekVOMEFaWDNxZUtsR2NlM0xFQzhxU21oTmlv?oc=5",
-          "pubDate": "Tue, 11 Aug 2026 14:28:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Hungary’s Parliament taps András Baka as president as part of Orbán-era purge - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTmdkeW5wTHlBbjd5ZUNTZERuTTB5WGNJMjNOU2piY0dxeWdUaGduanYyM1lhV1RGcDU0Zmx6dkFTYmNBNnFMdkhBbUlZcGo4TE1hZF9nTEdjSzRXMVAxdXE5MEtLRC1uUVNDLXZ3OElMNUJPWlVPSGpEY1ZvT0tnbWVTY1JhRUlKaDBScGNQUXV3SzdlZ0RmQlRuaWY?oc=5",
-          "pubDate": "Tue, 11 Aug 2026 14:19:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-11T16:25:48.403Z"
+      "updatedAt": "2026-08-11T17:30:46.925Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Wall St inches lower as tech drags, US-Iran peace optimism fades - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVjkzU2JZemo3b1RFMlU3SU1qeTE0NEY0eHBaakpscDY4blhsX3c5VFdFUmxkWVk2Yk9ab040Z1dRbEN4SDMwQU9fSnFrWUN2SkZHNzZqOFRJc0FXWUNOZTFRTnRvX0hqRTFfMGdBMnh2S2lPMjlqZ01kSFNyT0dqLVZMNDBZcm13a01lQWdScHVhSUFXQ215cjJGWXg2T180?oc=5",
+          "pubDate": "Tue, 11 Aug 2026 16:57:50 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Insight: US fuel exports to Cuba spur chaotic black market - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYnMyemdyTXd6SlJlZE1sTWM1VXhPV3NuVTJwRHJhUEVQa1NBVWpDT1pGZnNRcUZFOS1HSG5Ga2I0dW11S3h6eHNyUWI3SWEyb0hKSWtMdEZsdXJveklJNlAzZGNrRGhmTjBvWTgzWkVoTVBPQUxsRmJ6WDRuemRVR3JBdnRkSHVocFZHdGhrUzYyTk5wTTZtYUlNUmF3NllwcGxvU3U3eFpMVmwzcDd2ODJn?oc=5",
+          "pubDate": "Tue, 11 Aug 2026 16:23:09 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Phillips 66, Kinder Morgan, HF Sinclair approve $5 billion Western Gateway project - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNDJZYXlmeHY2TjJnQWt0SHJqRU0tQkNVZldFTy02QmtCOEEtV2EtdF9ta3UwWWJiZzRHaGV1bUhjeDNMY0hUZUl6SFVYWVNiVjIyQlFXdjZ5bTliRjdiZ1JRLTJPc0EybHpJYnloVDhOQmlqeXdTMmhxVXN1dVBmWjNWTGU0elZUTkRpNlV5blVvSUI2RTVzaVNvYXh3M2RVRDZiX251OE1MekhxSE9icjRQNmM4dm1QMGRucExxZlp0NUNYZVZ6VFBB?oc=5",
+          "pubDate": "Tue, 11 Aug 2026 16:21:44 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Norway wealth fund CEO says fund's entire value could be lost if market collapses - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUXM4c0FCQ01mNlZ0S2RJNVZWdnBiNHFSYjRnWFFEZ0VYR3U2WWw2bjFkdWwybkEwZDJjeTI1aE9rQ1ZRTUVrVWFuN1FaYXdBSUllVVZZeWlmUEVBd0FIbHM4TElBd3FKUnlpalJSR2NxaVBidjJ6VFN6dXNUZmlKQWhMREZvZnVheEk3VDRrTXNyOVhCT3pCQndxZEFkeXdrVUVVeTBpWkt3TGVLaTMzVFhnWW51UVp6Rnd3YQ?oc=5",
@@ -188,38 +206,20 @@
           "source": "Reuters"
         },
         {
+          "title": "French press body asks competition watchdog to take action over Google AI - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcDJvQkhzeGlfOGhHZTZ6V2FVZlZaRzNsbk51TlpwYms2ZzlfVnhjcTc4WDl5TjB0c2t0Yml1eEVSX2tuRHNPOWtnLWtvZFRSUkZOME5FMklZc241VE9GSkY1R2xORmt2NEVYX3FSS0U4VzM4QXJRR282VTEzazdVLTVSaWlaQXRhSHpJTHloSmR1VjhGTllKRlZWekNwSTVDTWJz?oc=5",
+          "pubDate": "Tue, 11 Aug 2026 15:43:16 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Pakistan says US and Iran close to 'some sort' of deal despite attacks on shipping - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVzI4ZllHeXZmVDVJVE40M0w5NkYtdkFzM0RyYlZvY1pXbEJoc1d4RHNvVWxTem1kMEhGNUxmc0tZZmZ2ZkpZamtDNkd6bjRTVXhCVEF6dGhOSXltR0RQc3RPc0RFUzctZ00xRjAzX0hwNy1oYlU0a0dMYU9iUjdqYXZ4ZWM5YXhBMUhEREduYVo2QkVsT2ktQ19NaFNpUF85TmhFcnF1REktbFZfRklXb0EtbzZsLUZ1Vk53TFRR?oc=5",
           "pubDate": "Tue, 11 Aug 2026 15:34:45 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Typhoon Dolphin floods central China, puts Beijing on alert for heavy rain - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPX3REYmlxMFRqOEdlVDhZVjhUTE1kaTAzbkxRRlVTNHFfclRYLUxpRGJMYVV4R0IyWVFEVnVHdVZzS1p0Smc4U3FuNnQ3T2phRmVieC1ET3p6YTFRSnM1RXZuNWpOUHp6M2lvSms1UGU1LXBaXzFONC1XVUxTRFBRa1Fkd1VvbUIzMFZjSjhwVHk2em0tLUwwSmk4NEZkZWN0Q0ltTFlYeWJvSldWR1BqRnQ2c2lCT3lBQ2lhVnFwSGphemp1RllERQ?oc=5",
-          "pubDate": "Tue, 11 Aug 2026 15:07:23 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US fuel exports to Cuba spur chaotic black market - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYnMyemdyTXd6SlJlZE1sTWM1VXhPV3NuVTJwRHJhUEVQa1NBVWpDT1pGZnNRcUZFOS1HSG5Ga2I0dW11S3h6eHNyUWI3SWEyb0hKSWtMdEZsdXJveklJNlAzZGNrRGhmTjBvWTgzWkVoTVBPQUxsRmJ6WDRuemRVR3JBdnRkSHVocFZHdGhrUzYyTk5wTTZtYUlNUmF3NllwcGxvU3U3eFpMVmwzcDd2ODJn?oc=5",
-          "pubDate": "Tue, 11 Aug 2026 15:02:37 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "FlightAware sues Kalshi over flight-cancellation markets - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM1hSR282WnlrOEkxc2hWeDJYdkFHWjBIVm9tb0p1bmViU0steWR2ZW9JUnVHRjVZZ3NXb2s0RFZqOVVCRVFERjB5N2RtcmtfbllJQm1MdnVGaThvbjVpaEs4XzVCeFZ4U1BQdS13V21JS0lnNHRvLWxRQ0xQT2NuTXd1VW5pS1EyTF9aM2JIcmZza3EtWVg1Z18tcUpIcDJYbkNISkY4M05aTE1ub0E?oc=5",
-          "pubDate": "Tue, 11 Aug 2026 14:58:07 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Four crew killed in Red Sea attack while missile strike reported in Gulf - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWXg2TDlnMzVlaTc1d1hoaFVFTG91b29XZzlBMC1hNGZ1REtpdDlTLXZFcGF5Mjg0N1ZvaVpSZlpEYkR6TUM1Mktja1k2TDdIVGlBZHBrMEFGdHNXSFFQV0s0eEY3aHRBcXNxa3FKUkR6Y1RmSVZOS0lwbGVZTVFKX3VUMzU5c2wwZ2VjZ1pqWU1PeDNhb0lOeFlzcDFnN1lS?oc=5",
-          "pubDate": "Tue, 11 Aug 2026 14:45:38 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-11T16:25:48.846Z"
+      "updatedAt": "2026-08-11T17:30:47.454Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-11T16:25:49.039Z"
+      "updatedAt": "2026-08-11T17:30:47.755Z"
     }
   ]
 }
