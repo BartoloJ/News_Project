@@ -1,9 +1,27 @@
 {
-  "generatedAt": "2026-08-11T23:18:58.499Z",
+  "generatedAt": "2026-08-12T00:08:15.984Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Russia releases former US Marine reported in poor health",
+          "link": "https://www.bbc.co.uk/news/articles/cvgj4m8e1ryo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 11 Aug 2026 23:33:45 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "These seaside apartments were a ghost city - then police say scammers moved in",
+          "link": "https://www.bbc.co.uk/news/articles/cx2kvlye1k5o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 11 Aug 2026 23:31:18 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "How a 97-year-old escaped deadly Indian floods on a banana raft",
+          "link": "https://www.bbc.co.uk/news/articles/clye8332d63o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 11 Aug 2026 23:11:32 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Anguish of Colombian brother at rubble of building being searched for earthquake survivors",
           "link": "https://www.bbc.co.uk/news/articles/czxerlglgw5o?at_medium=RSS&at_campaign=rss",
@@ -33,28 +51,10 @@
           "link": "https://www.bbc.co.uk/news/articles/c20dqd9qwq4o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 11 Aug 2026 19:09:52 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Former judge removed by Orbán elected Hungarian president",
-          "link": "https://www.bbc.co.uk/news/articles/clyed7rem5no?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 11 Aug 2026 18:34:39 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Russia releases former US Marine reported in poor health",
-          "link": "https://www.bbc.co.uk/news/articles/cvgj4m8e1ryo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 11 Aug 2026 17:02:22 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
-          "link": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 11 Aug 2026 16:19:44 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-11T23:18:57.068Z"
+      "updatedAt": "2026-08-12T00:08:14.536Z"
     },
     {
       "name": "NPR",
@@ -109,11 +109,47 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-11T23:18:57.373Z"
+      "updatedAt": "2026-08-12T00:08:14.893Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Severe weather knocks out power in Illinois, Indiana and Ohio as ‘ring of fire’ strikes Midwest - AP News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTGRDbGhWcVhLSmJRcXdOSDhuc2ZIR1hrX05MeEFDRkZ3dHZGcGp5bU1NVk1EWmV5Z3RwTk1DdVdUU2tuVVhIMUVPaTdpQk1ZaDFodEV5Tkl3dE9lWloteVhTdXFGWEc2YjBkZ0tYWldCZUpNQkdBMndYNFRPbGlEc0lwekRjWk9CQ3gtazdBYXhyUVlnQ3cwbUNxYkN2dGU1?oc=5",
+          "pubDate": "Tue, 11 Aug 2026 22:54:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Why the elaborate ruse Trump used in Turkey isn’t like other secret presidential trips - AP News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbVV1RWxfQzVfNS1IeF9sWDl4UGFjTWR0ZUlWTDZJR2t4ekRRRENZdmNZMmZCMGtGM2VEOWpFX21jQXRkZ0NoUkROZWdWUndfZ09uNy1odFpDellLYXFnaFJiSlVxeFQ1T1lBTGJha1pqbWd6LU9JVWotNVE5MTVQeGpxX1Zqa0t1MkdxZ3NOOFRzdnVsT1d6TkFYSGREVkRm?oc=5",
+          "pubDate": "Tue, 11 Aug 2026 22:38:38 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Former US Marine held in Russia for more than 4 years on disputed charges has been released - AP News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOGY2X3hsV2ZqU20tcG9taFJfTDVrZHFqTU9wLXhEMlhvbTd0Und6QWE4VloxVkk2WjBEVDFpTTlHTmN2SkhndmtYTjRzMXZETDQ4UjhWYzNiZDFHUEVhdW1HRzNmRmtBMzQ1ZkctQ3Q2aGdORmpRM2YybGtPS1RuQlhxSzRLOGlibDIyREFVWWRfdGlXZl9HMzNtSkhBSjdy?oc=5",
+          "pubDate": "Tue, 11 Aug 2026 22:31:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Vikings pick Murray as their starting QB over McCarthy, giving him the rest of camp to get ready - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSVB6d0I3VVdGRDdtN0l3T1hleUI4bFgyZ2RkSXJPQnUxVkMwVVVFRnJiZUFuUTBhbDJFcHZ5V0hmcU5FLUJ5aDAyWUQtOHd3SGtuSURxZkdTcjUyVHBJWWVLSlh0cFNXSC1WdUxyaW1BOG04X195em9BcTNEMVB3aUM0UVdDeEVld3pDUFdZUkExOFZ5R0g0NHp3?oc=5",
+          "pubDate": "Tue, 11 Aug 2026 22:31:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "John Gotti’s grandson kept trying to delay prison to donate kidney to mother. A judge said enough. - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOd25UXzhvcXJRUWo0ZXVLRVBnWVdibmdGQ1FET1RwaDFETFh3ZHppM0ZvaUN4VWhDMmlFNHZlYVU3R0VQcHhyUDBmYkxCLW5wOGxPTmlDcTk2cjZDR1ZXM1ZnYmROY2h4WFFhb21TS3VZLWxnZnQ1dndXblN5dXhpMkRpekllVGtPaVpEVWwtTVRQb1ZHU1hQRjN3czYzNnh4MmkzM2ln?oc=5",
+          "pubDate": "Tue, 11 Aug 2026 22:23:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Judge again bars Trump administration from implementing order that sought to limit mail voting - AP News",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOLUhZaUdlUS1qRjBuR2FySzA4bUQweVFPT3E0X0tmaHBOMi1LRXp5TVU4V1BkbFBReXcxQU1IRmRscVQ3X0JTMlVjN0p1VWZqSjJKdkhFVGVZN2xaNG83bDN3SHZxZWJoSlFYZk5QOVVRTzd6Smc2dHJWdmlFZUk1RmlLOXNTU1lOQnBqb1ExUjI1ek5nbDhla01icDFrbS1QNnowSXZZbk5oa1M2OTVESGx1a0k?oc=5",
+          "pubDate": "Tue, 11 Aug 2026 22:20:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "As search for thousands of missing pushes on, Colombia earthquake tests new president - AP News",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMnk3enhDLU5PRHZPNVlfdkVRb0t5ZjFPYmExTFlGcmIzVnh3eDNWQ3loVVF6MEg4ejNZOE92YkxKc0lpNE5pcXRQYnhPRXFWV05QUnpmNE0tMXZkVVU3YndadUxkampNUWx0Q3JqdjY3aC1Wa0pYT0dwVzgyT2JpVDMwVnAteFdDT2NXTXFOLTUwR0x6X01z?oc=5",
@@ -121,105 +157,69 @@
           "source": "AP News"
         },
         {
-          "title": "High school football player in Arkansas practices with a venomous snake in his helmet - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVU9xYkdlUnF6bFpfaVp5S0QyaE03MXNFN3ZOWUlLNUtjZUpmSDRpemxHdE9YTWRtRnpqMlhnc2RoVlAxRDdhX2lNdlgwYnZxMERIRGZNNEhHX1Yza2oyRnlTRU5zZWZWNV9lcm1leFNzbElWV3ZlQUlHUE14cGhfQ0daNzhINy1n?oc=5",
-          "pubDate": "Tue, 11 Aug 2026 21:09:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Tue, 11 Aug 2026 21:06:03 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "US stocks edge further from their records as oil prices keep swinging - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSlU0dHBxc0tERE5PYTUyUVRDNTJTRl9ISXJyYnlFOEtvWllWWUtnV3lEc3JpNTRvb1BpLVVNdnNOdmFQZFowZDVOSVZ2dXlERkV4UU9WbDNzUk1SVS0zRkhxUm5VNnhnakNQaWlwS01ITjZvcko2dUxzVUNJM0FnZ2Zta2NLMHNxajZUby1SSmtlZ2NSQnBtRg?oc=5",
-          "pubDate": "Tue, 11 Aug 2026 21:05:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Cristiano Ronaldo and Georgina Rodriguez tie the knot after 10 years - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPLUtKaFdDb2VXRGF2aDcyRGpCV19fRmd5enBjV0tJRndKUE1FUVhvUWxDMDh4UjA3eFFtNU1fNzFXMjhOQ1dRbGFsUDRxRVdOa09XNDJ6bEdUbmFQREd5QlN6bXFqTTlvR2xkSTEzR1pCLTdRU01odWRLdVNfcDBwN2FvVzVSSXhrZ1hyMloyMzJHSGNxVFExUnEwVjFqVnoxSHQwcHNGNA?oc=5",
-          "pubDate": "Tue, 11 Aug 2026 21:02:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "A ferry capsizes on Zimbabwe's Lake Kariba, leaving at least 15 people dead and 27 missing - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUzNJZUtGM1RTbWZEeDl5LXJmdUl4c0tUNlZSVVBscURzYVh4MzBQcWxlUjZsdk1zUXhrRVlidURKck5Uc3I4RmotX1RfN1dCbDMyeEJORk02c2RYeXVvTlY1MDZYTjloZHFCZ3luTWN2cUFGOFZTZE8tRllvNWNEMjNCZGlER01RcjZjQTVKMU9SRmM?oc=5",
-          "pubDate": "Tue, 11 Aug 2026 20:51:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "At Lindsay Clancy trial, focus turns to medications prescribed before she killed her 3 children - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObFpENW83WUtrMjEtdUdrMmFTbWtKYXQwbVAxT0tHLWFpUVY0UFhwNGc2UDgxVERoZ0tRSEhSaEdEVzB6bUtLWE11RDE2WHA3UW5PdlMweXM2Zkx3a3VOekhzeFdBb3dXRkhCM29yWWlEbzlBSEY2a1dPMG9PaGpPbmpwdUJVby1xaVVCbmpFSktqRGNLZE1FNEVlc1U0NmI0MFBjelNadw?oc=5",
-          "pubDate": "Tue, 11 Aug 2026 20:46:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Deadly 7.4 magnitude earthquake hits Colombia, leaving widespread destruction, in photos - AP News",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNT0RjVGRZTkwyWVR4dFpXckFJRUdMdVJWcDNvQllJWVJqdjVjOUY5ajRmWnVwZERtRFplQVFOazVnajAyQWs1Z0ItdFJpcWZ2dFp0RXpzdDdqT25xaF9Iek1rdEMtWC1pQ0prSU5mOFV2NWVhNW9zQWRTZWJVYzJvaTBISU1fSFcwS2hSemRFb2tqemV2Z3JIOVNvampFMVhPMUhhM25IY2VvNGlwY3ZYNDJ0c1NfWS1YVUh6azRJby14bGFiX2VaR1VrMi12cF9HREhvY1JzSVlmWDlxWmpnNUZhMA?oc=5",
-          "pubDate": "Tue, 11 Aug 2026 20:40:00 GMT",
+          "title": "August 11, 2026 Primary Election Results: Alabama, Connecticut, Minnesota, South Carolina, Vermont and Wisconsin - AP News",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE56V0JkX0VjQ2E5QjVqUGNETWtjQmVicHVuTFowQnJIRWhsamVmdTYtOFNZOFpETFppM0dtYzdldjVlN1lGcC11U3dlVmU2T2Y4c0Q4TDRnLTFYNHR6MHg0TGQ3U0FPM3BmZlp3MDY0UjZ3X2pUdTRBZQ?oc=5",
+          "pubDate": "Tue, 11 Aug 2026 21:46:43 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-11T23:18:57.794Z"
+      "updatedAt": "2026-08-12T00:08:15.356Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "New attacks on shipping as Iran war talks hit fresh impasse - reuters.com",
+          "title": "Air taxi firm Joby acquires defense tech company for $500 million - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPR19tSGNrX0pFRjZvY0RpV0JCMWtnRGlDN2IzTHYyY0xFTDM3d0ZRSXh0UXB0bmFjclJKUmozbllfOTFnRW5yUF9kWTIwSEFuSy1DcDJ1eE5vdEhhUm92a0JxQlNYVXFCU2RLVGEwQ1BwM2dUSHQ2bG52Z0x0cDJMY3lfS2pHMlVNZ1Z0QXV4SnRRRks2dW1TSFBrcWUwdHI2a2twZWlCUktTbl9ZcW5ib2hqdFdKdk0wSlh6dllUX1c?oc=5",
+          "pubDate": "Tue, 11 Aug 2026 23:34:09 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "CoreWeave boosts 2026 spending plan, beats quarterly estimates on AI demand surge - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQVJvWFV5SDAtNEhEZmZINXZ6TGs5ZXd3bkh1NEJCNi03OWFMYzJtY2psZWowOEtsMHNHazdOMUdybnc3S01vUjdVX1duN3E2bUxvZXFPZDNVR29Obm9jR1JIU2xWR1ZhWGh5WnI5ZWxabVA5dXphWk1OTVc2UEV1UjZpMmpZWHg5dVpEaVFkUjd6dV9HaUxTQldpMA?oc=5",
+          "pubDate": "Tue, 11 Aug 2026 23:21:47 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "New attacks on shipping as Iran war talks hit fresh impasse - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVzI4ZllHeXZmVDVJVE40M0w5NkYtdkFzM0RyYlZvY1pXbEJoc1d4RHNvVWxTem1kMEhGNUxmc0tZZmZ2ZkpZamtDNkd6bjRTVXhCVEF6dGhOSXltR0RQc3RPc0RFUzctZ00xRjAzX0hwNy1oYlU0a0dMYU9iUjdqYXZ4ZWM5YXhBMUhEREduYVo2QkVsT2ktQ19NaFNpUF85TmhFcnF1REktbFZfRklXb0EtbzZsLUZ1Vk53TFRR?oc=5",
           "pubDate": "Tue, 11 Aug 2026 22:52:43 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Judge blocks US Postal Service from restricting mail-in voting - reuters.com",
+          "title": "Four crew, two rescuers killed in Red Sea attack; missile strike reported in Gulf - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWXg2TDlnMzVlaTc1d1hoaFVFTG91b29XZzlBMC1hNGZ1REtpdDlTLXZFcGF5Mjg0N1ZvaVpSZlpEYkR6TUM1Mktja1k2TDdIVGlBZHBrMEFGdHNXSFFQV0s0eEY3aHRBcXNxa3FKUkR6Y1RmSVZOS0lwbGVZTVFKX3VUMzU5c2wwZ2VjZ1pqWU1PeDNhb0lOeFlzcDFnN1lS?oc=5",
+          "pubDate": "Tue, 11 Aug 2026 22:38:27 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Judge blocks US Postal Service from restricting mail-in voting - Reuters",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNT3gxcU4tU2Z6TWNMR2VWV3B6TlA0cWdOYVFDejBMcnE2TUx3Q3gxMGJwMGV2MTJvajdiRWRkMkg3V1dtQ0xPYnZ3aWNpVkRBcFdVYW10blNNajFqN3EzWVNmUnpGTExjU0NrS3I5MlhYVnVPdWFzaFM3bkg3bzhpRnp5VXBoTXVNRnhNVV9RS1VUNHo4Zmd1ZkZUTVlfb2pm?oc=5",
           "pubDate": "Tue, 11 Aug 2026 22:20:50 GMT",
           "source": "Reuters"
         },
         {
-          "title": "North Korea fired a ballistic missile, South Korean military says - reuters.com",
+          "title": "North Korea fired a ballistic missile, South Korean military says - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcDVfd0tWeklYMkllazVablhzaXQxcllibnNjZDhBTXpzWWtPLXNMcWpWVUpJeXRQRUZUZ2x4LV9pQ0c5UmVlaWd4eVpYbGlQNHNXYnlYODZSSTB6QlF5Vzc1OEFpc0kwQ1l3V19aQmU0TnRxMk9NWUQxQ21leG9UUEkxNnYwOFhMWlpjdlRKc1BLcUszTzd4Q1JGSzRSNjI2LWx6Yk00SFZXYjA?oc=5",
           "pubDate": "Tue, 11 Aug 2026 22:11:35 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Super Micro forecasts upbeat annual revenue on data center adoption - reuters.com",
+          "title": "Super Micro forecasts upbeat annual revenue on data center adoption - Reuters",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNemJyeGtwLU1oZUFlRktXdmpLWGc5bEZHcEdBQjVxRUFlY1pueGt1WWYtVXQ2dDRhbldWRUhmSzFmVzRPZlcyVVROQnZFN3dEemRvOGRwcHpldHFJS3ZMR0toUS0xVi1NUnFYbll4WWpHendSU1paWTc2NGJuR09sdXVibzdLTERnSWN1anFKMDJVZw?oc=5",
           "pubDate": "Tue, 11 Aug 2026 21:58:53 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Romania could shut down nuclear reactor on Thursday as Danube levels fall - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcER4RXBhdDI4TUFTVGVuMWhWcm5Yd21hMkJ5RzZXT2c0VG0wWTU1Z0phY3ctVzRfMXFMWVI3TFZvT3pnM0NvLVdxamxxQmh5WE04bG9IX0dvbXlFLW9zYUdNMk5uekM2LXYwZ2lvTHh2UGNaakRpZ0Nnbmp6U05mWHZpTEF0ZHkzc3FEZUcxUWdDeFRpMDNHazJoUkdQR1VjRUItVHRfWmJGMUtNNzhSSXpqZGVuLUtrNjhJ?oc=5",
-          "pubDate": "Tue, 11 Aug 2026 21:42:12 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Syria sentences absent Bashar al-Assad to death over killings and torture - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOczRfNktLU3lTNHRHVU5wVWNGZUNaVFRZSkdJWnVyUUY3dlA4c3BmWVlHLWwxRzM0eHkzdlIwZVhDZHpGQWROUlAwbUJXcElYMTc2TExMRGh1R0xwY210RlZrYkd5N1kxTm93OVY4WFVHR1RhZ3hrUmRlclpjLWZhbFo1TmF1c3VhNXZFd2VMQ3E3ZjJmUnQxY01HYWVILXpQQ3NablB6YkZMU0xS?oc=5",
-          "pubDate": "Tue, 11 Aug 2026 21:25:43 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Zelenskiy: Ukraine has given US negotiators proposals for ending the war with Russia - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYUctM2tDd2gxSEhzQk9QV2dud0d0ajdkR0U2TmdlZ2VpQm44U1BhclBHQ184WVFFS1ZnX2l4c1dlb3FiMG9Ld0hSeUNJU0dFSTl6VHFzTVlRSXQ4Z3BUQWtvLW5oTFZJTGJiOG1Sb0dTSGN2V1lzcGJWemhYZjloZnI2YmtvcnZ3dHRGMkpSOGExM3RZTVFxeGFfWkNoXzhpUk5iX0QxVHVWYmpnT05rTnhFM25MeHNnek85UFlLdS15QQ?oc=5",
-          "pubDate": "Tue, 11 Aug 2026 20:47:44 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Democratic senators question Belgian diamond industry about ring given to Trump - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPV0E2Yk9Kd1NTbWJnRDhud3hLNnBqZE5BTmlWYVJCZ1NHY3dFenB4aWVCcGVZNXl5bEtQTGgyUU5ZMjNZb0xCNHJzNmhyNzM4V1FEaFo4RmZ4dl94SFQ2MTlMei0waTVuOXdNU180Z01YQklnNmlMNTNzeHVrSHdCVTJoME5GODcxNzdQWUtnRkYxdGZEWDliVk80WUU1QnU3LTNzNVFmU19MVnJoeFBiWlp2czA2RWo3dklERER3?oc=5",
-          "pubDate": "Tue, 11 Aug 2026 20:23:54 GMT",
+          "title": "US appeals court voids Biden-era efficiency rule for stoves, ovens - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRlp4X1ZZeEZmcnJ5UUxEVjhmTHV4am5PMUFXQUt2YWJGWG1XSll0S2xVSDZpcmpObW1SWVEwTVMwLVJaN2VyUkZqbEx2Rjdsb0xWX3pJbnhZc1NHUVZwS0Z3WXRIbEZjZWVzYTRNbDZ5dUN3Q0o3WHloWmdQUmRLT1l3aG9Kd2FTVV8zZUZmSHpYdU91WWdGUTlsRHZWdEJLTmFYbGZIbXJBUHUwalJrLWI5UVg?oc=5",
+          "pubDate": "Tue, 11 Aug 2026 21:51:18 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-11T23:18:58.187Z"
+      "updatedAt": "2026-08-12T00:08:15.827Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-11T23:18:58.499Z"
+      "updatedAt": "2026-08-12T00:08:15.984Z"
     }
   ]
 }
