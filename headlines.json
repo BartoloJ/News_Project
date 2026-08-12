@@ -1,25 +1,37 @@
 {
-  "generatedAt": "2026-08-12T15:08:05.346Z",
+  "generatedAt": "2026-08-12T16:27:12.933Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "Members of Trump's cabinet remained on decoy plane, after Trump's quiet exit",
+          "title": "Israeli settlers besieging Palestinian families in West Bank village",
+          "link": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 12 Aug 2026 16:14:08 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "LA Lakers to be sold in record $12.5bn deal",
+          "link": "https://www.bbc.co.uk/sport/basketball/articles/c04k2dn422xo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 12 Aug 2026 16:11:04 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Thousands of Canadians call for US ambassador's expulsion",
+          "link": "https://www.bbc.co.uk/news/articles/c9d83j4ql2xo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 12 Aug 2026 16:03:19 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
           "link": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 12 Aug 2026 14:44:48 GMT",
+          "pubDate": "Wed, 12 Aug 2026 15:57:18 GMT",
           "source": "BBC News"
         },
         {
           "title": "US inflation eases as food and fuel costs cool",
           "link": "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 12 Aug 2026 14:09:48 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Israeli settlers besieging Palestinian families in West Bank village",
-          "link": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 12 Aug 2026 14:03:48 GMT",
           "source": "BBC News"
         },
         {
@@ -39,22 +51,10 @@
           "link": "https://www.bbc.co.uk/news/articles/c75g9777wwxo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 12 Aug 2026 12:10:45 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Danube river's low water levels reveal remains of WWII soldiers and motorcycle",
-          "link": "https://www.bbc.co.uk/news/articles/cm2gp3zmkpmo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 12 Aug 2026 11:28:05 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Woman pulled alive from rubble 36 hours after Colombia quake",
-          "link": "https://www.bbc.co.uk/news/articles/cz7d2e5wlgno?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 12 Aug 2026 11:28:02 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-12T15:08:04.082Z"
+      "updatedAt": "2026-08-12T16:27:11.721Z"
     },
     {
       "name": "NPR",
@@ -109,27 +109,39 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-12T15:08:04.229Z"
+      "updatedAt": "2026-08-12T16:27:11.925Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "Earthquake response strains Colombia's new government and rescuers as they race against the clock - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcUVMM3B0dFY2Qk5WYnZROWNMYU5JckVUUmQ4U2dvV0FnQkRZNDdlZWFaSmtUREZtaDFmWjMzNWlRVkZCaFdCSTlndVBkcld3d1l2S0RwcGpkTTZvRXY4Mi1yS0Y3SDZjUloxTWlKVWhBanFpOEtzeFVndUh0WExKZFliYmswNVBKWWxpNFNFZy1aSEVxNnZRUmtrTVh3RUpUZEE?oc=5",
+          "pubDate": "Wed, 12 Aug 2026 15:57:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Arkansas high school football player practices with a venomous snake in his helmet - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVU9xYkdlUnF6bFpfaVp5S0QyaE03MXNFN3ZOWUlLNUtjZUpmSDRpemxHdE9YTWRtRnpqMlhnc2RoVlAxRDdhX2lNdlgwYnZxMERIRGZNNEhHX1Yza2oyRnlTRU5zZWZWNV9lcm1leFNzbElWV3ZlQUlHUE14cGhfQ0daNzhINy1n?oc=5",
+          "pubDate": "Wed, 12 Aug 2026 15:39:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "An overnight Ukrainian blitz damages Russia’s Black Sea naval stronghold, Zelenskyy says - AP News",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbS1PZ202OFpxcUktZG9xalEwRG56WGQwZ0JUODVjbEFjRU0xaHhoaDMwUkYxS05OUzlFN01hdnc4R0xGMUtoMkVKTUk0OHF6S3AyRFRkWXREOGMzNlFVZl9Calh1SlJBNDdLRUpRWWg1VDZJdS1zdGhsaUtjU0FOTk0zTE82X2JhcGRkZGFUQktXYm1tM0E?oc=5",
-          "pubDate": "Wed, 12 Aug 2026 14:12:00 GMT",
+          "pubDate": "Wed, 12 Aug 2026 15:38:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Inflation slows but prices remain elevated as Iran war and spending on AI push up prices - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQT1p4OTRrUDJrbTJJTmk5Uk05TFV3a2JDOXhXa0pXQm1EdWE4ZnE3WU1pQ1hEdG80RFd6bzQ2QkN2X2NjZnA4U19zZzBmMm1aaG1oUmg4LTZZY2NsSV9SeFpJamZZYVRXQXlXZ0VDT0tIRVo4M3B4WW1VZFltbnVLTkRiU01BN2szVncteXcxQUJFX01jTFdfTUR1MjMydGZjN1d3Wmp2QQ?oc=5",
+          "pubDate": "Wed, 12 Aug 2026 15:27:00 GMT",
           "source": "AP News"
         },
         {
           "title": "Eclipse excitement sweeps Spain as millions prepare to watch the skies - AP News",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSWxPSks4anlXZ3AwVXZ4YlRoMzYxRHFuc2dpTllDUTJrbHUwSU5LNzRyRnlzVmNDaWFtb1FZcFRVeVJJeHRBU1NDUVhnV21ycjM2cnNKbHIzN0JITzI0RVFBUmFoMTFCTHROVk91NWc2bngxRG5vZmc3RVVCeHdLcS11Y2I5dlhhUEM5Wm44cnRwR29OWjhjRnJhT1RZTFU?oc=5",
-          "pubDate": "Wed, 12 Aug 2026 14:00:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Inflation cooled last month as gas prices fell, though costs remain elevated - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQT1p4OTRrUDJrbTJJTmk5Uk05TFV3a2JDOXhXa0pXQm1EdWE4ZnE3WU1pQ1hEdG80RFd6bzQ2QkN2X2NjZnA4U19zZzBmMm1aaG1oUmg4LTZZY2NsSV9SeFpJamZZYVRXQXlXZ0VDT0tIRVo4M3B4WW1VZFltbnVLTkRiU01BN2szVncteXcxQUJFX01jTFdfTUR1MjMydGZjN1d3Wmp2QQ?oc=5",
-          "pubDate": "Wed, 12 Aug 2026 13:36:00 GMT",
+          "pubDate": "Wed, 12 Aug 2026 15:24:00 GMT",
           "source": "AP News"
         },
         {
@@ -139,87 +151,75 @@
           "source": "AP News"
         },
         {
+          "title": "Chinese automaker Chery buys Nissan plant in Africa as EV production shifts to new markets - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZVdWaWZaYW8xVjJYdF9YcTh6LTh0aFpTVk1XaXBmZmJpZW1janJZRXpDcjJjTTBFZ0s0cWx1SUFrRnlJOS1USl82ZzZNejhlTzM3NFJLWXRNYW53aVhnTi1RT2JKQWNPdzFvOHRhczI0NmhuSnBOTEJ0d2JiRkE4b2NJY1lOT1NCY2xkdk5KTDQ?oc=5",
+          "pubDate": "Wed, 12 Aug 2026 12:56:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Putin threatens retaliation for Western seizures of Russian commercial vessels - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQN2RXclZINmpYTFM5Wk4zbGdGdWwwb19Ba3ZveG5YSnpvRmNfbVVmRnNzcEtpWWdWZldMdXhWTHF3Q0ZjRFpCVENFOUNjOU9kZ09hT3I5Z2hWQUJKMEI2djBIdEV4VFE5eFVrVVptTmFtc256TWlhYWVCY2MtSkUyMDNhV0MzNFVfaFNUdG1GLVI2VXA5czk1czV4REhKZmpadjd5bUNoTVI?oc=5",
           "pubDate": "Wed, 12 Aug 2026 12:19:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "David Crowley wins Democratic primary for Wisconsin governor over progressive Francesca Hong - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQnJPS3JyQjJyTXo5SVVsdGljX1dTb1N6YTltOHlGQm1fNHNxMzhvMVRXUWVvcVVpYzhsaDd2Q1RKRndtbXNDUkJaMC14Q3ZFWXZSQVhMc1NQUEF2bzNoWmU3bmxxaG5HZzFDajB3OW9VaHNNX0N4S0t1emhrZFpxbzhBdEtpY1MzTE5YT3BkRTlYLWYxaWl5VHhVd3h0TFl6WUZn?oc=5",
-          "pubDate": "Wed, 12 Aug 2026 11:39:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "North Korea launches another missile toward sea ahead of US-South Korean military drills - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSnZFb3lBeVlieUQySkUtb2dJUXFpZzJkYlVCTkFNaDVwVVY4Mll0QnVDVTc3SU0yRFZNdjlUdF9QWkY1TzNsb3FIRUJnbDJSSjFlc3FCUERFeGZyT2U1dzRlN05xRTRlbkpPUENyd0FmZWpxYkUyTWZHaHJzMHR1OXNUdUgwVEY2cDhNaG1SZ0tOMERBRGowUDN1MzBXUm5qYU12QTVsMFE0RlhXV0E?oc=5",
-          "pubDate": "Wed, 12 Aug 2026 10:34:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "The cars that won’t be around next year, according to Edmunds - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOR1NJNmYwWHpLWXpaZ3N6TjRxUFFnV2JTTFBRbk56bE5IY1V5dkM0YzZDVk5mc0IzNlZWUHN3UVNYQkZFaXBSTmtzUHBXR3BEaFJkd21SclJ0TDZGZjhSTnphREhhUnQwbG1VaFhwYmQ3YmY2Q2QtZU1FVEdQZGNqNHg2R0ljT0FIekVjdWxtX3hhQQ?oc=5",
-          "pubDate": "Wed, 12 Aug 2026 10:27:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-12T15:08:04.720Z"
+      "updatedAt": "2026-08-12T16:27:12.348Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Zhu Rongji, Chinese premier who cajoled economy into modern era, dies at 97 - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUWFOSl9NWnkxNHllQ1VVWW1LWURuSFo4UllLX19rdUFIMWlNTmRMZFVOTU9pdHJ5aUVaU0NJQVQ3LVhVV3RGYy1WVWUzdkh1SFhtYVlQdzBWNWt5Zno5dE1TUUYwU1NMUFMzd3NJdmlrZ1NRRkpuM2RSdHNwRFpyX3BsVXAtaFZ6cGVWeVVSd3IxVml6Z09tb2JzVjAxRmxiWFFmS2s4Y0hEYlE2Qlc3MmRLWWRNZUU?oc=5",
-          "pubDate": "Wed, 12 Aug 2026 14:28:51 GMT",
+          "title": "Iran says no progress on reviving interim peace deal with US - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOel9GN09UcjUyQ2FnMF90ZWhiaFFEazlXcDM1aDZLbExtREZQLXFmOFgtTU92YWZxM19udFlOTkNHRjM1aFl1Qk0xcDhTSTB1ZnR0YnBxSW9xLXhRTHRoeXFtbW9nSy1IeGIzQkVOelJrNlRHQUg2dUJPZVM3T085QTFpbmtCT3JzQ29FNlV5bjhrUGdaSG1kRy1VUWR3dmxiU2RsZC0tMDdWNW56ZHFpTWVB?oc=5",
+          "pubDate": "Wed, 12 Aug 2026 16:17:33 GMT",
           "source": "Reuters"
         },
         {
-          "title": "US consumer inflation mild in July, but economy not out of the woods yet - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONVo4RlREbjZCeDFybnNPaTFlMDl0SnhGblQ3ZjE4NzA2WlVKU0diWDJqN1lPWXFvVk13eDY5TVhKYXROYXVJb2tLRzM0YVFaNXEzRWxLNWI0blFUSHZqbVN6aVRrMWFPR3Foa0hJd1FLZTluRVAtWlp0d3k1U1doeUhRVlRoRFltSzRneHcyYw?oc=5",
-          "pubDate": "Wed, 12 Aug 2026 14:07:38 GMT",
+          "title": "CoreWeave, Super Micro surge on signs of sustained AI buildout - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQN1NWQ1duSk1Sa2xQVHlVZjFyUUVmUDJleTJkOG9vM05LUjk4aWtsaUZoUTY2eWdWY2ZKcGNjaVd5Z0lULTFMNlBEeDhTWl84Q05vb0kzMjB6RjVtRkNTYmIyRkFOLWhDLWdHU2loU2ZTY0o5TURxTUFpb0hWejN6NG9VNE5RTTFTMmJzTVBYa3Q4RjhCRXpjek9LOTdnV01RRHc?oc=5",
+          "pubDate": "Wed, 12 Aug 2026 15:47:43 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Gulf oil spill fast becoming worst in years, agencies warn - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVGNVS3hTUTZFb3JqbU5JZTRLRzRFMWVrcGpmSmx1WHo4MUVraTRveDUtTEhqMFZGbnY1TFc0VDhwQlhEWEh2TTBIbmlfS2NYcVY5SXk5WExhTU5vMTdtSWhVREhqNnlZNzdqekJ0MVM3ZmtMa0p3UE1CWnRqSndGTURsM0ZaaEJIRzRPMS1LQVB1YVJMdXNnM0xXY0Z0WS0zZlJ2R2N5THM1a0NWZThJT0dHbFdoLWg2YmFTTlhvQ29IaHc?oc=5",
+          "pubDate": "Wed, 12 Aug 2026 15:36:57 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Putin says Russia will start seizing European vessels if its ships targeted - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQakNBZk1WeHVZd2NFMWx4QS04YWNWZDd2OTdUeGtEbGI1WHNBR3FFd3huTllRR1BUTEdJMjhBRS1JeEpoSWdUNUhsOWtpa1NRV2ZJOFZ6RXJYVmU2QkNuNEFzcUQtMXZvS0V2SDViQnRUZXFHLXd0c0UwVUFRLVRxTVc1MmhXbmtPQjc0dm40ektkVXpMdXpUVUUyRVJDYnJ6d015Ulp2M0I3Mk1sOWdYTU5Sdw?oc=5",
+          "pubDate": "Wed, 12 Aug 2026 15:26:08 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US to offer 81 million acres in Gulf of Mexico oil and gas lease sale - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMHRnTHhIVk9WTzB6bXlKN1dCM2VweVUxNVgzRHhNaEE5VUx4SmxIS2ZRQk8xZDlrbWk3LUJPMl93bDFXc0s1R1loQXl0MS0zQWxMREJCc1Q3eVF6Ykc3YXFBMkoybzc0Nm92U0dsU0QzZnJMU1B3N1JvRDlMZmtnZlBCTTlrQnhwQnhtUXNPOU9TVHZDeTRMVjhuUnBZZGQzWmpELWtXeWhGaWNOUEE?oc=5",
+          "pubDate": "Wed, 12 Aug 2026 15:22:52 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Trump’s goal to split MMR vaccine could take a decade, experts say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdTF1MzVWSHNpMzNvMlFNTy1RQWpPVC1CV1JRMURaZjAxTW1feUpaZ2pSYThMSXU1Ylh3SjJDSlBWRVRNUUpFc2x4MXFqZkNQeFlUNHJSNGhnUERHMlZ3SEZSWll3Z1V5VmdxdHh1RE9HenVJanMzWmtWcUMzY1puVDdtWm9wWkt5S1Q0YndmWjBfX2EtMm9TNW9CLWZ0M0wwQm1FSnU0QUFYek8wbHA1Z1ZR?oc=5",
+          "pubDate": "Wed, 12 Aug 2026 15:22:03 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Bank of America pledges $250 billion for US infrastructure financing - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdEZYclM5enNrT095N2J5MzVxdHMwaDUxVWNHWFFxRUFKanZLYlAxenlHX0lkNlVjQllIVGFuU1RBYlJodlFDdEFKRUpEeDRfV3VoZnVQdlN6TUFVVVJtRThWeEpleG43bTNRUVctekhVNWs4QTBGM1Nnbi0zUHdSOXhCWjJJaXg3RjV4bG1VUWl3dnY1MjNUengzaFFFazI1amg1ajI5eXJnaHJXaXlJMUJfbzVha0RZaTlPZDYtVTZYZVJRVFhENnpR?oc=5",
+          "pubDate": "Wed, 12 Aug 2026 15:20:31 GMT",
           "source": "Reuters"
         },
         {
           "title": "EXCLUSIVE: ECB leaning towards approving UniCredit's Commerzbank bid, document shows - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYkdCNFpaaUZNQndtXzg1MXFySlJuSTRTWG9LNTdlV3lraDdMVFFBbU5UeWVQbkMtbXBvbjY2a0szejBLLTRxaHd0OWxvYkZLTlZobVRhWmdMSHMxNDkwQjY0X0U0OFp3b2d0RzREdDdmSWtXSXQ4RVEtOE9nb2ZBU0NWM0pSOWI0NDdXWWx4eHFVUVFWRFdyMThqVFFveU5icVV5S1ZKRzV1NUFJTExxRDM0dndGajRXeGRIYjFNMXBGQQ?oc=5",
-          "pubDate": "Wed, 12 Aug 2026 14:01:37 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Wall St gains as AI earnings lift tech, inflation data supports rate-hold bets - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYklxZWxQWEI4bU5nVHpWUVJkQWo4YmQ5ZWpfTXNWWHBjNlE0d09NNEdtbWMtQldtbndIMzNBU1Z3TldjNEF5YUoxMHJSdHlXak50XzBMYlh4dHh2OWxVckViSjVxYUFCVlBvcnQ4Vk9vLVF0MWhGR3BidXQzOGItYUVjbnNYSk1pdS1XeTZqUGtaVTZzcDRkR1N1V0xkN0o5STBZ?oc=5",
-          "pubDate": "Wed, 12 Aug 2026 14:00:54 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Serial UK sex attacker jailed for life for double murder, rape after police failings - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSG93eHB0bG1KY2pnRU9xdndmMnNlb0xBdVpNWndpd2gtVHJqR1A0TDNNQ1ZxVVRkS19fZGZsMHZocjZiM0lEVUZ5eEh5YUl1ZlozRVEzNFE0WUItQlUzTGZGbmRUQ09uaTRMQjdHNHFkaFFZM2FJUE1YcFpLeTJ2RE5MRFR1WTVYWnZRYmg0dGpGeE1vNVZEUEpIZkw4NjBDT3hHUkVwTThxOF9jX2NHRWxmQU5iSW9objIzX2NySVp1aXJXRjhj?oc=5",
-          "pubDate": "Wed, 12 Aug 2026 13:54:38 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "CoreWeave, Super Micro climb on signs of sustained AI buildout - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQN1NWQ1duSk1Sa2xQVHlVZjFyUUVmUDJleTJkOG9vM05LUjk4aWtsaUZoUTY2eWdWY2ZKcGNjaVd5Z0lULTFMNlBEeDhTWl84Q05vb0kzMjB6RjVtRkNTYmIyRkFOLWhDLWdHU2loU2ZTY0o5TURxTUFpb0hWejN6NG9VNE5RTTFTMmJzTVBYa3Q4RjhCRXpjek9LOTdnV01RRHc?oc=5",
-          "pubDate": "Wed, 12 Aug 2026 13:49:30 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Nebius beats estimates as customers race to secure AI computing power - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVUJZTnBKRUxhdFR1VGRmaGQxOUlHTHEwcjdaekRVbjh1LXpZd0NIS1haVElfejU4a19QWjB4SlZxRDlNdVNzSDUweVRfc292M052MHNJdTNNT1ZoRHpOTXNUWVJLb3R5cVdfLUhjb0FsOHR3NFY1b2ZyVUxUZEl6VjhDVFI2ZG9PT1c0SGhmQ0hvMjRXS2doRTF3aG9BdjhraGVqMGExcUxqN3R1Zzlj?oc=5",
-          "pubDate": "Wed, 12 Aug 2026 13:49:11 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Global 2026 oil supply shortfall to deepen as Hormuz reopening remains elusive, IEA says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUm5jZkFKN2RpUWZWbG9rSXctekpyeml5UDgwTENteGwtSmFWbHd0cGFjYV9LRVBXeHRENktmbWVKNVZCeFp0U0YxeTFQcFdqZTJ5Z0sxWjg1TGUwRm13Mm5rSWRoUWw2MzZhNlhFeUV2Wk9mRFNFWDB6QWhSckZDbUtlZ3pzSWQyU0pjS0Q1d2dRT1EtcWt0SVhuQXlPTHZiZlhZTzFWSUoxcXVDdl9qUnA0SnJWR1Zf?oc=5",
-          "pubDate": "Wed, 12 Aug 2026 13:45:33 GMT",
+          "pubDate": "Wed, 12 Aug 2026 15:19:14 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-12T15:08:05.137Z"
+      "updatedAt": "2026-08-12T16:27:12.779Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-12T15:08:05.346Z"
+      "updatedAt": "2026-08-12T16:27:12.933Z"
     }
   ]
 }
