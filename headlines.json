@@ -1,25 +1,43 @@
 {
-  "generatedAt": "2026-08-12T03:05:06.068Z",
+  "generatedAt": "2026-08-12T05:15:01.802Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
+          "title": "Cristiano Ronaldo marries long-time partner Georgina Rodríguez",
+          "link": "https://www.bbc.co.uk/news/articles/clyj0325z3ko?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 12 Aug 2026 04:29:02 GMT",
+          "source": "BBC News"
+        },
+        {
           "title": "Trump says he switched planes after Nato summit because of possible threat",
           "link": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 12 Aug 2026 02:45:01 GMT",
+          "pubDate": "Wed, 12 Aug 2026 03:44:55 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Baby Shark Boy set to make K-pop debut",
+          "link": "https://www.bbc.co.uk/news/videos/cvg7zrxknvno?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 12 Aug 2026 03:26:32 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Bondi Beach shooting hero's assault charges dropped by police",
+          "link": "https://www.bbc.co.uk/news/articles/crk51ky7xzlo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 12 Aug 2026 02:59:51 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "New Zealand PM survives second leadership challenge ahead of election",
+          "link": "https://www.bbc.co.uk/news/articles/cx2ve2jk5qeo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 12 Aug 2026 02:51:02 GMT",
           "source": "BBC News"
         },
         {
           "title": "Trump's dramatic plane swap hints at personal stakes of Iran war",
           "link": "https://www.bbc.co.uk/news/articles/cly8jexn1z9o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 12 Aug 2026 00:14:42 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Cristiano Ronaldo marries long-time partner Georgina Rodríguez",
-          "link": "https://www.bbc.co.uk/news/articles/clyj0325z3ko?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 12 Aug 2026 00:02:06 GMT",
           "source": "BBC News"
         },
         {
@@ -33,32 +51,26 @@
           "link": "https://www.bbc.co.uk/news/articles/cx2kvlye1k5o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 11 Aug 2026 23:31:18 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "How a 97-year-old escaped deadly Indian floods on a banana raft",
-          "link": "https://www.bbc.co.uk/news/articles/clye8332d63o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 11 Aug 2026 23:11:32 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Anguish of Colombian brother at rubble of building being searched for earthquake survivors",
-          "link": "https://www.bbc.co.uk/news/articles/czxerlglgw5o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 11 Aug 2026 21:34:55 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "US says helicopter fired missiles to disable ship breaking Iran blockade",
-          "link": "https://www.bbc.co.uk/news/articles/cvg8lyyyjedo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 11 Aug 2026 21:14:56 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-12T03:05:04.796Z"
+      "updatedAt": "2026-08-12T05:15:00.419Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Progressive Peggy Flanagan wins Democratic Senate primary in Minnesota",
+          "link": "https://www.npr.org/2026/08/11/nx-s1-5927473/2026-minnesota-senate-primary-election-peggy-flanagan",
+          "pubDate": "Tue, 11 Aug 2026 23:34:54 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Trump-backed Mike Lindell loses primary for Minnesota governor to Lisa Demuth",
+          "link": "https://www.npr.org/2026/08/11/nx-s1-5928394/2026-minnesota-governor-primary-election-lisa-demuth-mike-lindell",
+          "pubDate": "Tue, 11 Aug 2026 23:28:31 -0400",
+          "source": "NPR"
+        },
         {
           "title": "In South Carolina, Sen. Darline Graham advances to a GOP special primary runoff for U.S. Senate",
           "link": "https://www.npr.org/2026/08/11/nx-s1-5928375/2026-south-carolina-special-primary-election-lindsey-graham-vacancy",
@@ -94,26 +106,26 @@
           "link": "https://www.npr.org/2026/08/11/g-s1-138174/up-first-newsletter-national-guard-primaries-wisconsin-colombia-earthquake-childhood-vaccines",
           "pubDate": "Tue, 11 Aug 2026 07:11:14 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "The secret economics inside the new Planet Money board game",
-          "link": "https://www.npr.org/sections/planet-money/2026/08/11/g-s1-138059/the-secret-economics-inside-the-new-planet-money-board-game",
-          "pubDate": "Tue, 11 Aug 2026 06:30:00 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Former Syrian President Assad sentenced to death in absentia",
-          "link": "https://www.npr.org/2026/08/11/g-s1-138166/syria-assad-sentenced-to-death",
-          "pubDate": "Tue, 11 Aug 2026 06:07:14 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-12T03:05:04.888Z"
+      "updatedAt": "2026-08-12T05:15:00.664Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "A democratic socialist is locked in a tight race with a moderate in the Wisconsin governor primary - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQnJPS3JyQjJyTXo5SVVsdGljX1dTb1N6YTltOHlGQm1fNHNxMzhvMVRXUWVvcVVpYzhsaDd2Q1RKRndtbXNDUkJaMC14Q3ZFWXZSQVhMc1NQUEF2bzNoWmU3bmxxaG5HZzFDajB3OW9VaHNNX0N4S0t1emhrZFpxbzhBdEtpY1MzTE5YT3BkRTlYLWYxaWl5VHhVd3h0TFl6WUZn?oc=5",
+          "pubDate": "Wed, 12 Aug 2026 04:44:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Sen. Darline Graham, US Rep. Ralph Norman advance to GOP runoff for US Senate in South Carolina - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMDFiYmhSaEZBcUFlZjdQYlJkWGVzT2NSaENRSmVlZU05ZGtLYk5MR2VWc0dFRU10eE1JOTFDQkRPbDJPVFBUQnZLLVNCeW14Y3BmOHVRSlRVclBWOEZnWUlXY0VhVkJYeDJqcUxkemRXUGhHdHdEV05HVExVamNGRXV5Qlh2SW9VZlhDUm9MT0xSOGg1R0hPQm1fV01hWm9wd0ZWOGJabw?oc=5",
+          "pubDate": "Wed, 12 Aug 2026 02:42:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Minnesota primary is latest Democratic proxy fight for Senate and a test for Trump-backed hopefuls - AP News",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVzNENElkRmF2N0xQRTJpTl9qTVpLQm4xV18zbldhdkRlUDh1Y21iZlgyS2NSMjJZOXlQOERyUzJMVTI2YUhXbVhkU3RPa3o1WVRJbzJoOWFUQnd1eldBVDZlV1JxT1ExZ2tyWnhnZ1ZmcTducDNudHNCVFNOalRoRnFVeVFqTmpDbXF6MjV2QTdlazhYZU1WbG1HUTVqOFZLUVh4M2NxbkF1TkJwZ1hmZG44eTJIYTQ?oc=5",
@@ -127,9 +139,15 @@
           "source": "AP News"
         },
         {
-          "title": "Sen. Darline Graham, US Rep. Ralph Norman advance to GOP runoff for US Senate in South Carolina - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMDFiYmhSaEZBcUFlZjdQYlJkWGVzT2NSaENRSmVlZU05ZGtLYk5MR2VWc0dFRU10eE1JOTFDQkRPbDJPVFBUQnZLLVNCeW14Y3BmOHVRSlRVclBWOEZnWUlXY0VhVkJYeDJqcUxkemRXUGhHdHdEV05HVExVamNGRXV5Qlh2SW9VZlhDUm9MT0xSOGg1R0hPQm1fV01hWm9wd0ZWOGJabw?oc=5",
-          "pubDate": "Wed, 12 Aug 2026 02:00:00 GMT",
+          "title": "Trump says Secret Service and the military wanted him off Air Force One in Turkey due to threat - AP News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbVV1RWxfQzVfNS1IeF9sWDl4UGFjTWR0ZUlWTDZJR2t4ekRRRENZdmNZMmZCMGtGM2VEOWpFX21jQXRkZ0NoUkROZWdWUndfZ09uNy1odFpDellLYXFnaFJiSlVxeFQ1T1lBTGJha1pqbWd6LU9JVWotNVE5MTVQeGpxX1Zqa0t1MkdxZ3NOOFRzdnVsT1d6TkFYSGREVkRm?oc=5",
+          "pubDate": "Wed, 12 Aug 2026 02:16:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Luxon survives another leadership vote months before New Zealand’s election - AP News",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNa3lBb3V0ZktZWnAwNUx3S3pEaG4zUjE5ZHZ2b256N0lwOENNRjdLVlMxS0ZlcWVHRUJCQkF6aVZLeS1HVnZ6RTBmTVBMWUFqS19UaWJTdHM2X041Z2V2UlFqcVVrSWZ2ZGZhLXBrTDFydmhCenAtazZpbkhBVS1sZXQxZw?oc=5",
+          "pubDate": "Wed, 12 Aug 2026 02:10:00 GMT",
           "source": "AP News"
         },
         {
@@ -139,40 +157,34 @@
           "source": "AP News"
         },
         {
-          "title": "Severe weather knocks out power in Illinois, Indiana and Ohio as ‘ring of fire’ strikes Midwest - AP News",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTGRDbGhWcVhLSmJRcXdOSDhuc2ZIR1hrX05MeEFDRkZ3dHZGcGp5bU1NVk1EWmV5Z3RwTk1DdVdUU2tuVVhIMUVPaTdpQk1ZaDFodEV5Tkl3dE9lWloteVhTdXFGWEc2YjBkZ0tYWldCZUpNQkdBMndYNFRPbGlEc0lwekRjWk9CQ3gtazdBYXhyUVlnQ3cwbUNxYkN2dGU1?oc=5",
-          "pubDate": "Wed, 12 Aug 2026 01:32:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Democratic socialist tries to beat the governor’s pick in a chaotic Wisconsin primary - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQnJPS3JyQjJyTXo5SVVsdGljX1dTb1N6YTltOHlGQm1fNHNxMzhvMVRXUWVvcVVpYzhsaDd2Q1RKRndtbXNDUkJaMC14Q3ZFWXZSQVhMc1NQUEF2bzNoWmU3bmxxaG5HZzFDajB3OW9VaHNNX0N4S0t1emhrZFpxbzhBdEtpY1MzTE5YT3BkRTlYLWYxaWl5VHhVd3h0TFl6WUZn?oc=5",
-          "pubDate": "Wed, 12 Aug 2026 01:26:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "New Zealand Prime Minister Christopher Luxon says he survived a leadership vote in his own party - AP News",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNa3lBb3V0ZktZWnAwNUx3S3pEaG4zUjE5ZHZ2b256N0lwOENNRjdLVlMxS0ZlcWVHRUJCQkF6aVZLeS1HVnZ6RTBmTVBMWUFqS19UaWJTdHM2X041Z2V2UlFqcVVrSWZ2ZGZhLXBrTDFydmhCenAtazZpbkhBVS1sZXQxZw?oc=5",
-          "pubDate": "Wed, 12 Aug 2026 01:12:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "North Korea launches another missile toward sea ahead of US-South Korean military drills - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSnZFb3lBeVlieUQySkUtb2dJUXFpZzJkYlVCTkFNaDVwVVY4Mll0QnVDVTc3SU0yRFZNdjlUdF9QWkY1TzNsb3FIRUJnbDJSSjFlc3FCUERFeGZyT2U1dzRlN05xRTRlbkpPUENyd0FmZWpxYkUyTWZHaHJzMHR1OXNUdUgwVEY2cDhNaG1SZ0tOMERBRGowUDN1MzBXUm5qYU12QTVsMFE0RlhXV0E?oc=5",
-          "pubDate": "Tue, 11 Aug 2026 23:57:00 GMT",
+          "title": "High school football player in Arkansas practices with a venomous snake in his helmet - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVU9xYkdlUnF6bFpfaVp5S0QyaE03MXNFN3ZOWUlLNUtjZUpmSDRpemxHdE9YTWRtRnpqMlhnc2RoVlAxRDdhX2lNdlgwYnZxMERIRGZNNEhHX1Yza2oyRnlTRU5zZWZWNV9lcm1leFNzbElWV3ZlQUlHUE14cGhfQ0daNzhINy1n?oc=5",
+          "pubDate": "Wed, 12 Aug 2026 01:46:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-12T03:05:05.388Z"
+      "updatedAt": "2026-08-12T05:15:01.171Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "Australia sets 'world-leading' minimum pay and insurance rules for gig delivery workers - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaTAyd3pqTU1uQVFBYy0zTEM5YzBGdUdLYTBudHBKNm1WTVVWWlIwTnVQTThXTjBYSW1LMjgwX2NwdUE1blZVTVBOdW5La2NzamtEdnhKT3lUTW5RQUpkNGxTdTRhVFFpYVdua3E2cU5EeWFWSXZZZXZhZktPSHRUTFNtYmR6YWVFRnJieFcxZFd5VVYxTlVPekJ1SzJ0ZkZhT0RuRmhNSWRZRjlXMVNidVBHelpad0RxRl85VHpxN3pzODNvY2FDVVhIb3JNUXhFU1E?oc=5",
+          "pubDate": "Wed, 12 Aug 2026 03:42:14 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Indian shares open lower as higher crude prices weigh - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMzU1RG9ES2Uycy1MN0ZfZzR5V2lwd0NuaGZ2QVJsRVMxMmp0YkFQNElpUXd1cTU1RUtLWkU5Y0dmNnhsSU5jbWVYaFpfYTA2bHhrYVN1ODZKc1FtMkFFM0liNXc5U0lodzU3TEE0dDNGV3plOHdkTUE3MGxVdmxGSHZhVDhvdEhIQ001LU5uN3ZxS3dxUWNNWWRkd3hMdjVBQ2tzZl9xVDM?oc=5",
+          "pubDate": "Wed, 12 Aug 2026 02:41:00 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Oil, gold prices rise as geopolitical tensions mount before CPI - Reuters",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTnAyM2F1aXRKeVZFQU5yVzdLbmplRS1vV28zVXZ0Slo3bmszQjM1enJHU2RlOG5EZWtLYUNmVHdjcHprM19fTnhjUE8tV3VGTFBrelZXM1pOekphNVF1S3EtSTlDcDl5Skw0R19ud3U5NmdhWEk5eVJjV1dudFNhSlhoRQ?oc=5",
-          "pubDate": "Wed, 12 Aug 2026 02:23:54 GMT",
+          "pubDate": "Wed, 12 Aug 2026 02:19:00 GMT",
           "source": "Reuters"
         },
         {
@@ -182,44 +194,32 @@
           "source": "Reuters"
         },
         {
+          "title": "US appeals court voids formula used to avert surprise medical bills - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQVMyWk1teEExNlY4dmRxUkNIbTJBVG85VEx5aUdSTGpKTncxTnRuc2U0VkpJUHRGUXdjWlEzVXNqSHZpU0RUX2hMOVZIMGE4TnAyTG5tZ1A3aGhYVmYwY2NSaHRfeEhsX052dUJGc0lCZTVyOTRPc09yTHN2MER0YWcxWnZ3dzhBYUFWam1xV1NUaC1DX1IwelhmLXpCdkRsSXNweW1vRDYxSW5BRXd0WXBzRkhYQzAw?oc=5",
+          "pubDate": "Wed, 12 Aug 2026 01:45:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Typhoon Dolphin's remnants brings torrential rain to Beijing - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcXA4N3otU1Q0YUNmTExjeTloMHpfRFZQWVFHbkJUdUMyVTE4T255YkpkamZPb0lKUmpGNEpXMnJmYWlyVzk1MHlzNldLSzhqY0t0UkV1V0FEbl9KZGZYeXJmSi1JVEhSYlJYSy1GX0RvNmNNWWcxUmJDUmtORkJ6TXRBUkZtUjR3Wi1CLUxxdEoxUnRoUnpvaG92cWZmZ1FPd2hoblhpZjFNTWNOLV9ZdFRsUQ?oc=5",
+          "pubDate": "Wed, 12 Aug 2026 01:28:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Trump says his plane faced 'greater risk' in secret flight change - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNnFid0QtMU1uWmc0NjVieldJWFFnU1gzMXp6RlA0UldwUkEtaElnOUZMTmtCQlFWUlFRbFlsWndGREllOU8zWjBqZWpYanF4dGdWRWdkQy1ucGd6aGx5YlNrUXZ6TzhkZ2h5alU2VzYxMThmbHdVNjdjTWJSVjhYR2RMRHpXREZ3clRKM2JmM1AxenBFaVMza0p1TXZ0dFFoRGNLR1MtcVRNdUJOY3o0UnFsdnpFc1U?oc=5",
+          "pubDate": "Wed, 12 Aug 2026 01:20:00 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Oil rises as doubts over US-Iran deal heighten supply concerns - Reuters",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOajU2TkE4Zm1kOHlwM2hwX0VXeWJTNkFCblBrN0FuUDNfN1NMRFQ1NE1HREZGVE96UXMyajRlamxJaVZqMGxQNGRyZlBZQ2xnNVNEZjdBZ05zR25PWEFTNksxMk9iREoyNElfZ1h0aUdiTmFKdEJpZlJfUDk1d25ZTXptbnByMDFfRjk2R1oxZ29pNFZiQVhwTmRCaDIzUXdYSFlxZnl6aU05eG1WLWlQWg?oc=5",
           "pubDate": "Wed, 12 Aug 2026 00:59:47 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Air taxi firm Joby acquires defense tech company for $500 million - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPR19tSGNrX0pFRjZvY0RpV0JCMWtnRGlDN2IzTHYyY0xFTDM3d0ZRSXh0UXB0bmFjclJKUmozbllfOTFnRW5yUF9kWTIwSEFuSy1DcDJ1eE5vdEhhUm92a0JxQlNYVXFCU2RLVGEwQ1BwM2dUSHQ2bG52Z0x0cDJMY3lfS2pHMlVNZ1Z0QXV4SnRRRks2dW1TSFBrcWUwdHI2a2twZWlCUktTbl9ZcW5ib2hqdFdKdk0wSlh6dllUX1c?oc=5",
-          "pubDate": "Tue, 11 Aug 2026 23:34:09 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Four crew, two rescuers killed in Red Sea attack; US strikes ship in Gulf of Oman - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWXg2TDlnMzVlaTc1d1hoaFVFTG91b29XZzlBMC1hNGZ1REtpdDlTLXZFcGF5Mjg0N1ZvaVpSZlpEYkR6TUM1Mktja1k2TDdIVGlBZHBrMEFGdHNXSFFQV0s0eEY3aHRBcXNxa3FKUkR6Y1RmSVZOS0lwbGVZTVFKX3VUMzU5c2wwZ2VjZ1pqWU1PeDNhb0lOeFlzcDFnN1lS?oc=5",
-          "pubDate": "Tue, 11 Aug 2026 23:29:07 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "CoreWeave boosts 2026 spending plan, beats quarterly estimates on AI demand surge - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQVJvWFV5SDAtNEhEZmZINXZ6TGs5ZXd3bkh1NEJCNi03OWFMYzJtY2psZWowOEtsMHNHazdOMUdybnc3S01vUjdVX1duN3E2bUxvZXFPZDNVR29Obm9jR1JIU2xWR1ZhWGh5WnI5ZWxabVA5dXphWk1OTVc2UEV1UjZpMmpZWHg5dVpEaVFkUjd6dV9HaUxTQldpMA?oc=5",
-          "pubDate": "Tue, 11 Aug 2026 23:21:47 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Wall Street ends down as US-Iran peace optimism fades - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVjkzU2JZemo3b1RFMlU3SU1qeTE0NEY0eHBaakpscDY4blhsX3c5VFdFUmxkWVk2Yk9ab040Z1dRbEN4SDMwQU9fSnFrWUN2SkZHNzZqOFRJc0FXWUNOZTFRTnRvX0hqRTFfMGdBMnh2S2lPMjlqZ01kSFNyT0dqLVZMNDBZcm13a01lQWdScHVhSUFXQ215cjJGWXg2T180?oc=5",
-          "pubDate": "Tue, 11 Aug 2026 23:17:51 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Ryanair signs five-year Google Cloud deal, expands use of AI in airline operations - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQnc2ZXQxTHpZQU1SNDdJczNXWUdBamNIaGxDXzY2dXlGUEFBMDQyM29WaERCSWdiRVB6Mm1tX0psSzhDUkh3Z25xamdDd0JfQ0JWMi1MZ3ZMcEZjMmpNSmo5TWVTVEdsa1RlSk82Z3BXVWJFSWxDdUhrMm4xczhWVEZzNlY4Rm91eFFtQjNsU3k0ckxKRmY2c1FGOV9XS0M3NFJ1THNRMF9hOThzZENsMDVLV3lDb1BfMk9pMg?oc=5",
-          "pubDate": "Tue, 11 Aug 2026 23:08:42 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-12T03:05:05.811Z"
+      "updatedAt": "2026-08-12T05:15:01.574Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-12T03:05:06.068Z"
+      "updatedAt": "2026-08-12T05:15:01.802Z"
     }
   ]
 }
