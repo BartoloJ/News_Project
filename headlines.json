@@ -1,9 +1,15 @@
 {
-  "generatedAt": "2026-08-12T21:22:04.690Z",
+  "generatedAt": "2026-08-12T22:13:10.499Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "ICE plans to equip agents with gloves that can deliver electric shocks",
+          "link": "https://www.bbc.co.uk/news/articles/c20d292gdp4o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 12 Aug 2026 21:53:26 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
           "link": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
@@ -14,12 +20,6 @@
           "title": "Trump says White House press secretary Karoline Leavitt to leave post",
           "link": "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 12 Aug 2026 20:57:47 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "ICE plans to equip agents with gloves that can deliver electric shocks",
-          "link": "https://www.bbc.co.uk/news/articles/c20d292gdp4o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 12 Aug 2026 20:57:13 GMT",
           "source": "BBC News"
         },
         {
@@ -54,7 +54,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-12T21:22:03.119Z"
+      "updatedAt": "2026-08-12T22:13:09.126Z"
     },
     {
       "name": "NPR",
@@ -109,7 +109,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-12T21:22:03.291Z"
+      "updatedAt": "2026-08-12T22:13:09.341Z"
     },
     {
       "name": "AP News",
@@ -118,6 +118,12 @@
           "title": "Millions crowd Spanish cities to see country’s first total solar eclipse in over a century - AP News",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSWxPSks4anlXZ3AwVXZ4YlRoMzYxRHFuc2dpTllDUTJrbHUwSU5LNzRyRnlzVmNDaWFtb1FZcFRVeVJJeHRBU1NDUVhnV21ycjM2cnNKbHIzN0JITzI0RVFBUmFoMTFCTHROVk91NWc2bngxRG5vZmc3RVVCeHdLcS11Y2I5dlhhUEM5Wm44cnRwR29OWjhjRnJhT1RZTFU?oc=5",
           "pubDate": "Wed, 12 Aug 2026 20:46:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "ICE’s plan to give officers electric shock gloves draws outrage and fears of misuse - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOemFmMEthNUtmc04tdGtkVV9pZ2J5UFh2YlpaX0tPYnR0dlUybEZLV2FpVGxRRkoxaU5WTVNlVm03WmNMYnpwczFFR3lSYXNfdU1SNGFnTjNjTXRnbDVBUkJtV1dEVDBDUGJsUmhzaTFKRVk1aUZNVEJtS0l1c1ZoeWo3TDA4OGlCdHVwbjVB?oc=5",
+          "pubDate": "Wed, 12 Aug 2026 20:32:00 GMT",
           "source": "AP News"
         },
         {
@@ -145,12 +151,6 @@
           "source": "AP News"
         },
         {
-          "title": "A Kansas town will pay $850K to end a reporter's lawsuit over a 2023 raid on her paper's offices - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUUpFM2ZwS3VIeHFyblpQUElLaDVrRzRNMS1tOThtbWdxRUFxME5McUNKOTFNbTVrRTRTSE03N2NhVVRDdHdWMDl1eWpyMFE3Y0NLY2l5enY4V2RsUG9CNHhlRS1VYlMydUdGVVdoVGdERld1bklGQ1lsa1JpZjQ5SlBKd0psa2NXVjNUUE50Mk1EejZnRDRnYVl1TQ?oc=5",
-          "pubDate": "Wed, 12 Aug 2026 19:19:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Wall Street flirts with a record after AI stocks rise and worries about inflation ease a bit - AP News",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQb0VrMUhmQ1hxS0xRZmdtS0RsYjdBaEY0RnhRdHVMT1htcUtPWHBIWG1XY0Y5QjZjM25RdzJCUnBUY3NIbWQyUkRqWUpoYnlXUDZiNjloM0VPWDFDQjBjRVVJWHNtOVgyRFJhcW1yd0h3RGcxZkptU3F5NjRiWTFnYjhVcWpPenR3Vk9PTjF1VE5leW9kQlpaSF9pbmRpZw?oc=5",
           "pubDate": "Wed, 12 Aug 2026 18:32:00 GMT",
@@ -164,11 +164,35 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-12T21:22:03.892Z"
+      "updatedAt": "2026-08-12T22:13:09.850Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Cerebras shares plummet 16% after results fail to impress investors - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPS3RxTUJxMTh2Mk9XSmgxdm1MZDh6MlRtcVl5aFM1bmF1ajVmWlFnUF9nNU0yYjloQ0pON2VSWFZBYTVldmJ0TGI5N2psYlcwZVRuSURZaUM1NkYzVkh4NGVNRUtjd0F0M3RMTno2X0RSNG9VbF91V2lDOUh0OG5nSDJiY2M4cDdrM1lGRnNicldnNXBBQTBDRFVzNHdJQQ?oc=5",
+          "pubDate": "Wed, 12 Aug 2026 21:27:13 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Ukraine has retaken 745 sq km in 'precision' operation this year, Zelenskiy says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdkoyOTlIR2NIRXptcnZtelYxMjBCbWMwbzhkZnlEczVZa0hZQk5wYlhaQkJkM04wdDlEYUFRX3c2bm1EalpMMW9mN20xZXBEQ3QwaTdoaXhVNEFvOWpibFVHMTFlbXJGd1VDR3ZqM2prY2pLSHlFUExPRVVSNzlXdHllVlRNbWpnX2YyV3pULXZuQmFIZHpUVXRna1EzekZKQWxvZzNFVVZsSEI1WlZpU2NVNTdWbzA?oc=5",
+          "pubDate": "Wed, 12 Aug 2026 21:24:50 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Iger, Kushner purchasing Lakers for record $12.5 billion - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSjlKRTdkcko0SzVWdF9ZY0NIemN4MnFUMVR3S0tVVUFLd3dIM0p4YzRGVmx3WlhhWDJSZkpjTHMyQmVRd3FOTjFsaGQ1Q1hIMGx3dVNTVUlTT2N5WERlVk9oTnV3X2lVb0NVbVZ3WE51MVU1RmthdzYwOTJ6LWdfdGNfUTEyN0FMV3M1LUFya1lHZXhSVlFDX1VGR21vT1llN0d3VnNRSEo3dlZ5V1E?oc=5",
+          "pubDate": "Wed, 12 Aug 2026 21:20:02 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Iranian photojournalist faces 15 years in prison over images, reporting - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZkZMS1VuU2djMmpESEVFMlhMZm1lWjEzWlRCVDlwRXRaeVRGMXpxWi1RSFdYT2lCOVZkVGkyYmFxSWp5TnpOUmNNSnR1bDdVUHN6Y2w1cXBORTk1dk45ZzROUHRlVWNicG9zZlZxUWtiMjZhbDZUci1FTVRSdUFpSFYxdHVhOVVVWnJmX3RvbndjandLaUN6cnBPS0k4YzUzdW41M0FVMy1ucHFwYlozRGxCbGRIaE9ZQm5FZDl6TXpQUWQt?oc=5",
+          "pubDate": "Wed, 12 Aug 2026 21:04:10 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "EXCLUSIVE: Inside the Google executive moves that led to its big AI reshuffle - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSU94aktXTlJLQ3ppVXlTTWcyZVhBNU9oT09IMXQ2UG1IenF5ZjBPemNWdDZJVFFuNk45N3VnWW8wUzhMaU1pNkQ1UXU1SnJJWFNxM29MQkFyQmp1Qy1sbE5aX3lZQ2JOX0taWW90WFpGRTFuUXI5TDRpN0FlVmItb196ZHlMMlU2VWNCLUxNa19GOXkzanZLdGM5My1CWXhLMU9B?oc=5",
@@ -182,44 +206,20 @@
           "source": "Reuters"
         },
         {
+          "title": "US budget deficit widens in July on higher outlays, negative tariff receipts - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcUJ0U0RwQ2U2OHRKX1JZX1daaUdjR0ZMZWM5a0x3VndUUzJ0RFRTMTQ4ZHA1blZIYlVNWTZOeTUwa2QxcGQtVGpCRXN0WlJqNW1abl9wMnptY2hTSDA2VHUzNVFBLWVsTnRDYzZYQjBQS2VnZ2VBVVRNVHQwQTJiQ2dxSF92cHlFSENDQ1psZF9rM3plUE5mTzZtUWR0U1d0ZlZ3Z3NZRXBOX2ZQSGZXUTlKNkpHMHZ0amdoUg?oc=5",
+          "pubDate": "Wed, 12 Aug 2026 20:17:29 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Cisco forecasts annual revenue above estimates on sustained AI spending - Reuters",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVFNjVWhZOGJVZzBrMDdXRC13NkM3cW9lMjlicDZZc3duZXNTLWlZTEhBTDJuWTJvV3pkbEdoUWd2VVFmTWlCTTFCVlJjOFFsTXB3Y0JBZHROZExiUU4xZm1mbkhOSHF4MVRfdXpEdWp3NFdlbnhpQk5kSklmX3Y3cW5ockRIT0VSeWdWMQ?oc=5",
           "pubDate": "Wed, 12 Aug 2026 20:16:07 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "UK, Italy among states considered to verify Hezbollah disarmament, sources say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORlhKaU95Z1hCOXBZNk1iSDh2NHU1ZElNNGUzcVFlV0liRmVfT0huNy1NdGRodXNwVFZyd0FieHJSakV0Rl95cXhwS3FIWUlqNklMbW1jZGNSMHl5WEVmbnNTRmhRMUxWcXdfZklseF9Ta1kzVFlzTFktbVJvV2lkaXFCYWRzV1FNU01hUkt6VV9JUTBjbmE2QVdmTmdHT1phM2E0cEluallfNGoyYk41bE5kX1ZSZVZKTjlsUDVxa2VBdTZfWmU4?oc=5",
-          "pubDate": "Wed, 12 Aug 2026 20:15:19 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Huge oil slick hitting Oman's shoreline as agencies warn of disaster - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVGNVS3hTUTZFb3JqbU5JZTRLRzRFMWVrcGpmSmx1WHo4MUVraTRveDUtTEhqMFZGbnY1TFc0VDhwQlhEWEh2TTBIbmlfS2NYcVY5SXk5WExhTU5vMTdtSWhVREhqNnlZNzdqekJ0MVM3ZmtMa0p3UE1CWnRqSndGTURsM0ZaaEJIRzRPMS1LQVB1YVJMdXNnM0xXY0Z0WS0zZlJ2R2N5THM1a0NWZThJT0dHbFdoLWg2YmFTTlhvQ29IaHc?oc=5",
-          "pubDate": "Wed, 12 Aug 2026 20:14:01 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Iger, Kushner purchasing Lakers for record $12.5 billion - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSjlKRTdkcko0SzVWdF9ZY0NIemN4MnFUMVR3S0tVVUFLd3dIM0p4YzRGVmx3WlhhWDJSZkpjTHMyQmVRd3FOTjFsaGQ1Q1hIMGx3dVNTVUlTT2N5WERlVk9oTnV3X2lVb0NVbVZ3WE51MVU1RmthdzYwOTJ6LWdfdGNfUTEyN0FMV3M1LUFya1lHZXhSVlFDX1VGR21vT1llN0d3VnNRSEo3dlZ5V1E?oc=5",
-          "pubDate": "Wed, 12 Aug 2026 20:13:12 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US consumer inflation mild in July, economy still not out of the woods - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONVo4RlREbjZCeDFybnNPaTFlMDl0SnhGblQ3ZjE4NzA2WlVKU0diWDJqN1lPWXFvVk13eDY5TVhKYXROYXVJb2tLRzM0YVFaNXEzRWxLNWI0blFUSHZqbVN6aVRrMWFPR3Foa0hJd1FLZTluRVAtWlp0d3k1U1doeUhRVlRoRFltSzRneHcyYw?oc=5",
-          "pubDate": "Wed, 12 Aug 2026 20:00:13 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Credible missile threat led to secret aircraft switch for Trump, source says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSlRqMEthQzJ3NWM2WVctYUhwMTlFekFyd0o3QVpnUkRoeUxUMGxSSThmVW1QT096QmVNUlRHZkxOUXM5M0tGdXBSRlIwbWFQbHFEdVdaR2lUVkdTaWRybHFZYzRtMk85LUNLMXF4bGFsZU1UVE54SXJsZWFRYnRmNlRoVVhWNUZVNm1OZmdlTHI3RlpYYWtULV9qZWFvVUtVMEl4aFByMDJXRHN0RHpxanJvNGY3cGNKN3Y5QUlncHljV193bEstMGFzTQ?oc=5",
-          "pubDate": "Wed, 12 Aug 2026 19:59:23 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-12T21:22:04.367Z"
+      "updatedAt": "2026-08-12T22:13:10.277Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-12T21:22:04.690Z"
+      "updatedAt": "2026-08-12T22:13:10.499Z"
     }
   ]
 }
