@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-12T06:54:45.176Z",
+  "generatedAt": "2026-08-12T08:22:50.029Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "Boat sinks in Zimbabwe's Lake Kariba with 95 people on board",
+          "title": "At least 15 die as boat sinks in Zimbabwe's Lake Kariba",
           "link": "https://www.bbc.co.uk/news/articles/czxe2vyxd7do?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 12 Aug 2026 06:21:42 GMT",
+          "pubDate": "Wed, 12 Aug 2026 07:16:44 GMT",
           "source": "BBC News"
         },
         {
@@ -23,7 +23,7 @@
           "source": "BBC News"
         },
         {
-          "title": "Baby Shark Boy set to make K-pop debut",
+          "title": "Baby Shark boy set to make K-pop debut",
           "link": "https://www.bbc.co.uk/news/videos/cvg7zrxknvno?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 12 Aug 2026 03:26:32 GMT",
           "source": "BBC News"
@@ -54,11 +54,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-12T06:54:43.936Z"
+      "updatedAt": "2026-08-12T08:22:48.685Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "In Wisconsin, David Crowley defeats Francesca Hong in Democratic primary for governor",
+          "link": "https://www.npr.org/2026/08/12/nx-s1-5927119/2026-minnesota-governor-primary-election-crowley-hong",
+          "pubDate": "Wed, 12 Aug 2026 04:06:55 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Former U.S. Marine held in Russia on disputed charges has been released",
           "link": "https://www.npr.org/2026/08/12/g-s1-138323/former-us-marine-russia",
@@ -100,30 +106,36 @@
           "link": "https://www.npr.org/2026/08/11/nx-s1-5928383/trump-mail-in-voting-executive-order-usps",
           "pubDate": "Tue, 11 Aug 2026 17:11:09 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Kennedy Center must pay $250,000 in legal fees to musician who canceled in protest",
-          "link": "https://www.npr.org/2026/08/11/nx-s1-5928311/chuck-redd-kennedy-center",
-          "pubDate": "Tue, 11 Aug 2026 16:23:07 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-12T06:54:44.130Z"
+      "updatedAt": "2026-08-12T08:22:48.944Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Progressive Democrats get another win in Minnesota US Senate primary - AP News",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVzNENElkRmF2N0xQRTJpTl9qTVpLQm4xV18zbldhdkRlUDh1Y21iZlgyS2NSMjJZOXlQOERyUzJMVTI2YUhXbVhkU3RPa3o1WVRJbzJoOWFUQnd1eldBVDZlV1JxT1ExZ2tyWnhnZ1ZmcTducDNudHNCVFNOalRoRnFVeVFqTmpDbXF6MjV2QTdlazhYZU1WbG1HUTVqOFZLUVh4M2NxbkF1TkJwZ1hmZG44eTJIYTQ?oc=5",
-          "pubDate": "Wed, 12 Aug 2026 05:05:00 GMT",
+          "title": "David Crowley wins Democratic primary for Wisconsin governor over progressive Francesca Hong - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQnJPS3JyQjJyTXo5SVVsdGljX1dTb1N6YTltOHlGQm1fNHNxMzhvMVRXUWVvcVVpYzhsaDd2Q1RKRndtbXNDUkJaMC14Q3ZFWXZSQVhMc1NQUEF2bzNoWmU3bmxxaG5HZzFDajB3OW9VaHNNX0N4S0t1emhrZFpxbzhBdEtpY1MzTE5YT3BkRTlYLWYxaWl5VHhVd3h0TFl6WUZn?oc=5",
+          "pubDate": "Wed, 12 Aug 2026 07:52:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "A democratic socialist is locked in a tight race with a moderate in the Wisconsin governor primary - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQnJPS3JyQjJyTXo5SVVsdGljX1dTb1N6YTltOHlGQm1fNHNxMzhvMVRXUWVvcVVpYzhsaDd2Q1RKRndtbXNDUkJaMC14Q3ZFWXZSQVhMc1NQUEF2bzNoWmU3bmxxaG5HZzFDajB3OW9VaHNNX0N4S0t1emhrZFpxbzhBdEtpY1MzTE5YT3BkRTlYLWYxaWl5VHhVd3h0TFl6WUZn?oc=5",
-          "pubDate": "Wed, 12 Aug 2026 04:44:00 GMT",
+          "title": "Tuesday’s takeaways: No clear direction for Wisconsin Democrats - AP News",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRjFDMUI5eVYzTk9VRHJSRTYyQ1hvU3dpQXU3OVVGdW0wX0dWbkJWWldpRUVMeHdrdEVhOWRKQ2hneDgyYnB3eEtJbkhWRWhEbXZkRHprai1vRTlFSkcxSXg2VEI4TVJkMnIwbmJpazZVN3JXUkd3dzdteE9PQnRidnlWQnlsZWRxUFlPMnlCOFFpSkFPWW1vNlJDc3NBSFNuSk5SQnVYajVrZ2tnejJnMUdrOWRlWTA?oc=5",
+          "pubDate": "Wed, 12 Aug 2026 07:51:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Tropical Storm Chan-hom weakens and departs Japan after causing power outages and injuries - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONHB4WExBdkI0LWFRQ05ZNmZnTzZrcV8yQmgtTVlJY1VFbE9zZ1Vub2g2R1pCQmNMSThyU2o1dV9UZC04S3dGVVgwVDFjUXlrbWN5TmdTTDlxMXNad1p3R1ZIa1p0blVvT25KNVpiaUFUclpJNU9aVUJ3SU45WEI0dHpsZ1pzTmtULUE3MkRBcmlpZnpiV0JWSXF3?oc=5",
+          "pubDate": "Wed, 12 Aug 2026 06:56:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Progressive Democrats get another win in Minnesota US Senate primary - AP News",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVzNENElkRmF2N0xQRTJpTl9qTVpLQm4xV18zbldhdkRlUDh1Y21iZlgyS2NSMjJZOXlQOERyUzJMVTI2YUhXbVhkU3RPa3o1WVRJbzJoOWFUQnd1eldBVDZlV1JxT1ExZ2tyWnhnZ1ZmcTducDNudHNCVFNOalRoRnFVeVFqTmpDbXF6MjV2QTdlazhYZU1WbG1HUTVqOFZLUVh4M2NxbkF1TkJwZ1hmZG44eTJIYTQ?oc=5",
+          "pubDate": "Wed, 12 Aug 2026 05:05:00 GMT",
           "source": "AP News"
         },
         {
@@ -133,9 +145,9 @@
           "source": "AP News"
         },
         {
-          "title": "Tuesday’s takeaways: No clear direction for Wisconsin Democrats - AP News",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRjFDMUI5eVYzTk9VRHJSRTYyQ1hvU3dpQXU3OVVGdW0wX0dWbkJWWldpRUVMeHdrdEVhOWRKQ2hneDgyYnB3eEtJbkhWRWhEbXZkRHprai1vRTlFSkcxSXg2VEI4TVJkMnIwbmJpazZVN3JXUkd3dzdteE9PQnRidnlWQnlsZWRxUFlPMnlCOFFpSkFPWW1vNlJDc3NBSFNuSk5SQnVYajVrZ2tnejJnMUdrOWRlWTA?oc=5",
-          "pubDate": "Wed, 12 Aug 2026 03:57:00 GMT",
+          "title": "July inflation report to provide crucial signs of where prices are headed - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQT1p4OTRrUDJrbTJJTmk5Uk05TFV3a2JDOXhXa0pXQm1EdWE4ZnE3WU1pQ1hEdG80RFd6bzQ2QkN2X2NjZnA4U19zZzBmMm1aaG1oUmg4LTZZY2NsSV9SeFpJamZZYVRXQXlXZ0VDT0tIRVo4M3B4WW1VZFltbnVLTkRiU01BN2szVncteXcxQUJFX01jTFdfTUR1MjMydGZjN1d3Wmp2QQ?oc=5",
+          "pubDate": "Wed, 12 Aug 2026 04:01:00 GMT",
           "source": "AP News"
         },
         {
@@ -145,34 +157,40 @@
           "source": "AP News"
         },
         {
-          "title": "Trump says Secret Service and the military wanted him off Air Force One in Turkey due to threat - AP News",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbVV1RWxfQzVfNS1IeF9sWDl4UGFjTWR0ZUlWTDZJR2t4ekRRRENZdmNZMmZCMGtGM2VEOWpFX21jQXRkZ0NoUkROZWdWUndfZ09uNy1odFpDellLYXFnaFJiSlVxeFQ1T1lBTGJha1pqbWd6LU9JVWotNVE5MTVQeGpxX1Zqa0t1MkdxZ3NOOFRzdnVsT1d6TkFYSGREVkRm?oc=5",
-          "pubDate": "Wed, 12 Aug 2026 02:16:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Luxon survives another leadership vote months before New Zealand’s election - AP News",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNa3lBb3V0ZktZWnAwNUx3S3pEaG4zUjE5ZHZ2b256N0lwOENNRjdLVlMxS0ZlcWVHRUJCQkF6aVZLeS1HVnZ6RTBmTVBMWUFqS19UaWJTdHM2X041Z2V2UlFqcVVrSWZ2ZGZhLXBrTDFydmhCenAtazZpbkhBVS1sZXQxZw?oc=5",
-          "pubDate": "Wed, 12 Aug 2026 02:10:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Tropical storm hits Tokyo area, leaving thousands without power before moving west - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONHB4WExBdkI0LWFRQ05ZNmZnTzZrcV8yQmgtTVlJY1VFbE9zZ1Vub2g2R1pCQmNMSThyU2o1dV9UZC04S3dGVVgwVDFjUXlrbWN5TmdTTDlxMXNad1p3R1ZIa1p0blVvT25KNVpiaUFUclpJNU9aVUJ3SU45WEI0dHpsZ1pzTmtULUE3MkRBcmlpZnpiV0JWSXF3?oc=5",
-          "pubDate": "Wed, 12 Aug 2026 01:54:00 GMT",
+          "title": "Iranian-backed Houthis kill 6 in attack on vessel, and other developments in the Mideast - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORXhISUZDNXVZTlFMeWpOeGVEUDVsYWZKYkFQV2tmaXVSSW45SW5RZmtyeGQtaVIxMlVGdVZVNm5vemI5Rm9yMS1xMFc4Q0kzcTN4UThPTnF1anVDd1FSdWlIdEY2SWM2bkRiZ0VQQVQxOUJ4dXl2U2pIZFZOWVJyQ0NrelJvSlJsUWlpOHhxeFBSa0V6Y1BYb3dvaXQ?oc=5",
+          "pubDate": "Wed, 12 Aug 2026 01:53:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-12T06:54:44.629Z"
+      "updatedAt": "2026-08-12T08:22:49.364Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Dollar firmer as markets await US inflation data for Fed clues - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZnhDSnpIWUFyU185anRuZ0lKYjItT2RJaWU3czNGbGdwVVBTbzRlaEF1QjJ3cERWVEZUVkV2Q0kwc3FtQVBpVWx3SmFnbTVlcEkyX0ZYb0lhd2tDQ0ZXcXl1RHl4aTR6dXVjYnRYZjZVUlN0TDE1QXJ4cF9SaHNueElkRF94cGlXbHJZdnlBSExxZzhaMVAxa0lKblNReU0tdFJJ?oc=5",
-          "pubDate": "Wed, 12 Aug 2026 04:56:01 GMT",
+          "title": "EXCLUSIVE: HSBC global insurance business head Moncreiffe to leave, sources say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTzNoUHpuX1NuelNIdkZybVRqeFpSTkpKZWZRbFl4MGtIT184WmtJdXhlbVFBS0JpbHBwa3hHVThOOXVWMzlxcFdfWWMxaXpOdDhIU2lVM3I1NVlPS3k0b2YzczdScHpRX1F6SkFEWkV5dzlHZzBmV19IN1MxS1Q1Y0dzWDJKUEFKaHlaMUZQTlYxOVkwaU4weEctMzFUZVRqY1BzQUM3d2VqYkFCekE?oc=5",
+          "pubDate": "Wed, 12 Aug 2026 07:27:25 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Japan fund managers chase retail cash as JGB yields surge - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaUJDMkhDRV9BVl9wM2JSTXpRTGhwSGptNkVTYUdnVTVvdGwwTGQ0LS1lZnlhSTRIVi1NaHAxdVRxT29kcV9JM3F4c3BBSnhIYTFScU14QWRuM3g2QWxWSFg3WFZqeHVQcE1aWm5BNGhQeTA1bmcwMnZDUnRFWU1FTmVqZ0xfYjNkT2d3eTRGeTRlZUprT1JXZ3BHcGNnTzN4NGFDb0NvdXJDalcyN2c?oc=5",
+          "pubDate": "Wed, 12 Aug 2026 06:08:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "South Korea unveils future technology projects, targets moon landing by 2030 - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWloxM0JBWi1KZHlmdHJEZzZFWnhNeXVnVHRZa0JCdFhfZW5wTF9jeEdrRk9XM2xaWWlMWnhtbS1EVGNpX3Bta2dGcHBHYlF3UVlhV3ZodE1SWjNIMzNrUWc0aXdKQURNdkFZZ3FQMzVEb2FHQ1loTldoREwzaWotLU4yVVJsQWVqQ2k2blctRW9UaXI2Zm9Dc2dIQTJXVkN6OTB5UlFGS2NuX1hLWmFuS2ViY1JHeXVwM242SzgxaFdKLW85VEZodkNn?oc=5",
+          "pubDate": "Wed, 12 Aug 2026 06:01:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Hormuz shipping traffic falls to one-week low amid hostilities - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN1dzT200SXd2Z1ZNMmhKMEN1b1NITFZ5WGRCcU00Zm1KOUd4dC1sU0lERk1SNk5SaExMUlFBc1hzbmQ4YTJQNm15elZ6eUJCRlMzYzZabV9WTGNtWkFpQy02elVaeXhvQmRMSG5oRzgxWFc1b2Faa1hUNGJtV3pZbDZfMzJzMnJWdVM0UU9jMXVKbEpuWTVZSlhkMENxdGRfTFRCLVRqbjhSVXdkQ3lYb2RKYw?oc=5",
+          "pubDate": "Wed, 12 Aug 2026 05:18:00 GMT",
           "source": "Reuters"
         },
         {
@@ -182,15 +200,15 @@
           "source": "Reuters"
         },
         {
-          "title": "Indian shares subdued as higher crude prices weigh - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMzU1RG9ES2Uycy1MN0ZfZzR5V2lwd0NuaGZ2QVJsRVMxMmp0YkFQNElpUXd1cTU1RUtLWkU5Y0dmNnhsSU5jbWVYaFpfYTA2bHhrYVN1ODZKc1FtMkFFM0liNXc5U0lodzU3TEE0dDNGV3plOHdkTUE3MGxVdmxGSHZhVDhvdEhIQ001LU5uN3ZxS3dxUWNNWWRkd3hMdjVBQ2tzZl9xVDM?oc=5",
-          "pubDate": "Wed, 12 Aug 2026 04:41:50 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "Morning Bid: Hot spots sizzle, CPI looms - Reuters",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5iVmtCTVJVU1gwZExtOFZ4QkppNmdUU1FpWjRDZFUzb0RpZENILVVNY3Z6NmY4dld4VWVEU0Roa2dIM2hjOWhKSXZqR0NGbzJ3c3Z2RDJRbmpIMFVUVkxCQzdoa1ppMk9BVE5mVkVxTWcxcVNqdTVxUmdZM19sbWM?oc=5",
           "pubDate": "Wed, 12 Aug 2026 04:32:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US consumer prices likely increased moderately in July as gasoline prices eased - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRldtaThWM1FpYkltN1NKWUM2a2ttQV93LUZXWnJPWGFFeDExUGdGRlhZSDZnZHk5NVM1Z1k2LV9WLVgyTzZISVBTVnBWZVVESUJwa0F6cVVFLV9Wb1JmemRvX3FVRGFMTXRrc2RsaUdMYm8xVmZUS2I3QnJpcWNsWWtFdTAzcVBJNDNxTFJuNEZmNDlRdG9uLWNzQVJiQTlDT3lEQjZEaGgwWkVFX3FkWjRzVUpPSHUwMnc?oc=5",
+          "pubDate": "Wed, 12 Aug 2026 04:02:00 GMT",
           "source": "Reuters"
         },
         {
@@ -198,28 +216,10 @@
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVnRNeGRyXzV4M0FFM3pHajE1VkJpbUhLYnZDQW9MaWhPWGR2TU1xQVlISWkzaWF2RVhlRnBrZ01CcHIxQ0w3ZkRDSVdDa1RZVFcwbnhxUkNCclhhcW15dnh1SnNPXzJ1QzY2OElZel9PLVRoSzdUYkM5a0JBcHlYdENwNVNoMWE5RWtRNUpCdjhuY2ZRMUtVYnpZUGFtT2ZaVmtXNGs3aU5VMjF6Znp0TlVqaWpxN0RTdnJaMFhHNA?oc=5",
           "pubDate": "Wed, 12 Aug 2026 03:58:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Australia sets 'world-leading' minimum pay and insurance rules for gig delivery workers - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaTAyd3pqTU1uQVFBYy0zTEM5YzBGdUdLYTBudHBKNm1WTVVWWlIwTnVQTThXTjBYSW1LMjgwX2NwdUE1blZVTVBOdW5La2NzamtEdnhKT3lUTW5RQUpkNGxTdTRhVFFpYVdua3E2cU5EeWFWSXZZZXZhZktPSHRUTFNtYmR6YWVFRnJieFcxZFd5VVYxTlVPekJ1SzJ0ZkZhT0RuRmhNSWRZRjlXMVNidVBHelpad0RxRl85VHpxN3pzODNvY2FDVVhIb3JNUXhFU1E?oc=5",
-          "pubDate": "Wed, 12 Aug 2026 03:42:14 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US military operations killed 153 civilians in 2025, official says, citing Pentagon assessment - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMEtUb1g4Rnk4OS05dUNyRjZlMFFkRnAxYjhhMUhWcWI4bC1GdmJEOTZmd3BQalppUXQ4VDdDZThuMnFmcVI2SDNtdE95N1pId1ZlTGVUQVc0TzJZQWVtc1paZzNKV012d3dXNUlRcEtPWmplNDJUaVhRX2pnWUVZN19xRkYwN3R6NjFuSVJ0RUxpUHdPTHU1d3M0VTRHQnA5aW56aXMzLVgyRG9FRFZ3X1hHRmhxdTltTkp5YnlrYm16ZEI3YWUteGtBaVQ?oc=5",
-          "pubDate": "Wed, 12 Aug 2026 03:34:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Oil, gold prices rise as geopolitical tensions mount before CPI - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTnAyM2F1aXRKeVZFQU5yVzdLbmplRS1vV28zVXZ0Slo3bmszQjM1enJHU2RlOG5EZWtLYUNmVHdjcHprM19fTnhjUE8tV3VGTFBrelZXM1pOekphNVF1S3EtSTlDcDl5Skw0R19ud3U5NmdhWEk5eVJjV1dudFNhSlhoRQ?oc=5",
-          "pubDate": "Wed, 12 Aug 2026 02:19:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-12T06:54:45.048Z"
+      "updatedAt": "2026-08-12T08:22:49.772Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-12T06:54:45.176Z"
+      "updatedAt": "2026-08-12T08:22:50.029Z"
     }
   ]
 }
