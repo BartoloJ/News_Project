@@ -1,9 +1,33 @@
 {
-  "generatedAt": "2026-08-13T13:59:29.302Z",
+  "generatedAt": "2026-08-13T15:07:55.522Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "UK defends seizing shadow fleet tanker after Putin threat",
+          "link": "https://www.bbc.co.uk/news/articles/cn0npn249qvo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 13 Aug 2026 15:05:12 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
+          "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 13 Aug 2026 14:58:09 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Four Canadian hockey stars remain suspended after sexual assault acquittal",
+          "link": "https://www.bbc.co.uk/news/articles/cj9dpdmr77do?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 13 Aug 2026 14:51:44 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Zambians voting as president bids for second term",
+          "link": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 13 Aug 2026 14:29:11 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Three men will be executed on the same day as death penalties rise in US",
           "link": "https://www.bbc.co.uk/news/articles/cn5n399n6zvo?at_medium=RSS&at_campaign=rss",
@@ -23,38 +47,14 @@
           "source": "BBC News"
         },
         {
-          "title": "UK defends seizing shadow fleet tanker after Putin threat",
-          "link": "https://www.bbc.co.uk/news/articles/cn0npn249qvo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 13 Aug 2026 11:05:03 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Zambians voting as president bids for second term",
-          "link": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 13 Aug 2026 10:51:35 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "Twitch users outraged as Amazon uses their content to train AI in opt-out feature",
           "link": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 13 Aug 2026 10:39:02 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Japan PM says Putin's visit to disputed islands 'absolutely unacceptable'",
-          "link": "https://www.bbc.co.uk/news/articles/cqx7ple0nxxo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 13 Aug 2026 09:54:03 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
-          "link": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 13 Aug 2026 09:40:18 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-13T13:59:28.558Z"
+      "updatedAt": "2026-08-13T15:07:54.191Z"
     },
     {
       "name": "NPR",
@@ -109,11 +109,29 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-13T13:59:28.741Z"
+      "updatedAt": "2026-08-13T15:07:54.478Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Putin’s first trip to the Pacific island chain claimed by Japan draws a protest from Tokyo - AP News",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPN1FBbThicWttam5JSXN6Q1BxM3FvX2h1ZkJiZnBCa084Mk1qZG9UZUwwQVZ5TUMzd0tqRnZYYjBKcHA0b2dOdElab0Z0dm5MTlhoT2hqTGNZT1hlVUdSRHU1WDI1aTByaVd5T1Vyc2RHTHM4N1hQLUt4NkJBblpuVmNQRVNZZENyRnppQzNWWWJUUlcyakZoaXZPUGtyUHc2V1RvRUdXSENQRkJDQlloaDYyQUtEdVVIazFPRg?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 13:48:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Poland says a Russian was arrested after officials thwarted plot to kill Ukrainian American citizen - AP News",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSVRLb0Vwak5DcjRhMWNzd1hBOTNoWE1pazFPU000b1dOVUQ5YmN1X0tEd3lCb3dwR1JrQVVmcWhTcncwaFh5czgxX0dvd0dTS0IzMlRLU3ZiVDZpMlZ1OHlxZndULURtdUwzOFZZOXRBcDJSUFVIakUzaDJ0bWIwZE9yYzM?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 13:41:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "The warming climate is forcing marathons to consider changes to keep runners cool - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSy1tREJFd28wUnhnR1dENkJhbDR0SW95Yk5FQzFBeHBCaDVneFBwaVR5dzNyYVFvVmdVOUFaTHFtZmJtSHZ0b2psc25iT0EzR1B1RnhaVGRpdUxWaEdLYzRuQ1AzTnYySnVlNjBfSnFNZE9pU2h4SHN2UG5rU0syeS1DNHR6TnRWSWc0U0lzN2dyTGgy?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 13:01:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Nigel Farage faces off against Count Binface in special election that's been denounced as a stunt - AP News",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOHJJVEZPSWl3bm1JQ2NRUTFSUWdKUS01QVJRUF90MTJCQWhtS3hhTEpTUW1SMEV6cXFySDJxOFRJN0UySHNabUN4cE40aTZqVk0wdVlqalNHc1Q1ck9Jd3lfdXd0dS14ME5walJWdlNidDJhREw3QzRESTFFRVhkaFVFeWtVdHp4SWtkM1hpS25oaGFkV1d0dXFENUZjWnZUenVXODBSeEhYLWdp?oc=5",
@@ -127,15 +145,15 @@
           "source": "AP News"
         },
         {
-          "title": "Japan's Crown Prince Akishino has 'mixed feelings' on revised male-only imperial succession law - AP News",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMnlEX1A5SS0wdFI3dnFOaDkzaEJCN3RvOW1YTjd6Q2o4WEhueDJnZHphbGgweUZVVU91SjE4M2Q4cVBXcHdPUF9VdzFmTHBCMlYzUmk4WERsUWFJc0JtaXdCOUVNMkE4T0VhTW5QcGZxQzVLVUlUSnRjdXdVa19sOHJEb0paRXYtOURnLXlGdnNISkFVakJnWHBRZ3pjcEoyWE1NY21qRmF3eURJSVFmS2otY18?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 12:26:00 GMT",
+          "title": "Explosion at Dutch port of Rotterdam leaves 1 dead, several injured - AP News",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUzJVaVRQdEpobS14T0dDeGtNUFhEX05XaTFwdHJfcUVvcm9pa2FHMG5OaGF4ODdrZDdqQ1UwTm1GTzdNWk4xREZtUjFfWjd4aUhQZDdNczZQQm1vR29PQUtyaWh2NnNlU3QxRFdMbDJNZElydDZob3g0UnpveWVpblFBU3ZQSzlLSGNTenNKWEllbzQ4NWpYR055X3E2YzdYUndYZDR6clpIMDVNeGc5MjR3?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 12:27:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Putin’s first trip to the Pacific island chain claimed by Japan draws a protest from Tokyo - AP News",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPN1FBbThicWttam5JSXN6Q1BxM3FvX2h1ZkJiZnBCa084Mk1qZG9UZUwwQVZ5TUMzd0tqRnZYYjBKcHA0b2dOdElab0Z0dm5MTlhoT2hqTGNZT1hlVUdSRHU1WDI1aTByaVd5T1Vyc2RHTHM4N1hQLUt4NkJBblpuVmNQRVNZZENyRnppQzNWWWJUUlcyakZoaXZPUGtyUHc2V1RvRUdXSENQRkJDQlloaDYyQUtEdVVIazFPRg?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 12:15:00 GMT",
+          "title": "Japan's Crown Prince Akishino has 'mixed feelings' on revised male-only imperial succession law - AP News",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMnlEX1A5SS0wdFI3dnFOaDkzaEJCN3RvOW1YTjd6Q2o4WEhueDJnZHphbGgweUZVVU91SjE4M2Q4cVBXcHdPUF9VdzFmTHBCMlYzUmk4WERsUWFJc0JtaXdCOUVNMkE4T0VhTW5QcGZxQzVLVUlUSnRjdXdVa19sOHJEb0paRXYtOURnLXlGdnNISkFVakJnWHBRZ3pjcEoyWE1NY21qRmF3eURJSVFmS2otY18?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 12:26:00 GMT",
           "source": "AP News"
         },
         {
@@ -143,32 +161,44 @@
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPejlTamVWblRiVFJyZEhlbUd4Wm02RmRhVkxFdm9tN05WY0hxNEhaa01ENVMxaVdSd0laMnJRZFM4S2puNjRHdnAtdGhleHRoQlpTdUVfS1NkbjlDX3VXNnlpeGRRN3NNeGhLS1BscUd0eGdoamNzczNGMWp4c3l4RkhTRC02bGdlbDYzRDcwOXgzZHdxRjhjSmV1QjZPeTRLUkwtX0xzdUJTQkxmeThYT21UWWkwNXF5WElN?oc=5",
           "pubDate": "Thu, 13 Aug 2026 12:10:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Stingray lashings up as marine heat wave off Southern California draws more to shore - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYi1teFUxMS1GUHppQjMxVVZMclZwUzFjQnF4VnhrTHdmN2YwdGdhTnU2TDUwS3E5NU04TEZhNU9KVEpRcFRGQVQyTUoxRXRMaTIyRndRWGdxMnlZSkhLWUdadlBfTkRkU0NTaDhaTHg1ZFJ2cndRRHlwSXpGY3Z3ZzBBek9RVnFrMTJGcUNR?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 11:39:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Associated Press News: Breaking News | Latest News Today - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 11:33:11 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "A punishing European drought shrivels crops from Dutch potatoes to Bosnian corn - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORzNmbGxpRjV1VllKbGxJanFDbGRtdVNhU0JBNHlwbTE4aVp0aFFNRlZRa2ZTaHlUYkVLa1MyRUI3d3FGS1phR3plZk5ueXowdEV6ejdEcnhJM2hoOHVjSmlOOTFPRTV4QVFScmI0T09qd1ZPT1ByX3JyUlRqcjhsYmFfaW1maTA5YW92OEc4VjRtbWZEN0l1aER6MGJ1WHI2ZGJpeEVn?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 08:28:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-13T13:59:29.183Z"
+      "updatedAt": "2026-08-13T15:07:54.902Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Blast at Rotterdam port energy facility kills one person - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTHMzY0ljNHJlVEdIUEJETWVOYXdZWU90aHg1QmJRMzVwLXhCLVhwNkg2aFBhdE1CNVVzRF84UHl4ODI5NG5pY3pNS1A2UDFPUTdjODNiMEtObVJyX0JKUkVjV1VUTWRtOHdKazhhenlaVjNIcUI3VVRtbFdhS1psY21xLVc5RWpZdUVQM0JhWk1ENURVekdkWmx4QXBoRFMwdVg0?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 14:46:16 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Novo CEO says obesity market won't be winner-take-all battle with Lilly - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTlNoUmF5ZWkzUTJQb3BzWVBBMENKTnBhUzAwWXowZkhYN3FONGFQVGRVYXhlRFB0SjhkdWdfSmNuUDB6VVMtZ2xNdnBBLTlYXzJILUZuZDZPd1hQV3VzTjd6cmlkQUNwQTU5b1NvNm1ONS15WmtVc3ZTNDNjNEZJWG1EaWR5bTFPM0UyOW54cElXNnZ1azUtWVlmTFFBS1A5M3l4OWcyT0pmMU1pemxFTmdwdk1idEFTSE9LeTdLRkw?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 14:20:16 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Fed should raise rates to restrain growth and inflation, Hammack says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVHBQbGpaRk5FcmRfWTlhRmNHeFJiWlpOY2pyY25qdzFka19seGhUU29vMWlvVkxzdW1oMUtYVjN0bU1WNzBsRzZxOS1BLWdRRXVPdDdBdGdPVFRSU2dMZWtXbHZQcmZHTFdhQVU1RXNBYVVyZUdoTjE1RmluSXRxUUpkQXFqUkRXR0RHZ3Fxakh4dEJYY0FUM2toSTNyMFlCc3VpTHlCVTZUbGMtZGZFN0hkVG8?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 14:05:07 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "EXCLUSIVE: Microsoft retreats in China, but AI boom helps it keep a window open - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRjIyVlcxYlQ1eG1Od0FjLUt4eXFxMk9iSlhDdzlfdkVDNjJUT0M1bE1zc2JnR1A3UzNGVjRxeHNGcE9GLUdqVVdKajV0aXcxZjMtTFVGZ2lNYUhySnp4R195WGNrcFVyR3AySU9TNzJwc19QZGlmbW1RZUpEeG9hZzR4ZW5lM2QweC0yRi00U1VfWjVnM1A1c0dnTi11TzRpWTI0UEtwbi1yQQ?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 14:02:33 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "The US says more oil is leaving the Middle East, but is it really? - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcFpiaHV1WkZPRDd0NDNsalc3RURUajFQYWtJdVE1LU4tQTZBWmhDWGl3RnE0bGVfcjk5TzNsNkVoNFQxbXIwa1paaGRnSnFlY1VoaE1uSUQ0RmNxR3h3cmwxdGcyMjhwWC1ncE04OHJSWGFtOVF1bnRCbWlSam01MkdldGFsaVpIcGxnTVFSQ3pUb0FLZ0JaZlJsUHp6NFN6b0tjck4zUDc3QnZBVDk0YTRLU3cycHoydjBRUERR?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 14:02:06 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Trump promised a sex-trafficking crackdown. His Justice Department hasn't delivered. - Reuters",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORjhfbE1EZEdmYXd0R0RsR1AxbUNlc0tNYUt6UEZvdEJmUWdCbVd4R2ZZcDcydVNvVk9qNFpUZ3lXZGxURlU4M0dWUUlhaUNKcldGLUhtWF9XcF9JNEQ3M3NsZnlIQ0N2UVEtcjk2REtXYnB6TEpweHN2REJxdTJQZ1RsekpnZURYaVpUb0x6Y2dFVE5rYVdtak5aWGtoSURtY0R4Rlo1cDdOX1pWUlpXajVtaEduZHhZbk5oeE1aOVBDMjFvNXMtM1hwdUQ?oc=5",
@@ -176,50 +206,20 @@
           "source": "Reuters"
         },
         {
-          "title": "Fed should raise rates to restrain growth and inflation, Hammack says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVHBQbGpaRk5FcmRfWTlhRmNHeFJiWlpOY2pyY25qdzFka19seGhUU29vMWlvVkxzdW1oMUtYVjN0bU1WNzBsRzZxOS1BLWdRRXVPdDdBdGdPVFRSU2dMZWtXbHZQcmZHTFdhQVU1RXNBYVVyZUdoTjE1RmluSXRxUUpkQXFqUkRXR0RHZ3Fxakh4dEJYY0FUM2toSTNyMFlCc3VpTHlCVTZUbGMtZGZFN0hkVG8?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 13:02:47 GMT",
+          "title": "Wall St opens higher as investors weigh weaker oil, PPI data - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUHR2anJaRElybkU1MUtsS1JsREMyQW90SU9hRXAwblVMSDdMZ1d2bDRBUTczVy1pQVh6ZnpDWnhUR3ZqSjNpTXYyektQN0JsSTNaS3MxQVJQLVlvakRnUzAxelE5RFkwMWRqY3ZJUGk4THRXblEtejVuUDdYS3MtVDd3ZEFtN3ItS05JWGxwTklCSkg3YXRQbUZhRDdRWngxVC1xWHgzMVR2TWJPYzZFaFZRV3hHNFpQbm5SZTRacw?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 13:37:42 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Iran's state media mock Trump over airplane switch, meme shows him hiding in a catering truck - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPV1FIaHZjdWh5bnZXZU04TlJVazN6cWVJdFRnYnFpOTk3N285VjlpdGJmdjc1MkNkdVIwQmFFWGY1U1V4X2Q1ZU04SmptOUFhS09FNDBtQVVuTVJBUUptZGp0NHZRVlBQWmpXa0xSNVlUdnlqUXVoNnplNUJYbWVhdUFwdGRWM1VKUm5aaWE0akNtY3l1SGdwQTREQ3VNNFNvU0FNN0hFTVRqOFZLVFVxSWx4cDk1VEVwUV8xMzlZSjlibGpaUTlfQUZmMTVKcC02VktHN1dR?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 12:50:28 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Russia attacks Ukrainian port on Danube, Zelenskiy urges US to send Patriots - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdGY3NUNnVllQUm9IZDIzYnNBWndDSjdPeEdJOTFMemZpaDlWdTJJZDNuRjhyNkd0b1FjTG16YkFqd1NFUGExWFdVd1pvODh0bnRwVkstbDlQYU9wTGZ0ZXNubjhwNm1Hd1RrN012d0JFWGQwY2w4cGVuZmNCTVJLNzl1M1BrS2h3S25IU3RwcHo4NXE1N3FIS1JhYnhxQnV3WkVxMmVPWmdIMXd5OGlCRFYtYw?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 12:43:25 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Rotterdam port explosion causes one death, police say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTHMzY0ljNHJlVEdIUEJETWVOYXdZWU90aHg1QmJRMzVwLXhCLVhwNkg2aFBhdE1CNVVzRF84UHl4ODI5NG5pY3pNS1A2UDFPUTdjODNiMEtObVJyX0JKUkVjV1VUTWRtOHdKazhhenlaVjNIcUI3VVRtbFdhS1psY21xLVc5RWpZdUVQM0JhWk1ENURVekdkWmx4QXBoRFMwdVg0?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 12:32:30 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Cerebras slumps as mixed quarterly results test AI growth narrative - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaUo1UndBenVpbnhDNXAwazVSelR2aDVlTzI3N1dLWFRRU2h2Wm5YX1ZraDY1VFZ2bS1laVh5MndyZU00c010d0IxTG5jMmk4ODRob3ZrOG5YXy1HYkpmZ2Q0czFiZGxuWnNwYVltXzhFemlwOHg5RVh0VWFNUmtnS3RyRmc2Nml2QnE5Vk9GaGNfcTZ0dlZsaDZ2ckVBTHZISFdWM21MSTgydzFwM1E?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 12:17:45 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Diesel prices overtake jet fuel in Europe as global shortage widens - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQejlyV0VLYkdZTjh6Z2JGUF8tczNIMGNic1RNSlY4cC13b01ERjV0ZnpmSFNpSHFRSThUUDIzY25KbmpLTVVLMzB1aXJEODJMMUl5QkY3OU95TlR0S215YnJTelNxYy1PT2NKbHdqZ0xidV9lRGRxa3ppekp3aENoRmFleG53RF9XVFFpRmtvNEwwSFJ2WHpxZExaS1FyZDZpdmJoeUtpYjJ0U18wa3FLTUNmYw?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 12:12:14 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "EXCLUSIVE: Microsoft retreats in China, but AI boom helps it keep a window open - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRjIyVlcxYlQ1eG1Od0FjLUt4eXFxMk9iSlhDdzlfdkVDNjJUT0M1bE1zc2JnR1A3UzNGVjRxeHNGcE9GLUdqVVdKajV0aXcxZjMtTFVGZ2lNYUhySnp4R195WGNrcFVyR3AySU9TNzJwc19QZGlmbW1RZUpEeG9hZzR4ZW5lM2QweC0yRi00U1VfWjVnM1A1c0dnTi11TzRpWTI0UEtwbi1yQQ?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 12:01:44 GMT",
+          "title": "Mighty Norway wealth fund warns of erosion in shareholder rights - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOFdQTUM2blBTRDR3NFBQOElEclJzTFV1OG50c2tCSnRVeFhESGQ1TlpoaWstTTNZaW5jR0hRckx1RWpLdXRwOUc2S1IyeWtraWdGZTFiZjhXQjY2Q1BxOXNhMDZoWVdMQVpsSWtEVjlBbGUySWYzb09ZRC1DTmR1SHNEZXpVYlQwWmw0S0d5eE5GOFNvd1ByYVM5b25hS28wRzhLNm1TZ0xxWmJNYkhySE5lRjZMV21z?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 13:19:57 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-13T13:59:29.193Z"
+      "updatedAt": "2026-08-13T15:07:55.346Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-13T13:59:29.302Z"
+      "updatedAt": "2026-08-13T15:07:55.522Z"
     }
   ]
 }
