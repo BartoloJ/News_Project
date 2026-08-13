@@ -1,9 +1,15 @@
 {
-  "generatedAt": "2026-08-13T20:05:31.318Z",
+  "generatedAt": "2026-08-13T21:23:53.642Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
+          "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 13 Aug 2026 20:12:17 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
           "link": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
@@ -35,12 +41,6 @@
           "source": "BBC News"
         },
         {
-          "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
-          "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 13 Aug 2026 16:20:41 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "Presidential pardon for French alleged spy accused of plotting Mali coup",
           "link": "https://www.bbc.co.uk/news/articles/c2el29e3m3xo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 13 Aug 2026 15:50:49 GMT",
@@ -54,7 +54,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-13T20:05:29.711Z"
+      "updatedAt": "2026-08-13T21:23:52.133Z"
     },
     {
       "name": "NPR",
@@ -109,11 +109,35 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-13T20:05:30.020Z"
+      "updatedAt": "2026-08-13T21:23:52.380Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Iran-backed Houthis clash with Yemeni forces and other Mideast developments - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPX2xURUdxd3E4WWRRZkVmOFBCOWIzaXNSLTJZbTkyRVVHNXlXaEd5Sk4yQ3VHcFBFNjR5YW9wOUZMSkpRYkpJZHQwNzNUQ0dQUjZfS25iUTRFY1FFbHRBQWtZb0pVenFRZC1UNG0wZjR2aUZ5cEwzWGc2SjFJLUh4Ym16eTJhVG5JLU4xNVdhRUc3NnRsWHdjMGgtZ09UaHRLMjMzM2tvTDRzblNZd2c?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 21:00:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Forbes editor out; report says he took $6M from founder of firm that does business with magazine - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdG5yUG5YTHk1Qm9zeERSaldEV2JtSnFTSlJUNW8zYmIxZUg3d1JYTXZSUXhhUXZWcXJscHhmLTdOTklRTGxEY1dSa1pjTEpiejYzdFNxMVQwbnE1dU45YVZSSW4zZzVjTUhpajI5d1luQzVvUjVQbm1OZFl5NHUzdFdrM3lHTTRWNDNfZld0WQ?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 20:52:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "New aircraft carrier heads toward Mideast after reports of issues on long-deployed USS Lincoln - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb1lxbDFVekRpTzE0UC1XQ2VBSEZ6cVJPcG1OQjZ5S210Wll1dmtBbDRvY05LRXFWVFoyQkotdkRnOXFXU09XT3Z3Y2VITDdCSjdIU21CMWhCaHNTNm1vYTEyMS13clVFcHpJeVlrVWtOa3FJdjZ3bUx2aDdhalpOVF9Id0ZFRE9WUTVpSHlXYm5nYVBtdzFEeGktaG5qbzMtSzJkWUE2Ulo4ZEVTdHZLREt1OA?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 20:50:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Broken engine parts shattered the Ryanair plane window that a passenger's head got sucked into: NTSB - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNX0dMUWR0N1NCdC1lR3hzYVI3UG9ZUFRVWWdEMEpXV1RzLWZrWTN5VjI1dVFKYmo3YzRvUU5YYVkwTjZXdTdUU0FyamN2cTZvUmRqLWwtc2NnYzFoUDNZczRqSEUxc1hjZlJfbGZZcTZOSXRzMWYybzhaQjFjWmZ1NkhLa3hrRGNqallzZlY0cHVkMmo3alZnb3dyb0ZpMzU0cVE?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 20:25:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Kennedy Center votes to restore Trump's name and close for 2 years, challenging a judge's order - AP News",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNS3dncGxOOUM5ZXRnUzA3Wkl0ZGowMTRibm1ybTFJNEh1Qmlsd0hNbGczMjZzRHQ5NzhwdHZ0MTdZb3E2OFAydURsMzJxaVVHTVhCY2U2V2VMWlg5b2VpTlplcmVOSnNMSXVySjF3TW1saXBjVm54bVJISnNNYjdCYzMxT3NhLUk2aVRVc1pGckNZeHpkSW9ibHZyc29RNHIwcVE?oc=5",
@@ -121,54 +145,60 @@
           "source": "AP News"
         },
         {
+          "title": "Luigi Mangione expected to plead guilty in federal case in UnitedHealthcare killing, AP source says - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRFFIczBaNVdaX0VtUU9zOEZienY4Uy1YYzgtVjVrelZfRGxMRTBaMFlxbWU2VDU2cEN2cnFyRXdzYnVka0RKWUlLUFNNbmIwLUZBemU4eTcweUs4X0ROV3ZvZGhTRVphSFlZWW9qa0Z4dGRGZmxnZ0JWYy1zRkkwZGsyRkdPYkdjeTJoZFAxX29ZaW5RcmVqSnJvc21zbkstVGc?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 19:25:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "A British firm starts containment of oil spill from stricken tanker off Oman - AP News",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeERhdUViWmhrNlBhUGx2M2tHYjEydTktUkNjLTZmOWRGeWl3NHdsSE1ELXFIMmVvbVIzV1lkSVlWYzFVZkhkVEM1WHZTUG1LWExtVnRoeHd4ZVR6YmZQMzJiVE4yRDFSYVJ1SDFPUkphUmI2QzJndDVKOUk2MjdSOGdPWjVsMnd0dlkteEF1cTJCOWZyclVDczBWaFdncXBZbzNZTVV4R2xVM2xmbnR3bQ?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 18:57:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Trump’s vaccine plan would require millions of individual shots last used decades ago - AP News",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNY2R1Y21OR1lSdTNjcVZSNUpUUzlJVEFPcHY3Wjg4QmMwQTZ5V2ZjQ3hnVlkwMXY0c052UXlrSFBSTXZVZXVtNnpnUTdNQVlIT3VYbXR3cDR6ZjRVeDJZb3RUV1FWZ1d1ZVNyQ2g4VFhSb09GRjBBMFBfdjlYcktuZWVlbzJRRkJVeDA3QXJKaEg2UXc?oc=5",
           "pubDate": "Thu, 13 Aug 2026 18:42:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Flock announces changes amid backlash over its license plate reader network - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWFBPRjNmS2lOVjNzblhEVGYxVUlTLUw5Y1Y3RlVhYnlmTDdwLVdobTZjUkloVHI4eEl1NkVEdkpiOTRUTlhPbVNFREs3MFE5eG9OMXRGdzJMYjA5SWlPTTZLRUFkWnpmRTNKOGRNWENnYWYyclRCYWU4b1ZyQUstXzYwbUtDcVdWcHdsMHljVDhEcWlPUGtHXzFweF94OExaZjJVNTV1LWs2MXNE?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 18:17:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Iran-backed Houthis clash with Yemeni forces and other Mideast developments - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPX2xURUdxd3E4WWRRZkVmOFBCOWIzaXNSLTJZbTkyRVVHNXlXaEd5Sk4yQ3VHcFBFNjR5YW9wOUZMSkpRYkpJZHQwNzNUQ0dQUjZfS25iUTRFY1FFbHRBQWtZb0pVenFRZC1UNG0wZjR2aUZ5cEwzWGc2SjFJLUh4Ym16eTJhVG5JLU4xNVdhRUc3NnRsWHdjMGgtZ09UaHRLMjMzM2tvTDRzblNZd2c?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 18:00:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Israeli settlers’ siege of Palestinian homes draws a sharp US rebuke - AP News",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZjg4cjNRa214Zmg2OEk1S1ltSkZnd2RLcmlReHNZaDJZeTlfZVU3VjZtb1o5WjVTVV9WRnNmRTgtRnRvS3I5TWR1bUtjWExlV2t2NllOb1lTUV9kNEJodFdqdDFSOEJxWXVJRHR1SWxzN1UzTVJhTFM5TkE5SUZkdGxZMllaRzkzM2twRjJmTW9BcUVwaWNyV2FVYlFITHZqUjhFRWNGMC16b2g3dlh0ZWN6Q1dVd3FXM01RRA?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 17:59:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "US unemployment claims rise but remain at healthy level - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYUpfN3dUYnY0V1lqb3RNNEF0eUxudEt5Tkk3OGZibXVmZ0pHRTFJZnk4M1lNRWFTSDU2cjhtbTA1NTlJellfWnpHM0txb196eVdnVG5hS3REelZFcDNtNE1WRVRyRV9iQlZLZVVDMC1PbEdqWm5vZzJmOWp1MDVidF9fd01LN3hwWEJ4NzNMSWRNMWp1cHFDVDZxTEltUW1vaGc?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 17:19:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Congo’s fastest-growing Ebola outbreak reaches a sixth province - AP News",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9yYzh0TnZzSUllczctOEVhSUhxUWZIZllmLTEwdzlxeXRBOTFqNHh3cEczT19RZzFfT0NoUTlJRlQyTlFNQkJYV1FCTFk5TTVJZGhVaWlZZDFPdFlDcXdpdGgwS2RCdWNEYmxhRG5jalQ1dTI3TWdWWm15cw?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 17:16:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Kirk Cousins’ view on mentoring is different from Joe Montana and Brett Favre’s - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNY0ptbF96NkdkY1FHd1NYd0dmNXRVYTRUdEx3ek81M255NVpGVDJ6WjR6dDJ2eDIwWUE5b0U2ZVExeVpnOUhiZzBWYkhud0dJallaczRsV1VQNzJhT0hLa3FRdlE1WEp1WHJTbGhySjJBNkJSdHJJSkVFcFRmUFR6Vy04ejBfejlhY0Nj?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 16:47:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-13T20:05:30.474Z"
+      "updatedAt": "2026-08-13T21:23:52.883Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "S&P 500 notches record-high close as rate-hike worries ease - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUHR2anJaRElybkU1MUtsS1JsREMyQW90SU9hRXAwblVMSDdMZ1d2bDRBUTczVy1pQVh6ZnpDWnhUR3ZqSjNpTXYyektQN0JsSTNaS3MxQVJQLVlvakRnUzAxelE5RFkwMWRqY3ZJUGk4THRXblEtejVuUDdYS3MtVDd3ZEFtN3ItS05JWGxwTklCSkg3YXRQbUZhRDdRWngxVC1xWHgzMVR2TWJPYzZFaFZRV3hHNFpQbm5SZTRacw?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 20:28:32 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "EXCLUSIVE: S&P 500 CEO pay jumps to record as Musk-inspired compensation plans spread - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOUJTTzhvYWR4dlFwd3NWQ1VLVEdxVGRKc0ZtSlhOTFFwTUFTUE5xMTQ3VFp5ZVdnNktGeFViZlBHbTNtaC13TjNtOEI4UUwzVm1UTVd1VlM1OTlGajctZVQxb3Nlb09CMXJONWhRS0c5YWZHdWhydlVWVXd5MjVaOTk1RUota3Z6LWxjWkg5UkpOZnlBd2VUOXl4bjVTWkdqLWlKYnN2VFhPM1Q2UDJndWdYLS1wSVJzVWI4cWs5cmQzTXRp?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 20:22:39 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Kennedy Center board votes to inscribe Trump's name on building - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZ1JNRjYzNHhTVEotdzlYTWNXNS1JR3pSRlVFdXZPNlpMRW1iTTVrYTZickt4ZG5tbzk3LXl0TlV1U2c5d3ltY1ltRzk2VmZYcGdIT29LMkFuR2VTYzFmcTdyMGdUblJ1MzU2S0VDdlBGSG5YbjF1REJDSVVMODJiVzdJakltbkFKN1FUXzBNSkdlMnhsR0g0NmtmN0Z1aFBBdXVj?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 19:56:18 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Luigi Mangione expected to plead guilty in federal case over insurance CEO killing, NYT reports - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOXzhjaE9wWUZGTHNQdkcwX3hEaXlvUUJaNTctTTFyTjE5XzRvVnBCT19CWkZQcGt1WHFVWHNZX05TLUFLV3c0MkpYTVExNHA2NkQ1OHpuMlQ3ODd3aF9OMlhoc0tsTDRuVndoT2oxaDVlOGFOSGVNeDE2clBlWnRGQmFvRFlMQk1sbVlTRmRvWFl3UG1UX0tPM2tIYjJtcTlHQmdKR25Eand2UGRXRkQ4QVgxY0pYMTVKLXc?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 19:56:05 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US could not verify Israeli warnings of Iran plots against Trump, sources say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSnhVZVpUNm9PZUM5Z3VkNWp1NVJNdmdYcTZDblZhWURVRnhKLWtNTTVUeHpaNE5wN2M0cGU1WFBycHhGT2h4T2taMTR0NUduWkRCczBUMTVwaldHY0lNVzB6QkZMMHg4dUM3ekkwaWJWME9NSHlWSUl6R0pXYk92V3BZM1NNVnRNNVRFR1hhVXU2blhNTEdKeWh6c3pGUVNSS09XTDgwNkxtMmVSU1lnQVZob2FldllGeWVMRUZ1NkRnNEs5WUE?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 19:53:53 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Sandisk forecasts mid-to-high-teens revenue growth through 2030 - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcEg3aWlJTVQ4NXJyNVFQOTlLX3EyTDZRcnJKclpnQ2h2Q2pqS3pqYjZuZDRDYVF3clFENzlVTXFKcnRaNGdXMDFzUTFjSmgwd1hWMVlFSWg0eVU2bmwzcGpQZEE3T3VrNzlpQWpFUkQ3WFRzUkRsbUVXT1M0eTktZUNob3BuZUZaRTloc0NfY1NSUWp3WWNjTDJXZ1BxX1N1b0d2cVFUdkwzWVB5?oc=5",
@@ -186,40 +216,10 @@
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMFdCWm05MXVPcGVJM0JLeGszcGJsdVM0aUZIUEladkFoRzAtR25qdlpiVzkzaGIzUXREaVZ5cUt0aElmVUl1UEdmeU1yZjJLUmlxNXJ5RmRvQzZrYnZyOFhDUDVkUEhPb2FpY0p4RFV1X0RDVDFwS3FidXRXODJjdUpnbGN4X0pINk1mT0xHMm0wbi1kbmVtSkRQUWN1TVVrYXljN3FScVFxR1NpSE1oT05Ua2c?oc=5",
           "pubDate": "Thu, 13 Aug 2026 18:45:23 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "How will Latin America's super El Niño affect the top food-exporting region? - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNExaRXhUZjBCQ1p5S3Y1OFptVElXZk56TFFpOFBzY25zZGxsNExmNVpCSzJTb3Z3T09BaUZlU2xzR1ZyYWVQSWEyS3VuVjNxeEp4VWd0Y3ZkSDNHWkc2SGZyMjA5ZTk3Mm1GX05KQ1VhOThoekM4S3p3azVYZVdHNl9ybndIRDVZbzl1c2tGZ05LaDdKaks0eHZBeHQ4Z2ZMQ1hOM0V5V0dnWFdSOXBzd29kcFdkN0NqaWI2NWFHVjNvMGZZ?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 18:41:56 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Stocks rise as traders reduce rate hike bets, oil prices drop - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNazlfTWozZlI1am8yV1pmREdVZGswQ1NPWl92dGhIN3lVbWJRaFA2YWhWNDQ4NWwweXZpbmpLOGFmcDlUdDhBSGFyU1piOVBzam1JOEN2RVFDOXdWOFk2LTB1MklsRzRfVmlaR3BTb2ZFNmw2U0hjUnhNLUd3cVV0WElxVQ?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 18:41:41 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "S&P 500 hits record high as rate-hike worries ease - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUHR2anJaRElybkU1MUtsS1JsREMyQW90SU9hRXAwblVMSDdMZ1d2bDRBUTczVy1pQVh6ZnpDWnhUR3ZqSjNpTXYyektQN0JsSTNaS3MxQVJQLVlvakRnUzAxelE5RFkwMWRqY3ZJUGk4THRXblEtejVuUDdYS3MtVDd3ZEFtN3ItS05JWGxwTklCSkg3YXRQbUZhRDdRWngxVC1xWHgzMVR2TWJPYzZFaFZRV3hHNFpQbm5SZTRacw?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 18:35:25 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Hundreds still missing in Colombia as desperation grips earthquake rescue effort - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdTlvYTRPQnZ2b3ZFaHNQeDc1ZWdlaXlmc1AwQTJ4bnFKQ2xHRmpaSGRRa2o0U1ZOR0w3RnhiNDFBMmlicjE1RFpIdXBhUmtqTmhpYzhBUDVjaG5sLVFyZGlpZllnSVpxWlJHRW5GRW5TTjh5YVluangyMGNsR0RJRDNWUmNLazluRUFuUVVIN0JKLTR0NkpvX2pOdkdyOFNEVHA2U2MwVnVoZjhwbTdDcEljd1VTLWllWlh3YUtVX1Z1Mlh5Q1JGZQ?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 18:07:09 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "EXCLUSIVE: S&P 500 CEO pay jumps to record as Musk-inspired compensation plans spread - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOUJTTzhvYWR4dlFwd3NWQ1VLVEdxVGRKc0ZtSlhOTFFwTUFTUE5xMTQ3VFp5ZVdnNktGeFViZlBHbTNtaC13TjNtOEI4UUwzVm1UTVd1VlM1OTlGajctZVQxb3Nlb09CMXJONWhRS0c5YWZHdWhydlVWVXd5MjVaOTk1RUota3Z6LWxjWkg5UkpOZnlBd2VUOXl4bjVTWkdqLWlKYnN2VFhPM1Q2UDJndWdYLS1wSVJzVWI4cWs5cmQzTXRp?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 18:06:52 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-13T20:05:31.022Z"
+      "updatedAt": "2026-08-13T21:23:53.295Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-13T20:05:31.317Z"
+      "updatedAt": "2026-08-13T21:23:53.642Z"
     }
   ]
 }
