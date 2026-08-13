@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T19:08:59.804Z",
+  "generatedAt": "2026-08-13T20:05:31.318Z",
   "sources": [
     {
       "name": "BBC News",
@@ -7,7 +7,19 @@
         {
           "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
           "link": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 13 Aug 2026 19:07:55 GMT",
+          "pubDate": "Thu, 13 Aug 2026 20:01:30 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
+          "link": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 13 Aug 2026 19:46:27 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Family of Irish plane crash victim awarded $29m in damages",
+          "link": "https://www.bbc.co.uk/news/articles/ce85p80nn2yo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 13 Aug 2026 19:08:49 GMT",
           "source": "BBC News"
         },
         {
@@ -29,12 +41,6 @@
           "source": "BBC News"
         },
         {
-          "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
-          "link": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 13 Aug 2026 16:05:35 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "Presidential pardon for French alleged spy accused of plotting Mali coup",
           "link": "https://www.bbc.co.uk/news/articles/c2el29e3m3xo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 13 Aug 2026 15:50:49 GMT",
@@ -45,16 +51,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cx2k1r97vx7o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 13 Aug 2026 15:30:57 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "UK defends seizing shadow fleet tanker after Putin threat",
-          "link": "https://www.bbc.co.uk/news/articles/cn0npn249qvo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 13 Aug 2026 15:05:12 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-13T19:08:58.241Z"
+      "updatedAt": "2026-08-13T20:05:29.711Z"
     },
     {
       "name": "NPR",
@@ -109,15 +109,27 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-13T19:08:58.526Z"
+      "updatedAt": "2026-08-13T20:05:30.020Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Kennedy Center board votes to add Trump's name to the facade of the performing arts building - AP News",
+          "title": "Kennedy Center votes to restore Trump's name and close for 2 years, challenging a judge's order - AP News",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNS3dncGxOOUM5ZXRnUzA3Wkl0ZGowMTRibm1ybTFJNEh1Qmlsd0hNbGczMjZzRHQ5NzhwdHZ0MTdZb3E2OFAydURsMzJxaVVHTVhCY2U2V2VMWlg5b2VpTlplcmVOSnNMSXVySjF3TW1saXBjVm54bVJISnNNYjdCYzMxT3NhLUk2aVRVc1pGckNZeHpkSW9ibHZyc29RNHIwcVE?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 18:51:00 GMT",
+          "pubDate": "Thu, 13 Aug 2026 19:48:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Trump’s vaccine plan would require millions of individual shots last used decades ago - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNY2R1Y21OR1lSdTNjcVZSNUpUUzlJVEFPcHY3Wjg4QmMwQTZ5V2ZjQ3hnVlkwMXY0c052UXlrSFBSTXZVZXVtNnpnUTdNQVlIT3VYbXR3cDR6ZjRVeDJZb3RUV1FWZ1d1ZVNyQ2g4VFhSb09GRjBBMFBfdjlYcktuZWVlbzJRRkJVeDA3QXJKaEg2UXc?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 18:42:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Flock announces changes amid backlash over its license plate reader network - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWFBPRjNmS2lOVjNzblhEVGYxVUlTLUw5Y1Y3RlVhYnlmTDdwLVdobTZjUkloVHI4eEl1NkVEdkpiOTRUTlhPbVNFREs3MFE5eG9OMXRGdzJMYjA5SWlPTTZLRUFkWnpmRTNKOGRNWENnYWYyclRCYWU4b1ZyQUstXzYwbUtDcVdWcHdsMHljVDhEcWlPUGtHXzFweF94OExaZjJVNTV1LWs2MXNE?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 18:17:00 GMT",
           "source": "AP News"
         },
         {
@@ -145,40 +157,52 @@
           "source": "AP News"
         },
         {
-          "title": "Flock announces changes amid backlash over its license plate reader network - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWFBPRjNmS2lOVjNzblhEVGYxVUlTLUw5Y1Y3RlVhYnlmTDdwLVdobTZjUkloVHI4eEl1NkVEdkpiOTRUTlhPbVNFREs3MFE5eG9OMXRGdzJMYjA5SWlPTTZLRUFkWnpmRTNKOGRNWENnYWYyclRCYWU4b1ZyQUstXzYwbUtDcVdWcHdsMHljVDhEcWlPUGtHXzFweF94OExaZjJVNTV1LWs2MXNE?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 16:40:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Poland says it thwarted a Russian plot to kill an American citizen in Warsaw - AP News",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSVRLb0Vwak5DcjRhMWNzd1hBOTNoWE1pazFPU000b1dOVUQ5YmN1X0tEd3lCb3dwR1JrQVVmcWhTcncwaFh5czgxX0dvd0dTS0IzMlRLU3ZiVDZpMlZ1OHlxZndULURtdUwzOFZZOXRBcDJSUFVIakUzaDJ0bWIwZE9yYzM?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 16:39:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "In the Reflecting Pool saga, the National Park Service's mission is tested by Trump's demands - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWFZfbjhGTXJLaGJDMXUzdVVqck5FWHZDbFpWcUgxMktnUVp6RmdwdTJNVERZTmRBekE1SUViT0FxN2Jma2QxQUZVMi1pSWt5S19NTWVXU0podFRjUGNrLV9CczZNcWswTTJxUlVBYTBqRVBQelRkclRsSmd2aGNpMVlMMUpkYXp0NGVGWGJKQTN1U3RXNWhURUluXzZuaElXT3B6ckNB?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 16:39:00 GMT",
+          "title": "Kirk Cousins’ view on mentoring is different from Joe Montana and Brett Favre’s - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNY0ptbF96NkdkY1FHd1NYd0dmNXRVYTRUdEx3ek81M255NVpGVDJ6WjR6dDJ2eDIwWUE5b0U2ZVExeVpnOUhiZzBWYkhud0dJallaczRsV1VQNzJhT0hLa3FRdlE1WEp1WHJTbGhySjJBNkJSdHJJSkVFcFRmUFR6Vy04ejBfejlhY0Nj?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 16:47:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-13T19:08:59.107Z"
+      "updatedAt": "2026-08-13T20:05:30.474Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "Sandisk forecasts mid-to-high-teens revenue growth through 2030 - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcEg3aWlJTVQ4NXJyNVFQOTlLX3EyTDZRcnJKclpnQ2h2Q2pqS3pqYjZuZDRDYVF3clFENzlVTXFKcnRaNGdXMDFzUTFjSmgwd1hWMVlFSWg0eVU2bmwzcGpQZEE3T3VrNzlpQWpFUkQ3WFRzUkRsbUVXT1M0eTktZUNob3BuZUZaRTloc0NfY1NSUWp3WWNjTDJXZ1BxX1N1b0d2cVFUdkwzWVB5?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 19:14:14 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "EXCLUSIVE: Silver Lake in talks to buy Workday, sources say - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbDFoSlRtR1RvcWRPUmFxenVMN09MZU0wMEpuTlI3a19xamlXeXlQcHZReEt3WXFXU3llTDdvQVZTZExrZFRVWGdrNDFxRnRTLVRJeXBxejlXd3hmSmhFdFNqY1FlRXkwTVpfeUJhODdfSGFuWFplcXRTeElXX0hFZkhhUFVlYmN6ekNZ?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 18:46:55 GMT",
+          "pubDate": "Thu, 13 Aug 2026 19:11:11 GMT",
           "source": "Reuters"
         },
         {
           "title": "Shein loses UK copyright lawsuit against rival Temu in key e-commerce ruling - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMFdCWm05MXVPcGVJM0JLeGszcGJsdVM0aUZIUEladkFoRzAtR25qdlpiVzkzaGIzUXREaVZ5cUt0aElmVUl1UEdmeU1yZjJLUmlxNXJ5RmRvQzZrYnZyOFhDUDVkUEhPb2FpY0p4RFV1X0RDVDFwS3FidXRXODJjdUpnbGN4X0pINk1mT0xHMm0wbi1kbmVtSkRQUWN1TVVrYXljN3FScVFxR1NpSE1oT05Ua2c?oc=5",
           "pubDate": "Thu, 13 Aug 2026 18:45:23 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "How will Latin America's super El Niño affect the top food-exporting region? - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNExaRXhUZjBCQ1p5S3Y1OFptVElXZk56TFFpOFBzY25zZGxsNExmNVpCSzJTb3Z3T09BaUZlU2xzR1ZyYWVQSWEyS3VuVjNxeEp4VWd0Y3ZkSDNHWkc2SGZyMjA5ZTk3Mm1GX05KQ1VhOThoekM4S3p3azVYZVdHNl9ybndIRDVZbzl1c2tGZ05LaDdKaks0eHZBeHQ4Z2ZMQ1hOM0V5V0dnWFdSOXBzd29kcFdkN0NqaWI2NWFHVjNvMGZZ?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 18:41:56 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Stocks rise as traders reduce rate hike bets, oil prices drop - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNazlfTWozZlI1am8yV1pmREdVZGswQ1NPWl92dGhIN3lVbWJRaFA2YWhWNDQ4NWwweXZpbmpLOGFmcDlUdDhBSGFyU1piOVBzam1JOEN2RVFDOXdWOFk2LTB1MklsRzRfVmlaR3BTb2ZFNmw2U0hjUnhNLUd3cVV0WElxVQ?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 18:41:41 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "S&P 500 hits record high as rate-hike worries ease - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUHR2anJaRElybkU1MUtsS1JsREMyQW90SU9hRXAwblVMSDdMZ1d2bDRBUTczVy1pQVh6ZnpDWnhUR3ZqSjNpTXYyektQN0JsSTNaS3MxQVJQLVlvakRnUzAxelE5RFkwMWRqY3ZJUGk4THRXblEtejVuUDdYS3MtVDd3ZEFtN3ItS05JWGxwTklCSkg3YXRQbUZhRDdRWngxVC1xWHgzMVR2TWJPYzZFaFZRV3hHNFpQbm5SZTRacw?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 18:35:25 GMT",
           "source": "Reuters"
         },
         {
@@ -192,34 +216,10 @@
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOUJTTzhvYWR4dlFwd3NWQ1VLVEdxVGRKc0ZtSlhOTFFwTUFTUE5xMTQ3VFp5ZVdnNktGeFViZlBHbTNtaC13TjNtOEI4UUwzVm1UTVd1VlM1OTlGajctZVQxb3Nlb09CMXJONWhRS0c5YWZHdWhydlVWVXd5MjVaOTk1RUota3Z6LWxjWkg5UkpOZnlBd2VUOXl4bjVTWkdqLWlKYnN2VFhPM1Q2UDJndWdYLS1wSVJzVWI4cWs5cmQzTXRp?oc=5",
           "pubDate": "Thu, 13 Aug 2026 18:06:52 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Large explosion rips through Italian munitions factory - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbzlib09ZOXJsVWdfY0lrdHRnWm1PSmExUEloYkRkd3lkNkRnTEFvQ3ZkS0c5MXV6VUVTa1BhcmJ5bEEwcldaSEljamlyczl2STlvcmgwZEhIUXh4ZTNTSGhpS1VqSnRuVkg4OTU3bi1sYWtsZ0hSa081ZHRCUGN1dGVJZlc0UEFNdGVpcldHSkRwNzU1c2pUMWJ4MU8?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 18:05:41 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Blast at Rotterdam port energy facility kills one person - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTHMzY0ljNHJlVEdIUEJETWVOYXdZWU90aHg1QmJRMzVwLXhCLVhwNkg2aFBhdE1CNVVzRF84UHl4ODI5NG5pY3pNS1A2UDFPUTdjODNiMEtObVJyX0JKUkVjV1VUTWRtOHdKazhhenlaVjNIcUI3VVRtbFdhS1psY21xLVc5RWpZdUVQM0JhWk1ENURVekdkWmx4QXBoRFMwdVg0?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 18:05:07 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Iran, US make competing claims over control of Strait of Hormuz - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdnRSa0s5a1NHbzFqLTczc1FydWJqXzd1Nmc4ZEJoWlRheExRdUpFMjdxS2haWDc5cHdmRUNONVEzRjhaZjUyLVNmV0NpcXROSkFwaDBpVlBkOHc1SU52OXptQ1hLRnE1NVNIRHpxUVU5MFgxRTFpYUNFMnNGQXdtbTF3a05qV3gwNEpxaEswd053TXFPbnlSZExIc01hck56MjIyV2d4QQ?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 17:51:32 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US producer prices unchanged in July, further dimming rate hike odds - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUjJMQngwSWd3ZlZVVGluVU44dU9XbWU4bnR4YlBVLWVqSWVSUnYybjlaTDdPQzBxRFQ2YVVQQlVvZlB0ek91SVdPSEFrcWx4TWJaOGNHbXFTN0lzS0ViVkozcHY2c0IyZGpiSVFLUDBOSkFqWjFUNzNZdTk4cTBzS0FPaTg4R3lEVnIzS1RhaXVaTXJ3bHRkMXAtOFNxUUxvb2RFZVlKLWx1S3RiX2Zya1h5RlN0UQ?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 17:47:28 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-13T19:08:59.601Z"
+      "updatedAt": "2026-08-13T20:05:31.022Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-13T19:08:59.804Z"
+      "updatedAt": "2026-08-13T20:05:31.317Z"
     }
   ]
 }
