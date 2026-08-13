@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T08:38:42.744Z",
+  "generatedAt": "2026-08-13T10:13:26.254Z",
   "sources": [
     {
       "name": "BBC News",
@@ -7,7 +7,19 @@
         {
           "title": "Japan PM says Putin's visit to disputed islands 'absolutely unacceptable'",
           "link": "https://www.bbc.co.uk/news/articles/cqx7ple0nxxo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 13 Aug 2026 08:13:55 GMT",
+          "pubDate": "Thu, 13 Aug 2026 09:54:03 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "UK defends seizing shadow fleet tanker after Putin threat",
+          "link": "https://www.bbc.co.uk/news/articles/cn0npn249qvo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 13 Aug 2026 09:52:30 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
+          "link": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 13 Aug 2026 09:40:18 GMT",
           "source": "BBC News"
         },
         {
@@ -39,26 +51,38 @@
           "link": "https://www.bbc.co.uk/news/articles/cx2v1893n3eo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 13 Aug 2026 04:09:12 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
-          "link": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 13 Aug 2026 03:28:56 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Australian army whistleblower released on parole after more than two years in jail",
-          "link": "https://www.bbc.co.uk/news/articles/c5yw7vdwjxyo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 13 Aug 2026 02:23:39 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-13T08:38:41.249Z"
+      "updatedAt": "2026-08-13T10:13:24.615Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "U.S. ambassador calls settler siege of Palestinian homes a 'horrific act of terror'",
+          "link": "https://www.npr.org/2026/08/13/g-s1-138574/us-west-bank-settlers",
+          "pubDate": "Thu, 13 Aug 2026 05:58:40 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Sailors and their families have lives on pause, uncertain if they'll return to Mideast",
+          "link": "https://www.npr.org/2026/08/13/nx-s1-5929463/evacuation-bahrain-troops-iran-war",
+          "pubDate": "Thu, 13 Aug 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "These swing voters in Nevada say they are not dismissing socialist candidates",
+          "link": "https://www.npr.org/2026/08/13/nx-s1-5929406/nevada-economy-socialism-focus-groups",
+          "pubDate": "Thu, 13 Aug 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Morning news brief",
+          "link": "https://www.npr.org/2026/08/13/nx-s1-5927061/morning-news-brief",
+          "pubDate": "Thu, 13 Aug 2026 04:44:44 -0400",
+          "source": "NPR"
+        },
         {
           "title": "New indictment alleges Nick Reiner was lying in wait before killing his parents",
           "link": "https://www.npr.org/2026/08/13/g-s1-138566/reiner-indictment",
@@ -82,34 +106,10 @@
           "link": "https://www.npr.org/sections/the-picture-show/2026/08/12/nx-s1-5929788/photos-best-photos-from-solar-eclipse",
           "pubDate": "Wed, 12 Aug 2026 21:38:01 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "ICE plans to outfit officers with electric shock gloves",
-          "link": "https://www.npr.org/2026/08/12/nx-s1-5929545/ice-buys-electric-shock-gloves",
-          "pubDate": "Wed, 12 Aug 2026 18:13:57 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Trump sued over service selling faster access to Truth Social posts",
-          "link": "https://www.npr.org/2026/08/12/nx-s1-5929391/trump-truth-social-api-lawsuit",
-          "pubDate": "Wed, 12 Aug 2026 16:33:10 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Controversial group wins $158M-contract to represent unaccompanied immigrant children",
-          "link": "https://www.npr.org/2026/08/12/nx-s1-5929456/migrant-children-our-rescue",
-          "pubDate": "Wed, 12 Aug 2026 16:19:40 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "White House press secretary leaving",
-          "link": "https://www.npr.org/2026/08/12/nx-s1-5929560/karoline-leavitt-white-house-press-secretary-leaving",
-          "pubDate": "Wed, 12 Aug 2026 16:05:54 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-13T08:38:41.541Z"
+      "updatedAt": "2026-08-13T10:13:25.003Z"
     },
     {
       "name": "AP News",
@@ -117,19 +117,37 @@
         {
           "title": "Iran war - AP News",
           "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 07:27:07 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Millions crowd Spanish cities to see country’s first total solar eclipse in over a century - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSWxPSks4anlXZ3AwVXZ4YlRoMzYxRHFuc2dpTllDUTJrbHUwSU5LNzRyRnlzVmNDaWFtb1FZcFRVeVJJeHRBU1NDUVhnV21ycjM2cnNKbHIzN0JITzI0RVFBUmFoMTFCTHROVk91NWc2bngxRG5vZmc3RVVCeHdLcS11Y2I5dlhhUEM5Wm44cnRwR29OWjhjRnJhT1RZTFU?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 05:56:00 GMT",
+          "pubDate": "Thu, 13 Aug 2026 09:20:15 GMT",
           "source": "AP News"
         },
         {
           "title": "Zambians cast ballots in a presidential election that tests incumbent’s economic reforms - AP News",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTThmQnFUX3lIallnOHExbTVZbmc1anVQLUREMjRRSU56Q0tEUHJHMlJFSG9Yc0VpazVwcDUwb0xndmZXWDZfQTlqSkR4cEhsRTBtSmVza09XejNzYWhsUW9vRl93VmI0dlctZlF3T3JwZzBrYmFiaHd2NzlCTk5oVklBaFN1dTUtZG9ER1lld0RNMjMyaXBtbmpxMA?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 05:14:00 GMT",
+          "pubDate": "Thu, 13 Aug 2026 08:12:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Putin pays his first visit to Pacific island chain claimed by Japan, drawing a protest from Tokyo - AP News",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPN1FBbThicWttam5JSXN6Q1BxM3FvX2h1ZkJiZnBCa084Mk1qZG9UZUwwQVZ5TUMzd0tqRnZYYjBKcHA0b2dOdElab0Z0dm5MTlhoT2hqTGNZT1hlVUdSRHU1WDI1aTByaVd5T1Vyc2RHTHM4N1hQLUt4NkJBblpuVmNQRVNZZENyRnppQzNWWWJUUlcyakZoaXZPUGtyUHc2V1RvRUdXSENQRkJDQlloaDYyQUtEdVVIazFPRg?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 07:32:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Canadian wildfire that forced 20,000 to flee may signal ‘new normal,' province's premier says - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUUtCYmtXZFVlZHF0Sl93Nkh1MDFadFJDNThMTGpMVERYZzhFVTJ0bjZTeWVvLXYxUEFsVVVfRlhUSG1xdEZCakdXOHB3UE1JMWVyYVFONVZxOTBqcUx1X09DNG9NLXUyc2cxZ3JPMEp1SGtvZXhRTVBqMzgyQVcwMTRQY3kyM2hienQzUGNMWFRqaVB6Um02dQ?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 06:46:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Millions crowd Spanish cities to see country’s first total solar eclipse in over a century - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSWxPSks4anlXZ3AwVXZ4YlRoMzYxRHFuc2dpTllDUTJrbHUwSU5LNzRyRnlzVmNDaWFtb1FZcFRVeVJJeHRBU1NDUVhnV21ycjM2cnNKbHIzN0JITzI0RVFBUmFoMTFCTHROVk91NWc2bngxRG5vZmc3RVVCeHdLcS11Y2I5dlhhUEM5Wm44cnRwR29OWjhjRnJhT1RZTFU?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 06:38:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Zambia is voting in a presidential election. Here’s why China and the US might be interested - AP News",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeUVUY2pDMC1uZzZkWkZuanQxN0VxeW5ER09VSXdBQVRLWXRnQVRabmZvTGdMR0lRZE9zRWZIRlB4eHZLYW1kYkRFRTNWVWZpSzEzcnFaQUtYRlBYVXl1WXZObmQzZ1I1STlXUGhYV2tzWUx5S2xoVElhQTR0b3RjZkxSb0FaR1pkVW1TWmxTbTBLNHRaekltNENOdG1GQWRTaXJtd2htcUNEV1N4VkM0ZWN3?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 05:50:00 GMT",
           "source": "AP News"
         },
         {
@@ -143,32 +161,32 @@
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMnRrcDVvWEJ0VV9PNVhzNFNENmg5TGpTVHNzVmp3b2dxOVlMMkptb0JrVm4zLTk5NmZoN0tLb2xyNnJCcndibjBNUWhPM2Nkcm1RSFhwOC1DdzZZemEtWkQ2WHdib1ZjMm1WYThBYl9pOEtMMkN4X1NZYWhQWFVadmpRSWtHOFRIMkYzZDdLUnc5QQ?oc=5",
           "pubDate": "Thu, 13 Aug 2026 04:02:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Earthquake response strains Colombia's new government and rescuers as they race against the clock - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcUVMM3B0dFY2Qk5WYnZROWNMYU5JckVUUmQ4U2dvV0FnQkRZNDdlZWFaSmtUREZtaDFmWjMzNWlRVkZCaFdCSTlndVBkcld3d1l2S0RwcGpkTTZvRXY4Mi1yS0Y3SDZjUloxTWlKVWhBanFpOEtzeFVndUh0WExKZFliYmswNVBKWWxpNFNFZy1aSEVxNnZRUmtrTVh3RUpUZEE?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 03:21:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Ex-Chinese Premier Zhu Rongji, who drove economic reforms and led China into the WTO, dies at 97 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOR25IM0RVVXhxc3hnYWdTUW9jN25fUnd5ZUFtaERuc0ZIVkJjbjdTM2VNX3gyeHNmcUxNMUVGZzFFU3N2MjNsNzRJR252QVVLeF9LT3VjRnFGQXd0TVNZa3gzaGlFTEFZc3ZkN0VfQmdmODhrekg5X1NLWkFxdC1mcmZPdW16ak5oN3JOVlZGdjBYaG5sRlMzLXF0QVU?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 02:10:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Deaths and damage reported as severe weather in the Midwest spawns tornadoes and flash flooding - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaXljSUJBZktTQjhrT2QtUUdlZVBFbUtJbUhiV25HSS00eEc4OUo3SkktT1VPTUNYSkVPMFR6YWwwMUdBaUoxNUt6RnQ3RklNSjRZTlNqaFR4eWpjMmlGWTBDQmdGRmNWVGV5bFU1UGliS19Ia1ZfTXFxamo0Vjc4WUFDcVZCWHhvbFlMNXNBWUc3MVlGNFlMQlN1SDdpT1U2bHlmWnZZQnFpdw?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 02:04:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-13T08:38:42.019Z"
+      "updatedAt": "2026-08-13T10:13:25.674Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Romanian Nuclearelectrica starts shutting down sole working nuclear reactor - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdGhXbFM5QXFmajRHRDJaUnRpRHhRSjVoWlpKQWdPangwX2g4cTB4SzNsN2lpOTZxN1Q3ejZQWFpzekxwcTdGWVZoTWFuOGFWam1oVmNUX2RzVHU1MjEtQzh2ZHRoam9JVi1rT01kN2dQcnJUbzRLNHNqQkVXR0VERk1VdW5QX0JKWEw5dEJoM2E4bjhUUGZsckdnbHdoVXROMm5yTkRWZEVvaGxsR0xRQzFwVXNjLVBfMlNGMkZ5V1JQV2kwM2c?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 07:25:03 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Ukrainian drone strikes push up Russian trucking costs, stoking inflation - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOUNfM3NLVGpXZm1ZYTR1dERnZlhTU1dEUThhTXNfekJoN2FrSkI4azZXN0hid1QtQ1ItX1EyeElMR05XdHFsQnVTQlp6Uk41b3VIRXVrZklSYjlvc0lwZzdIS0pSM3pFUFhaVXh2Nld2alFTUW1qakxycHEzM01kVV9PWkV2R2xCT2t0SVNyNGNBU1lJa0NRb2NsamgzbHNsX0pWeFhmRXR5S0RGRnNiUXZPZHhOQnhG?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 07:11:43 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Shein eyes Hong Kong market debut on August 28, source says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaDNENFpLUnhteVB5a3N5QWtBd3pNVEk0UnI1R19feDR0MG9qeXd6VzZBaWNHX0xjcjlPdHJTZ0wxMTdqdnNBY2FtWlI1Umt5XzY1VThfS2dfUVA1eDhTekZmNFJPSmZlUTd5d1czelZielE3WWdCNEtYV2QxalozRGM4S2ZWTTRKWjBZX2dBTGNlSElocFlVNlBFclpPRmFQeEhmMFVDUFJYN3l0UnlVbw?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 06:26:00 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "India's Larsen and Toubro secures AI data centre order worth up to $1.57 billion - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONjd5OHJBUmlVRjZJclVLaGdiOW5oVkVEcXpwdzQ2Y3BIaHNpQWpIaHFUTW5tUnFqUGk2TDFORVRLeFZCcHI3cDJUd1IzQ090b1BXTWo3SVQyMnk1aVFKMjRBX2ZiZ1Q5WVY0bFJrZl95UXFGX1F0ZjNEUXU4a1pFN1lqOTFVUmJVd0tycGRLM0UwdUg3VnlWSVJvcDUwc2RMdy1MUlFmMTNzQQ?oc=5",
@@ -198,28 +216,10 @@
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdk4walQtOHRpY0R0NXVRZFF0OVY0aUR6X1FLMEVKTktzOVk3MWhIalBWNERpLXpqOWwzWkNEdE5lLVJxRVJybzI3S0VWZFdKZERfQ05CN1B3VXpqaUkzc2s3Zmw0cXVoNHJHTjVORWp1SWhNeUVQUTNQWmlPTjRmZWt3M1hJTFBfOXVodlBiN3dtbHRRVE9rQzJWaExHRThlcXp6UjFn?oc=5",
           "pubDate": "Thu, 13 Aug 2026 06:04:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Ice cream makers bet consumers still want treats, just healthier ones - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZ2NWbElFc1NqcnN5bkFZbHQzUEc5V1ZRQ21vcjd6TVF2WTljV2NfLThWYWV4OVJzdjlGLTVOTDRtOVBIVEVHWFRDYWwyVElybktsdUFYaEZtTEJPeUtmeG1CQkJhMHc0WkY2RVNxSktMRjE3QTF2N1VDUkZfWUJVeERNU0VFM1FZQ1lxYUpPZkRQdjRqQ3Zkcno2Nm4yRVlHYVBGZHh0aFlOSHh5bjZwZjhHRDJUbkU3RDNEYU5R?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 06:02:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "EXCLUSIVE: Emails reveal Indian carmakers' fuel contamination worries before public retreat - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZGFLdHB6YThpOU5xN0M1dktiSnBzZWxsREwzTVVYZm83aVJqdWo5bU5FbU9vN1JHSnBIRDQxbGQtWm1oOE1MYlp4c2M5UHg4MVIxelpjbFVaUjlXNXRTNWJFY0xndnZlTUNjblo1V3Z5RzZ1U1hSNl85b3pVbURKalQwR3dkbjNTVGZ5RGNxbXZfZ1hCZ1VFVm5CZzZFakZUY0F0TmFfeVIydndCcjVOb2NkNlNrd3lZV1VxMzk3ZjY0cTlPdnc?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 05:51:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Jailed Istanbul mayor Imamoglu joins new opposition party amid political turmoil - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbEV3SWIzTHVVZllzRFo2RlNPT2RyMGM4VFJRem9vTGdsbE9YU3VVaEphNjVkZHlWb3J2aVdEQmI2ekY1YlEwb3RHSFUybHotdUxObjhYMktSdmdHSlpJM1hGczZWQ29rSGxZVHdBMGdDX083MFpNVW9HNmdKTGhZcnBQd0hNM3R0Nm9ucG1pR0ozTzNyRF9kOElkeFUzdElPdk95aVpXUEpWcE1LRkZjUWdjWnBLTzU0YUNIY0hwUVI3NkdoV1BlVFBOU2kzQ2s?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 05:47:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-13T08:38:42.450Z"
+      "updatedAt": "2026-08-13T10:13:26.096Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-13T08:38:42.744Z"
+      "updatedAt": "2026-08-13T10:13:26.254Z"
     }
   ]
 }
