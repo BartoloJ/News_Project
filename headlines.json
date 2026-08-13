@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T17:32:23.333Z",
+  "generatedAt": "2026-08-13T19:08:59.804Z",
   "sources": [
     {
       "name": "BBC News",
@@ -7,19 +7,19 @@
         {
           "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
           "link": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 13 Aug 2026 17:21:00 GMT",
+          "pubDate": "Thu, 13 Aug 2026 19:07:55 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Mangione lawyers to meet federal prosecutors amid reports of plea deal",
+          "link": "https://www.bbc.co.uk/news/articles/c5yw71q9y00o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 13 Aug 2026 18:45:51 GMT",
           "source": "BBC News"
         },
         {
           "title": "Air India to test all pilots for banned substances",
           "link": "https://www.bbc.co.uk/news/articles/c2352jyvm5xo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 13 Aug 2026 16:52:15 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Mangione lawyers to meet federal prosecutors amid reports of plea deal",
-          "link": "https://www.bbc.co.uk/news/articles/c5yw71q9y00o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 13 Aug 2026 16:45:06 GMT",
           "source": "BBC News"
         },
         {
@@ -54,11 +54,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-13T17:32:21.732Z"
+      "updatedAt": "2026-08-13T19:08:58.241Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Kennedy Center Board votes again to shut main building down — and add Trump's name back",
+          "link": "https://www.npr.org/2026/08/13/nx-s1-5930349/kennedy-center-shut-down-board-vote-trump",
+          "pubDate": "Thu, 13 Aug 2026 14:55:30 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Mangione could plead guilty in federal case ahead of N.Y. murder trial",
+          "link": "https://www.npr.org/2026/08/13/nx-s1-5930397/mangione-federal-court-hearing-guilty-plea",
+          "pubDate": "Thu, 13 Aug 2026 13:29:15 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Vladimir Putin's first visit to disputed Pacific islands draws Tokyo protest",
           "link": "https://www.npr.org/2026/08/13/g-s1-138631/vladimir-putins-first-visit-to-disputed-pacific-islands-draws-tokyo-protest",
@@ -94,132 +106,120 @@
           "link": "https://www.npr.org/2026/08/13/nx-s1-5929473/primary-voters-send-mixed-signals-about-what-they-want-from-the-democratic-party",
           "pubDate": "Thu, 13 Aug 2026 06:59:33 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "U.S. ambassador calls settler siege of Palestinian homes a 'horrific act of terror'",
-          "link": "https://www.npr.org/2026/08/13/g-s1-138574/us-west-bank-settlers",
-          "pubDate": "Thu, 13 Aug 2026 05:58:40 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "These swing voters in Nevada say they are not dismissing socialist candidates",
-          "link": "https://www.npr.org/2026/08/13/nx-s1-5929406/nevada-economy-socialism-focus-groups",
-          "pubDate": "Thu, 13 Aug 2026 05:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-13T17:32:22.004Z"
+      "updatedAt": "2026-08-13T19:08:58.526Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "An explosion strikes an ammunition plant near Rome; no injuries reported - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSmZfd2k1WlhiR2ZjYkNxczBycTA3cklsb3hGR1RXLXk4NDd1Q1ROQUpJT0dZSFo0SVF2MTJXVmc5a2xwRUttcF9WT0YzZ0E4U2g2dmhROXIzSjh2ZmxqODI5YjdXVXVIQlUxX1F1cl9GcVhjTy1UNkFsaEFfcVNNWDZnOXR1dllxaHVsX011NllUTWVOOV9ybENoZmh4aW4w?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 17:07:00 GMT",
+          "title": "Kennedy Center board votes to add Trump's name to the facade of the performing arts building - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNS3dncGxOOUM5ZXRnUzA3Wkl0ZGowMTRibm1ybTFJNEh1Qmlsd0hNbGczMjZzRHQ5NzhwdHZ0MTdZb3E2OFAydURsMzJxaVVHTVhCY2U2V2VMWlg5b2VpTlplcmVOSnNMSXVySjF3TW1saXBjVm54bVJISnNNYjdCYzMxT3NhLUk2aVRVc1pGckNZeHpkSW9ibHZyc29RNHIwcVE?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 18:51:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Poland says it thwarted a Russian plot to kill an American citizen in Warsaw - apnews.com",
+          "title": "Iran-backed Houthis clash with Yemeni forces and other Mideast developments - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPX2xURUdxd3E4WWRRZkVmOFBCOWIzaXNSLTJZbTkyRVVHNXlXaEd5Sk4yQ3VHcFBFNjR5YW9wOUZMSkpRYkpJZHQwNzNUQ0dQUjZfS25iUTRFY1FFbHRBQWtZb0pVenFRZC1UNG0wZjR2aUZ5cEwzWGc2SjFJLUh4Ym16eTJhVG5JLU4xNVdhRUc3NnRsWHdjMGgtZ09UaHRLMjMzM2tvTDRzblNZd2c?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 18:00:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Israeli settlers’ siege of Palestinian homes draws a sharp US rebuke - AP News",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZjg4cjNRa214Zmg2OEk1S1ltSkZnd2RLcmlReHNZaDJZeTlfZVU3VjZtb1o5WjVTVV9WRnNmRTgtRnRvS3I5TWR1bUtjWExlV2t2NllOb1lTUV9kNEJodFdqdDFSOEJxWXVJRHR1SWxzN1UzTVJhTFM5TkE5SUZkdGxZMllaRzkzM2twRjJmTW9BcUVwaWNyV2FVYlFITHZqUjhFRWNGMC16b2g3dlh0ZWN6Q1dVd3FXM01RRA?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 17:59:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "US unemployment claims rise but remain at healthy level - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYUpfN3dUYnY0V1lqb3RNNEF0eUxudEt5Tkk3OGZibXVmZ0pHRTFJZnk4M1lNRWFTSDU2cjhtbTA1NTlJellfWnpHM0txb196eVdnVG5hS3REelZFcDNtNE1WRVRyRV9iQlZLZVVDMC1PbEdqWm5vZzJmOWp1MDVidF9fd01LN3hwWEJ4NzNMSWRNMWp1cHFDVDZxTEltUW1vaGc?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 17:19:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Congo’s fastest-growing Ebola outbreak reaches a sixth province - AP News",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9yYzh0TnZzSUllczctOEVhSUhxUWZIZllmLTEwdzlxeXRBOTFqNHh3cEczT19RZzFfT0NoUTlJRlQyTlFNQkJYV1FCTFk5TTVJZGhVaWlZZDFPdFlDcXdpdGgwS2RCdWNEYmxhRG5jalQ1dTI3TWdWWm15cw?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 17:16:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Flock announces changes amid backlash over its license plate reader network - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWFBPRjNmS2lOVjNzblhEVGYxVUlTLUw5Y1Y3RlVhYnlmTDdwLVdobTZjUkloVHI4eEl1NkVEdkpiOTRUTlhPbVNFREs3MFE5eG9OMXRGdzJMYjA5SWlPTTZLRUFkWnpmRTNKOGRNWENnYWYyclRCYWU4b1ZyQUstXzYwbUtDcVdWcHdsMHljVDhEcWlPUGtHXzFweF94OExaZjJVNTV1LWs2MXNE?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 16:40:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Poland says it thwarted a Russian plot to kill an American citizen in Warsaw - AP News",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSVRLb0Vwak5DcjRhMWNzd1hBOTNoWE1pazFPU000b1dOVUQ5YmN1X0tEd3lCb3dwR1JrQVVmcWhTcncwaFh5czgxX0dvd0dTS0IzMlRLU3ZiVDZpMlZ1OHlxZndULURtdUwzOFZZOXRBcDJSUFVIakUzaDJ0bWIwZE9yYzM?oc=5",
           "pubDate": "Thu, 13 Aug 2026 16:39:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "250,000 Colluli minifridges recalled over fire and burn hazards - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYjRwY211UzNDd1I4RDZRME00WWM0bk9GUW1tYTdoUlRkdWEyR0IzNk9WTTR0WHkxbkVIejh5Tl9ISGtta3VlMEFoZ2xCQ3VzWnRmWTRCcUNWaExKTFB4b3NSdUVVQ19pRDdYbjlra1JTU056clVmUWM1S0NHc2Jac3NZSFVaNkQ1elBXZlloVWJYMGhsdU96NzM5ZC1zUnc?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 15:26:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Winning ticket for $1 billion Powerball jackpot was sold in Illinois - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbzA3NmQ1RVZlVm9WRkFxYjJ6Nk1PQ25reENDLWlycUtnUF9NNEF1ZzRTcVIzQ0ZYMVNVYmhzalRjQzdSWXhlTk5MOXBrdk5hSUlaUFVXWFpUT0JmQmg0aFlwNV96UjJkWXlrNHZZbk5nVDlwejJzbHBud2V3NkZwTkYtZE9Ea2RNNjFTNjZLVWFYLXZJdmQ4?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 15:05:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Amid public backlash, surveillance tech company Flock announces platform changes - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWFBPRjNmS2lOVjNzblhEVGYxVUlTLUw5Y1Y3RlVhYnlmTDdwLVdobTZjUkloVHI4eEl1NkVEdkpiOTRUTlhPbVNFREs3MFE5eG9OMXRGdzJMYjA5SWlPTTZLRUFkWnpmRTNKOGRNWENnYWYyclRCYWU4b1ZyQUstXzYwbUtDcVdWcHdsMHljVDhEcWlPUGtHXzFweF94OExaZjJVNTV1LWs2MXNE?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 14:45:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Explosion at Dutch port of Rotterdam leaves 1 dead, several injured - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUzJVaVRQdEpobS14T0dDeGtNUFhEX05XaTFwdHJfcUVvcm9pa2FHMG5OaGF4ODdrZDdqQ1UwTm1GTzdNWk4xREZtUjFfWjd4aUhQZDdNczZQQm1vR29PQUtyaWh2NnNlU3QxRFdMbDJNZElydDZob3g0UnpveWVpblFBU3ZQSzlLSGNTenNKWEllbzQ4NWpYR055X3E2YzdYUndYZDR6clpIMDVNeGc5MjR3?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 14:41:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Wholesale price inflation slows last month as gas, food costs fall - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMFpmYXlXQ1RWT2hkQjExNVRORGl6OGdpZl8xQmsweV8xYWRnRnhWY1FIMnhoTXBhQncxcWQybmFKNk1KT3BIc0VOdHd4T1BTTkVCQVd4Z3BYcnBzSTJSZHB2UzZuUWtfenVDSy00ZXhUUFJSNlpsUXJGNUdXQUx4MXVuSXRjZFg3X3pIX2hHV3BOdGNaeFo4dXZ3SDNUaHd6MXRQSy1n?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 14:19:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "The Ebola outbreak has spread to a new province in Congo, the head of Africa CDC says - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9yYzh0TnZzSUllczctOEVhSUhxUWZIZllmLTEwdzlxeXRBOTFqNHh3cEczT19RZzFfT0NoUTlJRlQyTlFNQkJYV1FCTFk5TTVJZGhVaWlZZDFPdFlDcXdpdGgwS2RCdWNEYmxhRG5jalQ1dTI3TWdWWm15cw?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 13:55:00 GMT",
+          "title": "In the Reflecting Pool saga, the National Park Service's mission is tested by Trump's demands - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWFZfbjhGTXJLaGJDMXUzdVVqck5FWHZDbFpWcUgxMktnUVp6RmdwdTJNVERZTmRBekE1SUViT0FxN2Jma2QxQUZVMi1pSWt5S19NTWVXU0podFRjUGNrLV9CczZNcWswTTJxUlVBYTBqRVBQelRkclRsSmd2aGNpMVlMMUpkYXp0NGVGWGJKQTN1U3RXNWhURUluXzZuaElXT3B6ckNB?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 16:39:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-13T17:32:22.560Z"
+      "updatedAt": "2026-08-13T19:08:59.107Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "EXCLUSIVE: Silver Lake in talks to buy Workday, sources say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbDFoSlRtR1RvcWRPUmFxenVMN09MZU0wMEpuTlI3a19xamlXeXlQcHZReEt3WXFXU3llTDdvQVZTZExrZFRVWGdrNDFxRnRTLVRJeXBxejlXd3hmSmhFdFNqY1FlRXkwTVpfeUJhODdfSGFuWFplcXRTeElXX0hFZkhhUFVlYmN6ekNZ?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 18:46:55 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Shein loses UK copyright lawsuit against rival Temu in key e-commerce ruling - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMFdCWm05MXVPcGVJM0JLeGszcGJsdVM0aUZIUEladkFoRzAtR25qdlpiVzkzaGIzUXREaVZ5cUt0aElmVUl1UEdmeU1yZjJLUmlxNXJ5RmRvQzZrYnZyOFhDUDVkUEhPb2FpY0p4RFV1X0RDVDFwS3FidXRXODJjdUpnbGN4X0pINk1mT0xHMm0wbi1kbmVtSkRQUWN1TVVrYXljN3FScVFxR1NpSE1oT05Ua2c?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 17:02:55 GMT",
+          "pubDate": "Thu, 13 Aug 2026 18:45:23 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Iran, US make competing claims over control of Strait of Hormuz - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdnRSa0s5a1NHbzFqLTczc1FydWJqXzd1Nmc4ZEJoWlRheExRdUpFMjdxS2haWDc5cHdmRUNONVEzRjhaZjUyLVNmV0NpcXROSkFwaDBpVlBkOHc1SU52OXptQ1hLRnE1NVNIRHpxUVU5MFgxRTFpYUNFMnNGQXdtbTF3a05qV3gwNEpxaEswd053TXFPbnlSZExIc01hck56MjIyV2d4QQ?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 16:57:45 GMT",
+          "title": "Hundreds still missing in Colombia as desperation grips earthquake rescue effort - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdTlvYTRPQnZ2b3ZFaHNQeDc1ZWdlaXlmc1AwQTJ4bnFKQ2xHRmpaSGRRa2o0U1ZOR0w3RnhiNDFBMmlicjE1RFpIdXBhUmtqTmhpYzhBUDVjaG5sLVFyZGlpZllnSVpxWlJHRW5GRW5TTjh5YVluangyMGNsR0RJRDNWUmNLazluRUFuUVVIN0JKLTR0NkpvX2pOdkdyOFNEVHA2U2MwVnVoZjhwbTdDcEljd1VTLWllWlh3YUtVX1Z1Mlh5Q1JGZQ?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 18:07:09 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Judge dismisses Trump administration lawsuit alleging Harvard failed to protect Jewish students - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeUxNQlNveHU1ZXM3bHZMVG55SDExN1MzdUN4UXRZTmVwT2EwS2gyMnI3YXJDM0VYcnFyeEpiNUI3bUlWSXYtSXM0NkRnMVc1ODN5V1pOdlVSdUh4WTYtV2ZzVGwwbk5tV0t1NmpBWTZGaUNmMHlOOGFBb2hPdDZMbjZKM2wtNnVhNUU4aEFVNFF0bHM3bTJocmw5aTU3bW1XN3Bmb1dnQjhTcWxnYXl5RDZtcldJQ1M5SnFCN1Jn?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 16:50:56 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Robinhood's second fund for retail investors eyeing private markets starts trading - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcjF4dEVha1N3MWtDbGF0S1l4TUlFZHdiaHF4V1pGbFFkaGN2M3A5RHFBRmZaOTNGZlo1RkJ1YVRkZGt0eDhmVVVhcHdfNGpOUHd3OTVBcVJLcTVMY3Z0dlpLMi11YWh6Z25ma3F4VFV1TWlWMFZDcW54R055TW44b1BIV1E2dXhlLXduWVJDc3JUZEo5UWhmVzNFUVJ4R1VxNEdaYzFaZHNuZUxWRzlnU2ZEc0JHYlB5bGl1QXUxSkZuSnZtak9QR0dnQVZqb3pW?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 16:50:11 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Tech stocks power S&P 500 to record high as oil prices, producer inflation ease - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUHR2anJaRElybkU1MUtsS1JsREMyQW90SU9hRXAwblVMSDdMZ1d2bDRBUTczVy1pQVh6ZnpDWnhUR3ZqSjNpTXYyektQN0JsSTNaS3MxQVJQLVlvakRnUzAxelE5RFkwMWRqY3ZJUGk4THRXblEtejVuUDdYS3MtVDd3ZEFtN3ItS05JWGxwTklCSkg3YXRQbUZhRDdRWngxVC1xWHgzMVR2TWJPYzZFaFZRV3hHNFpQbm5SZTRacw?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 16:24:15 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Israel sends troops into West Bank homes besieged by Jewish settlers - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZnkwN181TzdJQXA2ajNoUENXQTVxVTBvaDVrMHNfT0FldklHZGZ0Y094aFRMM3B2ZXpBbjdneUdKQ2h4aFQyTjdweE1uNXRtWEpXdVhWc29HbkVyU01qcUtnek0yTjVqdU5pQUlkUVdEeGFxUVhEdGRjQ2hPT0JmYTRuMTVtVVhFU050aVhnVnlUZ2ltRVZROEJoQ3lUZC1jYVI3ZV9nSm53bU9pcGtmdjBSQXJQMFBJdzc4aGw3aU0wQQ?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 16:16:40 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US can keep naval blockade on Iranian ports \"indefinitely,\" Pentagon chief says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVG5Gb2NKOTltbG9CVlpKTElmclFqS1JyWGtIckF6UzhMYlVCQUp4a1FEWnRzWDQxS24ycTZYTEstVHIzbzhpMENnMWVzV2kxdklsV0pFR3h5Nk93OGtDRUJndkJhWEMtaUNjQm1scHdJZlczYWlfcUZXQ2pLMGp6S3k0YTdMUS1zaUxyWk1Sd2VSUWpFUmxxb285T1JaUGdUM2paUGotRk5JLWY1QVJWR1lTOC1XWC1xbndPdk5LdkdpTXR2VXc?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 16:15:43 GMT",
+          "title": "EXCLUSIVE: S&P 500 CEO pay jumps to record as Musk-inspired compensation plans spread - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOUJTTzhvYWR4dlFwd3NWQ1VLVEdxVGRKc0ZtSlhOTFFwTUFTUE5xMTQ3VFp5ZVdnNktGeFViZlBHbTNtaC13TjNtOEI4UUwzVm1UTVd1VlM1OTlGajctZVQxb3Nlb09CMXJONWhRS0c5YWZHdWhydlVWVXd5MjVaOTk1RUota3Z6LWxjWkg5UkpOZnlBd2VUOXl4bjVTWkdqLWlKYnN2VFhPM1Q2UDJndWdYLS1wSVJzVWI4cWs5cmQzTXRp?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 18:06:52 GMT",
           "source": "Reuters"
         },
         {
           "title": "Large explosion rips through Italian munitions factory - Reuters",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbzlib09ZOXJsVWdfY0lrdHRnWm1PSmExUEloYkRkd3lkNkRnTEFvQ3ZkS0c5MXV6VUVTa1BhcmJ5bEEwcldaSEljamlyczl2STlvcmgwZEhIUXh4ZTNTSGhpS1VqSnRuVkg4OTU3bi1sYWtsZ0hSa081ZHRCUGN1dGVJZlc0UEFNdGVpcldHSkRwNzU1c2pUMWJ4MU8?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 16:04:12 GMT",
+          "pubDate": "Thu, 13 Aug 2026 18:05:41 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Blast at Rotterdam port energy facility kills one person - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTHMzY0ljNHJlVEdIUEJETWVOYXdZWU90aHg1QmJRMzVwLXhCLVhwNkg2aFBhdE1CNVVzRF84UHl4ODI5NG5pY3pNS1A2UDFPUTdjODNiMEtObVJyX0JKUkVjV1VUTWRtOHdKazhhenlaVjNIcUI3VVRtbFdhS1psY21xLVc5RWpZdUVQM0JhWk1ENURVekdkWmx4QXBoRFMwdVg0?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 18:05:07 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Iran, US make competing claims over control of Strait of Hormuz - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdnRSa0s5a1NHbzFqLTczc1FydWJqXzd1Nmc4ZEJoWlRheExRdUpFMjdxS2haWDc5cHdmRUNONVEzRjhaZjUyLVNmV0NpcXROSkFwaDBpVlBkOHc1SU52OXptQ1hLRnE1NVNIRHpxUVU5MFgxRTFpYUNFMnNGQXdtbTF3a05qV3gwNEpxaEswd053TXFPbnlSZExIc01hck56MjIyV2d4QQ?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 17:51:32 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US producer prices unchanged in July, further dimming rate hike odds - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUjJMQngwSWd3ZlZVVGluVU44dU9XbWU4bnR4YlBVLWVqSWVSUnYybjlaTDdPQzBxRFQ2YVVQQlVvZlB0ek91SVdPSEFrcWx4TWJaOGNHbXFTN0lzS0ViVkozcHY2c0IyZGpiSVFLUDBOSkFqWjFUNzNZdTk4cTBzS0FPaTg4R3lEVnIzS1RhaXVaTXJ3bHRkMXAtOFNxUUxvb2RFZVlKLWx1S3RiX2Zya1h5RlN0UQ?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 17:47:28 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-13T17:32:23.084Z"
+      "updatedAt": "2026-08-13T19:08:59.601Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-13T17:32:23.333Z"
+      "updatedAt": "2026-08-13T19:08:59.804Z"
     }
   ]
 }
