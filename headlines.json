@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-08-14T15:59:24.949Z",
+  "generatedAt": "2026-08-14T17:04:05.606Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Zambia vote counting resumes after pause over alleged attacks on polling staff",
+          "link": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 14 Aug 2026 16:28:59 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Trump asks Supreme Court to allow ballroom work to continue",
+          "link": "https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 14 Aug 2026 15:10:41 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Moment €9m worth of art stolen from Italy museum",
           "link": "https://www.bbc.co.uk/news/videos/cddjlrzd26eo?at_medium=RSS&at_campaign=rss",
@@ -23,12 +35,6 @@
           "source": "BBC News"
         },
         {
-          "title": "Presidential vote counting halted in Zambia over alleged attacks on polling staff",
-          "link": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 14 Aug 2026 11:37:31 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "Stolen Matisse artworks recovered by police in Brazil",
           "link": "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 14 Aug 2026 10:55:39 GMT",
@@ -45,20 +51,32 @@
           "link": "https://www.bbc.co.uk/news/articles/ckg40jvvkp7o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 14 Aug 2026 10:18:02 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "US says dozens of countries helped China dodge Trump's tariffs",
-          "link": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 14 Aug 2026 08:39:46 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-14T15:59:23.283Z"
+      "updatedAt": "2026-08-14T17:04:04.136Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "As speed cameras spread to more states, so does the backlash from drivers",
+          "link": "https://www.npr.org/2026/08/14/nx-s1-5927506/speed-cameras-ticket-backlash",
+          "pubDate": "Fri, 14 Aug 2026 12:54:58 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Is there a summer COVID-19 surge this year? Yep, it's ramping up again",
+          "link": "https://www.npr.org/2026/08/14/nx-s1-5927115/summer-vaccine-covid-19-surge",
+          "pubDate": "Fri, 14 Aug 2026 12:37:54 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Mangione pleads guilty in federal court, leaving fate of state trial uncertain",
+          "link": "https://www.npr.org/2026/08/14/nx-s1-5930700/mangione-federal-charges-guilty-plea",
+          "pubDate": "Fri, 14 Aug 2026 12:05:24 -0400",
+          "source": "NPR"
+        },
         {
           "title": "We learned 5 important things about the economy this week",
           "link": "https://www.npr.org/2026/08/14/nx-s1-5929422/inflation-spending-economy-groceries-gas",
@@ -88,138 +106,120 @@
           "link": "https://www.npr.org/2026/08/14/nx-s1-5930365/uss-abraham-lincoln-iran-navy-ruben-gallego",
           "pubDate": "Fri, 14 Aug 2026 06:47:19 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "From Europe to Asia, floods to heatwaves, world experiences weather shocks",
-          "link": "https://www.npr.org/2026/08/14/g-s1-138727/europe-asia-floods-heatwaves-world-weather",
-          "pubDate": "Fri, 14 Aug 2026 06:30:17 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Fill in the blank on this week's quiz: Rep. AOC is documenting ____ on Instagram",
-          "link": "https://www.npr.org/2026/08/14/g-s1-138426/trump-aoc-primaries-comedy-kalshi-pope-news-quiz",
-          "pubDate": "Fri, 14 Aug 2026 05:01:00 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "ICE uses controversial program to boost deportations. Here's how it works in 1 county",
-          "link": "https://www.npr.org/2026/08/14/nx-s1-5911838/ice-immigration-enforcement-local-police",
-          "pubDate": "Fri, 14 Aug 2026 05:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-14T15:59:23.823Z"
+      "updatedAt": "2026-08-14T17:04:04.304Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "US retail sales slump unexpectedly and sharply after a summer tax-refund boost fades - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORk16TW44WWs3VlZRdGE5Zy1ZeUs5NVNnX2tRanhTSmdnZ0tHbGtMM2tJamJHdlNNdkROdWo4WmZwMkx1STFmdUpEX3ZvRzdXVTlJUmxpako5dDNyS3p2QzB4a3ROa2R6RWtDcXBNMlNJU2RHMGFjeHJrWG1EaUQ3aElIOTVyaWk0WUZoM2g1ZGJqVnJKUmY4cVZrWHA3XzFrbFFNUXNB?oc=5",
+          "pubDate": "Fri, 14 Aug 2026 16:52:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Suspect arrested in World War II Memorial vandalism in Washington, Pirro says - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcW1nSHJsWXRCY0gzME12RElZYVl0d2c2N25xeFhFM0duZzhsdmtyMEpPdFVtS3JiYk1IU2lndTVIZVkxeDJBVzNqZ2tkSVBqM1laZ1ZXQWoxTHkxRUxpVmRCcjY1WjJhSndpeGlFemk2bnBrSFNMcTZJU2lwUWF1LW5rTmM1azR2eEY0cXlPMlpWY0JjR3g1R2xIbHVYMWc?oc=5",
+          "pubDate": "Fri, 14 Aug 2026 16:31:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Luigi Mangione pleads guilty to federal stalking charges in the killing of UnitedHealthcare CEO - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQczhJdEhZeEpuNk90Wk5ycmQtczVyYm9xeThwR3RXWFlhVGpoYmxOZ0NTeGpLeHRCOVpXNkdzcmp4X0RSVUtLeVRnSWRzazd1SGdYSDdndkJYejNQRmxwOWdvR0NUNmItb0puczF2ODB6SWxKVlRsMWEyeFpzRVpCcmF1US1aZXh3QjhfZm9lUXFMVVYwZXEzWlNQc2ZjVmhXV2c?oc=5",
+          "pubDate": "Fri, 14 Aug 2026 16:21:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Schools serving US military families put new emphasis on Western civilization and Christianity - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNU2RjbGVmLXd0dFo2ZzJjQW1EeDRYOGVMcHkyb1ctT0pid0VoNUo3RHBUNVlPbHJSdkRRaUk4Z1BtRHV5WDdNb0NsQlQ5eGFLSk90QVlWaXpaSTExNXZNei1Yb0t2YmtGNHRLMnZCbG9xZldJZ1lOejJwTXVIV05lTzYtbWhoamZnRThWdFZ5b3Vrc2tocTlhdVhXS3RFNlZQS0lPREhn?oc=5",
+          "pubDate": "Fri, 14 Aug 2026 15:48:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Cam Ward struggles in the Titans’ 19-13 preseason win over the 49ers - AP News",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeFdMMHZ6RW5DVXhKT1ZTWHU0TmNYdXRjd0dIa2Y1ajB6LWZUek45NUJ1UTJNZnN0NHpFOG1fWV9nWXlEN0wybjQ2ZV9nenlZS29ENmxUck05d1I1MmE1VUpQMGRBQ0h2N3JKVUxhMy1RUHhiNVNCc05KckhMUktLUU9KOE4?oc=5",
+          "pubDate": "Fri, 14 Aug 2026 15:42:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Associated Press News: Breaking News | Latest News Today - AP News",
           "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
-          "pubDate": "Fri, 14 Aug 2026 14:27:12 GMT",
+          "pubDate": "Fri, 14 Aug 2026 14:51:35 GMT",
           "source": "AP News"
         },
         {
-          "title": "Laufey created a 'third space' with her annual fan event, 'A Very Laufey Day.' Then it exploded - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNY215T0JXU3lUajFSTXYwd3hKd0Z0WFVwSjdZZnNkOUFlUFluMUhTLVY4cXc5Q2NhM0J6UWEzM041RU5uWExOek54T2s4bHFBUnRZQjZvdmRTU1E2SHpVY1ZvWU9wRC0xTDlUblRrdlNiSWpNdkxIN09GMVZjZ2l1T1lR?oc=5",
-          "pubDate": "Fri, 14 Aug 2026 14:00:00 GMT",
+          "title": "The hidden politics of time: How clocks, calendars and time zones came to be - AP News",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPd1hZMjRtdWNvRTRJazhMSFNKd0ZBV3ptNklZMk5TWC1hRV9PQklHTGVpeHZXYUVreWJmbTVueDNhUU5kanJkM1U5WTVzWHpJYjl4NUJOX18weWNGdi1PUlE2SDFQMHcybnNQYmtiXzZER3RMN1JZUURRTTl4OVVNdUp2NDZLQQ?oc=5",
+          "pubDate": "Fri, 14 Aug 2026 14:14:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "The livin' is no longer so easy: How carefree dreams of 'summertime' are fading in 2026's swelter - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUzNlczRQOGtvUHJUcGFMMllZSkFfa2hnSjgyaFZ2TmdYeWZaLUJsdjNFRU14dElqZVJnZUJjb2pJdGZvcFVpd19PaEVXTkxwMk9DdktFcTBYZG9lRkRNWmd0ME0xbWtXem5ZNjNJX2JPY09zVnNKZm1xUXZ1MV9fODR2RzVIZkYwcVJPSVF6TXpOdnZpMW5WRHVn?oc=5",
-          "pubDate": "Fri, 14 Aug 2026 13:55:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Wall Street holds near its record following the latest weak update on the US economy - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaHZRYUU0eWZPOG1WOUx5U1BpNXRlenFUWnhSdEJvbExTQXl6amlVS2w2YV9wY1JENXkyOG45VUVsaENIb1FUUms1RFBoN2djemxuLVBPMG1GVHlMWTY3aVJuT3BHUEVwVzQ1YnVsYndPUnRyRzhEYzBXbmdMX1NPSW5GUHlLNm0tZHJKYWs5TmllTElIV3l6ZDRrOG1IVE05OUc4QQ?oc=5",
-          "pubDate": "Fri, 14 Aug 2026 13:54:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "European countries battle multiple wildfires as record heat grips the continent - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORXVKWTN3bTNjNHZJeXIxbHF2c2NveGRiQnNUTmxNOGx3SkNKOGpfdzk0Rm90c2g5VmtWT3hMaUpBV2ZhRjlWVHVMa1p5Mmw5U2pXQm9MODBDYlpNZHdycjlTSmYzVzNsNmpBSG5RaDhtelhOMXRHUWhRdk84TFNQdmgxbTdRaVVOV1FhUFVGNWRBUmZkTUdCdA?oc=5",
-          "pubDate": "Fri, 14 Aug 2026 13:47:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "World War II Memorial in Washington vandalized with bubbles and graffiti, upsetting Trump - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcW1nSHJsWXRCY0gzME12RElZYVl0d2c2N25xeFhFM0duZzhsdmtyMEpPdFVtS3JiYk1IU2lndTVIZVkxeDJBVzNqZ2tkSVBqM1laZ1ZXQWoxTHkxRUxpVmRCcjY1WjJhSndpeGlFemk2bnBrSFNMcTZJU2lwUWF1LW5rTmM1azR2eEY0cXlPMlpWY0JjR3g1R2xIbHVYMWc?oc=5",
-          "pubDate": "Fri, 14 Aug 2026 13:43:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Record-breaking rain floods Chiba east of Tokyo, killing at least 5 people - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdk1KX250aDU4T3E3RHFZM0x0VlNjNk5CQlVZRnRKNXEyRW1GLWpSemNvSFZKWWphek9tTlE4dWlmTlBNU3FrTV9VajN0NWdHaDhQVkJ3bEhpa3hSVmtneklVd0l3cEstendDWllXcGVNeThfQ0ZuNlNkLWY1TERQNHd3emJTYkJkcnNR?oc=5",
-          "pubDate": "Fri, 14 Aug 2026 12:57:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "US retail sales unexpectedly post largest drop in more than a year - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORk16TW44WWs3VlZRdGE5Zy1ZeUs5NVNnX2tRanhTSmdnZ0tHbGtMM2tJamJHdlNNdkROdWo4WmZwMkx1STFmdUpEX3ZvRzdXVTlJUmxpako5dDNyS3p2QzB4a3ROa2R6RWtDcXBNMlNJU2RHMGFjeHJrWG1EaUQ3aElIOTVyaWk0WUZoM2g1ZGJqVnJKUmY4cVZrWHA3XzFrbFFNUXNB?oc=5",
-          "pubDate": "Fri, 14 Aug 2026 12:55:50 GMT",
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Fri, 14 Aug 2026 14:00:59 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-14T15:59:24.367Z"
+      "updatedAt": "2026-08-14T17:04:04.878Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "France's top court blocks social media ban for under-15s - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQV254M2ZlOFJMWGs3OWlkUzVERktNOU8wei1RUzFBN0xyRkZQSkhIQ0ZlR21BWkV6c1VJNjFVZ2dfLWk2MHVtMDM5MDZtLXJlN19JYVhDSzd5NlFzZjhrUVVfWm9VTUdPbWVVOXRzaUY1RzdjUlhmWm5aczVLTlR6SGlQYjhKVk5PQ1Z0SkZ6enE5ekFGa0FnaThGS0ZfVEtsWUVDeWRVOFdRZ1AxSkpN?oc=5",
+          "pubDate": "Fri, 14 Aug 2026 16:58:29 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Airlines get grounded jets flying again, but engine bills linger - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdDcxc0MtMkQ1ZG95a2tHaXZXbkxScWJRUDFyQm1PUkVVekpfcmlmMzFmZ0o3cjdOanZqSjZFYmJuTmZmeHRNVlVvdkJkZTMxMldITTRIRkdqQk9ZQ19BUkZNTW9BeG5TaFZ0d0k3LTVkaDV6TjR0cl9vLVh5T2xWM2VnZjk2ZlF3Umw3ZHFuLURsWWhJT2x0XzNaYXpXbFFxQU5CYmFzdlhveWJRZ09HMWRhRENMLXJtLUNqaVdtcw?oc=5",
+          "pubDate": "Fri, 14 Aug 2026 16:15:36 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Wall St subdued as markets pause after S&P record high; data, Mideast in focus - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOODBmUXllM0JmeFUycXhzSF9tekVEc094VlpCWnFsZ1JsMHo2Y2JEMGJnUmlPLWZOZEFJRy01UnR6VHdRODJMUEJlY3IxeXlXYWNrZHN2YUhoaS1EeVRyZDJCTUlvRkw0Rmp3d1MtZjBIb2dwVnhGbTg2YTc4MF9ONmVRdm9VTVBSdXVyY0VFZHUxRFhoTWJRUkg2YWI0SEw5WVVyYjZraTdFeG1zQTVJTWhXSFdDSnBLUVhXTXBR?oc=5",
-          "pubDate": "Fri, 14 Aug 2026 14:56:49 GMT",
+          "pubDate": "Fri, 14 Aug 2026 16:07:58 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Two slicks appear in Gulf as huge oil spill off Oman threatens disaster - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaE14cERmMFhqTWJMbFBLWlkzaEp2VGpQOGlWUlRDZmNPZnRkT203U3VBQ3Y2TTUtQTNaSEtJbm9LbDVDSU9hS2hRTnpCaHVxVnUxLXJJUUFlV1NTSUdWanhsRlBmUWhNN05ZZTlCRUMtUnhraVhaSjFoS2Z5dU9GNF95bWdoWll6ZzdJMGY1WDBNWElXakhRZ0hvV0lCTmR4X05LYTN6VDZYMVQwb1g1MjhiaXJvS01Ob0lyUkhuSQ?oc=5",
+          "pubDate": "Fri, 14 Aug 2026 16:06:29 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Woman charged over vandalism of Washington's World War Two memorial - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYjFaTHNGZGVubjNGRTN3Qzd5aFpYcHlfdjJqUmhncXdiNXkzZWlLdk40NHpXUkhaWUQtbHNNRk9JX0xmSFQtejVod0I0X1VRUlBURFc0NmtIclB5cnZvSEdKMlVzSjJ0ZHNtZDVYWEYzQW42UFhtSEpObWxJSHpseS1zYnpYNENtZ2ZfU1ZsU3JnbUc4MzhNblJ1d2dpWEl2VzZPQVRHdzdzQWxiWjlmS243aWV2b1kyZWNvTTNWT1B6dw?oc=5",
+          "pubDate": "Fri, 14 Aug 2026 16:03:13 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Luigi Mangione pleads guilty in federal case, admits killing insurance CEO - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdE8wcFpJSTRXd2hNWEp6dHphZmZvYURLZ3lLcmxmWU5YVnNtZW5pZElJNFlISUV2MjdnbXJGQ1ZHLXljaUo4VDFodlVPbzdmSzFwdTdDRUZ0SHdVZEQ0Y043TWpCNUF2dE9ZTnFoVkp0OFZxRnhMMUUwV1g4bjJpem5OTDJDX1h2czI4RGpuWUFBNUlBNE5tYXZ2NFNJMkhlek5IWkJydThjbGhwbGhwOVh0bXB6bXBhcVp3eG55MEU4WXNya2luQQ?oc=5",
+          "pubDate": "Fri, 14 Aug 2026 16:01:51 GMT",
           "source": "Reuters"
         },
         {
           "title": "US wants Netanyahu to condemn settler siege in Palestinian village, officials say - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMGowTHQxV1lGUC1MamNySDBPMHpVUWJFM0pMVUh1NGRJbEd4b2ZVenhuZ05zZVBwQ3k2UTdlSUotTjNzYTNlNWo5LUw4cXlHbHZqdVp6RzBQVHB6NWpyemwyVnU3VHJ1YXdublVtN053TVFTcGJoNkdabjR3cDc0ek5sNDh5Tl82YzAxZHhUQzFVT2k0bFR6Z1VJWkVNTTVaem1pZmZ4WUkyTGNIWkg3Q25CQm0ydVJVeEdr?oc=5",
-          "pubDate": "Fri, 14 Aug 2026 14:38:30 GMT",
+          "pubDate": "Fri, 14 Aug 2026 15:56:48 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Hundreds evacuated from Croatian and Greek resorts as wildfires stretch across Europe - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdGhObVd4bVhZVVg5VVdsMnNHZzlZNEF0ckRfdHB4UEQ5QkRGZUo0ZGxESjZzSTBmQ2V6S2h0eEhhZmR2S05BbWtrT0oxXzlWVHJma1pKNzBJNFlyMzZ5azFlM2dqOEg0Szd6a3BpVkswUnBZUlNDQjNXdXRXV1pNQXJUR2VuTEhPeGtSY05qZXJrbUZWRGtxYWNZT3h2bjNLMzNzTU5vLVJmaVhJd1hiZ0xoSFJLODZDZHh6Q3A0WEV4M1E5ejEwWmF3?oc=5",
-          "pubDate": "Fri, 14 Aug 2026 14:30:10 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Hormuz traffic slows further after US threatens more economic pressure on Iran - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcUdkcXFHNHlWMzdKeGE0QzFWU2FRNTl4aHYxMk5VNEU1REROam1XMW5hQnVPMlVCOHV5Y1k5X2N6eEx1UlpJOExJVFlXQzU5bWE1LXE1ZndpQUtpeFpVb2FoWUhlODVPWUVxeTNwcjNXQXRzMFloclJMNFBqNDJiUmFjam1kODNyQ1BvYU90dmptbG1mLWd6enN6dDZRb2JiRFg2TGdNSzJaM1g1c2xPd0lqTFBSblp6RGFKWktyVkI3dEVRMmJqNDdfLUc?oc=5",
-          "pubDate": "Fri, 14 Aug 2026 14:27:38 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Wildfires in Britain hit record levels after homes burn in intense heat - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZWFEdWIzdHBfbUNjMTZoTTYxQnFnbENfMVFwOVRDOHBZdkxoYlpPWFNaS3gyb2xhZHc3aXV1bmR4MWtWcHJUWjF5MGktUTlMamhxemV6Yk9wcXlJVV9HYW56aTZlaEJLdEZfdUV5WG16VmJ5Tm41WUh0aGxsVkxSc2VhcGtlNkR1d1YtSFBnN084OWxZQk9sc3hUdkM0Zjh2R25id1RsVE5DM24ta1hGeVBfMklhdm5SejJ3UkM5MA?oc=5",
-          "pubDate": "Fri, 14 Aug 2026 14:21:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Four Central Asian countries report simultaneous power blackouts - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUmN3SWlQVF9NeW1ZX1dvZHBWeFQxSEk1VGdvTVRJTE5nYkhtcnVuWTFTWjBUbzljbjRNVllJNlVjMlRxajVpT25ycWJIaDkxNjN5WTJfSFJtU1VZMFB1VVJtMU94QTdEX1VXOGhjekN6RFlqSU91VDBjMGJCNzNVbjFfeUdyT0F2dTlLRjhvT0h3LUdxTk92RjdZWGVtemhPa291elFCSlAwMk9tV0V6dVNXQlRpRkJz?oc=5",
-          "pubDate": "Fri, 14 Aug 2026 14:02:19 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Focus: Airlines get grounded jets flying again, but engine bills linger - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdDcxc0MtMkQ1ZG95a2tHaXZXbkxScWJRUDFyQm1PUkVVekpfcmlmMzFmZ0o3cjdOanZqSjZFYmJuTmZmeHRNVlVvdkJkZTMxMldITTRIRkdqQk9ZQ19BUkZNTW9BeG5TaFZ0d0k3LTVkaDV6TjR0cl9vLVh5T2xWM2VnZjk2ZlF3Umw3ZHFuLURsWWhJT2x0XzNaYXpXbFFxQU5CYmFzdlhveWJRZ09HMWRhRENMLXJtLUNqaVdtcw?oc=5",
-          "pubDate": "Fri, 14 Aug 2026 13:58:39 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US retail sales post first decline in nine months in July - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSUpsdlVVb2FPYVpWSk4wT3hkMFo0eHhoZDBfemp1cVJ5b0pVeUREcVRMRE8yQjlYVE9NdDQ2VmlVbEt0RHZXYUgwYlZGNnVuMUgxUW9FdDRORnU1TGI5b0xWZGdTNzNQQXlzb1pfdDNkejhDX1RqZmpoamstRXZoYjExRnZ0WWdVMVRR?oc=5",
-          "pubDate": "Fri, 14 Aug 2026 13:58:01 GMT",
+          "title": "Alphabet's SpaceX bet grows 100-fold over a decade to $94 billion - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOGlSVjd0am5adkxrNm1hX0c3RFVTN0JmZzBjVVluX3M1bjNUWndRRjlGV2IyT1dTbHdHYzh6MlNzOC0zNDFjejRiRzVOcmZCcE9PVEFHV2JxblZsM2xCa0JBcFl2T0FJRzVoUWVvR2FRd0hiOUZuWlZITHVxR0NONDljUm9YT2xMVVk1WjFJUWFzNVdPQmsyV1czWEdxRGRQQVJXWkZjQm1wRUZyZ3lZWQ?oc=5",
+          "pubDate": "Fri, 14 Aug 2026 15:54:00 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-14T15:59:24.865Z"
+      "updatedAt": "2026-08-14T17:04:05.306Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-14T15:59:24.949Z"
+      "updatedAt": "2026-08-14T17:04:05.606Z"
     }
   ]
 }
