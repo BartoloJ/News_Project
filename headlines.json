@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T23:26:43.461Z",
+  "generatedAt": "2026-08-14T23:51:42.923Z",
   "sources": [
     {
       "name": "BBC News",
@@ -54,7 +54,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-14T23:26:41.995Z"
+      "updatedAt": "2026-08-14T23:51:41.638Z"
     },
     {
       "name": "NPR",
@@ -109,7 +109,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-14T23:26:42.196Z"
+      "updatedAt": "2026-08-14T23:51:41.847Z"
     },
     {
       "name": "AP News",
@@ -118,6 +118,18 @@
           "title": "Army temporarily halts Apache helicopter training missions after Texas crash that killed 2 - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUHJKakZQVFZXSVozZVdiZ0Q0NkNvQXJMUmE1VkV6YlVNSDRDMFJFVWE1bFByZ01SdXdPMEJ3RUVDNUpmNnZQdGZzYzZwLU9MNUVIckxSQzk1MVRzUkEyb2pPNWV0bW9CSkc1QnpSRm4xVlFMMmEzdFVpYnlpaWxWN0J3elFCYTFlQnJxdllXeGZzVGdPdFlIal9yODRzOGlvbzNneFBWQzY?oc=5",
           "pubDate": "Fri, 14 Aug 2026 22:27:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "A rare hurricane landfall threat for Hawaii’s Big Island as Lala nears - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNc2kzQWtXUlNkYWcxbVZmekJZaTFSWUd1Tm96NUhTUTBhdEVmX2JNRm9YMGgtNzFDZnVoT280QS1oa091azRLWFlyN1M2VEIzVTRxOUhLcFhfc19HUVZ3TFZoSW5oVTJOLTZ6U0NnTTlyUHN1OF85dGpQWE9VM1NCU0drTUE2QkhnUDlFWk01VVVOXzFhbUc4?oc=5",
+          "pubDate": "Fri, 14 Aug 2026 22:07:06 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Fri, 14 Aug 2026 21:43:17 GMT",
           "source": "AP News"
         },
         {
@@ -149,30 +161,30 @@
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQczhJdEhZeEpuNk90Wk5ycmQtczVyYm9xeThwR3RXWFlhVGpoYmxOZ0NTeGpLeHRCOVpXNkdzcmp4X0RSVUtLeVRnSWRzazd1SGdYSDdndkJYejNQRmxwOWdvR0NUNmItb0puczF2ODB6SWxKVlRsMWEyeFpzRVpCcmF1US1aZXh3QjhfZm9lUXFMVVYwZXEzWlNQc2ZjVmhXV2c?oc=5",
           "pubDate": "Fri, 14 Aug 2026 21:28:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Youngest Black professor at Cambridge who faced plagiarism claims is found dead - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT2tUV0pUa2lOMy0yZ1N5NzRhR0IzWmV5S1k2X1drUjRoNU13NWloWm5kbUFnLTBoYUQ1VG1oTEtxeHJ5Rm1uV2ZvLXgzUHU1N1dWeV84UXVPYVJKTDF0dkN0Z01IRlZNa2ZnOERLSEoyNXNwOEhJSjl6aWFBb2JpdEMxX2hHa3lKMXk3UnNkY3lOUGRXd3JFcE9FaVRBQ3EzYTBJYmhlUl9tdTZLamhVdg?oc=5",
-          "pubDate": "Fri, 14 Aug 2026 21:11:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Picasso etching stolen from Milwaukee art gallery in 2018 found by landlord in vacant apartment - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbkt1NF9lQXZWbXU5NmdEdDZIR3lXZjVuaEk2Zklpc1RGaUNlTmwtNV8teEY0SDRwQjlxRkdKMGh6NTJXcTk2aXJaMW0wNUtmVXNmZHJDbU9JMXVFVTNIQ1lxb2dzSlVGNVF2Z1NybDNWcGFFUU5fTWdfTldkQlhUN3JiUGdtU1V6Zm9QUVFLV0MtQ3BDWVU0?oc=5",
-          "pubDate": "Fri, 14 Aug 2026 20:45:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-14T23:26:42.750Z"
+      "updatedAt": "2026-08-14T23:51:42.313Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "Powerful earthquake strikes off coast of Indonesia, tsunami warning issued - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQekZqSDNDbk9nUjJMVWd2bEwwTE03eGpyaUN2M3VhQmNEeFhqb0J1SmFFUlJtRE5FMFFJVmhsSWZCZmZwYW9OWWY1c2FDU3hsUUNYTTF4clZiVzRtblRoRmdGcEo3Z2l2Snl0UDJFQWlJeXZPNzd6dTdockZlYUNVVTBGSkEyOUxVNXNMV3d0UGU3SG1mcjk2MnFVTV80TVhLRDlub0tOM3h0OG1QRUluQXI4ZVRJMktwMHc?oc=5",
+          "pubDate": "Fri, 14 Aug 2026 23:12:25 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Hormuz traffic slows further after US threatens more economic pressure on Iran - Reuters",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcUdkcXFHNHlWMzdKeGE0QzFWU2FRNTl4aHYxMk5VNEU1REROam1XMW5hQnVPMlVCOHV5Y1k5X2N6eEx1UlpJOExJVFlXQzU5bWE1LXE1ZndpQUtpeFpVb2FoWUhlODVPWUVxeTNwcjNXQXRzMFloclJMNFBqNDJiUmFjam1kODNyQ1BvYU90dmptbG1mLWd6enN6dDZRb2JiRFg2TGdNSzJaM1g1c2xPd0lqTFBSblp6RGFKWktyVkI3dEVRMmJqNDdfLUc?oc=5",
           "pubDate": "Fri, 14 Aug 2026 22:36:06 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Race to reach trapped survivors offers hope in Colombia quake zone - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeXFkQmRFSExDQ3Q2MVBNQkk0NWVLS1oxUFo0ekNYaGd3U0pEUHR5SXNxdHcydUVraXR5TFNvakZGRE56NWFNZkpJXzNMcFQ4ekNRclZrLTZuRTFZVFlfSDlIZWlCTGNoWmFmVWFsSkJHSnZvX3Fib3RlOE9JQWwwNFFoZFJYVDZPVUo5ZmNQbDd0R2k4VC13RmlIcHN2eTEybHFRT3E2S0F3Q3NkaUhldUdfVVQzLTA?oc=5",
+          "pubDate": "Fri, 14 Aug 2026 22:16:58 GMT",
           "source": "Reuters"
         },
         {
@@ -204,22 +216,10 @@
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeUM3ajNSZS1FUnR1alRkTEx5QjBoNW1TSi1haWxKcmVLUlRlTWhTNVZJaVJGNkMtVVphd0xTbUtGbFRFUW5MZmh1MExTUmdZQmxpRGNMRkhaeExUemtveEFLQ0cydmJhT2JpNFY3TDVLUGlTekY0RHZJVE5EOEItMml3SlAwTlNLY2pkdUp1bjdSNTdmVGY3Vk1OdVgtOWFpRGlORHZ4NXQyVlc1NEFTWTZoSEtwN3R1UlE?oc=5",
           "pubDate": "Fri, 14 Aug 2026 21:52:31 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Woman charged over vandalism of Washington's World War Two Memorial - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYjFaTHNGZGVubjNGRTN3Qzd5aFpYcHlfdjJqUmhncXdiNXkzZWlLdk40NHpXUkhaWUQtbHNNRk9JX0xmSFQtejVod0I0X1VRUlBURFc0NmtIclB5cnZvSEdKMlVzSjJ0ZHNtZDVYWEYzQW42UFhtSEpObWxJSHpseS1zYnpYNENtZ2ZfU1ZsU3JnbUc4MzhNblJ1d2dpWEl2VzZPQVRHdzdzQWxiWjlmS243aWV2b1kyZWNvTTNWT1B6dw?oc=5",
-          "pubDate": "Fri, 14 Aug 2026 21:33:52 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Mexico races to clear record seaweed surge from Caribbean beaches - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSERzNks1alNxdllXZ2NFUDA4aDdCWDVVMDFoVkhOQjBxUlFWN3o2ODg1VXZYS3BNa2ExNk9GUnFCakd5RVhKaXJocUZHc2xHT3FvWUZYUlN1LUpVUWNUV0c4M2dvekFITFZLZWszbEpMLVpkbEp4SmxfaFM3MUJUWEI0NEJzeTlVeWhQMjQzcnR4S2JKaWxtaVBsWjFjdFdCNm5EYk1lb2d1Rjl5RmppNEpxazU?oc=5",
-          "pubDate": "Fri, 14 Aug 2026 21:30:09 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-14T23:26:43.200Z"
+      "updatedAt": "2026-08-14T23:51:42.722Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-14T23:26:43.461Z"
+      "updatedAt": "2026-08-14T23:51:42.923Z"
     }
   ]
 }
