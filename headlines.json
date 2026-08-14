@@ -1,9 +1,15 @@
 {
-  "generatedAt": "2026-08-14T11:01:23.264Z",
+  "generatedAt": "2026-08-14T12:10:57.959Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Presidential vote counting halted in Zambia over alleged attacks on polling staff",
+          "link": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 14 Aug 2026 11:37:31 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Stolen Matisse artworks recovered by police in Brazil",
           "link": "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo?at_medium=RSS&at_campaign=rss",
@@ -45,20 +51,20 @@
           "link": "https://www.bbc.co.uk/news/videos/c36dyep3k1ko?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 14 Aug 2026 01:19:19 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
-          "link": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 13 Aug 2026 23:06:23 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-14T11:01:21.993Z"
+      "updatedAt": "2026-08-14T12:10:56.657Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Feds probe 'mention markets.' And, lawmakers call for investigation into USS Lincoln",
+          "link": "https://www.npr.org/2026/08/14/g-s1-138735/up-first-newsletter-mention-markets-kalshi-pentagon-uss-lincoln-ukraine-russia-crimea-kennedy-center",
+          "pubDate": "Fri, 14 Aug 2026 07:02:42 -0400",
+          "source": "NPR"
+        },
         {
           "title": "From Europe to Asia, floods to heatwaves, world experiences weather shocks",
           "link": "https://www.npr.org/2026/08/14/g-s1-138727/europe-asia-floods-heatwaves-world-weather",
@@ -90,34 +96,34 @@
           "source": "NPR"
         },
         {
+          "title": "2 workers share how helping kids at a community center has changed their lives",
+          "link": "https://www.npr.org/2026/08/14/nx-s1-5927231/2-workers-share-how-helping-kids-at-a-community-center-has-changed-their-lives",
+          "pubDate": "Fri, 14 Aug 2026 04:43:52 -0400",
+          "source": "NPR"
+        },
+        {
           "title": "New aircraft carrier heads toward Mideast after reports of issues on long-deployed USS Lincoln",
           "link": "https://www.npr.org/2026/08/14/nx-s1-5931183/new-aircraft-carrier-heads-toward-mideast-after-reports-of-issues-on-long-deployed-uss-lincoln",
           "pubDate": "Fri, 14 Aug 2026 02:31:29 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Judge dismisses Trump administration lawsuit alleging antisemitism at Harvard University",
-          "link": "https://www.npr.org/2026/08/14/g-s1-138721/trump-antisemitism-harvard",
-          "pubDate": "Fri, 14 Aug 2026 02:15:54 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Judge drops Nevada case against electors accused of forging certificate in 2020 election",
-          "link": "https://www.npr.org/2026/08/14/nx-s1-5931179/judge-drops-nevada-case-against-electors-accused-of-forging-certificate-in-2020-election",
-          "pubDate": "Fri, 14 Aug 2026 01:42:35 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-14T11:01:22.274Z"
+      "updatedAt": "2026-08-14T12:10:56.771Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Fri, 14 Aug 2026 10:02:14 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "WNBA Scores & Daily News | WNBA Stats, Scores & News Today - AP News",
           "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RellkeWJkeDFvWUtHTHRPOURyM29ReE54N3hpa3NCRUxRQ01yVy1FTjRUS0RaVzNxZzlVakgxUkhZYW1hX0pWemVtcnI5U2s?oc=5",
-          "pubDate": "Fri, 14 Aug 2026 10:14:15 GMT",
+          "pubDate": "Fri, 14 Aug 2026 09:49:49 GMT",
           "source": "AP News"
         },
         {
@@ -127,21 +133,15 @@
           "source": "AP News"
         },
         {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Fri, 14 Aug 2026 07:36:05 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Reform UK leader Nigel Farage beats Count Binface in widely mocked British election - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRGxQNEpxUFR3NkJFN1JaeWxBMU8zVFpqNmJnTmNjcXQ5aWZnLXotc3lmUEw1eVZHS2dNUWxhRWdCdEdlVzVqeWEzMDEzaTRJbTVybFoyV2tyMDhJcGo1X2pZcGtCOEhUblBvekJpVmJkR2lnN1hPaTJlQ2lPRjRYMTRoSFFSZjY3T1VGMXA5OF8yem9aMThuRkgwcjJHdWxUSTY0MVd4WFRybTF5M3E5dFBFSV9QbnU2cXc?oc=5",
-          "pubDate": "Fri, 14 Aug 2026 07:12:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Associated Press News: Breaking News | Latest News Today - AP News",
           "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
-          "pubDate": "Fri, 14 Aug 2026 05:49:33 GMT",
+          "pubDate": "Fri, 14 Aug 2026 08:50:08 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Reform UK's Nigel Farage beats a slate of fringe candidates in election boycotted by major parties - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRGxQNEpxUFR3NkJFN1JaeWxBMU8zVFpqNmJnTmNjcXQ5aWZnLXotc3lmUEw1eVZHS2dNUWxhRWdCdEdlVzVqeWEzMDEzaTRJbTVybFoyV2tyMDhJcGo1X2pZcGtCOEhUblBvekJpVmJkR2lnN1hPaTJlQ2lPRjRYMTRoSFFSZjY3T1VGMXA5OF8yem9aMThuRkgwcjJHdWxUSTY0MVd4WFRybTF5M3E5dFBFSV9QbnU2cXc?oc=5",
+          "pubDate": "Fri, 14 Aug 2026 05:22:28 GMT",
           "source": "AP News"
         },
         {
@@ -164,15 +164,45 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-14T11:01:22.749Z"
+      "updatedAt": "2026-08-14T12:10:57.298Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "Italy recovers Renoir, Cezanne and Matisse works stolen from museum - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMzlOa0RkQlRFLVdwTEQtSVUxZ2NMLWs1azVpTTJEY3AxUUJpQkx1RkNYWDh1UTBRSGtyZlNEVnVlMEhpWE5KeFpoQjNlSzVyazJ4ZldUcWxtakxSZk5BcFNmN19SWFlDWnIwVk9JOTZ4cXBKejNoVzNtbktULWZrRzJhNHVKc3BmT3BvaWZmczRXZDI5dUZXVGlkeXppN1k1amZyS1Fn?oc=5",
+          "pubDate": "Fri, 14 Aug 2026 11:47:44 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Alphabet's SpaceX bet grows 100-fold over a decade to $94 billion - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOGlSVjd0am5adkxrNm1hX0c3RFVTN0JmZzBjVVluX3M1bjNUWndRRjlGV2IyT1dTbHdHYzh6MlNzOC0zNDFjejRiRzVOcmZCcE9PVEFHV2JxblZsM2xCa0JBcFl2T0FJRzVoUWVvR2FRd0hiOUZuWlZITHVxR0NONDljUm9YT2xMVVk1WjFJUWFzNVdPQmsyV1czWEdxRGRQQVJXWkZjQm1wRUZyZ3lZWQ?oc=5",
+          "pubDate": "Fri, 14 Aug 2026 11:30:05 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US warns Iran it will step up economic pressure; two more ships attacked in Hormuz - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcUdkcXFHNHlWMzdKeGE0QzFWU2FRNTl4aHYxMk5VNEU1REROam1XMW5hQnVPMlVCOHV5Y1k5X2N6eEx1UlpJOExJVFlXQzU5bWE1LXE1ZndpQUtpeFpVb2FoWUhlODVPWUVxeTNwcjNXQXRzMFloclJMNFBqNDJiUmFjam1kODNyQ1BvYU90dmptbG1mLWd6enN6dDZRb2JiRFg2TGdNSzJaM1g1c2xPd0lqTFBSblp6RGFKWktyVkI3dEVRMmJqNDdfLUc?oc=5",
+          "pubDate": "Fri, 14 Aug 2026 11:00:43 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Etna eruption extends closure of Sicily's Catania airport until Saturday - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUTJ0cXZfa3BPZGVZWnVrd3Y5aDNRRlNIREJzeWdUUFpCYVhMTnVVUDBVRE55dnNCSzA3U1g5RFV3SzU5MVg1NktGX3NNSkdRYnJ2VjlnYzQ0SFg4QWk1SlA2aG95dUlPZTF2YWMteFdqWnZqX1c0eWpYbVktemNfMVBfODVfYVpyV2V1am1LdV9FVEc1b2JFUlFqNkdJYkdONTRUQ1JLYmN5dTMzLTZwMjFRVWRmMmpvWmlOVnVNOVQxYnc?oc=5",
           "pubDate": "Fri, 14 Aug 2026 10:39:43 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Russia dismisses idea of Black Sea ceasefire - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOU1EWFduSW94YVRwb3lfUHpQSUc2SjJIdDF1ZWlickdZS0RPVjR5MHlHd3RGV2xGQlhWWFEydXJJSFJ6bkVTTkhZZmdONW5jYUQzWGhsZHBGZzlQTHN2aXdHTTdSMUx1SGdITUZZWGYtdjBBUnJXU1ZleFhWNHBLbFJGNkFIa1lhLVNGblUtT2owSEpK?oc=5",
+          "pubDate": "Fri, 14 Aug 2026 10:26:45 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Spain removes remains of 11th century kings from monastery as wildfire rages - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYkZjVmNGUC1KbG9GWlBRNmd3ZlM4cFllRGljb1pNQWowZEdFdEV4NzEtZnB3clhGaXpTVG96Q2hlZk9SUjczdHNONW43SGxnbVozZkNsUVhOUjZMSkQycWtRc1JqQ2ZuWWNPZS15SHA3U2FnWkFyZ0hReVZJbWxKUUVkdHM3QWU4TEtZMjh1aGJIUU9DWGZnZWNCYk9seVBrdWVoLW1XbE1YaHlWdFRHaWt3TzF6ckJRU2VtQ1IzNA?oc=5",
+          "pubDate": "Fri, 14 Aug 2026 10:21:28 GMT",
           "source": "Reuters"
         },
         {
@@ -182,44 +212,14 @@
           "source": "Reuters"
         },
         {
-          "title": "Russia jails man for 23 years for spying for Poland - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZ0xKRmlPaUJBRWJfTlZuakQ0MUFoNXU5ZTYxVC1jbVhtd3lKTW5wYklkX0Z2ejBFenNCSnYtZnNFd0N2RHVYaTRvaVlQaGFYZkFJLVVqNU16TEUwalh4UjJrcHJuTlVUZE1wcGRvUmptWWlWMTJUY3VyX2h4M1kzcVBHd0NSazJPNDFNZjV6RkhzZw?oc=5",
-          "pubDate": "Fri, 14 Aug 2026 08:40:06 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "American missionary kidnapped in Niger released, NYT and Christian organization say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORWYydU83djBHbmRCaXgxMWZ3ZzFlTWgyb0I2VGRJQ1owcGpmY09sQXFlYWRaRG85bHhyTklvclgzLURaLUNua3JnQkQ1UldXc2o2bWNoR05pdXUzRm5sNlVIcTBvMFJob1hxb0xCVTA5NWNJOV84emNfM0VNRzFSUmRxLXExeWZSbFJrVnJkZkluaEY2bnI3NnBBa0RqREpuREhiVXd4THBCdktRNWtxMjRhNA?oc=5",
-          "pubDate": "Fri, 14 Aug 2026 08:40:02 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "U.S. TerraPower, South Korea's SK Innovation sign preliminary deal on global SMR projects - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORklrbjJ5SEIyTDBIUWlGSFV5UkJnQ25qSHVYb3dNbkUzaFh1emNOTUlBYWQwN2h0NTduSXgySW1XYWZOQzBwQkNyRkVudm1nbDhVWGQ2Nm93WXd2TVB4R0Y0U3FjU1VXQnlpREJUd2c2djJoT1oyWjBDY1lSOU1hSmNNSzk3UW9QSzBRTGRpMzVoaUoybnFJYmRWMWhKcHF6ODBqcTRFN3B6dUxydzc3cl8yTnhCR3lvUkIxektUZnJYSDg?oc=5",
-          "pubDate": "Fri, 14 Aug 2026 08:10:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "China calls Taiwan's annual military drills a 'wasteful charade' - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbGhMU25fVEswcGdXUVItRVJmUE05cG52RjJXRUJZMWRsMElTVHhMeTQ4SVd6QXJRRTh5NUFSV3NmdmJHLXpTclI2U09NdlN5c3pGTlFGRkhMVm55Z21QWHZ3dVJTMUU4N2ZzX2VFX25DVXpGU2FKTFNlVlYyTXFjS1Zhcm8ydmFLRF9neTJCbW10RDlCcV9JUS1mUG9EcHMtelZnbVZ0bHAxV1k?oc=5",
-          "pubDate": "Fri, 14 Aug 2026 07:59:43 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "French taxpayers' data stolen in cyber attack, French Finance Ministry says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVzZsUDJSYTV2QkNqVmRLUDVIb0l3MzJPdERTOFVrNmswRUw0QmhIWDFkYnYtOFhNc3JTZ0U1dm1pMmxQVUtYVGw3S21HTHRhVWRkdHd6UXExc0Y1QVVQeVVDdjYwRHRkNFRVV0tfQ0JTcXFSVFFTZUtnYnh2aS1hSnAwc0VRWXVaWmZXTG9PMEZiWVNuZmszeGw4TDl1TEY5bmZFUy1jaU9GS2VVLTNjOGNJeFNWZkotd3VJU1N1Vmk?oc=5",
-          "pubDate": "Fri, 14 Aug 2026 07:33:57 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Asian refiners buy more US crude as Hormuz remains blocked, traders say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSlN0VmVmMnYyZEZPYkVONE5aOWdIYjAwcnJWVkVCd3l0bGNGaS1sbExKRklIY1F1MW12elZPYWh6ZkNTR2JZU1V5TVBoV2pTYVgwMld4c1FUWDQ0QkplRjBQSGNzZC05TUotenBvLVpWSlJ3V0VWZFpQZXA4WGwwMjVTRk1CbVY2eUI3NnRYbG5WQjBDNFIyTzJwWVRXQS1ySks0MU1RM2xZV1RQNFNLZHJLUEI1Q1kydFVv?oc=5",
-          "pubDate": "Fri, 14 Aug 2026 07:29:54 GMT",
+          "title": "Applied Materials slips as investors seek faster growth after stellar run - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUFlrcFhLMmZGclJ2RWRqTlJJdDRoenVPcUJVZUduajRrNEZueVBjejJiU2dQMFAtVG94SjRCU1E0V0h0OG1oOU82LXlrLVFnZjdGQ1dvaXdEQlBrQjl2M1JDMlN2WmpURXJQMEtmX1pFOFpkb3dwOWRTTW14UjNrbXBvQWU0SXFRTG5nZ2FKcWxCYlp3NjZySWJNQVVOZGJvd19qTnp1Mm1yQXRNZzFidHM3bmlSQQ?oc=5",
+          "pubDate": "Fri, 14 Aug 2026 09:02:04 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-14T11:01:23.190Z"
+      "updatedAt": "2026-08-14T12:10:57.692Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-14T11:01:23.264Z"
+      "updatedAt": "2026-08-14T12:10:57.959Z"
     }
   ]
 }
