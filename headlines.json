@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T00:09:06.999Z",
+  "generatedAt": "2026-08-14T03:07:46.971Z",
   "sources": [
     {
       "name": "BBC News",
@@ -54,11 +54,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-14T00:09:05.439Z"
+      "updatedAt": "2026-08-14T03:07:45.676Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Feds probe 'mention markets' amid White House Kalshi controversy",
+          "link": "https://www.npr.org/2026/08/13/nx-s1-5930689/cftc-probe-mention-markets-prediction-markets-kalshi",
+          "pubDate": "Thu, 13 Aug 2026 22:06:10 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Kennedy Center Board votes again to shut main building down — and add Trump's name back",
           "link": "https://www.npr.org/2026/08/13/nx-s1-5930349/kennedy-center-shut-down-board-vote-trump",
@@ -100,24 +106,48 @@
           "link": "https://www.npr.org/2026/08/13/g-s1-137742/hiv-prevention-lenacapavir-uganda",
           "pubDate": "Thu, 13 Aug 2026 07:18:53 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Primary voters send mixed signals about what they want from the Democratic Party",
-          "link": "https://www.npr.org/2026/08/13/nx-s1-5929473/primary-voters-send-mixed-signals-about-what-they-want-from-the-democratic-party",
-          "pubDate": "Thu, 13 Aug 2026 06:59:33 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-14T00:09:05.810Z"
+      "updatedAt": "2026-08-14T03:07:45.795Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "Iran-backed Houthis clash with Yemeni forces and other Mideast developments - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPX2xURUdxd3E4WWRRZkVmOFBCOWIzaXNSLTJZbTkyRVVHNXlXaEd5Sk4yQ3VHcFBFNjR5YW9wOUZMSkpRYkpJZHQwNzNUQ0dQUjZfS25iUTRFY1FFbHRBQWtZb0pVenFRZC1UNG0wZjR2aUZ5cEwzWGc2SjFJLUh4Ym16eTJhVG5JLU4xNVdhRUc3NnRsWHdjMGgtZ09UaHRLMjMzM2tvTDRzblNZd2c?oc=5",
+          "pubDate": "Fri, 14 Aug 2026 01:47:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Trump orders the Navy to return to an older system of launching jets off aircraft carriers - AP News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPT2R4Y0tMVHo4a3FtWEc3VmFQZXFUeW9yVUx3RG9HSUhwbVhGVUlqbWRqTlB3bG5iaVA5MzRMZnF5azFTdWNpRkpxbGlIMzBMU3pSaFlFUXE5MXFJQXhqWXNIVGVsNkFCMG5DT1FwNnlhRThkQWxEWFgwU0t3RXg4bnNpRTUxUzkwQW5pMDllRXZsZ3o1NEFnNUdRVFY1WklM?oc=5",
+          "pubDate": "Fri, 14 Aug 2026 00:41:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "New aircraft carrier heads toward Mideast after reports of issues on long-deployed USS Lincoln - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb1lxbDFVekRpTzE0UC1XQ2VBSEZ6cVJPcG1OQjZ5S210Wll1dmtBbDRvY05LRXFWVFoyQkotdkRnOXFXU09XT3Z3Y2VITDdCSjdIU21CMWhCaHNTNm1vYTEyMS13clVFcHpJeVlrVWtOa3FJdjZ3bUx2aDdhalpOVF9Id0ZFRE9WUTVpSHlXYm5nYVBtdzFEeGktaG5qbzMtSzJkWUE2Ulo4ZEVTdHZLREt1OA?oc=5",
+          "pubDate": "Fri, 14 Aug 2026 00:41:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Alabama man put to death for the murder of a 5-year-old girl in last of three US executions in a day - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcjJXcUxELVBkb3dsclNBbDBsZUswNHB2WW5QNlpQTW5adGdNVGFoZC1aTEJqSUhRbk9XTVNHUUZnVHlGM3JuT29weS1pa3NsTmFGdzJMRktTcmpUc2tNa3g4Yk9ObWoxamd4X2sxZ1dJa1d1Q0dZMk11UXFBY3phbnRHbi0yMkNuanVoeGhjZURpMzVhU1NDVkRvazVyRFlGQkstZkVTZERtTllwb013?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 23:40:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Kennedy Center votes to restore Trump's name and close for 2 years, challenging a judge's order - AP News",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNS3dncGxOOUM5ZXRnUzA3Wkl0ZGowMTRibm1ybTFJNEh1Qmlsd0hNbGczMjZzRHQ5NzhwdHZ0MTdZb3E2OFAydURsMzJxaVVHTVhCY2U2V2VMWlg5b2VpTlplcmVOSnNMSXVySjF3TW1saXBjVm54bVJISnNNYjdCYzMxT3NhLUk2aVRVc1pGckNZeHpkSW9ibHZyc29RNHIwcVE?oc=5",
           "pubDate": "Thu, 13 Aug 2026 22:18:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Broken engine parts shattered the Ryanair plane window that a man's head got sucked into: NTSB - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNX0dMUWR0N1NCdC1lR3hzYVI3UG9ZUFRVWWdEMEpXV1RzLWZrWTN5VjI1dVFKYmo3YzRvUU5YYVkwTjZXdTdUU0FyamN2cTZvUmRqLWwtc2NnYzFoUDNZczRqSEUxc1hjZlJfbGZZcTZOSXRzMWYybzhaQjFjWmZ1NkhLa3hrRGNqallzZlY0cHVkMmo3alZnb3dyb0ZpMzU0cVE?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 22:16:00 GMT",
           "source": "AP News"
         },
         {
@@ -131,95 +161,65 @@
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRFFIczBaNVdaX0VtUU9zOEZienY4Uy1YYzgtVjVrelZfRGxMRTBaMFlxbWU2VDU2cEN2cnFyRXdzYnVka0RKWUlLUFNNbmIwLUZBemU4eTcweUs4X0ROV3ZvZGhTRVphSFlZWW9qa0Z4dGRGZmxnZ0JWYy1zRkkwZGsyRkdPYkdjeTJoZFAxX29ZaW5RcmVqSnJvc21zbkstVGc?oc=5",
           "pubDate": "Thu, 13 Aug 2026 21:58:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Trump’s vaccine plan would require millions of individual shots last used decades ago - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNY2R1Y21OR1lSdTNjcVZSNUpUUzlJVEFPcHY3Wjg4QmMwQTZ5V2ZjQ3hnVlkwMXY0c052UXlrSFBSTXZVZXVtNnpnUTdNQVlIT3VYbXR3cDR6ZjRVeDJZb3RUV1FWZ1d1ZVNyQ2g4VFhSb09GRjBBMFBfdjlYcktuZWVlbzJRRkJVeDA3QXJKaEg2UXc?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 21:40:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Graham Platner to speak at labor rally, one of his first public events since ending Maine campaign - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdk0xZm9VOV9yUXVUS3VjazAyamNvTDNzUUhzNW5vbFNyVUcwRk5yY1g4RGFrdG1rb3RxYjE0Q3FoUXFMbWFlQ0R5dE5ZU0xEOHlFaDF5S3JWRVZZemEzZXJMbHVSbHJLb2U5Vm8wNDJILUlTbkdyZDZJQm5DNVQwX1J5aFFfZzFwc2NpdmFRQmRoYjhzbkZmNkdjcVBBT1FNSVNr?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 21:07:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Iran-backed Houthis clash with Yemeni forces and other Mideast developments - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPX2xURUdxd3E4WWRRZkVmOFBCOWIzaXNSLTJZbTkyRVVHNXlXaEd5Sk4yQ3VHcFBFNjR5YW9wOUZMSkpRYkpJZHQwNzNUQ0dQUjZfS25iUTRFY1FFbHRBQWtZb0pVenFRZC1UNG0wZjR2aUZ5cEwzWGc2SjFJLUh4Ym16eTJhVG5JLU4xNVdhRUc3NnRsWHdjMGgtZ09UaHRLMjMzM2tvTDRzblNZd2c?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 21:00:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "White House border czar defends ICE electric shock gloves as tools to avoid deadly force - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQb3NFdF9tNVJidGNhMjlXVVRPN1RIM29BeEZFWjhYOVlxTUFmRFBiNENkdlNuNXo1WDVYTGhfM0lfNGxfTHBUcHJ5VUg4QTBmU0xxNWNnQXlqWFNMaTBNbllWTnc2TU04ZGs3ZTBiQ2kzQzNhZTdhRzVuRDdDLVdaUWFpY2hnNzFSM3I2blB3?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 20:52:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "New aircraft carrier heads toward Mideast after reports of issues on long-deployed USS Lincoln - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb1lxbDFVekRpTzE0UC1XQ2VBSEZ6cVJPcG1OQjZ5S210Wll1dmtBbDRvY05LRXFWVFoyQkotdkRnOXFXU09XT3Z3Y2VITDdCSjdIU21CMWhCaHNTNm1vYTEyMS13clVFcHpJeVlrVWtOa3FJdjZ3bUx2aDdhalpOVF9Id0ZFRE9WUTVpSHlXYm5nYVBtdzFEeGktaG5qbzMtSzJkWUE2Ulo4ZEVTdHZLREt1OA?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 20:50:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-14T00:09:06.330Z"
+      "updatedAt": "2026-08-14T03:07:46.318Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "US also wants trade deal before August 19 tariff deadline, Canadian source says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOTI1M1RiLVl4cXJYa3NVRVBKaVFwTnptQU1KX1BaLVFaUE1iVGJTajd0OHhuQXl5bmtIWnBZYWdCVnFkNV9XVk9yM21ncGdhaU5RWDI1YU1QSmlZWFduUGc4TVFZdVdaMjhRMG43M2R6YjZWcmZGaFg1NnUxRi1OTVB6R0UzS1RkV21XdGVFVDIyNXdzMk80bG9tampEbG1TUTFkdFJyTW40OVR6ZlRYVDlhVjZCazlxVHc?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 23:16:43 GMT",
+          "title": "Yen's slide to weekly loss prompts bets for another intervention - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQVdOaGFHQW9UT2djdjRLSnBkeE9pMnJ4N3NkSVlxczRQZ0otbmJTNS1fa2VOU3dqcExCRGgwYVAxY0lKQnZvc2JUSk9BcGlkT3pPdTlRLWQzVlRuR1F4ZTBFd2FkRkVNZnFLQ2dwUXY4RlZQdjFjNngyZVp5SWd0LVJSUnNidmcwTUdnRDJOd2hsa0xaQ1Z5VmM1WmdjS3NnNmRubmdFVXpaTUk2LURMZQ?oc=5",
+          "pubDate": "Fri, 14 Aug 2026 01:47:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Kennedy Center board votes to inscribe Trump's name on building - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZ1JNRjYzNHhTVEotdzlYTWNXNS1JR3pSRlVFdXZPNlpMRW1iTTVrYTZickt4ZG5tbzk3LXl0TlV1U2c5d3ltY1ltRzk2VmZYcGdIT29LMkFuR2VTYzFmcTdyMGdUblJ1MzU2S0VDdlBGSG5YbjF1REJDSVVMODJiVzdJakltbkFKN1FUXzBNSkdlMnhsR0g0NmtmN0Z1aFBBdXVj?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 23:09:35 GMT",
+          "title": "Oil steadies after US threatens to blockade Iran indefinitely - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeHh3dmRQTVJOaXBOODZqNzdueG9RbzJ0VUZ0TTJ3UGNyaXFfOUJ4c1BsWXdKXzFWY21VZTdaaHpySzhxYXFIYnBVcUpsWDdUUE1od3pKN2psUWI1dS10enVtNzBDX0xBQUpqNmkxVE1xZE1scnFHeS1DQkM4YTRwOE01NXpwU3RWREhIWGFZMlFTcndNQzRWc3NrM0xWa2hwdlMzSE5IeEhqUzVJVFBv?oc=5",
+          "pubDate": "Fri, 14 Aug 2026 01:36:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "US could not verify Israeli warnings of Iran plots against Trump, sources say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSnhVZVpUNm9PZUM5Z3VkNWp1NVJNdmdYcTZDblZhWURVRnhKLWtNTTVUeHpaNE5wN2M0cGU1WFBycHhGT2h4T2taMTR0NUduWkRCczBUMTVwaldHY0lNVzB6QkZMMHg4dUM3ekkwaWJWME9NSHlWSUl6R0pXYk92V3BZM1NNVnRNNVRFR1hhVXU2blhNTEdKeWh6c3pGUVNSS09XTDgwNkxtMmVSU1lnQVZob2FldllGeWVMRUZ1NkRnNEs5WUE?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 22:52:42 GMT",
+          "title": "China's Pony.ai, Uber to jointly deploy over 2,000 robotaxis in Europe - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOTFjbGtTXzEyN0FWNms5M1Z5ZnlDZXA1Qlktd3ZFOWk3N01FQXNPdFlNaFBRNGotM295YkhCWkh5WDh5WjByaUc3MlN4N3hnYTlVVlB6SW81elB0M0dFeldIcFMyQ2ZkQTFvVjFpMlNVd3otMVJFWlpjTGlOMW5LWVNtOUJreDNhNjBvRXY3cV9sMDAzMGE0djRCWUJwTnp2Y3pXVkVYemdaS00?oc=5",
+          "pubDate": "Fri, 14 Aug 2026 01:07:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Musk discloses 48.4% stake in SpaceX in regulatory filing - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMG9HdFBYbUZ6MFFGUjZUeExZelNEMzlKX3hKS3Zmam90TFRpbVFhcmtBSU5jUkt2dHFobTV2SHNwNllUdnB3RXk4OUFsdXIzZEY0YW5zR3Z2bC1HWXVDT2FwcHFvalY1Ykl1QWN3WEJIQ0JYdEY0UnJ4b1NSdkxNaFpnak1nalE1b01wZVBydTZHRUxteEptZ1VFUXJmUWJwQjR0TXFQb3g?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 22:50:09 GMT",
+          "title": "White House says transshipped goods cost $19 billion to $26 billion in lost tariffs - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUnd4NlphQnNDV1c5X0xlSW9rQmd2bGRDX2xPMi1HT0RzM1NpX0xhVDJkTnNQX2hoQ0xoNHFyc29JNTAtaGlDaFo4ODJMU1ZJRk80bEs0bDR2Nzk5U0c4WWRVb09ER2dHTE42Q1hVZ2xtUXB4NFZNSkJXdWVHT3NEZnJIeXh2aEZQNnc5VU9DOTBfRkY4Szk5Q0UzUkZ6ZTVFeWt5SzBST1JtNlZrWmF1NGVaakdDLWIzYmJCNzRVQU80SFJvaXpyUGVsUGY1MHlJcndJVkM3REw?oc=5",
+          "pubDate": "Fri, 14 Aug 2026 00:15:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Hundreds still missing in Colombia as desperation grips earthquake rescue effort - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdTlvYTRPQnZ2b3ZFaHNQeDc1ZWdlaXlmc1AwQTJ4bnFKQ2xHRmpaSGRRa2o0U1ZOR0w3RnhiNDFBMmlicjE1RFpIdXBhUmtqTmhpYzhBUDVjaG5sLVFyZGlpZllnSVpxWlJHRW5GRW5TTjh5YVluangyMGNsR0RJRDNWUmNLazluRUFuUVVIN0JKLTR0NkpvX2pOdkdyOFNEVHA2U2MwVnVoZjhwbTdDcEljd1VTLWllWlh3YUtVX1Z1Mlh5Q1JGZQ?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 22:48:42 GMT",
+          "title": "Japan may see more yen intervention, faster BOJ rate hikes, ex-top FX diplomat says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTVpGWmVRR1JoWVkxSnIwWGVia0EwTnlpRkh6MEgtRHpjSUhtaTIxdWZDdzFnUFRYekw3VjRNdC1xSVQtem52d3BoOXF3cEV6WElWOFJPNnpsTnJqeUZBTFl3X1ZHNkhIYkpYaWJOTzVDVjZvVjJGS1JiQ215emxLUlB0VFdVQjZTbF9QMHdDMkNTWlV1QTZiZHB5eDBXZkU2WHNuZUU5UjBCTHRSZ2pHWF9aY3JfMkVyOFg2MW5qQTYwdm5DNWctZllOSQ?oc=5",
+          "pubDate": "Fri, 14 Aug 2026 00:02:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Applied Materials forecasts revenue above estimates, shares fall on high expectations - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWHJyaGsycWNqcVJHZjVUTjk4UDRVcmlGaldsMk80U2FjN2hzNkdNTUZ1RVlaUTI5emRfaUkwNl9haWpQeFY4MzJFTW4xVm5lYWJlZUd2RHRESzN0TU10U0hhQnFoYTNJX2VXaU9HcnluM0l3a3FrMWdqUzlTRlpNM0RmdHVDTnZib0haWHd5UTJhams3TEZ4UmxXMUJGUGdMN1gtWjB3cXhnZw?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 22:32:39 GMT",
+          "title": "Brazil opens reciprocity process against US over tariffs - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWFlCSHhLR1NYelQ2MDFnTDNQMXg4RXpOQlBCWlI3QVJ0cERxVjVsY0lBaU5vWDdGNW1uNlY4c3ZKWk9fV01DNVR1N0ttdEUtMXZ3bmpLay0tM3B2Q1dVWWt3QWx3N1pNc0pMTHpkbVg5Uk1wOXFBTmNfLUNBdWpJcjlDQnBUd2VuR0FoU2FPVkREQW5BNU8zblczSWUzXzRoeDZBdmtnaHROVnM?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 23:45:14 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Tyson Foods will close or sell three US beef facilities as industry struggles - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRlgyT1ZTbzNSSzV5S1NiTzRUbHAxMjlSTjBZdnNib2s4UGZTV0VrTHQ0TTF0OW1DY040WWVORjF1U3NSUjRyWFFNX0NScWdLQ1ltSFFYaE5CeERkZXhlV0FlTzdDbmVzNjBFVUk0UkFlOE8xWjI0bXhUNFB0Snhlc1dURld6WENZUGhiYThjalBNYy1wN2NXbnVjbldDOGlFM0ZxSENLZFp0ZWhRdnVhV013Y2xJU240RHk3Z3hQSkN5R2s2QzJMWDk1RExkREgy?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 22:27:43 GMT",
+          "title": "S&P 500 notches record-high close as rate-hike worries ease - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUHR2anJaRElybkU1MUtsS1JsREMyQW90SU9hRXAwblVMSDdMZ1d2bDRBUTczVy1pQVh6ZnpDWnhUR3ZqSjNpTXYyektQN0JsSTNaS3MxQVJQLVlvakRnUzAxelE5RFkwMWRqY3ZJUGk4THRXblEtejVuUDdYS3MtVDd3ZEFtN3ItS05JWGxwTklCSkg3YXRQbUZhRDdRWngxVC1xWHgzMVR2TWJPYzZFaFZRV3hHNFpQbm5SZTRacw?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 23:35:02 GMT",
           "source": "Reuters"
         },
         {
-          "title": "US eyes indefinite Iran naval blockade as oil supply shortfall deepens - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPamFTRDhha2lGLW5hTU1KdDZnVjlxd2hEY1lqX3Zfd2NmVlRXZjVWbDNHMXdJem1SX1hsNUpoaF9lWHhYUVFmUWJ0SDBWRG5uOGMzYzI0MFh6ckthOWJNZXNtR0tJVFJFcEMtVjdwZVFpdURyczZ0NTkzMDh1dDJNRWxKQ2htMEpBQ3N2Q25OY19wRWxaYTVCTmJJRWprVFFSMWNITjl4QmUxQVN1MUFnNHRsRWJGYUpHZ1Ywb0Nn?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 22:01:51 GMT",
+          "title": "Bessent says US to apply measures never seen on Iran - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNT2p2QW55Tk9jcjF5Ti1OZmlpMGpLTEg0RU92RVEtMzFobXY2TmtNWjFJaUVZMl9RaWxWM09uV2xjVlQ0dnFHcGlEVi1Zc3ZnRHpFMkZ5VExoeTdzSVE0cmYzMVRFQUExRHA2RHNhZFpFMFZnNnIySjh3RTBRSXVtX3ZqVTJjVWhGSmdpTHVmY19QRE9ieWNmaDdaM2hmOHZfRFE?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 23:31:45 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-14T00:09:06.756Z"
+      "updatedAt": "2026-08-14T03:07:46.800Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-14T00:09:06.999Z"
+      "updatedAt": "2026-08-14T03:07:46.971Z"
     }
   ]
 }
