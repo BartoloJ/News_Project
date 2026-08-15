@@ -1,9 +1,15 @@
 {
-  "generatedAt": "2026-08-15T10:52:20.724Z",
+  "generatedAt": "2026-08-15T11:25:11.328Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Family stranded at sea for 16 hours after jet ski capsized in Thailand",
+          "link": "https://www.bbc.co.uk/news/articles/cy0j60p0d29o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 15 Aug 2026 10:56:22 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "South Korea proposes talks to officially end war with North",
           "link": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
@@ -45,16 +51,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cd0xk82mrpyo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 14 Aug 2026 23:17:22 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Many Canadians are boycotting the US, so this is where they're travelling instead",
-          "link": "https://www.bbc.co.uk/news/articles/c8jnwnw22ngo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 14 Aug 2026 23:16:43 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T10:52:04.397Z"
+      "updatedAt": "2026-08-15T11:25:09.869Z"
     },
     {
       "name": "NPR",
@@ -109,15 +109,27 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T10:52:04.432Z"
+      "updatedAt": "2026-08-15T11:25:10.097Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 38 and toppling buildings - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZXcybXB5SWdoQlRJUDd5anhCRHFhZmFEV05GOU9HZVozTjFFOTJsS081dVlpZDNHLThNQmh1R2hwMkZrZy15eDhpUnNlWE03LWFrMVlOMFNLN2x6U29wOHhwRGtKYzQzV2xkUjdDaS1JRllIZV9JZVUxVFZ3UlFjeTZtRXRiVWQ0NkhlV0V2TzhQaEVYRUpkQw?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 09:34:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Israeli airstrike on southern Lebanon kills 7 people, Lebanese state media say - AP News",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdXVvcWZIbkY5aDNaUWczOEFHWVBiRkJ4MlVkVzNqaE1yODh5cW5BLVROY3NpamtVS05uQ2JiYk9PVDdoMjlIOVZZc2tXV21CVUNQV3cxS0N6X2p0TUxmaWMtbk1GX2dpSmdvSEF5WGhNcXJkTEk1ZU9tanhSaTUxM2dwZXhpUnQ2ODA4OE1UQWwxbVVzLWpibF9OSmRRMlpDOWdWWnQyOXZqMmUtNDdUUQ?oc=5",
           "pubDate": "Sat, 15 Aug 2026 08:30:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Israeli strike kills 7 in Lebanon, a vessel attacked in Hormuz and other news from the Middle East - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOU0NBVmpueWNUWGJ1ckoxSW1wR1dkX0ZHRzk3bWFUcUlGamk0NjBjMEo2LXVRNTlUUkxibVdSbHdLS245VF9Hc2hzbE9JYld3WEt4VnBPSWVwMjFoTlQyc2RSYjdzLU5ZN0FoZ1dSaVVGUGIwbU1XbzlCY256ZnloUFBuNnlPakV3RFlFWHpqRERKa3lIblRReG80R1hyN1RCczFLdXYtRmJQNlo3?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 07:52:00 GMT",
           "source": "AP News"
         },
         {
@@ -127,15 +139,15 @@
           "source": "AP News"
         },
         {
-          "title": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 20 and toppling buildings - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZXcybXB5SWdoQlRJUDd5anhCRHFhZmFEV05GOU9HZVozTjFFOTJsS081dVlpZDNHLThNQmh1R2hwMkZrZy15eDhpUnNlWE03LWFrMVlOMFNLN2x6U29wOHhwRGtKYzQzV2xkUjdDaS1JRllIZV9JZVUxVFZ3UlFjeTZtRXRiVWQ0NkhlV0V2TzhQaEVYRUpkQw?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 06:33:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Myanmar says over 300,000 Rohingya refugees verified for repatriation as exodus enters ninth year - AP News",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSEFkQWJ4WnBlb3kwcXExVGhRclRsU1k4VEdFem52RzBxblJLRnNUemlLdmh1WV9PaDFBRFJGdm5rWk1QanZTU2pqUEl6T00xdFozaEtSaGhEZGxqU2hVbWl1aE5idHY2azNJc1JPSlI0NkQzMllaazhNU2luVjVON2dWUU9Ndmh4YUxtamcwNzA0ZHZRT2liSzdPVTJhZw?oc=5",
           "pubDate": "Sat, 15 Aug 2026 05:47:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Photos show the World’s Ugliest Dog Contest in California - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcngtVnUtREVpMDVKR1RTZUlHRDcxRGM5enJDWHphQVdsUElnbHNUZkFCMF8xZkprREhEYkJ0emp5cEJoT2dFdkU2cmFQNnZEWjMtUVBLbEhVMWlYVmJUeW1wMDA0bWdjMXBfMndvYkFXN0FwS3BzbmhtOWFwN0QxU2d6dnpXcEhUS3U1UnN5Wi1ncUxqV2Fv?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 05:07:38 GMT",
           "source": "AP News"
         },
         {
@@ -149,26 +161,32 @@
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOHlKTU5mZV9URk9aR092d3pteDlhVUtkMzFnV2hpQVVNdWZvT2VjQzk2Sm5hQjNIOEhDaWVub3hwTnR1UjN0UDA1eU5SU3hySGoybENYZElaQ2ZMNjFlUE1EQmRUVVpzV3VuZkhWUXllMEs4MnhRUFhyMHoxTVoyaDBnMC1BTHYwQmc?oc=5",
           "pubDate": "Sat, 15 Aug 2026 02:22:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Appeals court sides with Trump in fight over subpoena of gender-affirming care provider - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPX1RMZWdYemwxQnBCT2FBNC02TWw4V1g5eHM2SXFsTVpaMktnZmtpb2lONDZMeGVnWWh6VVNzWGVGOG9jX21lVWVqZGxueVdRazhncXVPMnRYLXBpRktTMzBlTGYydUh4Tm1hV09BdGQ1TWhHNnZVRnktZ2UwTFhuVnpCNlVWZVRYUG1EY2Y0N21sNUNtbDJN?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 01:20:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "NFL suspends Falcons’ James Pearce Jr. for 8 games after his arrest in domestic dispute - AP News",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYzg0QjlwRW1ENHgyclE4TnQyUkFwR3FpN2RhdzhZUGRJWUtnQ3NTMXgzR0puek5oM0I5SXZCQm1rb1Z0bkp1Y3RxLVlJX3gwaVBYa1YzQUIteGgxRE9ZZFpKUFgwNzQtSEx5Z3k4LWhvTmxSdXgwWjVfQmN1aThHSzJ0bDIwZw?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 01:13:00 GMT",
-          "source": "AP News"
         }
       ],
-      "ok": false,
-      "updatedAt": "2026-08-15T10:27:53.729Z"
+      "ok": true,
+      "updatedAt": "2026-08-15T11:25:10.624Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Taliban mark five years in power as aid groups warn of crisis - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORTh4U3hRdlRhY1RmYWJDa0o1RWZEcFUxMkJ1RkhMVE9NUnZUc2ZudjBhM0pKZEhfdVpzeWdTZ1BLaGVLUXd4Z0haUmZOTHktT0Q4dzlUQmFwRmZ4RzE2REZDN2JrWXI5Nm9jWlJRQXhXd3k5ekhTdEtyYWpjSDloSDV1cFZqTEVCT2w4QS1jX3gybktmQzFRekZYcTJVX3BkNVE?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 09:08:28 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Philippine defence chief rejects China criticism, calls response a 'squid tactic' - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMGl5elBUU1JOd1QySlJoX0tlY1dSOWxsY20ta2FpbUNray1MOThFTHIwa0xNcTJZTGg4RjQtWlpjS2toTFlVYnRlaDlYS1Rrd0w4ZThTd0N4dzNmZHA2QzZqbS0xSGt6a2c5anBiZDdtZHFDSWN5VnNhQld4ZU4zNG41eEdUOW5TNTR3ZEg3dC1laHNwaXNTTHlvM245ZkpNekxTNXA0Z0p0bTlRSTRpM2pETVNJRktGbU1RTnpfWllNZw?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 08:58:54 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Xi calls for improving disaster prevention as floods, landslides batter China - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcTdub1VTd3ZJN1RMU04yMzZwQlNSZHJWblg4bElqNGZGVkQ1dTdaYVc1QkdiVlR1dTEtR1NyRHBJV291TlRubE82UEZibjBCVlFGVTdqN3ZvdmVkU0lPU0plWUl4cWptcXpWTUdJVUxrQ1FvUWF1bGxCalNXaG1jQzBkR2xHT0RjbWlBTUlKMjkzbVhWcFZWZFRFSi11MUlITFZDamVrc2x5SnZlOFJMTnRjaUdBMFZq?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 08:52:33 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Spain disregarded Ceuta warnings before migrant rush, say border workers' unions - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZ1JDMTI4SDNkNEZwRUxyTG41ak5GRENmeEhtR05qemczcXZxWWlYTkthSEJva2V4cEVBSWlFTG9JMXpOSFFUX1hHT0tGaUg1bHZ2UzVFWUZZTV9xTDRIa3hZbHB0cHdDRlJLbXVBbGtNdmx6ZVlieHZ2TGJkdWYtM25uTlNJSzAtSm9OVTlFZ0tjNlBGMjRVc2Fjc1NFemxqejVtX1h4YVV0ZXEzdWZuS2NWRDVnX2VxOWp0azVRdjdnRVBBZ0E?oc=5",
@@ -198,28 +216,10 @@
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOS3UtTXNsbVo0WElHRlRET2R2c2pBTlJxSlFZLVhvczlxN3NtdDNNOGI5MDR4QTlUNmxwT1NrWGNqUjJGNnZna0tTNmF3a1J4elg0WVJ4djNCMXg4ZlBEeVItbGZPaVJHOVY3Nlk1M1dHVkR2OG1MM1lpWWhfUlBXdjh0b3YzcW9KRU1RNWdPd1J1UElhdkFvUkFyX2h6bHBEaUxHeXNMNVFFMklXc1RRanM4b2NNaklhdVVPRTdR?oc=5",
           "pubDate": "Sat, 15 Aug 2026 02:38:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "South Korea's Lee urges talks with North Korea to replace armistice with peace - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcXUyVVljMUd0SC1sWHJRSGh1RWN5UFhBYU9ZV085UWdudzFNMW9fa2xLcEdCcHJLQkJuNE8tMVRTNm9VbXM4RWtEOXM0WThNTmlmcERobGRkZE1vZE1ydU5IVXNwZlR0aFozdjlucHA1VE1mZ2prYkhJYnZId3pEaERKdWxqMTVuT0YtVWRaVFZfVXRVeWNMX0dlOS1pTll6SUpoR2hkejE3RHVRX3c?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 01:56:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Taiwan passes annual budget after long delay, including drone spending - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZ3UzSjBzSmtiR0FZTWRKenlZLXNvLS1YSkZXdTZlMk1JTnRYOGdhVlpoUHVuQ3VrUGZZZzFyenZhZldPbTRBLUFUMjBoN3AwY1Z3TFFLb3JjRTBONkZtRnBVUnI4ek5aRU9OZG1rZzEzSC0wSGF3YzlkbjJIc3doZ1phYTZEOTd4cFlFYnNfRzlEcGZKX0dXTFVJdm5EQm9lMjVDVUhpeUJ3dFRBM0d5Q3M2RjFGdWRj?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 01:27:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Five killed in Michigan shooting, suspect found dead, police say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSW83cng5OGtlQWtDWlRUQm1zRm8xdTI3dHpUYUFGMEhXT3NmeFNLOExMSGdlQnl3RFFQblZHRFlyN0J2T2ZiVVlJTWxoenowSmtZQTBGNTA2QUk0YjVXU3lZSkJ4MGVSRFNOV1hmMzNFclAwZ1RxaFBRVk52RGNjMmJOd1RkZFp3bGJWYW8tajBsMkg5Q0xJeGdreW1qdVBQUDVuSTZTcw?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 01:10:00 GMT",
-          "source": "Reuters"
         }
       ],
-      "ok": false,
-      "updatedAt": "2026-08-15T10:27:54.161Z"
+      "ok": true,
+      "updatedAt": "2026-08-15T11:25:11.055Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T10:52:20.724Z"
+      "updatedAt": "2026-08-15T11:25:11.328Z"
     }
   ]
 }
