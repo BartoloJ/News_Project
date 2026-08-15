@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-08-15T09:30:46.597Z",
+  "generatedAt": "2026-08-15T10:27:54.458Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "South Korea proposes talks to officially end war with North",
+          "link": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 15 Aug 2026 09:35:23 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Moment family rescued after 16 hours floating on jet ski off Thailand",
+          "link": "https://www.bbc.co.uk/news/videos/cj4kg74ndggo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 15 Aug 2026 09:29:31 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Powerful 7.7-magnitude earthquake kills at least 38 in Indonesia",
           "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
@@ -39,26 +51,20 @@
           "link": "https://www.bbc.co.uk/news/articles/c8jnwnw22ngo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 14 Aug 2026 23:16:43 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "How is parkour helping these seniors avoid injuries?",
-          "link": "https://www.bbc.co.uk/news/videos/c7vg06pjdmqo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 14 Aug 2026 23:08:13 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Dozens injured and thousands evacuated in Croatia wildfire",
-          "link": "https://www.bbc.co.uk/news/articles/c9342wn2x27o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 14 Aug 2026 20:22:56 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T09:30:45.589Z"
+      "updatedAt": "2026-08-15T10:27:53.207Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "ICE detained a Venezuelan soccer pro. His case shows the immigration backlog crisis",
+          "link": "https://www.npr.org/2026/08/15/nx-s1-5928322/ice-detained-a-venezuelan-soccer-pro-his-case-shows-the-immigration-backlog-crisis",
+          "pubDate": "Sat, 15 Aug 2026 06:10:00 -0400",
+          "source": "NPR"
+        },
         {
           "title": "5 exercises that can prevent (and relieve!) pregnancy pain",
           "link": "https://www.npr.org/2026/08/15/nx-s1-5930423/strength-exercises-to-relieve-prevent-pregnancy-pain",
@@ -72,7 +78,7 @@
           "source": "NPR"
         },
         {
-          "title": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 20",
+          "title": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 38",
           "link": "https://www.npr.org/2026/08/15/nx-s1-5932405/earthquake-indonesia",
           "pubDate": "Sat, 15 Aug 2026 04:29:20 -0400",
           "source": "NPR"
@@ -100,16 +106,10 @@
           "link": "https://www.npr.org/2026/08/14/nx-s1-5930700/mangione-federal-charges-guilty-plea",
           "pubDate": "Fri, 14 Aug 2026 12:05:24 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "We learned 5 important things about the economy this week",
-          "link": "https://www.npr.org/2026/08/14/nx-s1-5929422/inflation-spending-economy-groceries-gas",
-          "pubDate": "Fri, 14 Aug 2026 10:47:15 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T09:30:45.648Z"
+      "updatedAt": "2026-08-15T10:27:53.308Z"
     },
     {
       "name": "AP News",
@@ -117,7 +117,13 @@
         {
           "title": "Israeli airstrike on southern Lebanon kills 7 people, Lebanese state media say - AP News",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdXVvcWZIbkY5aDNaUWczOEFHWVBiRkJ4MlVkVzNqaE1yODh5cW5BLVROY3NpamtVS05uQ2JiYk9PVDdoMjlIOVZZc2tXV21CVUNQV3cxS0N6X2p0TUxmaWMtbk1GX2dpSmdvSEF5WGhNcXJkTEk1ZU9tanhSaTUxM2dwZXhpUnQ2ODA4OE1UQWwxbVVzLWpibF9OSmRRMlpDOWdWWnQyOXZqMmUtNDdUUQ?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 06:55:00 GMT",
+          "pubDate": "Sat, 15 Aug 2026 08:30:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 07:15:56 GMT",
           "source": "AP News"
         },
         {
@@ -130,12 +136,6 @@
           "title": "Myanmar says over 300,000 Rohingya refugees verified for repatriation as exodus enters ninth year - AP News",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSEFkQWJ4WnBlb3kwcXExVGhRclRsU1k4VEdFem52RzBxblJLRnNUemlLdmh1WV9PaDFBRFJGdm5rWk1QanZTU2pqUEl6T00xdFozaEtSaGhEZGxqU2hVbWl1aE5idHY2azNJc1JPSlI0NkQzMllaazhNU2luVjVON2dWUU9Ndmh4YUxtamcwNzA0ZHZRT2liSzdPVTJhZw?oc=5",
           "pubDate": "Sat, 15 Aug 2026 05:47:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 05:03:24 GMT",
           "source": "AP News"
         },
         {
@@ -164,7 +164,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T09:30:46.096Z"
+      "updatedAt": "2026-08-15T10:27:53.729Z"
     },
     {
       "name": "Reuters",
@@ -219,7 +219,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T09:30:46.497Z"
+      "updatedAt": "2026-08-15T10:27:54.161Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T09:30:46.597Z"
+      "updatedAt": "2026-08-15T10:27:54.458Z"
     }
   ]
 }
