@@ -1,9 +1,15 @@
 {
-  "generatedAt": "2026-08-15T11:25:11.328Z",
+  "generatedAt": "2026-08-15T11:47:37.780Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Seven killed in Israeli strike on southern Lebanon, country's PM says",
+          "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 15 Aug 2026 11:24:24 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Family stranded at sea for 16 hours after jet ski capsized in Thailand",
           "link": "https://www.bbc.co.uk/news/articles/cy0j60p0d29o?at_medium=RSS&at_campaign=rss",
@@ -45,16 +51,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 15 Aug 2026 00:01:53 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "The Polygamist's creator says women see themselves reflected in her Netflix hit",
-          "link": "https://www.bbc.co.uk/news/articles/cd0xk82mrpyo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 14 Aug 2026 23:17:22 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T11:25:09.869Z"
+      "updatedAt": "2026-08-15T11:47:36.229Z"
     },
     {
       "name": "NPR",
@@ -109,15 +109,27 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T11:25:10.097Z"
+      "updatedAt": "2026-08-15T11:47:36.466Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "Mississippi - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1RUWtvaDFDdkpYZVFRR0I3RmVVRUE1dmNuRW1uaFo0d0FJUzRseTZPN2ZyVlJIU2tld0hhZllOT3BoM2d5T1ZqZm13?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 09:55:07 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 38 and toppling buildings - AP News",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZXcybXB5SWdoQlRJUDd5anhCRHFhZmFEV05GOU9HZVozTjFFOTJsS081dVlpZDNHLThNQmh1R2hwMkZrZy15eDhpUnNlWE03LWFrMVlOMFNLN2x6U29wOHhwRGtKYzQzV2xkUjdDaS1JRllIZV9JZVUxVFZ3UlFjeTZtRXRiVWQ0NkhlV0V2TzhQaEVYRUpkQw?oc=5",
           "pubDate": "Sat, 15 Aug 2026 09:34:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 09:12:42 GMT",
           "source": "AP News"
         },
         {
@@ -130,12 +142,6 @@
           "title": "Israeli strike kills 7 in Lebanon, a vessel attacked in Hormuz and other news from the Middle East - AP News",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOU0NBVmpueWNUWGJ1ckoxSW1wR1dkX0ZHRzk3bWFUcUlGamk0NjBjMEo2LXVRNTlUUkxibVdSbHdLS245VF9Hc2hzbE9JYld3WEt4VnBPSWVwMjFoTlQyc2RSYjdzLU5ZN0FoZ1dSaVVGUGIwbU1XbzlCY256ZnloUFBuNnlPakV3RFlFWHpqRERKa3lIblRReG80R1hyN1RCczFLdXYtRmJQNlo3?oc=5",
           "pubDate": "Sat, 15 Aug 2026 07:52:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 07:15:56 GMT",
           "source": "AP News"
         },
         {
@@ -155,16 +161,10 @@
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcjJjWGdlR3l1Ni1LQTFPWWZ6ckJYVFd4OHVxaXB2UWtIWW1NUTViUTNaSFdqMnlIMHI0UW5CM0NOalNST3V6V0hCVU51Z2NrRnpnN20xRGg1WHlDTmtnd05DQkhIakhlZzU5ZDlzVU9FSThtaEtfZ0pvajdDaHB2bldZVnM2UzhUVXFXTXBxSmNuTTNkbEhYOGx5eXZsdTA?oc=5",
           "pubDate": "Sat, 15 Aug 2026 03:37:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Shootings in Michigan leave 5 people plus suspect dead following large-scale search - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOHlKTU5mZV9URk9aR092d3pteDlhVUtkMzFnV2hpQVVNdWZvT2VjQzk2Sm5hQjNIOEhDaWVub3hwTnR1UjN0UDA1eU5SU3hySGoybENYZElaQ2ZMNjFlUE1EQmRUVVpzV3VuZkhWUXllMEs4MnhRUFhyMHoxTVoyaDBnMC1BTHYwQmc?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 02:22:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T11:25:10.624Z"
+      "updatedAt": "2026-08-15T11:47:36.977Z"
     },
     {
       "name": "Reuters",
@@ -219,7 +219,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T11:25:11.055Z"
+      "updatedAt": "2026-08-15T11:47:37.441Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T11:25:11.328Z"
+      "updatedAt": "2026-08-15T11:47:37.780Z"
     }
   ]
 }
