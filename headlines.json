@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T03:47:19.776Z",
+  "generatedAt": "2026-08-15T04:36:57.890Z",
   "sources": [
     {
       "name": "BBC News",
@@ -54,7 +54,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T03:47:18.614Z"
+      "updatedAt": "2026-08-15T04:36:56.925Z"
     },
     {
       "name": "NPR",
@@ -109,11 +109,29 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T03:47:18.722Z"
+      "updatedAt": "2026-08-15T04:36:56.961Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Magnitude 7.7 earthquake strikes off Indonesia's coast, toppling buildings and killing at least 5 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZXcybXB5SWdoQlRJUDd5anhCRHFhZmFEV05GOU9HZVozTjFFOTJsS081dVlpZDNHLThNQmh1R2hwMkZrZy15eDhpUnNlWE03LWFrMVlOMFNLN2x6U29wOHhwRGtKYzQzV2xkUjdDaS1JRllIZV9JZVUxVFZ3UlFjeTZtRXRiVWQ0NkhlV0V2TzhQaEVYRUpkQw?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 03:55:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Judge refuses to block Trump administration from building border wall along tribe's reservation - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcjJjWGdlR3l1Ni1LQTFPWWZ6ckJYVFd4OHVxaXB2UWtIWW1NUTViUTNaSFdqMnlIMHI0UW5CM0NOalNST3V6V0hCVU51Z2NrRnpnN20xRGg1WHlDTmtnd05DQkhIakhlZzU5ZDlzVU9FSThtaEtfZ0pvajdDaHB2bldZVnM2UzhUVXFXTXBxSmNuTTNkbEhYOGx5eXZsdTA?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 03:37:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 02:22:02 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Shootings in Michigan leave 5 people plus suspect dead following large-scale search - AP News",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOHlKTU5mZV9URk9aR092d3pteDlhVUtkMzFnV2hpQVVNdWZvT2VjQzk2Sm5hQjNIOEhDaWVub3hwTnR1UjN0UDA1eU5SU3hySGoybENYZElaQ2ZMNjFlUE1EQmRUVVpzV3VuZkhWUXllMEs4MnhRUFhyMHoxTVoyaDBnMC1BTHYwQmc?oc=5",
@@ -124,18 +142,6 @@
           "title": "NFL suspends Falcons’ James Pearce Jr. for 8 games after his arrest in domestic dispute - AP News",
           "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYzg0QjlwRW1ENHgyclE4TnQyUkFwR3FpN2RhdzhZUGRJWUtnQ3NTMXgzR0puek5oM0I5SXZCQm1rb1Z0bkp1Y3RxLVlJX3gwaVBYa1YzQUIteGgxRE9ZZFpKUFgwNzQtSEx5Z3k4LWhvTmxSdXgwWjVfQmN1aThHSzJ0bDIwZw?oc=5",
           "pubDate": "Sat, 15 Aug 2026 02:11:06 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Magnitude 7.7 earthquake strikes off Indonesia's coast, toppling buildings and killing at least 2 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZXcybXB5SWdoQlRJUDd5anhCRHFhZmFEV05GOU9HZVozTjFFOTJsS081dVlpZDNHLThNQmh1R2hwMkZrZy15eDhpUnNlWE03LWFrMVlOMFNLN2x6U29wOHhwRGtKYzQzV2xkUjdDaS1JRllIZV9JZVUxVFZ3UlFjeTZtRXRiVWQ0NkhlV0V2TzhQaEVYRUpkQw?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 01:56:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 01:48:33 GMT",
           "source": "AP News"
         },
         {
@@ -155,20 +161,20 @@
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT2tUV0pUa2lOMy0yZ1N5NzRhR0IzWmV5S1k2X1drUjRoNU13NWloWm5kbUFnLTBoYUQ1VG1oTEtxeHJ5Rm1uV2ZvLXgzUHU1N1dWeV84UXVPYVJKTDF0dkN0Z01IRlZNa2ZnOERLSEoyNXNwOEhJSjl6aWFBb2JpdEMxX2hHa3lKMXk3UnNkY3lOUGRXd3JFcE9FaVRBQ3EzYTBJYmhlUl9tdTZLamhVdg?oc=5",
           "pubDate": "Fri, 14 Aug 2026 23:58:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Picasso etching stolen from Milwaukee art gallery in 2018 found by landlord in vacant apartment - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbkt1NF9lQXZWbXU5NmdEdDZIR3lXZjVuaEk2Zklpc1RGaUNlTmwtNV8teEY0SDRwQjlxRkdKMGh6NTJXcTk2aXJaMW0wNUtmVXNmZHJDbU9JMXVFVTNIQ1lxb2dzSlVGNVF2Z1NybDNWcGFFUU5fTWdfTldkQlhUN3JiUGdtU1V6Zm9QUVFLV0MtQ3BDWVU0?oc=5",
-          "pubDate": "Fri, 14 Aug 2026 23:38:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T03:47:19.145Z"
+      "updatedAt": "2026-08-15T04:36:57.405Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Florida venue cancels rally with Palestinian American lawmaker Rashida Tlaib​​ - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOS3UtTXNsbVo0WElHRlRET2R2c2pBTlJxSlFZLVhvczlxN3NtdDNNOGI5MDR4QTlUNmxwT1NrWGNqUjJGNnZna0tTNmF3a1J4elg0WVJ4djNCMXg4ZlBEeVItbGZPaVJHOVY3Nlk1M1dHVkR2OG1MM1lpWWhfUlBXdjh0b3YzcW9KRU1RNWdPd1J1UElhdkFvUkFyX2h6bHBEaUxHeXNMNVFFMklXc1RRanM4b2NNaklhdVVPRTdR?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 02:38:00 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "South Korea's Lee urges talks with North Korea to replace armistice with peace - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcXUyVVljMUd0SC1sWHJRSGh1RWN5UFhBYU9ZV085UWdudzFNMW9fa2xLcEdCcHJLQkJuNE8tMVRTNm9VbXM4RWtEOXM0WThNTmlmcERobGRkZE1vZE1ydU5IVXNwZlR0aFozdjlucHA1VE1mZ2prYkhJYnZId3pEaERKdWxqMTVuT0YtVWRaVFZfVXRVeWNMX0dlOS1pTll6SUpoR2hkejE3RHVRX3c?oc=5",
@@ -200,26 +206,20 @@
           "source": "Reuters"
         },
         {
+          "title": "Putin says Russia, North Korea coordinating on regional security, KCNA reports - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMkdUaGxFcENQN3pOY19IVmViSzdhdWYweE5RM1pDNVRmb2ZFSXZzMXg3X21wYjEwTkVnRGdvVzI2S21XN2FnOVVNWDEtSVVNa0JFbmY3M084Y0FlUFdtNVNIQ3VYQy1zYTZPWE9jM2NXaE9kdnlGYU1RdVpvWkVoNHF4NWViWU00OUFla3BBN3RuTENPc3RoRHRWQ3BQSGZ2b01WVFQtbWIyV3JDWE9nSkNnQUM0ckJjeG5hcG5YU3R6ZHJ5QkFJ?oc=5",
+          "pubDate": "Fri, 14 Aug 2026 23:28:27 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Alphabet becomes Berkshire Hathaway's third-largest investment - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTERjbHBXeUxvR0JSMUpreTA0SnpXOFVpUUtXLXZCdnhaemtsTjFBeWNfU01Xa0pWMDJUZUt6M0RuMVdLMmdpNTJhSERFZzNYclV3TDdGc1l6OWsyRGF2ejR1aHFmWUlIQWNzb1Q2SXBKWlZHWnljQ2pmdk9GdDB5a3haeFRUcWFfNGJCdVRQWjIyUy0tS0tKek51OVc5aV9nUWhuWWFENm1BLXdJYXNjWVRfaVEyTkdyNG5iQXhCVFBfaHRDLTFBdEtn?oc=5",
           "pubDate": "Fri, 14 Aug 2026 23:23:37 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "UAE's ADNOC says one of its vessels came under attack while transiting Hormuz - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbEFoM0Z1VnBsRUlGMUtsU3pXUWd6WUVvVW84ak5jbVpIZ25ld1VfR3RITUJ4MEx1ZTRJaGdXSDRadGVRNThPMzFlOVNsNWo4QzV2eTMzVmoxb1RDSE5QNXZkQ1d3bl9oSk85SUFxNEgxU1N6ME9UWHJ6dENMZmk1LWhacTJreTc4VlgtaGRxaFVQbFltR2UwMVN3Z1V3WUJLeHdDNy0wU0NldXRLaVA0NVY5WTZLQ1NOQjJQQWFHSjMtMk9icXc?oc=5",
-          "pubDate": "Fri, 14 Aug 2026 23:13:47 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Spain boosts security in Ceuta as calls appear online for another mass border rush - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQ3FKVjRRZ1lTc2R5V0NjZjRlY0o5aFgyNEN6MmI1NFB0UC16Z0ZJVVF5UkxWTVBZUUR0RElRWGZBYnFHcW5Yei1Fc25Za29xUnBTMjZHSHRHRnpuUV9BSTdHM3ZyVWpXQzE1aHlqNU1vOXE0RmJOSC0zQllXbUVmYzJPaGtkVGItNWZVcVhSNXZSMVVQUUhQWTVxV3NzQTk1VTdhNzhhVUdpV3F3YkcyR2JwNFQ1ZEdCOWQteEdB?oc=5",
-          "pubDate": "Fri, 14 Aug 2026 23:05:25 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T03:47:19.570Z"
+      "updatedAt": "2026-08-15T04:36:57.818Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T03:47:19.776Z"
+      "updatedAt": "2026-08-15T04:36:57.890Z"
     }
   ]
 }
