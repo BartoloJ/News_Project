@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-08-15T21:26:02.182Z",
+  "generatedAt": "2026-08-15T21:48:16.930Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Australian state to launch gun buyback after Bondi Beach attack",
+          "link": "https://www.bbc.co.uk/news/articles/cgjee21eenvo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 15 Aug 2026 21:41:43 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
+          "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 15 Aug 2026 21:35:19 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
           "link": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
@@ -14,12 +26,6 @@
           "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
           "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 15 Aug 2026 20:58:31 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
-          "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 15 Aug 2026 20:28:30 GMT",
           "source": "BBC News"
         },
         {
@@ -45,16 +51,10 @@
           "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 15 Aug 2026 19:34:22 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Why is Australia's mushroom killer back in court this week?",
-          "link": "https://www.bbc.co.uk/news/videos/c62e1v8p07go?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 15 Aug 2026 18:02:30 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T21:26:01.045Z"
+      "updatedAt": "2026-08-15T21:48:15.548Z"
     },
     {
       "name": "NPR",
@@ -102,22 +102,28 @@
           "source": "NPR"
         },
         {
-          "title": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 38",
+          "title": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 47",
           "link": "https://www.npr.org/2026/08/15/nx-s1-5932405/earthquake-indonesia",
           "pubDate": "Sat, 15 Aug 2026 04:29:20 -0400",
           "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T21:26:01.121Z"
+      "updatedAt": "2026-08-15T21:48:15.734Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Indiana authorities say at least 5 people have died in flooding across the state - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRHBMaDlITnhZaG5xYXhPTUxhUlhIMnFHYTVKZXhZQWcwSmswLVo0aWx5dHI1T3l0bXg5eDZzSzhyUEhyNDMyWkFHVEhRQ19WcVJMM3prWWFLRjFEQ1ZjS1dqZk03M01zSmVtNGFRODZzTmsyVHpmTTQtV2dwMGRTclVUc1FBTkM5T2cyeVR1OEVPN0V6eHc?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 19:52:00 GMT",
+          "title": "At least 1 student among 5 people shot at Virginia State University as police investigate - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMUl1eTVsMHVkaVpUS0Y3SXVicEl6T09oUkNrNE91cWtqUi1qeXVKLVlRdEZyUE1uY0lQcmowckFWbjMzTVpreHYtMWVNbkRORXNuQ3FGdXViT3NZMjRCQWVYRFk3ekZyeWQzQnYyUW4yLVVBS0lMNkRsWXV0ZUxMNjdWMTVhNENtZVBvLW4wbEhVZ1c2WFBKM2FFay1xYjQ1Y2d6VnBKY0dtNWphUU5B?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 20:54:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 19:48:39 GMT",
           "source": "AP News"
         },
         {
@@ -139,32 +145,26 @@
           "source": "AP News"
         },
         {
-          "title": "AP Exclusive: ICE plans to give officers gloves that can deliver painful electric shocks - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQakRaNUk3TFc0MlhFNWd6VV83NnprMDBkTkYzaEgyUXB2YVZybFBPSlByNkFkb2tJV1dTM0pHanF0OGgtWHBGcXpQanJETi1wUlU5Wnd0SU00VmhFT2IwMFRCaDhBZkFSVUgyVERBOVlxcGJnRTItZHNpbVJ1b3FFMjRHTEo1ZnpWQllvTmdn?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 18:33:53 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 18:01:58 GMT",
+          "title": "Taliban mark 5 years since return to power in Afghanistan, in photos - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRThzN3JQcjRtd1RzczhiRGIybzdXYzVjbWlNRUdqSXlsZGR1MW96bWEyTk00WWlZd2FyQ0Z4eWV0TEtVVTRhd0ZrVE9sWldtNkpKeTUxMmV3aGl5enktOGRkSjczTmYzbnVLSHdGY0FWY2ZYZjNNVU5sQ2h1bnFNX25mR3RGa1lNcUhRN2Y1ekdMMGctNjBEQWZ6VW1xc1R6Nk5aVVRFNA?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 17:48:00 GMT",
           "source": "AP News"
         },
         {
           "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 17:54:01 GMT",
+          "pubDate": "Sat, 15 Aug 2026 16:44:04 GMT",
           "source": "AP News"
         },
         {
-          "title": "Taliban mark 5 years since return to power in Afghanistan, in photos - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRThzN3JQcjRtd1RzczhiRGIybzdXYzVjbWlNRUdqSXlsZGR1MW96bWEyTk00WWlZd2FyQ0Z4eWV0TEtVVTRhd0ZrVE9sWldtNkpKeTUxMmV3aGl5enktOGRkSjczTmYzbnVLSHdGY0FWY2ZYZjNNVU5sQ2h1bnFNX25mR3RGa1lNcUhRN2Y1ekdMMGctNjBEQWZ6VW1xc1R6Nk5aVVRFNA?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 17:48:00 GMT",
+          "title": "Bonnie Tyler fans line the streets of a Welsh village as her coffin is brought home - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWDRJeWVMTWpUV1JXWnQ4aElmVkgtRGtWaTdxLTMxTVR4UWY1LXFtYk93aXN3MXBfMGRERXdQT1pxUV93M0hrS09HX0hQal9uZENHMVZ4SWNTeHQxTDRubjBoa09PcC16aXVPd2N6WWlCWUdsaXVqYmhnT0VySEQ4ZVdOSFU4a0VwdTh2MjBIT3ZZMUI2VGxEaA?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 16:19:01 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T21:26:01.567Z"
+      "updatedAt": "2026-08-15T21:48:16.214Z"
     },
     {
       "name": "Reuters",
@@ -179,6 +179,12 @@
           "title": "Nvidia eyes investing $3 billion in SB Energy under OpenAI data center deal, Information says - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ3pfaW5nWDJod3o1WmVuMnludzV4bUF3WllYcXJtV3phQndZbDc1NW5TQkFpODUtN25oLU9sVmhtU0VhNU9PMzhfUjNxWDVyenljaElYb3Y5R0VnN29HUTJGOGdUZnJqUUFOSUxDWlZwdThKcVNqSUhZT19HOWFsN284OFUzWHlLTmdCVXJhemFxUDd2dGhacjFidFlnXzZyTVY5Vk9ZRzcxSUpIelJtcXlRMDNoeFA3dHc4U2xQUDhDSUk?oc=5",
           "pubDate": "Sat, 15 Aug 2026 20:16:56 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Hopes fade in Colombia as more bodies recovered days after powerful quake - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTVVtWHRQWDU1UXU5RHBDM2hOaG1YcVdpMHIyTGtFbnJtQi13c09KUnFlUlRzaDZLSldMZF91NnhFTmhjTERDaXduYktlSTZ0V0h2N2R0M0VoSzBfNjdGcmJCUkhLX01aRkUyRDA5dFZVZWkxazhMT3dNTUs2T1JLX3dCY25KdVlJRjFQTThiV0JNR2VXVEZ5VFh3cGloSnI0SlpEZXVFWXFtblRaXy1CZ18tanp0akpGNGRLQXZ4a09DUQ?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 20:15:43 GMT",
           "source": "Reuters"
         },
         {
@@ -210,16 +216,10 @@
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMVIzMUNoVC03bVZyb0I2ckIyY3JhMWpNMm56VFBHSk1jUG1kOTdxbkNrZ2p1NWdoYTA5SGxraWpBTUExbnVoeWwxQU5IOW5mYzEtNTh5bExJZ01VUHZjdS1QRWVyNHBodDU3RGdnUV9ldl9SYTVFLWljMWZta3VvZTliRWg5Mm9xVXFVOUNUSXBNRG1WNlRDbXdLMlNEbVFRNW1tVW9OQ2FvUDh2ZUdMeXhQMFBpS0dPd1pUVEMtNm5IUQ?oc=5",
           "pubDate": "Sat, 15 Aug 2026 16:18:41 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Zimbabwean boat accident death toll rises to 68 as more bodies recovered - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYklMWEVwQkRWYmJKM2hIai1sLXhzY3psSElpeXNRMER4Z0lURWxudTVNMTF4ZURDRTRfcmRyTVF4LU5QSzZZVURkMGQzQUJKWlh3RWIta3VzVGtGUllIdVNSZlhzdFVRdXN5ZjFvVmFjbkR6REJoYzI0MGR0VkxhVFg5THZockF6NXRhZFF2b2lGMFVfbTFwQl9uc1pHUF9GVFd5XzB5UlFQMElRdmthVEFuTG5uZw?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 16:14:21 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T21:26:01.978Z"
+      "updatedAt": "2026-08-15T21:48:16.694Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T21:26:02.182Z"
+      "updatedAt": "2026-08-15T21:48:16.930Z"
     }
   ]
 }
