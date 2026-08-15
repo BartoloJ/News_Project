@@ -1,9 +1,15 @@
 {
-  "generatedAt": "2026-08-15T17:49:02.552Z",
+  "generatedAt": "2026-08-15T18:36:54.833Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Firefighters battle wildfire tearing through Belgian nature reserve",
+          "link": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 15 Aug 2026 17:47:42 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Multiple suspects at large after five shot at Virginia State University, police say",
           "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
@@ -45,20 +51,20 @@
           "link": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 15 Aug 2026 11:25:32 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Moment family rescued after 16 hours floating on jet ski off Thailand",
-          "link": "https://www.bbc.co.uk/news/videos/cj4kg74ndggo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 15 Aug 2026 09:29:31 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T17:49:01.278Z"
+      "updatedAt": "2026-08-15T18:36:53.255Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Families of USS Lincoln crew say Trump should be 'ashamed' of conditions on board",
+          "link": "https://www.npr.org/2026/08/15/nx-s1-5932539/uss-lincoln-trump-dire-conditions",
+          "pubDate": "Sat, 15 Aug 2026 14:21:32 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Trump administration wants to allow companies to hack foreign cybercriminals",
           "link": "https://www.npr.org/2026/08/15/nx-s1-5930311/trump-companies-hack-foreign-cybercriminals",
@@ -100,20 +106,32 @@
           "link": "https://www.npr.org/2026/08/14/nx-s1-5928227/how-americans-deceive-ourselves-about-slavery",
           "pubDate": "Fri, 14 Aug 2026 14:13:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "As speed cameras spread to more states, so does the backlash from drivers",
-          "link": "https://www.npr.org/2026/08/14/nx-s1-5927506/speed-cameras-ticket-backlash",
-          "pubDate": "Fri, 14 Aug 2026 12:54:58 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T17:49:01.425Z"
+      "updatedAt": "2026-08-15T18:36:53.562Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Israeli airstrikes on southern Lebanon kill 11 people in another test to truce - AP News",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdXVvcWZIbkY5aDNaUWczOEFHWVBiRkJ4MlVkVzNqaE1yODh5cW5BLVROY3NpamtVS05uQ2JiYk9PVDdoMjlIOVZZc2tXV21CVUNQV3cxS0N6X2p0TUxmaWMtbk1GX2dpSmdvSEF5WGhNcXJkTEk1ZU9tanhSaTUxM2dwZXhpUnQ2ODA4OE1UQWwxbVVzLWpibF9OSmRRMlpDOWdWWnQyOXZqMmUtNDdUUQ?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 17:45:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "5 people shot at Virginia State University as police investigate multiple suspects - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMUl1eTVsMHVkaVpUS0Y3SXVicEl6T09oUkNrNE91cWtqUi1qeXVKLVlRdEZyUE1uY0lQcmowckFWbjMzTVpreHYtMWVNbkRORXNuQ3FGdXViT3NZMjRCQWVYRFk3ekZyeWQzQnYyUW4yLVVBS0lMNkRsWXV0ZUxMNjdWMTVhNENtZVBvLW4wbEhVZ1c2WFBKM2FFay1xYjQ1Y2d6VnBKY0dtNWphUU5B?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 16:28:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Bonnie Tyler fans line the streets of a Welsh village as her coffin is brought home - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWDRJeWVMTWpUV1JXWnQ4aElmVkgtRGtWaTdxLTMxTVR4UWY1LXFtYk93aXN3MXBfMGRERXdQT1pxUV93M0hrS09HX0hQal9uZENHMVZ4SWNTeHQxTDRubjBoa09PcC16aXVPd2N6WWlCWUdsaXVqYmhnT0VySEQ4ZVdOSFU4a0VwdTh2MjBIT3ZZMUI2VGxEaA?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 16:19:01 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Liechtenstein changes its rules to allow women to inherit the Alpine principality’s throne - AP News",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeks3dFFoNHJwR3dMMmRmUnR3cUZIMm91QktlbXlTQnJsQTNZaDV2U1hHUGYtYmhnRTdpVWNwcUp1MENVa3o0dUh0MW11TWhLUU8zb3JKOUN3S19wdElLakJTVlBXY3dzaU5udTlUUlZxRHNZdVppQjczZWFtUXJvM3JBVzBScWtnZW1LUDJhYS1wOV83S081UmgwOEtDTERKa3FpY0ptQQ?oc=5",
@@ -133,38 +151,20 @@
           "source": "AP News"
         },
         {
+          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 15:07:31 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 47 and toppling buildings - AP News",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZXcybXB5SWdoQlRJUDd5anhCRHFhZmFEV05GOU9HZVozTjFFOTJsS081dVlpZDNHLThNQmh1R2hwMkZrZy15eDhpUnNlWE03LWFrMVlOMFNLN2x6U29wOHhwRGtKYzQzV2xkUjdDaS1JRllIZV9JZVUxVFZ3UlFjeTZtRXRiVWQ0NkhlV0V2TzhQaEVYRUpkQw?oc=5",
           "pubDate": "Sat, 15 Aug 2026 14:40:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Europe’s tallest statue of the Virgin Mary is inaugurated in a small Polish village - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVHQyZFRmT1E3R0JUZFdjczVSV0t2SlFZVUNBcXlLdTBWc3h6WVVISV8zUUJWby1FVkhpNk13UF9YM09lU2Roa0tYSnBjNzFUOHpSV3ZkZDlyaHhuV2JHSVprVnpGQjBpTkpXWnJBMnZnUDVSQi1hbzdKSFlkZVpiTUJUME96SXVtYXM1aVZ0cGtyeEZYTkZVak9tVVl3WDd5MmxIV1dpVWpldnJ1OTd3?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 14:27:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "5 people shot at Virginia State University as police investigate multiple shooters - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMUl1eTVsMHVkaVpUS0Y3SXVicEl6T09oUkNrNE91cWtqUi1qeXVKLVlRdEZyUE1uY0lQcmowckFWbjMzTVpreHYtMWVNbkRORXNuQ3FGdXViT3NZMjRCQWVYRFk3ekZyeWQzQnYyUW4yLVVBS0lMNkRsWXV0ZUxMNjdWMTVhNENtZVBvLW4wbEhVZ1c2WFBKM2FFay1xYjQ1Y2d6VnBKY0dtNWphUU5B?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 14:25:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "While Taliban leaders mark 5 years in power in Afghanistan, a UN official warns of a rights crisis - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOV0Zrd0laR0k5T3h2SHhKclo1Zjh4RkVUWDA2SUhfajNRZFNlSGpZbXVBUlQ5bXVrQkZqVFJxLXJFS01MbkRIUVVmbXlFTE4zZWtBSDJPTl9TNXM2WkF1YnV5VlBUaGQ4QkhoU0EzVnJfcDRiOUJic01DeFZxV1BZVzN3UHRjU1Z3eDdxTXd2eDJOQlBqWktadkJoc0Z6eDVNYzlqb2FwNE9kdw?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 13:55:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Taliban mark 5 years since return to power in Afghanistan, in photos - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRThzN3JQcjRtd1RzczhiRGIybzdXYzVjbWlNRUdqSXlsZGR1MW96bWEyTk00WWlZd2FyQ0Z4eWV0TEtVVTRhd0ZrVE9sWldtNkpKeTUxMmV3aGl5enktOGRkSjczTmYzbnVLSHdGY0FWY2ZYZjNNVU5sQ2h1bnFNX25mR3RGa1lNcUhRN2Y1ekdMMGctNjBEQWZ6VW1xc1R6Nk5aVVRFNA?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 13:01:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T17:49:01.883Z"
+      "updatedAt": "2026-08-15T18:36:54.191Z"
     },
     {
       "name": "Reuters",
@@ -206,20 +206,20 @@
           "source": "Reuters"
         },
         {
+          "title": "German wildfire near Belgian border under control, local authorities say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWElEUTZqbkhTeGtrT2Q1UjBSTlI3andpMWRpY0EtenZpdm1iV1ZIVlBYVVpVTGMzeGl3cFNJTVNlMkVyYTB0MW4tSUlEcFRVNlpQRklVY1hDYU9UYld0N2lhVTJHTDZIUVRpUEd1bzhDOVJpbGUxd1lqdVpBODRiOVk3M19GdGNDdjdJNDZab25RVDZCZk1PbWhRUTNsRjdUMTBldE1GLWpfcHoyV0R3TTQtNVptX0h2T051cg?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 14:20:03 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "UK's Burnham urges reflection on death of academic Arday - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMGRVd2o3N0NVMl9rek5FaXJmMGVxN0pTcWFyc3lScVRpTE5DQ0hYYmNLaDB3MUY3UHNTcFBlN0ZfbUwyalNMVHFvSWN5eE4tOHVNTHVfWm9jTm03Y3gyUGVpVVpVczRKV3dPdVFob2x3MHE4LUEwSHZFMk11N0lRaTg1ZGxGdUNDZ1IyMFUtWmFITDhIaHNZeDNldTVvZ0tDWWc3VzlxV0dvOW5f?oc=5",
           "pubDate": "Sat, 15 Aug 2026 14:02:50 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "PSG sign Spain's World Cup hero Torres from Barcelona - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUnBzODktMUh1OHVxX3l5UlFuTnlEdkJVSGFBY3FPb3JHMUQycGxXZ2lyTHZwUllQb1NXX0ZVcUp0RWlTZXl4bGlaQndRU09CZFdDSmxVV1pEYUtLY0RTeklUYi1QTHpNQ1V4RGlqV3NBSUE3b3lsWUVXS3dWYktVUWhWS1pKRkNNT1oyNVFXMHQtWXc?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 12:54:59 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T17:49:02.417Z"
+      "updatedAt": "2026-08-15T18:36:54.675Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T17:49:02.552Z"
+      "updatedAt": "2026-08-15T18:36:54.833Z"
     }
   ]
 }
