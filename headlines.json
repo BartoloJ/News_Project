@@ -1,13 +1,19 @@
 {
-  "generatedAt": "2026-08-15T11:47:37.780Z",
+  "generatedAt": "2026-08-15T12:48:35.322Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "Seven killed in Israeli strike on southern Lebanon, country's PM says",
+          "title": "Powerful magnitude 7.7 earthquake kills at least 38 in Indonesia",
+          "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 15 Aug 2026 12:31:55 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
           "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 15 Aug 2026 11:24:24 GMT",
+          "pubDate": "Sat, 15 Aug 2026 12:25:11 GMT",
           "source": "BBC News"
         },
         {
@@ -26,12 +32,6 @@
           "title": "Moment family rescued after 16 hours floating on jet ski off Thailand",
           "link": "https://www.bbc.co.uk/news/videos/cj4kg74ndggo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 15 Aug 2026 09:29:31 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Powerful 7.7-magnitude earthquake kills at least 38 in Indonesia",
-          "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 15 Aug 2026 08:52:55 GMT",
           "source": "BBC News"
         },
         {
@@ -54,7 +54,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T11:47:36.229Z"
+      "updatedAt": "2026-08-15T12:48:34.646Z"
     },
     {
       "name": "NPR",
@@ -109,11 +109,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T11:47:36.466Z"
+      "updatedAt": "2026-08-15T12:48:34.829Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Vessel is attacked in Hormuz, Israeli strike kills 9 in Lebanon, and other news from the Middle East - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOU0NBVmpueWNUWGJ1ckoxSW1wR1dkX0ZHRzk3bWFUcUlGamk0NjBjMEo2LXVRNTlUUkxibVdSbHdLS245VF9Hc2hzbE9JYld3WEt4VnBPSWVwMjFoTlQyc2RSYjdzLU5ZN0FoZ1dSaVVGUGIwbU1XbzlCY256ZnloUFBuNnlPakV3RFlFWHpqRERKa3lIblRReG80R1hyN1RCczFLdXYtRmJQNlo3?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 11:18:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 10:03:11 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Mississippi - AP News",
           "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1RUWtvaDFDdkpYZVFRR0I3RmVVRUE1dmNuRW1uaFo0d0FJUzRseTZPN2ZyVlJIU2tld0hhZllOT3BoM2d5T1ZqZm13?oc=5",
@@ -127,27 +139,9 @@
           "source": "AP News"
         },
         {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 09:12:42 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Israeli airstrike on southern Lebanon kills 7 people, Lebanese state media say - AP News",
+          "title": "Israeli airstrikes on southern Lebanon kill 9 people, Health Ministry says - AP News",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdXVvcWZIbkY5aDNaUWczOEFHWVBiRkJ4MlVkVzNqaE1yODh5cW5BLVROY3NpamtVS05uQ2JiYk9PVDdoMjlIOVZZc2tXV21CVUNQV3cxS0N6X2p0TUxmaWMtbk1GX2dpSmdvSEF5WGhNcXJkTEk1ZU9tanhSaTUxM2dwZXhpUnQ2ODA4OE1UQWwxbVVzLWpibF9OSmRRMlpDOWdWWnQyOXZqMmUtNDdUUQ?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 08:30:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Israeli strike kills 7 in Lebanon, a vessel attacked in Hormuz and other news from the Middle East - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOU0NBVmpueWNUWGJ1ckoxSW1wR1dkX0ZHRzk3bWFUcUlGamk0NjBjMEo2LXVRNTlUUkxibVdSbHdLS245VF9Hc2hzbE9JYld3WEt4VnBPSWVwMjFoTlQyc2RSYjdzLU5ZN0FoZ1dSaVVGUGIwbU1XbzlCY256ZnloUFBuNnlPakV3RFlFWHpqRERKa3lIblRReG80R1hyN1RCczFLdXYtRmJQNlo3?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 07:52:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Myanmar says over 300,000 Rohingya refugees verified for repatriation as exodus enters ninth year - AP News",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSEFkQWJ4WnBlb3kwcXExVGhRclRsU1k4VEdFem52RzBxblJLRnNUemlLdmh1WV9PaDFBRFJGdm5rWk1QanZTU2pqUEl6T00xdFozaEtSaGhEZGxqU2hVbWl1aE5idHY2azNJc1JPSlI0NkQzMllaazhNU2luVjVON2dWUU9Ndmh4YUxtamcwNzA0ZHZRT2liSzdPVTJhZw?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 05:47:00 GMT",
+          "pubDate": "Sat, 15 Aug 2026 06:12:51 GMT",
           "source": "AP News"
         },
         {
@@ -161,10 +155,16 @@
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcjJjWGdlR3l1Ni1LQTFPWWZ6ckJYVFd4OHVxaXB2UWtIWW1NUTViUTNaSFdqMnlIMHI0UW5CM0NOalNST3V6V0hCVU51Z2NrRnpnN20xRGg1WHlDTmtnd05DQkhIakhlZzU5ZDlzVU9FSThtaEtfZ0pvajdDaHB2bldZVnM2UzhUVXFXTXBxSmNuTTNkbEhYOGx5eXZsdTA?oc=5",
           "pubDate": "Sat, 15 Aug 2026 03:37:00 GMT",
           "source": "AP News"
+        },
+        {
+          "title": "Shootings in Michigan leave 5 people plus suspect dead following large-scale search - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOHlKTU5mZV9URk9aR092d3pteDlhVUtkMzFnV2hpQVVNdWZvT2VjQzk2Sm5hQjNIOEhDaWVub3hwTnR1UjN0UDA1eU5SU3hySGoybENYZElaQ2ZMNjFlUE1EQmRUVVpzV3VuZkhWUXllMEs4MnhRUFhyMHoxTVoyaDBnMC1BTHYwQmc?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 02:22:00 GMT",
+          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T11:47:36.977Z"
+      "updatedAt": "2026-08-15T12:48:35.256Z"
     },
     {
       "name": "Reuters",
@@ -172,7 +172,19 @@
         {
           "title": "Taliban mark five years in power as aid groups warn of crisis - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORTh4U3hRdlRhY1RmYWJDa0o1RWZEcFUxMkJ1RkhMVE9NUnZUc2ZudjBhM0pKZEhfdVpzeWdTZ1BLaGVLUXd4Z0haUmZOTHktT0Q4dzlUQmFwRmZ4RzE2REZDN2JrWXI5Nm9jWlJRQXhXd3k5ekhTdEtyYWpjSDloSDV1cFZqTEVCT2w4QS1jX3gybktmQzFRekZYcTJVX3BkNVE?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 09:08:28 GMT",
+          "pubDate": "Sat, 15 Aug 2026 11:13:56 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Israeli strike kills seven in south Lebanon, state news reports​ - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcEtfNkx3SnBiVWQ4b2g4MTFYRjVKOFVnNWFzcjJWUUJFWDRaWHo0YzRYTXdTdXdJUjNLZk5rNC1WTEJSbGNVTWFpRTF1Rko1OVdrUmt1NlpCNlpJbU5NQ0dPVEFxQjdrRUtzQUF4Q19NQThGeGdhTFQ2LWltSEcxX01DYUZTQUNNd2dnd1c5UV82Unp2U0tubzZHeElSblhxbXVnOVdENUFXbmUwdDNiYVl0Yw?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 10:41:08 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Trump's 2024 grocery photo op now haunts Republicans in the midterms - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTkhYMUdicFdKRWlLX3R6U0lvcXZQdS1zUjhhX1FsSndyd1dNMVQ4UGs2YjFXaFRNenQ0UGVJUGktcXlPOFl4MENrNXNfLWxQaTdyaUdramJ3Y1FKR3gxZUxleDlRM0xmM2FFeGZ0bzFneElSRUVEYWhPek9fY0h4WDBSd3MyazFIbTJlZURhLXYwSGNJelVSZ0NPSWtycHFtRTNvTGx5eDU?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 10:11:44 GMT",
           "source": "Reuters"
         },
         {
@@ -204,22 +216,10 @@
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPd2VZS2R6SVM2SzVhWUhGYzZFRjB6ZlpZeWIxbTA3RnpYN1Bzal9BNkJ4aExVN0ppT3dOWXRZOXBOSFJTLU51M1ExaWRTbzNFZFVfTUU3c3RmMDRfcG51YVNIanlmLXFNYl9aTHQ0VGloX2k3V1NsU0FnVW9TTUdhTld3SmhCY25jejFwUklkaDUzSzZQek1IdzEzMDVnUjAyZE40UTVfYWxPdzNiZ1BHRjFMTXowb3c?oc=5",
           "pubDate": "Sat, 15 Aug 2026 06:42:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Japan defence minister visits contentious Yasukuni Shrine to war dead - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPV2Y1MVdnLWFNQjVJSEhYT3VRT3ZMd2FuanpmUGw1SUNpR3hYWi1oMGtVYTdHTV9rZVVaaTZZWVVKSmRCVU1MR1VBaTBpQTc0Q2FKekhqZG5ZOXVxY2Rpcmt5X3VzdHl0WEJrQWlDSEFGU1hVMUFMdTdMWnFfTUpBVkU5VFYyV0NvcFBzd3BOTDBYLVBoZER4MGNrbzIzeXB5a0xNN2ZnZ0NBRDc2bU05Q3dVVTk?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 03:08:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Florida venue cancels rally with Palestinian American lawmaker Rashida Tlaib​​ - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOS3UtTXNsbVo0WElHRlRET2R2c2pBTlJxSlFZLVhvczlxN3NtdDNNOGI5MDR4QTlUNmxwT1NrWGNqUjJGNnZna0tTNmF3a1J4elg0WVJ4djNCMXg4ZlBEeVItbGZPaVJHOVY3Nlk1M1dHVkR2OG1MM1lpWWhfUlBXdjh0b3YzcW9KRU1RNWdPd1J1UElhdkFvUkFyX2h6bHBEaUxHeXNMNVFFMklXc1RRanM4b2NNaklhdVVPRTdR?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 02:38:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T11:47:37.441Z"
+      "updatedAt": "2026-08-15T12:48:35.264Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T11:47:37.780Z"
+      "updatedAt": "2026-08-15T12:48:35.322Z"
     }
   ]
 }
