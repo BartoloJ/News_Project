@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T23:25:33.963Z",
+  "generatedAt": "2026-08-15T23:47:32.390Z",
   "sources": [
     {
       "name": "BBC News",
@@ -7,7 +7,7 @@
         {
           "title": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
           "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 15 Aug 2026 21:56:10 GMT",
+          "pubDate": "Sat, 15 Aug 2026 23:34:24 GMT",
           "source": "BBC News"
         },
         {
@@ -54,7 +54,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T23:25:32.843Z"
+      "updatedAt": "2026-08-15T23:47:31.055Z"
     },
     {
       "name": "NPR",
@@ -109,7 +109,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T23:25:32.997Z"
+      "updatedAt": "2026-08-15T23:47:31.289Z"
     },
     {
       "name": "AP News",
@@ -127,21 +127,21 @@
           "source": "AP News"
         },
         {
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 21:39:36 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "At least 1 student among 5 people shot at Virginia State University as police investigate - AP News",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMUl1eTVsMHVkaVpUS0Y3SXVicEl6T09oUkNrNE91cWtqUi1qeXVKLVlRdEZyUE1uY0lQcmowckFWbjMzTVpreHYtMWVNbkRORXNuQ3FGdXViT3NZMjRCQWVYRFk3ekZyeWQzQnYyUW4yLVVBS0lMNkRsWXV0ZUxMNjdWMTVhNENtZVBvLW4wbEhVZ1c2WFBKM2FFay1xYjQ1Y2d6VnBKY0dtNWphUU5B?oc=5",
           "pubDate": "Sat, 15 Aug 2026 20:54:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 20:33:50 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 20:13:32 GMT",
+          "pubDate": "Sat, 15 Aug 2026 20:39:31 GMT",
           "source": "AP News"
         },
         {
@@ -164,7 +164,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T23:25:33.470Z"
+      "updatedAt": "2026-08-15T23:47:31.732Z"
     },
     {
       "name": "Reuters",
@@ -219,7 +219,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T23:25:33.877Z"
+      "updatedAt": "2026-08-15T23:47:32.164Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T23:25:33.962Z"
+      "updatedAt": "2026-08-15T23:47:32.390Z"
     }
   ]
 }
