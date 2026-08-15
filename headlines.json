@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-08-15T14:53:00.572Z",
+  "generatedAt": "2026-08-15T15:26:33.852Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "South Korea proposes talks to officially end war with North",
-          "link": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 15 Aug 2026 14:40:15 GMT",
+          "title": "Five injured, one critically, in shooting at Virginia State University",
+          "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 15 Aug 2026 15:09:59 GMT",
           "source": "BBC News"
         },
         {
-          "title": "Five injured, one critically, in shooting at Virginia State University",
-          "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 15 Aug 2026 14:21:24 GMT",
+          "title": "South Korea proposes talks to officially end war with North",
+          "link": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 15 Aug 2026 14:40:15 GMT",
           "source": "BBC News"
         },
         {
@@ -54,7 +54,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T14:52:59.893Z"
+      "updatedAt": "2026-08-15T15:26:32.638Z"
     },
     {
       "name": "NPR",
@@ -109,7 +109,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T14:53:00.039Z"
+      "updatedAt": "2026-08-15T15:26:32.852Z"
     },
     {
       "name": "AP News",
@@ -133,9 +133,21 @@
           "source": "AP News"
         },
         {
+          "title": "US pulls last aircraft carrier in Asia as Trump focuses on Iran and the Western Hemisphere - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS1ZVeVR3dkRTVHNDamZQUkxBc0FUS1RVQlh4WnJnM0hESmZYZUhMdkk1a3JaNE9IQUFMT2hGWU1CU1VkYkxCbUVpUGp0YzJNYmU2U05tZ2ViNE5hWVVnZUtyUW0zNjVLMk9IRDBVSzR0cTFlY0dsUDRGUXlEaWlFUFN5Qk5LTnJkQ0R5NDRpSUpiWmFoQVpKQ2VHaHJIY0o5SmN2OUE5Zm1ndw?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 12:37:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "MLB | Latest News, Stats, and Scores - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
           "pubDate": "Sat, 15 Aug 2026 12:19:16 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 11:19:13 GMT",
           "source": "AP News"
         },
         {
@@ -149,30 +161,48 @@
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcngtVnUtREVpMDVKR1RTZUlHRDcxRGM5enJDWHphQVdsUElnbHNUZkFCMF8xZkprREhEYkJ0emp5cEJoT2dFdkU2cmFQNnZEWjMtUVBLbEhVMWlYVmJUeW1wMDA0bWdjMXBfMndvYkFXN0FwS3BzbmhtOWFwN0QxU2d6dnpXcEhUS3U1UnN5Wi1ncUxqV2Fv?oc=5",
           "pubDate": "Sat, 15 Aug 2026 05:07:38 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Dolphins' Malik Willis has impressive start, Marcus Mariota injured as Commanders win 20-7 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTHZpZDNBM1lKN1QwNmJTWWZyQV9ISllpenBJNS1PZWx4Wm5xZUxYMnNaQzdWeHYwWEdRQ2lRS1YwM2pUR3ZPRUVJaWFfRDg1eTRmUFdOYzVjdmNGSjNhRzNhbUkydDU4M3Y1MjllZFpKckdybVZUbzdpRTd5T0RVY2xlNWhnWHBoU2l0SE9B?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 03:45:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Judge refuses to block Trump administration from building border wall along tribe's reservation - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcjJjWGdlR3l1Ni1LQTFPWWZ6ckJYVFd4OHVxaXB2UWtIWW1NUTViUTNaSFdqMnlIMHI0UW5CM0NOalNST3V6V0hCVU51Z2NrRnpnN20xRGg1WHlDTmtnd05DQkhIakhlZzU5ZDlzVU9FSThtaEtfZ0pvajdDaHB2bldZVnM2UzhUVXFXTXBxSmNuTTNkbEhYOGx5eXZsdTA?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 03:37:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T14:53:00.491Z"
+      "updatedAt": "2026-08-15T15:26:33.303Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "EU sends aircraft, evacuations begin as Belgium fights record wildfire - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUVlJUzBhcmdocU1lR3phY3JlcHpNb3hhWGdKcmJtSHA5MUhzN1ZXc2JpZll6OV9wWkJLNGhzWXRyVlVsdkJmU0ZlZTlpMTRNbWliSVJJdXA3MUtmUWFiV0ZSTEROa1VpT3FTWG04T21TWUkydjNyNEx0SWZwVGROUzhUaWxQNWQ4YnczQmNhUTdhQzBvX2UtT0dOY0lDLS1vMk1TMlNGZ2I?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 15:02:04 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Israeli strike kills seven in south Lebanon, state news reports​ - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcEtfNkx3SnBiVWQ4b2g4MTFYRjVKOFVnNWFzcjJWUUJFWDRaWHo0YzRYTXdTdXdJUjNLZk5rNC1WTEJSbGNVTWFpRTF1Rko1OVdrUmt1NlpCNlpJbU5NQ0dPVEFxQjdrRUtzQUF4Q19NQThGeGdhTFQ2LWltSEcxX01DYUZTQUNNd2dnd1c5UV82Unp2U0tubzZHeElSblhxbXVnOVdENUFXbmUwdDNiYVl0Yw?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 14:43:31 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Between cartel threats and US airstrikes, Ecuador fishermen have nowhere to hide - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcXpLZFQ3VDNBNHh0Nm5CVHU4dVFUZ1J0Q0FmMEVRbW1FSUtVblFnLXBEbnFtTjJOTV9FbmtHYnEzZmtzTEhoZUhiZUxicFh4TFZyRFRhSTlzbDNlNHBzS0R3ZEs3YmVneXptM0xtbENlbXkydzlkTFNMU0NPMVFJb0ZSNXpzMW0xT0xBaWlnbVFsaF9nMXh2a0ZkOTNWcmhEUDZJZERSRFBvMEtCNGxGU1FpRUtOYm5RNzlGU0dTNGo?oc=5",
           "pubDate": "Sat, 15 Aug 2026 14:35:54 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Taliban mark five years in power as aid groups warn of crisis - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORTh4U3hRdlRhY1RmYWJDa0o1RWZEcFUxMkJ1RkhMVE9NUnZUc2ZudjBhM0pKZEhfdVpzeWdTZ1BLaGVLUXd4Z0haUmZOTHktT0Q4dzlUQmFwRmZ4RzE2REZDN2JrWXI5Nm9jWlJRQXhXd3k5ekhTdEtyYWpjSDloSDV1cFZqTEVCT2w4QS1jX3gybktmQzFRekZYcTJVX3BkNVE?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 14:32:32 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "UK's Burnham urges reflection on death of academic Arday - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMGRVd2o3N0NVMl9rek5FaXJmMGVxN0pTcWFyc3lScVRpTE5DQ0hYYmNLaDB3MUY3UHNTcFBlN0ZfbUwyalNMVHFvSWN5eE4tOHVNTHVfWm9jTm03Y3gyUGVpVVpVczRKV3dPdVFob2x3MHE4LUEwSHZFMk11N0lRaTg1ZGxGdUNDZ1IyMFUtWmFITDhIaHNZeDNldTVvZ0tDWWc3VzlxV0dvOW5f?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 14:02:50 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Sicily's Catania airport restarts flights after Etna alert downgrade - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQmctZ0RsNkQxWkN3U1AyZkpzY0cxbHNZT1hGWEpyU3pXenlwTTFVNWJmTUx3QWdscnJHNDN0ZmZILUZfejdTR3NJU3pjMDZzTFhNTDVLTXlUaXlkY3dpUnUxRG95bXQtUGMzUlpEdm1KcncwV21NSDhQdVZLT3o5LWtXSDFBSFdBVThCb1BCM2lJTUs3QWtfai12OExPOFRZV0h6YmJMNWZDZFkwckE?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 12:51:19 GMT",
           "source": "Reuters"
         },
         {
@@ -186,40 +216,10 @@
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWHN6RnFQc0t3VFNmN0c0Vi15dUo0SnhJSVY1anp5OWd6RlpoRHpGbHpTYXNlZHZFUk5ZdG42eGJtUlZxeVFDSV9FMmk5UEhPbGFaSUNpQS1tb0hkNkdZNkJkSklmWWlOb3lCdmREQUxHa3lvTV8tQTNPN19kNk03NDVKU0Y4VjEzWXVvS2FqSmhVWVB5MW5OcV8wQS1POWhWbDdtTFk4NUZvd09ZWU5URzVsaHBheWFoeGdETk03dk5sNVJXSkZWV0VyQ053TG8?oc=5",
           "pubDate": "Sat, 15 Aug 2026 12:19:04 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Indonesia's North Sumatra hit by 6.4-magnitude quake, no tsunami threat - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUmpCZS14cUVweVF4akoxQjNyUi1wMnlxbXVXdVB1Q2dycWlvXzdpWHl3bnNGYmlHd0s3b0p4aWdaTVNycmh0ZENHUjNtQURFanFBejRoajBkaE5ZYUpSUS1RbnBvX3lBQTVidjd2T2hzM0ROYTU4X3BOMUhmZVhrR3ByNVNJYldWUlphTmdpVVRJVEd0NFdKcUxPQ3dGdnFvN3pSNnd2d1BLOHlVTTRVdTFDV082eTJ5UFJycTIwa21WX0U?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 12:18:37 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "EU sends aircraft as Belgium fights record wildfire - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUVlJUzBhcmdocU1lR3phY3JlcHpNb3hhWGdKcmJtSHA5MUhzN1ZXc2JpZll6OV9wWkJLNGhzWXRyVlVsdkJmU0ZlZTlpMTRNbWliSVJJdXA3MUtmUWFiV0ZSTEROa1VpT3FTWG04T21TWUkydjNyNEx0SWZwVGROUzhUaWxQNWQ4YnczQmNhUTdhQzBvX2UtT0dOY0lDLS1vMk1TMlNGZ2I?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 12:05:53 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Taliban mark five years in power as aid groups warn of crisis - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORTh4U3hRdlRhY1RmYWJDa0o1RWZEcFUxMkJ1RkhMVE9NUnZUc2ZudjBhM0pKZEhfdVpzeWdTZ1BLaGVLUXd4Z0haUmZOTHktT0Q4dzlUQmFwRmZ4RzE2REZDN2JrWXI5Nm9jWlJRQXhXd3k5ekhTdEtyYWpjSDloSDV1cFZqTEVCT2w4QS1jX3gybktmQzFRekZYcTJVX3BkNVE?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 11:13:56 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Israeli strike kills seven in south Lebanon, state news reports​ - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcEtfNkx3SnBiVWQ4b2g4MTFYRjVKOFVnNWFzcjJWUUJFWDRaWHo0YzRYTXdTdXdJUjNLZk5rNC1WTEJSbGNVTWFpRTF1Rko1OVdrUmt1NlpCNlpJbU5NQ0dPVEFxQjdrRUtzQUF4Q19NQThGeGdhTFQ2LWltSEcxX01DYUZTQUNNd2dnd1c5UV82Unp2U0tubzZHeElSblhxbXVnOVdENUFXbmUwdDNiYVl0Yw?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 10:41:08 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Summer campaign has led to capture of 19 settlements in southeast Ukraine, Russia says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSUFZNTN5WHc5blRSY190LUgxOU9kczNCUXJSSllocW5GOVdkMXJIWmhhaHdBNlNNaUtNWU0zZUtyaE5HZ0tDZW9tMDVqWFBKcEY4TGdJVHdaTVgtTWZjOE1JYkM3MUd4ZDNKdEVoaGtyaHB2YWU3WTdyRC1UdFdTcVRDX0s1aHF5Qm1sWk5NUE96YldjS3pvZnR0OWR2cUUxRDlFcmdaSzhlU3JpVDVTT1Rwa05ZS3dKSkE?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 09:42:25 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T14:53:00.500Z"
+      "updatedAt": "2026-08-15T15:26:33.758Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T14:53:00.572Z"
+      "updatedAt": "2026-08-15T15:26:33.852Z"
     }
   ]
 }
