@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-08-15T17:25:21.224Z",
+  "generatedAt": "2026-08-15T17:49:02.552Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
-          "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 15 Aug 2026 16:02:49 GMT",
+          "title": "Multiple suspects at large after five shot at Virginia State University, police say",
+          "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 15 Aug 2026 17:42:36 GMT",
           "source": "BBC News"
         },
         {
-          "title": "Five injured, one critically, in shooting at Virginia State University",
-          "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 15 Aug 2026 15:09:59 GMT",
+          "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
+          "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 15 Aug 2026 16:02:49 GMT",
           "source": "BBC News"
         },
         {
@@ -54,11 +54,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T17:25:19.997Z"
+      "updatedAt": "2026-08-15T17:49:01.278Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Trump administration wants to allow companies to hack foreign cybercriminals",
+          "link": "https://www.npr.org/2026/08/15/nx-s1-5930311/trump-companies-hack-foreign-cybercriminals",
+          "pubDate": "Sat, 15 Aug 2026 13:25:34 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Jason Arday, Cambridge professor accused of plagiarism, is found dead",
           "link": "https://www.npr.org/2026/08/15/nx-s1-5932488/jason-arday-dead",
@@ -100,16 +106,10 @@
           "link": "https://www.npr.org/2026/08/14/nx-s1-5927506/speed-cameras-ticket-backlash",
           "pubDate": "Fri, 14 Aug 2026 12:54:58 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Is there a summer COVID-19 surge this year? Yep, it's ramping up again",
-          "link": "https://www.npr.org/2026/08/14/nx-s1-5927115/summer-vaccine-covid-19-surge",
-          "pubDate": "Fri, 14 Aug 2026 12:37:54 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T17:25:20.274Z"
+      "updatedAt": "2026-08-15T17:49:01.425Z"
     },
     {
       "name": "AP News",
@@ -124,6 +124,18 @@
           "title": "US pulls last aircraft carrier in Asia as Trump focuses on Iran and the Western Hemisphere - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS1ZVeVR3dkRTVHNDamZQUkxBc0FUS1RVQlh4WnJnM0hESmZYZUhMdkk1a3JaNE9IQUFMT2hGWU1CU1VkYkxCbUVpUGp0YzJNYmU2U05tZ2ViNE5hWVVnZUtyUW0zNjVLMk9IRDBVSzR0cTFlY0dsUDRGUXlEaWlFUFN5Qk5LTnJkQ0R5NDRpSUpiWmFoQVpKQ2VHaHJIY0o5SmN2OUE5Zm1ndw?oc=5",
           "pubDate": "Sat, 15 Aug 2026 15:33:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 15:10:28 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 47 and toppling buildings - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZXcybXB5SWdoQlRJUDd5anhCRHFhZmFEV05GOU9HZVozTjFFOTJsS081dVlpZDNHLThNQmh1R2hwMkZrZy15eDhpUnNlWE03LWFrMVlOMFNLN2x6U29wOHhwRGtKYzQzV2xkUjdDaS1JRllIZV9JZVUxVFZ3UlFjeTZtRXRiVWQ0NkhlV0V2TzhQaEVYRUpkQw?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 14:40:00 GMT",
           "source": "AP News"
         },
         {
@@ -145,18 +157,6 @@
           "source": "AP News"
         },
         {
-          "title": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 40 and toppling buildings - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZXcybXB5SWdoQlRJUDd5anhCRHFhZmFEV05GOU9HZVozTjFFOTJsS081dVlpZDNHLThNQmh1R2hwMkZrZy15eDhpUnNlWE03LWFrMVlOMFNLN2x6U29wOHhwRGtKYzQzV2xkUjdDaS1JRllIZV9JZVUxVFZ3UlFjeTZtRXRiVWQ0NkhlV0V2TzhQaEVYRUpkQw?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 13:43:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 13:24:35 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Taliban mark 5 years since return to power in Afghanistan, in photos - AP News",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRThzN3JQcjRtd1RzczhiRGIybzdXYzVjbWlNRUdqSXlsZGR1MW96bWEyTk00WWlZd2FyQ0Z4eWV0TEtVVTRhd0ZrVE9sWldtNkpKeTUxMmV3aGl5enktOGRkSjczTmYzbnVLSHdGY0FWY2ZYZjNNVU5sQ2h1bnFNX25mR3RGa1lNcUhRN2Y1ekdMMGctNjBEQWZ6VW1xc1R6Nk5aVVRFNA?oc=5",
           "pubDate": "Sat, 15 Aug 2026 13:01:00 GMT",
@@ -164,62 +164,62 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T17:25:20.679Z"
+      "updatedAt": "2026-08-15T17:49:01.883Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Taliban mark five years in power as aid groups warn of crisis - reuters.com",
+          "title": "Taliban mark five years in power as aid groups warn of crisis - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORTh4U3hRdlRhY1RmYWJDa0o1RWZEcFUxMkJ1RkhMVE9NUnZUc2ZudjBhM0pKZEhfdVpzeWdTZ1BLaGVLUXd4Z0haUmZOTHktT0Q4dzlUQmFwRmZ4RzE2REZDN2JrWXI5Nm9jWlJRQXhXd3k5ekhTdEtyYWpjSDloSDV1cFZqTEVCT2w4QS1jX3gybktmQzFRekZYcTJVX3BkNVE?oc=5",
           "pubDate": "Sat, 15 Aug 2026 15:26:52 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Hungary to sink two barges near nuclear plant to raise Danube levels to ensure cooling​​ - reuters.com",
+          "title": "Israeli strikes kill 11 in south Lebanon, health ministry says​ - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVXM0UF9hbGcwOHNUVUZ1Zms5RDF1UWhGVWVyRHRSbm5zdXpSSmxoMGhsLWNhUE90YkVCU2tESnBPTUFURDFFTkpzUFhRRElKdkJNQmpZV0RhOEhLS0FhSVFNUkd0dDhON0dicVl4OTc0X2RzN1gxVlJMbzJqMlNpRTl0QlVtdWp4eHQ3ZklZRXZsU205NG1Bdl9jXzhTa0xDcExkLUVQY0tUcXBpOWlHMk5n?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 15:26:26 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Hungary to sink two barges near nuclear plant to raise Danube levels to ensure cooling​​ - Reuters",
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdkZWVjh0dVhzeG43NWJfV0kwZnZQc3dXNGVyUXJLV05JVVYzN3ZJYk9RdEdFQ3lfci1fTU44aGQzTG50UjJPQmlNMzBJMTZNT3JjWDY0dkgxTXo4dWc4aExxRTktb0hFWUprNE80ZDhrWHFWeEtwcE5CMVJOVlkzM0wybmdRQ2NZZXBoR1dnS25GOF82ZjRnY0VTSG40cFM3OGFkUjZISFdnTHdBRDAzTExuMHBWT3VsMzlhcUYtcjdmd21wdGhTMTFoV3gwbVU?oc=5",
           "pubDate": "Sat, 15 Aug 2026 15:25:49 GMT",
           "source": "Reuters"
         },
         {
-          "title": "EU sends aircraft, evacuations begin as Belgium fights record wildfire - reuters.com",
+          "title": "EU sends aircraft, evacuations begin as Belgium fights record wildfire - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUVlJUzBhcmdocU1lR3phY3JlcHpNb3hhWGdKcmJtSHA5MUhzN1ZXc2JpZll6OV9wWkJLNGhzWXRyVlVsdkJmU0ZlZTlpMTRNbWliSVJJdXA3MUtmUWFiV0ZSTEROa1VpT3FTWG04T21TWUkydjNyNEx0SWZwVGROUzhUaWxQNWQ4YnczQmNhUTdhQzBvX2UtT0dOY0lDLS1vMk1TMlNGZ2I?oc=5",
           "pubDate": "Sat, 15 Aug 2026 15:19:52 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Israeli strike kills seven in south Lebanon, state news reports​ - reuters.com",
+          "title": "Israeli strike kills seven in south Lebanon, state news reports​ - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcEtfNkx3SnBiVWQ4b2g4MTFYRjVKOFVnNWFzcjJWUUJFWDRaWHo0YzRYTXdTdXdJUjNLZk5rNC1WTEJSbGNVTWFpRTF1Rko1OVdrUmt1NlpCNlpJbU5NQ0dPVEFxQjdrRUtzQUF4Q19NQThGeGdhTFQ2LWltSEcxX01DYUZTQUNNd2dnd1c5UV82Unp2U0tubzZHeElSblhxbXVnOVdENUFXbmUwdDNiYVl0Yw?oc=5",
           "pubDate": "Sat, 15 Aug 2026 14:43:31 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Between cartel threats and US airstrikes, Ecuador fishermen have nowhere to hide - reuters.com",
+          "title": "Between cartel threats and US airstrikes, Ecuador fishermen have nowhere to hide - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcXpLZFQ3VDNBNHh0Nm5CVHU4dVFUZ1J0Q0FmMEVRbW1FSUtVblFnLXBEbnFtTjJOTV9FbmtHYnEzZmtzTEhoZUhiZUxicFh4TFZyRFRhSTlzbDNlNHBzS0R3ZEs3YmVneXptM0xtbENlbXkydzlkTFNMU0NPMVFJb0ZSNXpzMW0xT0xBaWlnbVFsaF9nMXh2a0ZkOTNWcmhEUDZJZERSRFBvMEtCNGxGU1FpRUtOYm5RNzlGU0dTNGo?oc=5",
           "pubDate": "Sat, 15 Aug 2026 14:35:54 GMT",
           "source": "Reuters"
         },
         {
-          "title": "UK's Burnham urges reflection on death of academic Arday - reuters.com",
+          "title": "UK's Burnham urges reflection on death of academic Arday - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMGRVd2o3N0NVMl9rek5FaXJmMGVxN0pTcWFyc3lScVRpTE5DQ0hYYmNLaDB3MUY3UHNTcFBlN0ZfbUwyalNMVHFvSWN5eE4tOHVNTHVfWm9jTm03Y3gyUGVpVVpVczRKV3dPdVFob2x3MHE4LUEwSHZFMk11N0lRaTg1ZGxGdUNDZ1IyMFUtWmFITDhIaHNZeDNldTVvZ0tDWWc3VzlxV0dvOW5f?oc=5",
           "pubDate": "Sat, 15 Aug 2026 14:02:50 GMT",
           "source": "Reuters"
         },
         {
-          "title": "PSG sign Spain's World Cup hero Torres from Barcelona - reuters.com",
+          "title": "PSG sign Spain's World Cup hero Torres from Barcelona - Reuters",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUnBzODktMUh1OHVxX3l5UlFuTnlEdkJVSGFBY3FPb3JHMUQycGxXZ2lyTHZwUllQb1NXX0ZVcUp0RWlTZXl4bGlaQndRU09CZFdDSmxVV1pEYUtLY0RTeklUYi1QTHpNQ1V4RGlqV3NBSUE3b3lsWUVXS3dWYktVUWhWS1pKRkNNT1oyNVFXMHQtWXc?oc=5",
           "pubDate": "Sat, 15 Aug 2026 12:54:59 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Sicily's Catania airport restarts flights after Etna alert downgrade - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQmctZ0RsNkQxWkN3U1AyZkpzY0cxbHNZT1hGWEpyU3pXenlwTTFVNWJmTUx3QWdscnJHNDN0ZmZILUZfejdTR3NJU3pjMDZzTFhNTDVLTXlUaXlkY3dpUnUxRG95bXQtUGMzUlpEdm1KcncwV21NSDhQdVZLT3o5LWtXSDFBSFdBVThCb1BCM2lJTUs3QWtfai12OExPOFRZV0h6YmJMNWZDZFkwckE?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 12:51:19 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T17:25:21.089Z"
+      "updatedAt": "2026-08-15T17:49:02.417Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T17:25:21.224Z"
+      "updatedAt": "2026-08-15T17:49:02.552Z"
     }
   ]
 }
