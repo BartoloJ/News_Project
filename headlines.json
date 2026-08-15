@@ -1,25 +1,37 @@
 {
-  "generatedAt": "2026-08-15T13:34:46.398Z",
+  "generatedAt": "2026-08-15T14:28:30.068Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "Powerful magnitude 7.7 earthquake kills at least 38 in Indonesia",
-          "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 15 Aug 2026 12:31:55 GMT",
+          "title": "Family stranded at sea for 16 hours after jet ski capsized in Thailand",
+          "link": "https://www.bbc.co.uk/news/articles/cy0j60p0d29o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 15 Aug 2026 13:41:09 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "World's Ugliest Dog contest crowns 2026 winner",
+          "link": "https://www.bbc.co.uk/news/videos/c39eekgv79ko?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 15 Aug 2026 13:41:08 GMT",
           "source": "BBC News"
         },
         {
           "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
           "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 15 Aug 2026 12:25:11 GMT",
+          "pubDate": "Sat, 15 Aug 2026 13:38:53 GMT",
           "source": "BBC News"
         },
         {
-          "title": "Family stranded at sea for 16 hours after jet ski capsized in Thailand",
-          "link": "https://www.bbc.co.uk/news/articles/cy0j60p0d29o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 15 Aug 2026 10:56:22 GMT",
+          "title": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
+          "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 15 Aug 2026 13:35:57 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Secondhand book sales are booming. Is it because of AI?",
+          "link": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 15 Aug 2026 11:25:32 GMT",
           "source": "BBC News"
         },
         {
@@ -39,22 +51,10 @@
           "link": "https://www.bbc.co.uk/news/articles/c4gxy0wqqd9o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 15 Aug 2026 05:01:13 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "I wish I had been a more rebellious teenager, says Bella Ramsey",
-          "link": "https://www.bbc.co.uk/news/articles/c87nwq9qe24o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 15 Aug 2026 00:10:47 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
-          "link": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 15 Aug 2026 00:01:53 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T13:34:45.154Z"
+      "updatedAt": "2026-08-15T14:28:28.857Z"
     },
     {
       "name": "NPR",
@@ -109,15 +109,21 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T13:34:45.356Z"
+      "updatedAt": "2026-08-15T14:28:29.033Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 11:55:07 GMT",
+          "title": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 40 and toppling buildings - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZXcybXB5SWdoQlRJUDd5anhCRHFhZmFEV05GOU9HZVozTjFFOTJsS081dVlpZDNHLThNQmh1R2hwMkZrZy15eDhpUnNlWE03LWFrMVlOMFNLN2x6U29wOHhwRGtKYzQzV2xkUjdDaS1JRllIZV9JZVUxVFZ3UlFjeTZtRXRiVWQ0NkhlV0V2TzhQaEVYRUpkQw?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 13:43:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Hawaii’s Big Island lashed by rain and wind as Tropical Storm Lala closes in - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTEs4Si04Q3pSUDJJcUZ2dlk0QVdvREI0UnlFRTkwT1U3eFFyRjF3YVMyVHF1NWRfdDlaNTZ1SkdLR2FMMG1EcEhYdDNVM2pVLVROSHZLc0FvclZYTmEtWWNocHZCLUFUeTBOb3JkUnVyMVNfRFNoTUVickZuVzVRZU5iNm82ODJwbHNMSXBIV3BUX3ZucUQ1YUx5RDE?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 12:55:00 GMT",
           "source": "AP News"
         },
         {
@@ -133,9 +139,9 @@
           "source": "AP News"
         },
         {
-          "title": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 38 and toppling buildings - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZXcybXB5SWdoQlRJUDd5anhCRHFhZmFEV05GOU9HZVozTjFFOTJsS081dVlpZDNHLThNQmh1R2hwMkZrZy15eDhpUnNlWE03LWFrMVlOMFNLN2x6U29wOHhwRGtKYzQzV2xkUjdDaS1JRllIZV9JZVUxVFZ3UlFjeTZtRXRiVWQ0NkhlV0V2TzhQaEVYRUpkQw?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 09:34:00 GMT",
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 10:03:11 GMT",
           "source": "AP News"
         },
         {
@@ -155,16 +161,10 @@
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOHlKTU5mZV9URk9aR092d3pteDlhVUtkMzFnV2hpQVVNdWZvT2VjQzk2Sm5hQjNIOEhDaWVub3hwTnR1UjN0UDA1eU5SU3hySGoybENYZElaQ2ZMNjFlUE1EQmRUVVpzV3VuZkhWUXllMEs4MnhRUFhyMHoxTVoyaDBnMC1BTHYwQmc?oc=5",
           "pubDate": "Sat, 15 Aug 2026 02:22:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Appeals court sides with Trump in fight over subpoena of gender-affirming care provider - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPX1RMZWdYemwxQnBCT2FBNC02TWw4V1g5eHM2SXFsTVpaMktnZmtpb2lONDZMeGVnWWh6VVNzWGVGOG9jX21lVWVqZGxueVdRazhncXVPMnRYLXBpRktTMzBlTGYydUh4Tm1hV09BdGQ1TWhHNnZVRnktZ2UwTFhuVnpCNlVWZVRYUG1EY2Y0N21sNUNtbDJN?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 01:20:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T13:34:45.824Z"
+      "updatedAt": "2026-08-15T14:28:29.492Z"
     },
     {
       "name": "Reuters",
@@ -173,6 +173,24 @@
           "title": "Trump's 2024 grocery photo op now haunts Republicans in the midterms - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTkhYMUdicFdKRWlLX3R6U0lvcXZQdS1zUjhhX1FsSndyd1dNMVQ4UGs2YjFXaFRNenQ0UGVJUGktcXlPOFl4MENrNXNfLWxQaTdyaUdramJ3Y1FKR3gxZUxleDlRM0xmM2FFeGZ0bzFneElSRUVEYWhPek9fY0h4WDBSd3MyazFIbTJlZURhLXYwSGNJelVSZ0NPSWtycHFtRTNvTGx5eDU?oc=5",
           "pubDate": "Sat, 15 Aug 2026 12:49:49 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Ukraine says it hit Russian rocket centre linked to Starlink-style network - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWHN6RnFQc0t3VFNmN0c0Vi15dUo0SnhJSVY1anp5OWd6RlpoRHpGbHpTYXNlZHZFUk5ZdG42eGJtUlZxeVFDSV9FMmk5UEhPbGFaSUNpQS1tb0hkNkdZNkJkSklmWWlOb3lCdmREQUxHa3lvTV8tQTNPN19kNk03NDVKU0Y4VjEzWXVvS2FqSmhVWVB5MW5OcV8wQS1POWhWbDdtTFk4NUZvd09ZWU5URzVsaHBheWFoeGdETk03dk5sNVJXSkZWV0VyQ053TG8?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 12:19:04 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Indonesia's North Sumatra hit by 6.4-magnitude quake, no tsunami threat - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUmpCZS14cUVweVF4akoxQjNyUi1wMnlxbXVXdVB1Q2dycWlvXzdpWHl3bnNGYmlHd0s3b0p4aWdaTVNycmh0ZENHUjNtQURFanFBejRoajBkaE5ZYUpSUS1RbnBvX3lBQTVidjd2T2hzM0ROYTU4X3BOMUhmZVhrR3ByNVNJYldWUlphTmdpVVRJVEd0NFdKcUxPQ3dGdnFvN3pSNnd2d1BLOHlVTTRVdTFDV082eTJ5UFJycTIwa21WX0U?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 12:18:37 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "EU sends aircraft as Belgium fights record wildfire - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUVlJUzBhcmdocU1lR3phY3JlcHpNb3hhWGdKcmJtSHA5MUhzN1ZXc2JpZll6OV9wWkJLNGhzWXRyVlVsdkJmU0ZlZTlpMTRNbWliSVJJdXA3MUtmUWFiV0ZSTEROa1VpT3FTWG04T21TWUkydjNyNEx0SWZwVGROUzhUaWxQNWQ4YnczQmNhUTdhQzBvX2UtT0dOY0lDLS1vMk1TMlNGZ2I?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 12:05:53 GMT",
           "source": "Reuters"
         },
         {
@@ -188,38 +206,20 @@
           "source": "Reuters"
         },
         {
-          "title": "Philippine defence chief rejects China criticism, calls response a 'squid tactic' - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMGl5elBUU1JOd1QySlJoX0tlY1dSOWxsY20ta2FpbUNray1MOThFTHIwa0xNcTJZTGg4RjQtWlpjS2toTFlVYnRlaDlYS1Rrd0w4ZThTd0N4dzNmZHA2QzZqbS0xSGt6a2c5anBiZDdtZHFDSWN5VnNhQld4ZU4zNG41eEdUOW5TNTR3ZEg3dC1laHNwaXNTTHlvM245ZkpNekxTNXA0Z0p0bTlRSTRpM2pETVNJRktGbU1RTnpfWllNZw?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 08:58:54 GMT",
+          "title": "Summer campaign has led to capture of 19 settlements in southeast Ukraine, Russia says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSUFZNTN5WHc5blRSY190LUgxOU9kczNCUXJSSllocW5GOVdkMXJIWmhhaHdBNlNNaUtNWU0zZUtyaE5HZ0tDZW9tMDVqWFBKcEY4TGdJVHdaTVgtTWZjOE1JYkM3MUd4ZDNKdEVoaGtyaHB2YWU3WTdyRC1UdFdTcVRDX0s1aHF5Qm1sWk5NUE96YldjS3pvZnR0OWR2cUUxRDlFcmdaSzhlU3JpVDVTT1Rwa05ZS3dKSkE?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 09:42:25 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Xi calls for improving disaster prevention as floods, landslides batter China - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcTdub1VTd3ZJN1RMU04yMzZwQlNSZHJWblg4bElqNGZGVkQ1dTdaYVc1QkdiVlR1dTEtR1NyRHBJV291TlRubE82UEZibjBCVlFGVTdqN3ZvdmVkU0lPU0plWUl4cWptcXpWTUdJVUxrQ1FvUWF1bGxCalNXaG1jQzBkR2xHT0RjbWlBTUlKMjkzbVhWcFZWZFRFSi11MUlITFZDamVrc2x5SnZlOFJMTnRjaUdBMFZq?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 08:52:33 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Spain disregarded Ceuta warnings before migrant rush, say border workers' unions - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZ1JDMTI4SDNkNEZwRUxyTG41ak5GRENmeEhtR05qemczcXZxWWlYTkthSEJva2V4cEVBSWlFTG9JMXpOSFFUX1hHT0tGaUg1bHZ2UzVFWUZZTV9xTDRIa3hZbHB0cHdDRlJLbXVBbGtNdmx6ZVlieHZ2TGJkdWYtM25uTlNJSzAtSm9OVTlFZ0tjNlBGMjRVc2Fjc1NFemxqejVtX1h4YVV0ZXEzdWZuS2NWRDVnX2VxOWp0azVRdjdnRVBBZ0E?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 07:21:51 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Hungary to sink two barges near nuclear plant to raise Danube levels to ensure cooling​​ - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdkZWVjh0dVhzeG43NWJfV0kwZnZQc3dXNGVyUXJLV05JVVYzN3ZJYk9RdEdFQ3lfci1fTU44aGQzTG50UjJPQmlNMzBJMTZNT3JjWDY0dkgxTXo4dWc4aExxRTktb0hFWUprNE80ZDhrWHFWeEtwcE5CMVJOVlkzM0wybmdRQ2NZZXBoR1dnS25GOF82ZjRnY0VTSG40cFM3OGFkUjZISFdnTHdBRDAzTExuMHBWT3VsMzlhcUYtcjdmd21wdGhTMTFoV3gwbVU?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 07:20:27 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Earthquake hits Spanish city of Granada, damages buildings and cars - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPd2VZS2R6SVM2SzVhWUhGYzZFRjB6ZlpZeWIxbTA3RnpYN1Bzal9BNkJ4aExVN0ppT3dOWXRZOXBOSFJTLU51M1ExaWRTbzNFZFVfTUU3c3RmMDRfcG51YVNIanlmLXFNYl9aTHQ0VGloX2k3V1NsU0FnVW9TTUdhTld3SmhCY25jejFwUklkaDUzSzZQek1IdzEzMDVnUjAyZE40UTVfYWxPdzNiZ1BHRjFMTXowb3c?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 06:42:00 GMT",
+          "title": "Rhine water sinks to another record low and transport shifts to land - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQktubFluM1dPWGpCLXcyVU4xVDhtalVRSVlnOWVOOTU4NkVOdTZoVWluc2YtQ1lnWFUtTUVNTm9ZZl9FUGphbDZnT3E0OXdjOVA3VVNPb3M0MExMMkR0ZnF0eWVydGFSYWR6SVY2QkRVXzI4QXRkMU5KN1QzUVN5emlEQVpXM3RiTHBodjNkT3hQRHFfRlFmZk5fMjhYSUluTU5fcGZVdXFob1ZNQkw5dS1WcnhPUQ?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 09:16:56 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T13:34:46.323Z"
+      "updatedAt": "2026-08-15T14:28:29.945Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T13:34:46.398Z"
+      "updatedAt": "2026-08-15T14:28:30.068Z"
     }
   ]
 }
