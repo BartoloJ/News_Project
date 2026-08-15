@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-08-15T19:25:38.351Z",
+  "generatedAt": "2026-08-15T19:47:37.219Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Liechtenstein changes succession rule to allow women to ascend the throne",
+          "link": "https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 15 Aug 2026 19:41:57 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Multiple suspects at large after five shot at Virginia State University, police say",
+          "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 15 Aug 2026 19:34:22 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Morocco detains dozens of migrants trying to cross into Ceuta",
           "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
@@ -14,12 +26,6 @@
           "title": "Firefighters battle wildfire tearing through Belgian nature reserve",
           "link": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 15 Aug 2026 17:47:42 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Multiple suspects at large after five shot at Virginia State University, police say",
-          "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 15 Aug 2026 17:42:36 GMT",
           "source": "BBC News"
         },
         {
@@ -45,16 +51,10 @@
           "link": "https://www.bbc.co.uk/news/videos/c39eekgv79ko?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 15 Aug 2026 13:41:08 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
-          "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 15 Aug 2026 13:35:57 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T19:25:36.930Z"
+      "updatedAt": "2026-08-15T19:47:35.728Z"
     },
     {
       "name": "NPR",
@@ -109,7 +109,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T19:25:37.143Z"
+      "updatedAt": "2026-08-15T19:47:35.927Z"
     },
     {
       "name": "AP News",
@@ -118,6 +118,36 @@
           "title": "Lala strengthens into a hurricane and bears down on Hawaii’s Big Island with heavy rain, winds - AP News",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTEs4Si04Q3pSUDJJcUZ2dlk0QVdvREI0UnlFRTkwT1U3eFFyRjF3YVMyVHF1NWRfdDlaNTZ1SkdLR2FMMG1EcEhYdDNVM2pVLVROSHZLc0FvclZYTmEtWWNocHZCLUFUeTBOb3JkUnVyMVNfRFNoTUVickZuVzVRZU5iNm82ODJwbHNMSXBIV3BUX3ZucUQ1YUx5RDE?oc=5",
           "pubDate": "Sat, 15 Aug 2026 19:20:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Democrats disagree over abolishing or reforming ICE at DNC meeting - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYkJWWkxxWUQ3dDVxeGNmanhVeTB2LWk2N3NqWHFrdGJyOFJoNzI1NDlwaUFTWlJFVVhqYlF6eTBsRXFCV1NFQXVsRXJCUDFYM3o3UkxCZG5jbVVTdFJIZW5Sd0E0UWg0TVRSUE1zUzk1MC1uUmJoQmI5OWN0eXJRMEotVGFzaVQwY2l2cWctdXdJSDVnOGxhYUhRbndrQ0RhM1V3Vg?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 18:49:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Teen boy among 6 dead including suspect in Michigan shootings; girl survived - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPc1BseTdlN0tNamJob25sYURUaVRsdjVnamVPM3RqZ2ZiMEhTQmcyZzZnNkE0cUZKckszb3E0cU53WEhrTXU5N3N4ZDRjSEVPS1NrTlU3RGlzWXRGNktVX1VIQ2RPQWRxS2pVQ1VibU1VZUJZdXJIcHQ5TmtSZ3hVdHQxLVZjV0ZMQUE?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 18:46:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "AP Exclusive: ICE plans to give officers gloves that can deliver painful electric shocks - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQakRaNUk3TFc0MlhFNWd6VV83NnprMDBkTkYzaEgyUXB2YVZybFBPSlByNkFkb2tJV1dTM0pHanF0OGgtWHBGcXpQanJETi1wUlU5Wnd0SU00VmhFT2IwMFRCaDhBZkFSVUgyVERBOVlxcGJnRTItZHNpbVJ1b3FFMjRHTEo1ZnpWQllvTmdn?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 18:33:53 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Taliban mark 5 years since return to power in Afghanistan, in photos - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRThzN3JQcjRtd1RzczhiRGIybzdXYzVjbWlNRUdqSXlsZGR1MW96bWEyTk00WWlZd2FyQ0Z4eWV0TEtVVTRhd0ZrVE9sWldtNkpKeTUxMmV3aGl5enktOGRkSjczTmYzbnVLSHdGY0FWY2ZYZjNNVU5sQ2h1bnFNX25mR3RGa1lNcUhRN2Y1ekdMMGctNjBEQWZ6VW1xc1R6Nk5aVVRFNA?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 17:48:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 17:45:41 GMT",
           "source": "AP News"
         },
         {
@@ -131,40 +161,10 @@
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMUl1eTVsMHVkaVpUS0Y3SXVicEl6T09oUkNrNE91cWtqUi1qeXVKLVlRdEZyUE1uY0lQcmowckFWbjMzTVpreHYtMWVNbkRORXNuQ3FGdXViT3NZMjRCQWVYRFk3ekZyeWQzQnYyUW4yLVVBS0lMNkRsWXV0ZUxMNjdWMTVhNENtZVBvLW4wbEhVZ1c2WFBKM2FFay1xYjQ1Y2d6VnBKY0dtNWphUU5B?oc=5",
           "pubDate": "Sat, 15 Aug 2026 16:28:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Liechtenstein changes its rules to allow women to inherit the Alpine principality’s throne - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeks3dFFoNHJwR3dMMmRmUnR3cUZIMm91QktlbXlTQnJsQTNZaDV2U1hHUGYtYmhnRTdpVWNwcUp1MENVa3o0dUh0MW11TWhLUU8zb3JKOUN3S19wdElLakJTVlBXY3dzaU5udTlUUlZxRHNZdVppQjczZWFtUXJvM3JBVzBScWtnZW1LUDJhYS1wOV83S081UmgwOEtDTERKa3FpY0ptQQ?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 15:44:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "US pulls last aircraft carrier in Asia as Trump focuses on Iran and the Western Hemisphere - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS1ZVeVR3dkRTVHNDamZQUkxBc0FUS1RVQlh4WnJnM0hESmZYZUhMdkk1a3JaNE9IQUFMT2hGWU1CU1VkYkxCbUVpUGp0YzJNYmU2U05tZ2ViNE5hWVVnZUtyUW0zNjVLMk9IRDBVSzR0cTFlY0dsUDRGUXlEaWlFUFN5Qk5LTnJkQ0R5NDRpSUpiWmFoQVpKQ2VHaHJIY0o5SmN2OUE5Zm1ndw?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 15:33:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 15:10:28 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 15:07:31 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 47 and toppling buildings - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZXcybXB5SWdoQlRJUDd5anhCRHFhZmFEV05GOU9HZVozTjFFOTJsS081dVlpZDNHLThNQmh1R2hwMkZrZy15eDhpUnNlWE03LWFrMVlOMFNLN2x6U29wOHhwRGtKYzQzV2xkUjdDaS1JRllIZV9JZVUxVFZ3UlFjeTZtRXRiVWQ0NkhlV0V2TzhQaEVYRUpkQw?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 14:40:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T19:25:37.698Z"
+      "updatedAt": "2026-08-15T19:47:36.537Z"
     },
     {
       "name": "Reuters",
@@ -219,7 +219,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T19:25:38.093Z"
+      "updatedAt": "2026-08-15T19:47:37.019Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T19:25:38.351Z"
+      "updatedAt": "2026-08-15T19:47:37.219Z"
     }
   ]
 }
