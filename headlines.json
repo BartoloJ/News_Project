@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T06:49:50.010Z",
+  "generatedAt": "2026-08-15T07:35:32.856Z",
   "sources": [
     {
       "name": "BBC News",
@@ -7,7 +7,7 @@
         {
           "title": "At least 14 dead after 7.7-magnitude earthquake strikes Indonesia",
           "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 15 Aug 2026 06:21:31 GMT",
+          "pubDate": "Sat, 15 Aug 2026 07:22:22 GMT",
           "source": "BBC News"
         },
         {
@@ -54,7 +54,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T06:49:48.727Z"
+      "updatedAt": "2026-08-15T07:35:31.399Z"
     },
     {
       "name": "NPR",
@@ -109,33 +109,27 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T06:49:48.805Z"
+      "updatedAt": "2026-08-15T07:35:31.654Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "What to know about Luigi Mangione's guilty plea in killing of UnitedHealthcare CEO Brian Thompson - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPX000N2RLX0NtNkFUdm5iZmJXTVF2RmFDOGRmQ0I5SnRVWnMzWncxNlBTTy1mSU5FWVdXMF9qWF9HZmxYRXdBVDNjMlZBRUswU1BNV2s0LXByVk9oZ1pQMnBRTnhaUDloMEtmRmhvQkpPOWxJRFBxNkpHMG1EWHlKal9GeTdxdXlKUElvNXdLNTA1WUg0ZVhVUXNGVU1HVU5icWc?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 04:17:00 GMT",
+          "title": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 20 and toppling buildings - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZXcybXB5SWdoQlRJUDd5anhCRHFhZmFEV05GOU9HZVozTjFFOTJsS081dVlpZDNHLThNQmh1R2hwMkZrZy15eDhpUnNlWE03LWFrMVlOMFNLN2x6U29wOHhwRGtKYzQzV2xkUjdDaS1JRllIZV9JZVUxVFZ3UlFjeTZtRXRiVWQ0NkhlV0V2TzhQaEVYRUpkQw?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 06:33:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Magnitude 7.7 earthquake strikes off Indonesia's coast, toppling buildings and killing at least 5 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZXcybXB5SWdoQlRJUDd5anhCRHFhZmFEV05GOU9HZVozTjFFOTJsS081dVlpZDNHLThNQmh1R2hwMkZrZy15eDhpUnNlWE03LWFrMVlOMFNLN2x6U29wOHhwRGtKYzQzV2xkUjdDaS1JRllIZV9JZVUxVFZ3UlFjeTZtRXRiVWQ0NkhlV0V2TzhQaEVYRUpkQw?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 03:55:00 GMT",
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 03:47:00 GMT",
           "source": "AP News"
         },
         {
           "title": "Judge refuses to block Trump administration from building border wall along tribe's reservation - AP News",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcjJjWGdlR3l1Ni1LQTFPWWZ6ckJYVFd4OHVxaXB2UWtIWW1NUTViUTNaSFdqMnlIMHI0UW5CM0NOalNST3V6V0hCVU51Z2NrRnpnN20xRGg1WHlDTmtnd05DQkhIakhlZzU5ZDlzVU9FSThtaEtfZ0pvajdDaHB2bldZVnM2UzhUVXFXTXBxSmNuTTNkbEhYOGx5eXZsdTA?oc=5",
           "pubDate": "Sat, 15 Aug 2026 03:37:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 03:16:29 GMT",
           "source": "AP News"
         },
         {
@@ -161,10 +155,16 @@
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQLUV6T2ZubnZMWG5VQVI1QkhGdzdQTEpEelYxVk1fTWJSX2YzUHJnV1RpZmRMMkdlYUNpd25WQnN4Um5QQlFBZjk2SHVKdDMteUVDYmEzUjl2UTd4UndiMFFkQ1dfcXBvUThWdTQ0ODZxbTRuS0hITFhsNVdldkl2M04wc2U0THdXdGFr?oc=5",
           "pubDate": "Sat, 15 Aug 2026 00:23:00 GMT",
           "source": "AP News"
+        },
+        {
+          "title": "Youngest Black professor at Cambridge who faced plagiarism claims is found dead - AP News",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT2tUV0pUa2lOMy0yZ1N5NzRhR0IzWmV5S1k2X1drUjRoNU13NWloWm5kbUFnLTBoYUQ1VG1oTEtxeHJ5Rm1uV2ZvLXgzUHU1N1dWeV84UXVPYVJKTDF0dkN0Z01IRlZNa2ZnOERLSEoyNXNwOEhJSjl6aWFBb2JpdEMxX2hHa3lKMXk3UnNkY3lOUGRXd3JFcE9FaVRBQ3EzYTBJYmhlUl9tdTZLamhVdg?oc=5",
+          "pubDate": "Fri, 14 Aug 2026 23:58:00 GMT",
+          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T06:49:49.318Z"
+      "updatedAt": "2026-08-15T07:35:32.094Z"
     },
     {
       "name": "Reuters",
@@ -219,7 +219,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T06:49:49.770Z"
+      "updatedAt": "2026-08-15T07:35:32.457Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T06:49:50.010Z"
+      "updatedAt": "2026-08-15T07:35:32.856Z"
     }
   ]
 }
