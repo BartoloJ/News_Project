@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-08-15T14:28:30.068Z",
+  "generatedAt": "2026-08-15T14:53:00.572Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "South Korea proposes talks to officially end war with North",
+          "link": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 15 Aug 2026 14:40:15 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Five injured, one critically, in shooting at Virginia State University",
+          "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 15 Aug 2026 14:21:24 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Family stranded at sea for 16 hours after jet ski capsized in Thailand",
           "link": "https://www.bbc.co.uk/news/articles/cy0j60p0d29o?at_medium=RSS&at_campaign=rss",
@@ -35,26 +47,14 @@
           "source": "BBC News"
         },
         {
-          "title": "South Korea proposes talks to officially end war with North",
-          "link": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 15 Aug 2026 09:35:23 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "Moment family rescued after 16 hours floating on jet ski off Thailand",
           "link": "https://www.bbc.co.uk/news/videos/cj4kg74ndggo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 15 Aug 2026 09:29:31 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Europe's scorched landscapes seen from space after summer heatwaves",
-          "link": "https://www.bbc.co.uk/news/articles/c4gxy0wqqd9o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 15 Aug 2026 05:01:13 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T14:28:28.857Z"
+      "updatedAt": "2026-08-15T14:52:59.893Z"
     },
     {
       "name": "NPR",
@@ -109,7 +109,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T14:28:29.033Z"
+      "updatedAt": "2026-08-15T14:53:00.039Z"
     },
     {
       "name": "AP News",
@@ -121,15 +121,21 @@
           "source": "AP News"
         },
         {
+          "title": "Multiple shooters and 5 people shot at Virginia State University - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMUl1eTVsMHVkaVpUS0Y3SXVicEl6T09oUkNrNE91cWtqUi1qeXVKLVlRdEZyUE1uY0lQcmowckFWbjMzTVpreHYtMWVNbkRORXNuQ3FGdXViT3NZMjRCQWVYRFk3ekZyeWQzQnYyUW4yLVVBS0lMNkRsWXV0ZUxMNjdWMTVhNENtZVBvLW4wbEhVZ1c2WFBKM2FFay1xYjQ1Y2d6VnBKY0dtNWphUU5B?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 12:59:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Hawaii’s Big Island lashed by rain and wind as Tropical Storm Lala closes in - AP News",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTEs4Si04Q3pSUDJJcUZ2dlk0QVdvREI0UnlFRTkwT1U3eFFyRjF3YVMyVHF1NWRfdDlaNTZ1SkdLR2FMMG1EcEhYdDNVM2pVLVROSHZLc0FvclZYTmEtWWNocHZCLUFUeTBOb3JkUnVyMVNfRFNoTUVickZuVzVRZU5iNm82ODJwbHNMSXBIV3BUX3ZucUQ1YUx5RDE?oc=5",
           "pubDate": "Sat, 15 Aug 2026 12:55:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Vessel is attacked in Hormuz, Israeli strike kills 9 in Lebanon, and other news from the Middle East - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOU0NBVmpueWNUWGJ1ckoxSW1wR1dkX0ZHRzk3bWFUcUlGamk0NjBjMEo2LXVRNTlUUkxibVdSbHdLS245VF9Hc2hzbE9JYld3WEt4VnBPSWVwMjFoTlQyc2RSYjdzLU5ZN0FoZ1dSaVVGUGIwbU1XbzlCY256ZnloUFBuNnlPakV3RFlFWHpqRERKa3lIblRReG80R1hyN1RCczFLdXYtRmJQNlo3?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 11:18:00 GMT",
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 12:19:16 GMT",
           "source": "AP News"
         },
         {
@@ -139,15 +145,15 @@
           "source": "AP News"
         },
         {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 10:03:11 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Photos show the World’s Ugliest Dog Contest in California - AP News",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcngtVnUtREVpMDVKR1RTZUlHRDcxRGM5enJDWHphQVdsUElnbHNUZkFCMF8xZkprREhEYkJ0emp5cEJoT2dFdkU2cmFQNnZEWjMtUVBLbEhVMWlYVmJUeW1wMDA0bWdjMXBfMndvYkFXN0FwS3BzbmhtOWFwN0QxU2d6dnpXcEhUS3U1UnN5Wi1ncUxqV2Fv?oc=5",
           "pubDate": "Sat, 15 Aug 2026 05:07:38 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Dolphins' Malik Willis has impressive start, Marcus Mariota injured as Commanders win 20-7 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTHZpZDNBM1lKN1QwNmJTWWZyQV9ISllpenBJNS1PZWx4Wm5xZUxYMnNaQzdWeHYwWEdRQ2lRS1YwM2pUR3ZPRUVJaWFfRDg1eTRmUFdOYzVjdmNGSjNhRzNhbUkydDU4M3Y1MjllZFpKckdybVZUbzdpRTd5T0RVY2xlNWhnWHBoU2l0SE9B?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 03:45:00 GMT",
           "source": "AP News"
         },
         {
@@ -155,20 +161,20 @@
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcjJjWGdlR3l1Ni1LQTFPWWZ6ckJYVFd4OHVxaXB2UWtIWW1NUTViUTNaSFdqMnlIMHI0UW5CM0NOalNST3V6V0hCVU51Z2NrRnpnN20xRGg1WHlDTmtnd05DQkhIakhlZzU5ZDlzVU9FSThtaEtfZ0pvajdDaHB2bldZVnM2UzhUVXFXTXBxSmNuTTNkbEhYOGx5eXZsdTA?oc=5",
           "pubDate": "Sat, 15 Aug 2026 03:37:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Shootings in Michigan leave 5 people plus suspect dead following large-scale search - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOHlKTU5mZV9URk9aR092d3pteDlhVUtkMzFnV2hpQVVNdWZvT2VjQzk2Sm5hQjNIOEhDaWVub3hwTnR1UjN0UDA1eU5SU3hySGoybENYZElaQ2ZMNjFlUE1EQmRUVVpzV3VuZkhWUXllMEs4MnhRUFhyMHoxTVoyaDBnMC1BTHYwQmc?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 02:22:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T14:28:29.492Z"
+      "updatedAt": "2026-08-15T14:53:00.491Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Between cartel threats and US airstrikes, Ecuador fishermen have nowhere to hide - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcXpLZFQ3VDNBNHh0Nm5CVHU4dVFUZ1J0Q0FmMEVRbW1FSUtVblFnLXBEbnFtTjJOTV9FbmtHYnEzZmtzTEhoZUhiZUxicFh4TFZyRFRhSTlzbDNlNHBzS0R3ZEs3YmVneXptM0xtbENlbXkydzlkTFNMU0NPMVFJb0ZSNXpzMW0xT0xBaWlnbVFsaF9nMXh2a0ZkOTNWcmhEUDZJZERSRFBvMEtCNGxGU1FpRUtOYm5RNzlGU0dTNGo?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 14:35:54 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Trump's 2024 grocery photo op now haunts Republicans in the midterms - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTkhYMUdicFdKRWlLX3R6U0lvcXZQdS1zUjhhX1FsSndyd1dNMVQ4UGs2YjFXaFRNenQ0UGVJUGktcXlPOFl4MENrNXNfLWxQaTdyaUdramJ3Y1FKR3gxZUxleDlRM0xmM2FFeGZ0bzFneElSRUVEYWhPek9fY0h4WDBSd3MyazFIbTJlZURhLXYwSGNJelVSZ0NPSWtycHFtRTNvTGx5eDU?oc=5",
@@ -210,16 +216,10 @@
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSUFZNTN5WHc5blRSY190LUgxOU9kczNCUXJSSllocW5GOVdkMXJIWmhhaHdBNlNNaUtNWU0zZUtyaE5HZ0tDZW9tMDVqWFBKcEY4TGdJVHdaTVgtTWZjOE1JYkM3MUd4ZDNKdEVoaGtyaHB2YWU3WTdyRC1UdFdTcVRDX0s1aHF5Qm1sWk5NUE96YldjS3pvZnR0OWR2cUUxRDlFcmdaSzhlU3JpVDVTT1Rwa05ZS3dKSkE?oc=5",
           "pubDate": "Sat, 15 Aug 2026 09:42:25 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Rhine water sinks to another record low and transport shifts to land - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQktubFluM1dPWGpCLXcyVU4xVDhtalVRSVlnOWVOOTU4NkVOdTZoVWluc2YtQ1lnWFUtTUVNTm9ZZl9FUGphbDZnT3E0OXdjOVA3VVNPb3M0MExMMkR0ZnF0eWVydGFSYWR6SVY2QkRVXzI4QXRkMU5KN1QzUVN5emlEQVpXM3RiTHBodjNkT3hQRHFfRlFmZk5fMjhYSUluTU5fcGZVdXFob1ZNQkw5dS1WcnhPUQ?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 09:16:56 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T14:28:29.945Z"
+      "updatedAt": "2026-08-15T14:53:00.500Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T14:28:30.068Z"
+      "updatedAt": "2026-08-15T14:53:00.572Z"
     }
   ]
 }
