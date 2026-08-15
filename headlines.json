@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T23:51:42.923Z",
+  "generatedAt": "2026-08-15T01:35:54.479Z",
   "sources": [
     {
       "name": "BBC News",
@@ -54,7 +54,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-14T23:51:41.638Z"
+      "updatedAt": "2026-08-15T01:35:53.075Z"
     },
     {
       "name": "NPR",
@@ -109,11 +109,47 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-14T23:51:41.847Z"
+      "updatedAt": "2026-08-15T01:35:53.260Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Dr. Anthony Fauci declines request to appear before a second Senate panel after GOP contempt vote - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaDUxT0h1MF9qdjNxUFBqZkJRX0xldzhyeU9UUlJyLVAzcWZxeEZkM0o1YlZSS2tsa2p6SU5QWll0SkE0LTJXajZ3QURrTGJUTTVTSmRHY05OMkxRVTQwZkp0cFFWUGxhYWNOcDV4dVM1c2U1VENOQS1vVG1qSnBmVzh6TWxpVjBmOWJqQXVIb2VwX2JjMnhXR29QVQ?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 00:55:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Youngest Black professor at Cambridge who faced plagiarism claims is found dead - AP News",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT2tUV0pUa2lOMy0yZ1N5NzRhR0IzWmV5S1k2X1drUjRoNU13NWloWm5kbUFnLTBoYUQ1VG1oTEtxeHJ5Rm1uV2ZvLXgzUHU1N1dWeV84UXVPYVJKTDF0dkN0Z01IRlZNa2ZnOERLSEoyNXNwOEhJSjl6aWFBb2JpdEMxX2hHa3lKMXk3UnNkY3lOUGRXd3JFcE9FaVRBQ3EzYTBJYmhlUl9tdTZLamhVdg?oc=5",
+          "pubDate": "Fri, 14 Aug 2026 23:58:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "6 dead, including suspect, in series of killings in Michigan - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOHlKTU5mZV9URk9aR092d3pteDlhVUtkMzFnV2hpQVVNdWZvT2VjQzk2Sm5hQjNIOEhDaWVub3hwTnR1UjN0UDA1eU5SU3hySGoybENYZElaQ2ZMNjFlUE1EQmRUVVpzV3VuZkhWUXllMEs4MnhRUFhyMHoxTVoyaDBnMC1BTHYwQmc?oc=5",
+          "pubDate": "Fri, 14 Aug 2026 23:42:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Picasso etching stolen from Milwaukee art gallery in 2018 found by landlord in vacant apartment - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbkt1NF9lQXZWbXU5NmdEdDZIR3lXZjVuaEk2Zklpc1RGaUNlTmwtNV8teEY0SDRwQjlxRkdKMGh6NTJXcTk2aXJaMW0wNUtmVXNmZHJDbU9JMXVFVTNIQ1lxb2dzSlVGNVF2Z1NybDNWcGFFUU5fTWdfTldkQlhUN3JiUGdtU1V6Zm9QUVFLV0MtQ3BDWVU0?oc=5",
+          "pubDate": "Fri, 14 Aug 2026 23:38:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Magnitude 7.7 earthquake strikes off coast of Indonesia and tsunami warning issued - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZXcybXB5SWdoQlRJUDd5anhCRHFhZmFEV05GOU9HZVozTjFFOTJsS081dVlpZDNHLThNQmh1R2hwMkZrZy15eDhpUnNlWE03LWFrMVlOMFNLN2x6U29wOHhwRGtKYzQzV2xkUjdDaS1JRllIZV9JZVUxVFZ3UlFjeTZtRXRiVWQ0NkhlV0V2TzhQaEVYRUpkQw?oc=5",
+          "pubDate": "Fri, 14 Aug 2026 23:37:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Lions and tigers begin a long-awaited rescue from a notorious Argentine zoo - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQLUV6T2ZubnZMWG5VQVI1QkhGdzdQTEpEelYxVk1fTWJSX2YzUHJnV1RpZmRMMkdlYUNpd25WQnN4Um5QQlFBZjk2SHVKdDMteUVDYmEzUjl2UTd4UndiMFFkQ1dfcXBvUThWdTQ0ODZxbTRuS0hITFhsNVdldkl2M04wc2U0THdXdGFr?oc=5",
+          "pubDate": "Fri, 14 Aug 2026 22:42:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Army temporarily halts Apache helicopter training missions after Texas crash that killed 2 - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUHJKakZQVFZXSVozZVdiZ0Q0NkNvQXJMUmE1VkV6YlVNSDRDMFJFVWE1bFByZ01SdXdPMEJ3RUVDNUpmNnZQdGZzYzZwLU9MNUVIckxSQzk1MVRzUkEyb2pPNWV0bW9CSkc1QnpSRm4xVlFMMmEzdFVpYnlpaWxWN0J3elFCYTFlQnJxdllXeGZzVGdPdFlIal9yODRzOGlvbzNneFBWQzY?oc=5",
@@ -121,105 +157,69 @@
           "source": "AP News"
         },
         {
-          "title": "A rare hurricane landfall threat for Hawaii’s Big Island as Lala nears - AP News",
+          "title": "A rare hurricane landfall threat for Hawaii's Big Island as strengthening Tropical Storm Lala nears - AP News",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNc2kzQWtXUlNkYWcxbVZmekJZaTFSWUd1Tm96NUhTUTBhdEVmX2JNRm9YMGgtNzFDZnVoT280QS1oa091azRLWFlyN1M2VEIzVTRxOUhLcFhfc19HUVZ3TFZoSW5oVTJOLTZ6U0NnTTlyUHN1OF85dGpQWE9VM1NCU0drTUE2QkhnUDlFWk01VVVOXzFhbUc4?oc=5",
-          "pubDate": "Fri, 14 Aug 2026 22:07:06 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Fri, 14 Aug 2026 21:43:17 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Hope reborn in Colombia as signs of life emerge under earthquake debris - AP News",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSTJuQ0hCM1lDUUZWQTd2N3AxQmdWZFpDSWFLSzhpT0s1Y1pTakg3eGRBZ0FrVzA4a2ktaE9EcEpVS1pJaGdDczVWUDVsZFEzYVQ2Zm56MU81b2hIRERFSkpmcThBZEhId19aSm1oTHE2OFRndVhJTkM2OWZabGZ5U21MejhTTTd0Zzg0UVB6eTJEX0t2QVV2RzJwWWU4OWVk?oc=5",
-          "pubDate": "Fri, 14 Aug 2026 21:40:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Trump says USS Lincoln’s record time at sea during Iran operations ‘not nearly long enough’ - AP News",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRVY0UXhLVGxQNngwZ3lKRjlhMVU0b01MLTVxQVBETlE2elRCc2U3U2t4SjVwVDMzd2hKWUFVUmo5MGZxMVNUTndLYkwzOTlHdy1lNkdMdncyOVQyNnoyOFhVQ2NOUERCWFNqNmloZXhwSzhBYkRuTk15UkJyM013RlJzd0p5MG9tX240eDVIUHg2dTY3RE94blZJMTV4NXRH?oc=5",
-          "pubDate": "Fri, 14 Aug 2026 21:38:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Judge refuses to block Trump administration from building border wall along tribe's reservation - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcjJjWGdlR3l1Ni1LQTFPWWZ6ckJYVFd4OHVxaXB2UWtIWW1NUTViUTNaSFdqMnlIMHI0UW5CM0NOalNST3V6V0hCVU51Z2NrRnpnN20xRGg1WHlDTmtnd05DQkhIakhlZzU5ZDlzVU9FSThtaEtfZ0pvajdDaHB2bldZVnM2UzhUVXFXTXBxSmNuTTNkbEhYOGx5eXZsdTA?oc=5",
-          "pubDate": "Fri, 14 Aug 2026 21:35:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "New aircraft carrier heads toward Middle East after reports of issues on long-deployed USS Lincoln - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb1lxbDFVekRpTzE0UC1XQ2VBSEZ6cVJPcG1OQjZ5S210Wll1dmtBbDRvY05LRXFWVFoyQkotdkRnOXFXU09XT3Z3Y2VITDdCSjdIU21CMWhCaHNTNm1vYTEyMS13clVFcHpJeVlrVWtOa3FJdjZ3bUx2aDdhalpOVF9Id0ZFRE9WUTVpSHlXYm5nYVBtdzFEeGktaG5qbzMtSzJkWUE2Ulo4ZEVTdHZLREt1OA?oc=5",
-          "pubDate": "Fri, 14 Aug 2026 21:29:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Luigi Mangione pleads guilty to federal stalking charges in the killing of UnitedHealthcare CEO - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQczhJdEhZeEpuNk90Wk5ycmQtczVyYm9xeThwR3RXWFlhVGpoYmxOZ0NTeGpLeHRCOVpXNkdzcmp4X0RSVUtLeVRnSWRzazd1SGdYSDdndkJYejNQRmxwOWdvR0NUNmItb0puczF2ODB6SWxKVlRsMWEyeFpzRVpCcmF1US1aZXh3QjhfZm9lUXFMVVYwZXEzWlNQc2ZjVmhXV2c?oc=5",
-          "pubDate": "Fri, 14 Aug 2026 21:28:00 GMT",
+          "pubDate": "Fri, 14 Aug 2026 22:22:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-14T23:51:42.313Z"
+      "updatedAt": "2026-08-15T01:35:53.727Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Powerful earthquake strikes off coast of Indonesia, tsunami warning issued - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQekZqSDNDbk9nUjJMVWd2bEwwTE03eGpyaUN2M3VhQmNEeFhqb0J1SmFFUlJtRE5FMFFJVmhsSWZCZmZwYW9OWWY1c2FDU3hsUUNYTTF4clZiVzRtblRoRmdGcEo3Z2l2Snl0UDJFQWlJeXZPNzd6dTdockZlYUNVVTBGSkEyOUxVNXNMV3d0UGU3SG1mcjk2MnFVTV80TVhLRDlub0tOM3h0OG1QRUluQXI4ZVRJMktwMHc?oc=5",
-          "pubDate": "Fri, 14 Aug 2026 23:12:25 GMT",
+          "title": "EXCLUSIVE: Anthropic IPO valuation hinges on $190-200 billion 2028 revenue forecast, sources say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSDBCMHl6NWFXVjN4bFdxNkxJb0g0TllzQUNXeDVGeUdPZEduUTczSnZhcmE4UFdNZk82UDV4SVpGOTJMT29SUHJINVNubnY1Vkl1UXhMekVOYm52YmxhSk9HSHdkRDBBNEVkUTdTNGFJMkR3Z3hyY1A1VVViaDVIQ1BKOEhMMmxlVmpmSG01bmNZdk1JM2I4WHVROE9oMTdhOWVOaFBPZEZvUDhnblhMMVFHVU9aSGlwakctcU1DOVlPdkU?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 00:12:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Hormuz traffic slows further after US threatens more economic pressure on Iran - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcUdkcXFHNHlWMzdKeGE0QzFWU2FRNTl4aHYxMk5VNEU1REROam1XMW5hQnVPMlVCOHV5Y1k5X2N6eEx1UlpJOExJVFlXQzU5bWE1LXE1ZndpQUtpeFpVb2FoWUhlODVPWUVxeTNwcjNXQXRzMFloclJMNFBqNDJiUmFjam1kODNyQ1BvYU90dmptbG1mLWd6enN6dDZRb2JiRFg2TGdNSzJaM1g1c2xPd0lqTFBSblp6RGFKWktyVkI3dEVRMmJqNDdfLUc?oc=5",
-          "pubDate": "Fri, 14 Aug 2026 22:36:06 GMT",
+          "title": "Amazon reinstates binding arbitration, bars class-action lawsuits - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLU56dzF1UkptLUR0bVFmWVFrTmVmYTVaZ05HbDdURHlDOXdaZkdHTno3Zy1GSEdQRHJELXptTFFXVWNzWWlaR2dIVWZVbnBZQTRCNnprcWxQelNNWWNDSWJRZTE2U1l2Z3dLV0pCaHN2T05qRVdUazBCc2JCUlZrMm1CZFRMTTFjRmFyWUljMWI1aXlocFE3X3Z4M1RvSkNXUzY2aTAybkVUS0k0ZGhhOERaQUt0a0tr?oc=5",
+          "pubDate": "Fri, 14 Aug 2026 23:51:30 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Race to reach trapped survivors offers hope in Colombia quake zone - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeXFkQmRFSExDQ3Q2MVBNQkk0NWVLS1oxUFo0ekNYaGd3U0pEUHR5SXNxdHcydUVraXR5TFNvakZGRE56NWFNZkpJXzNMcFQ4ekNRclZrLTZuRTFZVFlfSDlIZWlCTGNoWmFmVWFsSkJHSnZvX3Fib3RlOE9JQWwwNFFoZFJYVDZPVUo5ZmNQbDd0R2k4VC13RmlIcHN2eTEybHFRT3E2S0F3Q3NkaUhldUdfVVQzLTA?oc=5",
-          "pubDate": "Fri, 14 Aug 2026 22:16:58 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US regulator approves bank charter for Trump-backed crypto company World Liberty Financial - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOHAzWlJUdUZ3VndvNDNVbU1vRjMwalBSZUxCVHVwWFBaWnJuend3SXZVMDI3YjA0c2F6SWh2emFEM2lPRWtOWV85MmRRTlYxUWxBbkE4S0dha0toS2xnVXh5UmVNcGxzWWxOQzlrRGRGLW03UGxSa2ZLLUk5SjRlX041LWFWdEV0cDJwLUlKZGlVU1FEbWV5SFYwZ0w1bGVOeW9HWTRtV1pvbkZ6TDNNZ183eXFTTWVmZ0E?oc=5",
-          "pubDate": "Fri, 14 Aug 2026 22:06:05 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Alphabet becomes Berkshire Hathaway's third-largest investment - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTERjbHBXeUxvR0JSMUpreTA0SnpXOFVpUUtXLXZCdnhaemtsTjFBeWNfU01Xa0pWMDJUZUt6M0RuMVdLMmdpNTJhSERFZzNYclV3TDdGc1l6OWsyRGF2ejR1aHFmWUlIQWNzb1Q2SXBKWlZHWnljQ2pmdk9GdDB5a3haeFRUcWFfNGJCdVRQWjIyUy0tS0tKek51OVc5aV9nUWhuWWFENm1BLXdJYXNjWVRfaVEyTkdyNG5iQXhCVFBfaHRDLTFBdEtn?oc=5",
-          "pubDate": "Fri, 14 Aug 2026 22:03:49 GMT",
+          "title": "Nvidia scales back $250 billion OpenAI data center guarantee, WSJ reports - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWjY4Y0RmbnNIZU5fWV83TGxRb0M1T0hva0dCRUtWQzcxclJ5TW02NExHQzREZmwwenZIQjh5eU01YjYycGMxNUg5MlJuZVh5RGQyM0M1MHB1Znhld2x2OXFFNF93OGg3SUJMYUNsMTZjZ2VQemtkM3M0SnVDam1vSHNKVUJCWHpKbzVzLXdLWmtlZElxYW5BS0c3MU9iRk41Ty1LUzY4TWl4YVQtRElKWHNFSzg0dTA?oc=5",
+          "pubDate": "Fri, 14 Aug 2026 23:49:53 GMT",
           "source": "Reuters"
         },
         {
           "title": "EXCLUSIVE: Jane Street took $15 billion hit in July tied to Situational Awareness, AI selloff, sources say - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOX2EtYUxGWFNvME5USWtGejIxeFI4bENXODFmX1hnWU5BMl9TbW81Ym1DUzZQZlk3VE1sUlpLQUtjV0x5S3JEcjNBTVBZOHdhVEZlN0pYOVhKTmwzSnc3eTV2VGI3UXNqODRhdlo1UHgyd1otM0RQMzVFQWZoclNWdm9ENkN1bS1zcmQtOGJMR21fTzdZSUtWazROcVRJclBTY050czlRMjVwNFN4ME9nOU9PNmxkdGoxa2pRTVRRN1VKTXpkYXpJ?oc=5",
-          "pubDate": "Fri, 14 Aug 2026 22:01:33 GMT",
+          "pubDate": "Fri, 14 Aug 2026 23:28:48 GMT",
           "source": "Reuters"
         },
         {
-          "title": "EXCLUSIVE: US to tell partners they must pick sides in AI race with China - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQm05M3ZscW8yb1Jfdkw2QUl4Y2RzOWVXWlQ5ZzNIX0JhcnJlb1VIaHlmeFhJM082VUpua05SY3lQcVotUi1xVFVKSURVRVNBX3djVzE5M3Z6RmxDTHo5WWNsSEs2MU5RS0JaVnNfdWZwZDAtaURZUW1rNTJoYlZJWUdXZ2lSelRMV2RTdVpIQVRnMW0zTWlNU3NKbGtLU3R6cjNUTkZmUQ?oc=5",
-          "pubDate": "Fri, 14 Aug 2026 21:53:39 GMT",
+          "title": "Alphabet becomes Berkshire Hathaway's third-largest investment - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTERjbHBXeUxvR0JSMUpreTA0SnpXOFVpUUtXLXZCdnhaemtsTjFBeWNfU01Xa0pWMDJUZUt6M0RuMVdLMmdpNTJhSERFZzNYclV3TDdGc1l6OWsyRGF2ejR1aHFmWUlIQWNzb1Q2SXBKWlZHWnljQ2pmdk9GdDB5a3haeFRUcWFfNGJCdVRQWjIyUy0tS0tKek51OVc5aV9nUWhuWWFENm1BLXdJYXNjWVRfaVEyTkdyNG5iQXhCVFBfaHRDLTFBdEtn?oc=5",
+          "pubDate": "Fri, 14 Aug 2026 23:23:37 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Trump urges Americans to accept higher gas prices as he escalates Iran rhetoric - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeUM3ajNSZS1FUnR1alRkTEx5QjBoNW1TSi1haWxKcmVLUlRlTWhTNVZJaVJGNkMtVVphd0xTbUtGbFRFUW5MZmh1MExTUmdZQmxpRGNMRkhaeExUemtveEFLQ0cydmJhT2JpNFY3TDVLUGlTekY0RHZJVE5EOEItMml3SlAwTlNLY2pkdUp1bjdSNTdmVGY3Vk1OdVgtOWFpRGlORHZ4NXQyVlc1NEFTWTZoSEtwN3R1UlE?oc=5",
-          "pubDate": "Fri, 14 Aug 2026 21:52:31 GMT",
+          "title": "S&P 500 ends lower as investors weigh data, Middle East tensions - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOODBmUXllM0JmeFUycXhzSF9tekVEc094VlpCWnFsZ1JsMHo2Y2JEMGJnUmlPLWZOZEFJRy01UnR6VHdRODJMUEJlY3IxeXlXYWNrZHN2YUhoaS1EeVRyZDJCTUlvRkw0Rmp3d1MtZjBIb2dwVnhGbTg2YTc4MF9ONmVRdm9VTVBSdXVyY0VFZHUxRFhoTWJRUkg2YWI0SEw5WVVyYjZraTdFeG1zQTVJTWhXSFdDSnBLUVhXTXBR?oc=5",
+          "pubDate": "Fri, 14 Aug 2026 22:57:49 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Stellantis considering sale of Canada plant, autoworker union says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNc0hiR1U3YVlKb09jSkh6R0tROGpnM3ZfUEp5SnlHQkIzeGlOOUdJcVlfWEM1RFRrb21sS3RkaENvY0J3VlRMbXFxMHZrVktyTlg4ZlMxMzgyeXl5SGFHcFpTTThlSWFCMHptTHJaUF9KLXJ3VVVXRDVPZjcxZDBNdWVlaVREY1hidU1HUXktbU42NU1FaXVMR0lJTzh4WkV4QktheHVwZFp0NmJNb2c?oc=5",
+          "pubDate": "Fri, 14 Aug 2026 22:53:48 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "EXCLUSIVE: Libya's Haftar played key role in release of US hostage held by Islamic State, sources say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdWdNblNQNjN6dDRGMTZOWldpS2M3N3BibUdFLWdSZmpaUFJhOXluYTBERXJ2YThZRWd5YU5rS012aDh1ZXFQZmtsQ0d0NXFOQjE0YUY1WXphLW1wZUY1aHBEWktqVDZ2dnlyRFM1LXFMOFBxbndjOWFmYnhaZU0xN01MRWV0NFRwQUlGblQzM0otTzlWdGU4ZloyMDJVckJfUlliWVp5RDlkRVNHc2xEV3JSa1pfVWdDTHRSVWNEMXZ2WkVpckE?oc=5",
+          "pubDate": "Fri, 14 Aug 2026 22:41:34 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-14T23:51:42.722Z"
+      "updatedAt": "2026-08-15T01:35:54.201Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-14T23:51:42.923Z"
+      "updatedAt": "2026-08-15T01:35:54.479Z"
     }
   ]
 }
