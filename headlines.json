@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T22:51:58.796Z",
+  "generatedAt": "2026-08-15T23:25:33.963Z",
   "sources": [
     {
       "name": "BBC News",
@@ -54,11 +54,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T22:51:57.241Z"
+      "updatedAt": "2026-08-15T23:25:32.843Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Are robotaxis finally here?",
+          "link": "https://www.npr.org/2026/08/15/nx-s1-5918065/are-robotaxis-finally-here",
+          "pubDate": "Sat, 15 Aug 2026 17:30:21 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "State Department spokesperson on Iran war and U.S. visa revocations",
+          "link": "https://www.npr.org/2026/08/15/nx-s1-5931811/state-department-spokesperson-on-iran-war-and-u-s-visa-revocations",
+          "pubDate": "Sat, 15 Aug 2026 17:20:51 -0400",
+          "source": "NPR"
+        },
         {
           "title": "The Midwest braces for more heavy flooding, as Indiana seeks federal aid",
           "link": "https://www.npr.org/2026/08/15/nx-s1-5932552/midwest-flooding-indiana-fema",
@@ -94,22 +106,10 @@
           "link": "https://www.npr.org/2026/08/15/nx-s1-5930423/strength-exercises-to-relieve-prevent-pregnancy-pain",
           "pubDate": "Sat, 15 Aug 2026 05:04:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "They fought for the U.S. in Afghanistan. Now they worry about losing their green cards",
-          "link": "https://www.npr.org/2026/08/15/nx-s1-5897606/afghanistan-visa-green-card-deport",
-          "pubDate": "Sat, 15 Aug 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 47",
-          "link": "https://www.npr.org/2026/08/15/nx-s1-5932405/earthquake-indonesia",
-          "pubDate": "Sat, 15 Aug 2026 04:29:20 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T22:51:57.525Z"
+      "updatedAt": "2026-08-15T23:25:32.997Z"
     },
     {
       "name": "AP News",
@@ -135,19 +135,19 @@
         {
           "title": "MLB | Latest News, Stats, and Scores - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 19:48:39 GMT",
+          "pubDate": "Sat, 15 Aug 2026 20:33:50 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 20:13:32 GMT",
           "source": "AP News"
         },
         {
           "title": "Democrats disagree over abolishing or reforming ICE at DNC meeting - AP News",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYkJWWkxxWUQ3dDVxeGNmanhVeTB2LWk2N3NqWHFrdGJyOFJoNzI1NDlwaUFTWlJFVVhqYlF6eTBsRXFCV1NFQXVsRXJCUDFYM3o3UkxCZG5jbVVTdFJIZW5Sd0E0UWg0TVRSUE1zUzk1MC1uUmJoQmI5OWN0eXJRMEotVGFzaVQwY2l2cWctdXdJSDVnOGxhYUhRbndrQ0RhM1V3Vg?oc=5",
           "pubDate": "Sat, 15 Aug 2026 19:19:35 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 19:11:14 GMT",
           "source": "AP News"
         },
         {
@@ -164,7 +164,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T22:51:58.117Z"
+      "updatedAt": "2026-08-15T23:25:33.470Z"
     },
     {
       "name": "Reuters",
@@ -172,7 +172,7 @@
         {
           "title": "Hopes fade in Colombia as more bodies recovered days after powerful quake - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTVVtWHRQWDU1UXU5RHBDM2hOaG1YcVdpMHIyTGtFbnJtQi13c09KUnFlUlRzaDZLSldMZF91NnhFTmhjTERDaXduYktlSTZ0V0h2N2R0M0VoSzBfNjdGcmJCUkhLX01aRkUyRDA5dFZVZWkxazhMT3dNTUs2T1JLX3dCY25KdVlJRjFQTThiV0JNR2VXVEZ5VFh3cGloSnI0SlpEZXVFWXFtblRaXy1CZ18tanp0akpGNGRLQXZ4a09DUQ?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 21:34:27 GMT",
+          "pubDate": "Sat, 15 Aug 2026 22:47:22 GMT",
           "source": "Reuters"
         },
         {
@@ -219,7 +219,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T22:51:58.648Z"
+      "updatedAt": "2026-08-15T23:25:33.877Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T22:51:58.796Z"
+      "updatedAt": "2026-08-15T23:25:33.962Z"
     }
   ]
 }
