@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-08-16T11:48:19.888Z",
+  "generatedAt": "2026-08-16T12:49:53.295Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
+          "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 16 Aug 2026 12:37:21 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "BBC visits smouldering Kyiv market after Russian strikes",
+          "link": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 16 Aug 2026 12:18:09 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Europe's tallest Virgin Mary statue unveiled in rural Poland",
           "link": "https://www.bbc.co.uk/news/articles/cn5nnlq2pwpo?at_medium=RSS&at_campaign=rss",
@@ -35,30 +47,24 @@
           "source": "BBC News"
         },
         {
-          "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
-          "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 16 Aug 2026 08:23:38 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "BBC seeks to subpoena family members in Panorama lawsuit",
           "link": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 16 Aug 2026 00:11:03 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Australian state to launch gun buyback after Bondi Beach attack",
-          "link": "https://www.bbc.co.uk/news/articles/cgjee21eenvo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 15 Aug 2026 21:41:43 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T11:48:18.611Z"
+      "updatedAt": "2026-08-16T12:49:51.945Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "As Trump blocks Medicaid funds, one trans teen's mom asks: What's next?",
+          "link": "https://www.npr.org/2026/08/16/nx-s1-5932491/transgender-health-care-medicaid-trump-oz",
+          "pubDate": "Sun, 16 Aug 2026 07:54:19 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia",
           "link": "https://www.npr.org/2026/08/16/nx-s1-5933006/ukraine-aerial-attack-6-dead-russia",
@@ -100,75 +106,75 @@
           "link": "https://www.npr.org/2026/08/15/nx-s1-5931811/state-department-spokesperson-on-iran-war-and-u-s-visa-revocations",
           "pubDate": "Sat, 15 Aug 2026 17:20:51 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "The Midwest braces for more heavy flooding, as Indiana seeks federal aid",
-          "link": "https://www.npr.org/2026/08/15/nx-s1-5932552/midwest-flooding-indiana-fema",
-          "pubDate": "Sat, 15 Aug 2026 16:04:13 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T11:48:18.819Z"
+      "updatedAt": "2026-08-16T12:49:52.116Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Corgis race, bark and sniff their way to glory at a growing international race - AP News",
+          "title": "Rescuers dig through rubble and landslides after Indonesia quake kills 53 - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOekM5VXhLY1NEVEZnWUFWdzdpd3VnekF5UUkzdzQxSDFLWnJpbHlzN2ZQU2hwTDRVcWthLTJMWmNWUjVQdXRyejZwNllFMm1TNHFSZ05DQjBVQXc3Z01Tc3BiX29TVHVwNlhfakI5eHl5UTZmUm82VGtaR3o2eF9UODl3RHZQTHFwQ2RxdjJqLTJoaHVJSUFSdTBQV3VIdw?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 11:41:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Firefighters battle a massive Belgian wildfire, forcing hundreds to evacuate - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYktmWUtyRG1meHR2M1NtVDdScldwOVk4enpGWC1RUUJKUG5lUlNmekFhZGhpeElsaWgyUEQ3VnlTdldXX1A1enJHUXluZDRseHFfMG1VU0l3RHQ3LWhGS1dlTGx3aS1ORFhjYXEwTXRSVTZUYTlreFdkV2kxQ0tjQ1JONENqelJvSFp6NQ?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 10:01:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Corgis race, bark and sniff their way to glory at a growing international race - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONjVFSk1Pdmcxb29Gb1lYWTIzSU0xdzhLcjc3V3NSNzhYVzc3SXp1VFZ0OUQ0ZU1MRHIyTkp4OF93bV92SlRQRHg2ZE1abE1sSkJ1Y2E1UlFGa3dJaS1JRlJJYnFQUWtpTnE0T2kzdVNjZVI4akd5SXpkNEFxeHl1ZW1obGpHbElGTHR3QXJjRjh5RjBsX2NHQ0NaMXM5T0c4dUxGRnJwUHkxbVU?oc=5",
           "pubDate": "Sun, 16 Aug 2026 09:41:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Rescuers dig through rubble and landslides after Indonesia quake kills 51 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOekM5VXhLY1NEVEZnWUFWdzdpd3VnekF5UUkzdzQxSDFLWnJpbHlzN2ZQU2hwTDRVcWthLTJMWmNWUjVQdXRyejZwNllFMm1TNHFSZ05DQjBVQXc3Z01Tc3BiX29TVHVwNlhfakI5eHl5UTZmUm82VGtaR3o2eF9UODl3RHZQTHFwQ2RxdjJqLTJoaHVJSUFSdTBQV3VIdw?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 09:20:00 GMT",
+          "title": "Europe’s tallest statue of the Virgin Mary is inaugurated in a small Polish village - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVHQyZFRmT1E3R0JUZFdjczVSV0t2SlFZVUNBcXlLdTBWc3h6WVVISV8zUUJWby1FVkhpNk13UF9YM09lU2Roa0tYSnBjNzFUOHpSV3ZkZDlyaHhuV2JHSVprVnpGQjBpTkpXWnJBMnZnUDVSQi1hbzdKSFlkZVpiTUJUME96SXVtYXM1aVZ0cGtyeEZYTkZVak9tVVl3WDd5MmxIV1dpVWpldnJ1OTd3?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 09:12:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Indiana authorities say at least 5 people have died as severe weather crosses the state - AP News",
+          "title": "Indiana authorities say at least 5 people have died as severe weather crosses the state - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRHBMaDlITnhZaG5xYXhPTUxhUlhIMnFHYTVKZXhZQWcwSmswLVo0aWx5dHI1T3l0bXg5eDZzSzhyUEhyNDMyWkFHVEhRQ19WcVJMM3prWWFLRjFEQ1ZjS1dqZk03M01zSmVtNGFRODZzTmsyVHpmTTQtV2dwMGRTclVUc1FBTkM5T2cyeVR1OEVPN0V6eHc?oc=5",
           "pubDate": "Sun, 16 Aug 2026 08:08:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Novak Djokovic ousted from Cincinnati Open in his first match since Wimbledon - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUVZVMmZJcmhyXzFYanVTWXhvZUxtcGZUOFZSTTY1RkR4UGl3X1pGNExzdDVHY0FhbmJ3d3lFeTY0NmN0WWZ1R29DM05LZElFYXFfVUlGa3BubFhtLTFRQTNPcDJ2b29FYU0wd2stXzlicHVqOWFNaUVpYk1MYlRfbEFuOFNGVjB2djhMNFJZd29mYU54cjY3QVJZQQ?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 06:24:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Avocado pickers in Mexico welcome restart of exports to US, but security fears remain - AP News",
+          "title": "Avocado pickers in Mexico welcome restart of exports to US, but security fears remain - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTW9xS0xIUkYzczYwdHJSTnBnTGZIQXdZdXhweDJzT2RfZURPUTNieFZ3VlIzX0JxSzc1UWNQU1lfVlh5QXZfQzk4YVE2MlRzcXdhb3M0b3JmTjV0OW1Jc2xMOWdqaVhtck1iZkUxY1VQNnhVQ19sU2dXbmVVVWZpRXdWTjB3amxLd0c4OUxodkkyemlmVEhjdXpSVDBmOExkQk5yODdTbFg1Zw?oc=5",
           "pubDate": "Sun, 16 Aug 2026 06:13:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Hurricane Lala skirts Hawaii's Big Island without making landfall as heavy wind, rain lash region - AP News",
+          "title": "Hurricane Lala skirts Hawaii's Big Island without making landfall as heavy wind, rain lash region - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTEs4Si04Q3pSUDJJcUZ2dlk0QVdvREI0UnlFRTkwT1U3eFFyRjF3YVMyVHF1NWRfdDlaNTZ1SkdLR2FMMG1EcEhYdDNVM2pVLVROSHZLc0FvclZYTmEtWWNocHZCLUFUeTBOb3JkUnVyMVNfRFNoTUVickZuVzVRZU5iNm82ODJwbHNMSXBIV3BUX3ZucUQ1YUx5RDE?oc=5",
           "pubDate": "Sun, 16 Aug 2026 05:06:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Miami to decide fate of stunning stadium where speedboats raced and Jimmy Buffett played - AP News",
+          "title": "Miami to decide fate of stunning stadium where speedboats raced and Jimmy Buffett played - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNTRsekJWLTFOa2xZUjA1Wks4Z2sxdFRBTjE5aDNNMmo1ZmpXSW45NTZlU1diYjloZlpzQ05hcUJ4WnVVYkg4TFJybUlqLUNnbXBTSmQ5Ny14LXNPeWFudklReTFPOWZVdE9fT0xueUloV2xCRWRteVNLTFZUTGxqdm03Q01vRk90Y0c5czdmR3ZjSkZHa3RibHFFQ2RaNmhlZTBQOQ?oc=5",
           "pubDate": "Sun, 16 Aug 2026 04:05:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "US pulls last aircraft carrier in Asia as Trump focuses on Iran and the Western Hemisphere - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS1ZVeVR3dkRTVHNDamZQUkxBc0FUS1RVQlh4WnJnM0hESmZYZUhMdkk1a3JaNE9IQUFMT2hGWU1CU1VkYkxCbUVpUGp0YzJNYmU2U05tZ2ViNE5hWVVnZUtyUW0zNjVLMk9IRDBVSzR0cTFlY0dsUDRGUXlEaWlFUFN5Qk5LTnJkQ0R5NDRpSUpiWmFoQVpKQ2VHaHJIY0o5SmN2OUE5Zm1ndw?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 03:18:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T11:48:19.291Z"
+      "updatedAt": "2026-08-16T12:49:52.693Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "German companies cut US investment to three-year low, data show - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQTk3Q1V1UFUwM0ZRa1BjcTh6SjBuZzJfZjZ5NS1sdjlQZVl3MndHSzQzeVhWdjlTQzRDM2x2QlFHYnBldzNLR2l1dTlqOW1vaWkzYVhGTGs0bVVKT1FVOXJOWFNmajdSMUtteXA5am1BaUZvYjZqSVBJR3dUSS1oYmQ5TUtUdjdxWXhmal9LN0tKdmVCbG5ITmV6NWZWWGptRGxaM3AwcU1lQ0JxZlF1dWhn?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 12:14:28 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Trump wants more economic pressure on Iran. What are his options? - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcF9Wa1NYT2dtVW52UTI3RWVFeS1MbVdwY0RvZC1kWDJYd1BEdlUzanc4Z09Gbmd6cG9NMHhWTVJxYVM1N0pqMHZCOUhHdHdRZUdBeWhzZVVhN3VBYnlOZjY5NmJmWE41UWVHeXljWUlkMFloZnh2VUxCajE0dlFTTjFOTk9ZRVVMSVJXd0thR05XbktGWlBPYmJ1S0U0bDdkQlZLWlBxb2VIUlZO?oc=5",
@@ -179,6 +185,12 @@
           "title": "Iran disputes Qatar, Kuwait accounts of captured Iranian personnel - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRUtLNEdDbkQxTWtlR1o5NHFQWkg3NkI2ZzBzeWZ5bWJsX2k0Ymh1UTEzRlpjTkFYRjQ5R3gtN084LWVoNGFZeXpIaTgwYTl6WnlNSGY0bnpyS1NablA1Y3dWSHJUTThrYzVzUmpVUW9IbGk1X095eDVISEEzaG45Y3N6bS1Db3gzc3RKN012TGVJR2w2aW1oTjhudE0waDRfX0wyajcwdGNCQ1JObzh3U2Z1TWNBdzR3RU9lRVQ0ekRHWHNQb2k0?oc=5",
           "pubDate": "Sun, 16 Aug 2026 11:27:57 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Suspected Russian drone shot down in Romanian airspace - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaEYyM3ZsTmtyUnloWUNXS0V4aUx6elJfWmp5UGlZRjJId3N2bkVSYzBZUHdpRXZudEc3aGJoemhNTGdoQUJ5al95MG9EMFA0OW1FVWlGRHBUeVdiRnBQZ1RsY1JZQ1FBQVAxNHNYRDN3REktaXpWOEFWM2RKQ09NNE4xYVpqc0czcE5jcXpLT0ZRLXM4UFFtSDlfREpxQnAwd3liT1IwaG50bmk1X2VRajRMb1FkbDhabTctR25CM0lBd3d2aHZ3?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 11:26:44 GMT",
           "source": "Reuters"
         },
         {
@@ -196,7 +208,7 @@
         {
           "title": "Belgium's biggest wildfire on record heads towards Germany - Reuters",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ0o2UU1KNjEzdFpEUmI3WlhvRllVYlZibG5ySnR3U2VaZWxYdjFYSV9fTzJTdFQxTVdtdVZIYW1HSktyZmdJTlliSGVMaVoyTlhxLUduWlNkTUZFYU5RY3dZN0h4Z1pqNVMyU2R0M1QzMEdWeUJzMEhfYTZidTlmdW5kbmcyaGgzbTQ0amNZWW5GRkFSRHp2TjZabWR1LThOUzdNNWZuSzV6VENHRU1Naw?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 10:29:43 GMT",
+          "pubDate": "Sun, 16 Aug 2026 10:40:01 GMT",
           "source": "Reuters"
         },
         {
@@ -204,22 +216,10 @@
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdDN3YTl5QWtjWjg5VTZtSEVzZnNheklhcUxHb0Q5M2I5dElCOUdDbkFpR0xrX2JzTEtsMzRIVFpWRjJZeG1zTTFIckVpdy1xNnNpaDltN1BCeklreVNFSU5wZlprUnJvWkxiQXVfOTlQcTVxckkwQ0hnVEpsSnhYem1yclNkMjNLTUVYd1pMc2tnVkRESk82QjNCMG9KeFh4bGdiTVpVYUhEWDBwLUFTS2tnVkZsUWpTSmU0eFZiZjFHejJrQUJzUFpn?oc=5",
           "pubDate": "Sun, 16 Aug 2026 09:51:44 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "German companies cut US investment to three-year low, data show - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQTk3Q1V1UFUwM0ZRa1BjcTh6SjBuZzJfZjZ5NS1sdjlQZVl3MndHSzQzeVhWdjlTQzRDM2x2QlFHYnBldzNLR2l1dTlqOW1vaWkzYVhGTGs0bVVKT1FVOXJOWFNmajdSMUtteXA5am1BaUZvYjZqSVBJR3dUSS1oYmQ5TUtUdjdxWXhmal9LN0tKdmVCbG5ITmV6NWZWWGptRGxaM3AwcU1lQ0JxZlF1dWhn?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 09:41:47 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Indonesia's deadliest earthquakes of past decade - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSDNXd2ZMVFA5LWkwZURfVkFGNWhrenYxTVdIejhWcWxCdmk2QS1TZE5yeDE4WHFBc3pwMEhPZ3dqMlNZa2dlZFd4eUpETHR3cVIzTFg3QVA4aGllSnlDN2c3NFEwMzgwT0lBa3RtOTlhNDJhNlZQQXhGVDRyMUd4VVZMRVVGQzlQR0lYcjFfLVpwakNuUnpWLXUyTnFwWnVKenhv?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 07:18:53 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T11:48:19.683Z"
+      "updatedAt": "2026-08-16T12:49:53.139Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T11:48:19.888Z"
+      "updatedAt": "2026-08-16T12:49:53.295Z"
     }
   ]
 }
