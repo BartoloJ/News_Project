@@ -1,25 +1,31 @@
 {
-  "generatedAt": "2026-08-16T07:35:42.653Z",
+  "generatedAt": "2026-08-16T08:35:47.542Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
+          "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
+          "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 16 Aug 2026 08:23:38 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Three killed as Russia launches fresh aerial attacks across Ukraine",
+          "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 16 Aug 2026 08:14:56 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Hurricane Lala lashes Hawaii with strong winds and torrential rain",
+          "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 16 Aug 2026 07:58:02 GMT",
+          "source": "BBC News"
+        },
+        {
           "title": "Twelve killed as Polish bus veers off Hungarian motorway",
           "link": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 16 Aug 2026 07:04:17 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Hawaii battles strong winds and rain as Hurricane Lala threat looms",
-          "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 16 Aug 2026 06:53:22 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Rescuers search for survivors of powerful Indonesia earthquake",
-          "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 16 Aug 2026 04:13:32 GMT",
           "source": "BBC News"
         },
         {
@@ -45,16 +51,10 @@
           "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 15 Aug 2026 20:58:31 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
-          "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 15 Aug 2026 20:21:14 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T07:35:41.410Z"
+      "updatedAt": "2026-08-16T08:35:46.305Z"
     },
     {
       "name": "NPR",
@@ -109,7 +109,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T07:35:41.608Z"
+      "updatedAt": "2026-08-16T08:35:46.542Z"
     },
     {
       "name": "AP News",
@@ -117,13 +117,19 @@
         {
           "title": "MLB | Latest News, Stats, and Scores - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 07:17:46 GMT",
+          "pubDate": "Sun, 16 Aug 2026 07:58:18 GMT",
           "source": "AP News"
         },
         {
-          "title": "Novak Djokovic ousted from Cincinnati Open in his first match since Wimbledon - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUVZVMmZJcmhyXzFYanVTWXhvZUxtcGZUOFZSTTY1RkR4UGl3X1pGNExzdDVHY0FhbmJ3d3lFeTY0NmN0WWZ1R29DM05LZElFYXFfVUlGa3BubFhtLTFRQTNPcDJ2b29FYU0wd2stXzlicHVqOWFNaUVpYk1MYlRfbEFuOFNGVjB2djhMNFJZd29mYU54cjY3QVJZQQ?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 06:24:00 GMT",
+          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 07:39:12 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Avocado pickers in Mexico welcome restart of exports to US, but security fears remain - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTW9xS0xIUkYzczYwdHJSTnBnTGZIQXdZdXhweDJzT2RfZURPUTNieFZ3VlIzX0JxSzc1UWNQU1lfVlh5QXZfQzk4YVE2MlRzcXdhb3M0b3JmTjV0OW1Jc2xMOWdqaVhtck1iZkUxY1VQNnhVQ19sU2dXbmVVVWZpRXdWTjB3amxLd0c4OUxodkkyemlmVEhjdXpSVDBmOExkQk5yODdTbFg1Zw?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 06:13:00 GMT",
           "source": "AP News"
         },
         {
@@ -136,12 +142,6 @@
           "title": "Hurricane Lala skirts Hawaii's Big Island without making landfall as heavy wind, rain lash region - AP News",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTEs4Si04Q3pSUDJJcUZ2dlk0QVdvREI0UnlFRTkwT1U3eFFyRjF3YVMyVHF1NWRfdDlaNTZ1SkdLR2FMMG1EcEhYdDNVM2pVLVROSHZLc0FvclZYTmEtWWNocHZCLUFUeTBOb3JkUnVyMVNfRFNoTUVickZuVzVRZU5iNm82ODJwbHNMSXBIV3BUX3ZucUQ1YUx5RDE?oc=5",
           "pubDate": "Sun, 16 Aug 2026 05:06:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Athens is cleaning its all-marble Olympic stadium for the first time in more than a century - AP News",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSjIzUzBHdUx5UWtDRmRTSzkwbHpLeGNocFZJeUoxX1JWdFBVekJnQ3I1STduV0VwNVM4Q2NqWnZkTVNXbG1XZDEzTFYwSHM0bG91aXRwQ283OGV4NEJHVm1WdHZlY0tSZ2lldk1BSEg1OWlRM1ZQQlBZM3RzUHJjWklIMGhLZWdnU2FLeTBBU19KVGNOWnhxdDdUWFlfWjNaWkZBTXNQWTJmckk0U3pWMTFrczBlUQ?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 04:23:00 GMT",
           "source": "AP News"
         },
         {
@@ -164,7 +164,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T07:35:42.053Z"
+      "updatedAt": "2026-08-16T08:35:46.930Z"
     },
     {
       "name": "Reuters",
@@ -172,7 +172,19 @@
         {
           "title": "Twelve killed and at least 10 injured in Polish bus crash in Hungary - Reuters",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZ2puckZxdHQ1aDQ2YmsxMXpuTHd6M0ZkMVhzOFNjXzJ3aTEzeHN6OEMyMkRCWTU2Y21MUUR2YlFjUlJmSG1Eb0JiOF9sVkdxY1dLMTBUY2xiUnNQdXlCRkFSeFNsdUJ0REd4NGxINnRZMDhyZWoxMzRMWlNTSWExd0xGT1pLWWJUcDQ5WEJPYVlBdDQ2aE0wazZRMzlrdw?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 06:07:00 GMT",
+          "pubDate": "Sun, 16 Aug 2026 06:59:44 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Russia attacks Kyiv overnight, injuring three, Ukraine officials say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRDQ2bnhPSnIySk54TjdqYmlQeVd3eEkxSU00ckF6OHZjUkI1S3ZUQm9VRUFvakFsajBqcjFVWlE5cTZsNjFNdUozMGlxQ0tvWTQ2Unl2SjF4UlJpMVlHSFdxOV9xa3hXcWFqMFloSGNFNHVSTVM2UUItcDdhaUZ5dzRTa3Z0eEpPdV9PUVBhV3Z3WVhGZ1NQNjd5LVA5RWNOTjhXV3IxOGJEanUzM1BwcFNycFczNDdMWUEzYXhDQkk?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 06:36:54 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "German companies cut US investment to three-year low, data show - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQTk3Q1V1UFUwM0ZRa1BjcTh6SjBuZzJfZjZ5NS1sdjlQZVl3MndHSzQzeVhWdjlTQzRDM2x2QlFHYnBldzNLR2l1dTlqOW1vaWkzYVhGTGs0bVVKT1FVOXJOWFNmajdSMUtteXA5am1BaUZvYjZqSVBJR3dUSS1oYmQ5TUtUdjdxWXhmal9LN0tKdmVCbG5ITmV6NWZWWGptRGxaM3AwcU1lQ0JxZlF1dWhn?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 06:35:00 GMT",
           "source": "Reuters"
         },
         {
@@ -182,21 +194,15 @@
           "source": "Reuters"
         },
         {
+          "title": "Romania shoots down drone breaching its airspace - defence ministry - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaEYyM3ZsTmtyUnloWUNXS0V4aUx6elJfWmp5UGlZRjJId3N2bkVSYzBZUHdpRXZudEc3aGJoemhNTGdoQUJ5al95MG9EMFA0OW1FVWlGRHBUeVdiRnBQZ1RsY1JZQ1FBQVAxNHNYRDN3REktaXpWOEFWM2RKQ09NNE4xYVpqc0czcE5jcXpLT0ZRLXM4UFFtSDlfREpxQnAwd3liT1IwaG50bmk1X2VRajRMb1FkbDhabTctR25CM0lBd3d2aHZ3?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 04:08:14 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "South Korea fired warning shots after North Korean soldiers crossed demarcation line, Yonhap says - Reuters",
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNTRvOURLLUdqSXQzZDQwSXJCNVU3WHNVOXRGVnNtV2Rhc1A5NEhTQkVSN0tRWTlfOEFoODhhMnVQQ1lReWZQZ2VlQU1Vd3k0bmE3SGdiNDYzaWhWd0stbDVKalpRZl95cS1VSG1IZi1YMFVDcXhsOVh6ZnNSNElVQy1pM2w3WUJYSzFvcGZFT0ZTMHA3SS1VdS1fS2hwaVhpX0dJRFlRQlNTdEo4NER0RGdkRjE5cHhIMUtlWHphNEptQ3lJUVRENjB2aXN6Mk0?oc=5",
           "pubDate": "Sun, 16 Aug 2026 04:00:43 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Romania shoots down drone breaching its airspace - defence ministry - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaEYyM3ZsTmtyUnloWUNXS0V4aUx6elJfWmp5UGlZRjJId3N2bkVSYzBZUHdpRXZudEc3aGJoemhNTGdoQUJ5al95MG9EMFA0OW1FVWlGRHBUeVdiRnBQZ1RsY1JZQ1FBQVAxNHNYRDN3REktaXpWOEFWM2RKQ09NNE4xYVpqc0czcE5jcXpLT0ZRLXM4UFFtSDlfREpxQnAwd3liT1IwaG50bmk1X2VRajRMb1FkbDhabTctR25CM0lBd3d2aHZ3?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 03:40:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Vietnam Airlines Boeing 787 returned to Munich after takeoff incident - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUjk0ZFl5R3ZQblJ0T0MwemxocHVlbmo0a3FpbkFHUUp5SG9IWjhDcGQ4SDF1Q09ZOWRRdjZDclFxbnFGNUQ4Nmw3WTBRMURtSUVmc1duQlVsZ3c5QmhiclVaWHBRSEhadmc1TnFxTFo5RjNvVWZqYkd5Sm5MUFJYTFlVYWU3YWVSZjF2LVZwT0lTbE9ZMU1fUTZaWVJNYzhWODZDcWNIc0xQQXUxeUJ4cjNNcEtvZmtsT2FFUUp2dE1wMjFzSU5oekxCalNJTjBaeWRDX1JJUURwa0k?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 03:35:09 GMT",
           "source": "Reuters"
         },
         {
@@ -208,18 +214,12 @@
         {
           "title": "North Korea's Kim, Russia's Putin reaffirm ties on Korean Liberation Day - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNN2p1U3RrcWFybldKeEVnT0l6SjJKWlpCUGlNVXlCd0RseFdVR2g2VVc4emNtTGdfU1Jub1kxQTZpaVZRN3duQUhVYldjaUhVLWhJS2RqcnR5akVlUDF1TlFERHlGUTVvMWxzQWNkQzNDY05vdjBxLThaSmlTX2dzdlVpdkJ6dUlnOVRPZUxOM29Oc0MtWmVHQzE2NzNNdUlnalFDcXhvRURNRFliUWd1RUwzRkw?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 02:08:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Australia gun buyback to start in November, PM Albanese says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ1kzNTZkLW56OFd5QVlmNzZNMXN2eVBBdWtabkRjdDhkUUZyVmVORWJ4WHNjd2JCejJsOXpQX0t6VElJam5HMHRidzNyTEFxbm1lWEhqNkZTWFg3dEdISWtQMGVIbjA1TWZ6ZTdYdkRvVGowbkc5aU5BOGt3OGs4Mm5YUWNVVi01SERJWVFpdkZsc1N1N0ZyR055bHduQUZCdmk4Uk1yU1Nyc2gz?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 01:39:13 GMT",
+          "pubDate": "Sun, 16 Aug 2026 02:09:38 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T07:35:42.526Z"
+      "updatedAt": "2026-08-16T08:35:47.282Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T07:35:42.653Z"
+      "updatedAt": "2026-08-16T08:35:47.542Z"
     }
   ]
 }
