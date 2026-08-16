@@ -1,9 +1,15 @@
 {
-  "generatedAt": "2026-08-16T13:35:15.756Z",
+  "generatedAt": "2026-08-16T14:28:16.948Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
+          "link": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 16 Aug 2026 13:34:38 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Hurricane Lala sparks flash floods in Hawaii as strong winds and rain persist",
           "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
@@ -45,16 +51,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 16 Aug 2026 09:27:58 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "BBC seeks to subpoena family members in Panorama lawsuit",
-          "link": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 16 Aug 2026 00:11:03 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T13:35:14.207Z"
+      "updatedAt": "2026-08-16T14:28:15.437Z"
     },
     {
       "name": "NPR",
@@ -109,15 +109,27 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T13:35:14.526Z"
+      "updatedAt": "2026-08-16T14:28:15.767Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "Lala is again a tropical storm, sending drenching rain and winds across the Hawaiian islands - AP News",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaHJWdmptUWhHamR5OFQ2ckI0Qlk5YjRIcnBNa1dCdzNBaktSdnNtdHhLNHFZNlE3VHZWa1JMWVpMTWN2dkhuemhVT1VRSGxLNXRYZ2M3aHB2cnpvZW5nS2FqMHBsTXpHVGNqYWl5SXRfblFETEFTT3ExeTVYNEtBNlhrYnkzSi1tU3FKcGRSRmh5OHZvUFJ2LU9wZTJyUQ?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 12:56:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Firefighters battle a massive Belgian wildfire that forced hundreds to evacuate - AP News",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYktmWUtyRG1meHR2M1NtVDdScldwOVk4enpGWC1RUUJKUG5lUlNmekFhZGhpeElsaWgyUEQ3VnlTdldXX1A1enJHUXluZDRseHFfMG1VU0l3RHQ3LWhGS1dlTGx3aS1ORFhjYXEwTXRSVTZUYTlreFdkV2kxQ0tjQ1JONENqelJvSFp6NQ?oc=5",
           "pubDate": "Sun, 16 Aug 2026 12:29:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia - AP News",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSW9mTFNZNmhNT3Rucy1OdzIyUzZxYlZVMk1oY2liVkNobXMtYXJPTUI2MFZfYWt3QkJwTVhaNnlEbzY2M0I4NWZtVFRyLVpwX3JQdUZXOVlkZVZXNThuQmRXMjFsOFN2QWRnX3ZCNk1DRlUyQWZIdUNrM0IwWGFRdHhIWHQ?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 12:21:00 GMT",
           "source": "AP News"
         },
         {
@@ -133,8 +145,8 @@
           "source": "AP News"
         },
         {
-          "title": "Corgis run, bark and sniff their way to glory at a growing international race - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONjVFSk1Pdmcxb29Gb1lYWTIzSU0xdzhLcjc3V3NSNzhYVzc3SXp1VFZ0OUQ0ZU1MRHIyTkp4OF93bV92SlRQRHg2ZE1abE1sSkJ1Y2E1UlFGa3dJaS1JRlJJYnFQUWtpTnE0T2kzdVNjZVI4akd5SXpkNEFxeHl1ZW1obGpHbElGTHR3QXJjRjh5RjBsX2NHQ0NaMXM5T0c4dUxGRnJwUHkxbVU?oc=5",
+          "title": "Thieves steal 4 Renaissance artworks in Sicilian museum heist on Italian holiday - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdnlrWmxPWkVSVUdZaG9JZXY1UTVpbDFIWUI2NEF4SG1pbnBVaVhQaXRxUjhIOVN5Sk5Pd0VJck1sbTZwLTFsbVpIMDNqVjQ3S2ZjV0t1S0dJU1hjcHpwc2J5dExUaC1zNXNqUG5uX0ZOQzZJZS1DVG1aOGJELVZ5RXktSm5ycXR5d2hDTEZUWEIwS3BXTVNTOUhRcW8?oc=5",
           "pubDate": "Sun, 16 Aug 2026 11:22:00 GMT",
           "source": "AP News"
         },
@@ -149,30 +161,36 @@
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRHBMaDlITnhZaG5xYXhPTUxhUlhIMnFHYTVKZXhZQWcwSmswLVo0aWx5dHI1T3l0bXg5eDZzSzhyUEhyNDMyWkFHVEhRQ19WcVJMM3prWWFLRjFEQ1ZjS1dqZk03M01zSmVtNGFRODZzTmsyVHpmTTQtV2dwMGRTclVUc1FBTkM5T2cyeVR1OEVPN0V6eHc?oc=5",
           "pubDate": "Sun, 16 Aug 2026 08:08:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Avocado pickers in Mexico welcome restart of exports to US, but security fears remain - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTW9xS0xIUkYzczYwdHJSTnBnTGZIQXdZdXhweDJzT2RfZURPUTNieFZ3VlIzX0JxSzc1UWNQU1lfVlh5QXZfQzk4YVE2MlRzcXdhb3M0b3JmTjV0OW1Jc2xMOWdqaVhtck1iZkUxY1VQNnhVQ19sU2dXbmVVVWZpRXdWTjB3amxLd0c4OUxodkkyemlmVEhjdXpSVDBmOExkQk5yODdTbFg1Zw?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 06:13:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Lani Pallister stuns Katie Ledecky with her first international 800 free loss at Pan Pacs - AP News",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOV0c2WlFsVm5vS1Y3czdnMzhXN1lZMzlIVEFlVzQyc29yck1pQnNtVUFPZUZFRkZTRWhvcDdFRUM4bjFVVmFkeGJQWFM2NmI1UEQyYVdpYWxzVk9mNWFiRFF6U0pLdF9nX3YtUjJGVU5YOFhjZDlXVU4tY0ZVamFidWFIREpDZEU?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 05:38:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T13:35:15.020Z"
+      "updatedAt": "2026-08-16T14:28:16.313Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "German companies cut US investment to three-year low, data show - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQTk3Q1V1UFUwM0ZRa1BjcTh6SjBuZzJfZjZ5NS1sdjlQZVl3MndHSzQzeVhWdjlTQzRDM2x2QlFHYnBldzNLR2l1dTlqOW1vaWkzYVhGTGs0bVVKT1FVOXJOWFNmajdSMUtteXA5am1BaUZvYjZqSVBJR3dUSS1oYmQ5TUtUdjdxWXhmal9LN0tKdmVCbG5ITmV6NWZWWGptRGxaM3AwcU1lQ0JxZlF1dWhn?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 12:14:28 GMT",
+          "title": "Brazil's Lula launches reelection bid, aims to win back workers to his Workers Party - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeEl6U1RsX2F2XzJtaFd2cHMyWDhqMzhBdnI1QTJnTnNmV3BST19jNlRHTTNOejFuVTdlRTNzOGdFTG1MRTF1VE1hSnR2eGZOQnhoQWIzOG1DcWxpbkZXTkhSbDQwMmV1OGh5ay0tclhVcnBUUVh4cG1jZk1VeDV6eTgxdjdxMnFnelY1cEZSQVNTOE9nVE1HR2FSM1NvSzE2aVVPYWhzVmlSNlF4OGNBWEEtd0NYWXpBZm9weFl5U1RuaWhCelE?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 13:17:43 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Pope calls for an end to West Bank violence against Palestinians - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdGQ4SWdqSHFLZE1qOUNXWDhnLVlQa09TeGtURVpuZC1BWjFPNE1CalBpTU5NM3c2Uy1qSi1mSnlmRjB6UTlab1hMd19Zd2tubTFLNUZoSWZqUWdyN2V3UFZXWlY3c3d6RGlNbGduMjRWMlZ5cDcyU3U4R3VfXzVUZlZ3T3A0TnBHdnZmWHQ2VmxLdmdSVFBBQVdrckZULUFJNEEyc0Q2cko1WmprZVdNeA?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 12:23:43 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Iranian parliament votes to further criminalise interviews with 'hostile media' - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOS1l5UHpVYkM5cWxRVlYyTGVJWkVlWXJaWkxrNXZYaEhOSG9nYU9sdWVwSm4xeGkxV1U2ZXJrVlR2WlhFbjBZTWxYeE5sOWFWaWVLUC1CQ0NoV0VsVFJnU2Q3T2g4UFRUSUk1WWZDZGp1SVMzZ2xzdHJSRXRMWDctVXlBekt4ODhIeGJjOUFvLUtrb2NZclVBejZtbkg2djNWeG15QjEwNTE1eEZ6YlA5ZXNJdlljdDlRS2U3WklxZURuZ2VOSmJrRFF3cEw3QQ?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 12:18:32 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Billionaire Peter Thiel buys 1% stake in Argentine Vaca Muerta oil firm, filing shows - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYldvMHAyS2pRUlBfTWViR3BKVjl4WllDSGVlXzFlaXM5QkZGVlFSQWF2REhQR3J6bDhaWkNUWWtLLUN4c2FHTlZ2OW90UFd3N2gySHIyTnRuSm9HdGpvUmJFZUZxaWtUMjA1eE1GRk1WOWg3VWc1V1FKdmR4RE85SUk1UDRXUEVQUEJFVHRPZ2JRVWlqemJsdXduRGhEdy1tSF96QlhBZnpjclFEZ3E3X2JBdjl6T1NGTDNjMFRSbm55cU5ORl84THI0SS0?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 12:13:07 GMT",
           "source": "Reuters"
         },
         {
@@ -182,44 +200,26 @@
           "source": "Reuters"
         },
         {
+          "title": "South Korea says it fired warning shots after North Korean soldiers crossed demarcation line - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNTRvOURLLUdqSXQzZDQwSXJCNVU3WHNVOXRGVnNtV2Rhc1A5NEhTQkVSN0tRWTlfOEFoODhhMnVQQ1lReWZQZ2VlQU1Vd3k0bmE3SGdiNDYzaWhWd0stbDVKalpRZl95cS1VSG1IZi1YMFVDcXhsOVh6ZnNSNElVQy1pM2w3WUJYSzFvcGZFT0ZTMHA3SS1VdS1fS2hwaVhpX0dJRFlRQlNTdEo4NER0RGdkRjE5cHhIMUtlWHphNEptQ3lJUVRENjB2aXN6Mk0?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 11:31:25 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Iran disputes Qatar, Kuwait accounts of captured Iranian personnel - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRUtLNEdDbkQxTWtlR1o5NHFQWkg3NkI2ZzBzeWZ5bWJsX2k0Ymh1UTEzRlpjTkFYRjQ5R3gtN084LWVoNGFZeXpIaTgwYTl6WnlNSGY0bnpyS1NablA1Y3dWSHJUTThrYzVzUmpVUW9IbGk1X095eDVISEEzaG45Y3N6bS1Db3gzc3RKN012TGVJR2w2aW1oTjhudE0waDRfX0wyajcwdGNCQ1JObzh3U2Z1TWNBdzR3RU9lRVQ0ekRHWHNQb2k0?oc=5",
           "pubDate": "Sun, 16 Aug 2026 11:27:57 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Russia hits steel plant in new strikes on Ukraine, Kyiv attacks Moscow region - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRDQ2bnhPSnIySk54TjdqYmlQeVd3eEkxSU00ckF6OHZjUkI1S3ZUQm9VRUFvakFsajBqcjFVWlE5cTZsNjFNdUozMGlxQ0tvWTQ2Unl2SjF4UlJpMVlHSFdxOV9xa3hXcWFqMFloSGNFNHVSTVM2UUItcDdhaUZ5dzRTa3Z0eEpPdV9PUVBhV3Z3WVhGZ1NQNjd5LVA5RWNOTjhXV3IxOGJEanUzM1BwcFNycFczNDdMWUEzYXhDQkk?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 11:21:15 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Ukrainian drones strike Moscow region, killing one - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYUVQMGdnUEljNGo4eDhSbHFoSUtDZ2FVLU5hTHNmZXUwMFVDTTdneTR3S2owc1pSZjBtcHNtVkZKU25oLXlNbWxENHVhM2F1ZUtnUVVicEMzai1MMVgyZk5JLVJPRjRDUklLc21zcjJycVM5endpS2plUjRHS3FhMmFIa29MUlRjRzRpNDlTdnRLS0JuTUE?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 11:21:14 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Four Antonello da Messina works stolen in Renaissance painter's hometown - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNE5XWE93dVd5bUpMcEhWSjRsZ0lBc2dmWjl4WmJQNWFUQzZyZldlQ3BYRVl6YXgydllsSDBObTItem4xTlpwcFJrZGNRbEtNbmc5VEpWaEZZUnZkRTE4YXB3djFSWDJMc1NzQWhjMl9hRE00MXBkT0Z5bTEzaXI0YVBpZ1V5YVFDRmIteFpwd3lmZUtYYXhqYTF4SUdZUEtVZVJWalVfRnQ4bDhBNS1j?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 10:57:43 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Belgium's biggest wildfire on record heads towards Germany - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ0o2UU1KNjEzdFpEUmI3WlhvRllVYlZibG5ySnR3U2VaZWxYdjFYSV9fTzJTdFQxTVdtdVZIYW1HSktyZmdJTlliSGVMaVoyTlhxLUduWlNkTUZFYU5RY3dZN0h4Z1pqNVMyU2R0M1QzMEdWeUJzMEhfYTZidTlmdW5kbmcyaGgzbTQ0amNZWW5GRkFSRHp2TjZabWR1LThOUzdNNWZuSzV6VENHRU1Naw?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 10:40:01 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Brazil's Lula launches reelection bid, aims to win back workers to his Workers Party - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeEl6U1RsX2F2XzJtaFd2cHMyWDhqMzhBdnI1QTJnTnNmV3BST19jNlRHTTNOejFuVTdlRTNzOGdFTG1MRTF1VE1hSnR2eGZOQnhoQWIzOG1DcWxpbkZXTkhSbDQwMmV1OGh5ay0tclhVcnBUUVh4cG1jZk1VeDV6eTgxdjdxMnFnelY1cEZSQVNTOE9nVE1HR2FSM1NvSzE2aVVPYWhzVmlSNlF4OGNBWEEtd0NYWXpBZm9weFl5U1RuaWhCelE?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 10:08:00 GMT",
+          "title": "Suspected Russian drone shot down in Romanian airspace - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaEYyM3ZsTmtyUnloWUNXS0V4aUx6elJfWmp5UGlZRjJId3N2bkVSYzBZUHdpRXZudEc3aGJoemhNTGdoQUJ5al95MG9EMFA0OW1FVWlGRHBUeVdiRnBQZ1RsY1JZQ1FBQVAxNHNYRDN3REktaXpWOEFWM2RKQ09NNE4xYVpqc0czcE5jcXpLT0ZRLXM4UFFtSDlfREpxQnAwd3liT1IwaG50bmk1X2VRajRMb1FkbDhabTctR25CM0lBd3d2aHZ3?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 11:26:44 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T13:35:15.517Z"
+      "updatedAt": "2026-08-16T14:28:16.746Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T13:35:15.756Z"
+      "updatedAt": "2026-08-16T14:28:16.948Z"
     }
   ]
 }
