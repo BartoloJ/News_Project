@@ -1,9 +1,27 @@
 {
-  "generatedAt": "2026-08-16T19:46:54.491Z",
+  "generatedAt": "2026-08-16T20:29:08.540Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Belgian wildfire doubles in size on third day tearing through nature reserve",
+          "link": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 16 Aug 2026 20:01:51 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
+          "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 16 Aug 2026 19:58:14 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Two dead and hundreds evacuated after twin fires break out on Greek island",
+          "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 16 Aug 2026 19:50:36 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
           "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
@@ -23,18 +41,6 @@
           "source": "BBC News"
         },
         {
-          "title": "Two dead and hundreds evacuated as twin fires break out on Greek island",
-          "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 16 Aug 2026 17:44:23 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Belgian wildfire doubles in size on third day tearing through nature reserve",
-          "link": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 16 Aug 2026 15:25:38 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
           "link": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 16 Aug 2026 13:34:38 GMT",
@@ -45,20 +51,20 @@
           "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 16 Aug 2026 12:37:21 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "BBC visits smouldering Kyiv market after Russian strikes",
-          "link": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 16 Aug 2026 12:18:09 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T19:46:53.384Z"
+      "updatedAt": "2026-08-16T20:29:07.186Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Kushner meets with Hamas on the Gaza road map ahead of talks with Netanyahu",
+          "link": "https://www.npr.org/2026/08/16/g-s1-138948/kushner-gaza-hamas-netanyahu-egypt-talks",
+          "pubDate": "Sun, 16 Aug 2026 16:20:22 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Tommy John, namesake for a pioneering elbow surgery that saved his career, dies at 83",
           "link": "https://www.npr.org/2026/08/16/g-s1-138941/tommy-john-elbow-surgery-baseball-pitcher-yankees-dodgers",
@@ -100,16 +106,10 @@
           "link": "https://www.npr.org/2026/08/16/nx-s1-5929441/npr-senior-podcast-challenge-official-rules",
           "pubDate": "Sun, 16 Aug 2026 05:00:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Billions of sea stars have died. A Northwest tribe is trying to save the species",
-          "link": "https://www.npr.org/2026/08/16/nx-s1-5928398/endangered-sea-stars-release-pacific-ocean",
-          "pubDate": "Sun, 16 Aug 2026 05:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T19:46:53.468Z"
+      "updatedAt": "2026-08-16T20:29:07.434Z"
     },
     {
       "name": "AP News",
@@ -121,9 +121,33 @@
           "source": "AP News"
         },
         {
+          "title": "Top US commander visits aircraft carrier, Gaza talks in Egypt and other Mideast news - AP News",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWnFRcW9HbzBnVEVnSk92am10b0F0NGx4RTJlcjRTY28xQVdwWWxkdGd5eXNMdmxWeEFRQ3BFZEN6bUF1WDVCQkUtTjlrTGdtenNWclIteG9CRTVZdzVNaUJ4Z2FPVE0zaTBEX0RIdlRWMG1ieHRYcWt0dXpWYllGTjRnT2cxVDZwS0FCNEFEZnpJa0c1VXpaTGw0eFJxc251RUVvUmJPVmltWWlJbHBaLUJwd1I?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 18:55:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "At least 6 people have died from days of storms and record-setting flooding in Indiana - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQ2kwWjVwQkgtUEowdElQck1LekNsOEhfWXVJWUo1Szg3UFVudkV6U1RWYlRZM1lXdzloWFFBdmFpUkJ2RlQ5NnAwUmJZbkNkYTFJUEVjWWNIWmwxdDZaOVFKOWxTZ0dYLVJ6QXNmbUNOMzR2R0ltX1JSOHdhSFVmcFlGYncyWDhCeFJ0Rk96d1V3dktZTHc?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 18:54:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Police looking for additional people who fired guns in Virginia university shooting that wounded 5 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeHp6X2JJbW1iWGZ6RHVsUWZ1MGRIeHczMjJNSy1mMWdXYThLb0t4WTlmek1zcWxUZHVmVE9IY0FWS3Zja3ltS1VRMkZKMDRyWVJFdkVMZ2R2cDhEdXJOak5UdG1SMVRILWhCWl93YkNyM0NQekYwem5wSTJDSTdCbXlLT2paRHdLMDZScVN0UWQ1SzlzY3JXZGctcTFyeGVDbTktdlJkTGJ6aEZv?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 18:46:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Tommy John, namesake for a pioneering elbow surgery that saved his career, dead at 83 - AP News",
           "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaWRlRkF0X3FrMFRldHpCeU54VkJNUk9lb2lLNWpXb0tXcEI2azh3SHpMX0cyajNucFZEUkw0Z3JwYndQWE1uTDYzRWlyN0FYeEpOZTFPOWx3ODJOWUJOM3JmYVBHOUZuSHFDSjNncnZPOV9jbjllSGNYX245QUw4UFZhUndaZw?oc=5",
           "pubDate": "Sun, 16 Aug 2026 18:43:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 18:36:33 GMT",
           "source": "AP News"
         },
         {
@@ -137,34 +161,10 @@
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTlBoRmhQRUp0V2J5aFNhVEhOSW9FY3pKQkVKdko0UE5vRjN6WjE4VUU3MEdGSTU0UTZ1RVB6Uy02QjJ5eVN4bkx2bHo1UUZscGtWT21EQWhUb2lzWHlrTUctZU9OME5KMF9UMHh5cF9KaFYtZko2QV9GLVc1N0FaLUlsX1czTTNzbk5iOGxFaUpmTnByaEVlUy05UTlTbldORWIxVGhn?oc=5",
           "pubDate": "Sun, 16 Aug 2026 18:21:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Kushner has a rare meeting with Hamas' leader on the Gaza road map. A meeting with Netanyahu is next - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQb2RjS19lVHRWUHJtbzIwY1FEWmxkWG5wVGVMeDV4LUE2UC1NN0liejZ2S3NfY01RN1ZKaEVnSnFQeUNHaUc2b29qT19Ldk1xUExBQmFXSWs1TG56ZGNtVzJ3cGpPNVRWWklkc2QtQ3VkaDZzTlIzTll1VGxSMUpzM21VejFWcFk0QXg0VkZYRTBCQmRYSVFUcWNEY0t0RDFwWkFFZmtsSTRVVjZUa3RrdkxRWDRfLXVNWnc?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 18:07:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Associated Press News: Breaking News | Latest News Today - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 18:05:25 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Box Office: ‘Spider-Man’ stays on top while two dino movies battle for third - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSTU4dGtOX3FaM0VaTE96TkRNOHdsZFJoT21Oa0tkaEVjSDFTbzdGb2xsUnhzSTVHTWpUNDdnMkJoM2ZYc1I2TWNBaDFVaU0yNEk2ZVprRGJHUGFoRmlBZmdNbTBORUNUTnR2QnZZWWh6cFFvQkpHRndId29PdnpIR1UtRGpmSFpUVUJ2Z2ZVZkp5VzBxN3dj?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 17:55:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Nightmarish start for Maresca as Arsenal outclasses Man City in Community Shield - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObm9mQzFsemRmYlJDeU0zRTNHRHo5Yk1QdnRWZmItSmotRGlma2dIcUxLckl3SzBpdWFmUXVhYjV6Y216dEZwdHVGX095YThwZmFUZld1cFVscXR3aGxYNmtwMnlDRlZXb0RROG1PZ0ZxbjBmbURESEZtU3lSd0xLOURoVlZpUzBfNERnbXZUZFJheEdKblBKZw?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 17:44:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T19:46:53.934Z"
+      "updatedAt": "2026-08-16T20:29:07.877Z"
     },
     {
       "name": "Reuters",
@@ -172,7 +172,31 @@
         {
           "title": "Trump's envoys meet mediators, Israel strikes Gaza - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQWlULVBMUTk3T05wRS0tNnBRUWFReXlURUhCaTNIZVlRaUtVOHczUm5CTi1YRWlveXN6cC1hWDBKOTJqbUpna3JYZUhzLTVrTnU0bXFWd3JncVNCeUc3NTNING9KeHFSNWpUWWhCNFBGUm1aQzBna3c1OFNtclBMZEY1VERJS0x1elM2ZEVwXzZVeTRzelkyM3ZoWTNGeGRGZkE?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 17:58:07 GMT",
+          "pubDate": "Sun, 16 Aug 2026 19:56:03 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Massachusetts anti-hunger advocate fasts to protest Trump food stamp cuts​ - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQXhFaDhFNUpvdWN5eFRsb2hDeWd2VllSUFh4MzdtQmd2aTZJM1drejljV0RxYWgzNTdpR25hWU5mUnF0NmxMcW5tWnVZMkxDVV9TaWR4Mk82OHVWaC1vMFZUZDR0anMta3pMc0Vsci0wRW9GMDFqM0lKcnhXNDVlTk4wMU5vMUhnbGtld0pFUEFFZGJwZTFiWHozOGtkOFlwQXI1NzlScVVvVWhaeEx5dU54eWhMNFNRVEZkVEpPMG8?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 19:02:32 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "In Spain's Ceuta, hundreds of migrants stage protest and demand asylum - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUjduYzlVZEN3NjI2YktjT0dyU3g2cVVudlhDLV95RERScG5tZ0RHb01Sdy0tTDZnMHQxdXRTa2c5dm5DY1dmTnN5WVJnVGQzemhsYjQwem9XVDNyQ1V0cHN4S2J2NzRkREd1ZWwtRWZ4RU90SDRZckpYaXo0ZEotTkx0eHI4anlfQzV4Y25VODA0MnZySVhxUXNfekowTGtmb1NLZGE3UWVuVnRDTG1MaVRRZw?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 18:36:25 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Search teams comb rubble in Colombia nearly a week after quake as aid effort expands - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdmFCcTRUc0wyU1ZCcHgwdlBfZ2xxWllTcThuVUpTZDBjV25YT2xLWHg1ZHJrSjlUOG1laWI1Z005QUdrNkcteWF5NGtLaXlxMHd0QXFvdG9aMi1kUDBEdExxWTkxV3otRWpOWGNPQXl2eTloc2tlZTdIZ19DOGJhSllRUm9QMEQxTnEtT05PME42c2RGLXVJQVJpZE9iaWxGa3ZQT3ZZYU1DSHlYNk16RzlQTDNHcC1UQTFTbndZTWc0X0JOVHQ1UWpsNU1yQQ?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 18:19:09 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US considers new sanctions on Brazilian judge, FT reports - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOVozRlpuTURmbFhZTEprd083bUZ6X1d4aFpNSUZFNVlxc1RnQ3J5dHpfaTZvbEhldGZtQWQ5RkxHbWpianVFZGJJUjRPOWpiOW4ta1lodHdhY0FEUThZbm9LRWp6WllKb3BTQ2FodVRLN05FLXVxeWwzSWpsRFFib2RnY0xrVXhVNlBCeVF3MzNfMy1yZ3ZEYkx6RkQyeHFlWG1URXlhMA?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 17:43:15 GMT",
           "source": "Reuters"
         },
         {
@@ -192,34 +216,10 @@
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeEl6U1RsX2F2XzJtaFd2cHMyWDhqMzhBdnI1QTJnTnNmV3BST19jNlRHTTNOejFuVTdlRTNzOGdFTG1MRTF1VE1hSnR2eGZOQnhoQWIzOG1DcWxpbkZXTkhSbDQwMmV1OGh5ay0tclhVcnBUUVh4cG1jZk1VeDV6eTgxdjdxMnFnelY1cEZSQVNTOE9nVE1HR2FSM1NvSzE2aVVPYWhzVmlSNlF4OGNBWEEtd0NYWXpBZm9weFl5U1RuaWhCelE?oc=5",
           "pubDate": "Sun, 16 Aug 2026 17:08:52 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Arsenal humble Man City to win Community Shield - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbDR1anJWcnJPUU5oN2tGX1VyS1lURnlPei12NldTTm84ck5STlRiNF9iRHFOMDFzQmxRUkRubE85Um9vdkF5MUtZQzhsT2UxeHRjUEZ2c3ducENDR1ktMFhTZVU2V0laNjJUTHlpZVVHSUxyeV9Jb1lLd29nelZ2WG1XalZ0RzREX3EyM0toZmRZQ0dxZnB2RXRDRDY?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 17:02:35 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "In Spain's Ceuta, hundreds of migrants stage protest and demand asylum - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUjduYzlVZEN3NjI2YktjT0dyU3g2cVVudlhDLV95RERScG5tZ0RHb01Sdy0tTDZnMHQxdXRTa2c5dm5DY1dmTnN5WVJnVGQzemhsYjQwem9XVDNyQ1V0cHN4S2J2NzRkREd1ZWwtRWZ4RU90SDRZckpYaXo0ZEotTkx0eHI4anlfQzV4Y25VODA0MnZySVhxUXNfekowTGtmb1NLZGE3UWVuVnRDTG1MaVRRZw?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 16:44:13 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Iranian parliament advances bill to curb foreign influence - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOS1l5UHpVYkM5cWxRVlYyTGVJWkVlWXJaWkxrNXZYaEhOSG9nYU9sdWVwSm4xeGkxV1U2ZXJrVlR2WlhFbjBZTWxYeE5sOWFWaWVLUC1CQ0NoV0VsVFJnU2Q3T2g4UFRUSUk1WWZDZGp1SVMzZ2xzdHJSRXRMWDctVXlBekt4ODhIeGJjOUFvLUtrb2NZclVBejZtbkg2djNWeG15QjEwNTE1eEZ6YlA5ZXNJdlljdDlRS2U3WklxZURuZ2VOSmJrRFF3cEw3QQ?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 16:43:44 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Belgium's biggest wildfire on record heads towards Germany - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ0o2UU1KNjEzdFpEUmI3WlhvRllVYlZibG5ySnR3U2VaZWxYdjFYSV9fTzJTdFQxTVdtdVZIYW1HSktyZmdJTlliSGVMaVoyTlhxLUduWlNkTUZFYU5RY3dZN0h4Z1pqNVMyU2R0M1QzMEdWeUJzMEhfYTZidTlmdW5kbmcyaGgzbTQ0amNZWW5GRkFSRHp2TjZabWR1LThOUzdNNWZuSzV6VENHRU1Naw?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 16:28:28 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T19:46:54.384Z"
+      "updatedAt": "2026-08-16T20:29:08.368Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T19:46:54.490Z"
+      "updatedAt": "2026-08-16T20:29:08.539Z"
     }
   ]
 }
