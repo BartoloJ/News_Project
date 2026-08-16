@@ -1,9 +1,15 @@
 {
-  "generatedAt": "2026-08-15T23:47:32.390Z",
+  "generatedAt": "2026-08-16T01:42:40.703Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
+          "link": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 16 Aug 2026 00:11:03 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
           "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
@@ -45,16 +51,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 15 Aug 2026 19:41:57 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Multiple suspects at large after five shot at Virginia State University, police say",
-          "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 15 Aug 2026 19:34:22 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T23:47:31.055Z"
+      "updatedAt": "2026-08-16T01:42:39.295Z"
     },
     {
       "name": "NPR",
@@ -109,27 +109,33 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T23:47:31.289Z"
+      "updatedAt": "2026-08-16T01:42:39.720Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Teen boy among 6 dead including suspect in Michigan shootings; girl survived - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPc1BseTdlN0tNamJob25sYURUaVRsdjVnamVPM3RqZ2ZiMEhTQmcyZzZnNkE0cUZKckszb3E0cU53WEhrTXU5N3N4ZDRjSEVPS1NrTlU3RGlzWXRGNktVX1VIQ2RPQWRxS2pVQ1VibU1VZUJZdXJIcHQ5TmtSZ3hVdHQxLVZjV0ZMQUE?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 22:13:00 GMT",
+          "title": "Indiana authorities say at least 5 people have died as severe weather crosses the state - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRHBMaDlITnhZaG5xYXhPTUxhUlhIMnFHYTVKZXhZQWcwSmswLVo0aWx5dHI1T3l0bXg5eDZzSzhyUEhyNDMyWkFHVEhRQ19WcVJMM3prWWFLRjFEQ1ZjS1dqZk03M01zSmVtNGFRODZzTmsyVHpmTTQtV2dwMGRTclVUc1FBTkM5T2cyeVR1OEVPN0V6eHc?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 00:41:00 GMT",
           "source": "AP News"
         },
         {
           "title": "Lala strengthens into a hurricane and bears down on Hawaii’s Big Island with heavy rain, winds - AP News",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTEs4Si04Q3pSUDJJcUZ2dlk0QVdvREI0UnlFRTkwT1U3eFFyRjF3YVMyVHF1NWRfdDlaNTZ1SkdLR2FMMG1EcEhYdDNVM2pVLVROSHZLc0FvclZYTmEtWWNocHZCLUFUeTBOb3JkUnVyMVNfRFNoTUVickZuVzVRZU5iNm82ODJwbHNMSXBIV3BUX3ZucUQ1YUx5RDE?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 21:54:00 GMT",
+          "pubDate": "Sat, 15 Aug 2026 23:49:00 GMT",
           "source": "AP News"
         },
         {
           "title": "MLB | Latest News, Stats, and Scores - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 21:39:36 GMT",
+          "pubDate": "Sat, 15 Aug 2026 22:25:42 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Teen boy among 6 dead including suspect in Michigan shootings; girl survived - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPc1BseTdlN0tNamJob25sYURUaVRsdjVnamVPM3RqZ2ZiMEhTQmcyZzZnNkE0cUZKckszb3E0cU53WEhrTXU5N3N4ZDRjSEVPS1NrTlU3RGlzWXRGNktVX1VIQ2RPQWRxS2pVQ1VibU1VZUJZdXJIcHQ5TmtSZ3hVdHQxLVZjV0ZMQUE?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 22:13:00 GMT",
           "source": "AP News"
         },
         {
@@ -139,15 +145,9 @@
           "source": "AP News"
         },
         {
-          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 20:39:31 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Democrats disagree over abolishing or reforming ICE at DNC meeting - AP News",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYkJWWkxxWUQ3dDVxeGNmanhVeTB2LWk2N3NqWHFrdGJyOFJoNzI1NDlwaUFTWlJFVVhqYlF6eTBsRXFCV1NFQXVsRXJCUDFYM3o3UkxCZG5jbVVTdFJIZW5Sd0E0UWg0TVRSUE1zUzk1MC1uUmJoQmI5OWN0eXJRMEotVGFzaVQwY2l2cWctdXdJSDVnOGxhYUhRbndrQ0RhM1V3Vg?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 19:19:35 GMT",
+          "pubDate": "Sat, 15 Aug 2026 18:49:00 GMT",
           "source": "AP News"
         },
         {
@@ -164,21 +164,21 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T23:47:31.732Z"
+      "updatedAt": "2026-08-16T01:42:40.165Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Hopes fade in Colombia as more bodies recovered days after powerful quake - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTVVtWHRQWDU1UXU5RHBDM2hOaG1YcVdpMHIyTGtFbnJtQi13c09KUnFlUlRzaDZLSldMZF91NnhFTmhjTERDaXduYktlSTZ0V0h2N2R0M0VoSzBfNjdGcmJCUkhLX01aRkUyRDA5dFZVZWkxazhMT3dNTUs2T1JLX3dCY25KdVlJRjFQTThiV0JNR2VXVEZ5VFh3cGloSnI0SlpEZXVFWXFtblRaXy1CZ18tanp0akpGNGRLQXZ4a09DUQ?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 22:47:22 GMT",
+          "title": "Lala storm grows into hurricane as it nears Hawaii's Big Island​ - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOVphU1pueVRWM1VzVGpzSmQ4MGN4aEliMDZvUG5tQWNlSC1xYWxSbDRZaG0zQ3BsclpscUk5MWxNcG5peVh0S2pmYU5URmE2RkJaQ0xEVXJGemVaYTQ5YUJsTmtzbUxRdTREbXF0dEU2R0VoSUREWHcxQU42TFBrNFJoUm5STTZ5RjU3R2NMUXZmZ3pUcllsVUUxbXVyTlREalRBR2tENGx4SlpSNGJRZl9R?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 22:59:53 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Lala storm grows into hurricane as it nears Hawaii's Big Island​ - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOVphU1pueVRWM1VzVGpzSmQ4MGN4aEliMDZvUG5tQWNlSC1xYWxSbDRZaG0zQ3BsclpscUk5MWxNcG5peVh0S2pmYU5URmE2RkJaQ0xEVXJGemVaYTQ5YUJsTmtzbUxRdTREbXF0dEU2R0VoSUREWHcxQU42TFBrNFJoUm5STTZ5RjU3R2NMUXZmZ3pUcllsVUUxbXVyTlREalRBR2tENGx4SlpSNGJRZl9R?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 21:09:53 GMT",
+          "title": "Hopes fade in Colombia as more bodies recovered days after powerful quake - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTVVtWHRQWDU1UXU5RHBDM2hOaG1YcVdpMHIyTGtFbnJtQi13c09KUnFlUlRzaDZLSldMZF91NnhFTmhjTERDaXduYktlSTZ0V0h2N2R0M0VoSzBfNjdGcmJCUkhLX01aRkUyRDA5dFZVZWkxazhMT3dNTUs2T1JLX3dCY25KdVlJRjFQTThiV0JNR2VXVEZ5VFh3cGloSnI0SlpEZXVFWXFtblRaXy1CZ18tanp0akpGNGRLQXZ4a09DUQ?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 22:47:22 GMT",
           "source": "Reuters"
         },
         {
@@ -219,7 +219,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T23:47:32.164Z"
+      "updatedAt": "2026-08-16T01:42:40.621Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T23:47:32.390Z"
+      "updatedAt": "2026-08-16T01:42:40.703Z"
     }
   ]
 }
