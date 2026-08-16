@@ -1,9 +1,27 @@
 {
-  "generatedAt": "2026-08-16T14:52:45.125Z",
+  "generatedAt": "2026-08-16T15:26:48.338Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Belgian wildfire doubles in size on third day tearing through nature reserve",
+          "link": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 16 Aug 2026 15:25:38 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Teenager arrested in Virginia State University shooting that injured five",
+          "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 16 Aug 2026 15:22:50 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
+          "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 16 Aug 2026 15:14:01 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
           "link": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&at_campaign=rss",
@@ -33,34 +51,16 @@
           "link": "https://www.bbc.co.uk/news/articles/cn5nnlq2pwpo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 16 Aug 2026 11:35:25 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Twelve killed as Polish bus veers off Hungarian motorway",
-          "link": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 16 Aug 2026 10:53:50 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Five killed as Russia launches fresh aerial attacks across Ukraine",
-          "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 16 Aug 2026 10:52:08 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
-          "link": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 16 Aug 2026 09:27:58 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T14:52:43.748Z"
+      "updatedAt": "2026-08-16T15:26:46.725Z"
     },
     {
       "name": "NPR",
       "items": [
         {
-          "title": "As Trump blocks Medicaid funds, one trans teen's mom asks: What's next?",
+          "title": "'What are we going to do?' The mom of a trans teen grapples with Trump's Medicaid move",
           "link": "https://www.npr.org/2026/08/16/nx-s1-5932491/transgender-health-care-medicaid-trump-oz",
           "pubDate": "Sun, 16 Aug 2026 07:54:19 -0400",
           "source": "NPR"
@@ -78,12 +78,6 @@
           "source": "NPR"
         },
         {
-          "title": "Doctors and women who've had it call for more attention on postpartum psychosis",
-          "link": "https://www.npr.org/2026/08/16/nx-s1-5931964/lindsay-clancy-trial-postpartum-psychosis-diagnosis",
-          "pubDate": "Sun, 16 Aug 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
           "title": "Billions of sea stars have died. A Northwest tribe is trying to save the species",
           "link": "https://www.npr.org/2026/08/16/nx-s1-5928398/endangered-sea-stars-release-pacific-ocean",
           "pubDate": "Sun, 16 Aug 2026 05:00:00 -0400",
@@ -92,6 +86,12 @@
         {
           "title": "65 and older? Have a story to tell? Hit 'record' and send NPR your podcast",
           "link": "https://www.npr.org/2026/08/16/nx-s1-5911853/npr-senior-podcast-challenge-for-65-and-older",
+          "pubDate": "Sun, 16 Aug 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Lindsay Clancy's trial highlights gaps in understanding, treating postpartum psychosis",
+          "link": "https://www.npr.org/2026/08/16/nx-s1-5931964/lindsay-clancy-trial-postpartum-psychosis-diagnosis",
           "pubDate": "Sun, 16 Aug 2026 05:00:00 -0400",
           "source": "NPR"
         },
@@ -109,62 +109,62 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T14:52:43.925Z"
+      "updatedAt": "2026-08-16T15:26:47.084Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Lala is again a tropical storm, sending drenching rain and winds across the Hawaiian islands - apnews.com",
+          "title": "Rescuers in Indonesia recover 6 more bodies in earthquake aftermath, raising death toll to 53 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOekM5VXhLY1NEVEZnWUFWdzdpd3VnekF5UUkzdzQxSDFLWnJpbHlzN2ZQU2hwTDRVcWthLTJMWmNWUjVQdXRyejZwNllFMm1TNHFSZ05DQjBVQXc3Z01Tc3BiX29TVHVwNlhfakI5eHl5UTZmUm82VGtaR3o2eF9UODl3RHZQTHFwQ2RxdjJqLTJoaHVJSUFSdTBQV3VIdw?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 14:48:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "1 killed, 4 injured in shooting at park in Kentucky - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbW42T3BnU1RkMVFMZ1FhUTZITnNZZW02bGFRcXZpYWlNOXJRMG04bDZ0Y2k1N0FJR3U3cE8zdllFdV9CTzViZXROSmFnN1pCWFdzNEgyU0o2b2xZOTFhY0pDdHB5UTFmRUl2WW9ZY3MzVXlmd1lqcnUwQ3ZUYkJIT1dIR0dxMzVoRjk5Vkt2TUYyWWdVZXJF?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 14:34:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Israel's Ben Gvir advocates killing '30 to 40' people in Gaza nightly while speaking to ex-hostage - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcHhHV3lUMDZGRG9mdnFzME11M2syblB5NThWeTZtdGV4aW5XQXZUMU9jVnp6MkxQaWQzdXNxTjE4YV93MGt6alotNTdjNHlpSVJYWlVUVFBuWGUxdGI2bHFtYjJKZUUyaHlyY29tQTJOUGg4S3FJdlBHX1A5bHhKSmROWl9oZW5rN01WU3pSam5YZHVmelVoaXZvcFM?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 14:17:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Lala is again a tropical storm, sending drenching rain and winds across the Hawaiian islands - AP News",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaHJWdmptUWhHamR5OFQ2ckI0Qlk5YjRIcnBNa1dCdzNBaktSdnNtdHhLNHFZNlE3VHZWa1JMWVpMTWN2dkhuemhVT1VRSGxLNXRYZ2M3aHB2cnpvZW5nS2FqMHBsTXpHVGNqYWl5SXRfblFETEFTT3ExeTVYNEtBNlhrYnkzSi1tU3FKcGRSRmh5OHZvUFJ2LU9wZTJyUQ?oc=5",
           "pubDate": "Sun, 16 Aug 2026 12:56:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Firefighters battle a massive Belgian wildfire that forced hundreds to evacuate - apnews.com",
+          "title": "Firefighters battle a massive Belgian wildfire that forced hundreds to evacuate - AP News",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYktmWUtyRG1meHR2M1NtVDdScldwOVk4enpGWC1RUUJKUG5lUlNmekFhZGhpeElsaWgyUEQ3VnlTdldXX1A1enJHUXluZDRseHFfMG1VU0l3RHQ3LWhGS1dlTGx3aS1ORFhjYXEwTXRSVTZUYTlreFdkV2kxQ0tjQ1JONENqelJvSFp6NQ?oc=5",
           "pubDate": "Sun, 16 Aug 2026 12:29:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia - apnews.com",
+          "title": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia - AP News",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSW9mTFNZNmhNT3Rucy1OdzIyUzZxYlZVMk1oY2liVkNobXMtYXJPTUI2MFZfYWt3QkJwTVhaNnlEbzY2M0I4NWZtVFRyLVpwX3JQdUZXOVlkZVZXNThuQmRXMjFsOFN2QWRnX3ZCNk1DRlUyQWZIdUNrM0IwWGFRdHhIWHQ?oc=5",
           "pubDate": "Sun, 16 Aug 2026 12:21:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Rescuers dig through rubble and landslides after Indonesia quake kills 53 - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOekM5VXhLY1NEVEZnWUFWdzdpd3VnekF5UUkzdzQxSDFLWnJpbHlzN2ZQU2hwTDRVcWthLTJMWmNWUjVQdXRyejZwNllFMm1TNHFSZ05DQjBVQXc3Z01Tc3BiX29TVHVwNlhfakI5eHl5UTZmUm82VGtaR3o2eF9UODl3RHZQTHFwQ2RxdjJqLTJoaHVJSUFSdTBQV3VIdw?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 11:41:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Ben Franklin chose America. Son William chose the crown. This civil war is a microcosm of revolution - apnews.com",
+          "title": "Ben Franklin chose America. Son William chose the crown. This civil war is a microcosm of revolution - AP News",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUnRkMVE4QTdrNDFwZFlDYXFwbS1URVl4RE9KQVowVVlyZ3RodHU0YkZjRVZ1OEF0WFFFMGZIMWQwZWpqVTJVM3FWZ1hLc2lOSE9jQy1mbC10cktfZmhxNFNfVVhLY0FkU0p0eGp6dzNxNk9QNE9GQXVaU0d1emRuc2tlUkVvclk5ZnFSYXByT005UWdrVnNiZlNTcVNaN1VLcHRn?oc=5",
           "pubDate": "Sun, 16 Aug 2026 11:38:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Thieves steal 4 Renaissance artworks in Sicilian museum heist on Italian holiday - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdnlrWmxPWkVSVUdZaG9JZXY1UTVpbDFIWUI2NEF4SG1pbnBVaVhQaXRxUjhIOVN5Sk5Pd0VJck1sbTZwLTFsbVpIMDNqVjQ3S2ZjV0t1S0dJU1hjcHpwc2J5dExUaC1zNXNqUG5uX0ZOQzZJZS1DVG1aOGJELVZ5RXktSm5ycXR5d2hDTEZUWEIwS3BXTVNTOUhRcW8?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 11:22:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Europe’s tallest statue of the Virgin Mary is inaugurated in a small Polish village - apnews.com",
+          "title": "Europe’s tallest statue of the Virgin Mary is inaugurated in a small Polish village - AP News",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVHQyZFRmT1E3R0JUZFdjczVSV0t2SlFZVUNBcXlLdTBWc3h6WVVISV8zUUJWby1FVkhpNk13UF9YM09lU2Roa0tYSnBjNzFUOHpSV3ZkZDlyaHhuV2JHSVprVnpGQjBpTkpXWnJBMnZnUDVSQi1hbzdKSFlkZVpiTUJUME96SXVtYXM1aVZ0cGtyeEZYTkZVak9tVVl3WDd5MmxIV1dpVWpldnJ1OTd3?oc=5",
           "pubDate": "Sun, 16 Aug 2026 09:12:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Indiana authorities say at least 5 people have died as severe weather crosses the state - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRHBMaDlITnhZaG5xYXhPTUxhUlhIMnFHYTVKZXhZQWcwSmswLVo0aWx5dHI1T3l0bXg5eDZzSzhyUEhyNDMyWkFHVEhRQ19WcVJMM3prWWFLRjFEQ1ZjS1dqZk03M01zSmVtNGFRODZzTmsyVHpmTTQtV2dwMGRTclVUc1FBTkM5T2cyeVR1OEVPN0V6eHc?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 08:08:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T14:52:44.373Z"
+      "updatedAt": "2026-08-16T15:26:47.664Z"
     },
     {
       "name": "Reuters",
@@ -173,6 +173,12 @@
           "title": "Iranian parliament advances bill to curb foreign influence - Reuters",
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOS1l5UHpVYkM5cWxRVlYyTGVJWkVlWXJaWkxrNXZYaEhOSG9nYU9sdWVwSm4xeGkxV1U2ZXJrVlR2WlhFbjBZTWxYeE5sOWFWaWVLUC1CQ0NoV0VsVFJnU2Q3T2g4UFRUSUk1WWZDZGp1SVMzZ2xzdHJSRXRMWDctVXlBekt4ODhIeGJjOUFvLUtrb2NZclVBejZtbkg2djNWeG15QjEwNTE1eEZ6YlA5ZXNJdlljdDlRS2U3WklxZURuZ2VOSmJrRFF3cEw3QQ?oc=5",
           "pubDate": "Sun, 16 Aug 2026 14:33:43 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Most Gulf bourses gain despite stalled Iran talks, Hormuz disruption - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYi10SGhJbU9xNklLZmFwR2ZoNkJtTW85b0hhbW05T3FMUzdiVDR1cXNqZ1l0VlBNeUVOb1RjZzhKWGtEWFd2WnpXbTQxS2tNczg1eGlWUlR4Uy1VNmVtNFpoTkdTZ1JiQTVYby1mU0NMZE1hV2Nid21nR2x0VjRjY3ZFNHRSZnlDRlJxZEVYMFFpZ0pOMGh1NG52RFpWTGsyZEd1VXVyczFkT1cwSkFZb0FTdV92dWt1R19V?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 13:17:44 GMT",
           "source": "Reuters"
         },
         {
@@ -188,6 +194,12 @@
           "source": "Reuters"
         },
         {
+          "title": "Billionaire Peter Thiel buys 1% stake in Argentine Vaca Muerta oil firm, filing shows - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYldvMHAyS2pRUlBfTWViR3BKVjl4WllDSGVlXzFlaXM5QkZGVlFSQWF2REhQR3J6bDhaWkNUWWtLLUN4c2FHTlZ2OW90UFd3N2gySHIyTnRuSm9HdGpvUmJFZUZxaWtUMjA1eE1GRk1WOWg3VWc1V1FKdmR4RE85SUk1UDRXUEVQUEJFVHRPZ2JRVWlqemJsdXduRGhEdy1tSF96QlhBZnpjclFEZ3E3X2JBdjl6T1NGTDNjMFRSbm55cU5ORl84THI0SS0?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 12:13:07 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Trump wants more economic pressure on Iran. What are his options? - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcF9Wa1NYT2dtVW52UTI3RWVFeS1MbVdwY0RvZC1kWDJYd1BEdlUzanc4Z09Gbmd6cG9NMHhWTVJxYVM1N0pqMHZCOUhHdHdRZUdBeWhzZVVhN3VBYnlOZjY5NmJmWE41UWVHeXljWUlkMFloZnh2VUxCajE0dlFTTjFOTk9ZRVVMSVJXd0thR05XbktGWlBPYmJ1S0U0bDdkQlZLWlBxb2VIUlZO?oc=5",
           "pubDate": "Sun, 16 Aug 2026 11:34:57 GMT",
@@ -200,26 +212,14 @@
           "source": "Reuters"
         },
         {
-          "title": "Suspected Russian drone shot down in Romanian airspace - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaEYyM3ZsTmtyUnloWUNXS0V4aUx6elJfWmp5UGlZRjJId3N2bkVSYzBZUHdpRXZudEc3aGJoemhNTGdoQUJ5al95MG9EMFA0OW1FVWlGRHBUeVdiRnBQZ1RsY1JZQ1FBQVAxNHNYRDN3REktaXpWOEFWM2RKQ09NNE4xYVpqc0czcE5jcXpLT0ZRLXM4UFFtSDlfREpxQnAwd3liT1IwaG50bmk1X2VRajRMb1FkbDhabTctR25CM0lBd3d2aHZ3?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 11:26:44 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "Ukrainian drones strike Moscow region, killing one - Reuters",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYUVQMGdnUEljNGo4eDhSbHFoSUtDZ2FVLU5hTHNmZXUwMFVDTTdneTR3S2owc1pSZjBtcHNtVkZKU25oLXlNbWxENHVhM2F1ZUtnUVVicEMzai1MMVgyZk5JLVJPRjRDUklLc21zcjJycVM5endpS2plUjRHS3FhMmFIa29MUlRjRzRpNDlTdnRLS0JuTUE?oc=5",
           "pubDate": "Sun, 16 Aug 2026 11:21:14 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Four Antonello da Messina works stolen in Renaissance painter's hometown - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNE5XWE93dVd5bUpMcEhWSjRsZ0lBc2dmWjl4WmJQNWFUQzZyZldlQ3BYRVl6YXgydllsSDBObTItem4xTlpwcFJrZGNRbEtNbmc5VEpWaEZZUnZkRTE4YXB3djFSWDJMc1NzQWhjMl9hRE00MXBkT0Z5bTEzaXI0YVBpZ1V5YVFDRmIteFpwd3lmZUtYYXhqYTF4SUdZUEtVZVJWalVfRnQ4bDhBNS1j?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 10:57:43 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T14:52:44.806Z"
+      "updatedAt": "2026-08-16T15:26:48.100Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T14:52:45.125Z"
+      "updatedAt": "2026-08-16T15:26:48.338Z"
     }
   ]
 }
