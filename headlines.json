@@ -1,9 +1,15 @@
 {
-  "generatedAt": "2026-08-16T10:52:43.216Z",
+  "generatedAt": "2026-08-16T11:25:20.753Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Twelve killed as Polish bus veers off Hungarian motorway",
+          "link": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 16 Aug 2026 10:53:50 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Five killed as Russia launches fresh aerial attacks across Ukraine",
           "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
@@ -29,12 +35,6 @@
           "source": "BBC News"
         },
         {
-          "title": "Twelve killed as Polish bus veers off Hungarian motorway",
-          "link": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 16 Aug 2026 07:04:17 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "BBC seeks to subpoena family members in Panorama lawsuit",
           "link": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 16 Aug 2026 00:11:03 GMT",
@@ -54,7 +54,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T10:52:41.868Z"
+      "updatedAt": "2026-08-16T11:25:19.614Z"
     },
     {
       "name": "NPR",
@@ -109,7 +109,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T10:52:42.125Z"
+      "updatedAt": "2026-08-16T11:25:19.841Z"
     },
     {
       "name": "AP News",
@@ -124,6 +124,12 @@
           "title": "MLB | Latest News, Stats, and Scores - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
           "pubDate": "Sun, 16 Aug 2026 10:40:09 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Corgis race, bark and sniff their way to glory at a growing international race - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONjVFSk1Pdmcxb29Gb1lYWTIzSU0xdzhLcjc3V3NSNzhYVzc3SXp1VFZ0OUQ0ZU1MRHIyTkp4OF93bV92SlRQRHg2ZE1abE1sSkJ1Y2E1UlFGa3dJaS1JRlJJYnFQUWtpTnE0T2kzdVNjZVI4akd5SXpkNEFxeHl1ZW1obGpHbElGTHR3QXJjRjh5RjBsX2NHQ0NaMXM5T0c4dUxGRnJwUHkxbVU?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 09:41:00 GMT",
           "source": "AP News"
         },
         {
@@ -155,16 +161,10 @@
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTEs4Si04Q3pSUDJJcUZ2dlk0QVdvREI0UnlFRTkwT1U3eFFyRjF3YVMyVHF1NWRfdDlaNTZ1SkdLR2FMMG1EcEhYdDNVM2pVLVROSHZLc0FvclZYTmEtWWNocHZCLUFUeTBOb3JkUnVyMVNfRFNoTUVickZuVzVRZU5iNm82ODJwbHNMSXBIV3BUX3ZucUQ1YUx5RDE?oc=5",
           "pubDate": "Sun, 16 Aug 2026 05:06:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "US pulls last aircraft carrier in Asia as Trump focuses on Iran and the Western Hemisphere - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS1ZVeVR3dkRTVHNDamZQUkxBc0FUS1RVQlh4WnJnM0hESmZYZUhMdkk1a3JaNE9IQUFMT2hGWU1CU1VkYkxCbUVpUGp0YzJNYmU2U05tZ2ViNE5hWVVnZUtyUW0zNjVLMk9IRDBVSzR0cTFlY0dsUDRGUXlEaWlFUFN5Qk5LTnJkQ0R5NDRpSUpiWmFoQVpKQ2VHaHJIY0o5SmN2OUE5Zm1ndw?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 03:18:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T10:52:42.541Z"
+      "updatedAt": "2026-08-16T11:25:20.295Z"
     },
     {
       "name": "Reuters",
@@ -176,27 +176,21 @@
           "source": "Reuters"
         },
         {
+          "title": "Ukrainian drones strike Moscow region, killing one - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYUVQMGdnUEljNGo4eDhSbHFoSUtDZ2FVLU5hTHNmZXUwMFVDTTdneTR3S2owc1pSZjBtcHNtVkZKU25oLXlNbWxENHVhM2F1ZUtnUVVicEMzai1MMVgyZk5JLVJPRjRDUklLc21zcjJycVM5endpS2plUjRHS3FhMmFIa29MUlRjRzRpNDlTdnRLS0JuTUE?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 10:12:54 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "German companies cut US investment to three-year low, data show - Reuters",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQTk3Q1V1UFUwM0ZRa1BjcTh6SjBuZzJfZjZ5NS1sdjlQZVl3MndHSzQzeVhWdjlTQzRDM2x2QlFHYnBldzNLR2l1dTlqOW1vaWkzYVhGTGs0bVVKT1FVOXJOWFNmajdSMUtteXA5am1BaUZvYjZqSVBJR3dUSS1oYmQ5TUtUdjdxWXhmal9LN0tKdmVCbG5ITmV6NWZWWGptRGxaM3AwcU1lQ0JxZlF1dWhn?oc=5",
           "pubDate": "Sun, 16 Aug 2026 09:41:47 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Suspected Russian drone shot down in Romanian airspace - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaEYyM3ZsTmtyUnloWUNXS0V4aUx6elJfWmp5UGlZRjJId3N2bkVSYzBZUHdpRXZudEc3aGJoemhNTGdoQUJ5al95MG9EMFA0OW1FVWlGRHBUeVdiRnBQZ1RsY1JZQ1FBQVAxNHNYRDN3REktaXpWOEFWM2RKQ09NNE4xYVpqc0czcE5jcXpLT0ZRLXM4UFFtSDlfREpxQnAwd3liT1IwaG50bmk1X2VRajRMb1FkbDhabTctR25CM0lBd3d2aHZ3?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 08:47:47 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "Iran disputes Qatar, Kuwait accounts of captured Iranian personnel - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRUtLNEdDbkQxTWtlR1o5NHFQWkg3NkI2ZzBzeWZ5bWJsX2k0Ymh1UTEzRlpjTkFYRjQ5R3gtN084LWVoNGFZeXpIaTgwYTl6WnlNSGY0bnpyS1NablA1Y3dWSHJUTThrYzVzUmpVUW9IbGk1X095eDVISEEzaG45Y3N6bS1Db3gzc3RKN012TGVJR2w2aW1oTjhudE0waDRfX0wyajcwdGNCQ1JObzh3U2Z1TWNBdzR3RU9lRVQ0ekRHWHNQb2k0?oc=5",
           "pubDate": "Sun, 16 Aug 2026 08:27:55 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Ukrainian drones strike Moscow region, killing one - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYUVQMGdnUEljNGo4eDhSbHFoSUtDZ2FVLU5hTHNmZXUwMFVDTTdneTR3S2owc1pSZjBtcHNtVkZKU25oLXlNbWxENHVhM2F1ZUtnUVVicEMzai1MMVgyZk5JLVJPRjRDUklLc21zcjJycVM5endpS2plUjRHS3FhMmFIa29MUlRjRzRpNDlTdnRLS0JuTUE?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 08:13:40 GMT",
           "source": "Reuters"
         },
         {
@@ -216,10 +210,16 @@
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZ2puckZxdHQ1aDQ2YmsxMXpuTHd6M0ZkMVhzOFNjXzJ3aTEzeHN6OEMyMkRCWTU2Y21MUUR2YlFjUlJmSG1Eb0JiOF9sVkdxY1dLMTBUY2xiUnNQdXlCRkFSeFNsdUJ0REd4NGxINnRZMDhyZWoxMzRMWlNTSWExd0xGT1pLWWJUcDQ5WEJPYVlBdDQ2aE0wazZRMzlrdw?oc=5",
           "pubDate": "Sun, 16 Aug 2026 06:07:00 GMT",
           "source": "Reuters"
+        },
+        {
+          "title": "Brilliant Bangladesh claim first test win in Australia as Green ton in vain - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPU29RSnVOazF4aTB3SUw0aGJMTGZiOGYtVHZCMGhkZFBBOHFNQWxoVmJPbDZSMVFnNnM2SnJFWDFpYkRkSmFHNUxaSUk2V21KMk4wb0I0a28wM0VXWU5JSi16NnMtTVI4c1Z2TUl3Y1dsU0tHQkxSeVNWOGdjaG92dE1ONUlqbTdXUXdPcUd5Z2Z5S2tFMjF2SzNzRDQtLXNOVTU0RmY4eEpJLTVrc1BmRGpTSXpLOEVLNU1F?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 05:09:00 GMT",
+          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T10:52:42.927Z"
+      "updatedAt": "2026-08-16T11:25:20.692Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T10:52:43.216Z"
+      "updatedAt": "2026-08-16T11:25:20.753Z"
     }
   ]
 }
