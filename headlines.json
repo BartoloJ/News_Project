@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-08-16T17:47:39.375Z",
+  "generatedAt": "2026-08-16T18:36:00.607Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "Two dead and hundreds evacuated as twin fires break out on Greek island",
-          "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 16 Aug 2026 17:44:23 GMT",
+          "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
+          "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 16 Aug 2026 18:04:25 GMT",
           "source": "BBC News"
         },
         {
-          "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
-          "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 16 Aug 2026 15:50:12 GMT",
+          "title": "Two dead and hundreds evacuated as twin fires break out on Greek island",
+          "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 16 Aug 2026 17:44:23 GMT",
           "source": "BBC News"
         },
         {
@@ -54,7 +54,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T17:47:38.386Z"
+      "updatedAt": "2026-08-16T18:35:59.365Z"
     },
     {
       "name": "NPR",
@@ -109,11 +109,47 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T17:47:38.427Z"
+      "updatedAt": "2026-08-16T18:35:59.577Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Brazil's Lula and Flávio Bolsonaro return to their strongholds to kick off presidential campaigns - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTlBoRmhQRUp0V2J5aFNhVEhOSW9FY3pKQkVKdko0UE5vRjN6WjE4VUU3MEdGSTU0UTZ1RVB6Uy02QjJ5eVN4bkx2bHo1UUZscGtWT21EQWhUb2lzWHlrTUctZU9OME5KMF9UMHh5cF9KaFYtZko2QV9GLVc1N0FaLUlsX1czTTNzbk5iOGxFaUpmTnByaEVlUy05UTlTbldORWIxVGhn?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 18:21:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Kushner has a rare meeting with Hamas' leader on the Gaza road map. A meeting with Netanyahu is next - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQb2RjS19lVHRWUHJtbzIwY1FEWmxkWG5wVGVMeDV4LUE2UC1NN0liejZ2S3NfY01RN1ZKaEVnSnFQeUNHaUc2b29qT19Ldk1xUExBQmFXSWs1TG56ZGNtVzJ3cGpPNVRWWklkc2QtQ3VkaDZzTlIzTll1VGxSMUpzM21VejFWcFk0QXg0VkZYRTBCQmRYSVFUcWNEY0t0RDFwWkFFZmtsSTRVVjZUa3RrdkxRWDRfLXVNWnc?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 18:07:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Associated Press News: Breaking News | Latest News Today - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 18:05:25 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Box Office: ‘Spider-Man’ stays on top while two dino movies battle for third - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSTU4dGtOX3FaM0VaTE96TkRNOHdsZFJoT21Oa0tkaEVjSDFTbzdGb2xsUnhzSTVHTWpUNDdnMkJoM2ZYc1I2TWNBaDFVaU0yNEk2ZVprRGJHUGFoRmlBZmdNbTBORUNUTnR2QnZZWWh6cFFvQkpHRndId29PdnpIR1UtRGpmSFpUVUJ2Z2ZVZkp5VzBxN3dj?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 17:55:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Colombian president asks Trump to suspend tariffs to help earthquake recovery - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTm1zdlZyTHZySEVSY0pZekJPX3paX29LME5xNjlwZ01Dam1mNE9FaG90RFYyNFhGUXJkUTRUSGxiQmt2ODBOSkpIZjFjR3drUW1uS1pBR3kyTFprbVg2b1pVcHZ6TmFzcTRqd3ZuUklncTRHRjJvS0NQdXNyOWt0eHZUVm9Yd3hBLVR5OU83X1dkWEhxbHd5RHlNaFNJbERjSlFqSDVtMjU1N3hPdjRZ?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 16:57:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Avocado pickers in Mexico welcome restart of exports to US, but security fears remain - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTW9xS0xIUkYzczYwdHJSTnBnTGZIQXdZdXhweDJzT2RfZURPUTNieFZ3VlIzX0JxSzc1UWNQU1lfVlh5QXZfQzk4YVE2MlRzcXdhb3M0b3JmTjV0OW1Jc2xMOWdqaVhtck1iZkUxY1VQNnhVQ19sU2dXbmVVVWZpRXdWTjB3amxLd0c4OUxodkkyemlmVEhjdXpSVDBmOExkQk5yODdTbFg1Zw?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 16:52:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "At least 6 people have died from days of storms and record-setting flooding in Indiana - AP News",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQ2kwWjVwQkgtUEowdElQck1LekNsOEhfWXVJWUo1Szg3UFVudkV6U1RWYlRZM1lXdzloWFFBdmFpUkJ2RlQ5NnAwUmJZbkNkYTFJUEVjWWNIWmwxdDZaOVFKOWxTZ0dYLVJ6QXNmbUNOMzR2R0ltX1JSOHdhSFVmcFlGYncyWDhCeFJ0Rk96d1V3dktZTHc?oc=5",
@@ -125,101 +161,65 @@
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObm9mQzFsemRmYlJDeU0zRTNHRHo5Yk1QdnRWZmItSmotRGlma2dIcUxLckl3SzBpdWFmUXVhYjV6Y216dEZwdHVGX095YThwZmFUZld1cFVscXR3aGxYNmtwMnlDRlZXb0RROG1PZ0ZxbjBmbURESEZtU3lSd0xLOURoVlZpUzBfNERnbXZUZFJheEdKblBKZw?oc=5",
           "pubDate": "Sun, 16 Aug 2026 16:17:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Police arrest man on suspicion of fraud after security incident at European athletics championships - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSUtYVC1JejRIS0tHVEVoWnZVeTgyc3c1d1dXVHRUbmE3d0xLZGJrc1pWeHQ2dHVrLWs0US1mMmJMRlRyN001cFJ1VmJhdTllbzVWaHJQeWM4NlBzT1ctTTF3dzl2T0tQOTdtWll5YWpYbXVuZUluRXlsRW1LV1Fndk5ZVGdERks0aXV4TTJ4N0hTSkw1NWQwVDhldThjcHlUQmdWWnd6SGxYcmFBRUdkbTBCMA?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 15:57:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Firefighters battle massive wildfires in Belgium and Greece as 2 die on an island near Athens - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYktmWUtyRG1meHR2M1NtVDdScldwOVk4enpGWC1RUUJKUG5lUlNmekFhZGhpeElsaWgyUEQ3VnlTdldXX1A1enJHUXluZDRseHFfMG1VU0l3RHQ3LWhGS1dlTGx3aS1ORFhjYXEwTXRSVTZUYTlreFdkV2kxQ0tjQ1JONENqelJvSFp6NQ?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 15:44:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "BBC asks a US court for help in getting testimony from the Trump family in defamation suit - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOC1kd19wN1hwS2Z0YWlGNzZTMzVSNzZXNE1NZmtHM0RZNVRkVVYtQzJadEIwWmZFWVNkTHhqbDFvb2hTS3BaZTVEWU5UVi1aYlhYVlpnTXdMTmxuWDgyN0FmY08yVElKWmxQdml0NGJfUWwyNlJ1Y2x0QUJySk8ya09rYnlxdXBkYTIyaXJnUS1ldDJVUFNZUXpnU1E5TU0?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 15:26:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Taliban mark 5 years since return to power in Afghanistan, in photos - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRThzN3JQcjRtd1RzczhiRGIybzdXYzVjbWlNRUdqSXlsZGR1MW96bWEyTk00WWlZd2FyQ0Z4eWV0TEtVVTRhd0ZrVE9sWldtNkpKeTUxMmV3aGl5enktOGRkSjczTmYzbnVLSHdGY0FWY2ZYZjNNVU5sQ2h1bnFNX25mR3RGa1lNcUhRN2Y1ekdMMGctNjBEQWZ6VW1xc1R6Nk5aVVRFNA?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 15:19:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Rescuers in Indonesia recover 6 more bodies in earthquake aftermath, raising death toll to 53 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOekM5VXhLY1NEVEZnWUFWdzdpd3VnekF5UUkzdzQxSDFLWnJpbHlzN2ZQU2hwTDRVcWthLTJMWmNWUjVQdXRyejZwNllFMm1TNHFSZ05DQjBVQXc3Z01Tc3BiX29TVHVwNlhfakI5eHl5UTZmUm82VGtaR3o2eF9UODl3RHZQTHFwQ2RxdjJqLTJoaHVJSUFSdTBQV3VIdw?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 14:48:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Top US commander visits aircraft carrier, Gaza talks in Egypt and other Mideast news - AP News",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWnFRcW9HbzBnVEVnSk92am10b0F0NGx4RTJlcjRTY28xQVdwWWxkdGd5eXNMdmxWeEFRQ3BFZEN6bUF1WDVCQkUtTjlrTGdtenNWclIteG9CRTVZdzVNaUJ4Z2FPVE0zaTBEX0RIdlRWMG1ieHRYcWt0dXpWYllGTjRnT2cxVDZwS0FCNEFEZnpJa0c1VXpaTGw0eFJxc251RUVvUmJPVmltWWlJbHBaLUJwd1I?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 14:25:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T17:47:38.878Z"
+      "updatedAt": "2026-08-16T18:36:00.082Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Trump's envoys meet mediators, Israel strikes Gaza - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQWlULVBMUTk3T05wRS0tNnBRUWFReXlURUhCaTNIZVlRaUtVOHczUm5CTi1YRWlveXN6cC1hWDBKOTJqbUpna3JYZUhzLTVrTnU0bXFWd3JncVNCeUc3NTNING9KeHFSNWpUWWhCNFBGUm1aQzBna3c1OFNtclBMZEY1VERJS0x1elM2ZEVwXzZVeTRzelkyM3ZoWTNGeGRGZkE?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 17:20:13 GMT",
+          "title": "Elderly couple die as wildfires sweep Greek island of Salamina - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMzNiYlNyRktPbF9KUmUwSzVTSzhUdXlqbFRDX3VUUWZyMHJOaE5yYkpLcDNudjZjMjZPdGFITUJHS2o2cldYRHhMdWtyX3pVSDFKR3F1UmJZTWoyS2NXeUpIT2Y1eUk1UndXRXlQTjhmcnZ1SXRYRkhEQ2dBaENTVG41RWhfbmIydHN1WVB2ZW45Q1FMLXpuREVTMXVVeXA0MHRFQg?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 17:39:57 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Brazil's Lula launches reelection bid, aims to win back workers to his Workers Party - Reuters",
+          "title": "Trump's envoys meet mediators, Israel strikes Gaza - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQWlULVBMUTk3T05wRS0tNnBRUWFReXlURUhCaTNIZVlRaUtVOHczUm5CTi1YRWlveXN6cC1hWDBKOTJqbUpna3JYZUhzLTVrTnU0bXFWd3JncVNCeUc3NTNING9KeHFSNWpUWWhCNFBGUm1aQzBna3c1OFNtclBMZEY1VERJS0x1elM2ZEVwXzZVeTRzelkyM3ZoWTNGeGRGZkE?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 17:27:30 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Brilliant Bangladesh claim first test win in Australia as Green ton in vain - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPU29RSnVOazF4aTB3SUw0aGJMTGZiOGYtVHZCMGhkZFBBOHFNQWxoVmJPbDZSMVFnNnM2SnJFWDFpYkRkSmFHNUxaSUk2V21KMk4wb0I0a28wM0VXWU5JSi16NnMtTVI4c1Z2TUl3Y1dsU0tHQkxSeVNWOGdjaG92dE1ONUlqbTdXUXdPcUd5Z2Z5S2tFMjF2SzNzRDQtLXNOVTU0RmY4eEpJLTVrc1BmRGpTSXpLOEVLNU1F?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 17:18:38 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Brazil's Lula launches reelection bid, aims to win back workers to his Workers Party - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeEl6U1RsX2F2XzJtaFd2cHMyWDhqMzhBdnI1QTJnTnNmV3BST19jNlRHTTNOejFuVTdlRTNzOGdFTG1MRTF1VE1hSnR2eGZOQnhoQWIzOG1DcWxpbkZXTkhSbDQwMmV1OGh5ay0tclhVcnBUUVh4cG1jZk1VeDV6eTgxdjdxMnFnelY1cEZSQVNTOE9nVE1HR2FSM1NvSzE2aVVPYWhzVmlSNlF4OGNBWEEtd0NYWXpBZm9weFl5U1RuaWhCelE?oc=5",
           "pubDate": "Sun, 16 Aug 2026 17:08:52 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Arsenal humble Man City to win Community Shield - Reuters",
+          "title": "Arsenal humble Man City to win Community Shield - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbDR1anJWcnJPUU5oN2tGX1VyS1lURnlPei12NldTTm84ck5STlRiNF9iRHFOMDFzQmxRUkRubE85Um9vdkF5MUtZQzhsT2UxeHRjUEZ2c3ducENDR1ktMFhTZVU2V0laNjJUTHlpZVVHSUxyeV9Jb1lLd29nelZ2WG1XalZ0RzREX3EyM0toZmRZQ0dxZnB2RXRDRDY?oc=5",
           "pubDate": "Sun, 16 Aug 2026 17:02:35 GMT",
           "source": "Reuters"
         },
         {
-          "title": "In Spain's Ceuta, hundreds of migrants stage protest and demand asylum - Reuters",
+          "title": "In Spain's Ceuta, hundreds of migrants stage protest and demand asylum - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUjduYzlVZEN3NjI2YktjT0dyU3g2cVVudlhDLV95RERScG5tZ0RHb01Sdy0tTDZnMHQxdXRTa2c5dm5DY1dmTnN5WVJnVGQzemhsYjQwem9XVDNyQ1V0cHN4S2J2NzRkREd1ZWwtRWZ4RU90SDRZckpYaXo0ZEotTkx0eHI4anlfQzV4Y25VODA0MnZySVhxUXNfekowTGtmb1NLZGE3UWVuVnRDTG1MaVRRZw?oc=5",
           "pubDate": "Sun, 16 Aug 2026 16:44:13 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Belgium's biggest wildfire on record heads towards Germany - Reuters",
+          "title": "Iranian parliament advances bill to curb foreign influence - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOS1l5UHpVYkM5cWxRVlYyTGVJWkVlWXJaWkxrNXZYaEhOSG9nYU9sdWVwSm4xeGkxV1U2ZXJrVlR2WlhFbjBZTWxYeE5sOWFWaWVLUC1CQ0NoV0VsVFJnU2Q3T2g4UFRUSUk1WWZDZGp1SVMzZ2xzdHJSRXRMWDctVXlBekt4ODhIeGJjOUFvLUtrb2NZclVBejZtbkg2djNWeG15QjEwNTE1eEZ6YlA5ZXNJdlljdDlRS2U3WklxZURuZ2VOSmJrRFF3cEw3QQ?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 16:43:44 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Belgium's biggest wildfire on record heads towards Germany - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ0o2UU1KNjEzdFpEUmI3WlhvRllVYlZibG5ySnR3U2VaZWxYdjFYSV9fTzJTdFQxTVdtdVZIYW1HSktyZmdJTlliSGVMaVoyTlhxLUduWlNkTUZFYU5RY3dZN0h4Z1pqNVMyU2R0M1QzMEdWeUJzMEhfYTZidTlmdW5kbmcyaGgzbTQ0amNZWW5GRkFSRHp2TjZabWR1LThOUzdNNWZuSzV6VENHRU1Naw?oc=5",
           "pubDate": "Sun, 16 Aug 2026 16:28:28 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Four Antonello da Messina works stolen in Renaissance painter's hometown - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNE5XWE93dVd5bUpMcEhWSjRsZ0lBc2dmWjl4WmJQNWFUQzZyZldlQ3BYRVl6YXgydllsSDBObTItem4xTlpwcFJrZGNRbEtNbmc5VEpWaEZZUnZkRTE4YXB3djFSWDJMc1NzQWhjMl9hRE00MXBkT0Z5bTEzaXI0YVBpZ1V5YVFDRmIteFpwd3lmZUtYYXhqYTF4SUdZUEtVZVJWalVfRnQ4bDhBNS1j?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 15:56:49 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Two die as wildfires sweep Greek island of Salamina - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMzNiYlNyRktPbF9KUmUwSzVTSzhUdXlqbFRDX3VUUWZyMHJOaE5yYkpLcDNudjZjMjZPdGFITUJHS2o2cldYRHhMdWtyX3pVSDFKR3F1UmJZTWoyS2NXeUpIT2Y1eUk1UndXRXlQTjhmcnZ1SXRYRkhEQ2dBaENTVG41RWhfbmIydHN1WVB2ZW45Q1FMLXpuREVTMXVVeXA0MHRFQg?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 15:24:39 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Iranian parliament advances bill to curb foreign influence - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOS1l5UHpVYkM5cWxRVlYyTGVJWkVlWXJaWkxrNXZYaEhOSG9nYU9sdWVwSm4xeGkxV1U2ZXJrVlR2WlhFbjBZTWxYeE5sOWFWaWVLUC1CQ0NoV0VsVFJnU2Q3T2g4UFRUSUk1WWZDZGp1SVMzZ2xzdHJSRXRMWDctVXlBekt4ODhIeGJjOUFvLUtrb2NZclVBejZtbkg2djNWeG15QjEwNTE1eEZ6YlA5ZXNJdlljdDlRS2U3WklxZURuZ2VOSmJrRFF3cEw3QQ?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 14:33:43 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T17:47:39.323Z"
+      "updatedAt": "2026-08-16T18:36:00.515Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T17:47:39.375Z"
+      "updatedAt": "2026-08-16T18:36:00.607Z"
     }
   ]
 }
