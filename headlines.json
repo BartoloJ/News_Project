@@ -1,9 +1,15 @@
 {
-  "generatedAt": "2026-08-16T04:09:07.186Z",
+  "generatedAt": "2026-08-16T05:02:05.666Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Rescuers search for survivors of powerful Indonesia earthquake",
+          "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 16 Aug 2026 04:13:32 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
           "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
@@ -14,12 +20,6 @@
           "title": "BBC seeks to subpoena family members in Panorama lawsuit",
           "link": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 16 Aug 2026 00:11:03 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Rescuers search for survivors of powerful Indonesia earthquake",
-          "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 15 Aug 2026 21:49:12 GMT",
           "source": "BBC News"
         },
         {
@@ -54,7 +54,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T04:09:05.769Z"
+      "updatedAt": "2026-08-16T05:02:04.494Z"
     },
     {
       "name": "NPR",
@@ -109,15 +109,39 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T04:09:05.992Z"
+      "updatedAt": "2026-08-16T05:02:04.677Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "Hurricane Lala skirts Hawaii's Big Island without making landfall as heavy wind, rain lash region - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTEs4Si04Q3pSUDJJcUZ2dlk0QVdvREI0UnlFRTkwT1U3eFFyRjF3YVMyVHF1NWRfdDlaNTZ1SkdLR2FMMG1EcEhYdDNVM2pVLVROSHZLc0FvclZYTmEtWWNocHZCLUFUeTBOb3JkUnVyMVNfRFNoTUVickZuVzVRZU5iNm82ODJwbHNMSXBIV3BUX3ZucUQ1YUx5RDE?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 04:22:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Miami to decide fate of stunning stadium where speedboats raced and Jimmy Buffett played - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNTRsekJWLTFOa2xZUjA1Wks4Z2sxdFRBTjE5aDNNMmo1ZmpXSW45NTZlU1diYjloZlpzQ05hcUJ4WnVVYkg4TFJybUlqLUNnbXBTSmQ5Ny14LXNPeWFudklReTFPOWZVdE9fT0xueUloV2xCRWRteVNLTFZUTGxqdm03Q01vRk90Y0c5czdmR3ZjSkZHa3RibHFFQ2RaNmhlZTBQOQ?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 04:05:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Mackenzie Dern wins 115-pound title defense at UFC 330; Makhachev goes for record win streak - AP News",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5fU1FHWWxIM2NRN21pNGtWQmo3X1J4bEZBYXVsYkEtNmo2MFR5d2xOYm5acUxOV1ZZczVxS0JPTkwwWGM2cHlvSGFLUkhzNUtQZy1zQnhkU3BiMWs0dzV4UTl1SnBmU0xUenlVOWR3YzhLR3dmSnpYTHFQRQ?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 03:42:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "US pulls last aircraft carrier in Asia as Trump focuses on Iran and the Western Hemisphere - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS1ZVeVR3dkRTVHNDamZQUkxBc0FUS1RVQlh4WnJnM0hESmZYZUhMdkk1a3JaNE9IQUFMT2hGWU1CU1VkYkxCbUVpUGp0YzJNYmU2U05tZ2ViNE5hWVVnZUtyUW0zNjVLMk9IRDBVSzR0cTFlY0dsUDRGUXlEaWlFUFN5Qk5LTnJkQ0R5NDRpSUpiWmFoQVpKQ2VHaHJIY0o5SmN2OUE5Zm1ndw?oc=5",
           "pubDate": "Sun, 16 Aug 2026 03:18:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 02:01:31 GMT",
           "source": "AP News"
         },
         {
@@ -133,42 +157,36 @@
           "source": "AP News"
         },
         {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 01:37:24 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Indiana authorities say at least 5 people have died as severe weather crosses the state - AP News",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRHBMaDlITnhZaG5xYXhPTUxhUlhIMnFHYTVKZXhZQWcwSmswLVo0aWx5dHI1T3l0bXg5eDZzSzhyUEhyNDMyWkFHVEhRQ19WcVJMM3prWWFLRjFEQ1ZjS1dqZk03M01zSmVtNGFRODZzTmsyVHpmTTQtV2dwMGRTclVUc1FBTkM5T2cyeVR1OEVPN0V6eHc?oc=5",
           "pubDate": "Sun, 16 Aug 2026 00:41:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Novak Djokovic ousted from Cincinnati Open in his first match since Wimbledon - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUVZVMmZJcmhyXzFYanVTWXhvZUxtcGZUOFZSTTY1RkR4UGl3X1pGNExzdDVHY0FhbmJ3d3lFeTY0NmN0WWZ1R29DM05LZElFYXFfVUlGa3BubFhtLTFRQTNPcDJ2b29FYU0wd2stXzlicHVqOWFNaUVpYk1MYlRfbEFuOFNGVjB2djhMNFJZd29mYU54cjY3QVJZQQ?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 00:27:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Lala strengthens into a hurricane and bears down on Hawaii’s Big Island with heavy rain, winds - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTEs4Si04Q3pSUDJJcUZ2dlk0QVdvREI0UnlFRTkwT1U3eFFyRjF3YVMyVHF1NWRfdDlaNTZ1SkdLR2FMMG1EcEhYdDNVM2pVLVROSHZLc0FvclZYTmEtWWNocHZCLUFUeTBOb3JkUnVyMVNfRFNoTUVickZuVzVRZU5iNm82ODJwbHNMSXBIV3BUX3ZucUQ1YUx5RDE?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 23:49:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Michael Phelps returns poolside with his sons as 8-year-old Beckett eyes swimming - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcU5ub2hRWkhubnJsU1NEbk51eEdCY01fNlFTR1V5UzNrVDVQOV9tcGJLMVFFWXJ5Z0FHZzJzNDBEd3FzTThpMzZSQlZaVzk0bDFrMjVEUzRCcmpLMGxDWEt1WkppYWFjLWthRFpiMlRQRTRrZ2RBTVZXWXlwSDA4VnVqWnRDNnhKYjdVcV9OSFBqMFU?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 22:55:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T04:09:06.464Z"
+      "updatedAt": "2026-08-16T05:02:05.119Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "North Korea's Kim, Russia's Putin reaffirm ties on Korean Liberation Day - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNN2p1U3RrcWFybldKeEVnT0l6SjJKWlpCUGlNVXlCd0RseFdVR2g2VVc4emNtTGdfU1Jub1kxQTZpaVZRN3duQUhVYldjaUhVLWhJS2RqcnR5akVlUDF1TlFERHlGUTVvMWxzQWNkQzNDY05vdjBxLThaSmlTX2dzdlVpdkJ6dUlnOVRPZUxOM29Oc0MtWmVHQzE2NzNNdUlnalFDcXhvRURNRFliUWd1RUwzRkw?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 02:09:38 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Billionaire Peter Thiel buys 1% stake in Argentine Vaca Muerta oil firm, filing shows - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYldvMHAyS2pRUlBfTWViR3BKVjl4WllDSGVlXzFlaXM5QkZGVlFSQWF2REhQR3J6bDhaWkNUWWtLLUN4c2FHTlZ2OW90UFd3N2gySHIyTnRuSm9HdGpvUmJFZUZxaWtUMjA1eE1GRk1WOWg3VWc1V1FKdmR4RE85SUk1UDRXUEVQUEJFVHRPZ2JRVWlqemJsdXduRGhEdy1tSF96QlhBZnpjclFEZ3E3X2JBdjl6T1NGTDNjMFRSbm55cU5ORl84THI0SS0?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 01:35:43 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Six dead in Indiana after storms and floods, emergency officials say​​ - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOHhlVGlwSlk2MHRKV1Nxc284MUd1b19BdEFBVVltSUxEX0p0dUtmUW9tTGpvNEhQWmFKdlZrYjkwd1pQU2RvaHl6RFRRQ0gzbXpLWFoxemRIUHpJeXhUYi1SU1pEVWZWVENlLVRiMHlPeV9YdzZwMjkyLVlxN1I1MmU3SWdreUQ0a3JrM3MyOFJWbjdPV29DbVlYb00xZEJleEppY092ZnFRNUJJb2p5bW1FcEI3Si1v?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 22:35:19 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Hurricane Lala leaves thousands without power in Hawaii amid 'life-threatening' conditions - Reuters",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOVphU1pueVRWM1VzVGpzSmQ4MGN4aEliMDZvUG5tQWNlSC1xYWxSbDRZaG0zQ3BsclpscUk5MWxNcG5peVh0S2pmYU5URmE2RkJaQ0xEVXJGemVaYTQ5YUJsTmtzbUxRdTREbXF0dEU2R0VoSUREWHcxQU42TFBrNFJoUm5STTZ5RjU3R2NMUXZmZ3pUcllsVUUxbXVyTlREalRBR2tENGx4SlpSNGJRZl9R?oc=5",
@@ -198,28 +216,10 @@
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbU82UzByeVFKQzJGdkhlQ0Y0YjkxQk1mZlVYdVMyV3d4TVhLRXJXa19JcU51TUJnZEFoaFpiUkkxT2tuY3hkVUY2Q2xYeU5Bd3ZHVlZlM3dCU09jMXoxR0Ntb0xTZThlREdtS0VMRXFZa3IzdDJEWnhyRE11U3VMbVFkUUs4UXVRQ1hPTU1laDZ4UUhqTmhuc282dXBZN2ExX0pyajFhRnJ0Y2p2MDJTNkhWS2pyWXAw?oc=5",
           "pubDate": "Sat, 15 Aug 2026 19:28:45 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Lebanon says Israeli strikes in south of the country kill at least 11​​​ - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVXM0UF9hbGcwOHNUVUZ1Zms5RDF1UWhGVWVyRHRSbm5zdXpSSmxoMGhsLWNhUE90YkVCU2tESnBPTUFURDFFTkpzUFhRRElKdkJNQmpZV0RhOEhLS0FhSVFNUkd0dDhON0dicVl4OTc0X2RzN1gxVlJMbzJqMlNpRTl0QlVtdWp4eHQ3ZklZRXZsU205NG1Bdl9jXzhTa0xDcExkLUVQY0tUcXBpOWlHMk5n?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 18:33:50 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "UK's Burnham urges reflection on death of academic Arday - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMGRVd2o3N0NVMl9rek5FaXJmMGVxN0pTcWFyc3lScVRpTE5DQ0hYYmNLaDB3MUY3UHNTcFBlN0ZfbUwyalNMVHFvSWN5eE4tOHVNTHVfWm9jTm03Y3gyUGVpVVpVczRKV3dPdVFob2x3MHE4LUEwSHZFMk11N0lRaTg1ZGxGdUNDZ1IyMFUtWmFITDhIaHNZeDNldTVvZ0tDWWc3VzlxV0dvOW5f?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 18:32:19 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Yemen's Mocha port halts operations after Houthi attacks, port director says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPV2FPbFJIdUZSc2djcmg5V0I3VE9WY0pQaWRRdGxaM21PRXloRHluMFhBVk04SjlMVmxKdmFxblFJMFRQME5QTGFBODdSbC05LWtkNm9UM3M1Vl9kTkpTY3ppaFloSXAyV0hUU3lseUR3Rl94TlZsVDhmS0VJWE9Damc4dGRla1pRUHdENG02ZExWcnh4ZDIzbC1uUmN0cFljUDN6MGd0QlVoSVcyajZXNExMMzY4SHd6QmNoQWZDYm5udTEweGpR?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 17:30:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T04:09:06.858Z"
+      "updatedAt": "2026-08-16T05:02:05.555Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T04:09:07.186Z"
+      "updatedAt": "2026-08-16T05:02:05.666Z"
     }
   ]
 }
