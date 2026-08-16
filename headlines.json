@@ -1,25 +1,31 @@
 {
-  "generatedAt": "2026-08-16T08:35:47.542Z",
+  "generatedAt": "2026-08-16T09:32:31.440Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
-          "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 16 Aug 2026 08:23:38 GMT",
+          "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
+          "link": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 16 Aug 2026 09:27:58 GMT",
           "source": "BBC News"
         },
         {
-          "title": "Three killed as Russia launches fresh aerial attacks across Ukraine",
+          "title": "Five killed as Russia launches fresh aerial attacks across Ukraine",
           "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 16 Aug 2026 08:14:56 GMT",
+          "pubDate": "Sun, 16 Aug 2026 09:04:14 GMT",
           "source": "BBC News"
         },
         {
           "title": "Hurricane Lala lashes Hawaii with strong winds and torrential rain",
           "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 16 Aug 2026 07:58:02 GMT",
+          "pubDate": "Sun, 16 Aug 2026 08:49:32 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
+          "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 16 Aug 2026 08:23:38 GMT",
           "source": "BBC News"
         },
         {
@@ -41,12 +47,6 @@
           "source": "BBC News"
         },
         {
-          "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
-          "link": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 15 Aug 2026 21:03:57 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
           "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 15 Aug 2026 20:58:31 GMT",
@@ -54,11 +54,35 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T08:35:46.305Z"
+      "updatedAt": "2026-08-16T09:32:30.232Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "NPR Senior Podcast Challenge: Official Rules",
+          "link": "https://www.npr.org/2026/08/16/nx-s1-5929441/npr-senior-podcast-challenge-official-rules",
+          "pubDate": "Sun, 16 Aug 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "65 and older? Have a story to tell? Hit 'record' and send NPR your podcast",
+          "link": "https://www.npr.org/2026/08/16/nx-s1-5911853/npr-senior-podcast-challenge-for-65-and-older",
+          "pubDate": "Sun, 16 Aug 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Billions of sea stars have died. A Northwest tribe is trying to save the species",
+          "link": "https://www.npr.org/2026/08/16/nx-s1-5928398/endangered-sea-stars-release-pacific-ocean",
+          "pubDate": "Sun, 16 Aug 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Doctors and women who've had it call for more attention on postpartum psychosis",
+          "link": "https://www.npr.org/2026/08/16/nx-s1-5931964/lindsay-clancy-trial-postpartum-psychosis-diagnosis",
+          "pubDate": "Sun, 16 Aug 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Are robotaxis finally here?",
           "link": "https://www.npr.org/2026/08/15/nx-s1-5918065/are-robotaxis-finally-here",
@@ -82,60 +106,42 @@
           "link": "https://www.npr.org/2026/08/15/nx-s1-5932539/uss-lincoln-trump-dire-conditions",
           "pubDate": "Sat, 15 Aug 2026 14:21:32 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Trump administration wants to allow companies to hack foreign cybercriminals",
-          "link": "https://www.npr.org/2026/08/15/nx-s1-5930311/trump-companies-hack-foreign-cybercriminals",
-          "pubDate": "Sat, 15 Aug 2026 13:25:34 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Jason Arday, Cambridge professor accused of plagiarism, is found dead",
-          "link": "https://www.npr.org/2026/08/15/nx-s1-5932488/jason-arday-dead",
-          "pubDate": "Sat, 15 Aug 2026 13:04:43 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "ICE detained a Venezuelan soccer pro. His case shows the immigration backlog crisis",
-          "link": "https://www.npr.org/2026/08/15/nx-s1-5928322/ice-detained-a-venezuelan-soccer-pro-his-case-shows-the-immigration-backlog-crisis",
-          "pubDate": "Sat, 15 Aug 2026 06:10:00 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "5 exercises that can prevent (and relieve!) pregnancy pain",
-          "link": "https://www.npr.org/2026/08/15/nx-s1-5930423/strength-exercises-to-relieve-prevent-pregnancy-pain",
-          "pubDate": "Sat, 15 Aug 2026 05:04:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T08:35:46.542Z"
+      "updatedAt": "2026-08-16T09:32:30.413Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 07:58:18 GMT",
+          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 09:09:26 GMT",
           "source": "AP News"
         },
         {
-          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 07:39:12 GMT",
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 08:39:32 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Rescuers dig through rubble and landslides after Indonesia quake kills 51 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOekM5VXhLY1NEVEZnWUFWdzdpd3VnekF5UUkzdzQxSDFLWnJpbHlzN2ZQU2hwTDRVcWthLTJMWmNWUjVQdXRyejZwNllFMm1TNHFSZ05DQjBVQXc3Z01Tc3BiX29TVHVwNlhfakI5eHl5UTZmUm82VGtaR3o2eF9UODl3RHZQTHFwQ2RxdjJqLTJoaHVJSUFSdTBQV3VIdw?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 08:02:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia - AP News",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSW9mTFNZNmhNT3Rucy1OdzIyUzZxYlZVMk1oY2liVkNobXMtYXJPTUI2MFZfYWt3QkJwTVhaNnlEbzY2M0I4NWZtVFRyLVpwX3JQdUZXOVlkZVZXNThuQmRXMjFsOFN2QWRnX3ZCNk1DRlUyQWZIdUNrM0IwWGFRdHhIWHQ?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 08:01:00 GMT",
           "source": "AP News"
         },
         {
           "title": "Avocado pickers in Mexico welcome restart of exports to US, but security fears remain - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTW9xS0xIUkYzczYwdHJSTnBnTGZIQXdZdXhweDJzT2RfZURPUTNieFZ3VlIzX0JxSzc1UWNQU1lfVlh5QXZfQzk4YVE2MlRzcXdhb3M0b3JmTjV0OW1Jc2xMOWdqaVhtck1iZkUxY1VQNnhVQ19sU2dXbmVVVWZpRXdWTjB3amxLd0c4OUxodkkyemlmVEhjdXpSVDBmOExkQk5yODdTbFg1Zw?oc=5",
           "pubDate": "Sun, 16 Aug 2026 06:13:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Make it 17 straight! Makhachev sets UFC record for consecutive wins in welterweight title defense - AP News",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5fU1FHWWxIM2NRN21pNGtWQmo3X1J4bEZBYXVsYkEtNmo2MFR5d2xOYm5acUxOV1ZZczVxS0JPTkwwWGM2cHlvSGFLUkhzNUtQZy1zQnhkU3BiMWs0dzV4UTl1SnBmU0xUenlVOWR3YzhLR3dmSnpYTHFQRQ?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 05:28:00 GMT",
           "source": "AP News"
         },
         {
@@ -151,12 +157,6 @@
           "source": "AP News"
         },
         {
-          "title": "Rescuers dig through rubble and landslides after Indonesia quake kills 47 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOekM5VXhLY1NEVEZnWUFWdzdpd3VnekF5UUkzdzQxSDFLWnJpbHlzN2ZQU2hwTDRVcWthLTJMWmNWUjVQdXRyejZwNllFMm1TNHFSZ05DQjBVQXc3Z01Tc3BiX29TVHVwNlhfakI5eHl5UTZmUm82VGtaR3o2eF9UODl3RHZQTHFwQ2RxdjJqLTJoaHVJSUFSdTBQV3VIdw?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 02:48:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Police have arrested a 19-year-old in connection with Virginia State University shooting - AP News",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMUl1eTVsMHVkaVpUS0Y3SXVicEl6T09oUkNrNE91cWtqUi1qeXVKLVlRdEZyUE1uY0lQcmowckFWbjMzTVpreHYtMWVNbkRORXNuQ3FGdXViT3NZMjRCQWVYRFk3ekZyeWQzQnYyUW4yLVVBS0lMNkRsWXV0ZUxMNjdWMTVhNENtZVBvLW4wbEhVZ1c2WFBKM2FFay1xYjQ1Y2d6VnBKY0dtNWphUU5B?oc=5",
           "pubDate": "Sun, 16 Aug 2026 01:57:00 GMT",
@@ -164,7 +164,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T08:35:46.930Z"
+      "updatedAt": "2026-08-16T09:32:30.889Z"
     },
     {
       "name": "Reuters",
@@ -172,13 +172,19 @@
         {
           "title": "Twelve killed and at least 10 injured in Polish bus crash in Hungary - Reuters",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZ2puckZxdHQ1aDQ2YmsxMXpuTHd6M0ZkMVhzOFNjXzJ3aTEzeHN6OEMyMkRCWTU2Y21MUUR2YlFjUlJmSG1Eb0JiOF9sVkdxY1dLMTBUY2xiUnNQdXlCRkFSeFNsdUJ0REd4NGxINnRZMDhyZWoxMzRMWlNTSWExd0xGT1pLWWJUcDQ5WEJPYVlBdDQ2aE0wazZRMzlrdw?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 06:59:44 GMT",
+          "pubDate": "Sun, 16 Aug 2026 08:45:51 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Russia attacks Kyiv overnight, injuring three, Ukraine officials say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRDQ2bnhPSnIySk54TjdqYmlQeVd3eEkxSU00ckF6OHZjUkI1S3ZUQm9VRUFvakFsajBqcjFVWlE5cTZsNjFNdUozMGlxQ0tvWTQ2Unl2SjF4UlJpMVlHSFdxOV9xa3hXcWFqMFloSGNFNHVSTVM2UUItcDdhaUZ5dzRTa3Z0eEpPdV9PUVBhV3Z3WVhGZ1NQNjd5LVA5RWNOTjhXV3IxOGJEanUzM1BwcFNycFczNDdMWUEzYXhDQkk?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 06:36:54 GMT",
+          "title": "Ukrainian drones strike Moscow region, killing one - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYUVQMGdnUEljNGo4eDhSbHFoSUtDZ2FVLU5hTHNmZXUwMFVDTTdneTR3S2owc1pSZjBtcHNtVkZKU25oLXlNbWxENHVhM2F1ZUtnUVVicEMzai1MMVgyZk5JLVJPRjRDUklLc21zcjJycVM5endpS2plUjRHS3FhMmFIa29MUlRjRzRpNDlTdnRLS0JuTUE?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 08:13:40 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Two women killed in floods in Spain - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSUxBb3EyOW41YVFzUVIwei1TMV9SMmUzbHV1OXFLSE9hSlhCS1MzdjdSS0tJanE2bE5zMHdicFJSb2pMU21HMW00UjZxaVh1X0JEWFlkOEhKalhvY2ZwQXFMemVkZWxrZGVzUlZ4OFpfVzRva0kwbE9RQUd6QU9qV0FEdFlEM3RrdEdWMWFFYw?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 07:04:38 GMT",
           "source": "Reuters"
         },
         {
@@ -194,6 +200,12 @@
           "source": "Reuters"
         },
         {
+          "title": "Brilliant Bangladesh claim first test win in Australia as Green ton in vain - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPU29RSnVOazF4aTB3SUw0aGJMTGZiOGYtVHZCMGhkZFBBOHFNQWxoVmJPbDZSMVFnNnM2SnJFWDFpYkRkSmFHNUxaSUk2V21KMk4wb0I0a28wM0VXWU5JSi16NnMtTVI4c1Z2TUl3Y1dsU0tHQkxSeVNWOGdjaG92dE1ONUlqbTdXUXdPcUd5Z2Z5S2tFMjF2SzNzRDQtLXNOVTU0RmY4eEpJLTVrc1BmRGpTSXpLOEVLNU1F?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 05:09:00 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Romania shoots down drone breaching its airspace - defence ministry - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaEYyM3ZsTmtyUnloWUNXS0V4aUx6elJfWmp5UGlZRjJId3N2bkVSYzBZUHdpRXZudEc3aGJoemhNTGdoQUJ5al95MG9EMFA0OW1FVWlGRHBUeVdiRnBQZ1RsY1JZQ1FBQVAxNHNYRDN3REktaXpWOEFWM2RKQ09NNE4xYVpqc0czcE5jcXpLT0ZRLXM4UFFtSDlfREpxQnAwd3liT1IwaG50bmk1X2VRajRMb1FkbDhabTctR25CM0lBd3d2aHZ3?oc=5",
           "pubDate": "Sun, 16 Aug 2026 04:08:14 GMT",
@@ -204,22 +216,10 @@
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNTRvOURLLUdqSXQzZDQwSXJCNVU3WHNVOXRGVnNtV2Rhc1A5NEhTQkVSN0tRWTlfOEFoODhhMnVQQ1lReWZQZ2VlQU1Vd3k0bmE3SGdiNDYzaWhWd0stbDVKalpRZl95cS1VSG1IZi1YMFVDcXhsOVh6ZnNSNElVQy1pM2w3WUJYSzFvcGZFT0ZTMHA3SS1VdS1fS2hwaVhpX0dJRFlRQlNTdEo4NER0RGdkRjE5cHhIMUtlWHphNEptQ3lJUVRENjB2aXN6Mk0?oc=5",
           "pubDate": "Sun, 16 Aug 2026 04:00:43 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Thousands evacuate after Indonesia quake kills 51, cuts roads - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeEJFQktERVZJaDU5NFZfV0ZKZWpwc0FzYzR1SUJYeFF4Z1U5SVQxenBacVFDM1lNdGNRTnhXSVFBQTlFZVpEaGlsX1J0MzY1cHN5bllZQ0hMNVlvcnAtRlFmYWRKYzZORnZibTluNWJkVk5sdExHQWduODdCcEZ1OXVGSXd0ZHFmTS00OWhPeVpxQ2lpYWZheUZKWmZFZWM4N0RGeEhOSlM4WXliOWNfY0NWZ0JuRENL?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 03:33:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "North Korea's Kim, Russia's Putin reaffirm ties on Korean Liberation Day - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNN2p1U3RrcWFybldKeEVnT0l6SjJKWlpCUGlNVXlCd0RseFdVR2g2VVc4emNtTGdfU1Jub1kxQTZpaVZRN3duQUhVYldjaUhVLWhJS2RqcnR5akVlUDF1TlFERHlGUTVvMWxzQWNkQzNDY05vdjBxLThaSmlTX2dzdlVpdkJ6dUlnOVRPZUxOM29Oc0MtWmVHQzE2NzNNdUlnalFDcXhvRURNRFliUWd1RUwzRkw?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 02:09:38 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T08:35:47.282Z"
+      "updatedAt": "2026-08-16T09:32:31.356Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T08:35:47.542Z"
+      "updatedAt": "2026-08-16T09:32:31.440Z"
     }
   ]
 }
