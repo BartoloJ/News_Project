@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T05:55:27.172Z",
+  "generatedAt": "2026-08-16T06:50:21.098Z",
   "sources": [
     {
       "name": "BBC News",
@@ -54,7 +54,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T05:55:26.051Z"
+      "updatedAt": "2026-08-16T06:50:19.849Z"
     },
     {
       "name": "NPR",
@@ -109,66 +109,78 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T05:55:26.123Z"
+      "updatedAt": "2026-08-16T06:50:20.069Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Hurricane Lala skirts Hawaii's Big Island without making landfall as heavy wind, rain lash region - apnews.com",
+          "title": "Novak Djokovic ousted from Cincinnati Open in his first match since Wimbledon - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUVZVMmZJcmhyXzFYanVTWXhvZUxtcGZUOFZSTTY1RkR4UGl3X1pGNExzdDVHY0FhbmJ3d3lFeTY0NmN0WWZ1R29DM05LZElFYXFfVUlGa3BubFhtLTFRQTNPcDJ2b29FYU0wd2stXzlicHVqOWFNaUVpYk1MYlRfbEFuOFNGVjB2djhMNFJZd29mYU54cjY3QVJZQQ?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 06:24:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Athens is cleaning its all-marble Olympic stadium for the first time in more than a century - AP News",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSjIzUzBHdUx5UWtDRmRTSzkwbHpLeGNocFZJeUoxX1JWdFBVekJnQ3I1STduV0VwNVM4Q2NqWnZkTVNXbG1XZDEzTFYwSHM0bG91aXRwQ283OGV4NEJHVm1WdHZlY0tSZ2lldk1BSEg1OWlRM1ZQQlBZM3RzUHJjWklIMGhLZWdnU2FLeTBBU19KVGNOWnhxdDdUWFlfWjNaWkZBTXNQWTJmckk0U3pWMTFrczBlUQ?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 04:23:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Hurricane Lala skirts Hawaii's Big Island without making landfall as heavy wind, rain lash region - AP News",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTEs4Si04Q3pSUDJJcUZ2dlk0QVdvREI0UnlFRTkwT1U3eFFyRjF3YVMyVHF1NWRfdDlaNTZ1SkdLR2FMMG1EcEhYdDNVM2pVLVROSHZLc0FvclZYTmEtWWNocHZCLUFUeTBOb3JkUnVyMVNfRFNoTUVickZuVzVRZU5iNm82ODJwbHNMSXBIV3BUX3ZucUQ1YUx5RDE?oc=5",
           "pubDate": "Sun, 16 Aug 2026 04:22:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Miami to decide fate of stunning stadium where speedboats raced and Jimmy Buffett played - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNTRsekJWLTFOa2xZUjA1Wks4Z2sxdFRBTjE5aDNNMmo1ZmpXSW45NTZlU1diYjloZlpzQ05hcUJ4WnVVYkg4TFJybUlqLUNnbXBTSmQ5Ny14LXNPeWFudklReTFPOWZVdE9fT0xueUloV2xCRWRteVNLTFZUTGxqdm03Q01vRk90Y0c5czdmR3ZjSkZHa3RibHFFQ2RaNmhlZTBQOQ?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 04:05:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Mackenzie Dern wins 115-pound title defense at UFC 330; Makhachev goes for record win streak - apnews.com",
+          "title": "Mackenzie Dern wins 115-pound title defense at UFC 330; Makhachev goes for record win streak - AP News",
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5fU1FHWWxIM2NRN21pNGtWQmo3X1J4bEZBYXVsYkEtNmo2MFR5d2xOYm5acUxOV1ZZczVxS0JPTkwwWGM2cHlvSGFLUkhzNUtQZy1zQnhkU3BiMWs0dzV4UTl1SnBmU0xUenlVOWR3YzhLR3dmSnpYTHFQRQ?oc=5",
           "pubDate": "Sun, 16 Aug 2026 03:42:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "US pulls last aircraft carrier in Asia as Trump focuses on Iran and the Western Hemisphere - apnews.com",
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 03:36:32 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "US pulls last aircraft carrier in Asia as Trump focuses on Iran and the Western Hemisphere - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS1ZVeVR3dkRTVHNDamZQUkxBc0FUS1RVQlh4WnJnM0hESmZYZUhMdkk1a3JaNE9IQUFMT2hGWU1CU1VkYkxCbUVpUGp0YzJNYmU2U05tZ2ViNE5hWVVnZUtyUW0zNjVLMk9IRDBVSzR0cTFlY0dsUDRGUXlEaWlFUFN5Qk5LTnJkQ0R5NDRpSUpiWmFoQVpKQ2VHaHJIY0o5SmN2OUE5Zm1ndw?oc=5",
           "pubDate": "Sun, 16 Aug 2026 03:18:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "MLB | Latest News, Stats, and Scores - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 03:16:31 GMT",
+          "title": "Rescuers dig through rubble and landslides after Indonesia quake kills 47 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOekM5VXhLY1NEVEZnWUFWdzdpd3VnekF5UUkzdzQxSDFLWnJpbHlzN2ZQU2hwTDRVcWthLTJMWmNWUjVQdXRyejZwNllFMm1TNHFSZ05DQjBVQXc3Z01Tc3BiX29TVHVwNlhfakI5eHl5UTZmUm82VGtaR3o2eF9UODl3RHZQTHFwQ2RxdjJqLTJoaHVJSUFSdTBQV3VIdw?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 02:48:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Police have arrested a 19-year-old in connection with Virginia State University shooting - apnews.com",
+          "title": "Police have arrested a 19-year-old in connection with Virginia State University shooting - AP News",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMUl1eTVsMHVkaVpUS0Y3SXVicEl6T09oUkNrNE91cWtqUi1qeXVKLVlRdEZyUE1uY0lQcmowckFWbjMzTVpreHYtMWVNbkRORXNuQ3FGdXViT3NZMjRCQWVYRFk3ekZyeWQzQnYyUW4yLVVBS0lMNkRsWXV0ZUxMNjdWMTVhNENtZVBvLW4wbEhVZ1c2WFBKM2FFay1xYjQ1Y2d6VnBKY0dtNWphUU5B?oc=5",
           "pubDate": "Sun, 16 Aug 2026 01:57:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Adam Driver will play Mister Sinister and Inde Navarrette will go Rogue in Marvel’s 'X-Men' reboot - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNHV0MTBTX3M2eUNXZm1UV19VeU1SYWVaNEJZc0NaWUNsT2VfNlNOTnE2RkhCNS1NTFE5MGhXRGpXamMtWEVSZTRCSnlteVVFaUNvWHhqRnR5dUp5cWh1Uks4YWplTUo1Sm53N0FoR0lxa2FOb3RnTVFtXzVnNk5GNWF0bS1fVklVLWxhSzNjRGhMYW93elplTWRGZ3ZpZUhzMFg5Yw?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 01:43:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Indiana authorities say at least 5 people have died as severe weather crosses the state - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRHBMaDlITnhZaG5xYXhPTUxhUlhIMnFHYTVKZXhZQWcwSmswLVo0aWx5dHI1T3l0bXg5eDZzSzhyUEhyNDMyWkFHVEhRQ19WcVJMM3prWWFLRjFEQ1ZjS1dqZk03M01zSmVtNGFRODZzTmsyVHpmTTQtV2dwMGRTclVUc1FBTkM5T2cyeVR1OEVPN0V6eHc?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 00:41:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T05:55:26.550Z"
+      "updatedAt": "2026-08-16T06:50:20.571Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Twelve killed and at least 10 injured in Polish bus crash in Hungary - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZ2puckZxdHQ1aDQ2YmsxMXpuTHd6M0ZkMVhzOFNjXzJ3aTEzeHN6OEMyMkRCWTU2Y21MUUR2YlFjUlJmSG1Eb0JiOF9sVkdxY1dLMTBUY2xiUnNQdXlCRkFSeFNsdUJ0REd4NGxINnRZMDhyZWoxMzRMWlNTSWExd0xGT1pLWWJUcDQ5WEJPYVlBdDQ2aE0wazZRMzlrdw?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 06:07:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Europe's heatwaves expose insurance gap as business losses mount - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPV1I5Nno4ZTlfSzdpV1JwbVVMdDZtODFfaUl3SnJHZ1pGdW41M2hGVW9NUTd1ZWo2UW1iZkQ5cWVpcnQyY09GYnRFZ2l3QzBlN0NRWWZ1Skt4a1NzcnFUWlY0bi12OTZUNGdhblB0VFdrcDhOdWRuSm1EZlYzQUJ4YkQxdlpjeFNwTzZMWGZ4SmRtXzh2Vm9vWDRkMTdtSUR0ZlZCRjV2bnM?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 05:06:00 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Thousands evacuate after Indonesia quake kills 51, cuts roads - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeEJFQktERVZJaDU5NFZfV0ZKZWpwc0FzYzR1SUJYeFF4Z1U5SVQxenBacVFDM1lNdGNRTnhXSVFBQTlFZVpEaGlsX1J0MzY1cHN5bllZQ0hMNVlvcnAtRlFmYWRKYzZORnZibTluNWJkVk5sdExHQWduODdCcEZ1OXVGSXd0ZHFmTS00OWhPeVpxQ2lpYWZheUZKWmZFZWM4N0RGeEhOSlM4WXliOWNfY0NWZ0JuRENL?oc=5",
@@ -178,7 +190,7 @@
         {
           "title": "Romania shoots down drone breaching its airspace - defence ministry - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaEYyM3ZsTmtyUnloWUNXS0V4aUx6elJfWmp5UGlZRjJId3N2bkVSYzBZUHdpRXZudEc3aGJoemhNTGdoQUJ5al95MG9EMFA0OW1FVWlGRHBUeVdiRnBQZ1RsY1JZQ1FBQVAxNHNYRDN3REktaXpWOEFWM2RKQ09NNE4xYVpqc0czcE5jcXpLT0ZRLXM4UFFtSDlfREpxQnAwd3liT1IwaG50bmk1X2VRajRMb1FkbDhabTctR25CM0lBd3d2aHZ3?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 04:08:14 GMT",
+          "pubDate": "Sun, 16 Aug 2026 03:40:00 GMT",
           "source": "Reuters"
         },
         {
@@ -190,7 +202,13 @@
         {
           "title": "Billionaire Peter Thiel buys 1% stake in Argentine Vaca Muerta oil firm, filing shows - Reuters",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYldvMHAyS2pRUlBfTWViR3BKVjl4WllDSGVlXzFlaXM5QkZGVlFSQWF2REhQR3J6bDhaWkNUWWtLLUN4c2FHTlZ2OW90UFd3N2gySHIyTnRuSm9HdGpvUmJFZUZxaWtUMjA1eE1GRk1WOWg3VWc1V1FKdmR4RE85SUk1UDRXUEVQUEJFVHRPZ2JRVWlqemJsdXduRGhEdy1tSF96QlhBZnpjclFEZ3E3X2JBdjl6T1NGTDNjMFRSbm55cU5ORl84THI0SS0?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 01:34:00 GMT",
+          "pubDate": "Sun, 16 Aug 2026 01:35:43 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Russian missile attack on Kyiv sparks fires, injures one, Ukraine officials say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRDQ2bnhPSnIySk54TjdqYmlQeVd3eEkxSU00ckF6OHZjUkI1S3ZUQm9VRUFvakFsajBqcjFVWlE5cTZsNjFNdUozMGlxQ0tvWTQ2Unl2SjF4UlJpMVlHSFdxOV9xa3hXcWFqMFloSGNFNHVSTVM2UUItcDdhaUZ5dzRTa3Z0eEpPdV9PUVBhV3Z3WVhGZ1NQNjd5LVA5RWNOTjhXV3IxOGJEanUzM1BwcFNycFczNDdMWUEzYXhDQkk?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 01:33:00 GMT",
           "source": "Reuters"
         },
         {
@@ -198,28 +216,10 @@
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOHhlVGlwSlk2MHRKV1Nxc284MUd1b19BdEFBVVltSUxEX0p0dUtmUW9tTGpvNEhQWmFKdlZrYjkwd1pQU2RvaHl6RFRRQ0gzbXpLWFoxemRIUHpJeXhUYi1SU1pEVWZWVENlLVRiMHlPeV9YdzZwMjkyLVlxN1I1MmU3SWdreUQ0a3JrM3MyOFJWbjdPV29DbVlYb00xZEJleEppY092ZnFRNUJJb2p5bW1FcEI3Si1v?oc=5",
           "pubDate": "Sat, 15 Aug 2026 22:35:19 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Hurricane Lala leaves thousands without power in Hawaii amid 'life-threatening' conditions - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOVphU1pueVRWM1VzVGpzSmQ4MGN4aEliMDZvUG5tQWNlSC1xYWxSbDRZaG0zQ3BsclpscUk5MWxNcG5peVh0S2pmYU5URmE2RkJaQ0xEVXJGemVaYTQ5YUJsTmtzbUxRdTREbXF0dEU2R0VoSUREWHcxQU42TFBrNFJoUm5STTZ5RjU3R2NMUXZmZ3pUcllsVUUxbXVyTlREalRBR2tENGx4SlpSNGJRZl9R?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 21:08:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "EU sends aircraft, villages evacuated as Belgium fights record wildfire​​ - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUVlJUzBhcmdocU1lR3phY3JlcHpNb3hhWGdKcmJtSHA5MUhzN1ZXc2JpZll6OV9wWkJLNGhzWXRyVlVsdkJmU0ZlZTlpMTRNbWliSVJJdXA3MUtmUWFiV0ZSTEROa1VpT3FTWG04T21TWUkydjNyNEx0SWZwVGROUzhUaWxQNWQ4YnczQmNhUTdhQzBvX2UtT0dOY0lDLS1vMk1TMlNGZ2I?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 20:21:11 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Nvidia eyes investing $3 billion in SB Energy under OpenAI data center deal, Information says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ3pfaW5nWDJod3o1WmVuMnludzV4bUF3WllYcXJtV3phQndZbDc1NW5TQkFpODUtN25oLU9sVmhtU0VhNU9PMzhfUjNxWDVyenljaElYb3Y5R0VnN29HUTJGOGdUZnJqUUFOSUxDWlZwdThKcVNqSUhZT19HOWFsN284OFUzWHlLTmdCVXJhemFxUDd2dGhacjFidFlnXzZyTVY5Vk9ZRzcxSUpIelJtcXlRMDNoeFA3dHc4U2xQUDhDSUk?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 20:16:56 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T05:55:26.946Z"
+      "updatedAt": "2026-08-16T06:50:20.972Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T05:55:27.172Z"
+      "updatedAt": "2026-08-16T06:50:21.098Z"
     }
   ]
 }
