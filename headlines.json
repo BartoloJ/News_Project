@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T20:29:08.540Z",
+  "generatedAt": "2026-08-16T20:52:37.733Z",
   "sources": [
     {
       "name": "BBC News",
@@ -54,11 +54,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T20:29:07.186Z"
+      "updatedAt": "2026-08-16T20:52:36.673Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Multiple people dead as flooding continues in Indiana",
+          "link": "https://www.npr.org/2026/08/16/nx-s1-5934670/indiana-flooding-deaths",
+          "pubDate": "Sun, 16 Aug 2026 16:38:40 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Kushner meets with Hamas on the Gaza road map ahead of talks with Netanyahu",
           "link": "https://www.npr.org/2026/08/16/g-s1-138948/kushner-gaza-hamas-netanyahu-egypt-talks",
@@ -100,16 +106,10 @@
           "link": "https://www.npr.org/2026/08/16/nx-s1-5933006/ukraine-aerial-attack-6-dead-russia",
           "pubDate": "Sun, 16 Aug 2026 06:12:09 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "NPR Senior Podcast Challenge: Official Rules",
-          "link": "https://www.npr.org/2026/08/16/nx-s1-5929441/npr-senior-podcast-challenge-official-rules",
-          "pubDate": "Sun, 16 Aug 2026 05:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T20:29:07.434Z"
+      "updatedAt": "2026-08-16T20:52:36.829Z"
     },
     {
       "name": "AP News",
@@ -117,7 +117,7 @@
         {
           "title": "Firefighters battle massive wildfires in Belgium and Greece as 2 die on an island near Athens - AP News",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYktmWUtyRG1meHR2M1NtVDdScldwOVk4enpGWC1RUUJKUG5lUlNmekFhZGhpeElsaWgyUEQ3VnlTdldXX1A1enJHUXluZDRseHFfMG1VU0l3RHQ3LWhGS1dlTGx3aS1ORFhjYXEwTXRSVTZUYTlreFdkV2kxQ0tjQ1JONENqelJvSFp6NQ?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 18:57:00 GMT",
+          "pubDate": "Sun, 16 Aug 2026 19:17:00 GMT",
           "source": "AP News"
         },
         {
@@ -151,20 +151,20 @@
           "source": "AP News"
         },
         {
-          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 18:36:06 GMT",
+          "title": "1 killed, 4 injured in shooting at park in Kentucky - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbW42T3BnU1RkMVFMZ1FhUTZITnNZZW02bGFRcXZpYWlNOXJRMG04bDZ0Y2k1N0FJR3U3cE8zdllFdV9CTzViZXROSmFnN1pCWFdzNEgyU0o2b2xZOTFhY0pDdHB5UTFmRUl2WW9ZY3MzVXlmd1lqcnUwQ3ZUYkJIT1dIR0dxMzVoRjk5Vkt2TUYyWWdVZXJF?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 18:15:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Brazil's Lula and Flávio Bolsonaro return to their strongholds to kick off presidential campaigns - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTlBoRmhQRUp0V2J5aFNhVEhOSW9FY3pKQkVKdko0UE5vRjN6WjE4VUU3MEdGSTU0UTZ1RVB6Uy02QjJ5eVN4bkx2bHo1UUZscGtWT21EQWhUb2lzWHlrTUctZU9OME5KMF9UMHh5cF9KaFYtZko2QV9GLVc1N0FaLUlsX1czTTNzbk5iOGxFaUpmTnByaEVlUy05UTlTbldORWIxVGhn?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 18:21:00 GMT",
+          "title": "Kushner has a rare meeting with Hamas' leader on the Gaza road map. A meeting with Netanyahu is next - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQb2RjS19lVHRWUHJtbzIwY1FEWmxkWG5wVGVMeDV4LUE2UC1NN0liejZ2S3NfY01RN1ZKaEVnSnFQeUNHaUc2b29qT19Ldk1xUExBQmFXSWs1TG56ZGNtVzJ3cGpPNVRWWklkc2QtQ3VkaDZzTlIzTll1VGxSMUpzM21VejFWcFk0QXg0VkZYRTBCQmRYSVFUcWNEY0t0RDFwWkFFZmtsSTRVVjZUa3RrdkxRWDRfLXVNWnc?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 18:07:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T20:29:07.877Z"
+      "updatedAt": "2026-08-16T20:52:37.263Z"
     },
     {
       "name": "Reuters",
@@ -219,7 +219,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T20:29:08.368Z"
+      "updatedAt": "2026-08-16T20:52:37.660Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T20:29:08.539Z"
+      "updatedAt": "2026-08-16T20:52:37.733Z"
     }
   ]
 }
