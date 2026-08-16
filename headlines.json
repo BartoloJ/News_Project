@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T19:25:10.794Z",
+  "generatedAt": "2026-08-16T19:46:54.491Z",
   "sources": [
     {
       "name": "BBC News",
@@ -54,7 +54,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T19:25:09.305Z"
+      "updatedAt": "2026-08-16T19:46:53.384Z"
     },
     {
       "name": "NPR",
@@ -109,7 +109,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T19:25:09.523Z"
+      "updatedAt": "2026-08-16T19:46:53.468Z"
     },
     {
       "name": "AP News",
@@ -124,6 +124,12 @@
           "title": "Tommy John, namesake for a pioneering elbow surgery that saved his career, dead at 83 - AP News",
           "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaWRlRkF0X3FrMFRldHpCeU54VkJNUk9lb2lLNWpXb0tXcEI2azh3SHpMX0cyajNucFZEUkw0Z3JwYndQWE1uTDYzRWlyN0FYeEpOZTFPOWx3ODJOWUJOM3JmYVBHOUZuSHFDSjNncnZPOV9jbjllSGNYX245QUw4UFZhUndaZw?oc=5",
           "pubDate": "Sun, 16 Aug 2026 18:43:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 18:36:06 GMT",
           "source": "AP News"
         },
         {
@@ -155,16 +161,10 @@
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObm9mQzFsemRmYlJDeU0zRTNHRHo5Yk1QdnRWZmItSmotRGlma2dIcUxLckl3SzBpdWFmUXVhYjV6Y216dEZwdHVGX095YThwZmFUZld1cFVscXR3aGxYNmtwMnlDRlZXb0RROG1PZ0ZxbjBmbURESEZtU3lSd0xLOURoVlZpUzBfNERnbXZUZFJheEdKblBKZw?oc=5",
           "pubDate": "Sun, 16 Aug 2026 17:44:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Lala is again a tropical storm, sending drenching rain and winds across the Hawaiian islands - AP News",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaHJWdmptUWhHamR5OFQ2ckI0Qlk5YjRIcnBNa1dCdzNBaktSdnNtdHhLNHFZNlE3VHZWa1JMWVpMTWN2dkhuemhVT1VRSGxLNXRYZ2M3aHB2cnpvZW5nS2FqMHBsTXpHVGNqYWl5SXRfblFETEFTT3ExeTVYNEtBNlhrYnkzSi1tU3FKcGRSRmh5OHZvUFJ2LU9wZTJyUQ?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 17:39:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T19:25:10.078Z"
+      "updatedAt": "2026-08-16T19:46:53.934Z"
     },
     {
       "name": "Reuters",
@@ -219,7 +219,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T19:25:10.535Z"
+      "updatedAt": "2026-08-16T19:46:54.384Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T19:25:10.794Z"
+      "updatedAt": "2026-08-16T19:46:54.490Z"
     }
   ]
 }
