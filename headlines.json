@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T11:31:24.505Z",
+  "generatedAt": "2026-08-17T12:54:37.024Z",
   "sources": [
     {
       "name": "BBC News",
@@ -7,19 +7,19 @@
         {
           "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
           "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 17 Aug 2026 11:16:31 GMT",
+          "pubDate": "Mon, 17 Aug 2026 12:27:11 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Top Zambian opposition figures arrested days after presidential vote",
+          "link": "https://www.bbc.co.uk/news/articles/cn0nj3ln8r5o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 17 Aug 2026 12:11:13 GMT",
           "source": "BBC News"
         },
         {
           "title": "Ukrainian strikes kill six in Russia, acting governor says",
           "link": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 17 Aug 2026 11:14:39 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Top Zambian opposition figures arrested days after presidential vote",
-          "link": "https://www.bbc.co.uk/news/articles/cn0nj3ln8r5o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 17 Aug 2026 10:57:09 GMT",
           "source": "BBC News"
         },
         {
@@ -54,11 +54,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-17T11:31:23.125Z"
+      "updatedAt": "2026-08-17T12:54:36.491Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "USS Washington to relieve USS Lincoln. And, Jared Kushner to meet with Netanyahu",
+          "link": "https://www.npr.org/2026/08/17/g-s1-138973/up-first-newsletter-uss-lincoln-meta-israel-hamas-ukraine-russia",
+          "pubDate": "Mon, 17 Aug 2026 07:48:21 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Hayden Panettiere, who starred in 'Heroes' and 'Nashville,' dies at 36",
           "link": "https://www.npr.org/2026/08/17/nx-s1-5935226/hayden-panettiere-dies",
@@ -66,20 +72,26 @@
           "source": "NPR"
         },
         {
-          "title": "Living with nuns: Priced out of D.C., young women found low rent with unlikely roommates",
-          "link": "https://www.npr.org/2026/08/17/nx-s1-5913980/nuns-dc-affordable-housing",
+          "title": "As wildfires get worse, some states are struggling to pass fire protection rules",
+          "link": "https://www.npr.org/2026/08/17/nx-s1-5923975/wildfires-western-community-protection",
           "pubDate": "Mon, 17 Aug 2026 05:00:00 -0400",
           "source": "NPR"
         },
         {
-          "title": "Car problems? No childcare? How an app is helping people get to work",
+          "title": "Missed shifts were costly to this McDonald's. An app has fixed the problem",
           "link": "https://www.npr.org/2026/08/17/nx-s1-5893721/workers-mcdonalds-work-app-jobs-ai",
           "pubDate": "Mon, 17 Aug 2026 05:00:00 -0400",
           "source": "NPR"
         },
         {
-          "title": "Can a student ID be used for voting? More Republican-led states are banning it",
-          "link": "https://www.npr.org/2026/08/17/nx-s1-5791740/college-student-voting-voter-id",
+          "title": "Cialis is an erectile dysfunction drug. Could it also help you live longer?",
+          "link": "https://www.npr.org/2026/08/17/nx-s1-5928263/cialis-viagra-tadalafil-longevity-heart-health",
+          "pubDate": "Mon, 17 Aug 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Living with nuns: Priced out of D.C., young women found low rent with unlikely roommates",
+          "link": "https://www.npr.org/2026/08/17/nx-s1-5913980/nuns-dc-affordable-housing",
           "pubDate": "Mon, 17 Aug 2026 05:00:00 -0400",
           "source": "NPR"
         },
@@ -90,34 +102,52 @@
           "source": "NPR"
         },
         {
-          "title": "Elon Musk's Starbase wants to expand in south Texas",
-          "link": "https://www.npr.org/2026/08/17/nx-s1-5910496/elon-musk-starbase-texas-spacex",
-          "pubDate": "Mon, 17 Aug 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "As wildfires get worse, some states are struggling to pass fire protection rules",
-          "link": "https://www.npr.org/2026/08/17/nx-s1-5923975/wildfires-western-community-protection",
-          "pubDate": "Mon, 17 Aug 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Cialis is an erectile dysfunction drug. Could it also help you live longer?",
-          "link": "https://www.npr.org/2026/08/17/nx-s1-5928263/cialis-viagra-tadalafil-longevity-heart-health",
+          "title": "Advocates worry new bans on student IDs will trip up young voters",
+          "link": "https://www.npr.org/2026/08/17/nx-s1-5791740/college-student-voting-voter-id",
           "pubDate": "Mon, 17 Aug 2026 05:00:00 -0400",
           "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-17T11:31:23.370Z"
+      "updatedAt": "2026-08-17T12:54:36.533Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 10:39:27 GMT",
+          "title": "Hayden Panettiere, who starred in the television series ‘Heroes’ and ‘Nashville,’ dies at 36 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZ0VPOUpJN1VQNnRNNUV3U3dMWHc4TlpzbGNIc2l6OHBvVHVZWXdmc1JrNTVfVFdBemJMZGtRQnVkcUtnZjV4UzZ3UV9PR1o0ZzczSUh1UTh6M3owVC1xWS1NcjNLbmdOeXVwY0RyNmhjNTQxLXF0b2ttV1dCMHpuYS13bWhwQUZlVkE?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 12:46:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Kushner’s meeting with Netanyahu on Gaza stretches past 3 hours after talking with Hamas - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUVdtaFMtbEtnT0xJcWlmV0lyUVY5TXplSldPSm9JbV91OVNiZEN2cmFibzYzUmhiMjdvdjg0cUpEc2tKd2xQSEZQUllZTGVZXzdZenJZajByZVNjT0hMeHVYZGFoOVJmXzBycGM4ZzYtMHRHcWg3T3hPNFc1RzVQSkRqbFd4S1RuMzc0RjlGQ0pXNEtaNW02bFhjcnNad2FvOFpzaHBPckpYWDQ?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 12:24:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Associated Press News: Breaking News | Latest News Today - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 11:57:55 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "In Florida, Wasserman Schultz sparks a debate over what representation means in diverse districts - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZkEweWFqLTIxWkhzcXZ3SmlDV2pYS2s1bjRPaVhlbmRRNmk2cU5scktMYWtmaHVEUkpKWFJ2X1JXQkc0aFhzaUJsZWNkY1pHUGotRkF6VllTT2lZZzFLLTRweDlILWNaTFVjVy1PRFoxUUFiMHo3U05KRkwybS14ZE9uTVhHZGdQUVdHU3RYRXBXMHI4ZldXZ1dUdFVDajI2dFhyZ3RzbTM1NHc?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 11:47:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Iran working to finalize Hormuz agreement with Oman, and other news from the Middle East - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVEF1REJ4VlIteVJOUS1hVEppZzNadkVkVTVicGJrWXphNGxmcVZGQlNNTHhvTGttWUUzRGgtWW9kTVJ2T284OWo0RXRoME1yWEpfWGN3cG5FYXBwU0VDdDdOT2hzWDVYZVpyOHpscWR2ZW9oNk9ON1ZRSEwtaWJUX3dvOHpieWVqRWF1cDFEVm9PcFR5dXhoQlh1TlFxWGFUN2JaRlphSENKMk1FUXc?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 10:46:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Iran war - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 10:44:28 GMT",
           "source": "AP News"
         },
         {
@@ -131,44 +161,44 @@
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRGMxazQ3aC1nN2JTWmNzUGxNd1JaNXlUam9PQ05SVW44a2NCTlNNRzlwdnRBQkpEY0pIYTdpYk5DUzhnZG9XVWdwbUxNM3BJOEpJQzk4djduaTVHcl92NXFIS01kZ2lTcnplZE8teGdCaDhpdzQzLVZqeFVfTjl1ODJjcy1nRnlkZlBFOG5UaEszcXhFVTZ6U003ZlBfbWM?oc=5",
           "pubDate": "Mon, 17 Aug 2026 09:05:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Kushner sits with Netanyahu to talk Gaza after 2-hour meeting with Hamas - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUVdtaFMtbEtnT0xJcWlmV0lyUVY5TXplSldPSm9JbV91OVNiZEN2cmFibzYzUmhiMjdvdjg0cUpEc2tKd2xQSEZQUllZTGVZXzdZenJZajByZVNjT0hMeHVYZGFoOVJmXzBycGM4ZzYtMHRHcWg3T3hPNFc1RzVQSkRqbFd4S1RuMzc0RjlGQ0pXNEtaNW02bFhjcnNad2FvOFpzaHBPckpYWDQ?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 08:48:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Andrew Garfield finds wonder in everyday life in ‘The Magic Faraway Tree’ - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTjN4a0ZtdHlqaXlJdGhTRU9nU0NYM1pGQW9keHNMcE9pSlZ6QjYtdENxQm9QcGJTekFlWlVlbVlUNndhOG5ZOFZsZ09tRUplcWlPUGR1MVdIbE5JV2JTNUx1Ul9MNS1Ga3NLV20xdGo5Z0pHY0VrdXVBNU5KM2IzSXplWldVUV90dVMtM0pKVHdCcWVPX3NqSU9B?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 08:37:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "The 60-day deadline for an Iran peace deal is expiring. Here’s where things stand - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU3BhNEdxTFpDOGtvRmx2RU5kNWtFR1oxYXhsOEFWWm1NdG9IMkRaeEJvUmE5WUN0UjMxbXdwSXFmcXNKTjNGbkNfY1hrdjJtZnl0QVZXNk5jeVNFRV9qSklqTUhBVFpyTnFkdVBMeEZGRkJmWFFCWC1Ca3EtN2xGMzYtd3loMXdrTGhDSXpjV1ZzcGRnZUJfdEZueHdmSmFZR1BkcXV3?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 08:33:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Hayden Panettiere, who starred in the television series ‘Heroes’ and ‘Nashville,’ dies at 36 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZ0VPOUpJN1VQNnRNNUV3U3dMWHc4TlpzbGNIc2l6OHBvVHVZWXdmc1JrNTVfVFdBemJMZGtRQnVkcUtnZjV4UzZ3UV9PR1o0ZzczSUh1UTh6M3owVC1xWS1NcjNLbmdOeXVwY0RyNmhjNTQxLXF0b2ttV1dCMHpuYS13bWhwQUZlVkE?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 07:47:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "A temple stampede and a hotel fire in eastern India kill 14 and injure several - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZUFvLVN2ZzIzTThlcEh1eFdHblhkYTVBZ1RSMElQMnhiREpYM01EbkVBYmZsUHJ3dWJ2aUVOWVZXRklDTlRZNW9CVDdQMHNHWDhOMUM3bndiUmNNWGdKb1RuYzY3UGF5N1o5TUFTVmJjdzlEU0RUS2tRQjNhVmZIdUlQUnd4YmY5RXdNQmFJRE9fbnktRHF6YTAtWQ?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 07:40:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-17T11:31:23.780Z"
+      "updatedAt": "2026-08-17T12:54:36.944Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "S&P 500, Nasdaq futures rise on tech boost - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNmVQMTVLQjc4cmxldlJTQjJiaXFrUFp0cXh6R2xQaGhRS3g2ZGFQbmRwM2pWZTRBQ08yTlhOZHNzVEExVWNVb0tHWmZRU0s5RHhuc3czT19MeXVBeThpejlsZ0puNnJ4UlNCTEg2NjNKYWVObzhDbnJ5UFBaeVFXYjlrZWJnZGhJRHc?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 11:52:24 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "L3Harris names insider Sam Mehta CEO as Christopher Kubasik steps down - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWFNybGl1cWJiVThKUWVveG9waWY1cjdXc2hsRDZxMGlXTTFfektkcXBLZUV1Vml5dHZlSEhwVlVHaGc3QlNvOVkxRDI3M1RFcnQxekhoS0J4NzRKTVRSalVXc2Z0bkVsQjlaRnFNOWNGTGhBa1Izc29MT2lfSWFHakhwNlAyS1RvUmJ0V2lKS043LTRTZzdxYlNILWJrNXFMbEVVcW9SVVRQYWk4WjB2V2ZPczZtb0Q3TFNPQkNGbUJ6TXJ5RXpzNzhR?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 11:47:27 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Apple to change app data consent rules, German regulator says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVnlTREpFM3lfWlRJMHJOTEQtZ2JlWjBycXYyTVA2VXRJcEpyeDJlTFdUWmRQQlZtVHFpMVRBYy1nbXp3MlZ6aFRLOHBPZXZvSThkamZtZmdDTTd6VmxzQTlMZnhLM2lYRFBNNUZNRlkyUlVIUDN2YjB2anRrZlVSMEtwZ3FHS1BQWkFfWm1BV05UMnVKa0FkSzU0Vy1vUVZuT0hsV0hSZkFEY0dSVjc1WmZOdHBrcHBxaEE?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 11:06:04 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Second wave of fuel shortages at petrol stations sweeps across Russia - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWVpqRUVqYVlKdHYySHdET1NlSGZhdzlDX2RKUzBFZm5EYndqXzFYNFFieGVjVFFnTHg5NXNiOEo1eVc5bVFJX0VfcmNBd21wSl96akVOQWsxaldjUkdSUTRfNW9UalMtSlhxeHo0czRwN3RiNzNzbWZLYThJVnJUNEh4cm1venZfRm15QU9XR1JPQlh4c1ZfZU9rdl9kSDUyMmFBYkRuNXZTOW9VNDg2OG05dkpjZw?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 10:45:06 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Morning Bid: Retail risk - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPajk1QjAyR0JBTks3bnF2MHpaN3JzMkxMVTV6MGxuUnczTmh1ZThHdDBOWVJtaFlaYm4xYXBwc3JBUEVKbzZJUkZaLVlkLTdnQlJ3RU9sTHdqUmlCN3ktX1VDRnhPbHRzUXo5Z052cE5kNTdhUVlnUWVKQy1wVGVFNHRlbnZOQktRSGNKSW9zdEU1SlVRU2tn?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 10:40:30 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Trump crypto firm backs venture offering AI from restricted Chinese companies - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTHhDcEM5cGN4V2duaGh3RmNtbVZndFdfWHBjSkF5ekRiN1JBVnRULTBUeTVld0I3czliYWZsckdXbVJfLTdJcldxY0V1VnV6NU1sME1uM3BWLUttZzR4RDVPSkJsTXlRQkRSTkFJc2pLelNEYXNBWHpUX1BGdzFBTGtmaFFwdE1DclphZDZncHMyTk5oNmFZSWhQRmVrUHdkaFpCb3ZBWWY4eExmcGZEMkJZekFPTEI3VG4zUQ?oc=5",
@@ -182,44 +212,14 @@
           "source": "Reuters"
         },
         {
-          "title": "EXCLUSIVE: Shein eyes company valuation of around $25 billion in Hong Kong IPO, sources say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOLUNHYWNOdkFEd2poMFNEQjhMSzdwZjJMZE9tZ1JPbFlVcnlDZGktZ2toNUdqNmQteXJCa3dhVUszUHhlVHhXUDVZd25xYXB1Qk5wVDVvY0wwaEcyNi1JTmp0emswa1ppajQxd0dHSmRaVk5IWlgzam5Xd1hsTlVUUzJqVzJ6Ymt2MjhZSi1RWlNsMFk1dFVrZ1cxRDdBOXM5MmxwZVVzTmhTdDhjUlBMamZEcDU3MTc1ZHdmdWNSTG5UU0lZdGhR?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 10:12:10 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Iran says two French embassy employees barred from returning - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWkZkRXBDZ3pPWVFROGdBUVlseGpmSEpONkJ2MEdvQjFjajdMYmtLSVNOc1ZjeHg0WGZwNWZpM3ZjV1A2S2FNeHFrZTlRUFRKZGo4SUdwNDBoMUs3UEhwZTMxMzNXRDJEeEdzd0NTTVRaZF9JZFItWUduXzlsMEptODRYR2hFdVRKaDk1Sm83NFFMaTI0SFo5d3ExOTNIZ1M2TGsxWEdtRHRCdFB0eWc?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 09:41:53 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "AI market correction is coming, ECB blog predicts - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOejNkZVFTSjVNZEVpMms5aWtNbzdCcWMyZFQwT2xHRnQzanhqbHoxZzZKSGdTblptSHhUT0Jjamk3ZWI1VnJHOFZPWnk0VERidlZsNFItMzE2T2UyOEhfYWVGOUt1MkRLLVlNTWlNYnViUGhnalAtS3RDSS0tX3ZSckR1MjM4UmF4YzNDZ3hyN1AxYVhEaE1fMWpOQlFhVlZBbXdJVF9sVTNhNjJGMEQ0THlBVHc?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 09:18:51 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Drones target office of Iraqi Kurdistan's PM, no casualties reported - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQX1RqUHdlLUdxNkQweWdveHJybEs3OWpDaTFNRUhpWDFsSGd1V1hub0QzaTdNSlA3Sm1oX1I3NmEzNDdXRWx6UHZxUTJ0c0dmd1hUSzFfSnBraG5WVUQ5Y0RvLWlXUnY1Wi1OWnRQdFhISExZWWYyN2N0UUhJdWlMZzE3LUZXMTJrTFUtcmhIZkFmaU9YZGJONkN4NG9WSTByREhvVkpheWE1S2REbVBNcVNvNmNNQzhjVG9qcHRheG9NcnM?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 09:10:52 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "New Syria-Iraq crude pipeline still years away, sources say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeHZIdzRNYTA4MEEyekhWalhJbFZPX24wa1FlR1JwaGl2Wk1ldjJZR0dSOWtRNEh2aFF6UVVTRk9VSEQtUFJBNW5OM2N6aDVkT2VzM1ZPa1JiNGV5SVJiNGdMazlVS0dmR3ZZSGpoMmg1dVVZN3psRTdkWHhhY2FtZDFyUjFlV0pLanB5ZWRCeFlfUVJNSko1WlJTYmx5cFo3WlR0Q1hYS0RDUzJDUHdZ?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 09:03:14 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "China's recovery sputters as consumption, output lose steam - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQU1zd0xiWmtwQ3dnX2tSQlRPUjJYMWM2aHpFRkR6UC1uWlVHUWJ6V3FzN0E0TThVSFJtYjlyREVPUDlidHBWbWd6YnBZbnExU0FlTElqMFNKRmRVLXlMeHZobkI0NGl5Y0dTSWlxZ2RpZ1R2N0NDM19aZEI2Y1pob2JlQmNhTGxNX1Zwb2Z6TjhOdUJEdjVHS1VuTUN3WmEtY3BGc0NnMGc1R0tTaDZZVw?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 08:58:04 GMT",
+          "title": "Zambia says it arrested opposition figures on night of elections - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV0tLQU1YY1lkdGk0MWxCLVJUT1h3QnNMMnQybGZyamtqdHkweEFoZ0huazZpY2tLZThybGhxS2t2YlItbmVXYW9ieDNXZDFpaGJVLVFwM1NCb0NfU1ZpWG9JSWRaZzV5Mk1NNGRZR0FSRmlyTkJkS0FhNjE1eUhnUzdqOFhtNllsaWNlcTIzejdTN1phT2dweDEzMlMzN0R6WG1YRzVHbFNhams?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 10:20:33 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-17T11:31:24.318Z"
+      "updatedAt": "2026-08-17T12:54:36.953Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-17T11:31:24.505Z"
+      "updatedAt": "2026-08-17T12:54:37.024Z"
     }
   ]
 }
