@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T23:27:56.229Z",
+  "generatedAt": "2026-08-17T23:51:12.093Z",
   "sources": [
     {
       "name": "BBC News",
@@ -7,7 +7,7 @@
         {
           "title": "Tributes to actress Hayden Panettiere as coroner finds 'no signs of trauma'",
           "link": "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 17 Aug 2026 21:43:57 GMT",
+          "pubDate": "Mon, 17 Aug 2026 23:28:54 GMT",
           "source": "BBC News"
         },
         {
@@ -54,7 +54,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-17T23:27:54.916Z"
+      "updatedAt": "2026-08-17T23:51:10.649Z"
     },
     {
       "name": "NPR",
@@ -109,11 +109,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-17T23:27:55.107Z"
+      "updatedAt": "2026-08-17T23:51:10.719Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 22:47:34 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Trump blames vandals for damaged grass in the spot where he held his big July 4 celebration - AP News",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNa1RfM19TUU5waDI1Z1ZzRkdGQVlGdVQzdnRlWmVicXVjM0xMMHFRTjZ3QlVyVnVwSW9fa051bW9xRHRDX2NtaHVDNy13UVY3c1phelZmeWstVDQ5cTd1UEtYR2U0cEMwNE1rRU5sbXphMUIzV0hDYm01TlJURmZtZDM3YmRjdHZzeGRac3NubmVQNDlFUG04eHI2REVWTkFYdk56Mkpn?oc=5",
@@ -133,12 +139,6 @@
           "source": "AP News"
         },
         {
-          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 21:44:37 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Justice Department watchdog to review DEA tactic that permitted deadly fentanyl to hit streets - AP News",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOS3IyZlQ0ZG5RZTZrZVQzWU9kUDZTdi1zdmRSa0d2REZrVkRqUm5DRnY5cy1fZUxYZ1lhZy1HQUNBQ0VRR0JYNXZWQmRkeFpVMHlhOFJvbEtZRnhlV2sxSTVBUzVOSzhWY1FPN0JRX0JUWTcxWEY3d0g4N1l6VUM0VGtGSU10azh3cUZaOE1HVkpERG5SeEJmUEFTY2NscDg1UlAwOEFwZHVob0lxZEg4MW9ETXVlem1oSXlaNEhn?oc=5",
           "pubDate": "Mon, 17 Aug 2026 21:43:00 GMT",
@@ -151,9 +151,9 @@
           "source": "AP News"
         },
         {
-          "title": "Lawsuit Challenges NH Student ID Voter Restriction - AP News",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdXc2aHM2aHZkU2R6S05Lei1MaDNScGtuUTNiVFFpZVBiQ1BpRXhWUXRUWlJ0dUFCTHNEU1ZkUVFneHFtYWJIVHVSS09BRnZ3WU9QY1c4NlZyTWJueFJOTjJiV3dDbnJlSlFVQmcwX1lHOF9mdXhoSFc2WHc5TUdXSU5pTXRoZnZGbGRRRmNRSFZYWlpTM2RsSEcyMmJaSmlR?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 21:36:00 GMT",
+          "title": "ICE pitches legal insurance to help shield local officers who make immigration arrests - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNT1VITUZCSWk0aF83V0EtWHNZZVluTU10TjgtUVRMNzJkMDZWNTFWN3pyM2diM0J5azBjcjBmQjVsLWItZ3J0QTFiM25QVzRlcmlWWEY4Q25PdzFxYjlWYXFHcE5RY29FYjY2b1BpYXNuaGpkZDdzVHMyZnVER3NDcnlibmxBWndEc0RWMlJuM3RNSndpcXdudjNBand1ckh2VHlxSWVZMFFRcUpI?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 21:31:00 GMT",
           "source": "AP News"
         },
         {
@@ -164,11 +164,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-17T23:27:55.584Z"
+      "updatedAt": "2026-08-17T23:51:11.178Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Paramount seeks $1.88 billion bond from state AGs over merger lawsuit - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdmw1dFdaTm0wd0gybUJrYnBVdDkwX0xXYXdlNTdRNnFhWS1YMGtnOGVsNDQwc0diMlJ4Q21McFNTWnRUVEl3WER5LXlOMFBNZHR5Umx0Z2poMG5zMDlDOHlNOU8zV0JDaWtVQUlhNDR3Z3VfdjU0NnlqVTlwOWZoNVlzX3BQYkpSNld4OFF6bldmNUlnSVpCY3B4ZHhlS2JOUVBybEpYOA?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 23:39:18 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Rain aids fight against Belgium's biggest wildfire, as blazes rip through Europe - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSXFOQklWSmxLTG1DQkQxZC1oc2ZVRHhrLWR3U3dzY0lrenQweEV0QTJVeTR2T19FLXhhcDExSFNrcS1tUXNFZXZuSnZld3NYRXBqM0NMZDBSaHd0b2pxdG5pQ1llaVdlc1BkelJneDhuOWVQZTR0VF8xam5ZV0tKQ3dULU9rU3JtVnA2eWtTZUZlSUtYVlhvVzl0VHVkNmprbW9qdlRuWktlbE5Ha0NXTXVHNldxeFNJcXRBTkxn?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 23:28:15 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Wall Street indexes slip as oil prices rise, retail results awaited - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNmVQMTVLQjc4cmxldlJTQjJiaXFrUFp0cXh6R2xQaGhRS3g2ZGFQbmRwM2pWZTRBQ08yTlhOZHNzVEExVWNVb0tHWmZRU0s5RHhuc3czT19MeXVBeThpejlsZ0puNnJ4UlNCTEg2NjNKYWVObzhDbnJ5UFBaeVFXYjlrZWJnZGhJRHc?oc=5",
@@ -194,32 +206,20 @@
           "source": "Reuters"
         },
         {
+          "title": "Anthropic revenue run rate tops $65 billion, source says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVEJ6S2RpblVGQzhVS083a3dqR3JpajJOUkJIVUZIS1ZkQ05PeW9TdkJUazFpRXNybXNDUUNnV3dfWTllcFdsYms2Mm53dGJwY1VyYnVYb0xYSTNwZWoyaC1vM0FDVWJtTlh6VjFyTGxGUUNaYkg0VDdzNlhjMDJ4dUxJVHQzY0dUaWdKd2t3d0NoWk5IQU52bDRXWTJxZWNFdThJ?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 21:37:12 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "US to announce steps to help refiners produce more fuel, energy chief Wright says - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNkt2WFRJalFmY1h4S0lLcVFXcmtNN1o5U2J4RWVmWGdkVFdLdUYzUnRlTklFX3Nsd1FMaVVNbEdINlUyazI0ajM2dW5Qd0FJNXpac0V2NFp0Yk1sTWMtUVVxQU1MVk1WY0lsUU9fYjF1dXFIVjZzSWs2cUpPN3FHNGhDbXMtcHlLWWd3VmdhSndwOWl3VTkxNmVYSTd2T0tVX2MyT2c1dnJESmdJZ0FISERjQ3JrNEZy?oc=5",
           "pubDate": "Mon, 17 Aug 2026 21:36:56 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Google to buy Spirit Airlines business data for $10 million - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMEdnWlluQk1VZVE5ZmtsUlg2ZDRleS1xOWRtQjJDSmtaUjdMOGxmNVNQc1NWTVJGc2ItZjNwSS1fdWJVMVBFbHlySU1QT3lDcVFPUE9fZTFNMHI2WXlDOUdpSUdwOV9UdkJfWTc3OWE0RnBnd3hNS0lTenk2NEtGZkhtWElwdmZxNnduSWYxMUI3OG5KUjNUZzlJZndVWEFxSGR3RTBwZw?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 21:30:38 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US railroad Union Pacific turned charges meant to cover fuel costs from Iran war into profit - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaTBtTmZiNU1ldVB5OEZrTGJ4QXp0M1BwVG90ZXVxa3FRN0F3NVRTTC1fNDA3SE51Q0FrcFhGLXVUU3VCN2U0SFBYZ0VOeHBISVJfZWRRdTVQOU1aRTkxMXVfQ0tQWFdFLTVZVXk4OWtBTHBPRERnN2NJRjk3c213T2c0QVh6QWRQU2s0MVQxZVJrQUc5d2E3aDd5ZTczWHQtaHQwVkRLSHVYVUhXaU1Hbm9pME02QjE2V2ZJdVBGbG83U3J0V0RkWg?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 21:11:55 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Canada braces for 50% US tariffs, with negotiators still far apart - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbW1QZklpeDg1Z0hQYVFXbVZvUnZRZ3UwZ21qdVJMTWpWQnRTNHJCdmlscEpxNEtQNlBadGZIeXdpc3pBY0JPSW9mMk1QXzk5dkFVX2E4c18tSm1XN0dKbXlWc3VTTkNldWstakhodnM1Q2JseVZ6Nk1kbTZ4aWhfV0dUSmVyVkNlSzR4VW43SzRqT3ZzTjhSMzdlMVRUUmJnLV9WeHIwLTQ5c0FTTlJXMWFOcFZrTG8?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 21:08:45 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-17T23:27:56.017Z"
+      "updatedAt": "2026-08-17T23:51:11.936Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-17T23:27:56.229Z"
+      "updatedAt": "2026-08-17T23:51:12.093Z"
     }
   ]
 }
