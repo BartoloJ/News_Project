@@ -1,9 +1,15 @@
 {
-  "generatedAt": "2026-08-17T03:05:21.176Z",
+  "generatedAt": "2026-08-17T04:19:57.307Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Actress Hayden Panettiere dies aged 36, US media report",
+          "link": "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 17 Aug 2026 04:03:52 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Trump says US to scale back South Korea military drills after it stayed out of Iran war",
           "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
@@ -45,16 +51,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 16 Aug 2026 20:01:51 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
-          "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 16 Aug 2026 19:58:14 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-17T03:05:20.225Z"
+      "updatedAt": "2026-08-17T04:19:55.906Z"
     },
     {
       "name": "NPR",
@@ -109,11 +109,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-17T03:05:20.270Z"
+      "updatedAt": "2026-08-17T04:19:56.215Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Hayden Panettiere, who starred in the television series ‘Heroes’ and ‘Nashville,’ dies at 36 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZ0VPOUpJN1VQNnRNNUV3U3dMWHc4TlpzbGNIc2l6OHBvVHVZWXdmc1JrNTVfVFdBemJMZGtRQnVkcUtnZjV4UzZ3UV9PR1o0ZzczSUh1UTh6M3owVC1xWS1NcjNLbmdOeXVwY0RyNmhjNTQxLXF0b2ttV1dCMHpuYS13bWhwQUZlVkE?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 03:43:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Rescuers in Indonesia recover 6 more bodies in earthquake aftermath, raising death toll to 53 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOekM5VXhLY1NEVEZnWUFWdzdpd3VnekF5UUkzdzQxSDFLWnJpbHlzN2ZQU2hwTDRVcWthLTJMWmNWUjVQdXRyejZwNllFMm1TNHFSZ05DQjBVQXc3Z01Tc3BiX29TVHVwNlhfakI5eHl5UTZmUm82VGtaR3o2eF9UODl3RHZQTHFwQ2RxdjJqLTJoaHVJSUFSdTBQV3VIdw?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 03:03:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Trump blames vandals for damaged grass in the same spot where he held his big July 4 celebration - AP News",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNa1RfM19TUU5waDI1Z1ZzRkdGQVlGdVQzdnRlWmVicXVjM0xMMHFRTjZ3QlVyVnVwSW9fa051bW9xRHRDX2NtaHVDNy13UVY3c1phelZmeWstVDQ5cTd1UEtYR2U0cEMwNE1rRU5sbXphMUIzV0hDYm01TlJURmZtZDM3YmRjdHZzeGRac3NubmVQNDlFUG04eHI2REVWTkFYdk56Mkpn?oc=5",
@@ -127,52 +139,40 @@
           "source": "AP News"
         },
         {
+          "title": "Firefighters battle wildfires in Belgium and Greece as 2 die on an island near Athens - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYktmWUtyRG1meHR2M1NtVDdScldwOVk4enpGWC1RUUJKUG5lUlNmekFhZGhpeElsaWgyUEQ3VnlTdldXX1A1enJHUXluZDRseHFfMG1VU0l3RHQ3LWhGS1dlTGx3aS1ORFhjYXEwTXRSVTZUYTlreFdkV2kxQ0tjQ1JONENqelJvSFp6NQ?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 01:38:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Trump orders Pentagon to scale back joint exercises with South Korea - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNb3RPcGlIdXQ3RU5USnlMN0tyQUxyT2c4NW1zekhhV0xubm9tTmhHLWE0c2RxTFdNWXJueVF4TXA5ODJDNFRhQTdCQllnaU51cTlCc0pqaHZNbmxIbnhxR01MNVZEOWdtaU90cWZjUU9RYlBITDBhMWdiNllIcGFoMHJXQWdlN0lQdWZ5dVVNT00wR0px?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 01:36:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "BBC asks a US court for help in getting testimony from the Trump family in defamation suit - AP News",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOC1kd19wN1hwS2Z0YWlGNzZTMzVSNzZXNE1NZmtHM0RZNVRkVVYtQzJadEIwWmZFWVNkTHhqbDFvb2hTS3BaZTVEWU5UVi1aYlhYVlpnTXdMTmxuWDgyN0FmY08yVElKWmxQdml0NGJfUWwyNlJ1Y2x0QUJySk8ya09rYnlxdXBkYTIyaXJnUS1ldDJVUFNZUXpnU1E5TU0?oc=5",
           "pubDate": "Mon, 17 Aug 2026 00:36:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Avocado pickers in Mexico welcome restart of exports to US, but security fears remain - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTW9xS0xIUkYzczYwdHJSTnBnTGZIQXdZdXhweDJzT2RfZURPUTNieFZ3VlIzX0JxSzc1UWNQU1lfVlh5QXZfQzk4YVE2MlRzcXdhb3M0b3JmTjV0OW1Jc2xMOWdqaVhtck1iZkUxY1VQNnhVQ19sU2dXbmVVVWZpRXdWTjB3amxLd0c4OUxodkkyemlmVEhjdXpSVDBmOExkQk5yODdTbFg1Zw?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 00:29:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Trump orders Pentagon to scale back joint exercises with South Korea - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNb3RPcGlIdXQ3RU5USnlMN0tyQUxyT2c4NW1zekhhV0xubm9tTmhHLWE0c2RxTFdNWXJueVF4TXA5ODJDNFRhQTdCQllnaU51cTlCc0pqaHZNbmxIbnhxR01MNVZEOWdtaU90cWZjUU9RYlBITDBhMWdiNllIcGFoMHJXQWdlN0lQdWZ5dVVNT00wR0px?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 00:06:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Scottie Scheffler back to his dominant self and opens PGA Tour postseason with 8-shot win - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNemRzYy1mYUJWWUhNbGUyZk56eHFrRzFpZ05QQ3ZReDM3RUlzWk9GeXhzdG5CWThvTWRDV24tZWlucWdBZktON2wwcFJHTWFkcWRValFPQy1mdzFWVGNtSXRpRmh6bVNoS0FhSndHQXR5djV2YUVsQkd0SDdjQ0w1YS13R00wUm02UWdEbXNhUllab0QwbFl4MkJmUDBRa2lrUTZqSTR2Ny0?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 00:03:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Tropical Storm Lala rakes Hawaii with high winds and rain without making landfall - AP News",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaHJWdmptUWhHamR5OFQ2ckI0Qlk5YjRIcnBNa1dCdzNBaktSdnNtdHhLNHFZNlE3VHZWa1JMWVpMTWN2dkhuemhVT1VRSGxLNXRYZ2M3aHB2cnpvZW5nS2FqMHBsTXpHVGNqYWl5SXRfblFETEFTT3ExeTVYNEtBNlhrYnkzSi1tU3FKcGRSRmh5OHZvUFJ2LU9wZTJyUQ?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 23:42:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 23:29:16 GMT",
+          "pubDate": "Mon, 17 Aug 2026 00:32:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-17T03:05:20.688Z"
+      "updatedAt": "2026-08-17T04:19:56.709Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Japan Q2 growth misses forecasts on weaker spending, investment - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU21ldTFQWE1HaTVtdWZqVW5QTllNV3p1ckpqcFNnYXAxUzBZVTVkNGFYWmduXy1UQWJ2ZUJyQmZxTkt1RldUTWNtUTltLTBJb2h2My1zbGltQWp2V0NNRGpBZ0k1dFVOSjlwZkUyZmFVWEJNQTd1S3RITFJ4bzdxRmhNVjlVQUhnX3hKbnRsYWpkQ0wwQWZSZm5XTTNhczlJZlFUZm1tdWppc1E?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 01:31:48 GMT",
+          "title": "American actress Hayden Panettiere dies at 36, ABC News reports - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTE9ickE4cHhucmwwSXJoT0hZQmhGQ1RJYnRpR3lCd25kNG9sTmJuV21KeTdwZENsMklzWXFzZm9rM3JXdVV1VlFLLXB1V0xQYWxnb3hQOVpZZ2F5b3VxX1d1VWtlV2dWV041MWFFYm5Ga1JGMFpiQzI3eUVNYjk4QUItNFBPMlJPOHVKQURwcFhYUVJoRnVvVTl2dU51QkxHNTNUazQ0WmtYTF8wV1doZHFQZ3BiM1cwdkE?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 03:16:00 GMT",
           "source": "Reuters"
         },
         {
@@ -182,21 +182,27 @@
           "source": "Reuters"
         },
         {
-          "title": "South Korea landslide kills one as heavy rains sweep southern areas, media reports - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbWhvMFJLaks1THY1NDI5dm5jazAzWjl5ZVpPYlNaellBZ1FZOTlfMjZOaFM4WWpuYW4yb0hleHZsSUN1b0lCSVdvZlcwQVhyZWVTbUZaWkFMcHdxNEZRU1BjUmZWYmhKSUlFbFRQeHFlWnQ2b0RHQWgySzFDb3RwQmM1SDJaNjU5VGMtbUE2WlV4d0xDY1Z3OFZNSkVpZ0tMS0pMaF8tUl9ReUo5WlR4MlZSOU1mNFpvT2QzQks3ODlaV3FHc2ZkODFlUVdQOGlY?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 01:12:29 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Yen edges up as traders push back Fed rate hike bets - Reuters",
+          "title": "Yen stronger as traders cut back bets on Fed rate hike - Reuters",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcEx2UnRQT3N2aTdDejItdVFGZ280ZXJ1ZzYtSHRoeDg0WEd1dGxmbkRvd1ZJMVRaUkdsMEZsMWx6ZUh1Wk1NeExBUTRxbHNuaW01TFpBd1F5dWlOOWoydXdETU8tamlmU2xpeEptdDRDTk52LW9GZW5oV201MmRubl85SnNSdnVwT2NxT0VHdmxxVGJ4TGdIWFhQcUN4dnBEcmFUUENqRQ?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 00:42:06 GMT",
+          "pubDate": "Mon, 17 Aug 2026 00:41:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Oil hangs onto gains as US-Iran peace talks stall, Hormuz shipping slows - Reuters",
+          "title": "Oil rises as US-Iran peace talks stall, Hormuz shipping slows - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNmNqanA3WXVHU3JvRVRoZnVBYUpwUmRGbkxCYTNHLW9EeTFhbTdFcjFqM2JtZVctcTd6TzhEYnJUekhXQURDRXkzUXNNRlF4OEN3S2VQZ1ZIZ0c5OHo0d3RWdG01Z1o5amVMZFk0cGdUOGV1enVQYVVzTWtQVl9rTHhyM1RaeGxOd0RUNEM5NWJCMW91WFpITmp6TmlKOWF4RUYtMTRBQVpYX0pqZ0Q3UjNKVHIzZGc?oc=5",
           "pubDate": "Mon, 17 Aug 2026 00:31:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Japan Q2 growth misses forecasts on weaker spending, investment - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU21ldTFQWE1HaTVtdWZqVW5QTllNV3p1ckpqcFNnYXAxUzBZVTVkNGFYWmduXy1UQWJ2ZUJyQmZxTkt1RldUTWNtUTltLTBJb2h2My1zbGltQWp2V0NNRGpBZ0k1dFVOSjlwZkUyZmFVWEJNQTd1S3RITFJ4bzdxRmhNVjlVQUhnX3hKbnRsYWpkQ0wwQWZSZm5XTTNhczlJZlFUZm1tdWppc1E?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 00:19:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "South Korea landslide kills one as heavy rains sweep southern areas, media reports - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbWhvMFJLaks1THY1NDI5dm5jazAzWjl5ZVpPYlNaellBZ1FZOTlfMjZOaFM4WWpuYW4yb0hleHZsSUN1b0lCSVdvZlcwQVhyZWVTbUZaWkFMcHdxNEZRU1BjUmZWYmhKSUlFbFRQeHFlWnQ2b0RHQWgySzFDb3RwQmM1SDJaNjU5VGMtbUE2WlV4d0xDY1Z3OFZNSkVpZ0tMS0pMaF8tUl9ReUo5WlR4MlZSOU1mNFpvT2QzQks3ODlaV3FHc2ZkODFlUVdQOGlY?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 00:17:00 GMT",
           "source": "Reuters"
         },
         {
@@ -210,16 +216,10 @@
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbk1aZnI3eEd5X0NiUWJ6M005Sm9hekNHZkFDX21fcHQ5QTdnajFBV2xQalhOOFJHTWRmMlJXQ1ViXzIzdnFzb1YyMnpVWGRPNG1fUlNDZzVGb3VjN1I5RjVtZ05DdzlCU2RNNkhkTkNCWjNISnZuLWxzZjRFZlMyNEo1YjVvTVRsRnFBVklaWTZWcDZxSWN0SWlwdTJ4RW1VTnFhdXhtajlCbXRnUVA4Um44ZGVEZTFpTVNYYnMzWGJTcXU1RHdSag?oc=5",
           "pubDate": "Mon, 17 Aug 2026 00:05:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Shipping slows through Strait of Hormuz after tanker attacks, data shows - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOS011b1NvcmEzQUNzX2dVdzFyUmg1UnpkLXZqNW5nUFFxNGZpaE51amZaZWJDZnNTQi1yZDE2cGxwU09PdzhMWWJiV1lpMk0xSmJmb0dQNVdGN1F3RHBTaVQtRzlsU2Nwa2RER0ZlbngzOWc3aDV2MmMwRmNfZ2xXclpHRzE0RkFzeDZ3MjY2QTAwMlFPSEVTeTRQM0JDQ2VtQjVPQTFPZWxRaXB4YzBTbjBVSXlxQTBoMUE?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 23:54:51 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-17T03:05:21.086Z"
+      "updatedAt": "2026-08-17T04:19:57.116Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-17T03:05:21.176Z"
+      "updatedAt": "2026-08-17T04:19:57.307Z"
     }
   ]
 }
