@@ -1,31 +1,25 @@
 {
-  "generatedAt": "2026-08-17T06:01:41.761Z",
+  "generatedAt": "2026-08-17T07:34:10.583Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "Aussie rules footy players referred to police as detectives investigate sexual assault",
-          "link": "https://www.bbc.co.uk/news/articles/cg4dd420ezlo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 17 Aug 2026 05:46:45 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Heroes actress Hayden Panettiere dies aged 36",
-          "link": "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 17 Aug 2026 05:40:19 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "Ukrainian strikes kill six in Russia, acting governor says",
           "link": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 17 Aug 2026 05:38:13 GMT",
+          "pubDate": "Mon, 17 Aug 2026 06:57:23 GMT",
           "source": "BBC News"
         },
         {
           "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
           "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 17 Aug 2026 05:06:47 GMT",
+          "pubDate": "Mon, 17 Aug 2026 06:24:31 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Aussie rules footy players under investigation as police probe sexual assault claim",
+          "link": "https://www.bbc.co.uk/news/articles/cg4dd420ezlo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 17 Aug 2026 05:46:45 GMT",
           "source": "BBC News"
         },
         {
@@ -51,10 +45,16 @@
           "link": "https://www.bbc.co.uk/news/articles/c77ggpgrp2do?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 17 Aug 2026 02:22:04 GMT",
           "source": "BBC News"
+        },
+        {
+          "title": "About 100 homes swept away after Hurricane Lala lashes Hawaii",
+          "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 17 Aug 2026 00:20:51 GMT",
+          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-17T06:01:40.643Z"
+      "updatedAt": "2026-08-17T07:33:57.750Z"
     },
     {
       "name": "NPR",
@@ -109,7 +109,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-17T06:01:40.824Z"
+      "updatedAt": "2026-08-17T07:33:57.855Z"
     },
     {
       "name": "AP News",
@@ -163,7 +163,7 @@
           "source": "AP News"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-08-17T06:01:41.222Z"
     },
     {
@@ -218,7 +218,7 @@
           "source": "Reuters"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-08-17T06:01:41.575Z"
     },
     {
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-17T06:01:41.761Z"
+      "updatedAt": "2026-08-17T07:34:10.583Z"
     }
   ]
 }
