@@ -1,19 +1,31 @@
 {
-  "generatedAt": "2026-08-17T05:10:06.246Z",
+  "generatedAt": "2026-08-17T06:01:41.761Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "Trump says US to scale back South Korea military drills after it stayed out of Iran war",
-          "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 17 Aug 2026 05:06:47 GMT",
+          "title": "Aussie rules footy players referred to police as detectives investigate sexual assault",
+          "link": "https://www.bbc.co.uk/news/articles/cg4dd420ezlo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 17 Aug 2026 05:46:45 GMT",
           "source": "BBC News"
         },
         {
           "title": "Heroes actress Hayden Panettiere dies aged 36",
           "link": "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 17 Aug 2026 04:53:27 GMT",
+          "pubDate": "Mon, 17 Aug 2026 05:40:19 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Ukrainian strikes kill six in Russia, acting governor says",
+          "link": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 17 Aug 2026 05:38:13 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
+          "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 17 Aug 2026 05:06:47 GMT",
           "source": "BBC News"
         },
         {
@@ -35,30 +47,24 @@
           "source": "BBC News"
         },
         {
-          "title": "Aussie rules footy players referred to police as detectives investigate sexual assault",
-          "link": "https://www.bbc.co.uk/news/articles/cg4dd420ezlo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 17 Aug 2026 04:30:15 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Ferrari's first ever electric car sold for record $40m at auction",
+          "title": "Ferrari's first ever electric car sold for record $40m",
           "link": "https://www.bbc.co.uk/news/articles/c77ggpgrp2do?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 17 Aug 2026 02:22:04 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "About 100 homes swept away after Hurricane Lala lashes Hawaii",
-          "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 17 Aug 2026 00:20:51 GMT",
           "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-17T05:10:04.829Z"
+      "updatedAt": "2026-08-17T06:01:40.643Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Trump orders Pentagon to scale back joint exercises with South Korea",
+          "link": "https://www.npr.org/2026/08/17/g-s1-138969/trump-exercises-south-korea",
+          "pubDate": "Mon, 17 Aug 2026 01:21:39 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Multiple people dead as flooding continues in Indiana",
           "link": "https://www.npr.org/2026/08/16/nx-s1-5934670/indiana-flooding-deaths",
@@ -100,23 +106,29 @@
           "link": "https://www.npr.org/2026/08/16/nx-s1-5932491/transgender-health-care-medicaid-trump-oz",
           "pubDate": "Sun, 16 Aug 2026 07:54:19 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia",
-          "link": "https://www.npr.org/2026/08/16/nx-s1-5933006/ukraine-aerial-attack-6-dead-russia",
-          "pubDate": "Sun, 16 Aug 2026 06:12:09 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-17T05:10:05.144Z"
+      "updatedAt": "2026-08-17T06:01:40.824Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "The Iran war is forcing families to choose between school for their kids or survival - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWENnQ1pZN1l2Z01aSURjZXQta19UR2hyd0lXcC0wUi1OVll5Qmk3NnZvTHBHMU14Qmdab2xPWGlvemNEMFEwMkRqY2xucmYyTkJ0MUl0R0lKa0M0dVFGQXhqd2w2WURyNWpjWnNoU2VPby01bXhpU2xPb2xRQUp2dGg5bDNpY09HRDhoM0JYNy1jZDRRS1dxZFE1Mlo5U1hROElTUw?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 04:16:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "In Florida, Wasserman Schultz sparks a debate over what representation means in diverse districts - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZkEweWFqLTIxWkhzcXZ3SmlDV2pYS2s1bjRPaVhlbmRRNmk2cU5scktMYWtmaHVEUkpKWFJ2X1JXQkc0aFhzaUJsZWNkY1pHUGotRkF6VllTT2lZZzFLLTRweDlILWNaTFVjVy1PRFoxUUFiMHo3U05KRkwybS14ZE9uTVhHZGdQUVdHU3RYRXBXMHI4ZldXZ1dUdFVDajI2dFhyZ3RzbTM1NHc?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 04:07:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Photos show Cambodian children attend school in floating villages along the Tonle Sap lake. - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVUpHX0RhUzJOMm1uSUo0ejV0WUNNREZQRWFIQ0Q2eURuVVRjd0VKZzFlLVdkb1kzelpleC1jVy1ETnR2aHBsZnFZRjB0ZkxUVi1lb1Q1bEVVZm5RVjMwNUZSM2RuMndGbDFkRFNGTWxxM1c0Vk5abFA2OWFwMjVadlBJMXptajlTTzJjZk1OQ04yeEpaN0FuS2lSYlJ0NHRXMWtYQXBQSDVhNkEt?oc=5",
           "pubDate": "Mon, 17 Aug 2026 04:07:00 GMT",
           "source": "AP News"
         },
@@ -133,46 +145,40 @@
           "source": "AP News"
         },
         {
+          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 03:35:19 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Rescuers in Indonesia recover 6 more bodies in earthquake aftermath, raising death toll to 53 - AP News",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOekM5VXhLY1NEVEZnWUFWdzdpd3VnekF5UUkzdzQxSDFLWnJpbHlzN2ZQU2hwTDRVcWthLTJMWmNWUjVQdXRyejZwNllFMm1TNHFSZ05DQjBVQXc3Z01Tc3BiX29TVHVwNlhfakI5eHl5UTZmUm82VGtaR3o2eF9UODl3RHZQTHFwQ2RxdjJqLTJoaHVJSUFSdTBQV3VIdw?oc=5",
           "pubDate": "Mon, 17 Aug 2026 03:03:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Trump blames vandals for damaged grass in the same spot where he held his big July 4 celebration - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNa1RfM19TUU5waDI1Z1ZzRkdGQVlGdVQzdnRlWmVicXVjM0xMMHFRTjZ3QlVyVnVwSW9fa051bW9xRHRDX2NtaHVDNy13UVY3c1phelZmeWstVDQ5cTd1UEtYR2U0cEMwNE1rRU5sbXphMUIzV0hDYm01TlJURmZtZDM3YmRjdHZzeGRac3NubmVQNDlFUG04eHI2REVWTkFYdk56Mkpn?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 02:36:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Israel's Ben-Gvir advocates killing '30 to 40' people in Gaza nightly while speaking to ex-hostage - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcHhHV3lUMDZGRG9mdnFzME11M2syblB5NThWeTZtdGV4aW5XQXZUMU9jVnp6MkxQaWQzdXNxTjE4YV93MGt6alotNTdjNHlpSVJYWlVUVFBuWGUxdGI2bHFtYjJKZUUyaHlyY29tQTJOUGg4S3FJdlBHX1A5bHhKSmROWl9oZW5rN01WU3pSam5YZHVmelVoaXZvcFM?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 02:30:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Avocado pickers in Mexico welcome restart of exports to US, but security fears remain - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTW9xS0xIUkYzczYwdHJSTnBnTGZIQXdZdXhweDJzT2RfZURPUTNieFZ3VlIzX0JxSzc1UWNQU1lfVlh5QXZfQzk4YVE2MlRzcXdhb3M0b3JmTjV0OW1Jc2xMOWdqaVhtck1iZkUxY1VQNnhVQ19sU2dXbmVVVWZpRXdWTjB3amxLd0c4OUxodkkyemlmVEhjdXpSVDBmOExkQk5yODdTbFg1Zw?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 01:41:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Firefighters battle wildfires in Belgium and Greece as 2 die on an island near Athens - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYktmWUtyRG1meHR2M1NtVDdScldwOVk4enpGWC1RUUJKUG5lUlNmekFhZGhpeElsaWgyUEQ3VnlTdldXX1A1enJHUXluZDRseHFfMG1VU0l3RHQ3LWhGS1dlTGx3aS1ORFhjYXEwTXRSVTZUYTlreFdkV2kxQ0tjQ1JONENqelJvSFp6NQ?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 01:38:00 GMT",
+          "title": "Diana Taurasi inducted into the Mercury Ring of Honor as franchise celebrates 20 years of excellence - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ2ZTTmIyOTVmTEpwSDNIWVFMRF9jc1NoVmxfMVVDWmd4SUVPMW1DWkJfeEZTMjV1eV9haWxjWk52WVJ0eW8zd3R6RjJsRzlXY0hpa3I0YUZPbExVSmp3RzUxWGhjZVdRTjQ1dElENlVqZEpwaVI1bTJEcFBPRGpGd3V5eldlREZWaHhOc0ZLVUd0MEJEY1doZ1p2RW5sMExzMkRCTlpZRQ?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 02:57:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-17T05:10:05.693Z"
+      "updatedAt": "2026-08-17T06:01:41.222Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Indian shares off to a muted start as crude remains at elevated levels - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQUZOZ3VuQ2NHZWRMbVF4TE5WRlFMeWp5c3N6SlY4T2Y3ajV1YjdjaE9JLU5tTHVlaENLbV81NUxncUdhRWcxQXg1bUVIVlF0cHRJYzQ2RFB1VTRwMlNWRlNQbXpMSUhtMTFFcUtJaUJfRU5GUU9iQkl4QXRqM0dnYk9YS25NUDFBeFo2N0tST1c5elFsMDRXM1pPNnNCUW03eWRPNlFFZ2R1V2M?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 03:46:45 GMT",
+          "title": "Myanmar confirms nearly 309,000 Rohingya in Bangladesh, says security issues delaying repatriation - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYkJmMlhqYzFHSXozTjNGVU1iU3JQUUtzdnRwMFZFZkhlLVVieWFxejVmclk1aGpKbVJ2bDdXdUdLU0MzcHFhQnM5ZHZsRUgzX2h3UHRiYnpjeWlJMHV0UUVSWkF6ZVA3dVJlYkoyWDQ5Q01IekZqTEEwZnR2MXNZN1J5dDRKU2ZuVFNkNERiejdmM2VOUGZheEMxVFIxWDZBOHgtb2hZVzBjZGpCZ1hoQjVVQmRtemEySEtjbHpqTjM5d2F0R0FEMHZWSmxIV1Jr?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 04:00:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Six die at temple in India's Bihar after 'stampede-like' event, officials say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQU2R6ZGIzOFdNVFZud3R6OWZxNWkwdldkbXowT3JJZnhqS3NWZm5JaVdmRW55WGZZbDRVSnU2cWE0MkdJVGZVbnFRV1BERWYwODhsQ1Q5QXNNaWZBMERXeWFSSzV1VkhxWjNOQnJFMDhFNHRteXZ5TjllS3ZDSmkyS0JLTGFpejJyMExDVEhISUdicVRENjAtTmhjMnFkQ0FNQzVqREFoaWx1QlJrM0dSMlg5dXFKZHBkek9zSjJrUQ?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 03:44:00 GMT",
           "source": "Reuters"
         },
         {
@@ -200,26 +206,20 @@
           "source": "Reuters"
         },
         {
-          "title": "Asian shares mark time as Gulf war keeps oil prices up - Reuters",
+          "title": "Indian shares fall as crude remains at elevated levels - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQUZOZ3VuQ2NHZWRMbVF4TE5WRlFMeWp5c3N6SlY4T2Y3ajV1YjdjaE9JLU5tTHVlaENLbV81NUxncUdhRWcxQXg1bUVIVlF0cHRJYzQ2RFB1VTRwMlNWRlNQbXpMSUhtMTFFcUtJaUJfRU5GUU9iQkl4QXRqM0dnYk9YS25NUDFBeFo2N0tST1c5elFsMDRXM1pPNnNCUW03eWRPNlFFZ2R1V2M?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 02:21:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Asian shares rise, dollar slips as markets pare Fed rate risks - Reuters",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNl9yb3JkT21xaHcxVWgydjJJc1lLNU5LNDBicTBWTm1YekxBb0VJRUI5MWo2Qm9Ic0NfY3p4LU9BcXVQeUpZVkZ4Uk50dERwb01aOW0tM1ZVaHlDa2VIaEVOSmlGWG9PYWxNNDdRbDJtQzVrQ29RZVV5a3dBb1l0NGozaw?oc=5",
           "pubDate": "Mon, 17 Aug 2026 01:17:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Yen stronger as traders cut back bets on Fed rate hike - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcEx2UnRQT3N2aTdDejItdVFGZ280ZXJ1ZzYtSHRoeDg0WEd1dGxmbkRvd1ZJMVRaUkdsMEZsMWx6ZUh1Wk1NeExBUTRxbHNuaW01TFpBd1F5dWlOOWoydXdETU8tamlmU2xpeEptdDRDTk52LW9GZW5oV201MmRubl85SnNSdnVwT2NxT0VHdmxxVGJ4TGdIWFhQcUN4dnBEcmFUUENqRQ?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 00:41:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Oil rises as US-Iran peace talks stall, Hormuz shipping slows - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNmNqanA3WXVHU3JvRVRoZnVBYUpwUmRGbkxCYTNHLW9EeTFhbTdFcjFqM2JtZVctcTd6TzhEYnJUekhXQURDRXkzUXNNRlF4OEN3S2VQZ1ZIZ0c5OHo0d3RWdG01Z1o5amVMZFk0cGdUOGV1enVQYVVzTWtQVl9rTHhyM1RaeGxOd0RUNEM5NWJCMW91WFpITmp6TmlKOWF4RUYtMTRBQVpYX0pqZ0Q3UjNKVHIzZGc?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 00:31:00 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-17T05:10:06.105Z"
+      "updatedAt": "2026-08-17T06:01:41.575Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-17T05:10:06.246Z"
+      "updatedAt": "2026-08-17T06:01:41.761Z"
     }
   ]
 }
