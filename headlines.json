@@ -1,9 +1,15 @@
 {
-  "generatedAt": "2026-08-17T12:54:37.024Z",
+  "generatedAt": "2026-08-17T13:42:45.836Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Russia and Ukraine trade more deadly strikes",
+          "link": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 17 Aug 2026 13:16:50 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
           "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
@@ -14,12 +20,6 @@
           "title": "Top Zambian opposition figures arrested days after presidential vote",
           "link": "https://www.bbc.co.uk/news/articles/cn0nj3ln8r5o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 17 Aug 2026 12:11:13 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Ukrainian strikes kill six in Russia, acting governor says",
-          "link": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 17 Aug 2026 11:14:39 GMT",
           "source": "BBC News"
         },
         {
@@ -54,11 +54,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-17T12:54:36.491Z"
+      "updatedAt": "2026-08-17T13:42:44.483Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "DHS defends investigating agency critics and giving them warning notices",
+          "link": "https://www.npr.org/2026/08/17/nx-s1-5934692/dhs-free-speech-investigations",
+          "pubDate": "Mon, 17 Aug 2026 09:31:13 -0400",
+          "source": "NPR"
+        },
         {
           "title": "USS Washington to relieve USS Lincoln. And, Jared Kushner to meet with Netanyahu",
           "link": "https://www.npr.org/2026/08/17/g-s1-138973/up-first-newsletter-uss-lincoln-meta-israel-hamas-ukraine-russia",
@@ -100,20 +106,20 @@
           "link": "https://www.npr.org/2026/08/17/nx-s1-5930701/meta-trial-kids-social-media-addiction",
           "pubDate": "Mon, 17 Aug 2026 05:00:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Advocates worry new bans on student IDs will trip up young voters",
-          "link": "https://www.npr.org/2026/08/17/nx-s1-5791740/college-student-voting-voter-id",
-          "pubDate": "Mon, 17 Aug 2026 05:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-17T12:54:36.533Z"
+      "updatedAt": "2026-08-17T13:42:44.713Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Belgian wildfire approaches Germany despite rain as Greece probes deadly blaze - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNkEtaURhc3NWTDhHUDNMNDZ3bWVDZnFsQVk1ekdLZnQ3N1cwV04xN0VfYmNRcmxNbzNkVnZLXzQ2T2FCWDI5Z1lxREZvcVJERlhsSnc2ZkhLN1k4UmI2U3d5dzhiQk1INFZ2bjN6aHJxbmlhTmsxbjdVcDhKZTQyb2U2U2hvdllVR1FTMzQzUVpWbUthRkQ1Tjd5UG0ydm44dE1pVA?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 12:48:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Hayden Panettiere, who starred in the television series ‘Heroes’ and ‘Nashville,’ dies at 36 - AP News",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZ0VPOUpJN1VQNnRNNUV3U3dMWHc4TlpzbGNIc2l6OHBvVHVZWXdmc1JrNTVfVFdBemJMZGtRQnVkcUtnZjV4UzZ3UV9PR1o0ZzczSUh1UTh6M3owVC1xWS1NcjNLbmdOeXVwY0RyNmhjNTQxLXF0b2ttV1dCMHpuYS13bWhwQUZlVkE?oc=5",
@@ -121,9 +127,27 @@
           "source": "AP News"
         },
         {
+          "title": "Iran works to finalize Strait of Hormuz agreement with Oman, and other Middle East news - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVEF1REJ4VlIteVJOUS1hVEppZzNadkVkVTVicGJrWXphNGxmcVZGQlNNTHhvTGttWUUzRGgtWW9kTVJ2T284OWo0RXRoME1yWEpfWGN3cG5FYXBwU0VDdDdOT2hzWDVYZVpyOHpscWR2ZW9oNk9ON1ZRSEwtaWJUX3dvOHpieWVqRWF1cDFEVm9PcFR5dXhoQlh1TlFxWGFUN2JaRlphSENKMk1FUXc?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 12:38:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Kushner’s meeting with Netanyahu on Gaza stretches past 3 hours after talking with Hamas - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUVdtaFMtbEtnT0xJcWlmV0lyUVY5TXplSldPSm9JbV91OVNiZEN2cmFibzYzUmhiMjdvdjg0cUpEc2tKd2xQSEZQUllZTGVZXzdZenJZajByZVNjT0hMeHVYZGFoOVJmXzBycGM4ZzYtMHRHcWg3T3hPNFc1RzVQSkRqbFd4S1RuMzc0RjlGQ0pXNEtaNW02bFhjcnNad2FvOFpzaHBPckpYWDQ?oc=5",
           "pubDate": "Mon, 17 Aug 2026 12:24:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "AP Decision Notes: What to expect in Alaska’s state primary - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZGpvWFpCYl90QlJxQ0ZRQzlMUTBVTU9TTzBubnRfRUs5ZHFiZTI3Yk5HQ2VybG1fdWVUTkxNZjdGTTdjWjNtZ1FjUmpoVnctazh3TE9rbUpBVEl3ajc0eE5kNkdRVV96S0I0dzFMVUZ0Nk9DS3c4MlBMelUycngwM3lzNEIzMTJnTmZhTmRpSzR5cGxUZkROSnRTMkg?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 12:11:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Futures mixed in a big week for retailers as new questions rise over the consumer state of mind - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRGMxazQ3aC1nN2JTWmNzUGxNd1JaNXlUam9PQ05SVW44a2NCTlNNRzlwdnRBQkpEY0pIYTdpYk5DUzhnZG9XVWdwbUxNM3BJOEpJQzk4djduaTVHcl92NXFIS01kZ2lTcnplZE8teGdCaDhpdzQzLVZqeFVfTjl1ODJjcy1nRnlkZlBFOG5UaEszcXhFVTZ6U003ZlBfbWM?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 12:06:00 GMT",
           "source": "AP News"
         },
         {
@@ -137,38 +161,38 @@
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZkEweWFqLTIxWkhzcXZ3SmlDV2pYS2s1bjRPaVhlbmRRNmk2cU5scktMYWtmaHVEUkpKWFJ2X1JXQkc0aFhzaUJsZWNkY1pHUGotRkF6VllTT2lZZzFLLTRweDlILWNaTFVjVy1PRFoxUUFiMHo3U05KRkwybS14ZE9uTVhHZGdQUVdHU3RYRXBXMHI4ZldXZ1dUdFVDajI2dFhyZ3RzbTM1NHc?oc=5",
           "pubDate": "Mon, 17 Aug 2026 11:47:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Iran working to finalize Hormuz agreement with Oman, and other news from the Middle East - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVEF1REJ4VlIteVJOUS1hVEppZzNadkVkVTVicGJrWXphNGxmcVZGQlNNTHhvTGttWUUzRGgtWW9kTVJ2T284OWo0RXRoME1yWEpfWGN3cG5FYXBwU0VDdDdOT2hzWDVYZVpyOHpscWR2ZW9oNk9ON1ZRSEwtaWJUX3dvOHpieWVqRWF1cDFEVm9PcFR5dXhoQlh1TlFxWGFUN2JaRlphSENKMk1FUXc?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 10:46:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Iran war - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 10:44:28 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Thousands in Indonesia await aid after quake kills 68, overshadowing Independence Day - AP News",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPc2s5YWF6T2ViWDVUSTFEMmlmWC1tUnJiRHdPamRJLW1XLXJ0ang0QS15SllOOThiM1RScFRyOGp6OXZ2WjVacmFWUng2ZkxGdDFhWW90Nkh0dk5nVW1VQ3pUZ2JkU3pMNEtVS21wbmhNNzMzY3M1STVINkw0TkZsbjFqUUJHZi1razhoTy1BOWw1czBkeEFtM3RxaEZNZw?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 10:28:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "World shares are mixed and Brent crude is higher after worries over stagflation pull US stocks lower - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRGMxazQ3aC1nN2JTWmNzUGxNd1JaNXlUam9PQ05SVW44a2NCTlNNRzlwdnRBQkpEY0pIYTdpYk5DUzhnZG9XVWdwbUxNM3BJOEpJQzk4djduaTVHcl92NXFIS01kZ2lTcnplZE8teGdCaDhpdzQzLVZqeFVfTjl1ODJjcy1nRnlkZlBFOG5UaEszcXhFVTZ6U003ZlBfbWM?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 09:05:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-17T12:54:36.944Z"
+      "updatedAt": "2026-08-17T13:42:45.251Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "US awards Raytheon $22.9 billion seven-year deal to boost Tomahawk output - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZ0hQT00ybHQzbWM2bDJBam45dVpTWmdscVpRM2t1YnItV0RXbmNPUW14Qml5dVNTdGtvSUx0VVk5Sk41ZFdVdjhuSmt5eFRHVzFkc1lsUndIYU5Jd05FcXlmaHhLaFpvR0RKVEhXeFFwczhZUVJtaENuWXhId0Y2NWN6VkdnRXV4dDdrWG9tLU4wcVZzWUNvYjVQR2ZRSTRFdFYxQWNtdGRzczRXell5UkUzOWh5dkhrYmh1cFlFa3M2TXU0dnZ0Qw?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 13:24:08 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Nvidia to invest $1.5 billion in SB Energy under OpenAI data center deal - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZkxQZ0FIUUQ0X2p6bVF1NWw1eF9PQnBtRVJVbUk4eV83UkU5X0JjdmE0RnFDdkZOLVJNWWlCejVmOTdmdTFoT3FGWmhGOGVYdFdwcXNwWlAtaEVNRnFPYkZFVzhmY3ZBQ0xERGUtWFF6QWdxcVFqR2k4dkdDTkJHNURIdUJ0Rk05NE94ekVPMjYtaWNodnItODdIdGU4Qmw5bndYZ095UF9nRFc5RnRheGxtNXFCM2VWbXd5M2pCTGw?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 13:03:28 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Houthis say they attacked Saudi vessels off Yemen’s Mocha - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTEViWjVJeVRDNlYyWjhiN2VaLVltUW9OcUJLRGJfU055NkVreDRrUHNxUDlZS3VFVVVDMUhJZk1tNE9JMlhUeGctaWlzY0VtSFo0ekZrRGFfYWU3elI3dVNNX0J1b0k4NTRsQzdTOHlvZEtrTFBvUXRBa1dIaHlONUNjY0NmUjlKV19FRDh6TTl6R0FqbGZpWHJXRDFFZzBBaDJpUE5wS3lDSDlHQUZB?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 12:36:27 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "EXCLUSIVE: Shein cuts company valuation to around $25 billion in Hong Kong IPO, sources say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOLUNHYWNOdkFEd2poMFNEQjhMSzdwZjJMZE9tZ1JPbFlVcnlDZGktZ2toNUdqNmQteXJCa3dhVUszUHhlVHhXUDVZd25xYXB1Qk5wVDVvY0wwaEcyNi1JTmp0emswa1ppajQxd0dHSmRaVk5IWlgzam5Xd1hsTlVUUzJqVzJ6Ymt2MjhZSi1RWlNsMFk1dFVrZ1cxRDdBOXM5MmxwZVVzTmhTdDhjUlBMamZEcDU3MTc1ZHdmdWNSTG5UU0lZdGhR?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 12:22:20 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "S&P 500, Nasdaq futures rise on tech boost - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNmVQMTVLQjc4cmxldlJTQjJiaXFrUFp0cXh6R2xQaGhRS3g2ZGFQbmRwM2pWZTRBQ08yTlhOZHNzVEExVWNVb0tHWmZRU0s5RHhuc3czT19MeXVBeThpejlsZ0puNnJ4UlNCTEg2NjNKYWVObzhDbnJ5UFBaeVFXYjlrZWJnZGhJRHc?oc=5",
@@ -182,44 +206,20 @@
           "source": "Reuters"
         },
         {
-          "title": "Apple to change app data consent rules, German regulator says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVnlTREpFM3lfWlRJMHJOTEQtZ2JlWjBycXYyTVA2VXRJcEpyeDJlTFdUWmRQQlZtVHFpMVRBYy1nbXp3MlZ6aFRLOHBPZXZvSThkamZtZmdDTTd6VmxzQTlMZnhLM2lYRFBNNUZNRlkyUlVIUDN2YjB2anRrZlVSMEtwZ3FHS1BQWkFfWm1BV05UMnVKa0FkSzU0Vy1vUVZuT0hsV0hSZkFEY0dSVjc1WmZOdHBrcHBxaEE?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 11:06:04 GMT",
+          "title": "Suspected gang leader's mother-in-law and sister killed in drug-related shooting in Spain - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZV8xSndxWmQxMWcwSVVVNXc0MThTSHV0dV92SVgyTWJjekxwSGFQcEIxNW5XSDI1VnU4LVliM2JqcngzclF1S1NMbFEybnlBd1dIUDhjLU9hUktOYmV0Q29Eejc2ZlduZU5LN25BaDloenFFY19LTjNqWDlVQ0tFcFo5dHNSb2hnTDFxYjJVbjFEWDQ2NHo2VnhJRDUxandTZTZHNDR2Nm0zZ09qZzFhVEIycUhIUGVzQ1ZGVg?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 11:31:26 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Second wave of fuel shortages at petrol stations sweeps across Russia - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWVpqRUVqYVlKdHYySHdET1NlSGZhdzlDX2RKUzBFZm5EYndqXzFYNFFieGVjVFFnTHg5NXNiOEo1eVc5bVFJX0VfcmNBd21wSl96akVOQWsxaldjUkdSUTRfNW9UalMtSlhxeHo0czRwN3RiNzNzbWZLYThJVnJUNEh4cm1venZfRm15QU9XR1JPQlh4c1ZfZU9rdl9kSDUyMmFBYkRuNXZTOW9VNDg2OG05dkpjZw?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 10:45:06 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Morning Bid: Retail risk - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPajk1QjAyR0JBTks3bnF2MHpaN3JzMkxMVTV6MGxuUnczTmh1ZThHdDBOWVJtaFlaYm4xYXBwc3JBUEVKbzZJUkZaLVlkLTdnQlJ3RU9sTHdqUmlCN3ktX1VDRnhPbHRzUXo5Z052cE5kNTdhUVlnUWVKQy1wVGVFNHRlbnZOQktRSGNKSW9zdEU1SlVRU2tn?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 10:40:30 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Trump crypto firm backs venture offering AI from restricted Chinese companies - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTHhDcEM5cGN4V2duaGh3RmNtbVZndFdfWHBjSkF5ekRiN1JBVnRULTBUeTVld0I3czliYWZsckdXbVJfLTdJcldxY0V1VnV6NU1sME1uM3BWLUttZzR4RDVPSkJsTXlRQkRSTkFJc2pLelNEYXNBWHpUX1BGdzFBTGtmaFFwdE1DclphZDZncHMyTk5oNmFZSWhQRmVrUHdkaFpCb3ZBWWY4eExmcGZEMkJZekFPTEI3VG4zUQ?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 10:25:18 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Indonesian mother 'grateful' after emergency birth during 7.7 quake - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPemYtWWlLeUdoc0lYZGdwVzhlRW1DTWJKakt2cHZ3YmFqYVZybnpHNGRwajlqbWZpcXlSaUYwdlFWREVoUkwwYW1HS2FhTUI3MVFHSXV2UVlOcDVjSWtoSEF1bW1PRW1MWXg3TmFERGRSTzNTQXVoNXRnRDNvM1V2Tld5cUhFbVZSY1NRNkxJRmJKLXhwU2IxV2xHX05uOHhsVlk5Um8xWnJ3dVBXclR6YlNNUFBrRUhvZV9tdlRB?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 10:21:30 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Zambia says it arrested opposition figures on night of elections - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV0tLQU1YY1lkdGk0MWxCLVJUT1h3QnNMMnQybGZyamtqdHkweEFoZ0huazZpY2tLZThybGhxS2t2YlItbmVXYW9ieDNXZDFpaGJVLVFwM1NCb0NfU1ZpWG9JSWRaZzV5Mk1NNGRZR0FSRmlyTkJkS0FhNjE1eUhnUzdqOFhtNllsaWNlcTIzejdTN1phT2dweDEzMlMzN0R6WG1YRzVHbFNhams?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 10:20:33 GMT",
+          "title": "Madison Air Solutions to buy Germany's ebm-papst in $5.4 billion deal - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTk9WelpNSWxSQTEySTBuZ1gxNjhabk9zNkZobFpQaWlySDZ6VGlnNGxXbFBKRE5jYU1MWHF5LWR5SDRrSGsxOEpMLXJOUGw0Um9aZGl4cUV3d3RXUEtQQlVCZmp6OVdJZXc5ZEpuV0ZLY1pNaV93QWhsS0ZjUXl1ZlNCbXlyaTQ2VUs0S1FjdWJ4bXVmQlZ2ekNyU3dEYWlIUEFjQVRZUWFGc3VPMXdxUEU3WEZ1UlE?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 11:16:27 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-17T12:54:36.953Z"
+      "updatedAt": "2026-08-17T13:42:45.701Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-17T12:54:37.024Z"
+      "updatedAt": "2026-08-17T13:42:45.836Z"
     }
   ]
 }
