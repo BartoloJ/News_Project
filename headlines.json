@@ -1,19 +1,25 @@
 {
-  "generatedAt": "2026-08-17T01:40:48.853Z",
+  "generatedAt": "2026-08-17T03:05:21.176Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "About 100 homes swept away after Hurricane Lala lashes Hawaii",
-          "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 17 Aug 2026 00:20:51 GMT",
+          "title": "Trump says US to scale back South Korea military drills after it stayed out of Iran war",
+          "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 17 Aug 2026 02:51:27 GMT",
           "source": "BBC News"
         },
         {
-          "title": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
-          "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 17 Aug 2026 00:06:05 GMT",
+          "title": "Ferrari's first ever electric car sold for record $40m at auction",
+          "link": "https://www.bbc.co.uk/news/articles/c77ggpgrp2do?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 17 Aug 2026 02:22:04 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "About 100 homes swept away after Hurricane Lala lashes Hawaii",
+          "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 17 Aug 2026 00:20:51 GMT",
           "source": "BBC News"
         },
         {
@@ -45,16 +51,10 @@
           "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 16 Aug 2026 19:58:14 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Two dead and hundreds evacuated after twin fires break out on Greek island",
-          "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 16 Aug 2026 19:50:36 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-17T01:40:47.392Z"
+      "updatedAt": "2026-08-17T03:05:20.225Z"
     },
     {
       "name": "NPR",
@@ -109,15 +109,33 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-17T01:40:47.552Z"
+      "updatedAt": "2026-08-17T03:05:20.270Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "Trump blames vandals for damaged grass in the same spot where he held his big July 4 celebration - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNa1RfM19TUU5waDI1Z1ZzRkdGQVlGdVQzdnRlWmVicXVjM0xMMHFRTjZ3QlVyVnVwSW9fa051bW9xRHRDX2NtaHVDNy13UVY3c1phelZmeWstVDQ5cTd1UEtYR2U0cEMwNE1rRU5sbXphMUIzV0hDYm01TlJURmZtZDM3YmRjdHZzeGRac3NubmVQNDlFUG04eHI2REVWTkFYdk56Mkpn?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 02:36:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Israel's Ben-Gvir advocates killing '30 to 40' people in Gaza nightly while speaking to ex-hostage - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcHhHV3lUMDZGRG9mdnFzME11M2syblB5NThWeTZtdGV4aW5XQXZUMU9jVnp6MkxQaWQzdXNxTjE4YV93MGt6alotNTdjNHlpSVJYWlVUVFBuWGUxdGI2bHFtYjJKZUUyaHlyY29tQTJOUGg4S3FJdlBHX1A5bHhKSmROWl9oZW5rN01WU3pSam5YZHVmelVoaXZvcFM?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 02:30:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "BBC asks a US court for help in getting testimony from the Trump family in defamation suit - AP News",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOC1kd19wN1hwS2Z0YWlGNzZTMzVSNzZXNE1NZmtHM0RZNVRkVVYtQzJadEIwWmZFWVNkTHhqbDFvb2hTS3BaZTVEWU5UVi1aYlhYVlpnTXdMTmxuWDgyN0FmY08yVElKWmxQdml0NGJfUWwyNlJ1Y2x0QUJySk8ya09rYnlxdXBkYTIyaXJnUS1ldDJVUFNZUXpnU1E5TU0?oc=5",
           "pubDate": "Mon, 17 Aug 2026 00:36:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Avocado pickers in Mexico welcome restart of exports to US, but security fears remain - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTW9xS0xIUkYzczYwdHJSTnBnTGZIQXdZdXhweDJzT2RfZURPUTNieFZ3VlIzX0JxSzc1UWNQU1lfVlh5QXZfQzk4YVE2MlRzcXdhb3M0b3JmTjV0OW1Jc2xMOWdqaVhtck1iZkUxY1VQNnhVQ19sU2dXbmVVVWZpRXdWTjB3amxLd0c4OUxodkkyemlmVEhjdXpSVDBmOExkQk5yODdTbFg1Zw?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 00:29:00 GMT",
           "source": "AP News"
         },
         {
@@ -127,50 +145,56 @@
           "source": "AP News"
         },
         {
+          "title": "Scottie Scheffler back to his dominant self and opens PGA Tour postseason with 8-shot win - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNemRzYy1mYUJWWUhNbGUyZk56eHFrRzFpZ05QQ3ZReDM3RUlzWk9GeXhzdG5CWThvTWRDV24tZWlucWdBZktON2wwcFJHTWFkcWRValFPQy1mdzFWVGNtSXRpRmh6bVNoS0FhSndHQXR5djV2YUVsQkd0SDdjQ0w1YS13R00wUm02UWdEbXNhUllab0QwbFl4MkJmUDBRa2lrUTZqSTR2Ny0?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 00:03:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Tropical Storm Lala rakes Hawaii with high winds and rain without making landfall - AP News",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaHJWdmptUWhHamR5OFQ2ckI0Qlk5YjRIcnBNa1dCdzNBaktSdnNtdHhLNHFZNlE3VHZWa1JMWVpMTWN2dkhuemhVT1VRSGxLNXRYZ2M3aHB2cnpvZW5nS2FqMHBsTXpHVGNqYWl5SXRfblFETEFTT3ExeTVYNEtBNlhrYnkzSi1tU3FKcGRSRmh5OHZvUFJ2LU9wZTJyUQ?oc=5",
           "pubDate": "Sun, 16 Aug 2026 23:42:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "THE ASSOCIATED PRESS - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jNk5uR19nX2ZhbUtOWXBOQThyYWZxcFd3RlR2LWVRNG1QdHJLYUItbF9adzBvc1Y3dkxSYm9nU0k2OE9JNDVZbk1tSmh3Qm1UNTBYM0IxeHFwdw?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 23:28:09 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Britain's Amy Hunt wins record 4th gold medal at European championships. 'Mondo' victorious again - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNclVUYTROTVI2N1o5QkZRUnNfTjc1RnJRQ1dfblJWLUk4ZWNiRHVOS1lVNXBGcUhEU25iWWVTcmdCR1ZBZnp5SUpMb3Q2SjVMa05ZMEd1X05LZ0ZIR2lsRFN3bERONHNUZUxqSlloT0VmQlhFWm5TOGxoYTlGaWZzY2ZxRTUtWjhpa05pekowdjBJRWZIZTI5WGVjTFVwWGY3SmxINkF2QUJYQXJPckpCMGhlNA?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 23:03:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "- AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObzA1WUZHTUtiZWk4YVlJMTViQ1dZTDU3N3RjeHFsdDBnRnlXZ1R4ODZLbVQtaVp2SEQtZk8yUWpZZVVuZDdoTm9MYU5tMi1DbEZvRC1pQjVFMVBOdTY3d3o4bzhBUFpWdVdFNEhQbkJfdTh2eXVIRlRZRUJnNm16T1htandZSXhldGZPMnJiSnFJQk1aNlQ1akI1dHpfS3J0QzNLRnM4NA?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 22:56:40 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 22:29:16 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Reaction to the death of Tommy John - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUExrSkNNWEZDWENLUXdDa21Tc0JMT0txd2JqbU9HSUtJMFREbDVVODNYMURxWFFPOFZTUk15ZDdDU2RtSkZJWDlyeFpLUHJXbTFoSVBHQ1ZDZF9rZXA0eU5lTmJtdW40eXNrclRJNGJualk5TVNPMFBEckFsM1JHRll5ZS1YME5ROWV4VWln?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 22:29:00 GMT",
+          "pubDate": "Sun, 16 Aug 2026 23:29:16 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-17T01:40:48.028Z"
+      "updatedAt": "2026-08-17T03:05:20.688Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Oil treads water as US-Iran peace talks stall, Hormuz shipping slows - Reuters",
+          "title": "Japan Q2 growth misses forecasts on weaker spending, investment - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU21ldTFQWE1HaTVtdWZqVW5QTllNV3p1ckpqcFNnYXAxUzBZVTVkNGFYWmduXy1UQWJ2ZUJyQmZxTkt1RldUTWNtUTltLTBJb2h2My1zbGltQWp2V0NNRGpBZ0k1dFVOSjlwZkUyZmFVWEJNQTd1S3RITFJ4bzdxRmhNVjlVQUhnX3hKbnRsYWpkQ0wwQWZSZm5XTTNhczlJZlFUZm1tdWppc1E?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 01:31:48 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Asian shares mark time as Gulf war keeps oil prices up - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNl9yb3JkT21xaHcxVWgydjJJc1lLNU5LNDBicTBWTm1YekxBb0VJRUI5MWo2Qm9Ic0NfY3p4LU9BcXVQeUpZVkZ4Uk50dERwb01aOW0tM1ZVaHlDa2VIaEVOSmlGWG9PYWxNNDdRbDJtQzVrQ29RZVV5a3dBb1l0NGozaw?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 01:17:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "South Korea landslide kills one as heavy rains sweep southern areas, media reports - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbWhvMFJLaks1THY1NDI5dm5jazAzWjl5ZVpPYlNaellBZ1FZOTlfMjZOaFM4WWpuYW4yb0hleHZsSUN1b0lCSVdvZlcwQVhyZWVTbUZaWkFMcHdxNEZRU1BjUmZWYmhKSUlFbFRQeHFlWnQ2b0RHQWgySzFDb3RwQmM1SDJaNjU5VGMtbUE2WlV4d0xDY1Z3OFZNSkVpZ0tMS0pMaF8tUl9ReUo5WlR4MlZSOU1mNFpvT2QzQks3ODlaV3FHc2ZkODFlUVdQOGlY?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 01:12:29 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Yen edges up as traders push back Fed rate hike bets - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcEx2UnRQT3N2aTdDejItdVFGZ280ZXJ1ZzYtSHRoeDg0WEd1dGxmbkRvd1ZJMVRaUkdsMEZsMWx6ZUh1Wk1NeExBUTRxbHNuaW01TFpBd1F5dWlOOWoydXdETU8tamlmU2xpeEptdDRDTk52LW9GZW5oV201MmRubl85SnNSdnVwT2NxT0VHdmxxVGJ4TGdIWFhQcUN4dnBEcmFUUENqRQ?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 00:42:06 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Oil hangs onto gains as US-Iran peace talks stall, Hormuz shipping slows - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNmNqanA3WXVHU3JvRVRoZnVBYUpwUmRGbkxCYTNHLW9EeTFhbTdFcjFqM2JtZVctcTd6TzhEYnJUekhXQURDRXkzUXNNRlF4OEN3S2VQZ1ZIZ0c5OHo0d3RWdG01Z1o5amVMZFk0cGdUOGV1enVQYVVzTWtQVl9rTHhyM1RaeGxOd0RUNEM5NWJCMW91WFpITmp6TmlKOWF4RUYtMTRBQVpYX0pqZ0Q3UjNKVHIzZGc?oc=5",
           "pubDate": "Mon, 17 Aug 2026 00:31:00 GMT",
           "source": "Reuters"
@@ -178,48 +202,24 @@
         {
           "title": "From coffee to hotpot, brands race to grab a bite of China's growing burger market - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZUZVN3Z3V2txV3l6dU5PaUN3S0tFeU9PYUo4S1h3Mzhwc2JhZzJpM0JNbUhEcDFkM0RfSkN0ZUdrZk9IUmlqLWhJbXBCRzlfSENZSGdzOW1XdHVrMjBWZ3J0X1lQTFVpSGpWZkM5N25CSzVld3RzcmRKUktGTlNWcGg5cmFoTXd6MVhnWHJUek1mbTZtXzZDYTNZOHVTU3VFaE13Um5Md1hwazRsTzRSQnJadWNSSDFnMUdvdFV1NHlsUlE?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 00:11:45 GMT",
+          "pubDate": "Mon, 17 Aug 2026 00:10:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Trump instructs Pentagon to reduce military exercises with South Korea - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaGdQYThHbnV2b3NnalEycy1sZGpyNGNLaGNYODl2TmhhUnNma2ZhMk1MTURNQWxMalB3OUswYk10R2RJZGlBNnJoUkZzRGxGcE8xQklBZnlZYUs1d004Q09uUWdDeV96aFlJc0o2Nzh1aHZvRVBhZTV2SGU4RnZremZXWkw0YUp3SENRTDNFNkFyOWNVS2ROSEpCaVhpSmV2QWhMUGI5aVo3aUc3Z2pkWDBIQ2lRdw?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 23:30:39 GMT",
+          "title": "EU plans most far-reaching sanctions package against Russia in autumn, foreign chief says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbk1aZnI3eEd5X0NiUWJ6M005Sm9hekNHZkFDX21fcHQ5QTdnajFBV2xQalhOOFJHTWRmMlJXQ1ViXzIzdnFzb1YyMnpVWGRPNG1fUlNDZzVGb3VjN1I5RjVtZ05DdzlCU2RNNkhkTkNCWjNISnZuLWxzZjRFZlMyNEo1YjVvTVRsRnFBVklaWTZWcDZxSWN0SWlwdTJ4RW1VTnFhdXhtajlCbXRnUVA4Um44ZGVEZTFpTVNYYnMzWGJTcXU1RHdSag?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 00:05:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Asking prices for UK homes show biggest August fall in 8 years - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVy16LUxQUElCOFR3TXpGTDEwLTNWbXFLSHE4U1I2Q1NETHBSZDMtQXVscDdxZk50ZWJPbGhkMmdtSkc4S2FQQTVtRE9WSUhxYjNzWmlidk96THZzajU4bV9hOVB2d0hrR1lDTHoxV0NCem5qQTZfTWFwTzhWLTVSOWxCNWFrZzE5aGg0WlRQMlVKQ2V2SDl2NVVST3hXckVENlE?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 23:09:43 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Massachusetts anti-hunger advocate fasts to protest Trump food stamp cuts​ - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQXhFaDhFNUpvdWN5eFRsb2hDeWd2VllSUFh4MzdtQmd2aTZJM1drejljV0RxYWgzNTdpR25hWU5mUnF0NmxMcW5tWnVZMkxDVV9TaWR4Mk82OHVWaC1vMFZUZDR0anMta3pMc0Vsci0wRW9GMDFqM0lKcnhXNDVlTk4wMU5vMUhnbGtld0pFUEFFZGJwZTFiWHozOGtkOFlwQXI1NzlScVVvVWhaeEx5dU54eWhMNFNRVEZkVEpPMG8?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 21:51:36 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Elderly couple die as wildfires sweep Greek island of Salamina - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMzNiYlNyRktPbF9KUmUwSzVTSzhUdXlqbFRDX3VUUWZyMHJOaE5yYkpLcDNudjZjMjZPdGFITUJHS2o2cldYRHhMdWtyX3pVSDFKR3F1UmJZTWoyS2NXeUpIT2Y1eUk1UndXRXlQTjhmcnZ1SXRYRkhEQ2dBaENTVG41RWhfbmIydHN1WVB2ZW45Q1FMLXpuREVTMXVVeXA0MHRFQg?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 21:18:59 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "New Zealand's a2 Milk tumbles on weak earnings forecast, profit miss - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRHFOWHVVU0lFLVVlWTJUeURqd3hnSFB4WGNnMkNVWmFtalFadGZUN2dleEhQeGtEcUl3TmI1bEMxaFRZOXp6OWN2QnUtaFl6TlFsYnU5akMxNVBxbmNIRWR5cUZYT3hBdFMzd3RVa1ZKbkd0a1ZkeFJvRC16UEx2WExOeFNuWmt4ZzN5UVVoc0dQRmRCYXl5bG44VlBXbEFOQTh2eDN0WThzbzloWDdyWEFn?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 21:05:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Twelve killed and at least 10 injured in Polish bus crash in Hungary - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZ2puckZxdHQ1aDQ2YmsxMXpuTHd6M0ZkMVhzOFNjXzJ3aTEzeHN6OEMyMkRCWTU2Y21MUUR2YlFjUlJmSG1Eb0JiOF9sVkdxY1dLMTBUY2xiUnNQdXlCRkFSeFNsdUJ0REd4NGxINnRZMDhyZWoxMzRMWlNTSWExd0xGT1pLWWJUcDQ5WEJPYVlBdDQ2aE0wazZRMzlrdw?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 20:09:57 GMT",
+          "title": "Shipping slows through Strait of Hormuz after tanker attacks, data shows - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOS011b1NvcmEzQUNzX2dVdzFyUmg1UnpkLXZqNW5nUFFxNGZpaE51amZaZWJDZnNTQi1yZDE2cGxwU09PdzhMWWJiV1lpMk0xSmJmb0dQNVdGN1F3RHBTaVQtRzlsU2Nwa2RER0ZlbngzOWc3aDV2MmMwRmNfZ2xXclpHRzE0RkFzeDZ3MjY2QTAwMlFPSEVTeTRQM0JDQ2VtQjVPQTFPZWxRaXB4YzBTbjBVSXlxQTBoMUE?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 23:54:51 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-17T01:40:48.583Z"
+      "updatedAt": "2026-08-17T03:05:21.086Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-17T01:40:48.853Z"
+      "updatedAt": "2026-08-17T03:05:21.176Z"
     }
   ]
 }
