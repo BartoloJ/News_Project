@@ -1,9 +1,15 @@
 {
-  "generatedAt": "2026-08-17T14:33:46.567Z",
+  "generatedAt": "2026-08-17T15:30:37.016Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Trump threatens to bomb Oman if it 'gets in the way' over Iran issue",
+          "link": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 17 Aug 2026 14:59:02 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Top Zambian opposition figures arrested days after presidential vote",
           "link": "https://www.bbc.co.uk/news/articles/cn0nj3ln8r5o?at_medium=RSS&at_campaign=rss",
@@ -23,6 +29,12 @@
           "source": "BBC News"
         },
         {
+          "title": "US hiker dies after being struck by lightning on Mount Etna",
+          "link": "https://www.bbc.co.uk/news/articles/ce34rlkw6q7o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 17 Aug 2026 12:23:26 GMT",
+          "source": "BBC News"
+        },
+        {
           "title": "Aid shortages and fears of starvation as Indonesia reels from deadly earthquake",
           "link": "https://www.bbc.co.uk/news/articles/crl7686r71yo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 17 Aug 2026 10:39:24 GMT",
@@ -39,22 +51,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 17 Aug 2026 06:24:31 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Aussie rules footy players under investigation as police probe sexual assault claim",
-          "link": "https://www.bbc.co.uk/news/articles/cg4dd420ezlo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 17 Aug 2026 05:46:45 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Ebola outbreak in DR Congo becomes deadliest in its history",
-          "link": "https://www.bbc.co.uk/news/articles/cvgll74vvydo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 17 Aug 2026 04:41:31 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-17T14:33:45.111Z"
+      "updatedAt": "2026-08-17T15:30:22.486Z"
     },
     {
       "name": "NPR",
@@ -102,14 +102,14 @@
           "source": "NPR"
         },
         {
-          "title": "Cialis is an erectile dysfunction drug. Could it also help you live longer?",
-          "link": "https://www.npr.org/2026/08/17/nx-s1-5928263/cialis-viagra-tadalafil-longevity-heart-health",
+          "title": "Elon Musk's Starbase wants to expand in south Texas",
+          "link": "https://www.npr.org/2026/08/17/nx-s1-5910496/elon-musk-starbase-texas-spacex",
           "pubDate": "Mon, 17 Aug 2026 05:00:00 -0400",
           "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-17T14:33:45.404Z"
+      "updatedAt": "2026-08-17T15:30:22.690Z"
     },
     {
       "name": "AP News",
@@ -163,7 +163,7 @@
           "source": "AP News"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-08-17T14:33:45.892Z"
     },
     {
@@ -218,7 +218,7 @@
           "source": "Reuters"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-08-17T14:33:46.378Z"
     },
     {
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-17T14:33:46.567Z"
+      "updatedAt": "2026-08-17T15:30:37.016Z"
     }
   ]
 }
