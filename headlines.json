@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T03:00:23.493Z",
+  "generatedAt": "2026-08-18T04:09:10.774Z",
   "sources": [
     {
       "name": "BBC News",
@@ -54,7 +54,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-18T03:00:22.028Z"
+      "updatedAt": "2026-08-18T04:09:09.790Z"
     },
     {
       "name": "NPR",
@@ -109,15 +109,33 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-18T03:00:22.258Z"
+      "updatedAt": "2026-08-18T04:09:09.869Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "Student shot a classmate to death then killed himself at school in southern Philippines, mayor says - AP News",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOWJhMlJZekdIMG1VYmt2ZU5DZUR6N0RsR1BIekJsbXpJMzlSZDRBVmduRXd2RDVvY3MwbkljSVBzNTJLbGNuTnBiNGI1ZWw2Mm1EemJaRVEyTzF6ZHd6amplRG1mWGdUNnktMWRadkctM0gyajVVNk9oQVlmU3IxTmNESlNRRXBOV2JvMUxOOFc2ZmRDYld1OWxoSFF5QQ?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 02:55:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Shakira makes surprise visit to earthquake-damaged Colombian schools and says she will help rebuild - AP News",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQk85aFc5OVpMc3pHdWFaS2xjYzQyUmJhRVdQd2ZVc1dIZGY2Szd3b0V0bEdUOG02RnZ4VDV1cnllejNQM203bmkxcG5sS3BYSHlMVXg3ZGNNUldOWVgyOHBHTDlQOFJlS2VGWmlLQmJib0VXM2czT3BQTDAwc05JQnZ1RjFEdG5ORWE2TXBhYVc5MXNOSUs0YU52UUF1eDBaS1Zhc0JB?oc=5",
           "pubDate": "Tue, 18 Aug 2026 01:55:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Zambia President Hichilema has been reelected for a second term - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQTljaDVkWTQ1SEl5NHQ3aml4RFNQWGtqQU1aeXl0U0RveTBadTlOaUZERVZYc3R3bDFaU2NDaGxaQ2VqUlVXNEZZRTNBREFfazNzLXdQZDcxMTJoa25rcE55QmNLU2pOa0hPbzdBbU1jNHpkUlpWQVZrd0RaaTd0eUE2RzYwaWNTNVdqNXlXNk40S2VDNjdQTg?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 01:52:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Judge blocks the Trump administration from moving FBI headquarters to DC office building - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTUNmbTc5QnZEWWpxVnFDMHlFZ2tCWFZUZ01LTTg0SnB1YmdvY0JYWU10ZW5LeDVQdm0yRENSN1J2N3FXMW9YUFlzY3JWZ2RCcWdFNjNEaml5R2xBNFdkMWJJak4xSVBaWVhuOFZzZnFJOTFnQzhIU3VYdkdKY05vRzhONkpUTEVIdlF6YkdoY3hSeFhRcFl3X0tRckg2MlJXellz?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 01:42:00 GMT",
           "source": "AP News"
         },
         {
@@ -139,40 +157,46 @@
           "source": "AP News"
         },
         {
-          "title": "‘Total Eclipse of the Heart’ singer Bonnie Tyler remembered as ‘a star, but never a diva’ - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdklVdElUbVQ2YkpWVWg3Y1BuT3BmT1JscTJjMlFUNGtXbEk3cWtlUzM1aHBVemx3RXI1eVBQazVLZ3UxWnVxdGsxOWQxeGRhUHpUazBsQUkteWg2aVE3Tk5hd0phQmR2UXJEQTFsV01rWkRmNG9OZFI2NFdvMXZRSmlCSmpRZk1jLWszUDAxSC1wczFTeHRWTHAtLVpxT2RXdU5v?oc=5",
-          "pubDate": "Tue, 18 Aug 2026 00:29:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Trump’s slight of South Korea in favor of the North raises broader US security concerns - AP News",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQa01Qc3UwRlFwb3I3N1lSQjFJVlF5RDdJT2FWcFdZY2E3YWdIbFRrdEw3RGtTNkQ4N1RLM0RuM3F5bENpYXVYLUNDRzJZQTdMenVUZFc1aUMyVVJvOHp6WTRNeFVKREVpVW1DR1RnVkQyQzhCN0l4a3FBQnVVd2plTEY1Y2JIN1B3c2VSazFWUmczMEZNVGJQQVJBNFV1WHpocUtENEZkcGVaY2dPMHJ5TFpyWkRhUQ?oc=5",
-          "pubDate": "Tue, 18 Aug 2026 00:18:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "The 60-day deadline for an Iran peace deal is expiring. Here’s where things stand - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU3BhNEdxTFpDOGtvRmx2RU5kNWtFR1oxYXhsOEFWWm1NdG9IMkRaeEJvUmE5WUN0UjMxbXdwSXFmcXNKTjNGbkNfY1hrdjJtZnl0QVZXNk5jeVNFRV9qSklqTUhBVFpyTnFkdVBMeEZGRkJmWFFCWC1Ca3EtN2xGMzYtd3loMXdrTGhDSXpjV1ZzcGRnZUJfdEZueHdmSmFZR1BkcXV3?oc=5",
-          "pubDate": "Tue, 18 Aug 2026 00:13:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "A dispute about fact vs. fiction at the trial over Tupac Shakur’s 1996 killing in Las Vegas - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSWxOby0xS1dZdnhHdmVELUZoaE96a0ZpZUFkR0doR28zUDlnc2JHSGFXZWF5UVROQ3owVWxsTm51UzhNa2tGRzZDQURzRTR2RFF4dzBRYUhDOHk0eXNCbTlwV2ZKNC14TGJiM0xfYXNZaXB5cXhsa1RkUWdKU3lXVmh3b3ZNbkp2Zmx4clBRNUpqa2xtdVpSWGl5R3I?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 23:58:00 GMT",
+          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 00:33:15 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-18T03:00:22.799Z"
+      "updatedAt": "2026-08-18T04:09:10.299Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "Two students dead in Philippines school shooting including gunman, officials say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObG5kajhPXzU2TjVKb09obHlMNDEwRTRyVUhjTVNIRlRHMDc3OVg1VXZsM3hLMGZEQm9hWDhvQXVHMWJ1ZDBZNmlhanVoanhLYXNsb1hJOHpwV05yS2MySTlseFpOR0xVVF8zeFF3Y3p5TlJmZ2xqbHZhY2pweFlDNU4xWDhMNDNHaFhtNV9DY2RDaGlsOXc2MzhwZTJORVY5R0VqSHNTTmZQVXVxdEF1ZDdXZTB1SDVGSXNRMy1HbjZpelN2RnZHaDRzUnBtZ0E?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 02:05:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Dollar feeble as rate hike bets dwindle, Iran war worries grow - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQclBwalB5bkFIQVRLaXc3bHdrSFEteXF1NllCaTVjU08zRnlNckhhSzlvT3lOQ1FpNTZhQzh1VFVBVjJzaVc3Wkd4WXhVcURZV1BtUGttNEdRUS1RNkxQYU1jNHptUGgtMEhaVGNQdkRLTVl4bnNTeDJHMG9pYkV0dld0OXVDT0ZERHV1eGM0WGw1VVlEeFVIWElYNFlCRUtBd1ItU2tCcXNheWs?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 01:51:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "China lowers flags, tightens security for former premier Zhu Rongji's funeral - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbVBVb0NObXJjb3FFWUh4VjM4YTNvTk15TWhPQXB0cTRYZlgxMkJTaFFITVNFa0Q3SDZWSUJxYmVuX0FKTVdyYzJCMHZ2VjFBOWFOTjFYTjU5ekdIX1ZVbmVPd2FQUWc0dWxsSlJ5UDZoQVBYTUx5VVdEbmFRMFM3R3NqaExtTXh0bER0bWRJc2pHbW9mS2ktdmFjTEFISnVnZmVpVENSSUFhNFc3U0IxQ2NXSHNZWjdOYjNR?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 01:39:00 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Oil prices climb, bond yields rise as US-Iran ceasefire expires - Reuters",
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1IRXVLRUlydV9LUjVfX3hOQ0hKc2d0aE5MS0hqLXBrbTg2QXNhcEc2MnlhOU15dkxXSDV4V2hTM2lCR19Gc3BUWUpJYk0za3VXTTFTYTlDdXk3cjhoa19SdFJxcWk3N01rSGkwSmF3MUlMcm9BU09ZMW5QNA?oc=5",
           "pubDate": "Tue, 18 Aug 2026 01:16:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "China surprises oil markets again with a return to stockpiling in July - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOWM3eVRJMFNmUjRab1RyZFVmQU12ZUVkbDVIUnpRQ2o3WnhSWlJ2RHhFWXE5bDM0WDFydXd1X3haSFQ5WUFVa1lrcFZGVTlUUjREY0NGNHZ3YWxEWDlxQjdIN3F5QTdPVEk5OURMbW9QQ2d2cDJxSVBYZVpoMU9yUU84Y0JkNFZ6anZ1d0FGaHpmek40WUJKTWxpeVZId2tnc0FxNXlLRmZWQmdLZG43SXdHUlBHc2F3MmlSZEpDVnRaRjRUb1hjWnhvOA?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 01:14:24 GMT",
           "source": "Reuters"
         },
         {
@@ -188,38 +212,14 @@
           "source": "Reuters"
         },
         {
-          "title": "Paramount seeks $1.88 billion bond from state AGs over merger lawsuit - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdmw1dFdaTm0wd0gybUJrYnBVdDkwX0xXYXdlNTdRNnFhWS1YMGtnOGVsNDQwc0diMlJ4Q21McFNTWnRUVEl3WER5LXlOMFBNZHR5Umx0Z2poMG5zMDlDOHlNOU8zV0JDaWtVQUlhNDR3Z3VfdjU0NnlqVTlwOWZoNVlzX3BQYkpSNld4OFF6bldmNUlnSVpCY3B4ZHhlS2JOUVBybEpYOA?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 23:58:31 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Erdogan urges Trump to pursue talks with Iran, offers support - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZTVPLW5Mb1Q5eVJPMkVLcjVXVUg0Tmo5NE92SGQyZHFmbkxQeG12LVdjT2ZRMVNVNTc1WTN6VUZaUF8zYVlyTm1JR01PbHo4VHc4ZF95NnZyajlKdzZQSDhyWTR1TEpnNVk2dTZsdVNvUE8yQXhwd01oSTlnNE9zb0h6Ul9NbVUteEtERjVIczBGdGVsMFl0ZWM5ZlY1VnNZc3NUbEhYeTFHUXpLM2daSk93?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 23:06:45 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Trump says North Korea's Kim has responded to his overtures - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTUJXMVdaUWl3aDB1SXIwbmVGSi1jbXJFblJHRkN3QTlaZ29LNEd2bktlYTF0d29GOE40TVVHQk1acVY4Z3hIM1RWNlJTb19udG1KM3hVV05xZWNhUGMteEh0bE9jaDNBci1DZ0U0NURkQU1zYXNYRmFLV3B1cmY4dTIzTWdmS3BhMEM3U2pMZzA4SEVoOFVZUm9hM1MzeVlfdGYwM05n?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 23:06:02 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Wall Street indexes slip as oil prices rise, retail results awaited - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNmVQMTVLQjc4cmxldlJTQjJiaXFrUFp0cXh6R2xQaGhRS3g2ZGFQbmRwM2pWZTRBQ08yTlhOZHNzVEExVWNVb0tHWmZRU0s5RHhuc3czT19MeXVBeThpejlsZ0puNnJ4UlNCTEg2NjNKYWVObzhDbnJ5UFBaeVFXYjlrZWJnZGhJRHc?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 22:44:27 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "China surprises oil markets again with a return to stockpiling in July - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOWM3eVRJMFNmUjRab1RyZFVmQU12ZUVkbDVIUnpRQ2o3WnhSWlJ2RHhFWXE5bDM0WDFydXd1X3haSFQ5WUFVa1lrcFZGVTlUUjREY0NGNHZ3YWxEWDlxQjdIN3F5QTdPVEk5OURMbW9QQ2d2cDJxSVBYZVpoMU9yUU84Y0JkNFZ6anZ1d0FGaHpmek40WUJKTWxpeVZId2tnc0FxNXlLRmZWQmdLZG43SXdHUlBHc2F3MmlSZEpDVnRaRjRUb1hjWnhvOA?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 22:11:11 GMT",
+          "title": "Japan's 10-year government bond yield rises to three-decade peak - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMGphSEpLMFlQdUZtSmxzQnBheU8tcVVQR0FhRzVJVFRTRXhDNlBDTzhTcEVQeU1pVy1WUmdFeWNLZGFtNnBBRWJHTHFLWGZPVnFZcklUanlLVWZCdzhEek1KLTJhbTJtaXFlcTkydlNFYmxCVzlrTTBjUEtwLThyY3hiaDdyVUJOdWM4WjNtNFIzb3FoNnJocDNpS0ZkajI5X2xWSzZjZWtzbHYxdXN6Ykg5bTBfUQ?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 00:16:00 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-18T03:00:23.225Z"
+      "updatedAt": "2026-08-18T04:09:10.696Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-18T03:00:23.493Z"
+      "updatedAt": "2026-08-18T04:09:10.774Z"
     }
   ]
 }
