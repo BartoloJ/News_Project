@@ -1,9 +1,15 @@
 {
-  "generatedAt": "2026-08-18T05:56:01.171Z",
+  "generatedAt": "2026-08-18T06:56:24.983Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Russia says UK 'will pay' for supplying drones to Ukraine",
+          "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 18 Aug 2026 06:40:00 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Tupac murder trial: 'All hell broke loose' night of rapper's shooting, witness says",
           "link": "https://www.bbc.co.uk/news/articles/cp3r0kz775ko?at_medium=RSS&at_campaign=rss",
@@ -29,19 +35,13 @@
           "source": "BBC News"
         },
         {
-          "title": "Russia warns UK over supplying drones to Ukraine",
-          "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 18 Aug 2026 04:59:25 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "Watch: What we learned from opening statements in Tupac murder trial",
           "link": "https://www.bbc.co.uk/news/videos/cevmw1pl9kvo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 18 Aug 2026 04:05:05 GMT",
           "source": "BBC News"
         },
         {
-          "title": "BBC breaks down Trump's latest shift on North and South Korea",
+          "title": "Watch: Why has Trump shifted on North Korea?",
           "link": "https://www.bbc.co.uk/news/videos/cy45zjw424xo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 17 Aug 2026 23:42:38 GMT",
           "source": "BBC News"
@@ -54,15 +54,33 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-18T05:55:59.719Z"
+      "updatedAt": "2026-08-18T06:56:23.934Z"
     },
     {
       "name": "NPR",
       "items": [
         {
+          "title": "A dispute about fact vs. fiction at the trial over Tupac Shakur's 1996 killing",
+          "link": "https://www.npr.org/2026/08/18/g-s1-139061/tupac-shakur-killing-trial",
+          "pubDate": "Tue, 18 Aug 2026 01:56:44 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Palestinian American returns to his West Bank home, under siege by Israeli settlers",
+          "link": "https://www.npr.org/2026/08/18/nx-s1-5936098/palestinian-american-return-west-bank",
+          "pubDate": "Tue, 18 Aug 2026 01:51:50 -0400",
+          "source": "NPR"
+        },
+        {
           "title": "Part of a key firearms law lapsed following a federal court decision. What happens now?",
           "link": "https://www.npr.org/2026/08/17/nx-s1-5935562/firearms-law-lapsed-federal-court-ruling",
           "pubDate": "Mon, 17 Aug 2026 18:37:58 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Palestinian family in West Bank fear settler violence will rob them of home",
+          "link": "https://www.npr.org/2026/08/17/nx-s1-5933860/palestinian-american-family-in-west-bank-fear-settler-violence-will-rob-them-of-home",
+          "pubDate": "Mon, 17 Aug 2026 17:27:58 -0400",
           "source": "NPR"
         },
         {
@@ -88,38 +106,14 @@
           "link": "https://www.npr.org/2026/08/17/g-s1-138973/up-first-newsletter-uss-lincoln-meta-israel-hamas-ukraine-russia",
           "pubDate": "Mon, 17 Aug 2026 07:48:21 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Sen. Mark Kelly says USS Lincoln sailors 'can't get basic needs met'",
-          "link": "https://www.npr.org/2026/08/17/nx-s1-5933015/mark-kelly-navy-lincoln-sailors-investigation",
-          "pubDate": "Mon, 17 Aug 2026 06:49:59 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Hayden Panettiere, who starred in 'Heroes' and 'Nashville,' dies at 36",
-          "link": "https://www.npr.org/2026/08/17/nx-s1-5935226/hayden-panettiere-dies",
-          "pubDate": "Mon, 17 Aug 2026 06:00:10 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Advocates worry new bans on student IDs will trip up younger voters",
-          "link": "https://www.npr.org/2026/08/17/nx-s1-5791740/college-student-voting-voter-id",
-          "pubDate": "Mon, 17 Aug 2026 05:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-18T05:55:59.890Z"
+      "updatedAt": "2026-08-18T06:56:24.125Z"
     },
     {
       "name": "AP News",
       "items": [
-        {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Tue, 18 Aug 2026 04:53:12 GMT",
-          "source": "AP News"
-        },
         {
           "title": "A dispute about fact vs. fiction at the trial over Tupac Shakur’s 1996 killing in Las Vegas - AP News",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSWxOby0xS1dZdnhHdmVELUZoaE96a0ZpZUFkR0doR28zUDlnc2JHSGFXZWF5UVROQ3owVWxsTm51UzhNa2tGRzZDQURzRTR2RFF4dzBRYUhDOHk0eXNCbTlwV2ZKNC14TGJiM0xfYXNZaXB5cXhsa1RkUWdKU3lXVmh3b3ZNbkp2Zmx4clBRNUpqa2xtdVpSWGl5R3I?oc=5",
@@ -157,6 +151,12 @@
           "source": "AP News"
         },
         {
+          "title": "2 Dan Sullivans face off in Alaska's US Senate primary, which also features a former congresswoman - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVlVZQTF6elRfTlRLdnpXYTdPVGVJclZ3eFRXY01jV21qTG8yd0x6OUduQldJVHlTNUFwRkRQTzlPYjNPQXJuVWRhYmU5NWVidWpsZ2txTWRJVkxfOFZsSXBzSk5fQkVwQXBzdVBHSl85U24zMVhzSVRNWjhpZFM2cjJIeGdoNnVHclVjTkd1bkxxY05kdXg4RFBQdmdHd1ZxRVQzNHNHdXFvUnc?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 04:00:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
           "pubDate": "Tue, 18 Aug 2026 03:43:31 GMT",
@@ -164,15 +164,33 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-18T05:56:00.398Z"
+      "updatedAt": "2026-08-18T06:56:24.539Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "Can nicotine pouches drive Big Tobacco's future beyond cigarettes? - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcGZNUzVnQkhvYzJMbmhBaUtiekk4MHFiWElJbUJXZU9CVEc3Z09Ybmh5QU5nX0RWOC0xQUx5THRReHRsb3Fod3Q2Q1E1Q0ppcWloT1RvemNveTlsLUVqNC10QnZOMzVsMURYU1VlSGhCdTdtS1FuZWZDd1J1Qzd1dEJqM0tEcHFqR3pPaVZKNC1MazdocWs0c3FUNDRUQTZadVNaLW9mZ1VoTEtsa1UxOE9DY1c5WmJGYWo4Q1h6WkIzSGN0QkFSZzI3VEV5UkFNWHc?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 05:02:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Climate damage: the next hit to Europe's public finances - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObnFzdzlEc0V4bHVlUF84dmRaWnFyZVNQWDBlenE1QzBYdUFCMFl3NE5tekxZUER3ZnpXa1lxZ0xqZUluUFMzSU9BZzVCTUFTYkoyN3E1UmNMcW1UOHZhV2RxcHZSaWpVb0U1V2kydTA2NUFPOHZpU1M3Z3NfY3hia1lxa0g5OG5oOGs1Y1RXeVo0aGxIbDZEaS14c1pLZVFrN2d4Qw?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 05:01:00 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Morning Bid: Bond investors in revolt as Iran threatens to go 'fully offensive' - Reuters",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45TkUySkxRRHMtX3JyMWRJOUFZbjZwMkFiTG1wRlctaWNpZXJXOFppdHlPTjBTT2ptNHJqOFRTRjdDOWUtNzZfY0tQVllfaFlxd3dJRWxncnFrcGdLR0xQVFVmLS1tUmFLYklQbzc3UF9wVmltRkdrcUpUbGNYeVU?oc=5",
           "pubDate": "Tue, 18 Aug 2026 04:37:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Russia downs 180 drones in Moscow region overnight, mayor says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYTd5R1Mzb0NRVnU0YUttNG1oM1FpMlB5NS1ickFwVVhGUC1LMk04SE90Q2pPaHFxWllacjZMeEtCZnJvLUZWblFuMHRaNDNyQTN3R0tpei1mMHZhdWQ5ODFGVVFHSExTMmo5RGFna3lzRC1Pd3FfZEVKUG5OQlB3WHVPaDNVcjJvSVBVdFNiaEdpdVNESHdCQmZPSEdQSkx6WEE?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 04:18:00 GMT",
           "source": "Reuters"
         },
         {
@@ -182,44 +200,26 @@
           "source": "Reuters"
         },
         {
+          "title": "Hormuz crossings rise slightly from weekend, remain in single digits, data shows - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObmFuNHJUd0NQNEY5WUNVLWlIUnZwb2F5VVJxZkpiX1hCRjRqRk44UjRkTjE0STF4aUlqRkVNTElObWJpVmJJQkZnR0V4RzllVko3bHJCTDM3VU9yQTdxd1picWtid0FaRkJmcEQzTzBpaEdjenlpc0Fnd0xDdGE1Z0FYVENRVjlEb3hUbFVCUVJ3VG9SVTFwSEVabWRXT0ZGdml1R2Yya3NZWlBGV2xVT1JXRDVnR0FpSVhLVERkb2JqQQ?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 03:03:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Rupee slips to three-week low on oil strain, RBI steps in yet again to cap fall - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQelRocG00VHA2ejdENm1wM0VhRHdPMk02VjBMeDVjVGh6QWlDM2VmV2J5VFVUU243RHMwczFkU014TENEa09sbmstRmJjTlVWaTN5eTVzWFpxcmlXVEtaOHhZZjA2eVA5cDBjM3NaOTBjR1NsZEY1b0RnX2tRN1FKbXVMU2RVbjFUTlU0blRxNEF5ekJiUzNlS2dtSTVJTC1BZi1Hcg?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 02:52:00 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Indian shares dip as oil tops $91, US-Iran ceasefire expires - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcmdBR0dqOUx3OEJLUy1ZbDhBWFo2S2M1STJjYXk5cUlNZW1MTFlLdkhDc3FNOEhBYjVabjF3SE5QUE5ERnBPQWw1dTVLb0V2WDc5bDM4MURRc1FSVWJfMnFIT0doSDFMZHV1bTQxbU9tX3BrenFsdUhHSDBSQ2NnVll5OFBVTUN5M0dhS2psTlQ3MXIzSWptYm5OM0RrWWlpU0h2b2VKUUxkaEdqT2Fyc2VwVFA?oc=5",
           "pubDate": "Tue, 18 Aug 2026 02:21:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Two students dead in Philippines school shooting including gunman, officials say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObG5kajhPXzU2TjVKb09obHlMNDEwRTRyVUhjTVNIRlRHMDc3OVg1VXZsM3hLMGZEQm9hWDhvQXVHMWJ1ZDBZNmlhanVoanhLYXNsb1hJOHpwV05yS2MySTlseFpOR0xVVF8zeFF3Y3p5TlJmZ2xqbHZhY2pweFlDNU4xWDhMNDNHaFhtNV9DY2RDaGlsOXc2MzhwZTJORVY5R0VqSHNTTmZQVXVxdEF1ZDdXZTB1SDVGSXNRMy1HbjZpelN2RnZHaDRzUnBtZ0E?oc=5",
-          "pubDate": "Tue, 18 Aug 2026 02:05:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Dollar feeble as rate hike bets dwindle, Iran war worries jolt bonds - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQclBwalB5bkFIQVRLaXc3bHdrSFEteXF1NllCaTVjU08zRnlNckhhSzlvT3lOQ1FpNTZhQzh1VFVBVjJzaVc3Wkd4WXhVcURZV1BtUGttNEdRUS1RNkxQYU1jNHptUGgtMEhaVGNQdkRLTVl4bnNTeDJHMG9pYkV0dld0OXVDT0ZERHV1eGM0WGw1VVlEeFVIWElYNFlCRUtBd1ItU2tCcXNheWs?oc=5",
-          "pubDate": "Tue, 18 Aug 2026 01:51:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "China lowers flags, tightens security for former premier Zhu Rongji's funeral - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbVBVb0NObXJjb3FFWUh4VjM4YTNvTk15TWhPQXB0cTRYZlgxMkJTaFFITVNFa0Q3SDZWSUJxYmVuX0FKTVdyYzJCMHZ2VjFBOWFOTjFYTjU5ekdIX1ZVbmVPd2FQUWc0dWxsSlJ5UDZoQVBYTUx5VVdEbmFRMFM3R3NqaExtTXh0bER0bWRJc2pHbW9mS2ktdmFjTEFISnVnZmVpVENSSUFhNFc3U0IxQ2NXSHNZWjdOYjNR?oc=5",
-          "pubDate": "Tue, 18 Aug 2026 01:39:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Bond yields jump, oil extends gains as US-Iran ceasefire expires - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1IRXVLRUlydV9LUjVfX3hOQ0hKc2d0aE5MS0hqLXBrbTg2QXNhcEc2MnlhOU15dkxXSDV4V2hTM2lCR19Gc3BUWUpJYk0za3VXTTFTYTlDdXk3cjhoa19SdFJxcWk3N01rSGkwSmF3MUlMcm9BU09ZMW5QNA?oc=5",
-          "pubDate": "Tue, 18 Aug 2026 01:16:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "China surprises oil markets again with a return to stockpiling in July - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOWM3eVRJMFNmUjRab1RyZFVmQU12ZUVkbDVIUnpRQ2o3WnhSWlJ2RHhFWXE5bDM0WDFydXd1X3haSFQ5WUFVa1lrcFZGVTlUUjREY0NGNHZ3YWxEWDlxQjdIN3F5QTdPVEk5OURMbW9QQ2d2cDJxSVBYZVpoMU9yUU84Y0JkNFZ6anZ1d0FGaHpmek40WUJKTWxpeVZId2tnc0FxNXlLRmZWQmdLZG43SXdHUlBHc2F3MmlSZEpDVnRaRjRUb1hjWnhvOA?oc=5",
-          "pubDate": "Tue, 18 Aug 2026 01:14:24 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-18T05:56:00.852Z"
+      "updatedAt": "2026-08-18T06:56:24.926Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-18T05:56:01.171Z"
+      "updatedAt": "2026-08-18T06:56:24.983Z"
     }
   ]
 }
