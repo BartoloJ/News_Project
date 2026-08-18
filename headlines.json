@@ -1,9 +1,15 @@
 {
-  "generatedAt": "2026-08-18T14:38:42.100Z",
+  "generatedAt": "2026-08-18T15:37:04.316Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Brazil's President Lula hails oil discovery near Amazon river",
+          "link": "https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 18 Aug 2026 13:13:54 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
           "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
@@ -45,20 +51,20 @@
           "link": "https://www.bbc.co.uk/news/articles/c8dn3rqlyrgo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 18 Aug 2026 07:17:07 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Doctors remove 3.1kg stone from man's bladder and claim record",
-          "link": "https://www.bbc.co.uk/news/articles/cg5l9n7d803o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 18 Aug 2026 06:53:11 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-18T14:38:40.807Z"
+      "updatedAt": "2026-08-18T15:36:51.622Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "S. Korea stresses US alliance amid confusion over Trump drill cut",
+          "link": "https://www.npr.org/2026/08/18/g-s1-139096/s-korea-stresses-us-alliance-amid-confusion-over-trump-drill-cut",
+          "pubDate": "Tue, 18 Aug 2026 11:19:40 -0400",
+          "source": "NPR"
+        },
         {
           "title": "U.S. and Iran miss peace talks deadline. And, Alaska, Florida and Wyoming primaries",
           "link": "https://www.npr.org/2026/08/18/g-s1-139072/up-first-newsletter-iran-south-korea-jared-kushner-florida-wyoming-alaska-primaries-luigi-mangione",
@@ -100,16 +106,10 @@
           "link": "https://www.npr.org/2026/08/18/nx-s1-5931251/morning-news-brief",
           "pubDate": "Tue, 18 Aug 2026 04:41:19 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "A dispute about fact vs. fiction at the trial over Tupac Shakur's 1996 killing",
-          "link": "https://www.npr.org/2026/08/18/g-s1-139061/tupac-shakur-killing-trial",
-          "pubDate": "Tue, 18 Aug 2026 01:56:44 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-18T14:38:40.993Z"
+      "updatedAt": "2026-08-18T15:36:51.783Z"
     },
     {
       "name": "AP News",
@@ -163,7 +163,7 @@
           "source": "AP News"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-08-18T14:38:41.444Z"
     },
     {
@@ -218,7 +218,7 @@
           "source": "Reuters"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-08-18T14:38:41.919Z"
     },
     {
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-18T14:38:42.100Z"
+      "updatedAt": "2026-08-18T15:37:04.316Z"
     }
   ]
 }
