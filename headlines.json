@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T21:29:22.017Z",
+  "generatedAt": "2026-08-18T21:52:21.709Z",
   "sources": [
     {
       "name": "BBC News",
@@ -54,7 +54,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-18T21:29:20.695Z"
+      "updatedAt": "2026-08-18T21:52:21.462Z"
     },
     {
       "name": "NPR",
@@ -109,11 +109,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-18T21:29:20.931Z"
+      "updatedAt": "2026-08-18T21:52:21.539Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Trump says US has no talks planned with Iran and other news from the Middle East - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUGE0ZXdacDJQQU1FSTNKRzRoV21MR3h5R1FIekhsU054VE9WSzdUdThYNmY3emZwQWpXUFczUklKU2MzZVdUeV9ZaWtoaF9IUXRaT24xS0Y2MmdlbnlxT1JicndhbWpfb1N4Z09GeDV4UGMyQUdLb3Utb3pqNTNDQTR2amh2cTVGZTJ5S3FVVzlWZmoyNHNLUy12WnM3YUtiMW01Vnp5TmRQWjdQS3c?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 21:27:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "OpenAI introduces ChatGPT for Teens, promising a more age-appropriate chatbot - AP News",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOXljQWxIQk1WUjZtTmV5WnNVbFRuOVZjTXJIVWM5MUtwNzJhU19iWXltb1lWcEgwTkU5SXFFVmxhUVVlSnotc2NMMTYyM1UzWXo5T0k4dFlPa0FZSWZyN25yMC1LWDFxUkMzcVFsSXI2SDdxMFVNN0N6dDg4ZURwZlpTaEJuX0lKbjlMTUQ5TWtjb3Fx?oc=5",
@@ -145,81 +151,75 @@
           "source": "AP News"
         },
         {
+          "title": "Trump administration moves ahead to end roadless rule on national forests - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNN1dCLS1URWRaM1pWOS1nQTB1UElQVGIxRDFaTlFZdVZNM3ZmUlBxNWxveC0yMGlWS2pfdzBHNXRHY2hKdW04ejdGNUxHaHp2bkQwNlNqcW5SVmFFZlF5TUpWOEI4MmVTaktPYm5EMlF3QTJkU25GWmt3a2E0a0ZSMm5yU0QtYkdObkY0R0ZJdjU?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 19:06:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "ABC sues FCC over challenge to its broadcast licenses, saying actions present 'existential threat' - AP News",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSEJxYzZGcE9BeXJrMlBxNVAxNWNDdHlvbERwd3l1eWhDVUdsWEZXMlNsc09OTTBQVU5mMWpOMmNVTkhsaUEwOUdUQmVlLXZCQjFIMDZzMGlxdEFGM2VXNTFrbUxKdC1OTkY1T3pGRGlxSjJDWTJmczhHM1pZbldta3MwdG03OVNTNTQzY0hrR2ZDRkE?oc=5",
           "pubDate": "Tue, 18 Aug 2026 18:41:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Quebec separatist leader says no independence referendum until Trump leaves office - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQy1hcWxsY1VqTGxYdHE0N2pOVVNWOXlnUE5KVGhNWnpCOWluQkxHSjloUTR2VjAxVXV6czhQTURsS1NEN3VreV9EdWR2S0I5QW9RUXFJYTNJRkFlTEpxbDBPa3kxeUo1VVhRM2ltQzU3eW9sYVBFQXEtNHRNTmF2eTQxeEltTWREZW1rNlJrYmlCYkFmNVlabUZCMmVKQXhIV2w4V1Zn?oc=5",
-          "pubDate": "Tue, 18 Aug 2026 18:32:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Meta Platforms faces pivotal trial as opening statements begin in California - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNLWhfS2YxWEZCcDBpZ3EyYTc4YUt5alNaWmNZcWUxT2pZMlZUZ21rYmhZZU9vVHd6VkxfLTZCN0pSVWVwOHZCclc3TXJzUXRueDBVNmZfNzBnNV9UaTd1ZXJtZXYyTGpXa2Z3RXZFXzhqZFZlR2M4NUVGWDFDNjZZak5VZGpTVlZOWHRWaThTZkhXcWE3anZmcFdweFp1b0E5MG9PRQ?oc=5",
-          "pubDate": "Tue, 18 Aug 2026 17:55:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-18T21:29:21.351Z"
+      "updatedAt": "2026-08-18T21:52:21.595Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "UAE says two missiles detected earlier were launched from Iran - reuters.com",
+          "title": "UAE says two missiles detected earlier were launched from Iran - Reuters",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaVFKQ0k0Vk10ckR0U1JfNHlsLW9nWUtrc09mMUx4UzFzRHJsVk4zYkJQT2NFNHVoVTRyYjE3OTJOcXVtcHFoWGRpQndUTXFnQjFKVGZQM1ZRTkpEeVVPZlF4ZXUydnRUckVmOHU2SEtXU000ZVFhVE8teGhQZFFPbnVFX3dBM1pNa0oxbnFoTmF2bUM3MjFj?oc=5",
           "pubDate": "Tue, 18 Aug 2026 21:21:04 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Liberia agrees to accept up to 1,200 third-country deportees from US - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNby1Xa0x4NVJWZ1dDZFZVNGFOU0FQWENiclJINmpkSVRLcjg0ZVkwZ0lLZFlxeW9lUTdwMnBJLXlFZXR3eklVWVg1NDVVbGR1OEd3TUZ0dkhBNDJiaWZEVEJzN3FSWnE1cWJQc3lpTHRnSWN1eVBNT1FDSE9qV050NWl4X0xFZ1I0c3YtWlFhcU5DbTd6LVl0aFBqaWd2dGg5Y0cxMlZvbl8?oc=5",
-          "pubDate": "Tue, 18 Aug 2026 20:32:48 GMT",
+          "title": "US yields edge lower despite Iran worries, broader sell-off - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaERYcG1nTmtNcy1ia2hGekZQaVp4X1Y5RHlab3QydTVDV2tfSVZmQnctVC1iaWFmZ2xJRmN6U3pzNk1wdUx1VlpQWmF6WTZsdmtfdmF3SmpGUWYzMzluM3JEVVBVTmZXU2NfMG9lcjRzUktxWEZNZDZxbTE1Q2FkVmd4Mmd3ekpxeHY3RWtpRC14QmV0SktSNA?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 21:20:27 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Canada's pipeline ambitions hinge on uncertain output expansion - reuters.com",
+          "title": "Biden-era 'ghost guns' restrictions are unconstitutional, US judge rules - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTkprZ3I0ZFpmN01MVkZEVEpqenpfS1BpLVp5d01nbDVyN1NCam1BMWdNUVA3QXpScXVaS0hzajR0RjVodmxqck5EOTQ5U1lhT2ZrdldWQzAwcmtOUGVvY2xpeWF1czZWdjgwUGFIMjFmbmhuTnBDYktpWlpZRmxmQ2NRa2NLSnpfbWtCSFoyNk96QVdQbFBkWm0yclo5MEtLU01JS3FHZXFEcmVhOWluc0lHWnZvRTVFTmlMdWhwZw?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 21:09:49 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Trading Day: Bonds slam stocks - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVnhrWTdQM0VHLXhpVXBwdm1sWW1PTVJ2V3JfRHVqV0ZrSGpvcG5PTTFVZ2Q2bFo2elRmTnR1UXVKaWlSNTYxR095TnpKRDJvT21OSV94LUUyQ09hcXdnYUtSN213akNlTVNlSVE2dXlZRHVwY3RqSmpkclRwM0dKYVlRRHkwY2psOW5ob0RiTW5aU0lvbU1uWWdkMlZsVlBDQWVteE13?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 21:06:02 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Tech selloff weighs down Wall Street as bond yields climb - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUzFvaDFSek1CYmFoSHEzTG9feVA2blNkZE9LMy00ZnpQbnFmVXYwSDJkeDR5OEFNSExNcGdrWWNjdTNLQzlia0V4b0hvV2VaTTcyaXRFdldtaDJUcm9KcDAxQ3NNWV9MaDd2Q2NaVWtHVUEwS0YyU21ia3lJQVpMTjNBMGtlaXp0M0JWaTIxeExpYlpHOEN0b05NN00xRmhHSHc0bERMOG1COGVNYTEzSw?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 20:48:56 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US securities regulator proposes long-awaited crypto rules - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYmhYdjlSV1NyZHFOMF9rbmlCRW80WEoyb0xxblZrMHlTaGtqWUk2OTI4REg2bXFYczVkZVU0MjgwQ1Z0ZDdIQzhWNndnNWMzQWhMUmVZSG8yWm9mQ3NCRkNDR2xMWDVWNkxLYVN1YjBzaW1NZEstenlCeXRwUVI0U2Z3NzlRN1VV?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 20:36:42 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Canada's pipeline ambitions hinge on uncertain output expansion - Reuters",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdlZzSUlUTFByazJmbTFudUFscGZ2Q1FRUUZwUXpDTXc2azNaMXhlV3NWTTdtTmJIX0t4TmRodUJULU5idkIzbEtraktyTnRlZ1E3UkZOcWNxWWJxTnN5NG1Gb1UwX3ZhR3QzS3U3ZkVQX2hSR1Jfb3pJd1NJd1RvbVRpRmlPXzd1NkljaHpzRWNaU0lhUjQ2V3BFTVllZmNXSmVLdWZodGlyTVQ1VlllQWdn?oc=5",
           "pubDate": "Tue, 18 Aug 2026 20:31:07 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Dollar range-bound as markets price dovish Fed response - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQclBwalB5bkFIQVRLaXc3bHdrSFEteXF1NllCaTVjU08zRnlNckhhSzlvT3lOQ1FpNTZhQzh1VFVBVjJzaVc3Wkd4WXhVcURZV1BtUGttNEdRUS1RNkxQYU1jNHptUGgtMEhaVGNQdkRLTVl4bnNTeDJHMG9pYkV0dld0OXVDT0ZERHV1eGM0WGw1VVlEeFVIWElYNFlCRUtBd1ItU2tCcXNheWs?oc=5",
-          "pubDate": "Tue, 18 Aug 2026 20:24:26 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Kalshi files for stock index perpetuals in challenge to traditional exchanges - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNT1Z5dF9JeldqYkdfMk8xRWJMTGtXVUFwX05qVW9paEJKRWJtRzdZdF9OemprbFRXc1ROc1M1V1NhaTE3Ujk5OTc0ZlBVd1o4aVNEVHZUU3dCRVNuVUlQcWJaNmM3RTRhUVE2N1NLMHFEc1hzZ3dKN0FIZGxGWE15Y05sMWN2LXdLckpQR3FUM2NpR1BDUzhTMlVGUTVpX1ZoTFpZY3V1aU56LWEycVRxa2FyeUU?oc=5",
-          "pubDate": "Tue, 18 Aug 2026 20:02:35 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Ukraine's ousted defence minister calls for wartime elections - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOM2I5VUo0cWlLNnZ2Vnp6dlMwcnFsc2R4ZElfZFdFN3VQYTE1MnFhc242TEQzb1BmU1duV0NnSWRuSzBVajN0d3VIMkVuMG9rSmYtNFd6MF81cjJRWThVYjRXamFfWGpFTlNvbGpKUFpEWXpXQWJqTkxLRld1NzBUQnc2dnhpU0N5NDF6N25QV3J2bFA1cW9TdE9lWHduTGRmV0RoV0pESF9SNEJEZWJtelIxaXZUUXNKajBB?oc=5",
-          "pubDate": "Tue, 18 Aug 2026 19:58:59 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Meta rejects allegations it sought to hook children as landmark trial begins - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeHlhZEh6b2pmUkJKaXNMYUpEMEZsQ3BDLVlxcWZ6VU02ZjlsUVRLZ2EtRlBFYnFSOUJXaURCRmNjYkllYVRCZjUzdDhNNmtzZzNfSGg2RDhJUFY3cWRJbFpxQnhSQllwQ1RuUG83WTQ0TWozc1dMeGJUVlF6QmRZQy1vVmlLeElDNHBZOGFYUkR1VXMwYktFQ0hGWFZ6MDBXQXVOTFVpalp2cFFX?oc=5",
-          "pubDate": "Tue, 18 Aug 2026 19:54:22 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Israel kills six in Gaza on day after Kushner meeting with Netanyahu, medics say - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWUljaVdkdjZZMngxR1FnWEVjQ25STWQxNDRtVVNGV0dUdFkzN0tVWUh6UmtPTlZVZU14eTBuWW13Um9WUzZ1QzlBS0tHcFhhakc3aUZOVnc5QlJ2aFpqSF9fejNPd3ZUMFpMN2Q0RVhSVFM3ZHVJWHlka05acUpTY3lQdFFSSDZHbzJzLWxTOXdOdk9QbUI5Rm4yd1ZGUzJ1UTNwbjRhRXpNTkxnZG9LbzVTRGdfbEd0VGw3M1FGRzdoRW1CY3c?oc=5",
-          "pubDate": "Tue, 18 Aug 2026 19:43:19 GMT",
+          "title": "WHO says Congo Ebola outbreak can still be brought under control within three months - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWGFoT0VRSHp6MWZuVTZJRnlUSkNENVhiNW5zWDVYR1JxN3ZaaGx2SFhXUnNoUW8wdmtBNnpaNGNIcU90MTJaNWxqX2UwSlM0bVVYTW52cFdIN1BzMzdZYXdMMi1RekhKblVqbV9STFgwbHgtMXRIb3dSWjcwU3QxY25ZaS1DTDM1YUZ6c3gtclIzaGNiN2hyZDcyaVJ6Q3Z4TUZFTjlCMlYyQVhKZGFVZTIyNVdBamR6YTlXNXZvVUlkZ2QydU9yWnZxT2JyZUZMRU1TWTZDMmhSS3VBWFU1NEI2UQ?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 20:25:56 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-18T21:29:21.789Z"
+      "updatedAt": "2026-08-18T21:52:21.605Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-18T21:29:22.017Z"
+      "updatedAt": "2026-08-18T21:52:21.709Z"
     }
   ]
 }
