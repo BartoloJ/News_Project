@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T09:38:40.365Z",
+  "generatedAt": "2026-08-18T10:34:23.985Z",
   "sources": [
     {
       "name": "BBC News",
@@ -7,7 +7,7 @@
         {
           "title": "Russia warns UK will pay for supplying drones to Ukraine",
           "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 18 Aug 2026 09:33:49 GMT",
+          "pubDate": "Tue, 18 Aug 2026 09:55:00 GMT",
           "source": "BBC News"
         },
         {
@@ -54,11 +54,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-18T09:38:39.116Z"
+      "updatedAt": "2026-08-18T10:34:22.831Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "The grueling fight over who profits from AI music",
+          "link": "https://www.npr.org/sections/planet-money/2026/08/18/g-s1-138852/grueling-fight-over-who-profits-from-ai-music",
+          "pubDate": "Tue, 18 Aug 2026 06:30:00 -0400",
+          "source": "NPR"
+        },
         {
           "title": "In Portland, this soap box derby combines downhill speed with extreme pageantry",
           "link": "https://www.npr.org/2026/08/18/nx-s1-5935518/portland-oregon-soap-box-derby-race-pdx",
@@ -72,14 +78,14 @@
           "source": "NPR"
         },
         {
-          "title": "Many recent grads say AI is making it harder to get a job. Economists aren't so sure",
-          "link": "https://www.npr.org/2026/08/18/nx-s1-5910677/recent-college-graduates-employment-job-artificial-intelligence",
+          "title": "This crowded Republican primary in Florida has drawn a unique cast of candidates",
+          "link": "https://www.npr.org/2026/08/18/nx-s1-5930699/florida-republican-19th-district-carpetbaggers",
           "pubDate": "Tue, 18 Aug 2026 05:00:00 -0400",
           "source": "NPR"
         },
         {
-          "title": "This crowded Republican primary in Florida has drawn a unique cast of candidates",
-          "link": "https://www.npr.org/2026/08/18/nx-s1-5930699/florida-republican-19th-district-carpetbaggers",
+          "title": "Many recent grads say AI is making it harder to get a job. Economists aren't so sure",
+          "link": "https://www.npr.org/2026/08/18/nx-s1-5910677/recent-college-graduates-employment-job-artificial-intelligence",
           "pubDate": "Tue, 18 Aug 2026 05:00:00 -0400",
           "source": "NPR"
         },
@@ -100,20 +106,32 @@
           "link": "https://www.npr.org/2026/08/18/nx-s1-5936098/palestinian-american-return-west-bank",
           "pubDate": "Tue, 18 Aug 2026 01:51:50 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Part of a key firearms law lapsed following a federal court decision. What happens now?",
-          "link": "https://www.npr.org/2026/08/17/nx-s1-5935562/firearms-law-lapsed-federal-court-ruling",
-          "pubDate": "Mon, 17 Aug 2026 18:37:58 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-18T09:38:39.326Z"
+      "updatedAt": "2026-08-18T10:34:23.005Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "South Korea president stresses US alliance as many baffled by Trump order to cut exercises - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRE1vVzA4NWdOVmhDdjVHT0ZoWTNvQWRpTmdXTVNjbmlROWNTbnBDYUpCeTI2bnctckRaWTM2NUwyVTJlN2M5UlNJdWYzZXRHdkJMNks3RkFVMmYzNklRMk1RblNGYXBuc2ZkRmd4aXFuRjJpRkxnMGU5OFNPWFVma3JwVzBXd1hzMHc0dkV0SXFuQWtock9PZG9iQVJSNzA?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 09:56:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Opening arguments set to begin in Meta’s federal trial over child safety - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNLWhfS2YxWEZCcDBpZ3EyYTc4YUt5alNaWmNZcWUxT2pZMlZUZ21rYmhZZU9vVHd6VkxfLTZCN0pSVWVwOHZCclc3TXJzUXRueDBVNmZfNzBnNV9UaTd1ZXJtZXYyTGpXa2Z3RXZFXzhqZFZlR2M4NUVGWDFDNjZZak5VZGpTVlZOWHRWaThTZkhXcWE3anZmcFdweFp1b0E5MG9PRQ?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 09:38:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Ukraine aims a drone blitz at Moscow while Russian missiles kill 10 in a Ukrainian village - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZWNZbnhPNkw5SFowb3FVbzZYN2VIbThFU0ZnckM0eHdHSmdwanEwbHM4eGxLN1Z4bnBoeFZhS2dBNGNWTHFZNjBVWTN6ZGRuRm4yZ3VwalBPTFJ3dUhiQnd2TE5BZkhLMW9vd2pWam5DcmdVOUpCR3JObnN1YV9nMUJBcngya1RvQkRVRXRYUjdqLWFaYllkSTFHbDQwUTA?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 09:21:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Asian shares slip as worries about rising oil prices offset boost from strong earnings - AP News",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQajRMMnNScjR5Tk1jNTZNZ1loMVctaUFVWWtjNHZhRGZzTWNvQWkzalRDZ1pNVjFjRGd5RVZyRTJ5dkVVOVpmVEVlczg0d2NWOTQtYTlyTnBLTlJTZ2FFVnNhTm1BNll2bGRWTGF2c3JCZHNpRlBudFFrNEJlUTVJVVI5b1d6T29pRDNhNEpMYVd6RVRVX3VZ?oc=5",
@@ -127,48 +145,42 @@
           "source": "AP News"
         },
         {
-          "title": "A Chinese animated film mocked as ‘terrible’ becomes a box-office hit - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNGFpNXpGekZfeTNFUnZHV1hsaGZ4MGE5emFoZFpYYk9xRkFRTkpzUmcyN0NGQ01DcUU4X0tJYzNWVXVZQmdLQXNhUDIzU2Z3aFVSeUI5bGc0MzVMbmlfUGNPU0U2LWFJc2o1T3NCN202Y2lJbjFkV18tbFRfY0xNQlA5RF90dDdqYXQ1R2ZDRU1LQQ?oc=5",
-          "pubDate": "Tue, 18 Aug 2026 06:13:00 GMT",
+          "title": "King Harald of Norway is hospitalized for treatment in connection with a blood disease - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVlRSQ3hDcXpUQjM0UVI2RmRQeFpMYWxxY0FTMVI4UlBTQ0thSmVqTjBWeFp5b0hfeTExeFh2bWg5N19YV1VKN21lVDJMaVBTOUtVQjFtR2MyQ3djM0xNdURJUE5QSlV0NW1XYXMxZ0xIMnBDdmwyMVp6NXlpLVJNZ0FTWFZwZXpuczJXX01WTi1maTcyY1FnM3Z3?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 07:32:00 GMT",
           "source": "AP News"
         },
         {
           "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Tue, 18 Aug 2026 05:36:55 GMT",
+          "pubDate": "Tue, 18 Aug 2026 06:18:04 GMT",
           "source": "AP News"
         },
         {
-          "title": "Congo’s fast-moving Ebola outbreak becomes the country’s worst with over 2,300 dead - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNnFBNzZoaTBlT24wbF9PNWVEQWZjZWN3RFM3NTJwZWNJR0dVX1diOFpTLXRsb09Yc1hZVXRaVFFsRDNndTVseUxjMTladU1XbnFrc3Itc3ZXSXEwUnJ4TzZ4cW05V1N2R3JyYVRCNGlmYlIyZGhUWHI0X19EZTJ5S09aYVBUcFFRTmFoelBMTUZFUUFoOWwtWEJQRjRISmZBMTdNYWF0ZTM?oc=5",
-          "pubDate": "Tue, 18 Aug 2026 05:29:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Fear grips children after deadly earthquake in eastern Indonesia leaves thousands displaced - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZGNURlpmQVN3RWlucjBBbS1xdlZ5bzBubGk0ZXY3aURNcG9KM0VzbkQyN1ludXNYaHNENW1OOVNIbnU5VmV3SVh3WnA2SnRJVzFkSEZXb3RVbmZtVnE2dlJhUHlwTXFuNklxUXI2dEZJM0FDWHI4OUhyb1dBMVVzdEh5NmVjbmlVSkZ1RWRxeFFER1FZMnZyd0RwbjlPSzhCMHVsWWpuU2FFZzY2QUJXTlFic045U1h0ckE?oc=5",
-          "pubDate": "Tue, 18 Aug 2026 05:23:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "A dispute about fact vs. fiction at the trial over Tupac Shakur’s 1996 killing in Las Vegas - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSWxOby0xS1dZdnhHdmVELUZoaE96a0ZpZUFkR0doR28zUDlnc2JHSGFXZWF5UVROQ3owVWxsTm51UzhNa2tGRzZDQURzRTR2RFF4dzBRYUhDOHk0eXNCbTlwV2ZKNC14TGJiM0xfYXNZaXB5cXhsa1RkUWdKU3lXVmh3b3ZNbkp2Zmx4clBRNUpqa2xtdVpSWGl5R3I?oc=5",
-          "pubDate": "Tue, 18 Aug 2026 04:46:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Donor fatigue guts demining in Asia, as active conflicts draw away funding - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYUowYzlFbGRNd2VUcXVBUW5vYUZMdU1sUUN1bmExdkpFdHctQVZLVU45M2ZXMTFZMktnQmZqdFd6ZkE4QkNyODBfNzBiWU5mMVRHTUFNNmRsZWF0VVFUR0wxUUpaV1M1bjU0RnNJVnJJR2hVZUFvdjhjaDFKbi1WQkJFNEUwai1iSnV4OEVTeTJveWdpVHZtQk54QQ?oc=5",
-          "pubDate": "Tue, 18 Aug 2026 04:21:00 GMT",
+          "title": "A Chinese animated film mocked as ‘terrible’ becomes a box-office hit - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNGFpNXpGekZfeTNFUnZHV1hsaGZ4MGE5emFoZFpYYk9xRkFRTkpzUmcyN0NGQ01DcUU4X0tJYzNWVXVZQmdLQXNhUDIzU2Z3aFVSeUI5bGc0MzVMbmlfUGNPU0U2LWFJc2o1T3NCN202Y2lJbjFkV18tbFRfY0xNQlA5RF90dDdqYXQ1R2ZDRU1LQQ?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 06:13:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-18T09:38:39.815Z"
+      "updatedAt": "2026-08-18T10:34:23.511Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "China's Baidu misses quarterly revenue estimates - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQXcyM1FrTGh6ZnJCeE1pUzk0aTQxVTkzTTB6TDR4eHJFNmlPWXZUMDZBdUxEelBmeVVJNUxCUi1DRUdWSXVZcWE5VDVlb2tvcXYyMnRlcElabndCSVlWU2JTSk9BeThKU2JFa2pHNFBQRElyVGNHSVdObkpaOVNwNHVTcm9DYXIxMHc4a3EzRGF4ZGhyc3RLa3k5cF9wVlB0X1JTRnVEbTN5Wmc?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 09:14:08 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "China's Pony.ai's overseas robotaxi pipeline expands to over 4,000 vehicles - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQaUZLRVdHWnB1NFFOenZ4SHRKYmljRV9HWE9OTFMzSlBmaXNlNnFaQVNpclJjRXFCQ3V4LWxuTThwaHROd0NmeU5yc1l1QTQtOEVUNGYyX1lTM0dueHZkVGE0Y3lqbUk5QzR4d3NQZzhkcjdvWlhmMEpGd3BsRFJwd2EwMXhtWUV2a0RCMkFKei1hRUwzOGlndnlDcjBJOVlNQ19fTXJLMTBVLVVMMml4UjA2VHdQUWx5d3dtLVFxc1drc3VSVG14cGJQLXRXa2s?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 09:03:43 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Russia warns Britain of 'consequences' for supplying drones to Ukraine - Reuters",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZUVfTGNVRktRc2R4dkg0YXI4SndIblJaQngxMHlLNFZ5Z285ZzF3UHBIMTl2VGVUanpfRmhSR1BXcDJoNTNPNV9GUFZDSTcyMGFSQU4wblUtWm9zOWZ0cFU3eEdxc0dtNDdsS2tBUWRlX3hTOGtzemJiSi1nek1QWm9lb3c3NC1ZYllvb3RiTS1yX1ZrdHNrbzFJZi1uNHVzTGJfUHFB?oc=5",
@@ -200,26 +212,14 @@
           "source": "Reuters"
         },
         {
-          "title": "At a Gaza zoo, war takes its toll on the animals - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWTFSYk0tRUo4VW10aGlEN2Uxa19MWi1MYkRyX01ZUWJvcFoyOVZyQjctNWdpRlpuMEZ4SlBGNTByS2h3MjBMeWhmUlplSk5Hd29qSW5zUThtQm1XSVJMZk5vSUhhRXA4d3RuQTJsTjFTSERscWJLYlliVUdDeW1yMk5BQXh6cm9HRTVPdi0xUi0xNWM?oc=5",
-          "pubDate": "Tue, 18 Aug 2026 07:47:45 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "China surprises oil markets again with a return to stockpiling in July - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOWM3eVRJMFNmUjRab1RyZFVmQU12ZUVkbDVIUnpRQ2o3WnhSWlJ2RHhFWXE5bDM0WDFydXd1X3haSFQ5WUFVa1lrcFZGVTlUUjREY0NGNHZ3YWxEWDlxQjdIN3F5QTdPVEk5OURMbW9QQ2d2cDJxSVBYZVpoMU9yUU84Y0JkNFZ6anZ1d0FGaHpmek40WUJKTWxpeVZId2tnc0FxNXlLRmZWQmdLZG43SXdHUlBHc2F3MmlSZEpDVnRaRjRUb1hjWnhvOA?oc=5",
-          "pubDate": "Tue, 18 Aug 2026 07:28:43 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US 30-year yields hit highest level since 2007 as war, oil worries fester - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdzFVRER2LTY3b1FZNkxaZ1NXeVJKVEUxRVB0bEpFWnRyVE5rLTZaV0EtaFVRaUhHUjNpRmtMUXgzR0J1VFFPV2ZOMTVkV0VRNW45dGp4TGt0N1ZORVJwUUtrV1FrNnZvVzRSVkFUcURwb0lvcmdUWlRfQmJCeGxva3lmOVZlbDhONVJ0WDVmQnNaMlp6WHoteHhoOTBaLVN5V2ZBTUo5bmZ1OFF3QUdVZkU2X0Y?oc=5",
-          "pubDate": "Tue, 18 Aug 2026 07:12:54 GMT",
+          "title": "Selling grips bond markets from US to Japan as inflation, fiscal worries take hold - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeWxrV2hFeTRkQjZmS2pjcmpEM1VJd2tTc2lkT1NxVjJ3c0Jpa2ZNQzJ3eFlSa1BoV3pQN3VLNzZEUHM0SHZHMURHLUthd21TV0R6TkY5N0lfR1pKRnRGZGpFc1FzamJfT1l2Q1pYQXloZ25LYWdxOHhQcndkZ21xU1lXZFJwc0ZOcnVqWUkyejNUdVcyWWlORW9rdzZORlJCZjZHMWZNX0tKYU44bDJReUpMcVNlOFBNd0E?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 07:51:43 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-18T09:38:40.212Z"
+      "updatedAt": "2026-08-18T10:34:23.947Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-18T09:38:40.365Z"
+      "updatedAt": "2026-08-18T10:34:23.985Z"
     }
   ]
 }
