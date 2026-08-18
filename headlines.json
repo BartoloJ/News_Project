@@ -1,13 +1,37 @@
 {
-  "generatedAt": "2026-08-18T01:35:54.161Z",
+  "generatedAt": "2026-08-18T03:00:23.493Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
+          "title": "Tupac murder trial: 'All hell broke loose' night of rapper's shooting, witness says",
+          "link": "https://www.bbc.co.uk/news/articles/cp3r0kz775ko?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 18 Aug 2026 02:06:04 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Russia warns UK over supplying drones to Ukraine",
+          "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 18 Aug 2026 01:16:41 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "BBC breaks down Trump's latest shift on North and South Korea",
+          "link": "https://www.bbc.co.uk/news/videos/cy45zjw424xo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 17 Aug 2026 23:42:38 GMT",
+          "source": "BBC News"
+        },
+        {
           "title": "Tributes to actress Hayden Panettiere as coroner finds 'no signs of trauma'",
           "link": "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 17 Aug 2026 23:28:54 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Norway's king admitted to hospital and put on sick leave",
+          "link": "https://www.bbc.co.uk/news/articles/c4g3qdj1z77o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 17 Aug 2026 21:34:26 GMT",
           "source": "BBC News"
         },
         {
@@ -27,34 +51,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 17 Aug 2026 18:39:39 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Mushroom murderer Erin Patterson is appealing - here's what you need to know",
-          "link": "https://www.bbc.co.uk/news/articles/cj9dx03jrgjo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 17 Aug 2026 18:03:23 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "French PM heckled over wildfire response as blazes continue across Europe",
-          "link": "https://www.bbc.co.uk/news/articles/cx2rzx5g5yro?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 17 Aug 2026 18:00:55 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Russia's prominent anti-war politician jailed for 11 years",
-          "link": "https://www.bbc.co.uk/news/articles/cj4kjnle2neo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 17 Aug 2026 16:17:34 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Kushner hails 'very good' meeting with Netanyahu after Hamas talks on Gaza peace plan",
-          "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 17 Aug 2026 16:02:58 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-18T01:35:52.866Z"
+      "updatedAt": "2026-08-18T03:00:22.028Z"
     },
     {
       "name": "NPR",
@@ -102,22 +102,40 @@
           "source": "NPR"
         },
         {
-          "title": "Advocates worry new bans on student IDs will trip up younger voters",
-          "link": "https://www.npr.org/2026/08/17/nx-s1-5791740/college-student-voting-voter-id",
+          "title": "As wildfires get worse, some states are struggling to pass fire protection rules",
+          "link": "https://www.npr.org/2026/08/17/nx-s1-5923975/wildfires-western-community-protection",
           "pubDate": "Mon, 17 Aug 2026 05:00:00 -0400",
           "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-18T01:35:53.052Z"
+      "updatedAt": "2026-08-18T03:00:22.258Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "Shakira makes surprise visit to earthquake-damaged Colombian schools and says she will help rebuild - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQk85aFc5OVpMc3pHdWFaS2xjYzQyUmJhRVdQd2ZVc1dIZGY2Szd3b0V0bEdUOG02RnZ4VDV1cnllejNQM203bmkxcG5sS3BYSHlMVXg3ZGNNUldOWVgyOHBHTDlQOFJlS2VGWmlLQmJib0VXM2czT3BQTDAwc05JQnZ1RjFEdG5ORWE2TXBhYVc5MXNOSUs0YU52UUF1eDBaS1Zhc0JB?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 01:55:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Flooding risk remains as storms move from the Midwest to the mid-Atlantic - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZVhKWVUyNVBlcVRldzVVQWhiYU1Gdkd4VmlHeG1hdkJyby1QeFFKbllGenRPVmUtX3lxSlNNa3k3RTNoTVhjZ2xyaGNhTUVuTklJSGF2aHJ6Z2ZlQUVOWGE4eWVwTnhrVnNHN3JvU0s2MHdPSWhodmVnUnZTSGlpeVlkRU80UjZSdHlHNXNORGJGdmlpdUN2OFRfdHdzdEE?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 01:19:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "WNBA says fans should have been free to wear shirts with messaging about transgender issue - AP News",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMXY5RjdjbzhSRU8yZGlMNERja3d2c182cWxlc0xiMWNvTkJKQ3MtX0xlc3huclU0dTNrVUYtQTR5bUVVcmZDNXlhQnZWeWlpQ0hIZzVLd25tbWVramZ4eEVNNDY4RTZTSnc4VWVYRk9mN2ZCdkE0akM4bmNzVkhQSzBGSkhhRUE3Q1hCbXRMR0RWTmF2TDhGWnZQcVVsdw?oc=5",
           "pubDate": "Tue, 18 Aug 2026 00:38:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Jeanie Buss to contest siblings' plan to sell their Lakers minority ownership stake to Kushner, Iger - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbEdqb19SRVIwV1RuSFN1QnhTcmprM04xZl9wVXBtUjUwd3ZxUUZpV2tSVjNib05ZNFpPLWt6VGxnOGZleFA1X3JFRjNVdVMxWE1rX1AyMndsWnhKbHpGaW9UdmkzVjR3ZXppa0FYQ0huRjdEX2g2MW81dlY1QUx1WmhB?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 00:34:00 GMT",
           "source": "AP News"
         },
         {
@@ -127,48 +145,48 @@
           "source": "AP News"
         },
         {
+          "title": "Trump’s slight of South Korea in favor of the North raises broader US security concerns - AP News",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQa01Qc3UwRlFwb3I3N1lSQjFJVlF5RDdJT2FWcFdZY2E3YWdIbFRrdEw3RGtTNkQ4N1RLM0RuM3F5bENpYXVYLUNDRzJZQTdMenVUZFc1aUMyVVJvOHp6WTRNeFVKREVpVW1DR1RnVkQyQzhCN0l4a3FBQnVVd2plTEY1Y2JIN1B3c2VSazFWUmczMEZNVGJQQVJBNFV1WHpocUtENEZkcGVaY2dPMHJ5TFpyWkRhUQ?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 00:18:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "The 60-day deadline for an Iran peace deal is expiring. Here’s where things stand - AP News",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU3BhNEdxTFpDOGtvRmx2RU5kNWtFR1oxYXhsOEFWWm1NdG9IMkRaeEJvUmE5WUN0UjMxbXdwSXFmcXNKTjNGbkNfY1hrdjJtZnl0QVZXNk5jeVNFRV9qSklqTUhBVFpyTnFkdVBMeEZGRkJmWFFCWC1Ca3EtN2xGMzYtd3loMXdrTGhDSXpjV1ZzcGRnZUJfdEZueHdmSmFZR1BkcXV3?oc=5",
           "pubDate": "Tue, 18 Aug 2026 00:13:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Judge blocks the Trump administration from moving FBI headquarters to DC office building - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTUNmbTc5QnZEWWpxVnFDMHlFZ2tCWFZUZ01LTTg0SnB1YmdvY0JYWU10ZW5LeDVQdm0yRENSN1J2N3FXMW9YUFlzY3JWZ2RCcWdFNjNEaml5R2xBNFdkMWJJak4xSVBaWVhuOFZzZnFJOTFnQzhIU3VYdkdKY05vRzhONkpUTEVIdlF6YkdoY3hSeFhRcFl3X0tRckg2MlJXellz?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 23:40:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Trump administration briefly pauses contentious border project in Texas' Big Bend National Park - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOU5vVk54X1dmbDBBVXItdUpaZy1nM1doRDQ1TFh6WE9ibHBzdDFTMjh3aTVJa255TTlpZkNaNzY0NnAzSUJnVHJZM2FVOWhDcVh3MzU0UEdLQVhPLUtHVE14S1NLR182VXFRS0dlQjNpNzdES1BPUFJfbU0yT1ltN2tCVlZTcDFRLTUyUGI1akpDZzJDOUtKa0Z4YlJHbkVaUXpEdWFERGhHNWM?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 23:10:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 22:46:44 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "MLB approves sale of San Diego Padres to José E. Feliciano and Kwanza Jones - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZHJQbTdONXl1MWVPVlc3YkRjelJ1NEh6SFEySnZKaWsyMkxPU3FGN2w1SG5jSG1neEt2Q0l2UGNtY0xhODU0YklpZTFJNFhISjk0OU1nelpxeU5PU2F0NXI4MXdqRUpHa0JPNzMtcm5fLXEyb3VaVXNTeW9fWlUzXzlPOUljT1JvRVdWNWxNNA?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 22:31:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Discord halts livestreams in Brazil after watchdog cites child safety failures - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSkJZNVRseVRaejdSaEVfMDlXMGlXVDV4bVd0MjVOYWNmQzVIQ19kYkgtbUwxbmV3YURuT2daMk5zYl95RTZFQzFlanFnaVh6NTc3ZjFsZEJKZ1pIMmdraVByZnJyb3ZCUGFpcHJnWWtkS3VDeVRDLXlGRDhFZmktNDNId1BvaUs3R2dic1RBdkp3NGQ0enFPLVNmc2M?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 22:20:00 GMT",
+          "title": "A dispute about fact vs. fiction at the trial over Tupac Shakur’s 1996 killing in Las Vegas - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSWxOby0xS1dZdnhHdmVELUZoaE96a0ZpZUFkR0doR28zUDlnc2JHSGFXZWF5UVROQ3owVWxsTm51UzhNa2tGRzZDQURzRTR2RFF4dzBRYUhDOHk0eXNCbTlwV2ZKNC14TGJiM0xfYXNZaXB5cXhsa1RkUWdKU3lXVmh3b3ZNbkp2Zmx4clBRNUpqa2xtdVpSWGl5R3I?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 23:58:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-18T01:35:53.575Z"
+      "updatedAt": "2026-08-18T03:00:22.799Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Oil prices climb, bond yields rise as US-Iran ceasefire expires - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1IRXVLRUlydV9LUjVfX3hOQ0hKc2d0aE5MS0hqLXBrbTg2QXNhcEc2MnlhOU15dkxXSDV4V2hTM2lCR19Gc3BUWUpJYk0za3VXTTFTYTlDdXk3cjhoa19SdFJxcWk3N01rSGkwSmF3MUlMcm9BU09ZMW5QNA?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 01:16:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Oil climbs as fading US-Iran peace hopes raise supply risks - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOLWFFMnZIN09zQ01kSjJtOWZDTzJHTk1xazNXM09aamwwLTBjeVRhc3VodGhQNWI4UlFaUFdEaFhNNDhFRzR6emlja2xYSTRhaHdFYzQwcnBWZnpkckpXSU5qUkFWZ0UyS0xzZ0lFbHdQRTFkWHJYY1JLM3gydXlKTllCLUFkclJiTEFTcFNOMTdEME95ekVaUHRtZmgwTmVDSWQzeHVodGtGNHkx?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 01:13:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Gold extends gains on easing rate-hike fears, markets await Fed minutes - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSG9XMjZPS3g0am1fSnhSbndBTlUwbkxHN0FJanR5OFRlZUgwUzZPVjRxcnVGQjUtdmdnYVU5a0xNYXhFcGJNY0t2SlVvTHg3QW1yVFQyRTEyckdHU1hhTFhDRWwyMzZBeTQ0alMxUmJ1TmQ4bVp4aXFNdGljOVJ5WVRNbEptdWZqaVJPVFkydVNQYTBrRmRZMU5PLWZ0cW5qbFp3cTUwOVA1b1FpRnBBMlF2QXRFdw?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 01:05:00 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Paramount seeks $1.88 billion bond from state AGs over merger lawsuit - Reuters",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdmw1dFdaTm0wd0gybUJrYnBVdDkwX0xXYXdlNTdRNnFhWS1YMGtnOGVsNDQwc0diMlJ4Q21McFNTWnRUVEl3WER5LXlOMFBNZHR5Umx0Z2poMG5zMDlDOHlNOU8zV0JDaWtVQUlhNDR3Z3VfdjU0NnlqVTlwOWZoNVlzX3BQYkpSNld4OFF6bldmNUlnSVpCY3B4ZHhlS2JOUVBybEpYOA?oc=5",
@@ -176,9 +194,9 @@
           "source": "Reuters"
         },
         {
-          "title": "Rain aids fight against Belgium's biggest wildfire, as blazes rip through Europe - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSXFOQklWSmxLTG1DQkQxZC1oc2ZVRHhrLWR3U3dzY0lrenQweEV0QTJVeTR2T19FLXhhcDExSFNrcS1tUXNFZXZuSnZld3NYRXBqM0NMZDBSaHd0b2pxdG5pQ1llaVdlc1BkelJneDhuOWVQZTR0VF8xam5ZV0tKQ3dULU9rU3JtVnA2eWtTZUZlSUtYVlhvVzl0VHVkNmprbW9qdlRuWktlbE5Ha0NXTXVHNldxeFNJcXRBTkxn?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 23:28:15 GMT",
+          "title": "Erdogan urges Trump to pursue talks with Iran, offers support - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZTVPLW5Mb1Q5eVJPMkVLcjVXVUg0Tmo5NE92SGQyZHFmbkxQeG12LVdjT2ZRMVNVNTc1WTN6VUZaUF8zYVlyTm1JR01PbHo4VHc4ZF95NnZyajlKdzZQSDhyWTR1TEpnNVk2dTZsdVNvUE8yQXhwd01oSTlnNE9zb0h6Ul9NbVUteEtERjVIczBGdGVsMFl0ZWM5ZlY1VnNZc3NUbEhYeTFHUXpLM2daSk93?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 23:06:45 GMT",
           "source": "Reuters"
         },
         {
@@ -194,32 +212,14 @@
           "source": "Reuters"
         },
         {
-          "title": "Iran threatens new offensive while US rules out extending ceasefire deal - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcVl4WFplN0o4aVNSQ0REMXZlRmNzNTk4dURRMV8wUXhVQjNzVkZ0S3R4el9XSnE1MWZfLXc1RlZtZmJITURZRS1NaThGcXBKV0NZY2JXRGU1c093dzM1M0ZLcUtaRERHS1B4QUtXU3pwUk5XVWpSTEtXXzlTQ1BBZU85ZE50NHZQN2hXa1FTODlNRHU5UzhWS0tzMGktMktwMXI3X3pNYmRFMVIzSTlJbzl5SWRQa05qZ0lXWnM1bw?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 22:43:11 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "China surprises oil markets again with a return to stockpiling in July - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOWM3eVRJMFNmUjRab1RyZFVmQU12ZUVkbDVIUnpRQ2o3WnhSWlJ2RHhFWXE5bDM0WDFydXd1X3haSFQ5WUFVa1lrcFZGVTlUUjREY0NGNHZ3YWxEWDlxQjdIN3F5QTdPVEk5OURMbW9QQ2d2cDJxSVBYZVpoMU9yUU84Y0JkNFZ6anZ1d0FGaHpmek40WUJKTWxpeVZId2tnc0FxNXlLRmZWQmdLZG43SXdHUlBHc2F3MmlSZEpDVnRaRjRUb1hjWnhvOA?oc=5",
           "pubDate": "Mon, 17 Aug 2026 22:11:11 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Luigi Mangione's state murder trial is postponed after federal guilty plea - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORi1Qd202YmhIcnRKLUlISnZpSUV4RnR3WUF4QlNDclU1cWgxX0E0UkxQR2wyMDBhbG9tM0JRSjhrVGlVODJlVkRZWFNINkZFWjVGTUtGaDI1QnFvWldpMzQ3TWZZU1pTb0tOdjJGcUZPdTR6VEZNMUF4WllaWWJDZ0lwNXM5YjJfRVNoUUJhQ180T2JWQThmdjN0M1h1Z1haYUJTcm9TX0J6dllpSlJhNmFLLWl2UQ?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 22:03:07 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Canadian dollar steadies near two-month high as inflation accelerates - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQLWVkUi12N2haY1ZROVRPcDhwVlp1aXpMeGNZN2RNLXozZHZNVDQ4WW9HZGhjYjc2ajVxelpGUkd4MUJSQ3p1bldxU2gtWU5fQlZrNW94UnB0QVlhRkZHRHkxaEdpUDFEbF9HSHVma21uMkt6aGJQRkNTZ1hNNjBEaXZncXNWWE1aMVgzNTNxNU95R1BJakZoclNsbHp3Z2UyUU5v?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 21:55:26 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-18T01:35:53.999Z"
+      "updatedAt": "2026-08-18T03:00:23.225Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-18T01:35:54.161Z"
+      "updatedAt": "2026-08-18T03:00:23.493Z"
     }
   ]
 }
