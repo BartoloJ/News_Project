@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-08-18T22:55:00.361Z",
+  "generatedAt": "2026-08-18T23:27:00.798Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "The Indian activist jailed after taking on a luxury hotel plan",
+          "link": "https://www.bbc.co.uk/news/articles/c0ej24qd3qpo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 18 Aug 2026 22:18:50 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Meta hooked children on Facebook and Instagram, court hears",
+          "link": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 18 Aug 2026 22:11:07 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Tracking USS Lincoln's months-long mission as concerns about conditions grow",
           "link": "https://www.bbc.co.uk/news/videos/cdrv71lzejpo?at_medium=RSS&at_campaign=rss",
@@ -39,22 +51,10 @@
           "link": "https://www.bbc.co.uk/news/articles/c62emm4yp8go?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 18 Aug 2026 17:54:46 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Earthquake rocks Spain's historic Granada, injuring three",
-          "link": "https://www.bbc.co.uk/news/articles/cdx755dyy1yo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 18 Aug 2026 17:15:39 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Zambia's Hichilema re-elected president as main rival in hiding over alleged threats",
-          "link": "https://www.bbc.co.uk/news/articles/c5y6j4jl03xo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 18 Aug 2026 17:00:29 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-18T22:54:59.151Z"
+      "updatedAt": "2026-08-18T23:26:59.384Z"
     },
     {
       "name": "NPR",
@@ -102,14 +102,14 @@
           "source": "NPR"
         },
         {
-          "title": "This crowded Republican primary in Florida has drawn a unique cast of candidates",
-          "link": "https://www.npr.org/2026/08/18/nx-s1-5930699/florida-republican-19th-district-carpetbaggers",
+          "title": "She told no one about her agony except ChatGPT. What her death reveals about AI risks",
+          "link": "https://www.npr.org/2026/08/18/nx-s1-5929575/ai-suicide-risks-mental-health",
           "pubDate": "Tue, 18 Aug 2026 05:00:00 -0400",
           "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-18T22:54:59.369Z"
+      "updatedAt": "2026-08-18T23:26:59.544Z"
     },
     {
       "name": "AP News",
@@ -118,6 +118,12 @@
           "title": "Trump says US has no talks planned with Iran and other news from the Middle East - AP News",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUGE0ZXdacDJQQU1FSTNKRzRoV21MR3h5R1FIekhsU054VE9WSzdUdThYNmY3emZwQWpXUFczUklKU2MzZVdUeV9ZaWtoaF9IUXRaT24xS0Y2MmdlbnlxT1JicndhbWpfb1N4Z09GeDV4UGMyQUdLb3Utb3pqNTNDQTR2amh2cTVGZTJ5S3FVVzlWZmoyNHNLUy12WnM3YUtiMW01Vnp5TmRQWjdQS3c?oc=5",
           "pubDate": "Tue, 18 Aug 2026 22:24:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Frank Beard, Rock & Roll Hall of Fame drummer of boogie-rock trio ZZ Top, dies at 77 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWlNCVzQ4SmVTODRVX2kyMVU3SGFOXzUzQkJ2dG1LLVJmeTYwNExtYVUwWUc3WGpoS1hGa3UtN19aamZtQW5pa3JSdFltZjZJX2pzQUtNRm9ldmpqY1dOQ1RsMHBlZWp2enFIaGZFVUdSMDFfOXlvTzRsVk1WUlQ4YWNhSjM2eVFETlRPaTZlb0wzdw?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 22:22:00 GMT",
           "source": "AP News"
         },
         {
@@ -155,24 +161,30 @@
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZkZLX1YyWEUtTGlwUE9BQXRVNjRfZFlDMEZQNVZFRkY4c2o3bGdmX3BlUkpJR2VmUFVkc2FIS1JDX0tjdHR6dzF6Um1nRHFSYWxILWFBRUxzUTdicTB0SDJYNHRXWVlVMmd1TkhCWUhpc2ZzbW14NDI2NUlKYk4zZklxb3Zram4tb08wZTd6c1kySWZvU1B6ZFowek5hbzhBcldEQkktbkg1LWJxVVFPMA?oc=5",
           "pubDate": "Tue, 18 Aug 2026 21:24:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Woman accused of plotting to kill Treasury Secretary Scott Bessent is sentenced to 6 years in prison - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNN2JFR0o3TWZVbGFqemxWTXhqaTc3cnp1MWF4WVh0T0VYZGN1YUR1bXhGM1BqNS1hdFZabnB1WWt6QXF2VkhCdHVLNUR4bzhvUVdHUTJ0TktOME8xN0FDUjZDa0xhMm05UV92d3VLa3FUZDhNR2dGTXJWNTgwUy1OaVlLeFdUOXB1Y2JQMk9MdnNibzVYc19LOGFtdW55SDFGY0pJ?oc=5",
-          "pubDate": "Tue, 18 Aug 2026 20:51:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-18T22:54:59.860Z"
+      "updatedAt": "2026-08-18T23:27:00.161Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "Disney, ABC sue FCC over threats to broadcast licenses - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbWFmU3N3RHJWbjB4WTNlbTZ5SlRXYmZhWlUwR1lLRF9PUmFSOGNIM1Ezc20yallrbjI5ejdISlRhWENfV3ZmbUwwYnY3ZVBhVjhFYjhmT1lGUWxTRGJUd1ZMc05YaTE0UjlTU2h3Z1RDeC13T1A1Sl92TDJ3bjM0Yy12YlZqMkQ2T0loNnRjY3RqN0RxWXJPdUZkcURSN29RcDZj?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 22:04:14 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Meta rejects claims it sought to hook children to Facebook, Instagram as landmark trial begins - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeHlhZEh6b2pmUkJKaXNMYUpEMEZsQ3BDLVlxcWZ6VU02ZjlsUVRLZ2EtRlBFYnFSOUJXaURCRmNjYkllYVRCZjUzdDhNNmtzZzNfSGg2RDhJUFY3cWRJbFpxQnhSQllwQ1RuUG83WTQ0TWozc1dMeGJUVlF6QmRZQy1vVmlLeElDNHBZOGFYUkR1VXMwYktFQ0hGWFZ6MDBXQXVOTFVpalp2cFFX?oc=5",
           "pubDate": "Tue, 18 Aug 2026 22:03:42 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Carney and Trump speak again as tariff deadline looms - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQa1BlNEtwMVJSSkVvQjRBMWRlanN4VUs0aEFKUjIyWU93N090cHl5MjN6Q0VCMWdvUVhseXI4N3Y2aUdXTy1oeHpQVE5TYjdiLVlOcFdaMWswRGVsZzZ0dG5HamdSeFdMSFc5bTZZVHNwaWp3SXRWT3IydFZnR3NSVm13bnEzbTdxajVkbFpzUUhwc01zQzFwWG8yT3RHZw?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 22:00:57 GMT",
           "source": "Reuters"
         },
         {
@@ -184,13 +196,7 @@
         {
           "title": "Trump says no talks planned with Iran, Tehran says Strait of Hormuz still shut - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUFBFaGFVcWFQMUh6YjRZVVpwX2piQ093ZzVJVjJtRmgtaE9RVFhJNG40STQxbDlhSG00cHBNVWNlRnZ5TE9MSmVVQTdJRk5hTDhIVEVCeXRtbmsyQkNCR1FSQm5GVGRNYmcybHN6RFNzbGJGN3hsdUUzWFh1c0NEdXd0X0h4SHdRXzlsRjd4NDZvR1VBc0M3ZDJxdG1TcTBISHBWSHRjcHBRSG90SU44cE5WM011U2g0V1dObWZXaEJSX2tONDQ0?oc=5",
-          "pubDate": "Tue, 18 Aug 2026 21:46:55 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Disney, ABC sue FCC over threats to broadcast licenses - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbWFmU3N3RHJWbjB4WTNlbTZ5SlRXYmZhWlUwR1lLRF9PUmFSOGNIM1Ezc20yallrbjI5ejdISlRhWENfV3ZmbUwwYnY3ZVBhVjhFYjhmT1lGUWxTRGJUd1ZMc05YaTE0UjlTU2h3Z1RDeC13T1A1Sl92TDJ3bjM0Yy12YlZqMkQ2T0loNnRjY3RqN0RxWXJPdUZkcURSN29RcDZj?oc=5",
-          "pubDate": "Tue, 18 Aug 2026 21:45:44 GMT",
+          "pubDate": "Tue, 18 Aug 2026 21:47:57 GMT",
           "source": "Reuters"
         },
         {
@@ -200,26 +206,20 @@
           "source": "Reuters"
         },
         {
+          "title": "Ukraine's ousted defence minister calls for wartime elections - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOM2I5VUo0cWlLNnZ2Vnp6dlMwcnFsc2R4ZElfZFdFN3VQYTE1MnFhc242TEQzb1BmU1duV0NnSWRuSzBVajN0d3VIMkVuMG9rSmYtNFd6MF81cjJRWThVYjRXamFfWGpFTlNvbGpKUFpEWXpXQWJqTkxLRld1NzBUQnc2dnhpU0N5NDF6N25QV3J2bFA1cW9TdE9lWHduTGRmV0RoV0pESF9SNEJEZWJtelIxaXZUUXNKajBB?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 21:41:20 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "US securities regulator proposes long-awaited crypto rules - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYmhYdjlSV1NyZHFOMF9rbmlCRW80WEoyb0xxblZrMHlTaGtqWUk2OTI4REg2bXFYczVkZVU0MjgwQ1Z0ZDdIQzhWNndnNWMzQWhMUmVZSG8yWm9mQ3NCRkNDR2xMWDVWNkxLYVN1YjBzaW1NZEstenlCeXRwUVI0U2Z3NzlRN1VV?oc=5",
           "pubDate": "Tue, 18 Aug 2026 21:27:52 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "UAE says two missiles detected earlier were launched from Iran - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaVFKQ0k0Vk10ckR0U1JfNHlsLW9nWUtrc09mMUx4UzFzRHJsVk4zYkJQT2NFNHVoVTRyYjE3OTJOcXVtcHFoWGRpQndUTXFnQjFKVGZQM1ZRTkpEeVVPZlF4ZXUydnRUckVmOHU2SEtXU000ZVFhVE8teGhQZFFPbnVFX3dBM1pNa0oxbnFoTmF2bUM3MjFj?oc=5",
-          "pubDate": "Tue, 18 Aug 2026 21:21:04 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US yields edge lower despite Iran worries, broader sell-off - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaERYcG1nTmtNcy1ia2hGekZQaVp4X1Y5RHlab3QydTVDV2tfSVZmQnctVC1iaWFmZ2xJRmN6U3pzNk1wdUx1VlpQWmF6WTZsdmtfdmF3SmpGUWYzMzluM3JEVVBVTmZXU2NfMG9lcjRzUktxWEZNZDZxbTE1Q2FkVmd4Mmd3ekpxeHY3RWtpRC14QmV0SktSNA?oc=5",
-          "pubDate": "Tue, 18 Aug 2026 21:20:27 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-18T22:55:00.268Z"
+      "updatedAt": "2026-08-18T23:27:00.578Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-18T22:55:00.361Z"
+      "updatedAt": "2026-08-18T23:27:00.798Z"
     }
   ]
 }
