@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T23:51:12.093Z",
+  "generatedAt": "2026-08-18T01:35:54.161Z",
   "sources": [
     {
       "name": "BBC News",
@@ -54,7 +54,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-17T23:51:10.649Z"
+      "updatedAt": "2026-08-18T01:35:52.866Z"
     },
     {
       "name": "NPR",
@@ -72,7 +72,7 @@
           "source": "NPR"
         },
         {
-          "title": "Democrat Rep. Jimmy Gomez being investigated over sexual misconduct allegations",
+          "title": "Democratic Rep. Jimmy Gomez being investigated over sexual misconduct allegations",
           "link": "https://www.npr.org/2026/08/17/nx-s1-5935513/jimmy-gomez-house-ethics-investigation",
           "pubDate": "Mon, 17 Aug 2026 15:53:37 -0400",
           "source": "NPR"
@@ -102,69 +102,69 @@
           "source": "NPR"
         },
         {
-          "title": "As wildfires get worse, some states are struggling to pass fire protection rules",
-          "link": "https://www.npr.org/2026/08/17/nx-s1-5923975/wildfires-western-community-protection",
+          "title": "Advocates worry new bans on student IDs will trip up younger voters",
+          "link": "https://www.npr.org/2026/08/17/nx-s1-5791740/college-student-voting-voter-id",
           "pubDate": "Mon, 17 Aug 2026 05:00:00 -0400",
           "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-17T23:51:10.719Z"
+      "updatedAt": "2026-08-18T01:35:53.052Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "WNBA says fans should have been free to wear shirts with messaging about transgender issue - AP News",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMXY5RjdjbzhSRU8yZGlMNERja3d2c182cWxlc0xiMWNvTkJKQ3MtX0xlc3huclU0dTNrVUYtQTR5bUVVcmZDNXlhQnZWeWlpQ0hIZzVLd25tbWVramZ4eEVNNDY4RTZTSnc4VWVYRk9mN2ZCdkE0akM4bmNzVkhQSzBGSkhhRUE3Q1hCbXRMR0RWTmF2TDhGWnZQcVVsdw?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 00:38:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "‘Total Eclipse of the Heart’ singer Bonnie Tyler remembered as ‘a star, but never a diva’ - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdklVdElUbVQ2YkpWVWg3Y1BuT3BmT1JscTJjMlFUNGtXbEk3cWtlUzM1aHBVemx3RXI1eVBQazVLZ3UxWnVxdGsxOWQxeGRhUHpUazBsQUkteWg2aVE3Tk5hd0phQmR2UXJEQTFsV01rWkRmNG9OZFI2NFdvMXZRSmlCSmpRZk1jLWszUDAxSC1wczFTeHRWTHAtLVpxT2RXdU5v?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 00:29:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "The 60-day deadline for an Iran peace deal is expiring. Here’s where things stand - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU3BhNEdxTFpDOGtvRmx2RU5kNWtFR1oxYXhsOEFWWm1NdG9IMkRaeEJvUmE5WUN0UjMxbXdwSXFmcXNKTjNGbkNfY1hrdjJtZnl0QVZXNk5jeVNFRV9qSklqTUhBVFpyTnFkdVBMeEZGRkJmWFFCWC1Ca3EtN2xGMzYtd3loMXdrTGhDSXpjV1ZzcGRnZUJfdEZueHdmSmFZR1BkcXV3?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 00:13:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Judge blocks the Trump administration from moving FBI headquarters to DC office building - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTUNmbTc5QnZEWWpxVnFDMHlFZ2tCWFZUZ01LTTg0SnB1YmdvY0JYWU10ZW5LeDVQdm0yRENSN1J2N3FXMW9YUFlzY3JWZ2RCcWdFNjNEaml5R2xBNFdkMWJJak4xSVBaWVhuOFZzZnFJOTFnQzhIU3VYdkdKY05vRzhONkpUTEVIdlF6YkdoY3hSeFhRcFl3X0tRckg2MlJXellz?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 23:40:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Trump administration briefly pauses contentious border project in Texas' Big Bend National Park - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOU5vVk54X1dmbDBBVXItdUpaZy1nM1doRDQ1TFh6WE9ibHBzdDFTMjh3aTVJa255TTlpZkNaNzY0NnAzSUJnVHJZM2FVOWhDcVh3MzU0UEdLQVhPLUtHVE14S1NLR182VXFRS0dlQjNpNzdES1BPUFJfbU0yT1ltN2tCVlZTcDFRLTUyUGI1akpDZzJDOUtKa0Z4YlJHbkVaUXpEdWFERGhHNWM?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 23:10:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 22:47:34 GMT",
+          "pubDate": "Mon, 17 Aug 2026 22:46:44 GMT",
           "source": "AP News"
         },
         {
-          "title": "Trump blames vandals for damaged grass in the spot where he held his big July 4 celebration - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNa1RfM19TUU5waDI1Z1ZzRkdGQVlGdVQzdnRlWmVicXVjM0xMMHFRTjZ3QlVyVnVwSW9fa051bW9xRHRDX2NtaHVDNy13UVY3c1phelZmeWstVDQ5cTd1UEtYR2U0cEMwNE1rRU5sbXphMUIzV0hDYm01TlJURmZtZDM3YmRjdHZzeGRac3NubmVQNDlFUG04eHI2REVWTkFYdk56Mkpn?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 21:52:00 GMT",
+          "title": "MLB approves sale of San Diego Padres to José E. Feliciano and Kwanza Jones - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZHJQbTdONXl1MWVPVlc3YkRjelJ1NEh6SFEySnZKaWsyMkxPU3FGN2w1SG5jSG1neEt2Q0l2UGNtY0xhODU0YklpZTFJNFhISjk0OU1nelpxeU5PU2F0NXI4MXdqRUpHa0JPNzMtcm5fLXEyb3VaVXNTeW9fWlUzXzlPOUljT1JvRVdWNWxNNA?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 22:31:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "US school vaccination rates inch down yet again and exemptions reach record high - AP News",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNS1Zrb1FYSFJyTzRxUUY0SklzQlZZeWVJbVhLVjRwRk11MkR6YmFqT2Y1aGtZeHZxVzRHSzlMS2IwRl9rbWJwYzBPWGpBYnk5TGkzNW9Na2FDOHFrRllVc0tUQmNCRVJ6emtJZERtSVBtb3JyekJQalVjdFRXN2hQVDlyWUR4Mk1EZVdTMjVjWmFLU1N3UnNtTno0RmppOTJG?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 21:49:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "A dispute about fact vs. fiction at the trial over Tupac Shakur’s 1996 killing in Las Vegas - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSWxOby0xS1dZdnhHdmVELUZoaE96a0ZpZUFkR0doR28zUDlnc2JHSGFXZWF5UVROQ3owVWxsTm51UzhNa2tGRzZDQURzRTR2RFF4dzBRYUhDOHk0eXNCbTlwV2ZKNC14TGJiM0xfYXNZaXB5cXhsa1RkUWdKU3lXVmh3b3ZNbkp2Zmx4clBRNUpqa2xtdVpSWGl5R3I?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 21:47:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Justice Department watchdog to review DEA tactic that permitted deadly fentanyl to hit streets - AP News",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOS3IyZlQ0ZG5RZTZrZVQzWU9kUDZTdi1zdmRSa0d2REZrVkRqUm5DRnY5cy1fZUxYZ1lhZy1HQUNBQ0VRR0JYNXZWQmRkeFpVMHlhOFJvbEtZRnhlV2sxSTVBUzVOSzhWY1FPN0JRX0JUWTcxWEY3d0g4N1l6VUM0VGtGSU10azh3cUZaOE1HVkpERG5SeEJmUEFTY2NscDg1UlAwOEFwZHVob0lxZEg4MW9ETXVlem1oSXlaNEhn?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 21:43:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Congo’s fast-moving Ebola outbreak becomes the country’s worst with over 2,300 dead - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNnFBNzZoaTBlT24wbF9PNWVEQWZjZWN3RFM3NTJwZWNJR0dVX1diOFpTLXRsb09Yc1hZVXRaVFFsRDNndTVseUxjMTladU1XbnFrc3Itc3ZXSXEwUnJ4TzZ4cW05V1N2R3JyYVRCNGlmYlIyZGhUWHI0X19EZTJ5S09aYVBUcFFRTmFoelBMTUZFUUFoOWwtWEJQRjRISmZBMTdNYWF0ZTM?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 21:40:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "ICE pitches legal insurance to help shield local officers who make immigration arrests - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNT1VITUZCSWk0aF83V0EtWHNZZVluTU10TjgtUVRMNzJkMDZWNTFWN3pyM2diM0J5azBjcjBmQjVsLWItZ3J0QTFiM25QVzRlcmlWWEY4Q25PdzFxYjlWYXFHcE5RY29FYjY2b1BpYXNuaGpkZDdzVHMyZnVER3NDcnlibmxBWndEc0RWMlJuM3RNSndpcXdudjNBand1ckh2VHlxSWVZMFFRcUpI?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 21:31:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "‘There is nothing else’: Californians face eviction as insurer cancels assisted living benefit - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ2V3UDliWkdiTXZ5ZWVsZnF2OXIzQ2gwUEp2N2ZxX19Ld0wxdVB0bDM4Y0FpbHQydzFJRERMcFNmUXo1ZFl2VjU2NUJObjFQQWNacDZ0Qld5OHB2ZU1URzNUY2twZjdBN2w4amE3SjI1aEpfd0ozVWhISVpVakJTclEyWGtESmJINzM0V2YzbTRwb0kwQmNNZm43MDFBZ242SE94NW5fZ2c?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 21:11:18 GMT",
+          "title": "Discord halts livestreams in Brazil after watchdog cites child safety failures - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSkJZNVRseVRaejdSaEVfMDlXMGlXVDV4bVd0MjVOYWNmQzVIQ19kYkgtbUwxbmV3YURuT2daMk5zYl95RTZFQzFlanFnaVh6NTc3ZjFsZEJKZ1pIMmdraVByZnJyb3ZCUGFpcHJnWWtkS3VDeVRDLXlGRDhFZmktNDNId1BvaUs3R2dic1RBdkp3NGQ0enFPLVNmc2M?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 22:20:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-17T23:51:11.178Z"
+      "updatedAt": "2026-08-18T01:35:53.575Z"
     },
     {
       "name": "Reuters",
@@ -172,13 +172,19 @@
         {
           "title": "Paramount seeks $1.88 billion bond from state AGs over merger lawsuit - Reuters",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdmw1dFdaTm0wd0gybUJrYnBVdDkwX0xXYXdlNTdRNnFhWS1YMGtnOGVsNDQwc0diMlJ4Q21McFNTWnRUVEl3WER5LXlOMFBNZHR5Umx0Z2poMG5zMDlDOHlNOU8zV0JDaWtVQUlhNDR3Z3VfdjU0NnlqVTlwOWZoNVlzX3BQYkpSNld4OFF6bldmNUlnSVpCY3B4ZHhlS2JOUVBybEpYOA?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 23:39:18 GMT",
+          "pubDate": "Mon, 17 Aug 2026 23:58:31 GMT",
           "source": "Reuters"
         },
         {
           "title": "Rain aids fight against Belgium's biggest wildfire, as blazes rip through Europe - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSXFOQklWSmxLTG1DQkQxZC1oc2ZVRHhrLWR3U3dzY0lrenQweEV0QTJVeTR2T19FLXhhcDExSFNrcS1tUXNFZXZuSnZld3NYRXBqM0NMZDBSaHd0b2pxdG5pQ1llaVdlc1BkelJneDhuOWVQZTR0VF8xam5ZV0tKQ3dULU9rU3JtVnA2eWtTZUZlSUtYVlhvVzl0VHVkNmprbW9qdlRuWktlbE5Ha0NXTXVHNldxeFNJcXRBTkxn?oc=5",
           "pubDate": "Mon, 17 Aug 2026 23:28:15 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Trump says North Korea's Kim has responded to his overtures - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTUJXMVdaUWl3aDB1SXIwbmVGSi1jbXJFblJHRkN3QTlaZ29LNEd2bktlYTF0d29GOE40TVVHQk1acVY4Z3hIM1RWNlJTb19udG1KM3hVV05xZWNhUGMteEh0bE9jaDNBci1DZ0U0NURkQU1zYXNYRmFLV3B1cmY4dTIzTWdmS3BhMEM3U2pMZzA4SEVoOFVZUm9hM1MzeVlfdGYwM05n?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 23:06:02 GMT",
           "source": "Reuters"
         },
         {
@@ -194,6 +200,12 @@
           "source": "Reuters"
         },
         {
+          "title": "China surprises oil markets again with a return to stockpiling in July - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOWM3eVRJMFNmUjRab1RyZFVmQU12ZUVkbDVIUnpRQ2o3WnhSWlJ2RHhFWXE5bDM0WDFydXd1X3haSFQ5WUFVa1lrcFZGVTlUUjREY0NGNHZ3YWxEWDlxQjdIN3F5QTdPVEk5OURMbW9QQ2d2cDJxSVBYZVpoMU9yUU84Y0JkNFZ6anZ1d0FGaHpmek40WUJKTWxpeVZId2tnc0FxNXlLRmZWQmdLZG43SXdHUlBHc2F3MmlSZEpDVnRaRjRUb1hjWnhvOA?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 22:11:11 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Luigi Mangione's state murder trial is postponed after federal guilty plea - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORi1Qd202YmhIcnRKLUlISnZpSUV4RnR3WUF4QlNDclU1cWgxX0E0UkxQR2wyMDBhbG9tM0JRSjhrVGlVODJlVkRZWFNINkZFWjVGTUtGaDI1QnFvWldpMzQ3TWZZU1pTb0tOdjJGcUZPdTR6VEZNMUF4WllaWWJDZ0lwNXM5YjJfRVNoUUJhQ180T2JWQThmdjN0M1h1Z1haYUJTcm9TX0J6dllpSlJhNmFLLWl2UQ?oc=5",
           "pubDate": "Mon, 17 Aug 2026 22:03:07 GMT",
@@ -204,22 +216,10 @@
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQLWVkUi12N2haY1ZROVRPcDhwVlp1aXpMeGNZN2RNLXozZHZNVDQ4WW9HZGhjYjc2ajVxelpGUkd4MUJSQ3p1bldxU2gtWU5fQlZrNW94UnB0QVlhRkZHRHkxaEdpUDFEbF9HSHVma21uMkt6aGJQRkNTZ1hNNjBEaXZncXNWWE1aMVgzNTNxNU95R1BJakZoclNsbHp3Z2UyUU5v?oc=5",
           "pubDate": "Mon, 17 Aug 2026 21:55:26 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Anthropic revenue run rate tops $65 billion, source says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVEJ6S2RpblVGQzhVS083a3dqR3JpajJOUkJIVUZIS1ZkQ05PeW9TdkJUazFpRXNybXNDUUNnV3dfWTllcFdsYms2Mm53dGJwY1VyYnVYb0xYSTNwZWoyaC1vM0FDVWJtTlh6VjFyTGxGUUNaYkg0VDdzNlhjMDJ4dUxJVHQzY0dUaWdKd2t3d0NoWk5IQU52bDRXWTJxZWNFdThJ?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 21:37:12 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US to announce steps to help refiners produce more fuel, energy chief Wright says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNkt2WFRJalFmY1h4S0lLcVFXcmtNN1o5U2J4RWVmWGdkVFdLdUYzUnRlTklFX3Nsd1FMaVVNbEdINlUyazI0ajM2dW5Qd0FJNXpac0V2NFp0Yk1sTWMtUVVxQU1MVk1WY0lsUU9fYjF1dXFIVjZzSWs2cUpPN3FHNGhDbXMtcHlLWWd3VmdhSndwOWl3VTkxNmVYSTd2T0tVX2MyT2c1dnJESmdJZ0FISERjQ3JrNEZy?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 21:36:56 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-17T23:51:11.936Z"
+      "updatedAt": "2026-08-18T01:35:53.999Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-17T23:51:12.093Z"
+      "updatedAt": "2026-08-18T01:35:54.161Z"
     }
   ]
 }
