@@ -1,13 +1,19 @@
 {
-  "generatedAt": "2026-08-19T22:55:22.988Z",
+  "generatedAt": "2026-08-19T23:28:07.427Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
+          "title": "Who is Natalie Harp, Trump's right-hand woman?",
+          "link": "https://www.bbc.co.uk/news/articles/c80nzdjgmk3o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 19 Aug 2026 23:11:14 GMT",
+          "source": "BBC News"
+        },
+        {
           "title": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
           "link": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 19 Aug 2026 22:04:21 GMT",
+          "pubDate": "Wed, 19 Aug 2026 22:55:37 GMT",
           "source": "BBC News"
         },
         {
@@ -26,12 +32,6 @@
           "title": "Canada and US say they are finalising a trade deal, but details remain murky",
           "link": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 19 Aug 2026 19:59:14 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Who is Natalie Harp, Trump's right-hand woman?",
-          "link": "https://www.bbc.co.uk/news/articles/c80nzdjgmk3o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 19 Aug 2026 19:02:41 GMT",
           "source": "BBC News"
         },
         {
@@ -54,11 +54,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T22:55:20.267Z"
+      "updatedAt": "2026-08-19T23:28:05.669Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "California passes toughest wildfire rules in the U.S. for home landscaping",
+          "link": "https://www.npr.org/2026/08/19/nx-s1-5937926/california-wildfire-rules-zone-zero-vegetation",
+          "pubDate": "Wed, 19 Aug 2026 19:19:12 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Experts raise alarms over Census Bureau report Trump is touting on noncitizen voting",
           "link": "https://www.npr.org/2026/08/19/nx-s1-5938799/trump-census-bureau-noncitizen-voting",
@@ -72,7 +78,7 @@
           "source": "NPR"
         },
         {
-          "title": "The U.S. debt tops a record-shattering $40 trillion. Yes, with a T.",
+          "title": "The U.S. debt tops a record-shattering $40 trillion. Yes, with a T",
           "link": "https://www.npr.org/2026/08/19/nx-s1-5937552/the-u-s-debt-tops-a-record-shattering-40-trillion-yes-with-a-t",
           "pubDate": "Wed, 19 Aug 2026 16:09:39 -0400",
           "source": "NPR"
@@ -100,20 +106,26 @@
           "link": "https://www.npr.org/2026/08/19/nx-s1-5937516/why-does-the-u-s-military-seem-stymied-in-the-war-with-iran",
           "pubDate": "Wed, 19 Aug 2026 12:18:35 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "This high-speed star is whipping around the black hole in the middle of our galaxy",
-          "link": "https://www.npr.org/2026/08/19/nx-s1-5936479/fastest-star-galaxy-black-hole-sagittarius-a-milky-way",
-          "pubDate": "Wed, 19 Aug 2026 11:38:57 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T22:55:20.484Z"
+      "updatedAt": "2026-08-19T23:28:06.074Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "AI-assisted tool helped secure satellite communication system after 2022 Russian hacking - AP News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTm9Za2V4OXJWODVZRENaWXhIQnRiTnBnWDJIanEyVGhWZGVlTTNQU3lrTEd4LU9ZcWxMRTN6S09nLVJJNGRCc1V1Si04OGo0d3U5WkNiYTlyc0dZbkQ2WEJnWjg1UjZnaUtMazRPd0tpN2dFNTd1NDYxNlluRllzcFNnb21rWkhoanBITEU5X3lfUTJMTF8xM0s3YUtDcF9l?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 22:01:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Judge removed from Texas track meet killing case as Karmelo Anthony seeks new trial - AP News",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWW51RHZodHEtRGYwNE5IRmdoYndzektvVHZqVi1WeC1yakhlNVdEcFNsZ3ZzUTJGcU8wVWl1dWJ5NlF1RnNRNlhCRTJmMnczTWVUeUV1bWFXR2J4NGlCbEp1bzVIblpVSEhDNHZTWXhMcjJFbWxvb09Fd1EzWkhzVGI0Tmtqbk9POGsyaUhDR2Nva3FFTFJJdWpsRVRyZDRxRC0xQmJZYTYxVW5aRS1oYg?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 21:34:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Israeli military launches criminal probes into killings of Hind Rajab and Palestinian paramedics - AP News",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdjh4SUp0a2ZhbFFhSGQzVERrREI3OFJQRXBVY3gyS2FQRkp4RTFyTUc4d3dJRDUzTzR5X1d1YkVCeU9nYTNyYnM5NmRjS25xXzVZWk03SksyVFlOWWdnM1dhQ0kyVFB3Vmt1RWZVeDlyNEZYMXpNbC1NdGNWbjZkSnBjM1ZqV1FrVjRpSmRNOThiT1d3OG5Ob3FQcHlTcnRNWWdqUktqa3FqLVRONmU1NmZWLURUV2lm?oc=5",
@@ -149,26 +161,32 @@
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWlFsYXNZV0ROTlQ3QlFuUWt0bFFXTVJCcDFGcGtqY3l4TmhSMmlOekVpaGFDOHlfWnJXbDNtbmlLX2xibVBZUmtPaFpacDN3ZVRCd2ZGcnNlYi14UHV0RFZFeGpmb2pJRnRCTGFJSVl5QmJvRDlJeGZaSVFxTVVBV01DS3NlclI2cGM5eVdTWjIzVExFTVpQMm05SWs5bkQ3VGpudnFpcWJLNElzRFNIR2ZRSWY?oc=5",
           "pubDate": "Wed, 19 Aug 2026 20:32:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "'No serious dispute' that Comey's seashell post could be read as a Trump threat, prosecutors say - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTWV3U0xxeEl6WFd6NFBnQndaY2loSXdtOW5MRjdWMnF4NENURXZEY19qbnFZWFNucnNiRkZTODJsN1pEcGpGOFNSb3piUmpTa2Y2YkktWGRyel9yVGF4alFJUW1HaXRJY0p1TVRabnpVNDJKcHJJbnpzSGlwdGxfNU9yaXNjVGZnMGktV3BWQ1BrSzAy?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 20:22:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Los Angeles DA, criticized for charging officer who taped others making racist remarks, drops felony - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTFM5WTFLYVplYWFrMGVQY1lOSWpvMEF2VFFlRzdaVE9TNk5tb01oaGt2aV9kdlFId2JYZElaQmhRdUN4S2dvWERiTzE0ZzZzZUhrLUQ5MWtZeDMyS1RwWS1HNzV5OUptZmZndmo5NXIxR2lLVmp4UmpCYWFRUVNBc3dFU3h1cmtYSkVHNENINEpRRmJCSENYYktkdTB0TFJlMkpCWUx2dWZaT1JDaXIzSGl2MHZnUGlv?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 19:56:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T22:55:21.947Z"
+      "updatedAt": "2026-08-19T23:28:06.639Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Moderna, Merck vaccine cuts recurrence and spread of melanoma, raising new treatment hope - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOV1VaQ05TQmRfMmJzTUkwU2puSHBUcE9FdzY2OW5SaXVFc2FpR25rclJEY1NHS1lrYWdaWE5OUVdhZ2VfTGVHak45akZnYm0wbEZVdXpOYjJEYkpVc3VXaDRrQnZBMDlJbWJLZUY2M2dFc0lycDc1LUtiSmxEWnlsVThSY1RRRG5WM050bEZLR1puWlhDMGlJczRZM0tXb2lHYzlSSmxTRFlQdm52THFDbG1zZlBWLUNUZG9qVjFoQlI?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 23:03:10 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US debt crosses $40 trillion threshold after doubling under Trump and Biden - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPY3NKYnBaTEJPd09VZndtN19jYWFXX3FIZE1KZV9VSlp0NWxMNmZNbFZYemVWR0RWYnpUOWpQM2w4eWQ1aVQ3UEtCTVc5Y2Ric2lteHdZSmZSdkRKVXRDaTdoVDZNd3I4YUsxMnZLN0tuSkpSd1VmbnNEUEhSOEJKdi1Hd05iMU9MQmQzSVl3YmFCYklzRVFrbVlpcDZEbk54VS1GT3NJZllDeWRSZTl3dEp3?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 23:01:16 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Prince Harry and Meghan to move back to Britain, media reports say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQV2d3eUNITlMzVnBXbUpLNl9kT2JBWEFjUWlWaXh0UXVzSklRMVdIWlFpbUFqQ3NaTDBSLWtMZ1Fscl91YXJFRzhXMTRXZE5BUnpyelVRUFFOLXRSeWNQRmZ5MHZFeWtQb015VEhMWnJveXJQcmRDSExLdDVUaWV6SDZkcHNvZ3kwVUdVSHE0eVViUktTTHRybE9CaUxpSjFScHYtMlQxTQ?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 22:48:07 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "US could cut key tariffs as part of proposed Canada deal, source says - Reuters",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQnRyZExVRkFxVGJqQkpSZk83d1pCbkQ1elJqVURZSjl6TTEyZUZtdURWYWhMRldiTWpiRUFXWW1nSExxeE10cXJWMndsbl9QLXJwVDZqVTllUTNUV2s2M3pJZ3U5WExpbHh4MHpYNGE5OXpMeGU0cFlUVEdwM3IwdmtNbHRYOE5hSFRzWDF6ODBLczdqbDllaTRlamRySDlLREFqNi1UTnJuTk9uZFFmUQ?oc=5",
@@ -179,12 +197,6 @@
           "title": "Mark Zuckerberg encouraged growth over child safety, ex-Meta executive testifies at trial - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWEF4WlNJc2c1RjE1QVBCMDVobUhWSXotRWswaWtpQnVTem02RUF4Ykw3QTJzWnI0NmlCQmVkY1NDNUxJdVhfcGEtbEpPd3VaSkZsQUdGTjh1RnNNaGFWNTZEdi1jdmsxRFR5cGp3WDdKT1lRbmgtOUZuMm9VcDRDcE1TS2VKLWxlRVFvM2J1c2hscnBsaXRNcmd6cHZlQmRoNnBCTV80WTZDYW1qZG8yVEVZUXhUUXI0T0NJaS1VQ1ZlSi1pSWRYQUp3?oc=5",
           "pubDate": "Wed, 19 Aug 2026 21:58:39 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Prince Harry and Meghan to move back to Britain, media reports say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQV2d3eUNITlMzVnBXbUpLNl9kT2JBWEFjUWlWaXh0UXVzSklRMVdIWlFpbUFqQ3NaTDBSLWtMZ1Fscl91YXJFRzhXMTRXZE5BUnpyelVRUFFOLXRSeWNQRmZ5MHZFeWtQb015VEhMWnJveXJQcmRDSExLdDVUaWV6SDZkcHNvZ3kwVUdVSHE0eVViUktTTHRybE9CaUxpSjFScHYtMlQxTQ?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 21:56:21 GMT",
           "source": "Reuters"
         },
         {
@@ -204,22 +216,10 @@
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSkpHV0wwZHN4MV84emhmbV95VHJ0UHZtd2dPN1owdVJORzA5VG5uY2kzczR6VF9GOVBsOThTRmxrWFA1ZU9TMV9WX3hnMkctdG5WYkgyZkh5SGVUZEdscE1ENjJMUjZOdTZYYXBxa0E4eE9CTnhIRW9VRExKV1NFd3FoT2Y3Q1lGaDlYRjFuSWd6UHdrWkFUczhZZ3h3SWJwb2hjMERsYXQtelA1ZlBSTW5LdXdid1U?oc=5",
           "pubDate": "Wed, 19 Aug 2026 21:50:05 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "US debt crosses $40 trillion threshold after doubling under Trump and Biden - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPY3NKYnBaTEJPd09VZndtN19jYWFXX3FIZE1KZV9VSlp0NWxMNmZNbFZYemVWR0RWYnpUOWpQM2w4eWQ1aVQ3UEtCTVc5Y2Ric2lteHdZSmZSdkRKVXRDaTdoVDZNd3I4YUsxMnZLN0tuSkpSd1VmbnNEUEhSOEJKdi1Hd05iMU9MQmQzSVl3YmFCYklzRVFrbVlpcDZEbk54VS1GT3NJZllDeWRSZTl3dEp3?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 21:45:40 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Treasury Secretary Bessent doubles US long-bond buybacks in the face of surging yields - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVG9LQ251bHQzZlRLUDhWa1JjNTNUUkh3TVN4YUZ3M09OU3d2MVYxUFdjTUdZYVBtQ1dsTEhQb0JpMXJxV1B2QjZwUFdWTVo3YU5VQjlxVGJKdDJUUXE1VFUzNDFDcWhkWE9fM1lCb21XcTRzN3FKQ3hIYW9KSXByWGVUQnB4XzlQbHJtWFl2V2RkV1FOZjhVendlV2djM2ZBRnJoMGVHRS01cTZpR3lvUQ?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 21:39:45 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T22:55:22.633Z"
+      "updatedAt": "2026-08-19T23:28:07.094Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T22:55:22.988Z"
+      "updatedAt": "2026-08-19T23:28:07.427Z"
     }
   ]
 }
