@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-08-19T18:42:00.916Z",
+  "generatedAt": "2026-08-19T19:30:27.494Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Who is Natalie Harp, Trump's right-hand woman?",
+          "link": "https://www.bbc.co.uk/news/articles/c80nzdjgmk3o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 19 Aug 2026 19:02:41 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
+          "link": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 19 Aug 2026 18:43:11 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "81-year-old confesses to German cold case murder of US tourist in 1994",
           "link": "https://www.bbc.co.uk/news/articles/cq89n5j9npdo?at_medium=RSS&at_campaign=rss",
@@ -14,6 +26,12 @@
           "title": "Canada and US say they are finalising a trade deal, but details remain murky",
           "link": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 19 Aug 2026 17:47:52 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Multiple deadly Israeli strikes in Gaza in under 24 hours",
+          "link": "https://www.bbc.co.uk/news/videos/cp3rgxzk5x2o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 19 Aug 2026 17:46:01 GMT",
           "source": "BBC News"
         },
         {
@@ -33,28 +51,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 19 Aug 2026 17:16:28 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Retail giant Target receives $1bn boost from tariff refunds",
-          "link": "https://www.bbc.co.uk/news/articles/c78gp4y8d3eo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 19 Aug 2026 17:07:49 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Ukrainian man arrested in Croatia over Nord Stream pipeline blasts",
-          "link": "https://www.bbc.co.uk/news/articles/c78gp7l5348o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 19 Aug 2026 16:31:48 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Lindsay Clancy's trial puts postpartum psychosis on the map",
-          "link": "https://www.bbc.co.uk/news/articles/c5yedy98j7po?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 19 Aug 2026 16:30:55 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T18:41:59.348Z"
+      "updatedAt": "2026-08-19T19:30:26.340Z"
     },
     {
       "name": "NPR",
@@ -109,7 +109,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T18:41:59.571Z"
+      "updatedAt": "2026-08-19T19:30:26.433Z"
     },
     {
       "name": "AP News",
@@ -117,7 +117,19 @@
         {
           "title": "Israeli military launches criminal probes into killings of Hind Rajab and Palestinian paramedics - AP News",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdjh4SUp0a2ZhbFFhSGQzVERrREI3OFJQRXBVY3gyS2FQRkp4RTFyTUc4d3dJRDUzTzR5X1d1YkVCeU9nYTNyYnM5NmRjS25xXzVZWk03SksyVFlOWWdnM1dhQ0kyVFB3Vmt1RWZVeDlyNEZYMXpNbC1NdGNWbjZkSnBjM1ZqV1FrVjRpSmRNOThiT1d3OG5Ob3FQcHlTcnRNWWdqUktqa3FqLVRONmU1NmZWLURUV2lm?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 18:14:00 GMT",
+          "pubDate": "Wed, 19 Aug 2026 18:52:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Trump picks Dr. Heidi Overton, a top White House aide, to lead the Food and Drug Administration - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQc09saGRPVmlPY3RmSXdzbF9qSmNZbFRUSDhid3ZVeXMwRC1ndmU3WTBDSjh1TGdaMXlBWlFoQUZwYjkxeVhzV1Z2a0w1akVlLXhoQ2NIc1pKN3dQcE55WnpfbjFMT1c3WlpMTVhfQ0ljRE1iOW9fM0lyazFWMVMzUmZXRWVJRndJV0JEOXVRSEZiVF9HSUp4eVZULTVDSWkzRlhtZGVn?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 18:48:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Concerns about the New World screwworm have put Texas pet adoptions on hold - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUktTcHFPSUttMmdKODFMLTI2Q1FGWDF4UVBHZTFCX2xiWVNlNDc2TS1ETmh6djhLc01oSzdXcS05T1k2cmZ2MHZvai1MR2lFMWstSkhXUWVObEs3U21SS2ZPclBWVzdQOHpvWl9mMUMyWWpXYmY1MlFmb1dOYUlJNlJlX2VVWEZOSzlsWFhHb0F2Q2p6R3Y0WC02RTA0WWV5bXhJ?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 17:23:00 GMT",
           "source": "AP News"
         },
         {
@@ -133,15 +145,15 @@
           "source": "AP News"
         },
         {
-          "title": "Trump picks Dr. Heidi Overton, a top White House aide, to lead the Food and Drug Administration - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQc09saGRPVmlPY3RmSXdzbF9qSmNZbFRUSDhid3ZVeXMwRC1ndmU3WTBDSjh1TGdaMXlBWlFoQUZwYjkxeVhzV1Z2a0w1akVlLXhoQ2NIc1pKN3dQcE55WnpfbjFMT1c3WlpMTVhfQ0ljRE1iOW9fM0lyazFWMVMzUmZXRWVJRndJV0JEOXVRSEZiVF9HSUp4eVZULTVDSWkzRlhtZGVn?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 16:39:00 GMT",
+          "title": "Judge removed from Texas track meet stabbing case as defendant Karmelo Anthony seeks a new trial - AP News",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWW51RHZodHEtRGYwNE5IRmdoYndzektvVHZqVi1WeC1yakhlNVdEcFNsZ3ZzUTJGcU8wVWl1dWJ5NlF1RnNRNlhCRTJmMnczTWVUeUV1bWFXR2J4NGlCbEp1bzVIblpVSEhDNHZTWXhMcjJFbWxvb09Fd1EzWkhzVGI0Tmtqbk9POGsyaUhDR2Nva3FFTFJJdWpsRVRyZDRxRC0xQmJZYTYxVW5aRS1oYg?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 16:58:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Judge removed from Texas track meet stabbing case as defendant Karmelo Anthony seeks a new trial - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWW51RHZodHEtRGYwNE5IRmdoYndzektvVHZqVi1WeC1yakhlNVdEcFNsZ3ZzUTJGcU8wVWl1dWJ5NlF1RnNRNlhCRTJmMnczTWVUeUV1bWFXR2J4NGlCbEp1bzVIblpVSEhDNHZTWXhMcjJFbWxvb09Fd1EzWkhzVGI0Tmtqbk9POGsyaUhDR2Nva3FFTFJJdWpsRVRyZDRxRC0xQmJZYTYxVW5aRS1oYg?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 16:37:00 GMT",
+          "title": "North Korea shrugs off Trump's scaled-back drills with South Korea, saying it changes nothing - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaUx1WkNNOFA1UXFocXB1OXFnbFc4dFJNMXdjTkExUmt4MFEtb1dta003UmoyX3VtUExaVlZ5cWJmb0tDS0U0Ym9LNE5EQ1Z4Q2tKaGNJUEh2X2toZ0ZKbGNFc0ZEbnQ2SXo0eGVhRE9lZHJZWlI5cU5uQUFSbHdJOXVEZUh1QlRhWjBmZQ?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 16:55:00 GMT",
           "source": "AP News"
         },
         {
@@ -149,30 +161,54 @@
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTGNiQUx0ZWFmZVFMdktJQkpSUDQyZW9DM2tOWUxHYUVZNG1iN3dXNUt0SF9ZMkVNYlRGb2drVl9ESG9EN1VTSWw4Y3Q2TVprR2U4S05CaEE4bktTVWNVTkFBX1V5dVMzSTNGdTc4RmN5UE8yeGlkNTB6c0FCR0haQUtWWXBLOWVmZ2VKeHBvUkJ3ZVNiUVpmWDA4Z2UzXzdfaUFTTmx3?oc=5",
           "pubDate": "Wed, 19 Aug 2026 16:08:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Moderna shares surge after it says its experimental mRNA cancer treatment passed a key test - AP News",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWlFsYXNZV0ROTlQ3QlFuUWt0bFFXTVJCcDFGcGtqY3l4TmhSMmlOekVpaGFDOHlfWnJXbDNtbmlLX2xibVBZUmtPaFpacDN3ZVRCd2ZGcnNlYi14UHV0RFZFeGpmb2pJRnRCTGFJSVl5QmJvRDlJeGZaSVFxTVVBV01DS3NlclI2cGM5eVdTWjIzVExFTVpQMm05SWs5bkQ3VGpudnFpcWJLNElzRFNIR2ZRSWY?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 15:41:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "North Korea shrugs off Trump's scaled-back drills with South Korea, saying it changes nothing - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaUx1WkNNOFA1UXFocXB1OXFnbFc4dFJNMXdjTkExUmt4MFEtb1dta003UmoyX3VtUExaVlZ5cWJmb0tDS0U0Ym9LNE5EQ1Z4Q2tKaGNJUEh2X2toZ0ZKbGNFc0ZEbnQ2SXo0eGVhRE9lZHJZWlI5cU5uQUFSbHdJOXVEZUh1QlRhWjBmZQ?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 15:23:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T18:42:00.115Z"
+      "updatedAt": "2026-08-19T19:30:26.911Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "US, Canada trade negotiators meet after Trump sets new tariff deadline - Reuters",
+          "title": "Pakistani government files challenge against Imran Khan private hospital move - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbW40aTA3U1piZS03SW9vM3lNRlFUR01aVWdDR3pzS1ViZHA5czBFMVduOHZwclZMeTBNVU1LQVpTOEw5WXZmdTVZTVNOdTQwWGlFYWY4LW45QVFVUlcxYkNsbUd1UG5URmNJSElTZGNnVHVQdFNxNGJkQkFBMVIyR0tkbUZ6YU56MXktSUN1cGRaNVRMaHNOVWp0OEloQ2pRQWFvTURFRExQeFlXUXBzUkVTLWpvd3c0eWx5V0xrUzF3MDlCY0E?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 19:17:43 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Kenya tourist helicopter crash kills seven, including five Americans - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONW5LS2JKMjFfeFNRckE1RmNFNWdJU1RSVlIyQ2d5SC1zaHJOUUpuODVhU1g2M3h1NzA3NnB3ckxUYWhKNTB4M2ZUS1VpX1dUUURDcGZialRsZjk3UkZtZjVRcEJNZ3lHV3dOY1N2cFhIYWJ3cHpaRHlkNkRIM0ZjOXI5TTgzRlEwZ1pBYnVQczFOUjcxbmpxenAzLVl5d2JzU1B2YTh6b2JVUVdwZHFMUDliRXRwaFFJakpaT3hwdw?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 19:04:56 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Ex-Meta executive says Zuckerberg put growth before child safety - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWEF4WlNJc2c1RjE1QVBCMDVobUhWSXotRWswaWtpQnVTem02RUF4Ykw3QTJzWnI0NmlCQmVkY1NDNUxJdVhfcGEtbEpPd3VaSkZsQUdGTjh1RnNNaGFWNTZEdi1jdmsxRFR5cGp3WDdKT1lRbmgtOUZuMm9VcDRDcE1TS2VKLWxlRVFvM2J1c2hscnBsaXRNcmd6cHZlQmRoNnBCTV80WTZDYW1qZG8yVEVZUXhUUXI0T0NJaS1VQ1ZlSi1pSWRYQUp3?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 19:01:22 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Canadian negotiators head home to finalize trade deal with US, avert tariffs - Reuters",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQnRyZExVRkFxVGJqQkpSZk83d1pCbkQ1elJqVURZSjl6TTEyZUZtdURWYWhMRldiTWpiRUFXWW1nSExxeE10cXJWMndsbl9QLXJwVDZqVTllUTNUV2s2M3pJZ3U5WExpbHh4MHpYNGE5OXpMeGU0cFlUVEdwM3IwdmtNbHRYOE5hSFRzWDF6ODBLczdqbDllaTRlamRySDlLREFqNi1UTnJuTk9uZFFmUQ?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 17:49:43 GMT",
+          "pubDate": "Wed, 19 Aug 2026 18:42:10 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Trump taps White House adviser Overton to lead FDA - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOanVmYlVxbkJTQzEzaWkzczNmNHVEeVJGbzkyMnVBQk80UVF1M2JueFoyMUxiNzVub3dvVWdPZm02ekNOQmZVN1ZaMmxMZmk1WnRENlNmMXA4a2F5VHpCODVvZjIxOWp0ZHpVNUlpTFZ1VmxCU0dBc21ReUUwb0FmRG1rWS1ORjZsbEVxQVRoSGZDNUE?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 18:31:11 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Fed policymakers' inflation concerns increased at July meeting, minutes show - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZUU3QzJ6YTh1c3NuVDhBeE1lZzByYWtla200SkRNWnZEWW5wWmZWXzZvS3RqYU8yM2Y1VE91aHVWMng0MnczWVNjV3poa2t2TnFmYVhMZDVJSE1kdjFGcU9MaW5vS0o0MjEwalJmU0tZekFHclBKRi13SEhnYnQtMlF2TFVIT09HRkw2UThrb1F5eWVVNnNaYXQyTjhYbVhpenc5TjFGdW1yUG55ZWVXaEhSRHc3Wk0?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 18:09:35 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "DOJ argues Comey novel shows he knew ‘86 47’ post was a threat against Trump - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaWZTeUdMZERSdUtKTEFkZWhxMktJYUpqU19Td2hMRnczNkxBNG1YUmNSd1ZIR2NiT1F0cHpxeThQNHk0WkdPdDRYY0F5ejZCczZQRWU2cEJ2alM3U21KcEJlYlVaX0ZsOGlaaHMxTjZvbk1PUVV4aDlTM2VRMUVTQTB3SmlfNTNKc0xBVWtaY2M4bHRtVmJ5ZDBlTFE5UjdPR3U5ZWNoNTdreDVFcWlqUEpfLTBLbnV1emhKbXNpTU9OQ0E?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 18:06:05 GMT",
           "source": "Reuters"
         },
         {
@@ -180,46 +216,10 @@
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSHZsdEVCYk1ZeVc2SlBVRy1Qak55bGh3SW9teGRxY0RuSm15ZDQweUYwM0NQVlpHSmJDUnU5cTR1SE9mc1dTN1JwYjFyM1U1Y1ctUFRUNlI2SUIyc09sX0JDNW51Zy1oY1E3bU85TWFBUzgtbVllZ2ZlNnFlMnByZXJhTlN4Ry12S1Npb1NWTm1fZ003TWk3Q25MUWxGRC1zUm8tWGFSSG9xMzVQVEhFTS1PVC1JQnFtVDF4UG1ldG1LQlZZdzNB?oc=5",
           "pubDate": "Wed, 19 Aug 2026 17:48:05 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Moderna vaccine cuts recurrence and spread of high-risk melanoma, raising new treatment hope - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOV1VaQ05TQmRfMmJzTUkwU2puSHBUcE9FdzY2OW5SaXVFc2FpR25rclJEY1NHS1lrYWdaWE5OUVdhZ2VfTGVHak45akZnYm0wbEZVdXpOYjJEYkpVc3VXaDRrQnZBMDlJbWJLZUY2M2dFc0lycDc1LUtiSmxEWnlsVThSY1RRRG5WM050bEZLR1puWlhDMGlJczRZM0tXb2lHYzlSSmxTRFlQdm52THFDbG1zZlBWLUNUZG9qVjFoQlI?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 17:29:39 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Trump says he plans to meet with North Korea's Kim this year - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZjlyRG93Zk1yZ01NcGdqcVlhN2JDWDFfRndXM1VvSEF4UmExQ3NMVkJFcTRIYkdSSGNYR1UwRnU5cUUxa3QwMHl2MWFVQmswdVlqbUxvNU9GOXpiU3VJTktyLXktMk9BMVQwNGVTYW5VZUlQVEJYNlFtdHlUSE80aEtvRldkM2FHYVBaSXEyVHZVbzdNc1pWOHIyMDU5Z0tBMW90QQ?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 17:26:19 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US Treasury Secretary Bessent doubles US long-bond buybacks in the face of surging yields - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVG9LQ251bHQzZlRLUDhWa1JjNTNUUkh3TVN4YUZ3M09OU3d2MVYxUFdjTUdZYVBtQ1dsTEhQb0JpMXJxV1B2QjZwUFdWTVo3YU5VQjlxVGJKdDJUUXE1VFUzNDFDcWhkWE9fM1lCb21XcTRzN3FKQ3hIYW9KSXByWGVUQnB4XzlQbHJtWFl2V2RkV1FOZjhVendlV2djM2ZBRnJoMGVHRS01cTZpR3lvUQ?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 17:26:04 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "EXCLUSIVE: Mossad director, Syria foreign minister discussed Turkish military deployments before strikes, sources say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVkl0OHlnRWFEd2x4RkNFcloyYWw0UEhZTjU2VW9KUTlsUGlWN1JUelNlYmtmYkRyRFh6b0ttNTF0c3o3SEtLdFFpVGxhRV82VHlBR2F6ZUJtWGd3SWFjcTNySkt2cnNiMnRaRDd2Z3piUlVQa2pVQzVzbXRyREdDSUx2OGNPX25tSFBGcEpzbXJZQzFFWWRQaFhoQWQ0NWlOR1A5V3ExSkVKN0REV0wwMW0yNVRTYm96RzFZOVpVT0lEbkd6U3h3VHBlbw?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 17:24:46 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "German prosecutors say second Nord Stream suspect arrested in Croatia - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLWlWVTh4SHQtVndlUE9yV0hKLXVlUEZYeUVLN2gwcHY1dDlYTlRuWVRETFlSU1VWNEFKVFktT3BXWThnTDVVU2pIc0lEZkMwVmFyOHA2X25vczlySUpCZE1BNFlvZGJNaE5xSHlqcnpnOTAzempYVERnN3dUWUNfSC14eHRKWGVuaXFkaUh5SElINkE4VDhCQUI4Xzh1bDE3VzBIallsY25meG1SNDktYWl2WQ?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 17:18:24 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Zuckerberg did not make child safety a priority at Meta, former engineer testifies - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWEF4WlNJc2c1RjE1QVBCMDVobUhWSXotRWswaWtpQnVTem02RUF4Ykw3QTJzWnI0NmlCQmVkY1NDNUxJdVhfcGEtbEpPd3VaSkZsQUdGTjh1RnNNaGFWNTZEdi1jdmsxRFR5cGp3WDdKT1lRbmgtOUZuMm9VcDRDcE1TS2VKLWxlRVFvM2J1c2hscnBsaXRNcmd6cHZlQmRoNnBCTV80WTZDYW1qZG8yVEVZUXhUUXI0T0NJaS1VQ1ZlSi1pSWRYQUp3?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 17:16:32 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T18:42:00.627Z"
+      "updatedAt": "2026-08-19T19:30:27.291Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T18:42:00.916Z"
+      "updatedAt": "2026-08-19T19:30:27.494Z"
     }
   ]
 }
