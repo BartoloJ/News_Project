@@ -1,9 +1,15 @@
 {
-  "generatedAt": "2026-08-19T05:03:51.126Z",
+  "generatedAt": "2026-08-19T05:57:13.417Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "South Korea shortens war games with US, citing Washington request",
+          "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 19 Aug 2026 05:53:53 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Sacked Ukrainian defence minister calls for presidential election",
           "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
@@ -14,12 +20,6 @@
           "title": "Trump pauses new tariffs on Canada and says countries close to a deal",
           "link": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 19 Aug 2026 03:56:35 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "South Korea shortens war games with US, citing Washington request",
-          "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 19 Aug 2026 03:39:41 GMT",
           "source": "BBC News"
         },
         {
@@ -54,7 +54,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T05:03:49.826Z"
+      "updatedAt": "2026-08-19T05:57:12.260Z"
     },
     {
       "name": "NPR",
@@ -109,7 +109,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T05:03:50.045Z"
+      "updatedAt": "2026-08-19T05:57:12.347Z"
     },
     {
       "name": "AP News",
@@ -139,12 +139,6 @@
           "source": "AP News"
         },
         {
-          "title": "WNBA Scores & Daily News | WNBA Stats, Scores & News Today - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RellkeWJkeDFvWUtHTHRPOURyM29ReE54N3hpa3NCRUxRQ01yVy1FTjRUS0RaVzNxZzlVakgxUkhZYW1hX0pWemVtcnI5U2s?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 01:26:51 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Student kills schoolmate and himself in livestreamed Philippine school attack, official says - AP News",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOWJhMlJZekdIMG1VYmt2ZU5DZUR6N0RsR1BIekJsbXpJMzlSZDRBVmduRXd2RDVvY3MwbkljSVBzNTJLbGNuTnBiNGI1ZWw2Mm1EemJaRVEyTzF6ZHd6amplRG1mWGdUNnktMWRadkctM0gyajVVNk9oQVlmU3IxTmNESlNRRXBOV2JvMUxOOFc2ZmRDYld1OWxoSFF5QQ?oc=5",
           "pubDate": "Wed, 19 Aug 2026 01:15:00 GMT",
@@ -161,14 +155,32 @@
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWlNCVzQ4SmVTODRVX2kyMVU3SGFOXzUzQkJ2dG1LLVJmeTYwNExtYVUwWUc3WGpoS1hGa3UtN19aamZtQW5pa3JSdFltZjZJX2pzQUtNRm9ldmpqY1dOQ1RsMHBlZWp2enFIaGZFVUdSMDFfOXlvTzRsVk1WUlQ4YWNhSjM2eVFETlRPaTZlb0wzdw?oc=5",
           "pubDate": "Wed, 19 Aug 2026 00:15:00 GMT",
           "source": "AP News"
+        },
+        {
+          "title": "Trial for Meta begins with states arguing its platforms preyed on vulnerability of young brains - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNLWhfS2YxWEZCcDBpZ3EyYTc4YUt5alNaWmNZcWUxT2pZMlZUZ21rYmhZZU9vVHd6VkxfLTZCN0pSVWVwOHZCclc3TXJzUXRueDBVNmZfNzBnNV9UaTd1ZXJtZXYyTGpXa2Z3RXZFXzhqZFZlR2M4NUVGWDFDNjZZak5VZGpTVlZOWHRWaThTZkhXcWE3anZmcFdweFp1b0E5MG9PRQ?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 23:23:00 GMT",
+          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T05:03:50.566Z"
+      "updatedAt": "2026-08-19T05:57:12.803Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Morning Bid: Dancing robots, dumping bonds - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iczVnbnhYRXRGY0dyenZRek16T0lMMU9DazhIakljR1FnNUNwMEkxX0RhMUJzNGlETkVRdDlLWmZiUzZiS0tfVTRNcnlJdVd0MFVFNFFfd2x3anNEMEJhRm5JZWpmMU5qclZjcEQxYXlBWEtHcmZXTjJsNDBHVkk?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 04:33:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Hormuz traffic slows as uncertainty over waterway persists - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYldMdWw5dWFaM0VrQzE2U1ZvSTc2VHhrVmdJNmRDV3h6dUtUTGFmS01FRjdMeHJBaExMNEgzYWxGMlZEQlpQSEwycU5zMXZGckUtT3BHY1cwaTNiT0JhZVBIbnVZTFp5OTRwLUJmbFlpdWJMdlRiZjV5OWtYM3pBOUpXSFphWFlsRVF2YVhoWTBQcnQ0UFF2QXV2enNuRlZJa1ROMUtFaHhwN0M0ZVE?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 03:39:00 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Former Fauci adviser pleads guilty in US to conspiring to conceal COVID-19 records - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQV2F3Vm9HY2xUZjgwTjNwOWR6RlJZbUpTXzFjNGJlUEcwSEx5am1ERHI1eHhqSnNYTlQxTDR0T1pnS0Z4VzNaNTZoUWdkY1BhdGw0Y0VzaFpPS1RycHd5X2pVWG9BNXpCZU9QbkEzWVFhT2c3VVdHT21SSHNKYWVsRWIyY09fWWo4cVdWWnV1R2hxOHRnTzJJbk83MGlOLTllNVUyZlVpaTVzWDNYYjU0aXFpWnIyc0NicGtNZ3llZ1pIR1hu?oc=5",
@@ -204,22 +216,10 @@
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQN3ZBMTNRRjltbmJqanJVWEM4YVVRVFJvV0Znb3A3aVRyYUc2TWVUMnNpMFJ5RWlZUkd4U1NFOVBwZEVQR3dpTUU0ZUsyUFAxYUpSODZfLXVDeElyOEo1ZmN4aDlFamk4VDVOb2JLU1c5ZDJjT1JtTkxyMUFYSnR3SlpRVTJMWGVaVWRXSlVGVmpGV1hkQnk5clNyWFFUalQzcmdYOHlBU2ZTbTFSd3Bncw?oc=5",
           "pubDate": "Wed, 19 Aug 2026 02:07:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Dollar drifts near multi-month lows as Treasury yields ease; Fed minutes awaited - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYkQwN2c5MVlJbi1FREYxMXBtbGMtWWliU2tWZnF3ZjhvdmY3U0RUSG5Dbk5hX183aXBxelVUbWJKV2pXSzZDMF84Y3NLcmFsa3hDUkZ2NEg0RTZSdVdvR0UzMXpYbVlmY2duT2tuaUc5WTFLak15VkVMMDlCVTN2cDZkZGV5SG03VnhRRWVOVHZGWEpRckJveVpEa08xT1BvcEJtSEhubE9KVmJ4SUw4LVJiY0lhbHVzX1FKZ0lMZnRGcDA?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 01:31:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Unitree soars in Shanghai debut, a milestone for China's humanoid robotics sector - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQ0pzN014Mm10emZneHNXYjBENjZ0VXFKamZHVUNpQ3hkYjdmU05wRWR5VW96TFowS21LYU5hd3poMUJJWnR3VHJIYVJQM0U5QktkWS1hS19OWlNDbjdGcFhUbV93d2ZKa2ZzdzBWTmJJYV9yNk1VNGlqVERldF9zVWVQS2RrX3FxYTJ2QW9NZERpSXZycl91TGxFUG1ZZUw4bmJIS2YyWWhaTGlDY0h6TXh5WGVYb0VVV0V6TjJGTkd6UQ?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 01:27:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T05:03:50.979Z"
+      "updatedAt": "2026-08-19T05:57:13.249Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T05:03:51.125Z"
+      "updatedAt": "2026-08-19T05:57:13.417Z"
     }
   ]
 }
