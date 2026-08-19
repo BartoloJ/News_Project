@@ -1,13 +1,25 @@
 {
-  "generatedAt": "2026-08-19T06:58:11.981Z",
+  "generatedAt": "2026-08-19T07:47:48.933Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
+          "title": "Sacked Ukrainian defence minister calls for presidential election",
+          "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 19 Aug 2026 07:14:50 GMT",
+          "source": "BBC News"
+        },
+        {
           "title": "South Korea shortens war games with US, citing Washington request",
           "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 19 Aug 2026 05:53:53 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Thai teen found in suitcase died from suffocation, police reveal",
+          "link": "https://www.bbc.co.uk/news/articles/c141605846jo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 19 Aug 2026 05:04:27 GMT",
           "source": "BBC News"
         },
         {
@@ -23,13 +35,7 @@
           "source": "BBC News"
         },
         {
-          "title": "Sacked Ukrainian defence minister calls for presidential election",
-          "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 19 Aug 2026 04:44:41 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Trump pauses new tariffs on Canada and says countries close to a deal",
+          "title": "Trump pauses new tariffs on Canada for three days, saying deal close",
           "link": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 19 Aug 2026 03:56:35 GMT",
           "source": "BBC News"
@@ -45,20 +51,20 @@
           "link": "https://www.bbc.co.uk/news/articles/cgjeped6ewxo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 19 Aug 2026 03:12:06 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Husband and mother-in-law charged over Indian bride's death",
-          "link": "https://www.bbc.co.uk/news/articles/cjej8nze1wko?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 19 Aug 2026 03:04:07 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T06:58:10.630Z"
+      "updatedAt": "2026-08-19T07:47:47.887Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Liberia agrees to take 1,200 third-country deportees from the U.S.",
+          "link": "https://www.npr.org/2026/08/19/nx-s1-5937389/liberia-to-take-deportees-from-us",
+          "pubDate": "Wed, 19 Aug 2026 02:57:51 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Trump says U.S. and Canada reached deal to delay 50% U.S. tariffs on Canadian imports",
           "link": "https://www.npr.org/2026/08/19/g-s1-139156/trump-canada-tariffs",
@@ -100,16 +106,10 @@
           "link": "https://www.npr.org/2026/08/18/g-s1-139072/up-first-newsletter-iran-south-korea-jared-kushner-florida-wyoming-alaska-primaries-luigi-mangione",
           "pubDate": "Tue, 18 Aug 2026 07:40:35 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "The grueling fight over who profits from AI music",
-          "link": "https://www.npr.org/sections/planet-money/2026/08/18/g-s1-138852/grueling-fight-over-who-profits-from-ai-music",
-          "pubDate": "Tue, 18 Aug 2026 06:30:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T06:58:10.911Z"
+      "updatedAt": "2026-08-19T07:47:47.948Z"
     },
     {
       "name": "AP News",
@@ -121,9 +121,21 @@
           "source": "AP News"
         },
         {
+          "title": "Shares fall in Asia, with Kospi down 5.2%, while oil prices jump - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTGNiQUx0ZWFmZVFMdktJQkpSUDQyZW9DM2tOWUxHYUVZNG1iN3dXNUt0SF9ZMkVNYlRGb2drVl9ESG9EN1VTSWw4Y3Q2TVprR2U4S05CaEE4bktTVWNVTkFBX1V5dVMzSTNGdTc4RmN5UE8yeGlkNTB6c0FCR0haQUtWWXBLOWVmZ2VKeHBvUkJ3ZVNiUVpmWDA4Z2UzXzdfaUFTTmx3?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 03:45:20 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Trump says US and Canada have reached last-minute deal to delay 50% US tariffs on Canadian imports - AP News",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbl9JNGxCeEUzV3FveVI0dmM1TGczaVFzem1RbDg5TWx6ck5naGlpQ0FWcmUyN0NQV2tqV2hZejNKWVVRUTNFRU9xWWJYWWJ2bGtGR3pnOEY2Uk1fSkFpazU0VVJfRWFBb0VmY3FISTJoNDBVU2g4N3F6NXl2YzJxOU4xenVOQTd0ZzFLNEEtUW5CLWJlUWQw?oc=5",
           "pubDate": "Wed, 19 Aug 2026 03:25:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Brewers match baseball’s modern-era record for biggest shutout, beating Mariners 22-0 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOb09ZNllVbnFjaUZsSTJCdm1aOU1HRUF6YWJPVFdicHhrRWhDMmJyOTdxa09wTHdzd19PcFF1dzlFZGQtRU5SNk5KZW03TG51WUZSMUtNeTU1cVh6T2x4LVhITE91U2ViMkZ1aVdhWlJpUk5jMENjeXVONHd3ejlKSTc2ZTlwTXRHZkE?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 03:03:00 GMT",
           "source": "AP News"
         },
         {
@@ -149,30 +161,36 @@
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbjNWb04xVkIyOFFfWDJ5Q2ttMGpjbFJpb1ByRklwWTJoM3ByWmRaMm5EUFk2YVBnWnQwSmFfNXRsSWlzRUx1U2UxcEVDYWR6bTFLRmNnSDVYTUxsSmR3Q1NLZHVfc05JbGNvMHUzNzdUeUZ5NXVIRU9YYU9Wc0V0a09sa29ZbEw3clFhQUZPQUl4bWJIM0loSjV3ZEs?oc=5",
           "pubDate": "Wed, 19 Aug 2026 00:16:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Frank Beard, drummer of boogie-rock trio ZZ Top, dies at 77 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWlNCVzQ4SmVTODRVX2kyMVU3SGFOXzUzQkJ2dG1LLVJmeTYwNExtYVUwWUc3WGpoS1hGa3UtN19aamZtQW5pa3JSdFltZjZJX2pzQUtNRm9ldmpqY1dOQ1RsMHBlZWp2enFIaGZFVUdSMDFfOXlvTzRsVk1WUlQ4YWNhSjM2eVFETlRPaTZlb0wzdw?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 00:15:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Trial for Meta begins with states arguing its platforms preyed on vulnerability of young brains - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNLWhfS2YxWEZCcDBpZ3EyYTc4YUt5alNaWmNZcWUxT2pZMlZUZ21rYmhZZU9vVHd6VkxfLTZCN0pSVWVwOHZCclc3TXJzUXRueDBVNmZfNzBnNV9UaTd1ZXJtZXYyTGpXa2Z3RXZFXzhqZFZlR2M4NUVGWDFDNjZZak5VZGpTVlZOWHRWaThTZkhXcWE3anZmcFdweFp1b0E5MG9PRQ?oc=5",
-          "pubDate": "Tue, 18 Aug 2026 23:23:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T06:58:11.396Z"
+      "updatedAt": "2026-08-19T07:47:48.425Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "Japan says US sanctions on ICC, President Akane 'very unfortunate' - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYkg0bk1MOFBFZHhkbEZ2UDlybmkzck1hRF85bUtNRWI2V0ZDV1lUVEQ0NEwtUnhEZERBbGFHMEZ1X1ltamllMW5FMldvMHlQN0Z2V2dqSWVGN01yd01BM29pYnVBMS1VQVo5Zld4VU1IdzZmcjhsMHRNWTNFQTdUS1ZhMHVEYkxRc1pzdjA4R3U0RUZUWVdIZkFGYU55bTVVYjBEaUs2d203N2ZmeXFVdUVHWGxLdw?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 06:44:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Ukraine anti-graft agencies investigate group involving presidential officials - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZ1NQSTlGd29mNDhxaWozY05hSzhNbFlEcG93ODYzUFhiSkRjUHp5a0p3UnZUeWlFY2dHYTFtU3lGWFdsc3cwcFdlUFd0amhZU1FOS0FZTDQ1bDA2Q1JGUUlMLUNjd2hVajdHRXZ4R2huMVpWTk5LYk0yLTVIMzF4S1Vqb195eXlJS1dtbm54VGdNSzZkSlBSYXl3MjVFb05UVVdwQlZkZTJZQW1EdkxGY09Va1F5MzI2REVFQ0ZzalFnQ2JUR2c?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 06:17:00 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "South Korea minister says Trump appears to be pressuring Seoul over Iran, investment - Reuters",
           "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTVZrYXM5NGpibkZyR1hqU0JpVWV4S084VkR4UGhsUDItUlpodjhuSl90NkJXdXBSc3NEcFZ2QzVIZFpoLXpDNWliT014aW9IbnNOd2o4eWUyZ2gyOFU4bHhSam1uczNnMVRrdlhHcVBKZDNqdWk2eTBJUkdWcjdSZEJfZ0pwQ0YzVk9vbmU2RFdOOTdQVE53WDNyOFUzend2Z01CaHBGaVFWc2hrSWxPdXMzV3Zfa083S2poUTI4b3hhM3FtVURfWXRsTmp5cFNY?oc=5",
           "pubDate": "Wed, 19 Aug 2026 05:19:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Ebola cases in Congo exceed 5,000, government data shows - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPem5Hd3lmTGZubzE1STRETUxoYzdvaXo3NDRHRlhXOGFjckVnT1BwY1Q3NGRjZlQ5VVNRS2gtTnJfVmdyVUJNTnNBdmZDbUNQT0JsaTlaQjNUWkpUa1I2eElyNUNnNFVKMlVOOXhFdXhva0ljMlExeURaR2FFN0hpUDRDUEJBQ3lvWnNhenhEdDBUdjQ2V0NfWG9aRUs5REV5cWRzMVgxNUpGaUtkdzA4cHNaZFViT1RhbTNfSnBuQ3E?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 04:38:00 GMT",
           "source": "Reuters"
         },
         {
@@ -198,28 +216,10 @@
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYldMdWw5dWFaM0VrQzE2U1ZvSTc2VHhrVmdJNmRDV3h6dUtUTGFmS01FRjdMeHJBaExMNEgzYWxGMlZEQlpQSEwycU5zMXZGckUtT3BHY1cwaTNiT0JhZVBIbnVZTFp5OTRwLUJmbFlpdWJMdlRiZjV5OWtYM3pBOUpXSFphWFlsRVF2YVhoWTBQcnQ0UFF2QXV2enNuRlZJa1ROMUtFaHhwN0M0ZVE?oc=5",
           "pubDate": "Wed, 19 Aug 2026 03:39:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Former Fauci adviser pleads guilty in US to conspiring to conceal COVID-19 records - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQV2F3Vm9HY2xUZjgwTjNwOWR6RlJZbUpTXzFjNGJlUEcwSEx5am1ERHI1eHhqSnNYTlQxTDR0T1pnS0Z4VzNaNTZoUWdkY1BhdGw0Y0VzaFpPS1RycHd5X2pVWG9BNXpCZU9QbkEzWVFhT2c3VVdHT21SSHNKYWVsRWIyY09fWWo4cVdWWnV1R2hxOHRnTzJJbk83MGlOLTllNVUyZlVpaTVzWDNYYjU0aXFpWnIyc0NicGtNZ3llZ1pIR1hu?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 03:21:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Bond selloff slows but stocks sink - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPLUxPRTdYWG12TUVQNkRoeDUwU2hDUmJld2RxZUo5ckdlcHgwWFgwajJrdkYzcGlzV0ZWckNkT3RaOFU3VXprWWJIX01rOERxQTVhcExiWWEwSi1DTzN1dWZtdDgxOEcxQ3FyTTJORDNIc3M4VkdlTVdkSG1jd1NYbkdOSQ?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 02:51:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Vietnam police address ex-politician's car crash that killed a teenager - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQV3JTSUU5dl9JdWRBLUNrUmlYYnZnazVLeUQzNjRKaS1oS3lMWlQzN0NndkJmSEVkcTczTjJjQ0ZGRGZUWkprV3pLMGU0eFVVQnFlWWFCMUtQendmNUhzYy1qRldleVo1MHA5bE9CajJ5bTdwLTdfcDN0Qk4zVVZ5LW9sM0FYdFdDQzVBZGlBVGJQYzhpeFpjUTZtaFZfSnRESjFHeE43UDQ2OGRKOU1RWldURzF2NWVfOVhhSUpzbWY?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 02:40:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T06:58:11.779Z"
+      "updatedAt": "2026-08-19T07:47:48.821Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T06:58:11.981Z"
+      "updatedAt": "2026-08-19T07:47:48.933Z"
     }
   ]
 }
