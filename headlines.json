@@ -1,9 +1,15 @@
 {
-  "generatedAt": "2026-08-18T23:50:21.596Z",
+  "generatedAt": "2026-08-19T01:38:14.847Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Harvard agrees to pay millions after morgue manager sold body parts",
+          "link": "https://www.bbc.co.uk/news/articles/c5y0lyde9rvo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 19 Aug 2026 00:07:37 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "ZZ Top drummer Frank Beard dies aged 77",
           "link": "https://www.bbc.co.uk/news/articles/czdmzdnp3z0o?at_medium=RSS&at_campaign=rss",
@@ -45,22 +51,16 @@
           "link": "https://www.bbc.co.uk/news/articles/cnvnl0elz47o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 18 Aug 2026 20:21:49 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Judge swapped in Trump's defamation case against BBC",
-          "link": "https://www.bbc.co.uk/news/articles/cvgvyz8e27zo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 18 Aug 2026 19:52:32 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-18T23:50:20.631Z"
+      "updatedAt": "2026-08-19T01:38:13.567Z"
     },
     {
       "name": "NPR",
       "items": [
         {
-          "title": "Embattled Florida Republican Rep. Cory Mills fights to keep his House seat",
+          "title": "Embattled Florida Republican Rep. Cory Mills loses his fight to keep his House seat",
           "link": "https://www.npr.org/2026/08/18/nx-s1-5936435/mills-elijah-florida-republican-primary",
           "pubDate": "Tue, 18 Aug 2026 16:04:18 -0400",
           "source": "NPR"
@@ -102,14 +102,14 @@
           "source": "NPR"
         },
         {
-          "title": "This crowded Republican primary in Florida has drawn a unique cast of candidates",
-          "link": "https://www.npr.org/2026/08/18/nx-s1-5930699/florida-republican-19th-district-carpetbaggers",
+          "title": "She told no one about her agony except ChatGPT. What her death reveals about AI risks",
+          "link": "https://www.npr.org/2026/08/18/nx-s1-5929575/ai-suicide-risks-mental-health",
           "pubDate": "Tue, 18 Aug 2026 05:00:00 -0400",
           "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-18T23:50:20.706Z"
+      "updatedAt": "2026-08-19T01:38:13.772Z"
     },
     {
       "name": "AP News",
@@ -118,6 +118,12 @@
           "title": "Trial for Meta begins with states arguing its platforms preyed on vulnerability of young brains - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNLWhfS2YxWEZCcDBpZ3EyYTc4YUt5alNaWmNZcWUxT2pZMlZUZ21rYmhZZU9vVHd6VkxfLTZCN0pSVWVwOHZCclc3TXJzUXRueDBVNmZfNzBnNV9UaTd1ZXJtZXYyTGpXa2Z3RXZFXzhqZFZlR2M4NUVGWDFDNjZZak5VZGpTVlZOWHRWaThTZkhXcWE3anZmcFdweFp1b0E5MG9PRQ?oc=5",
           "pubDate": "Tue, 18 Aug 2026 23:23:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Before-and-after NASA images show crater carved by a SpaceX rocket that slammed into the moon - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbFpnLW5sbTdwSFlkeWJhYzFBNVFUbW9reGdMaXNac1I2YVhNMjlRMV9VdWJVSW15S3VMMzJfM2p2TFBoeEd3MzEzc1JDWVNpaE1ra3dhYzVpUDhzWGtsYmQ5Ym5ZbmVSSmQwR1Z1dWRRS0dQN1BYRVdPTDRHM1U5SUszd3AxLVo0QjM4MVhFSE1KTWYwVEE?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 22:50:00 GMT",
           "source": "AP News"
         },
         {
@@ -139,6 +145,12 @@
           "source": "AP News"
         },
         {
+          "title": "5 Buss siblings say they still intend to sell Lakers minority shares despite Jeanie's opposition - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOY0k1eHVvdHB1VFdtbGxuQXI0dGlHV2w4bkVoYTVTTVkzZ2V0UC10UXRTT29zOHZGN19BQWNOcF94OGNlQWJzTktWREw3X0tXVEVaRUFzd0xVamNLb3ZCZU5ScVdnU2JURVZwUUpGSWlUMTUtYVRQQXNmZHRxbEptb0lzZTgwSTM4ZmVzY25FeTA?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 22:22:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Whistleblower alleges political pressure, lack of evidence in antisemitism probes targeting schools - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZGg4SnptNWJkbWFjd1djMW1PRjdmaW53a1NkRlZrOTVtQkI0YjYtSi01WGtBaFJWTllTdHNCTmxPb3dIX0VPT0JBUUNlQVdRMkxhY2JjcDNvR3pxY1ZrOTBRSUJMNmR1VUJjelNKQjh6SDFMSTk0eWh0Y1o5d0o0YVBmUXlZeXEtclFuR1EwTkN4R3hYOXhnSVBHdEhFaHpyZktOVzlxZmQxYXM?oc=5",
           "pubDate": "Tue, 18 Aug 2026 22:08:00 GMT",
@@ -149,77 +161,65 @@
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbl9JNGxCeEUzV3FveVI0dmM1TGczaVFzem1RbDg5TWx6ck5naGlpQ0FWcmUyN0NQV2tqV2hZejNKWVVRUTNFRU9xWWJYWWJ2bGtGR3pnOEY2Uk1fSkFpazU0VVJfRWFBb0VmY3FISTJoNDBVU2g4N3F6NXl2YzJxOU4xenVOQTd0ZzFLNEEtUW5CLWJlUWQw?oc=5",
           "pubDate": "Tue, 18 Aug 2026 22:08:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Before-and-after NASA images show crater carved by a SpaceX rocket that slammed into the moon - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbFpnLW5sbTdwSFlkeWJhYzFBNVFUbW9reGdMaXNac1I2YVhNMjlRMV9VdWJVSW15S3VMMzJfM2p2TFBoeEd3MzEzc1JDWVNpaE1ra3dhYzVpUDhzWGtsYmQ5Ym5ZbmVSSmQwR1Z1dWRRS0dQN1BYRVdPTDRHM1U5SUszd3AxLVo0QjM4MVhFSE1KTWYwVEE?oc=5",
-          "pubDate": "Tue, 18 Aug 2026 22:07:26 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Israeli strikes an air base in northwest Syria to prevent Turkish troops from deploying - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbjNWb04xVkIyOFFfWDJ5Q2ttMGpjbFJpb1ByRklwWTJoM3ByWmRaMm5EUFk2YVBnWnQwSmFfNXRsSWlzRUx1U2UxcEVDYWR6bTFLRmNnSDVYTUxsSmR3Q1NLZHVfc05JbGNvMHUzNzdUeUZ5NXVIRU9YYU9Wc0V0a09sa29ZbEw3clFhQUZPQUl4bWJIM0loSjV3ZEs?oc=5",
-          "pubDate": "Tue, 18 Aug 2026 21:55:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-18T23:50:21.129Z"
+      "updatedAt": "2026-08-19T01:38:14.282Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Beyond marathons and backflips, China's robots face a commercial test - Reuters",
+          "title": "Chip designer Velaura AI valued at more than $1 billion in funding round - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNX28yMGo4RXFXbUVkRHBvQnpCNVlQX3JEOC1TRlFsR3hJMVFPM3JrNENOM3ZRalJiVU55SlFVM19sR25XWFhnZzFlRWNlR1AtWUc1QTViVmItdEZpWXpVVGFfOXFuc0xfc0dlUnBQalAxR1Jfam12VlVqV3VGS0VBdjlvcGV6RmFPMjJVbFB4MUU0UkhqdDFEamJkaEFITEhYSERldEpUZVg4ZmtUNC1UcURfRmc3QUxSUEViMGdwVThKWTdGVXc?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 23:16:57 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Beyond marathons and backflips, China's robots face a commercial test - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdHAyQ2ZVdVl6c0hsZDNmd2hCREZLMmZXekw5Vy1hLUFSRGluV1ZsR3h4MG5ueDZBZkdnMm5hT2F1RmhuaDgzNENLQVBoME5SX1FmMzdyUW1FRHdBWWttWnZ4R0dIejJkblhjZFFmWld5UTFYZkNTcjU4T3k0ZFR4clFWTzZ0OUI0NGVpbU00TW9nTlAxcm1CSlI2UEoydnlvNHZRU0tlZk91bFg1c2FnbURVV2RiVm8?oc=5",
           "pubDate": "Tue, 18 Aug 2026 23:00:22 GMT",
           "source": "Reuters"
         },
         {
-          "title": "US sanctions ICC president, senior trial lawyer in latest attack on court - Reuters",
+          "title": "Tech selloff weighs down Wall Street as bond yields climb - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUzFvaDFSek1CYmFoSHEzTG9feVA2blNkZE9LMy00ZnpQbnFmVXYwSDJkeDR5OEFNSExNcGdrWWNjdTNLQzlia0V4b0hvV2VaTTcyaXRFdldtaDJUcm9KcDAxQ3NNWV9MaDd2Q2NaVWtHVUEwS0YyU21ia3lJQVpMTjNBMGtlaXp0M0JWaTIxeExpYlpHOEN0b05NN00xRmhHSHc0bERMOG1COGVNYTEzSw?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 22:58:54 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US sanctions ICC president, senior trial lawyer in latest attack on court - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNa216Q2JDZGZ2enFuVmRjLXkzbFU5RmdyZkszQnJnVHFkZExkRmI4ZWpOV2FGMVpZV29qNzhtaFhyZmZKYUxMRDRyTlduM3J4ZHF1N0czVlo1dGs2amxDektLMFR5a0VjQ2I3MGNQTHRSWE5Mck9lMnUxNWZiVTJQX2ZPdlJlQmFKYUktOUdHeXRSYlFYSG8xbk80bUxJNVVhS1h5dDNhNm9RV2UyYWJ4QTFXY090SzFOV2VEYmpwRnp0RXZFQ21xTW9sWTJnNmM?oc=5",
           "pubDate": "Tue, 18 Aug 2026 22:42:56 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Disney, ABC sue FCC over threats to broadcast licenses - Reuters",
+          "title": "Disney, ABC sue FCC over threats to broadcast licenses - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbWFmU3N3RHJWbjB4WTNlbTZ5SlRXYmZhWlUwR1lLRF9PUmFSOGNIM1Ezc20yallrbjI5ejdISlRhWENfV3ZmbUwwYnY3ZVBhVjhFYjhmT1lGUWxTRGJUd1ZMc05YaTE0UjlTU2h3Z1RDeC13T1A1Sl92TDJ3bjM0Yy12YlZqMkQ2T0loNnRjY3RqN0RxWXJPdUZkcURSN29RcDZj?oc=5",
           "pubDate": "Tue, 18 Aug 2026 22:04:14 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Meta rejects claims it sought to hook children to Facebook, Instagram as landmark trial begins - Reuters",
+          "title": "Meta rejects claims it sought to hook children to Facebook, Instagram as landmark trial begins - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeHlhZEh6b2pmUkJKaXNMYUpEMEZsQ3BDLVlxcWZ6VU02ZjlsUVRLZ2EtRlBFYnFSOUJXaURCRmNjYkllYVRCZjUzdDhNNmtzZzNfSGg2RDhJUFY3cWRJbFpxQnhSQllwQ1RuUG83WTQ0TWozc1dMeGJUVlF6QmRZQy1vVmlLeElDNHBZOGFYUkR1VXMwYktFQ0hGWFZ6MDBXQXVOTFVpalp2cFFX?oc=5",
           "pubDate": "Tue, 18 Aug 2026 22:03:42 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Carney and Trump speak again as tariff deadline looms - Reuters",
+          "title": "Carney and Trump speak again as tariff deadline looms - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQa1BlNEtwMVJSSkVvQjRBMWRlanN4VUs0aEFKUjIyWU93N090cHl5MjN6Q0VCMWdvUVhseXI4N3Y2aUdXTy1oeHpQVE5TYjdiLVlOcFdaMWswRGVsZzZ0dG5HamdSeFdMSFc5bTZZVHNwaWp3SXRWT3IydFZnR3NSVm13bnEzbTdxajVkbFpzUUhwc01zQzFwWG8yT3RHZw?oc=5",
           "pubDate": "Tue, 18 Aug 2026 22:00:57 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Florida, Alaska primaries offer early clues to battle for control of Congress - Reuters",
+          "title": "Florida, Alaska primaries offer early clues to battle for control of Congress - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdWVBUFRFWGdnWHZXV1BfRHhOQzZEMlpEUVJ4Q2lXOVlPQTdKeGZBZWlteGxkQnMyaUZGcEVXZjhqb3FtVF9zMXVIRFVMbzBNUXVMYm1raVhWd3QxNnFVWUZuSUw5S0ZESkFfZnhyR1lYeW1pc1doS3psa29qaWVjRzhaeEVsS1BXMFIwc1pkM3VfcWRDbG90cnFvYmt2cmNlbEgwWUJXVS1WcHdtbXVmNQ?oc=5",
           "pubDate": "Tue, 18 Aug 2026 21:56:27 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Trump says no talks planned with Iran, Tehran says Strait of Hormuz still shut - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUFBFaGFVcWFQMUh6YjRZVVpwX2piQ093ZzVJVjJtRmgtaE9RVFhJNG40STQxbDlhSG00cHBNVWNlRnZ5TE9MSmVVQTdJRk5hTDhIVEVCeXRtbmsyQkNCR1FSQm5GVGRNYmcybHN6RFNzbGJGN3hsdUUzWFh1c0NEdXd0X0h4SHdRXzlsRjd4NDZvR1VBc0M3ZDJxdG1TcTBISHBWSHRjcHBRSG90SU44cE5WM011U2g0V1dObWZXaEJSX2tONDQ0?oc=5",
-          "pubDate": "Tue, 18 Aug 2026 21:47:57 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Tech selloff weighs down Wall Street as bond yields climb - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUzFvaDFSek1CYmFoSHEzTG9feVA2blNkZE9LMy00ZnpQbnFmVXYwSDJkeDR5OEFNSExNcGdrWWNjdTNLQzlia0V4b0hvV2VaTTcyaXRFdldtaDJUcm9KcDAxQ3NNWV9MaDd2Q2NaVWtHVUEwS0YyU21ia3lJQVpMTjNBMGtlaXp0M0JWaTIxeExpYlpHOEN0b05NN00xRmhHSHc0bERMOG1COGVNYTEzSw?oc=5",
-          "pubDate": "Tue, 18 Aug 2026 21:44:24 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-18T23:50:21.537Z"
+      "updatedAt": "2026-08-19T01:38:14.746Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-18T23:50:21.596Z"
+      "updatedAt": "2026-08-19T01:38:14.847Z"
     }
   ]
 }
