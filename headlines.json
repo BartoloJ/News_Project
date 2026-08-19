@@ -1,19 +1,25 @@
 {
-  "generatedAt": "2026-08-19T20:34:43.238Z",
+  "generatedAt": "2026-08-19T21:30:25.892Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "Canada and US say they are finalising a trade deal, but details remain murky",
-          "link": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 19 Aug 2026 19:59:14 GMT",
+          "title": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
+          "link": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 19 Aug 2026 20:34:41 GMT",
           "source": "BBC News"
         },
         {
-          "title": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
-          "link": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 19 Aug 2026 19:53:05 GMT",
+          "title": "Sacked Ukrainian defence minister calls for presidential election",
+          "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 19 Aug 2026 20:34:39 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Canada and US say they are finalising a trade deal, but details remain murky",
+          "link": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 19 Aug 2026 19:59:14 GMT",
           "source": "BBC News"
         },
         {
@@ -41,12 +47,6 @@
           "source": "BBC News"
         },
         {
-          "title": "Sacked Ukrainian defence minister calls for presidential election",
-          "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 19 Aug 2026 17:23:42 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "Israel opens up bids for highly-sensitive West Bank settlement project",
           "link": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 19 Aug 2026 17:16:28 GMT",
@@ -54,11 +54,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T20:34:41.918Z"
+      "updatedAt": "2026-08-19T21:30:24.590Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Whistleblower Arturo Béjar leads testimony in landmark trial against Meta",
+          "link": "https://www.npr.org/2026/08/19/nx-s1-5936648/meta-trial-arturo-bejar-whistleblower-testimony",
+          "pubDate": "Wed, 19 Aug 2026 17:20:15 -0400",
+          "source": "NPR"
+        },
         {
           "title": "The U.S. debt tops a record-shattering $40 trillion. Yes, with a T.",
           "link": "https://www.npr.org/2026/08/19/nx-s1-5937552/the-u-s-debt-tops-a-record-shattering-40-trillion-yes-with-a-t",
@@ -100,20 +106,20 @@
           "link": "https://www.npr.org/2026/08/19/nx-s1-5936443/oregon-psilocybin-ptsd-depression-anxiety",
           "pubDate": "Wed, 19 Aug 2026 11:22:35 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Greetings from Trouville-sur-Mer, a beach town little changed since Monet painted it",
-          "link": "https://www.npr.org/2026/08/19/g-s1-139174/trouville-sur-mer-france-normandy-monet-beach",
-          "pubDate": "Wed, 19 Aug 2026 10:19:20 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T20:34:42.171Z"
+      "updatedAt": "2026-08-19T21:30:24.715Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Israeli military launches criminal probes into killings of Hind Rajab and Palestinian paramedics - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdjh4SUp0a2ZhbFFhSGQzVERrREI3OFJQRXBVY3gyS2FQRkp4RTFyTUc4d3dJRDUzTzR5X1d1YkVCeU9nYTNyYnM5NmRjS25xXzVZWk03SksyVFlOWWdnM1dhQ0kyVFB3Vmt1RWZVeDlyNEZYMXpNbC1NdGNWbjZkSnBjM1ZqV1FrVjRpSmRNOThiT1d3OG5Ob3FQcHlTcnRNWWdqUktqa3FqLVRONmU1NmZWLURUV2lm?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 21:18:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "A new look and fresh merch are winning customers back at Target as sales rebound - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTk5WVG5iNmZVOFY4RHZhWGcwaVNJdkM5elI3LVBYZEo5eUZ1WVBQRW1ZWlE2Z0tTMGloUUMzV2RSUm96YWZ1dnRFSjFoZlpSajZ5eFZYSTJSeXhaLXUzenZCM2RUVGxGVkozV2VZVFpsU3RZXzlzWTBCUWw1akN1M2Z1QVpWa2g1VTVhMFdvMGVuTzVLbnhFYkxVQjBJLXB4?oc=5",
@@ -121,21 +127,9 @@
           "source": "AP News"
         },
         {
-          "title": "Amazon set to expand drone delivery of lightweight packages to 500 US cities - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUkF6aWlCbW55blVKQW1vVHlGU0tJNTRBdUoyNjh3S2gxcWxCVGdKSGhQMlU2ZlFremRCbDFzZXNWbHZYZ1lIZHhVSERVNG5lZ3pFREd4a2JGWk5UYWJYRlVGZ3ZhdjQyMnduREVvVi1lSk5vNVRfNXNldzJCUEJHajdwZmF1V2tZWXV0X1NiMHJiNzhZM1JwaHpBVTE4LXRV?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 19:29:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Los Angeles DA reduces charges against LAPD officer who taped colleagues making racist remarks - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTFM5WTFLYVplYWFrMGVQY1lOSWpvMEF2VFFlRzdaVE9TNk5tb01oaGt2aV9kdlFId2JYZElaQmhRdUN4S2dvWERiTzE0ZzZzZUhrLUQ5MWtZeDMyS1RwWS1HNzV5OUptZmZndmo5NXIxR2lLVmp4UmpCYWFRUVNBc3dFU3h1cmtYSkVHNENINEpRRmJCSENYYktkdTB0TFJlMkpCWUx2dWZaT1JDaXIzSGl2MHZnUGlv?oc=5",
           "pubDate": "Wed, 19 Aug 2026 19:21:03 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Israeli military launches criminal probes into killings of Hind Rajab and Palestinian paramedics - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdjh4SUp0a2ZhbFFhSGQzVERrREI3OFJQRXBVY3gyS2FQRkp4RTFyTUc4d3dJRDUzTzR5X1d1YkVCeU9nYTNyYnM5NmRjS25xXzVZWk03SksyVFlOWWdnM1dhQ0kyVFB3Vmt1RWZVeDlyNEZYMXpNbC1NdGNWbjZkSnBjM1ZqV1FrVjRpSmRNOThiT1d3OG5Ob3FQcHlTcnRNWWdqUktqa3FqLVRONmU1NmZWLURUV2lm?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 18:52:00 GMT",
           "source": "AP News"
         },
         {
@@ -151,75 +145,81 @@
           "source": "AP News"
         },
         {
+          "title": "WNBA Scores & Daily News | WNBA Stats, Scores & News Today - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RellkeWJkeDFvWUtHTHRPOURyM29ReE54N3hpa3NCRUxRQ01yVy1FTjRUS0RaVzNxZzlVakgxUkhZYW1hX0pWemVtcnI5U2s?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 18:24:19 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Concerns about the New World screwworm have put Texas pet adoptions on hold - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUktTcHFPSUttMmdKODFMLTI2Q1FGWDF4UVBHZTFCX2xiWVNlNDc2TS1ETmh6djhLc01oSzdXcS05T1k2cmZ2MHZvai1MR2lFMWstSkhXUWVObEs3U21SS2ZPclBWVzdQOHpvWl9mMUMyWWpXYmY1MlFmb1dOYUlJNlJlX2VVWEZOSzlsWFhHb0F2Q2p6R3Y0WC02RTA0WWV5bXhJ?oc=5",
           "pubDate": "Wed, 19 Aug 2026 17:23:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "WNBA Scores & Daily News | WNBA Stats, Scores & News Today - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RellkeWJkeDFvWUtHTHRPOURyM29ReE54N3hpa3NCRUxRQ01yVy1FTjRUS0RaVzNxZzlVakgxUkhZYW1hX0pWemVtcnI5U2s?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 17:12:59 GMT",
+          "title": "National security question trips up Sen. Darline Graham in South Carolina debate - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZVFLTG9abjhDOTUtZlhjVEdRSHp5b1g5Z0twZXVjZ2VSeV9ZYXdRTVVHZUxTUXdKS3lnSUZ0ZTdNMDRBTXVYdkNXSUpRcE9LYjZvSzdHX0w2R3ZFcnNsbTNBcGxJRFJRal9IMkpoSm1WME9GSmp0ZV9feXZHNUlTdzlrUmRoMFNYUjl3ZHpxS29DTWEtVlIwUEJPN0NldmRCQWpJRTB2TWt3Zw?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 17:06:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T20:34:42.616Z"
+      "updatedAt": "2026-08-19T21:30:25.231Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "EXCLUSIVE: Mossad chief, Syrian foreign minister discussed Turkish military deployments before strikes, sources say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVkl0OHlnRWFEd2x4RkNFcloyYWw0UEhZTjU2VW9KUTlsUGlWN1JUelNlYmtmYkRyRFh6b0ttNTF0c3o3SEtLdFFpVGxhRV82VHlBR2F6ZUJtWGd3SWFjcTNySkt2cnNiMnRaRDd2Z3piUlVQa2pVQzVzbXRyREdDSUx2OGNPX25tSFBGcEpzbXJZQzFFWWRQaFhoQWQ0NWlOR1A5V3ExSkVKN0REV0wwMW0yNVRTYm96RzFZOVpVT0lEbkd6U3h3VHBlbw?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 20:03:35 GMT",
+          "title": "Treasury Secretary Bessent doubles US long-bond buybacks in the face of surging yields - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVG9LQ251bHQzZlRLUDhWa1JjNTNUUkh3TVN4YUZ3M09OU3d2MVYxUFdjTUdZYVBtQ1dsTEhQb0JpMXJxV1B2QjZwUFdWTVo3YU5VQjlxVGJKdDJUUXE1VFUzNDFDcWhkWE9fM1lCb21XcTRzN3FKQ3hIYW9KSXByWGVUQnB4XzlQbHJtWFl2V2RkV1FOZjhVendlV2djM2ZBRnJoMGVHRS01cTZpR3lvUQ?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 21:15:10 GMT",
           "source": "Reuters"
         },
         {
           "title": "Wall St rises as yields ease, Moderna lifts healthcare stocks - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNnFzX1pZYUZsd0lHWkM3SGVWNE9NRkFvRVdmQ1JIcVJMeXBKenVjQnJLVlFOTnpSVTU2VW95Y2ZUNUdaTnNqd0ItNGpUVktVMkFjR29JTExtc1NUV3lKYkw3MGRDWFozRmlJM0lIdW0xd3daMHZPTVVwZzV3d1ZZTGkybTBPYlZ6czhMVDNtY29pRE5SM2hvejNyZFFLUnRRSXMzTmhYTjBjTTBCejc5N1dxakdsSXBVSzZNRFV6cw?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 20:01:14 GMT",
+          "pubDate": "Wed, 19 Aug 2026 20:47:59 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Trump to host crypto executives as SEC considers regulations - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeXlaZ0VhOGd4LUliRjFMSVhSaWxjVE5rTGp5ZjFxaHJKLVFGRGhPYjV2VXJiaXVnQXJCRi1GMmJ3bUlFM0FETnlmaC1hM2s3UzhvNk5HRUVGREV4UjdrejZPaFBxUTFyT0JXY2lMdEM3bkZnaVo1UWtzbkc1VFpuT2tteEFPVmJ0YXRuN295RXpENE9zVWp5UXhBY1VzUGZmXzh0N3p5VQ?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 19:42:18 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "EXCLUSIVE: Chery's robot unit eyes IPO, targets overseas market for police robots - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYWR2cnpULThpZHY0Um43bzk3ZWcxVVNhVTltMVJhbkFhUWpvS3lUb1ROVWd3RmszSzhKMlpGOHUtZ1ZuZmsyemxDbDh4c2lBWG9HNVloSEhTOFFzcVhWTmRob1lmenhCUzBUb1B2SENQckhUemdMWTkxY2Y0eW1UQmVCeDBHMnUzY2R2emJfc3JKbFZDek1BeWtDdGtTZEJpRHZhd3BNN3MzVkF0cDRJVS15X3RYcmlSc1hRY2NGTHJ5YXNhRE5saXF3?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 19:37:14 GMT",
+          "title": "Netflix sued by band Demon Hunter over 'KPop Demon Hunters' - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSjk4U3h5RDFrZGVjUDJuWHE0dkdDVGhrdXJJOGR2R3BOYUlMbVZmUkFkcXRYREJkTDk3dzRES19QZFo5aHdGX0ZncFNoWE9sSVctUHdiVUtsa2ZrUkR0WlVQM2ZDRkJGUW5GRzVTUnhmTlc3UmEtNTZGdW5MdXVMMlgzZ0tvUm4tUW5DazdReEROQXlZSkU5VzFiVVRRMGtyUzV5QjJhZ2tTWDJfQzRsRXd5UQ?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 20:39:43 GMT",
           "source": "Reuters"
         },
         {
           "title": "Ex-Meta executive says Zuckerberg put growth before child safety - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWEF4WlNJc2c1RjE1QVBCMDVobUhWSXotRWswaWtpQnVTem02RUF4Ykw3QTJzWnI0NmlCQmVkY1NDNUxJdVhfcGEtbEpPd3VaSkZsQUdGTjh1RnNNaGFWNTZEdi1jdmsxRFR5cGp3WDdKT1lRbmgtOUZuMm9VcDRDcE1TS2VKLWxlRVFvM2J1c2hscnBsaXRNcmd6cHZlQmRoNnBCTV80WTZDYW1qZG8yVEVZUXhUUXI0T0NJaS1VQ1ZlSi1pSWRYQUp3?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 19:35:14 GMT",
+          "pubDate": "Wed, 19 Aug 2026 20:36:33 GMT",
           "source": "Reuters"
         },
         {
-          "title": "US yields drop after Treasury offers liquidity support - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcm4wdklMVHZSRzVCMUJvUjlDOGRUU2I1eFBlblk0RndVUF92QllzLVNqZGdZZ3BsS054cnlOY3lXTnZ0VjRoblVzdXJZN3VXeXBtV1hJaUl4OHN1NjJFYnUwUHk2VVhQTjFURXQ0ckVhRWFKNkdXRHFYVUQ2Y0dBaXZDTGFPSVJNdE96UjdFbUJROXNrMlhWMHVLOWNTazVELXRpZmZ1N3U?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 19:22:52 GMT",
+          "title": "US debt crosses $40 trillion threshold after doubling under Trump and Biden - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPY3NKYnBaTEJPd09VZndtN19jYWFXX3FIZE1KZV9VSlp0NWxMNmZNbFZYemVWR0RWYnpUOWpQM2w4eWQ1aVQ3UEtCTVc5Y2Ric2lteHdZSmZSdkRKVXRDaTdoVDZNd3I4YUsxMnZLN0tuSkpSd1VmbnNEUEhSOEJKdi1Hd05iMU9MQmQzSVl3YmFCYklzRVFrbVlpcDZEbk54VS1GT3NJZllDeWRSZTl3dEp3?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 20:34:49 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Pakistani government files challenge against Imran Khan private hospital move - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbW40aTA3U1piZS03SW9vM3lNRlFUR01aVWdDR3pzS1ViZHA5czBFMVduOHZwclZMeTBNVU1LQVpTOEw5WXZmdTVZTVNOdTQwWGlFYWY4LW45QVFVUlcxYkNsbUd1UG5URmNJSElTZGNnVHVQdFNxNGJkQkFBMVIyR0tkbUZ6YU56MXktSUN1cGRaNVRMaHNOVWp0OEloQ2pRQWFvTURFRExQeFlXUXBzUkVTLWpvd3c0eWx5V0xrUzF3MDlCY0E?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 19:17:43 GMT",
+          "title": "Israel admits its troops killed 5-year-old Hind Rajab in Gaza, opens criminal probe - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQ1Zxdm1rckV4MGpjNEsycF9zT0lrcDR1OUtSMmttLUJ0WHNwaTFsMVQyRkVaaDRHMnZjNkhvVEY5RVE0XzhZTmhjRXBGd256UVZ5TTR3S2ZNaS1nWDVwVnFsUTc4eFVYTVdIUS1jZXVMckpnQXV6QXNPVTRGYmNsbXpPbTl3b0Jhc1ZtT1pkVXpac19TUWpXR1dXeVR6SGhoa2xkMkFpa0hLV2RBSmZZeFFxYnB1cTJI?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 20:31:04 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Kenya tourist helicopter crash kills seven, including five Americans - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONW5LS2JKMjFfeFNRckE1RmNFNWdJU1RSVlIyQ2d5SC1zaHJOUUpuODVhU1g2M3h1NzA3NnB3ckxUYWhKNTB4M2ZUS1VpX1dUUURDcGZialRsZjk3UkZtZjVRcEJNZ3lHV3dOY1N2cFhIYWJ3cHpaRHlkNkRIM0ZjOXI5TTgzRlEwZ1pBYnVQczFOUjcxbmpxenAzLVl5d2JzU1B2YTh6b2JVUVdwZHFMUDliRXRwaFFJakpaT3hwdw?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 19:11:14 GMT",
+          "title": "Alphabet raises $3.9 billion in inaugural Australian dollar bond - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSWowTDhsUGNUOXVDQ1Q0STlaemFrQ2tRQUFsUVo0Z3VaYURVQnV3U1VhUV9oTmthdm9PM2xFaUhzRlhGQ2JyNGJYMjVIX1FrT0Z5R0RjXzhsWUVSMXRGWGg4eHd5VlhRQjUtTS1id0YzTXhpdE9GN2hCVHFVQi0wNkFsd3NBUFEyc0pyRVBZcnB1OTZBQ0RDdlpQSzk3NHVTdHRRVjB4T1FpeVJ0ODBQbjZn?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 20:25:43 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Europe AI data centres seek cheaper, quicker energy and land - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbDdLQ0hZWDRyZ0xhVnVYZ3EyanNtODlsUERkaGxtc21CaUtYa3Zwd0xqbDY1RnVma3YyVkQwSDRzaHRVaGotRGNsRUN0XzR0WU9aZmFXeHdrSzVOMlVoZVZzZ2hYdk9SWjJCZTUtWmZBblNCTjlKSGtIMzdmTUd3VEIzQ2ZWQWVfZlpaei12S1lMNlFpUzJxc2tjNjB6TV9xT3c?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 20:20:19 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T20:34:43.040Z"
+      "updatedAt": "2026-08-19T21:30:25.688Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T20:34:43.237Z"
+      "updatedAt": "2026-08-19T21:30:25.892Z"
     }
   ]
 }
