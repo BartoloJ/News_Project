@@ -1,9 +1,15 @@
 {
-  "generatedAt": "2026-08-19T07:47:48.933Z",
+  "generatedAt": "2026-08-19T08:44:02.452Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Mushroom murderer trial undermined by 'catastrophic' hotel mix-up, court told",
+          "link": "https://www.bbc.co.uk/news/articles/czjlxenlgkko?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 19 Aug 2026 08:25:03 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Sacked Ukrainian defence minister calls for presidential election",
           "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
@@ -45,20 +51,20 @@
           "link": "https://www.bbc.co.uk/news/articles/cg4d7q2ne7go?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 19 Aug 2026 03:36:59 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Iranian academic writes of US detention 'hell' over link to 1979 hostage crisis",
-          "link": "https://www.bbc.co.uk/news/articles/cgjeped6ewxo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 19 Aug 2026 03:12:06 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T07:47:47.887Z"
+      "updatedAt": "2026-08-19T08:44:01.204Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Israel strikes an air base in Syria to prevent Turkish troops from deploying",
+          "link": "https://www.npr.org/2026/08/19/nx-s1-5937400/israel-strikes-syria",
+          "pubDate": "Wed, 19 Aug 2026 03:51:59 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Liberia agrees to take 1,200 third-country deportees from the U.S.",
           "link": "https://www.npr.org/2026/08/19/nx-s1-5937389/liberia-to-take-deportees-from-us",
@@ -100,24 +106,24 @@
           "link": "https://www.npr.org/2026/08/18/g-s1-139096/s-korea-stresses-us-alliance-amid-confusion-over-trump-drill-cut",
           "pubDate": "Tue, 18 Aug 2026 11:19:40 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "U.S. and Iran miss peace talks deadline. And, Alaska, Florida and Wyoming primaries",
-          "link": "https://www.npr.org/2026/08/18/g-s1-139072/up-first-newsletter-iran-south-korea-jared-kushner-florida-wyoming-alaska-primaries-luigi-mangione",
-          "pubDate": "Tue, 18 Aug 2026 07:40:35 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T07:47:47.948Z"
+      "updatedAt": "2026-08-19T08:44:01.426Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "Bayern midfielder Musiala reveals 'neurological' issue after collapse during game for 2nd time - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUEhHcVlsS1lXVzlZRHdqcnNiU1JTTndxWk9MeTFHQlY0U0FjdTE5Nm9jNkJQZFdxRVBBa18tN3F0ZjNUejk2S3RrckFWYjMza2xiamVIWnJDMG05czRwU0tIME56ZWNJMzBadGFVN2UtZkxWS1JPTndCd0JFdFYwX3h0a0VsZms1amdGaV85SGM?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 07:02:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Election takeaways: Donalds joins historic field and progressive scores upset victory in Florida - AP News",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV3dJd1RyX09ralRMT3BWakRraWlTUWZKYUU3aHBJS2hwYnNTeHlsYlBIT2owcW5lRGh4SGswRU85cF9GaGZadUhXQzZjampXcFFUS3pVQ1QzOWl5bGhGcGU2aTMxdnlKR2lRZzJqVUF3NDNvcjBqVWVoTlFadGdFQnNaT1kyeGp6XzR6Q3BZUkxvQTV0bXliWmtDR05ScThkUDdsS2l4RW9nQmxM?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 04:11:00 GMT",
+          "pubDate": "Wed, 19 Aug 2026 05:49:00 GMT",
           "source": "AP News"
         },
         {
@@ -155,30 +161,54 @@
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOWJhMlJZekdIMG1VYmt2ZU5DZUR6N0RsR1BIekJsbXpJMzlSZDRBVmduRXd2RDVvY3MwbkljSVBzNTJLbGNuTnBiNGI1ZWw2Mm1EemJaRVEyTzF6ZHd6amplRG1mWGdUNnktMWRadkctM0gyajVVNk9oQVlmU3IxTmNESlNRRXBOV2JvMUxOOFc2ZmRDYld1OWxoSFF5QQ?oc=5",
           "pubDate": "Wed, 19 Aug 2026 01:15:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Israel strikes an air base in northwest Syria to prevent Turkish troops from deploying - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbjNWb04xVkIyOFFfWDJ5Q2ttMGpjbFJpb1ByRklwWTJoM3ByWmRaMm5EUFk2YVBnWnQwSmFfNXRsSWlzRUx1U2UxcEVDYWR6bTFLRmNnSDVYTUxsSmR3Q1NLZHVfc05JbGNvMHUzNzdUeUZ5NXVIRU9YYU9Wc0V0a09sa29ZbEw3clFhQUZPQUl4bWJIM0loSjV3ZEs?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 00:16:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T07:47:48.425Z"
+      "updatedAt": "2026-08-19T08:44:01.838Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Japan says US sanctions on ICC, President Akane 'very unfortunate' - Reuters",
+          "title": "EXCLUSIVE: Chery's robot unit eyes IPO, targets overseas market for police robots - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYWR2cnpULThpZHY0Um43bzk3ZWcxVVNhVTltMVJhbkFhUWpvS3lUb1ROVWd3RmszSzhKMlpGOHUtZ1ZuZmsyemxDbDh4c2lBWG9HNVloSEhTOFFzcVhWTmRob1lmenhCUzBUb1B2SENQckhUemdMWTkxY2Y0eW1UQmVCeDBHMnUzY2R2emJfc3JKbFZDek1BeWtDdGtTZEJpRHZhd3BNN3MzVkF0cDRJVS15X3RYcmlSc1hRY2NGTHJ5YXNhRE5saXF3?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 07:21:43 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "China completes first stage of work at disputed South China Sea reef, images show - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWjlHMXpDTU1lN0ZxdTV0cWJwMktYTG52MU5RX1JXVTFaemlzbl9TdzZRWS1IN3dCM0d4ZmdLaGtTVjI1NHU5U1N1Mi02bGVteGtDZXlOZWpOcmlMbExyMnpnX0V1WG5hUWJ2ZmlULUVxU1RjZWo3SllHU04tLVFIbmV0WDJEV1hFdllaRHR5Y0I4NkVNTjFub3VqTHV5aUFYdFhGMkU1SV96NlFsdEtHQmZNeGNVeVhPdHlwZDhBVQ?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 07:19:44 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "SK Hynix to buy back, cancel $29 billion worth of treasury shares - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUlJGSW1ENWNua28tWENjMFMtWjJmTGl6eUFuNFZkbHlvdU9SbWJONF9SeFNLdjRXXy0tVzVPN2VMLV9yUjg0UUZlNm5QNDRYT1FlZ25JVmlJNXRrRE5XVU95ZXB2VTlWMFNCLS1PLXZ4bS0zZ3YtN29OM0sxcHlPb3pwN083b0NfN1I0T1M1V3c0dDFYOW54TGV3WjFqbWJySTRMQUxiZ0hheVVNV21LaURVaw?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 07:16:47 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Japan criticises U.S. over 'unfortunate' sanctions on ICC - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYkg0bk1MOFBFZHhkbEZ2UDlybmkzck1hRF85bUtNRWI2V0ZDV1lUVEQ0NEwtUnhEZERBbGFHMEZ1X1ltamllMW5FMldvMHlQN0Z2V2dqSWVGN01yd01BM29pYnVBMS1VQVo5Zld4VU1IdzZmcjhsMHRNWTNFQTdUS1ZhMHVEYkxRc1pzdjA4R3U0RUZUWVdIZkFGYU55bTVVYjBEaUs2d203N2ZmeXFVdUVHWGxLdw?oc=5",
           "pubDate": "Wed, 19 Aug 2026 06:44:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Ukraine anti-graft agencies investigate group involving presidential officials - Reuters",
+          "title": "Ukraine's anti-corruption agencies launch probe ahead of key defence minister vote - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZ1NQSTlGd29mNDhxaWozY05hSzhNbFlEcG93ODYzUFhiSkRjUHp5a0p3UnZUeWlFY2dHYTFtU3lGWFdsc3cwcFdlUFd0amhZU1FOS0FZTDQ1bDA2Q1JGUUlMLUNjd2hVajdHRXZ4R2huMVpWTk5LYk0yLTVIMzF4S1Vqb195eXlJS1dtbm54VGdNSzZkSlBSYXl3MjVFb05UVVdwQlZkZTJZQW1EdkxGY09Va1F5MzI2REVFQ0ZzalFnQ2JUR2c?oc=5",
           "pubDate": "Wed, 19 Aug 2026 06:17:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "UK inflation picks up after July surge in household energy bills - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVDlHUDNTVHV0SHFvcWN2UEZSQmN3TENFSklmWXJlRjY0ZFBhOU0zcUdwN0JNRE5JNFMtVmxiZTdMeW9ZRFZlSm5lcjhwcTRpd04xanJQMkhhSGQydTVmeGhEZk9VUzlDOEZRak02ZDVMdWNjaHl2VEpPaThuNExYMVl0eGNHdnRWdTVtNFk5NHU?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 06:04:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Insight: As Europe bakes, momentum grows for climate-resilient farming - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMWdoVHRiRFBKQm13WVpTNFhka1JYY3c3NXI4RnpKUkt5TEhPcVREcm04aGhkLWRfZXlIbkg3NzZod2c2SzI4cnZmd3h4dngwTTU3QWxaSndiazE3d1dFR3o2TXB3Wml5ODVaV1otc0tVU3B6WnFaSFJUYmJidTExM29aTHVsR0xudXljVmFXZm14UWdtUXpWYjhwcEtVQ01XN2xCb08tc1BZS2xlLTNv?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 06:02:00 GMT",
           "source": "Reuters"
         },
         {
@@ -186,40 +216,10 @@
           "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTVZrYXM5NGpibkZyR1hqU0JpVWV4S084VkR4UGhsUDItUlpodjhuSl90NkJXdXBSc3NEcFZ2QzVIZFpoLXpDNWliT014aW9IbnNOd2o4eWUyZ2gyOFU4bHhSam1uczNnMVRrdlhHcVBKZDNqdWk2eTBJUkdWcjdSZEJfZ0pwQ0YzVk9vbmU2RFdOOTdQVE53WDNyOFUzend2Z01CaHBGaVFWc2hrSWxPdXMzV3Zfa083S2poUTI4b3hhM3FtVURfWXRsTmp5cFNY?oc=5",
           "pubDate": "Wed, 19 Aug 2026 05:19:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Ebola cases in Congo exceed 5,000, government data shows - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPem5Hd3lmTGZubzE1STRETUxoYzdvaXo3NDRHRlhXOGFjckVnT1BwY1Q3NGRjZlQ5VVNRS2gtTnJfVmdyVUJNTnNBdmZDbUNQT0JsaTlaQjNUWkpUa1I2eElyNUNnNFVKMlVOOXhFdXhva0ljMlExeURaR2FFN0hpUDRDUEJBQ3lvWnNhenhEdDBUdjQ2V0NfWG9aRUs5REV5cWRzMVgxNUpGaUtkdzA4cHNaZFViT1RhbTNfSnBuQ3E?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 04:38:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Morning Bid: Dancing robots, dumping bonds - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iczVnbnhYRXRGY0dyenZRek16T0lMMU9DazhIakljR1FnNUNwMEkxX0RhMUJzNGlETkVRdDlLWmZiUzZiS0tfVTRNcnlJdVd0MFVFNFFfd2x3anNEMEJhRm5JZWpmMU5qclZjcEQxYXlBWEtHcmZXTjJsNDBHVkk?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 04:33:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Attacks on aid workers hit record high in 2025, UN says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYmtzR2tmZkZCUlRxU3JkRjZla3I2ODFrRERhVmRrS3pBaHRUM3BYLXNjSEJUdTFIc1dOMVVrUDFpRlQzc3lMNkFXMlpQSjNkbFJJcUpvV0tBTkFvUU9NeWxsT1RkcDBIUzNuRm9QeGhUR0g3d1ZUeEhaSFlXUkRlT3dCcFRqS19zVThMclVOV2lSLXlPOEI0dmJWbGR3QQ?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 04:05:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "At least nine killed in hotel fire in India's Kolkata - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMGRoSmZEYmRjbDdPNDdrVFRidlNIZ0dMODBMZ2p6Z1JqSWFBWmpyQU52RktYYXF1MHNHaE1rSmtFYXEtcl9iQWRqTFdlRV9WcHFkdGM2X1ozcm0yRXNLVHdUbEdMZlFJOUJRSTVpd0VYMFZLVVpheG11MFlpR3VNNmpPVWpjYlhfdHgwYi1VQ1lVWTVibnJFd0ZxcjVIOHM?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 03:59:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Hormuz traffic slows as uncertainty over waterway persists - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYldMdWw5dWFaM0VrQzE2U1ZvSTc2VHhrVmdJNmRDV3h6dUtUTGFmS01FRjdMeHJBaExMNEgzYWxGMlZEQlpQSEwycU5zMXZGckUtT3BHY1cwaTNiT0JhZVBIbnVZTFp5OTRwLUJmbFlpdWJMdlRiZjV5OWtYM3pBOUpXSFphWFlsRVF2YVhoWTBQcnQ0UFF2QXV2enNuRlZJa1ROMUtFaHhwN0M0ZVE?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 03:39:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T07:47:48.821Z"
+      "updatedAt": "2026-08-19T08:44:02.255Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T07:47:48.933Z"
+      "updatedAt": "2026-08-19T08:44:02.452Z"
     }
   ]
 }
