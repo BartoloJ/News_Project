@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T05:57:13.417Z",
+  "generatedAt": "2026-08-19T06:58:11.981Z",
   "sources": [
     {
       "name": "BBC News",
@@ -8,6 +8,18 @@
           "title": "South Korea shortens war games with US, citing Washington request",
           "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 19 Aug 2026 05:53:53 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Families' agonising search for answers as thousands still missing in Gaza",
+          "link": "https://www.bbc.co.uk/news/articles/ce34r0er75go?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 19 Aug 2026 05:04:00 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "French civil servant drugged us to make us urinate on ourselves, say accusers",
+          "link": "https://www.bbc.co.uk/news/articles/crrv48lenwgo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 19 Aug 2026 05:00:39 GMT",
           "source": "BBC News"
         },
         {
@@ -39,22 +51,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cjej8nze1wko?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 19 Aug 2026 03:04:07 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Witness gets combative in Tupac murder trial - 'I don't want to send him to prison'",
-          "link": "https://www.bbc.co.uk/news/articles/ckg3j15v2npo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 19 Aug 2026 03:00:35 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Harvard agrees to pay millions after morgue manager sold body parts",
-          "link": "https://www.bbc.co.uk/news/articles/c5y0lyde9rvo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 19 Aug 2026 00:07:37 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T05:57:12.260Z"
+      "updatedAt": "2026-08-19T06:58:10.630Z"
     },
     {
       "name": "NPR",
@@ -109,7 +109,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T05:57:12.347Z"
+      "updatedAt": "2026-08-19T06:58:10.911Z"
     },
     {
       "name": "AP News",
@@ -164,15 +164,33 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T05:57:12.803Z"
+      "updatedAt": "2026-08-19T06:58:11.396Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "South Korea minister says Trump appears to be pressuring Seoul over Iran, investment - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTVZrYXM5NGpibkZyR1hqU0JpVWV4S084VkR4UGhsUDItUlpodjhuSl90NkJXdXBSc3NEcFZ2QzVIZFpoLXpDNWliT014aW9IbnNOd2o4eWUyZ2gyOFU4bHhSam1uczNnMVRrdlhHcVBKZDNqdWk2eTBJUkdWcjdSZEJfZ0pwQ0YzVk9vbmU2RFdOOTdQVE53WDNyOFUzend2Z01CaHBGaVFWc2hrSWxPdXMzV3Zfa083S2poUTI4b3hhM3FtVURfWXRsTmp5cFNY?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 05:19:00 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Morning Bid: Dancing robots, dumping bonds - Reuters",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iczVnbnhYRXRGY0dyenZRek16T0lMMU9DazhIakljR1FnNUNwMEkxX0RhMUJzNGlETkVRdDlLWmZiUzZiS0tfVTRNcnlJdVd0MFVFNFFfd2x3anNEMEJhRm5JZWpmMU5qclZjcEQxYXlBWEtHcmZXTjJsNDBHVkk?oc=5",
           "pubDate": "Wed, 19 Aug 2026 04:33:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Attacks on aid workers hit record high in 2025, UN says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYmtzR2tmZkZCUlRxU3JkRjZla3I2ODFrRERhVmRrS3pBaHRUM3BYLXNjSEJUdTFIc1dOMVVrUDFpRlQzc3lMNkFXMlpQSjNkbFJJcUpvV0tBTkFvUU9NeWxsT1RkcDBIUzNuRm9QeGhUR0g3d1ZUeEhaSFlXUkRlT3dCcFRqS19zVThMclVOV2lSLXlPOEI0dmJWbGR3QQ?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 04:05:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "At least nine killed in hotel fire in India's Kolkata - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMGRoSmZEYmRjbDdPNDdrVFRidlNIZ0dMODBMZ2p6Z1JqSWFBWmpyQU52RktYYXF1MHNHaE1rSmtFYXEtcl9iQWRqTFdlRV9WcHFkdGM2X1ozcm0yRXNLVHdUbEdMZlFJOUJRSTVpd0VYMFZLVVpheG11MFlpR3VNNmpPVWpjYlhfdHgwYi1VQ1lVWTVibnJFd0ZxcjVIOHM?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 03:59:00 GMT",
           "source": "Reuters"
         },
         {
@@ -188,7 +206,7 @@
           "source": "Reuters"
         },
         {
-          "title": "Bond selloff slows but stocks wobble - Reuters",
+          "title": "Bond selloff slows but stocks sink - Reuters",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPLUxPRTdYWG12TUVQNkRoeDUwU2hDUmJld2RxZUo5ckdlcHgwWFgwajJrdkYzcGlzV0ZWckNkT3RaOFU3VXprWWJIX01rOERxQTVhcExiWWEwSi1DTzN1dWZtdDgxOEcxQ3FyTTJORDNIc3M4VkdlTVdkSG1jd1NYbkdOSQ?oc=5",
           "pubDate": "Wed, 19 Aug 2026 02:51:00 GMT",
           "source": "Reuters"
@@ -198,28 +216,10 @@
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQV3JTSUU5dl9JdWRBLUNrUmlYYnZnazVLeUQzNjRKaS1oS3lMWlQzN0NndkJmSEVkcTczTjJjQ0ZGRGZUWkprV3pLMGU0eFVVQnFlWWFCMUtQendmNUhzYy1qRldleVo1MHA5bE9CajJ5bTdwLTdfcDN0Qk4zVVZ5LW9sM0FYdFdDQzVBZGlBVGJQYzhpeFpjUTZtaFZfSnRESjFHeE43UDQ2OGRKOU1RWldURzF2NWVfOVhhSUpzbWY?oc=5",
           "pubDate": "Wed, 19 Aug 2026 02:40:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Trump pauses 50% tariffs on goods from Canada, says two sides have a deal - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT190OW5VSmgxa3lud1N6Zm9zbUxGUXpMMEEyRXc4R0M5S3RNMld4YXh4ZjRxc2lNcm9TQ0JOcXVjY0tVYnBveHN6RWcwcXZ3dkxoajNzV3VXNFl1TGFvV1dIaTJUT05vQ1pnRmpkRlFRWmxvUzF2X2d0RUg3STRBQmZWaGVWenhtdzVsS1NtdTJ6b0NyUVk2UUwwNFRfam5DWUp4dEcydUtRQQ?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 02:33:35 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Nvidia H200 chips reach China in small shipments, FT reports - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPc2tBTmsySF9VRGZpdVNsWmM1TGhwMXRhdGFGUGZiZDNjamtuNjlRbHo3OGpDQnNZVjByNkt6cWNEMFN4MkZybm95R29hMnlTVmxMYzktVC1DNUYwUnpsa3FlYjl1QldWczlmelFwNFM0YlJ0T1lPVlB1UGZ6NXdQRGU1dFVjRkdGUXdTYlJwUnM3dEtNSjBvdmZCbG42UGNaVFRqZTI0NXN2VjlQbmpDVw?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 02:17:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Five killed as part of village home in China's Sichuan collapses - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQN3ZBMTNRRjltbmJqanJVWEM4YVVRVFJvV0Znb3A3aVRyYUc2TWVUMnNpMFJ5RWlZUkd4U1NFOVBwZEVQR3dpTUU0ZUsyUFAxYUpSODZfLXVDeElyOEo1ZmN4aDlFamk4VDVOb2JLU1c5ZDJjT1JtTkxyMUFYSnR3SlpRVTJMWGVaVWRXSlVGVmpGV1hkQnk5clNyWFFUalQzcmdYOHlBU2ZTbTFSd3Bncw?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 02:07:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T05:57:13.249Z"
+      "updatedAt": "2026-08-19T06:58:11.779Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T05:57:13.417Z"
+      "updatedAt": "2026-08-19T06:58:11.981Z"
     }
   ]
 }
