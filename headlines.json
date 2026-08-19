@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-08-19T13:50:55.231Z",
+  "generatedAt": "2026-08-19T14:39:07.319Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "South Korea shortens war games with US, citing Washington request",
+          "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 19 Aug 2026 14:16:27 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Israel confirms it opened fire on vehicle carrying five-year-old Hind Rajab in Gaza",
+          "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 19 Aug 2026 13:53:51 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Six tourists and pilot killed in Kenya helicopter crash",
           "link": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
@@ -14,12 +26,6 @@
           "title": "Ukrainian man arrested in Croatia over Nord Stream pipeline blasts",
           "link": "https://www.bbc.co.uk/news/articles/c78gp7l5348o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 19 Aug 2026 12:47:53 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza",
-          "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 19 Aug 2026 12:41:46 GMT",
           "source": "BBC News"
         },
         {
@@ -45,20 +51,20 @@
           "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 19 Aug 2026 11:00:21 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Liberia agrees to accept 1,200 foreign deportees from the US",
-          "link": "https://www.bbc.co.uk/news/articles/cpq8g22715vo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 19 Aug 2026 10:47:22 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T13:50:53.899Z"
+      "updatedAt": "2026-08-19T14:39:05.936Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Greetings from Trouville-sur-Mer, a beach town little changed since Monet painted it",
+          "link": "https://www.npr.org/2026/08/19/g-s1-139174/trouville-sur-mer-france-normandy-monet-beach",
+          "pubDate": "Wed, 19 Aug 2026 10:19:20 -0400",
+          "source": "NPR"
+        },
         {
           "title": "U.S. delays 50% tariff on Canadian imports. And, takeaways from Florida's primaries",
           "link": "https://www.npr.org/2026/08/19/g-s1-139173/up-first-newsletter-florida-primary-canada-tariffs-trump-meta-trial",
@@ -96,12 +102,6 @@
           "source": "NPR"
         },
         {
-          "title": "Why more than 400,000 kids are on waitlists for federal childcare assistance",
-          "link": "https://www.npr.org/2026/08/19/nx-s1-5920326/childcare-assistance-waitlists",
-          "pubDate": "Wed, 19 Aug 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
           "title": "15 states have laws that allow corporal punishment in schools. Here's where, and why",
           "link": "https://www.npr.org/2026/08/19/nx-s1-5803505/school-corporal-punishment-policy-tracker",
           "pubDate": "Wed, 19 Aug 2026 05:00:00 -0400",
@@ -109,11 +109,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T13:50:54.170Z"
+      "updatedAt": "2026-08-19T14:39:06.173Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "A new look and fresh merch are winning customers back at Target as sales rebound - AP News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTk5WVG5iNmZVOFY4RHZhWGcwaVNJdkM5elI3LVBYZEo5eUZ1WVBQRW1ZWlE2Z0tTMGloUUMzV2RSUm96YWZ1dnRFSjFoZlpSajZ5eFZYSTJSeXhaLXUzenZCM2RUVGxGVkozV2VZVFpsU3RZXzlzWTBCUWw1akN1M2Z1QVpWa2g1VTVhMFdvMGVuTzVLbnhFYkxVQjBJLXB4?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 14:17:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Israeli military launches criminal probes into killings of Hind Rajab and Palestinian paramedics - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdjh4SUp0a2ZhbFFhSGQzVERrREI3OFJQRXBVY3gyS2FQRkp4RTFyTUc4d3dJRDUzTzR5X1d1YkVCeU9nYTNyYnM5NmRjS25xXzVZWk03SksyVFlOWWdnM1dhQ0kyVFB3Vmt1RWZVeDlyNEZYMXpNbC1NdGNWbjZkSnBjM1ZqV1FrVjRpSmRNOThiT1d3OG5Ob3FQcHlTcnRNWWdqUktqa3FqLVRONmU1NmZWLURUV2lm?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 13:15:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "United Arab Emirates suspends trade with Iran after coming under renewed missile fire - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNa0QxYWRHV3EwbTFuUGNkbHlmazM2MHlDNTM0MFMyUnkxLWFGb2ozNm5OVjFsQ0RUcmlXSXcwOV9MV2ZVWi1fYVpRVVkxMWJYSGZlUWZvbmdoekxQNy1qTThzVWlOTE94bkdjWDhNSnFfM1RQdmJxRWZ0c3FqZkJ4dVVfbVNfa3VyUU1iSlFHckhMVHY5aUJEQjJBcUNtcG1rQjREZW9GY3hwdw?oc=5",
@@ -121,15 +133,9 @@
           "source": "AP News"
         },
         {
-          "title": "Israeli military launches criminal probes into killings of Hind Rajab and Palestinian paramedics - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdjh4SUp0a2ZhbFFhSGQzVERrREI3OFJQRXBVY3gyS2FQRkp4RTFyTUc4d3dJRDUzTzR5X1d1YkVCeU9nYTNyYnM5NmRjS25xXzVZWk03SksyVFlOWWdnM1dhQ0kyVFB3Vmt1RWZVeDlyNEZYMXpNbC1NdGNWbjZkSnBjM1ZqV1FrVjRpSmRNOThiT1d3OG5Ob3FQcHlTcnRNWWdqUktqa3FqLVRONmU1NmZWLURUV2lm?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 12:15:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "A new look and fresh merch are winning customers back at Target as sales rebound - AP News",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTk5WVG5iNmZVOFY4RHZhWGcwaVNJdkM5elI3LVBYZEo5eUZ1WVBQRW1ZWlE2Z0tTMGloUUMzV2RSUm96YWZ1dnRFSjFoZlpSajZ5eFZYSTJSeXhaLXUzenZCM2RUVGxGVkozV2VZVFpsU3RZXzlzWTBCUWw1akN1M2Z1QVpWa2g1VTVhMFdvMGVuTzVLbnhFYkxVQjBJLXB4?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 11:47:00 GMT",
+          "title": "Mesmerizing jellyfish take center stage at 1st US museum dedicated solely to the floating predators - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRTBkWTZ6M2QzMl9naGtFaFExQXNSSjVRMlhDM1k1WDBmemxXTEg1QXV3bnIxZ0RiMHpkb0RyWHRMcmRleUs4cmJfTGNZLWJBWTY3QmJ1b1FQVHljVS0weW84MTZPZGdGVWFVM05CbWV2cEJhN1hYR01hWm9mN2xQMjJJUmdjS0MtaHVxTg?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 12:28:00 GMT",
           "source": "AP News"
         },
         {
@@ -155,24 +161,36 @@
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMENLdm9uQWlhbXhxZXpLcXlyQUV0NU5NbGlOb29UeFVtNk92aEtlV0hZSWV3c1RseFFBZVFJVEJ2OUhHdk1zTmxZa1FfdzhYQVYwSEN3SWloLUVvbjY1U2FRanlYTmFXNWlFTzVUb1lWbzViZUluUkhROUdRdVloSU9VeldIM1RNTmYxWWZWZw?oc=5",
           "pubDate": "Wed, 19 Aug 2026 09:45:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Fire in a building housing several hotels in eastern India kills 9 and injures 6 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcTB3MzR3YWN2YWxpMzF0SVpyaXlzRkR2N19CakJua2h5NHA1VVUzMENNQVEwT0dCeVM5TVdXUjZvY3VrUy1xXzRVMHJ3M2ZCN2gxR2YwbWxiOGpiRjdmUHl4NTRab0lkd3Z0T2JyN2lhbURSeXNwYmFFS3lucUJOQzk0Mk1McXVncFZNTnhjYnBpcEh3eWhzZ2kwVW0?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 08:18:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T13:50:54.688Z"
+      "updatedAt": "2026-08-19T14:39:06.749Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Wall St opens up after tech-led slump as yields ease; earnings watched - Reuters",
+          "title": "Can Ukraine hold elections while at war? - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ0otQlRVQnJlY1l2WlJxVVl5OXhpQ1NFakxRdDB5bVRxZFNMUUtNMDZJR2dIcTZuWHBVX282bmRuYm1UX1g3a3F6NXV6ZHdGbFdNNHltellwRHhlai1MVkJpNjR1cW5UYTgzZ2FCazd6aXV0VHhpQlVrLTh4STFYTV9rN1c?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 14:14:49 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Wall St up after tech selloff as yields retreat; Moderna surges - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNnFzX1pZYUZsd0lHWkM3SGVWNE9NRkFvRVdmQ1JIcVJMeXBKenVjQnJLVlFOTnpSVTU2VW95Y2ZUNUdaTnNqd0ItNGpUVktVMkFjR29JTExtc1NUV3lKYkw3MGRDWFozRmlJM0lIdW0xd3daMHZPTVVwZzV3d1ZZTGkybTBPYlZ6czhMVDNtY29pRE5SM2hvejNyZFFLUnRRSXMzTmhYTjBjTTBCejc5N1dxakdsSXBVSzZNRFV6cw?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 13:39:45 GMT",
+          "pubDate": "Wed, 19 Aug 2026 13:59:06 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US Treasury to double sizes of some debt buyback operations to at least $4 billion - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVG9LQ251bHQzZlRLUDhWa1JjNTNUUkh3TVN4YUZ3M09OU3d2MVYxUFdjTUdZYVBtQ1dsTEhQb0JpMXJxV1B2QjZwUFdWTVo3YU5VQjlxVGJKdDJUUXE1VFUzNDFDcWhkWE9fM1lCb21XcTRzN3FKQ3hIYW9KSXByWGVUQnB4XzlQbHJtWFl2V2RkV1FOZjhVendlV2djM2ZBRnJoMGVHRS01cTZpR3lvUQ?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 13:49:27 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "PODCAST: Robot Rally - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMGR0TDJOY0s3clFXN0lyZjRLYXZLQ01zVEI5ZXVyUkgzek9na2VpRHU4YTNkQjhUNjEtZ2lRNnlHNldGdWl3X1lwb1JKai1ERzBJbUZSZnNKTVhpME8tY01Fa2lhS2oyUlZnZHpfaWpZcHhmcGxKRXd6T05NQjR6VU1R?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 13:35:18 GMT",
           "source": "Reuters"
         },
         {
@@ -188,38 +206,20 @@
           "source": "Reuters"
         },
         {
-          "title": "German prosecutors say second Nord Stream suspect arrested in Croatia - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLWlWVTh4SHQtVndlUE9yV0hKLXVlUEZYeUVLN2gwcHY1dDlYTlRuWVRETFlSU1VWNEFKVFktT3BXWThnTDVVU2pIc0lEZkMwVmFyOHA2X25vczlySUpCZE1BNFlvZGJNaE5xSHlqcnpnOTAzempYVERnN3dUWUNfSC14eHRKWGVuaXFkaUh5SElINkE4VDhCQUI4Xzh1bDE3VzBIallsY25meG1SNDktYWl2WQ?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 12:53:38 GMT",
+          "title": "Estee Lauder forecasts strong annual profit on resilient fragrance demand - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSW1vQVN6bnhuYlJOQTJuSDlaWi1kcWE2cDZJaFJEbUU0ZUZqanVmdFJtSDVKOF9QSkY0LTRyeGlyYTBqLUhESWxTNlEwV2lHVFBXM2ZaNjNNZVp4cWl4eW9sOFZzN2tKRkVsVmNubXYxQWQwMEZRNFJFSEtCV0hUenVCSlV4bElpOFJobERFWTNyc1BBQl9mdjQ1MUh5djd6bWJfMnp2VU5EanZsR2JqVnIybDVyNzBCYTBXM1F6SHFVR0toa0hTSG1KY0JLQQ?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 13:13:16 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Israel opens criminal probes over killings of Hind Rajab and Gaza rescue workers, military says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQ1Zxdm1rckV4MGpjNEsycF9zT0lrcDR1OUtSMmttLUJ0WHNwaTFsMVQyRkVaaDRHMnZjNkhvVEY5RVE0XzhZTmhjRXBGd256UVZ5TTR3S2ZNaS1nWDVwVnFsUTc4eFVYTVdIUS1jZXVMckpnQXV6QXNPVTRGYmNsbXpPbTl3b0Jhc1ZtT1pkVXpac19TUWpXR1dXeVR6SGhoa2xkMkFpa0hLV2RBSmZZeFFxYnB1cTJI?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 12:25:51 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Most Americans believe Trump has inappropriately profited since returning to power, Reuters/Ipsos poll finds - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOU1h6LUQwS0tnLUt3MTFHQjVaSHRvTExtWkRCZ3VTSzBEZnJId0lGeGlOUHJicklYQVk1N2k0V2dkZWppV3A3bC15RlpZZmRNUWJtQzBmT2V3U01rU2pGRlZPQl9STkZBZFlmN3otOWJWWV9NaW1PYURRWWh4ZjZISExOaVhudHlCOG95Y2NhMmtHT1VVYUlhclpCcmpKUklXY2FMWUdDYVBid1lVcUJnVXdRWXdLb3dTdGhESktR?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 12:20:31 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Moderna shares surge as melanoma vaccine with Merck succeeds in large trial - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOV1VaQ05TQmRfMmJzTUkwU2puSHBUcE9FdzY2OW5SaXVFc2FpR25rclJEY1NHS1lrYWdaWE5OUVdhZ2VfTGVHak45akZnYm0wbEZVdXpOYjJEYkpVc3VXaDRrQnZBMDlJbWJLZUY2M2dFc0lycDc1LUtiSmxEWnlsVThSY1RRRG5WM050bEZLR1puWlhDMGlJczRZM0tXb2lHYzlSSmxTRFlQdm52THFDbG1zZlBWLUNUZG9qVjFoQlI?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 12:17:16 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "UAE's financial embargo on Iran after missile threat puts rivalry back in spotlight - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdzR1UDJHQ1pYM2Y2dzJ4Wmo3d3VCNFBEbDZQamtaSm5wdF9uWUdwRzdNa0ZtTFdzaUppUkdtelNyaDV0ZnU4aWY1aUlBLWhNdzN2VmhvZzJNdk8zM3gwSXZvc0p6Zld0UHhRQ0RjY2NTekZOekZnMEhwWlo1OXc2Mk1KZ0ZkZHF4WFR5NVRMejB2eDQxdXJJR0VocU5QVmRHbHFTZXlJNWRfdE43Sko3cXlYalB2VmFWSFczb044NlZEU21vOTNHOHpB?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 12:01:20 GMT",
+          "title": "Tourist helicopter crashes in Kenya, police say seven killed - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONW5LS2JKMjFfeFNRckE1RmNFNWdJU1RSVlIyQ2d5SC1zaHJOUUpuODVhU1g2M3h1NzA3NnB3ckxUYWhKNTB4M2ZUS1VpX1dUUURDcGZialRsZjk3UkZtZjVRcEJNZ3lHV3dOY1N2cFhIYWJ3cHpaRHlkNkRIM0ZjOXI5TTgzRlEwZ1pBYnVQczFOUjcxbmpxenAzLVl5d2JzU1B2YTh6b2JVUVdwZHFMUDliRXRwaFFJakpaT3hwdw?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 13:11:43 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T13:50:55.170Z"
+      "updatedAt": "2026-08-19T14:39:07.173Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T13:50:55.231Z"
+      "updatedAt": "2026-08-19T14:39:07.319Z"
     }
   ]
 }
