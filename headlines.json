@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-08-19T10:34:05.272Z",
+  "generatedAt": "2026-08-19T11:30:12.213Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Sacked Ukrainian defence minister calls for presidential election",
+          "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 19 Aug 2026 11:00:21 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Liberia agrees to accept 1,200 foreign deportees from the US",
+          "link": "https://www.bbc.co.uk/news/articles/cpq8g22715vo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 19 Aug 2026 10:47:22 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Apparent human remains found in US reservoir as water levels hit record low",
           "link": "https://www.bbc.co.uk/news/articles/cp87gvmedlmo?at_medium=RSS&at_campaign=rss",
@@ -14,12 +26,6 @@
           "title": "US charges 17 Iranians over 'massive' cyber theft campaign",
           "link": "https://www.bbc.co.uk/news/articles/c1m14n4llvvo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 19 Aug 2026 09:48:16 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Sacked Ukrainian defence minister calls for presidential election",
-          "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 19 Aug 2026 09:02:08 GMT",
           "source": "BBC News"
         },
         {
@@ -45,20 +51,20 @@
           "link": "https://www.bbc.co.uk/news/articles/c141605846jo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 19 Aug 2026 05:04:27 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Families' agonising search for answers as thousands still missing in Gaza",
-          "link": "https://www.bbc.co.uk/news/articles/ce34r0er75go?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 19 Aug 2026 05:04:00 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T10:34:03.879Z"
+      "updatedAt": "2026-08-19T11:30:10.781Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "U.S. delays 50% tariff on Canadian imports. And, takeaways from Florida's primaries",
+          "link": "https://www.npr.org/2026/08/19/g-s1-139173/up-first-newsletter-florida-primary-canada-tariffs-trump-meta-trial",
+          "pubDate": "Wed, 19 Aug 2026 07:14:31 -0400",
+          "source": "NPR"
+        },
         {
           "title": "How India's blocking of a film exposing real-life police abuses backfired",
           "link": "https://www.npr.org/2026/08/19/g-s1-138787/how-indias-blocking-of-a-film-exposing-real-life-police-abuses-backfired",
@@ -100,16 +106,10 @@
           "link": "https://www.npr.org/2026/08/19/nx-s1-5803505/school-corporal-punishment-policy-tracker",
           "pubDate": "Wed, 19 Aug 2026 05:00:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Israel strikes an air base in Syria to prevent Turkish troops from deploying",
-          "link": "https://www.npr.org/2026/08/19/nx-s1-5937400/israel-strikes-syria",
-          "pubDate": "Wed, 19 Aug 2026 03:51:59 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T10:34:04.050Z"
+      "updatedAt": "2026-08-19T11:30:10.955Z"
     },
     {
       "name": "AP News",
@@ -127,9 +127,21 @@
           "source": "AP News"
         },
         {
+          "title": "South Korean and US militaries shorten drills by about half after Trump ordered a reduction - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaUx1WkNNOFA1UXFocXB1OXFnbFc4dFJNMXdjTkExUmt4MFEtb1dta003UmoyX3VtUExaVlZ5cWJmb0tDS0U0Ym9LNE5EQ1Z4Q2tKaGNJUEh2X2toZ0ZKbGNFc0ZEbnQ2SXo0eGVhRE9lZHJZWlI5cU5uQUFSbHdJOXVEZUh1QlRhWjBmZQ?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 09:58:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Congo’s Ebola outbreak reaches 5,000 cases as it outpaces response efforts at unprecedented speed - AP News",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMENLdm9uQWlhbXhxZXpLcXlyQUV0NU5NbGlOb29UeFVtNk92aEtlV0hZSWV3c1RseFFBZVFJVEJ2OUhHdk1zTmxZa1FfdzhYQVYwSEN3SWloLUVvbjY1U2FRanlYTmFXNWlFTzVUb1lWbzViZUluUkhROUdRdVloSU9VeldIM1RNTmYxWWZWZw?oc=5",
           "pubDate": "Wed, 19 Aug 2026 08:22:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Afghan farmers turn their grapes into raisins after border closures slash fruit exports to Pakistan - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcEJWdUROUm5oMFRaVzRvMkNtT2VTYkVSbUZzSFlXMGl3MmF6T2lrYk15UVpKcmc4SDJYckJUU0M5V3lpbi1uaHNjalpnOUhwV2xpbVVpZjR0Z0tDYWd3RkNPcE1xZXdOLVc1M3I5Z25xOHZsNFJiRm54V0c5Y1drRDc3MmVfWWt0VGlNR2xGTTVaNGFReWRjTDVVa3pyR2FtZlJfbw?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 08:02:00 GMT",
           "source": "AP News"
         },
         {
@@ -149,26 +161,26 @@
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV3dJd1RyX09ralRMT3BWakRraWlTUWZKYUU3aHBJS2hwYnNTeHlsYlBIT2owcW5lRGh4SGswRU85cF9GaGZadUhXQzZjampXcFFUS3pVQ1QzOWl5bGhGcGU2aTMxdnlKR2lRZzJqVUF3NDNvcjBqVWVoTlFadGdFQnNaT1kyeGp6XzR6Q3BZUkxvQTV0bXliWmtDR05ScThkUDdsS2l4RW9nQmxM?oc=5",
           "pubDate": "Wed, 19 Aug 2026 05:49:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Mesmerizing jellyfish take center stage at 1st US museum dedicated solely to the floating predators - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRTBkWTZ6M2QzMl9naGtFaFExQXNSSjVRMlhDM1k1WDBmemxXTEg1QXV3bnIxZ0RiMHpkb0RyWHRMcmRleUs4cmJfTGNZLWJBWTY3QmJ1b1FQVHljVS0weW84MTZPZGdGVWFVM05CbWV2cEJhN1hYR01hWm9mN2xQMjJJUmdjS0MtaHVxTg?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 04:06:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Trump says US and Canada have reached last-minute deal to delay 50% US tariffs on Canadian imports - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbl9JNGxCeEUzV3FveVI0dmM1TGczaVFzem1RbDg5TWx6ck5naGlpQ0FWcmUyN0NQV2tqV2hZejNKWVVRUTNFRU9xWWJYWWJ2bGtGR3pnOEY2Uk1fSkFpazU0VVJfRWFBb0VmY3FISTJoNDBVU2g4N3F6NXl2YzJxOU4xenVOQTd0ZzFLNEEtUW5CLWJlUWQw?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 03:25:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T10:34:04.543Z"
+      "updatedAt": "2026-08-19T11:30:11.549Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Trump put thousands of soldiers on Washington’s streets. They seldom stop crime - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSkpHV0wwZHN4MV84emhmbV95VHJ0UHZtd2dPN1owdVJORzA5VG5uY2kzczR6VF9GOVBsOThTRmxrWFA1ZU9TMV9WX3hnMkctdG5WYkgyZkh5SGVUZEdscE1ENjJMUjZOdTZYYXBxa0E4eE9CTnhIRW9VRExKV1NFd3FoT2Y3Q1lGaDlYRjFuSWd6UHdrWkFUczhZZ3h3SWJwb2hjMERsYXQtelA1ZlBSTW5LdXdid1U?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 10:35:44 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Kyrgios provisionally suspended after testing positive for cocaine - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQY3Z5QmRMZ0Iwa2Y0SmhJVFl2OXRaSm9KdnB5Zl9veERjTVhGQlhaRjJmYVJuUEZuQ09lempsWWx3QWNKLVlvUGFGdFVjbC1BOGs1ZDNuOEtrYWV2Zl93Wk16TDZsUmdxZHdyRWZQNG43c1B2c1M1bWhIWU9zNHJXQk0wbmpvRVFmbElFNWZteGlkblA1T2VoaFVySDM5U0JVMG01RVhpYlU1WVZTVEtfdVU0U1FJVFpMUU1qMy1waUpuaXB1N2xfZg?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 10:16:38 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Pakistani government files challenge against Imran Khan private hospital move - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbW40aTA3U1piZS03SW9vM3lNRlFUR01aVWdDR3pzS1ViZHA5czBFMVduOHZwclZMeTBNVU1LQVpTOEw5WXZmdTVZTVNOdTQwWGlFYWY4LW45QVFVUlcxYkNsbUd1UG5URmNJSElTZGNnVHVQdFNxNGJkQkFBMVIyR0tkbUZ6YU56MXktSUN1cGRaNVRMaHNOVWp0OEloQ2pRQWFvTURFRExQeFlXUXBzUkVTLWpvd3c0eWx5V0xrUzF3MDlCY0E?oc=5",
@@ -176,21 +188,27 @@
           "source": "Reuters"
         },
         {
-          "title": "Japan criticises US over 'unfortunate' sanctions on ICC - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYkg0bk1MOFBFZHhkbEZ2UDlybmkzck1hRF85bUtNRWI2V0ZDV1lUVEQ0NEwtUnhEZERBbGFHMEZ1X1ltamllMW5FMldvMHlQN0Z2V2dqSWVGN01yd01BM29pYnVBMS1VQVo5Zld4VU1IdzZmcjhsMHRNWTNFQTdUS1ZhMHVEYkxRc1pzdjA4R3U0RUZUWVdIZkFGYU55bTVVYjBEaUs2d203N2ZmeXFVdUVHWGxLdw?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 09:27:31 GMT",
+          "title": "Most Americans believe Trump has inappropriately profited since returning to power, Reuters/Ipsos poll finds - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOU1h6LUQwS0tnLUt3MTFHQjVaSHRvTExtWkRCZ3VTSzBEZnJId0lGeGlOUHJicklYQVk1N2k0V2dkZWppV3A3bC15RlpZZmRNUWJtQzBmT2V3U01rU2pGRlZPQl9STkZBZFlmN3otOWJWWV9NaW1PYURRWWh4ZjZISExOaVhudHlCOG95Y2NhMmtHT1VVYUlhclpCcmpKUklXY2FMWUdDYVBid1lVcUJnVXdRWXdLb3dTdGhESktR?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 10:16:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "SK Hynix plans $28.6 billion buyback after share price declines - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUlJGSW1ENWNua28tWENjMFMtWjJmTGl6eUFuNFZkbHlvdU9SbWJONF9SeFNLdjRXXy0tVzVPN2VMLV9yUjg0UUZlNm5QNDRYT1FlZ25JVmlJNXRrRE5XVU95ZXB2VTlWMFNCLS1PLXZ4bS0zZ3YtN29OM0sxcHlPb3pwN083b0NfN1I0T1M1V3c0dDFYOW54TGV3WjFqbWJySTRMQUxiZ0hheVVNV21LaURVaw?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 10:12:57 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Second suspect in Nord Stream case arrested in Croatia, say German prosecutors - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLWlWVTh4SHQtVndlUE9yV0hKLXVlUEZYeUVLN2gwcHY1dDlYTlRuWVRETFlSU1VWNEFKVFktT3BXWThnTDVVU2pIc0lEZkMwVmFyOHA2X25vczlySUpCZE1BNFlvZGJNaE5xSHlqcnpnOTAzempYVERnN3dUWUNfSC14eHRKWGVuaXFkaUh5SElINkE4VDhCQUI4Xzh1bDE3VzBIallsY25meG1SNDktYWl2WQ?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 09:59:56 GMT",
           "source": "Reuters"
         },
         {
           "title": "China robot makers flock to Beijing show, seek path to mass adoption - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSmdkcXpfS1k2UmVHdmxLOFQ2UWF1LXROM2d3Zk0wbVUtSC1YbkxaNEZHNl9adVEwakVNN1Z1dVotcVc2YjZhOHh3cDBJZllMX1FPTTd4d1FLbTRSQjNOdzViZHNaQ200Tmt1UUo4bjZYYWVaTFlxaTZTcHRjNzRQX1JnMVBiVmQ3YUQyQzJaZk82aGFMUzczNDdYQTg0OGdxcFNMSnd4SnB6MVlfWXZYQkJnN0tBZlU?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 09:19:47 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Kyrgios provisionally suspended after testing positive for cocaine - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQY3Z5QmRMZ0Iwa2Y0SmhJVFl2OXRaSm9KdnB5Zl9veERjTVhGQlhaRjJmYVJuUEZuQ09lempsWWx3QWNKLVlvUGFGdFVjbC1BOGs1ZDNuOEtrYWV2Zl93Wk16TDZsUmdxZHdyRWZQNG43c1B2c1M1bWhIWU9zNHJXQk0wbmpvRVFmbElFNWZteGlkblA1T2VoaFVySDM5U0JVMG01RVhpYlU1WVZTVEtfdVU0U1FJVFpMUU1qMy1waUpuaXB1N2xfZg?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 09:09:22 GMT",
+          "pubDate": "Wed, 19 Aug 2026 09:23:32 GMT",
           "source": "Reuters"
         },
         {
@@ -198,28 +216,10 @@
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOGlaUVVZelJvTVNtWmgya1JlbUhEMUR5M3lTaUVUQU9kY1NLVC0wSVI0OHozSVEycUwtSGRGYzFncHVnaTBDUlZ4dUNBVDR0MUZGMXNTYktSWWxzYWRWeEF1QjAwM0NhQjQtN3ptUXVVMVo2WXdvREFyVWFKdXhkM2tfVGVYN1NVMGpFcVRwdkFicDlfXzNvYWtqLWY?oc=5",
           "pubDate": "Wed, 19 Aug 2026 08:39:13 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Turkey slams Israel's 'untenable' claims after strikes on Syrian base - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeTdCNlA1LTNVZ0ttZ2VXTGJLVnR5YjBnUnZMNFVWVzc5cUJEcHdxekdHLXBzcDNLUnp1TUx4N3J6SzJQQ0pOTEtSRFVWOTJpZC1xZEd4QTA1TkpEaG1mOXdTM2pQWU5kV3FqWTM3SlJUZEYyb180ZWxMRHlSZlVveDMtWkNJMTFwMWs0VTB6R1M1aHhNRVAzdXc2V29oOVBBRV8wM2FmWnE4OTNJVWpWU3E0Z0VBcnQ4?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 08:37:09 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Samsung hikes chipmaking prices by up to 15% on demand spike, sources say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYThpWUk1aGlwTFpYY0tRMVg4dFU4LXNzSnZWdVctWVp0LVFWQzAtZGtPMmh1Z2dMSHpFelF4UmFnMFoyckVNeTV3OHE1MVI5UGhFeWZINTF3eVZzV3RIUHYtVWVFc0R1ckhsel9JeVB1Mko5a01sdjNJWVlUdDBNc1c3U2JpMUZVZDFNNTRvdUJjRE5OQk1EdmR1MTBFNGp3RHZlT3JmMk5EVm1tR1JlVzV3VGgwdHFiZm1ibE43aWVYY3k4cUdUQ3lGRQ?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 08:35:45 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "China urges respect for digital sovereignty in AI race - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbFdOX2tzNWZNVU43emQ3NDVXclE3a2h4UlpvVHNSUkpLd1RRWTlsNU9LRjMtYXl5VjVhVEctUHRsSnZYQm92eW9SSFR5SFVFZFFuNnpXVzFITEZDbjk5MS0tVzJVam9JS1RPazZFdWZrcVlUcXdXT1hBRTRLMExwR0RkdWlMYklnZ0JMbXpleTBaQ3dDMTRxTklkQQ?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 07:50:15 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T10:34:04.990Z"
+      "updatedAt": "2026-08-19T11:30:12.038Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T10:34:05.272Z"
+      "updatedAt": "2026-08-19T11:30:12.213Z"
     }
   ]
 }
