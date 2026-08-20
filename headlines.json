@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T21:33:05.292Z",
+  "generatedAt": "2026-08-20T22:32:47.119Z",
   "sources": [
     {
       "name": "BBC News",
@@ -54,7 +54,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T21:33:04.157Z"
+      "updatedAt": "2026-08-20T22:32:45.819Z"
     },
     {
       "name": "NPR",
@@ -72,7 +72,7 @@
           "source": "NPR"
         },
         {
-          "title": "Three things to know about the $40 trillion federal debt",
+          "title": "3 things to know about the $40 trillion federal debt",
           "link": "https://www.npr.org/2026/08/20/nx-s1-5939473/40-trillion-federal-debt",
           "pubDate": "Thu, 20 Aug 2026 12:50:41 -0400",
           "source": "NPR"
@@ -109,11 +109,29 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T21:33:04.255Z"
+      "updatedAt": "2026-08-20T22:32:45.926Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Nebraska’s largest school district asks police to stop using electric shock gloves on students - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQW1KMjh0RENPaGcyUU8xUHlRa2s5cVYyV0pUVmFGeG15M3hYbG9MbzIySDRWSS1zNFZEbEpOY2toOXQ1VVNSeHpfUUpuV1BoWDJqSjUwOHBKMVBnWjZoWDdmNVRuTlUtVzQtOVZoYlRoNnZTbjJTdXN2Ti0wRUJjUDkxYmpKUm5GZS1wZ2o2Z0dKUnQ0Mk5XNGY4b21oM2tTbTBZ?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 22:11:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Michael Cohen, Trump's former fixer-turned-enemy, is hosting the president on his radio show - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZm1fR2tDZHdfcG1sU2ZLaTBGODJIeUdYVVc1WEIyV0l4QS1EZ1RPVXdCeS01M1RKVGd1SFJrMGxWVEJIMXdNeGx3OGpuMkJkeWtzY2hWREhLNjN4M3R5NGFyYUxtZ0pjd0V3bnlMeldtVlFxcVFMbUVoVG1WWVRYVnZVcW50RDVycDhxUklyOENianV5cHZnNVQ1ZUJaX2Rka2l2ZTJKdTV1RXNXNUgwTjAwemRPdTRFWVE?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 21:47:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "A magnitude 6.7 earthquake shakes Peru’s southern Andes, injuring at least 2 and damaging homes - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPU0s3OExOX3RaT0QwSGZwQWhEdUZ4am95Y19SVzZDN1lUQ2cwU1dHVGdBNlM2dWt2a1pZcnBEeTVqaGduNWRDc3IxVGJZZ0hxVERYcVZMV2R1aGc2Wk1xVUI3dTFDS1pla210OERtaTFQSTU1Z3BJWGJ2MXJlLU5BOF9UNG1sWi1SUVpqT2k5ZWRaRzhHb3c?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 21:03:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Iran dismisses US economic threats, and other developments in the Middle East - AP News",
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZUo2YS1oV3h0ZEw3eTYxSExqYk1RUnpscEFodEZRaXNWeTRXd25BbGxXYlJlVFA3bzdMdVFiQmFzb0dhWnFyRFVjWlo5Rm9mVmhwY3lvUVZ0YmZTMmlkdnd1VUV3UUIwMERCSWNMWkFsVnotdTVOS0tpSHU5QkphbWs0R2VEMDY0T1Nv?oc=5",
@@ -133,9 +151,9 @@
           "source": "AP News"
         },
         {
-          "title": "A magnitude 6.7 earthquake has shaken Peru’s southern Andes, no immediate damages reported - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPU0s3OExOX3RaT0QwSGZwQWhEdUZ4am95Y19SVzZDN1lUQ2cwU1dHVGdBNlM2dWt2a1pZcnBEeTVqaGduNWRDc3IxVGJZZ0hxVERYcVZMV2R1aGc2Wk1xVUI3dTFDS1pla210OERtaTFQSTU1Z3BJWGJ2MXJlLU5BOF9UNG1sWi1SUVpqT2k5ZWRaRzhHb3c?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 18:50:00 GMT",
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 18:47:26 GMT",
           "source": "AP News"
         },
         {
@@ -143,32 +161,44 @@
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNU0ZaR0FPdTIwcWpTRElWLTNTNTdqZEpYY3RPVnlQR21Cb2lZV056TkpGR0ctbUdzMnFwS0VydHdkdWZhSmhObElQY0dNcUN0SmpyRTBZX2U2U2dCUjF3NjRMNWI3TWtFWVJiWXNqbFFsWkNlRklBbzA3N3Iyb2gyUWUyUXl2U0VXeFVWeWd3WTlBTjZ1amJrQjlyX2xYR3c?oc=5",
           "pubDate": "Thu, 20 Aug 2026 18:43:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Michael Cohen, Trump's former fixer-turned-enemy, is hosting the president on his radio show - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZm1fR2tDZHdfcG1sU2ZLaTBGODJIeUdYVVc1WEIyV0l4QS1EZ1RPVXdCeS01M1RKVGd1SFJrMGxWVEJIMXdNeGx3OGpuMkJkeWtzY2hWREhLNjN4M3R5NGFyYUxtZ0pjd0V3bnlMeldtVlFxcVFMbUVoVG1WWVRYVnZVcW50RDVycDhxUklyOENianV5cHZnNVQ1ZUJaX2Rka2l2ZTJKdTV1RXNXNUgwTjAwemRPdTRFWVE?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 18:14:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "US carries out its first deportations under pact for Liberia to accept 1,200 non-Liberians - AP News",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeEdpVDBxTDdneUNHSEZCNlQyeDRRVnZLeHdBdkJNbDVtcWdxVFBaRDdaQTFES0dOSzhoUEd4Q1ptcnpIY19jUlNiZ3VhYVZlTUNocllINUlFM2I2UFVXYXRRWXB5VFdQSV9ndTRYVkRjdW10ZF9rak1LUUVnUkZWeVdGYTRKSUk?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 18:06:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Vietnam police charge man with rape after American woman alleges attack - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaTVtU1U1MkJzd1NXVXhHV01CeV8yTGtpYk8xQU94ZnlJQWRvWjNLX0picGZLLTJFd2RReDlLaDNDa3BWUmc3blRiYXZQaFUyTS0tUW5HcXBUMFVTSl9vZmFjVjdhZ0FQUm9LQkxXRXFaMnJZaTZoQXdha3ZUQUJtdTQ0RFlySk9H?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 17:41:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T21:33:04.713Z"
+      "updatedAt": "2026-08-20T22:32:46.483Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Canada says trade deal with US is 'very close,' more work needed - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcV90dGRFNXlmUWhKTk1uZExFRzhzNGF5VGNqcXJkcXFNNS1BUFlxeEhsbk02X1hYcVZnSUNDbjVSblNpTVpZaWZmbUV2Q3NXLWY0TXJNUDVRa0xYTmRwY0MwZlJHdVVhWUhOM0JYbUxoQVBhcnRlbjhveHFnd1R5S0U2ZEx2dGFWQWF4S3JReHFsckJPcmdmMkxCV21aeUJkTWFBLXJjQQ?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 21:36:38 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US imposes more sanctions on Cuba, including mining sector - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUTBXOUxEdGNvYndTMlBGZHRFQk1wNU8tZk5DV29LdHNJMVlEcU5LcHNxTHJKTlMzWFJNZ0ZWelJ2Vl9GaXl4cklaVDcwd2dld2YyeDRicXVxQWhIcWpSTEY4emRvc3JEd3FrUmRnUU80UFdLdDNRN0IxYW5wVkV5NDBlc0VNanFV?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 21:29:05 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US envoy Huckabee tells Israeli settlers not to take Palestinian Americans' land - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNk15eGo2WTQ2MFVpa1ViTEt2aFhNMUd5OU0ybFNGanlqbFhPVzhOTlhOTU94MXM5MTc5M2lVRk1yYmhYYzMxR3NiZGdaS1NVWTlXTTFEaWZVRFF6TUozRUdTTnl4WUxxVGhjelJ0QTVIc0pRQnlPSUlncGRROWs4d3J1a0hCdmNTeHdwRWNNS0ZoYzJLeUQ0OW1vLWhEclZtVS1sYTl0bEoyaWN5a2tDQ2xGWnk2dGpPV3ZTSGU0UXZRSW9uNm5hd05n?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 21:22:25 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Woman charged with planning ISIS-inspired attack on New York State Capitol building - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNzJPam00WV9rdjA3LTc2VnlCRERNajFpSWpaLS03b0xFSUNvTGJtOFFtMExtM3BKMHk1Q0N2RVRSUXY2ekpQR1loZDgtOTBxWUk4N0gtZzdGSjV3eGhXeXY5WEJYWUhnMHJLYW42THRaN09UTUxPLTRDQ0ZMcjJkS3p0dW4xRE9EdWFzcEtTaVNnWGpEUkpqUWU0eUNxUkw5UU5yUUd3OHktZnExd1RZRlR0bzhjcmdtOTJMdzBsZFRucm8?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 21:20:48 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "EXCLUSIVE: How a Texas student blew the whistle on a rogue AI hacking attempt - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRG1ONC11bUpzNWFwMGdRbVVUM0ZHb0l0VHJfU0dsYi1KdmxTZVRnRllWaDE2MkZtSFExX0U5MGtGRFpkOGFYZmY1OHJtMEV4UG9MVUlfc3hUQ2dMTlJOZ2d0R3cwZjB4OFkxbW1rNHhaNEt0alp6RGdGVTRJb201WWloTTR3Y2hKVVdzN0paZXFEUmVmQl9VeHFqZ1dyQQ?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 21:09:55 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "US deports more than 2,000 Mexicans to Guatemala despite Mexico's objections - Reuters",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeU5BV1ZnQ2F4RVNVX1A1cmlhVGVZbmNPNENHS2NxSGc4WGZzMzBTcmh1TWxzelh5MUhWS2htR0kyQjVQTHhwR0lUQWQ5ZzBwZWhyUHlLc0tfeTRibTFtY241RG5KWlY4WW9TSVVsVHRpZ1BrRlVCbGp1TlhSZE1GX0dpR0pXN19WdW9LVjJ5bkZXVkh4Z0Y5YTdKWFhEU3pIMmZhTHpmMA?oc=5",
@@ -176,9 +206,9 @@
           "source": "Reuters"
         },
         {
-          "title": "US imposes more sanctions on Cuba, including mining sector - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUTBXOUxEdGNvYndTMlBGZHRFQk1wNU8tZk5DV29LdHNJMVlEcU5LcHNxTHJKTlMzWFJNZ0ZWelJ2Vl9GaXl4cklaVDcwd2dld2YyeDRicXVxQWhIcWpSTEY4emRvc3JEd3FrUmRnUU80UFdLdDNRN0IxYW5wVkV5NDBlc0VNanFV?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 20:59:19 GMT",
+          "title": "US Treasury buyback strategy falls short as debt worries persist - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUzFwdENyWXEzYkFodVhwWFR5eGRlTnAwT0xXQy1OVDExRi1lVWoxMnE3NE9NZjlMS1Z6Z3ZZT0sxdnpNT01SVTVnWkVnV2ZlSkZlMWxBQXRZY2dXVWFVbGJJVDlPZFZuZ1A2VnJGRFd6bkF5cjZCYlVST0pCcmQ3UUQ0WHo1Q2NBLVF1SU9Wb0FNY2RuSmZrRDdXTFR0enVhM19xTEhmTHY3ZkdZNWc?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 20:58:43 GMT",
           "source": "Reuters"
         },
         {
@@ -186,40 +216,10 @@
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWHpDQjhTTjdrTGVtLWhZMUJIdWtybnk5SjJ0bWxfMjZ3VmhYXzE3UGljRlZiMmI3V0FNN09Pb1NYWlhCWTVmMlFsdjZTRDFLUFh4WV9Yb0ZGMTJWYTc0eWVWVEZiVC1oVmdXNTBNdGtGdGZoWHN3MzRndDR2YlY2bzFuWTlJeHBXdGJzZHZzMmFiVzYxWUtsZDFlN0F6OWJPTktkS0RaTmtjY0I4WU9wQ3Y4X1VsZzQ?oc=5",
           "pubDate": "Thu, 20 Aug 2026 20:57:11 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Wall Street sinks as bond yields rise, Walmart results disappoint - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTmlyUENlX1M1NzRGQmNObkJzQ0dIMDNtcm9oU3VVLWMzTTdfNEp6M2Z0ZDF5U1lpUThkRnRTWGlRaC1tNl8wdDJaWnBRSmhKRE5ob1BDczVOVGg4a3N4eXNjMDM4eHpOMnpSbVNsZGJrX3dxOHk2Sktyc2hTQ1RJWjRTVFJuTkRzc2RlNVZXX29md3NsbzRYbUFjTm9Jc0cyMlRLRGxIcEphY19McEpERmdNbnl6LXlULVE?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 20:51:43 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Oil settles up more than 2% after Trump threatens countries supporting Iran - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM1ZTcG5JRHQxeFFrOEd6Q0s4eWdFZGZwRmUyaFlPQkEwWEFLZ2xtLUJxMDFGRzZEZ1VEMjA5MjlMazgtZkJRM01FRXJ3Yk5wZUJSRW8yUEc5THM4VEZBd3V0LVhiRHBBWExnTElPMTRCX3d1ODhKR2lDdHVDVktTZS1BTUtuLXN2ZGRwUmpnNzhEdDJBZnp3cHExVndUYWlrenVEOXI0dVppdw?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 20:19:12 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Nvidia denies report it is rolling out China AI chip by year-end - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMldWMkxfMnFZbHg4YnI0RTdoZGtfMXJIT1hTdHg4aGUyMWhvazNtdWVoLW4wMDR0cXkybXhEMHdqanBCZ0Nmb21xVVVua2lYOTQ4elZsUFlMbTBVYkpwRDBaVWs5Y0xRTUc1U3BSVng1WlpteXhqS0NhdWZ4cmthTlpFYTJJX2hrdGc0Y1VZUTJ5aXNzQWlvb19nei05RHJIYlhEZXRSYko?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 20:16:35 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Academic who raised plagiarism allegations against Jason Arday suspended by his university - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORW9YRm9DdzFFWG5fVWMtUWZsXzlfUkNPanUxRWtReHRWaWF1NmpGWjVhWkdxYlhZMW1IYjlkcXhqRzdOekdFaVRNQnpxM21lR2VMc0pPcnhWUDVwSUZfOFZySnNtNGE1a1dpWFhFNUFWTElJOVZYd2RlUG53Ui1MbGpEbDlSZC0yVEpxXzZSRjRpOVZzUWlSNDFtSzZLN1paQ2p6UzdxdHNlbnJsakVBXy1PanpsN01yQV95Ukd3?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 20:05:16 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Green giant: How Taylor Farms became a top salad supplier before US diarrhea outbreak - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRkVURC1FUE5PWDh1RVhyZE5vZTYwT2YyenB5aDlickNRVTBrUmhLQzJIRVhJZEZ2ajlVeW1aT1pSM1h2MHNEZHFyX3JENDBwUHBTOVpENU5Ud3MtcmtSMUlGc19pSVBKWXpHUk5SclR0WUFwb3VUYVhzbHBZeXRtS0pFMDRGdlk0TXU2S1pDdnRlYndPbDUwYTZWVTlqVUMyaFVLWXdqOVZIR19Zc2ZObWExejY0bTlGRno2SmxoZjNSSE1rOTFsVnJRU3owbkRZaVdxT3JWVkJFLTZQTlE?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 19:48:52 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T21:33:05.120Z"
+      "updatedAt": "2026-08-20T22:32:46.938Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T21:33:05.292Z"
+      "updatedAt": "2026-08-20T22:32:47.119Z"
     }
   ]
 }
