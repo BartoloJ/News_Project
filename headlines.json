@@ -1,13 +1,25 @@
 {
-  "generatedAt": "2026-08-20T10:36:22.030Z",
+  "generatedAt": "2026-08-20T11:32:01.562Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "At least 13 killed in Kyiv as Ukraine grapples with air defence shortages",
+          "title": "Former Liberian vice-president charged in drug-trafficking probe",
+          "link": "https://www.bbc.co.uk/news/articles/clyx028ryy6o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 20 Aug 2026 11:08:19 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
           "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 20 Aug 2026 10:34:33 GMT",
+          "pubDate": "Thu, 20 Aug 2026 11:06:54 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
+          "link": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 20 Aug 2026 10:41:25 GMT",
           "source": "BBC News"
         },
         {
@@ -20,12 +32,6 @@
           "title": "Israel opens up bids for highly sensitive West Bank settlement project",
           "link": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 20 Aug 2026 10:30:52 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Former Liberian vice-president charged in drug-trafficking probe",
-          "link": "https://www.bbc.co.uk/news/articles/clyx028ryy6o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 20 Aug 2026 10:11:26 GMT",
           "source": "BBC News"
         },
         {
@@ -45,20 +51,20 @@
           "link": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 20 Aug 2026 07:33:11 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Canadian marathon route was 674m too long",
-          "link": "https://www.bbc.co.uk/sport/athletics/articles/cvgw9wlky9zo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 20 Aug 2026 07:15:48 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T10:36:20.581Z"
+      "updatedAt": "2026-08-20T11:31:59.989Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "U.S. debt tops $40 trillion. And, new census report Trump is touting raises concerns",
+          "link": "https://www.npr.org/2026/08/20/g-s1-139388/up-first-newsletter-us-debt-venezuela-oil-deals-census-bureau-trump-voting-claims",
+          "pubDate": "Thu, 20 Aug 2026 07:30:18 -0400",
+          "source": "NPR"
+        },
         {
           "title": "North Korea fires a suspected missile toward the sea, Japan says",
           "link": "https://www.npr.org/2026/08/20/g-s1-139381/north-korea-suspected-missile",
@@ -100,16 +106,10 @@
           "link": "https://www.npr.org/2026/08/20/nx-s1-5931261/morning-news-brief",
           "pubDate": "Thu, 20 Aug 2026 04:52:29 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Chinese court sentences founder of property developer Evergrande to life in prison",
-          "link": "https://www.npr.org/2026/08/20/nx-s1-5939335/chinese-sentence-founder-evergrande",
-          "pubDate": "Thu, 20 Aug 2026 03:31:55 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T10:36:20.951Z"
+      "updatedAt": "2026-08-20T11:32:00.389Z"
     },
     {
       "name": "AP News",
@@ -117,7 +117,13 @@
         {
           "title": "Chinese court sentences founder of troubled property developer Evergrande to life in prison - AP News",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdmpPc0tFMWFFbVdNcHBFUnNjM2h4QjhCVkFNcXU5Tk5YcXNmZWIzNUhEOGRhRlpfZFFwZGN6SW4wUjQ2T1hhbHdzUmltRFNTYURYd3NncEF6R3gyQ3hhQWxLSFFqU3dRX3FQeWMtbTQ5eGNZekZldjlVVlNLeWpFV2FjRUVIazYwQmdGVjI5eXI0dHY3NVljWjhtLWtCYVZwZ2JYSA?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 09:02:00 GMT",
+          "pubDate": "Thu, 20 Aug 2026 10:41:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Bodies of 2 hikers missing for decades in Swiss Alps turn up as glacier melts - AP News",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVU9sY0dUMEEtbDNmYllUTWhzS0ZPV3ZfZ3JLZTBGRkdRQXZWa3RJem4zQ2Rua1pqOGQydE14WmoyWk5aMS1NSkZUVk83ckFIdzlTRGpzbGYtTUNtYlFBM1lyTWFzeXFPWFlSYmNQTUlTNFFwdVZ3SmZQOFFHc2RQdUxJeFlhUndMZS1lMGpqQ0xLMEhlc1NuZzhmTl9SWWZ1ODBMRFpVd0E2TVBwSjdfdmhhUENMWndOcEJmTEd3?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 09:12:00 GMT",
           "source": "AP News"
         },
         {
@@ -155,24 +161,48 @@
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZVFLTG9abjhDOTUtZlhjVEdRSHp5b1g5Z0twZXVjZ2VSeV9ZYXdRTVVHZUxTUXdKS3lnSUZ0ZTdNMDRBTXVYdkNXSUpRcE9LYjZvSzdHX0w2R3ZFcnNsbTNBcGxJRFJRal9IMkpoSm1WME9GSmp0ZV9feXZHNUlTdzlrUmRoMFNYUjl3ZHpxS29DTWEtVlIwUEJPN0NldmRCQWpJRTB2TWt3Zw?oc=5",
           "pubDate": "Thu, 20 Aug 2026 01:37:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "North Korea shrugs off Trump's scaled-back drills with South Korea, saying it changes nothing - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaUx1WkNNOFA1UXFocXB1OXFnbFc4dFJNMXdjTkExUmt4MFEtb1dta003UmoyX3VtUExaVlZ5cWJmb0tDS0U0Ym9LNE5EQ1Z4Q2tKaGNJUEh2X2toZ0ZKbGNFc0ZEbnQ2SXo0eGVhRE9lZHJZWlI5cU5uQUFSbHdJOXVEZUh1QlRhWjBmZQ?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 01:31:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T10:36:21.390Z"
+      "updatedAt": "2026-08-20T11:32:00.849Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "China boosts imports of Russian crude, stymieing India's refiners - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZU9oV2RaZ2RZNW5hZlFqbXFNNmd5RnJkM21hWmo0WVhJX1paTlBWaE50SHhMazFzdHJuVVF2QlpzT1lRZG1VUEdERkdsSXcxTjFmQjd5RXlJeDM1eVR1NHZnd0xlRWJFXzlsbS0tdmpJMlVzeFNrLUk1R25abzR3cUxDYXRCUW1lekg0LU9lWmNzdWFyekI1SFJOdmxJSWVaRS0zT3Z5QzRVNkt3VndialQySlRtbTVKTTdJb3g1T0h2ZXFabXNLMQ?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 10:45:34 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Australia passes law to levy tech giants that fail to pay for local news - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRlBmQnM0aFNIQVdZT0R1RXFORkNQNnI1bUlYNlQtMWYyekp6QUJ2cmpCdTZoeE93LXRrdGhjNm5vbTlWd2JmREtJcFRfOFBNVGtJeHd5b0hqZ2pZY2VXTGZnQjN3MWRVVVNKVnNSellqdXRhbEFXZDU4NHlDZ1hobENyVVpwZWNSakY1M000T29YNGFIUTRxMGZGUkNGZ29vSi1RNXF4SnUwMkFDVXNFdG1FOC1iUQ?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 10:40:10 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "North Korea launches 10 ballistic missiles as US-South Korea drills near end - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRXZKc3RxRGFCN0NYZVJKTFN1eFZCakt6WFN5alRHRjBpalMwdmlYeWhsYUhvWEJfbC1kZ1FHS1JlbGxYSG9jUHRDUVdlR3pJSE93eXlnN2NSMXlGX19XZFlVaVNxRE5xMzlZS1VwMkwzSXpCMjZ4ZDVRcWRCR21UN19yQ1ZhTkYzeUVwREl0MTRxZ20xb0kzNTNrNmtYMXc0YUFpdEtxckJVRVZTWHl3d3V2R0dFSlNsTHc?oc=5",
           "pubDate": "Thu, 20 Aug 2026 10:03:16 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Alibaba reports 9% rise in quarterly revenue - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxON2tiUnl3QjZwYUtIMS10blVfb0hldWgzc21OVk40S3lIV0g1LTdiakVxYkt5Wk9BTUdOQ3FwTEpVV1JwRi05aGRVR1B0c1Bya29xMGpxdEZiR255eEdDdUZURlJtbXJ6QUpiQktIT0hGSEF4ZkV3Ry0zNlV2aXhUYzFZVVJWMllsQ3FFZ1FiMGk0bUNlTHhHcnBNMlMyUmJTYTdSTg?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 09:43:51 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "EXCLUSIVE: US designates American held by China as wrongfully detained - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSDZ3UFNpc0w1UlZCenptNzdSNFYtdk5KOVc2MlNFQ1NvdVlRR19Kem9HUTBFTm9ZS2RtM211Z1NsMVZBTkRUeEQwaGRqZUotMGEtWW52LUtDMUI3SURnXzduRUJjblVQOVJEVU9ob0toUHlaNUdpbGxQc2ZkRXZMRExDVFNVbEpwUEZGbnpjanp2N2c2N2xWSlJOdXY0czFEMW1QMGFCTQ?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 09:21:16 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "China urges South Korea not to take sides, blames US policy for Korea tensions - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSFJ3Y2lDMVg4NU1rV1ZJNU9FRHNQc3JLekgxQ0tOSUdDRHo3SVlMbmtjQWROSFZ2YUgzaVFKVlhKSTRLNV9wTnJpTGNjWWIyQ19ULVRVeGtzNXlXLVNhSDVfZGc1SktCdDhOZ0M1a1dQdFhPQmdiRHNrSWVDSGhzOUp1aGNWUFVvSkIzZWJ6Q0dnVVJmekFLY29hTW5MTEdTTmxRdk5sZVpRNER1TFhhN0pxWE5KWVZ4TXYxWjI5T3NVMzQ?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 09:16:00 GMT",
           "source": "Reuters"
         },
         {
@@ -182,44 +212,14 @@
           "source": "Reuters"
         },
         {
-          "title": "Dollar falls to three-month low as Treasury moves to soothe bond jitters - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPamFxZlBhRm1DcmRBZF9VSDd4aXllSmNTWEttZ2dLUkprSnJ5c2xBNXRKT1lQTDdrbXlUUjBnTXdWdVRrWENPYkRkal9pbm9UVDNueFd0am56Z3JCakxsZ2ZHclBRMHpyUUMzeVJHV1FPcVp1dXBYNUtMNk81Z3k1QkRmV1RnRHdPVjhDU3hNYS1xaWxYOU4wMUQwWk5nTDJPWG9kblZIQV9xOG11QTJR?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 08:38:04 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "German spy agency opens helpline for those exiled from Russia, China - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPS0ZpY0hRRGNUbXJaUERQNlAtUWFHU3hCWi16UlRkUFg5TGVkUWtYeHFiQl80M1loeVd6OF9ORHRmQ000dlpYdWlZdERFR0V5Wm5mOGxfOXlvMnQtUFY0WFB6LWYwMXRaT0JmVmVCcC13Z0JiTUJHb01mU2phQ3QwQ1BmSm91QzB3Ul9yZWNySWN4SFNXZm9IX0hfTGlfNDBnbzlxNnVHTW1ydw?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 08:25:43 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Australia passes law to levy tech giants that fail to pay for local news - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRlBmQnM0aFNIQVdZT0R1RXFORkNQNnI1bUlYNlQtMWYyekp6QUJ2cmpCdTZoeE93LXRrdGhjNm5vbTlWd2JmREtJcFRfOFBNVGtJeHd5b0hqZ2pZY2VXTGZnQjN3MWRVVVNKVnNSellqdXRhbEFXZDU4NHlDZ1hobENyVVpwZWNSakY1M000T29YNGFIUTRxMGZGUkNGZ29vSi1RNXF4SnUwMkFDVXNFdG1FOC1iUQ?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 08:01:43 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "How a low-budget fever dream sparked a Chinese box office revolt - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUlNjZ2t4d1B2NERYV2tDaURFTnFrbW5BOFh0QklNSjVtV0hDYUxyRzU3V1hxNmJ4WUdOdjVEUTdYRkNOalB1bWRNTjJUTlUyZlp3VjQ3YTVadXZxUlhIVWxnR19OMHlrX0s1Z29WTUZDVmpEOHJtZWZzd1EtNUJ6ZkszajBHU3JvQ1RLYlBmcUtORnl4eHBOaFBINFJnUUtfNGJyY0VySEwzNHBqOXo0endaYVM3dw?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 07:14:07 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Global wheat buyers brace for supply squeeze amid Black Sea attacks - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQkdmTDJWOFZEQ1FJdDFIZzRXNlAwRjdSS2NEMHRQYlYtWGs0elgyckI1aGJDN21VdDJwSGtrcWFDOTZSbE96LXh4WUdSX2tVb3huZW1wRFlaSTFFWVJ5QlJNS1VnQ3BwU1pyY0xKRmlSMGtBZ1hwYm5oWW5EZXk4TVRmbXdTMVVrYkxYazRMVkU2VVRFeUpSeFZMbmV6R3g5Vk1SWTZ2RTNLamRDV0x3UjVuclRfT1B0cUE?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 06:28:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Russian-held Zaporizhzhia nuclear plant loses external power supply - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaWlKV0RUU0lqVEhJdVJ2NmJXeXNIQlFuMDQ2eGstbW4wWFEwcHdfdE1landiUHpHVTM1c0dWVkpMLWc4Q0ZVWXBUWFBIaFotM1pvczFvakhyS2d4a1dBNVFEZDZwRzBpSWZhb0tmdDBjVG5OcXh2MDJCZWxnOWZ4dm5QV3FBaXU1UzU2SXRlSEhYUFNPQThibmxjSjgtZS0xU29UUjBvUUpjbjM4bGRFbHEzMFlBR3hCM1FZ?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 06:26:00 GMT",
+          "title": "Prince Harry and Meghan to move back to Britain - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPal9aT3dZNWdGaUFhcFY4bXBJTmFROGQtTWREY0dycUZSaGxybWswbUtENzFjc01aUTBmcG5WMThITjA3WVRtenRzdGpqVXNYZ2ZVUTY1NUFGcEVmajIzUVdyV2FKaGtFWEItUU5vb0d2U3cyRWlMbkREQU1JUnRneTczMWJBa0hGYlE?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 08:55:41 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T10:36:21.778Z"
+      "updatedAt": "2026-08-20T11:32:01.313Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T10:36:22.030Z"
+      "updatedAt": "2026-08-20T11:32:01.561Z"
     }
   ]
 }
