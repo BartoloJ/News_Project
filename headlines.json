@@ -1,9 +1,15 @@
 {
-  "generatedAt": "2026-08-20T17:35:15.946Z",
+  "generatedAt": "2026-08-20T18:48:19.176Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Bessent urges US partners to back plans to 'squash' Iran economy",
+          "link": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 20 Aug 2026 18:40:46 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
           "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
@@ -45,16 +51,10 @@
           "link": "https://www.bbc.co.uk/news/articles/clyx028ryy6o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 20 Aug 2026 11:08:19 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Four workers dead after being hit by train in Japan",
-          "link": "https://www.bbc.co.uk/news/articles/c5yrnz24j22o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 20 Aug 2026 10:32:31 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T17:35:14.532Z"
+      "updatedAt": "2026-08-20T18:48:17.861Z"
     },
     {
       "name": "NPR",
@@ -90,14 +90,14 @@
           "source": "NPR"
         },
         {
-          "title": "They grew up with disability rights. Now, they're fighting to keep them",
-          "link": "https://www.npr.org/2026/08/20/nx-s1-5891791/disability-rights-community-living-integration-trump",
+          "title": "Which country makes the best jollof rice? D.C. foodies put it to a blind test",
+          "link": "https://www.npr.org/2026/08/20/nx-s1-5936436/which-country-makes-the-best-jollof-rice-d-c-foodies-put-it-to-a-blind-test",
           "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
           "source": "NPR"
         },
         {
-          "title": "The system meant to protect ICE detainees has collapsed",
-          "link": "https://www.npr.org/2026/08/20/nx-s1-5850361/grievance-ice-detention-immigrants",
+          "title": "They grew up with disability rights. Now, they're fighting to keep them",
+          "link": "https://www.npr.org/2026/08/20/nx-s1-5891791/disability-rights-community-living-integration-trump",
           "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
           "source": "NPR"
         },
@@ -109,27 +109,33 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T17:35:14.689Z"
+      "updatedAt": "2026-08-20T18:48:18.110Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "A Russian missile and drone barrage kills at least 16 in Ukraine’s Kyiv region - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWEM2OWViY2VqbDVyZFBIWHk5T05RYzVwbDEzeUQxZmtlQk9BRzJqVzVwWXZmQ1pwVnZXUkt2eVJLb3RncnpLUTJzT2txYlBVakhMWXpSY3BzR0JwM3dJVmhDZ1JTX3AwQUtuc0VXdmljOHhFeWlzdjlXakYtUmc0ekhOalRSZWZ3VVVYMzg4MUI3bDJa?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 14:47:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Women in pink rally in support of Lindsay Clancy who is on trial for killing 3 children - AP News",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNjZkd2pHUnRMMWp2T1BXZGJZVV9CUjNGeDBIQ01rSTNwSmRhbzQxbXROMjlfV1pPMzdWa0NLMmdMbkNOWks2ZVlVQ3JSM2RBblY4bk9KeHB6ZUZYUk1vUGZ4SXdraWs1SDdLY3ZENXdja2RhVXpYUnJKYkgyZzhzOFFBYXJDSk96UnRRTTJlUklyRlhFZEJIT0hoZFNXZWxyS0VBRGppUUVfV3pCZ0E?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 14:42:00 GMT",
+          "pubDate": "Thu, 20 Aug 2026 18:06:00 GMT",
           "source": "AP News"
         },
         {
           "title": "Prices soar as Gaza smuggling booms. Officials, soldiers and middlemen are accused of cashing in - AP News",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMW9BTmJxYXY5cmY3R0ZXUjVwc2tuSjctNTRuazFKdXU4eHJhZ1pqYldwVGxvMFVKblRyVlFHUWNMbnhBcm5CcG9Gcl8xMzdzLVRRYzluRlVMQUNyUkNHWDlyQk5oa3BYWEtMMG1nX21oaUpTMndyQlFsUlV1eE1rUjdNZWltcW16UGtDWjNGQUtaNm1BXzhYWEo2WFFnZw?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 14:13:00 GMT",
+          "pubDate": "Thu, 20 Aug 2026 17:27:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Pressure builds anew in the bond market as Walmart drags the US stock market lower - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNU0ZaR0FPdTIwcWpTRElWLTNTNTdqZEpYY3RPVnlQR21Cb2lZV056TkpGR0ctbUdzMnFwS0VydHdkdWZhSmhObElQY0dNcUN0SmpyRTBZX2U2U2dCUjF3NjRMNWI3TWtFWVJiWXNqbFFsWkNlRklBbzA3N3Iyb2gyUWUyUXl2U0VXeFVWeWd3WTlBTjZ1amJrQjlyX2xYR3c?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 17:11:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "A Russian missile and drone barrage kills at least 16 in Ukraine’s Kyiv region - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWEM2OWViY2VqbDVyZFBIWHk5T05RYzVwbDEzeUQxZmtlQk9BRzJqVzVwWXZmQ1pwVnZXUkt2eVJLb3RncnpLUTJzT2txYlBVakhMWXpSY3BzR0JwM3dJVmhDZ1JTX3AwQUtuc0VXdmljOHhFeWlzdjlXakYtUmc0ekhOalRSZWZ3VVVYMzg4MUI3bDJa?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 14:47:00 GMT",
           "source": "AP News"
         },
         {
@@ -155,71 +161,65 @@
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hM3hYaFZYRUJhaHc2b0xNOFBYaGVEa0pBX0xNemRJVlpXdDUzcFBwZ1Q1eTdyYWY4N3JuM0dnZ3Q5d0hoWmxKSGtDNXR0NDRFMXUwY2RUYTFpT2poMzUwLS13aEt0OS1x?oc=5",
           "pubDate": "Thu, 20 Aug 2026 10:35:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Vietnam police charge man with rape after American woman alleges attack - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaTVtU1U1MkJzd1NXVXhHV01CeV8yTGtpYk8xQU94ZnlJQWRvWjNLX0picGZLLTJFd2RReDlLaDNDa3BWUmc3blRiYXZQaFUyTS0tUW5HcXBUMFVTSl9vZmFjVjdhZ0FQUm9LQkxXRXFaMnJZaTZoQXdha3ZUQUJtdTQ0RFlySk9H?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 10:07:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T17:35:15.231Z"
+      "updatedAt": "2026-08-20T18:48:18.584Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Frustrated Moscow drivers face long queues to refill as fuel shortages return - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTUR0R3JjNjBnTTdZMkM2Rl90VjdpZ0FTRElFNmJGcFY0Q2hLbkNiMDVpMUFFSnQyd2VMcmVFRm80NjFBMDE1NXZXVUpnYy1xXzd6bHFldy1ORVBKblBybnlWNndvV2FYYnMzV0djNGtoV0RrN1B2NXhta0s5RGRGY0VKOE8tNVNHRDRYTXhQYzQxWXh5WkloNkRjMHdVcjRMU0VLX09KeEJuR2pQRV93ZHJlQTAxYzJlN0lUVFZBS1g?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 17:03:44 GMT",
+          "title": "EXCLUSIVE Soccer-Regional powerhouses weigh no-confidence vote in bid to oust Infantino - sources - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVjJ6TVk2TGJSWlNGU1NiQWNNeDRDaGhRa1ZmNlNQSUxFSEFiZjI2SHViczZveVJ6ZWdta1o4Q0pDcC1VWGd3NFI5WjhvekFNM1VwWkQ5bjlqZ29YRXFYS1A4bGdfMTQzUkdPWGx2SjZERVZ4dkNwcmp4U2N0bmQ5MGE5SUw2WnJkRkV6Sy1GYjBFZWRRcFgtbE40YndqRGVSWDE3RDVGNDh2MDE5emd0TUhzZDdoMGZVeUVtYW14MA?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 18:14:45 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Saudi Aramco sells at least 4 million barrels of crude loading outside Hormuz to China, sources say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbHNxUXpMLWp6eDNUendUcVlMS01NTnk0eVNqN1FlYnBwdlgwMElUTXlfR3paamtTNFhBXzJULXlfUDBkaHFuU3poamlYVHhBMGdEQ3ZiWTdtR2dpQng4aE1CMERFWFVGLXBtSTFLY2VpODJKN3paamJSUDV5U1JYUHZIVGNILWJiZzluejV5Vy12dURhVmRfVjdLVTFETXMyRE9hUG1Da2JUcGhISGM4clB0LV9CbXVfeVBlamhRNTA5cjQ1d1hpWA?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 16:53:58 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Congo set to receive 70,000 Ervebo vaccines to contain Ebola outbreak, WHO says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZnFYQnBMY3ZXWDZiU3RteTZDb3oxUW9wOWljV3ZIeHVFYjJTbFlfUGxaczNjVWZtWlptblZFalFzWnRHdl9ERGxyMWctNm5yUXJfZ2otMW1aN0pIVFhmVExVVE40djloajBsWFhZR1R0NXd0UmFEN2M0aUludW0wN0dPZW9xUWVaamY0ZUU0LXN5X3hFbk1CVC1teExsb2RscWRYUE5CWkdFVEQ1eXZFR09ZTktvcHEzaGNqN3ZGZm92NjYxa3ZsS01XUlB6SzVXVDRHV0puX3FOT0E?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 16:44:10 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Wall St hits two-week lows as rising bond yields, Walmart results drag - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTmlyUENlX1M1NzRGQmNObkJzQ0dIMDNtcm9oU3VVLWMzTTdfNEp6M2Z0ZDF5U1lpUThkRnRTWGlRaC1tNl8wdDJaWnBRSmhKRE5ob1BDczVOVGg4a3N4eXNjMDM4eHpOMnpSbVNsZGJrX3dxOHk2Sktyc2hTQ1RJWjRTVFJuTkRzc2RlNVZXX29md3NsbzRYbUFjTm9Jc0cyMlRLRGxIcEphY19McEpERmdNbnl6LXlULVE?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 16:43:55 GMT",
+          "title": "Walmart sales growth slowdown tests consumer resilience, shares slide 10% - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWHpDQjhTTjdrTGVtLWhZMUJIdWtybnk5SjJ0bWxfMjZ3VmhYXzE3UGljRlZiMmI3V0FNN09Pb1NYWlhCWTVmMlFsdjZTRDFLUFh4WV9Yb0ZGMTJWYTc0eWVWVEZiVC1oVmdXNTBNdGtGdGZoWHN3MzRndDR2YlY2bzFuWTlJeHBXdGJzZHZzMmFiVzYxWUtsZDFlN0F6OWJPTktkS0RaTmtjY0I4WU9wQ3Y4X1VsZzQ?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 17:48:45 GMT",
           "source": "Reuters"
         },
         {
           "title": "China boosts imports of Russian crude, stymieing India's refiners - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZU9oV2RaZ2RZNW5hZlFqbXFNNmd5RnJkM21hWmo0WVhJX1paTlBWaE50SHhMazFzdHJuVVF2QlpzT1lRZG1VUEdERkdsSXcxTjFmQjd5RXlJeDM1eVR1NHZnd0xlRWJFXzlsbS0tdmpJMlVzeFNrLUk1R25abzR3cUxDYXRCUW1lekg0LU9lWmNzdWFyekI1SFJOdmxJSWVaRS0zT3Z5QzRVNkt3VndialQySlRtbTVKTTdJb3g1T0h2ZXFabXNLMQ?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 16:32:49 GMT",
+          "pubDate": "Thu, 20 Aug 2026 17:43:03 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Shein aims to IPO on September 1, sources say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaTZyWFA2WGtNcXh1MlF4NnVtZThXZ3lqQnNIQlVvLUwyTmpNdy1Fb3JVZS1oU0hzRUFVaWoyMXY0LWJmTGF5V3BQdkZxUFBLS09DV1c1enpuWE9kQWF4NFhOS3o2aVdRV3BWOEpZZmhrWEVuTDV3ejNiYU80RmY1UEpOdGJhUGNRZkVtRFJQTkxfa25PZEdkam1aTnBnQi02RkdlZDhqUEpINzZJcjA0?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 16:29:52 GMT",
+          "title": "EXCLUSIVE: How a Texas student blew the whistle on a rogue AI hacking attempt - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRG1ONC11bUpzNWFwMGdRbVVUM0ZHb0l0VHJfU0dsYi1KdmxTZVRnRllWaDE2MkZtSFExX0U5MGtGRFpkOGFYZmY1OHJtMEV4UG9MVUlfc3hUQ2dMTlJOZ2d0R3cwZjB4OFkxbW1rNHhaNEt0alp6RGdGVTRJb201WWloTTR3Y2hKVVdzN0paZXFEUmVmQl9VeHFqZ1dyQQ?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 17:36:35 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Bessent says US will impose toughest ever sanctions on Iran, urges China to cooperate - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUlFnUHhPNjlxRW5kTy03TFctOE1ST1NabGVNalozY2hiR2RKcEtfV1ZRblJ1VlJXQXRNem1yZmpIRVVYUjJOd2pzWElTX0JVeXZVR1V1Tk5NOG5oWWUtRVZzWDNFOE5KbE1VNmtubXdodnVzQ1RZMFV3TnpUUXVHM1N5MXZqZTBtdW1iUG8xS18wdi1ranhQQXpfVDdiYnRsc09iN3JtbEhZTVIwS202X0lmSkF2V0c2dFV5NQ?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 16:20:49 GMT",
+          "title": "At least 50 killed, mostly children, as overloaded boat capsizes in Nigeria - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSnNKRDlNT0VJb0oxSjJwU1JMTEZFcDFyV0doM1h5Z2V4ZVBvelo4NjM4UU9kWlVNei1aX0EwUWxlbHI5NjJHSzhDVXR6TmRSYk5UUmN2MElkV0RybnpGWTRiRkl3c21MYVAwaUtWWVY3ZVNGSDd6anhhUFRsbTBtX0FCWUstUWJEWGZibUNsb2pXZWg0SVlrRjktRHBGWDlyZ0hXOW11N2x1a3BJcG90SjBmbFJ6ZzYzdXFZekJCRUY4SVdRLXEzaQ?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 17:36:21 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Meta's Zuckerberg buys 19th-century castle in southeast of Ireland - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRFVEMTJpcVlGZDQ4Y240ZGlaNVI1dkxQNDAzclhTQ2xpemYxRWlYcGEyZGVmenZzWWx3M3U5XzdvdTlHejFia2xDS1JkNjNPalVfNklCSkpqT3lHZ2p1d1Z0YXJJZWxYam81a1lVRnpCQmNhSmlDRHlFUXRyRk9VQWxTV0lGREdrbkRhV0lkVVc0V2VHbUF4VkFnakV4dzJJbFlaWkxWQ0tKcnNCQkJ0ZGtkU0tmOWFfX0pIUQ?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 16:16:39 GMT",
+          "title": "Nvidia to ship AI chip for China by year-end, The Information reports - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMldWMkxfMnFZbHg4YnI0RTdoZGtfMXJIT1hTdHg4aGUyMWhvazNtdWVoLW4wMDR0cXkybXhEMHdqanBCZ0Nmb21xVVVua2lYOTQ4elZsUFlMbTBVYkpwRDBaVWs5Y0xRTUc1U3BSVng1WlpteXhqS0NhdWZ4cmthTlpFYTJJX2hrdGc0Y1VZUTJ5aXNzQWlvb19nei05RHJIYlhEZXRSYko?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 17:34:02 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "EXCLUSIVE: Former PM Imran Khan would not confront Pakistan army chief if freed, close aide says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTFZQcDhFcFRCOGNyelJ6Q0V1c0k3VHh5WG96VU9MbE83RWgxZDN1TDV5VWtKbHB4NUR5MDVod1k4YTVMQ3JHUlVGS1Z0ZGU3V05XR2MybG95NjhoUHhJMEZmdTJiVGdfUC0yc0JvZjN4Yy11STkteFlQeEJuTFRycjVEVUxOX2pueWRJallNcDVBRlJzRVRPVm0xU185aGNBRFlpTWptS0JtcklJcHl0cGNoZW9hN2FmSmFyVlA5Y2tzNGoyRkVkMk1lazB0T2M?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 17:31:41 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Serbia turns to Russia to help fight wildfires - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVHplN3RPdGxPbTZjdkdpbXEwcUJHLW1jdGg1WTRyR0NlSndNQjQ0V0tmRlBzalZpRHMzVFNZNUxodkZrVGZkUXNaTkNLOFBoN2dEY05DSmVYbkhENFkyM2FzcXd0dU5qTHFyMG1JYWJ0VVRmWEhaTlBFN2VwcTM1TkRoaWo4STdsRzhiaEZ4SDdhb2thbUFNdVcwa3cyNVNpY0l5N3VB?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 17:15:17 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T17:35:15.717Z"
+      "updatedAt": "2026-08-20T18:48:19.019Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T17:35:15.945Z"
+      "updatedAt": "2026-08-20T18:48:19.176Z"
     }
   ]
 }
