@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T09:40:16.274Z",
+  "generatedAt": "2026-08-20T10:36:22.030Z",
   "sources": [
     {
       "name": "BBC News",
@@ -7,19 +7,37 @@
         {
           "title": "At least 13 killed in Kyiv as Ukraine grapples with air defence shortages",
           "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 20 Aug 2026 09:37:31 GMT",
+          "pubDate": "Thu, 20 Aug 2026 10:34:33 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Four workers dead after being hit by train in Japan",
+          "link": "https://www.bbc.co.uk/news/articles/c5yrnz24j22o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 20 Aug 2026 10:32:31 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Israel opens up bids for highly sensitive West Bank settlement project",
+          "link": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 20 Aug 2026 10:30:52 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Former Liberian vice-president charged in drug-trafficking probe",
+          "link": "https://www.bbc.co.uk/news/articles/clyx028ryy6o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 20 Aug 2026 10:11:26 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Ex-Zambian minister killed in security raid on opposition",
+          "link": "https://www.bbc.co.uk/news/articles/cg5ljlzedd5o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 20 Aug 2026 10:07:48 GMT",
           "source": "BBC News"
         },
         {
           "title": "Trump vows tougher economic measures on Iran and supporting countries",
           "link": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 20 Aug 2026 09:13:18 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Four workers dead after being hit by train in Japan",
-          "link": "https://www.bbc.co.uk/news/articles/c5yrnz24j22o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 20 Aug 2026 08:14:20 GMT",
           "source": "BBC News"
         },
         {
@@ -33,28 +51,10 @@
           "link": "https://www.bbc.co.uk/sport/athletics/articles/cvgw9wlky9zo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 20 Aug 2026 07:15:48 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Mushroom killer must stay in jail forever for 'truly dreadful' crime, appeal court told",
-          "link": "https://www.bbc.co.uk/news/articles/ckg3j3yn4exo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 20 Aug 2026 07:08:35 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison",
-          "link": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 20 Aug 2026 06:08:02 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Missing teen hiker found dead in Australian bush after eight-day search",
-          "link": "https://www.bbc.co.uk/news/articles/c304e2dlv20o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 20 Aug 2026 05:45:53 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T09:40:15.032Z"
+      "updatedAt": "2026-08-20T10:36:20.581Z"
     },
     {
       "name": "NPR",
@@ -109,21 +109,33 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T09:40:15.240Z"
+      "updatedAt": "2026-08-20T10:36:20.951Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Chinese court sentences Evergrande founder to life in prison for fraud - AP News",
+          "title": "Chinese court sentences founder of troubled property developer Evergrande to life in prison - AP News",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdmpPc0tFMWFFbVdNcHBFUnNjM2h4QjhCVkFNcXU5Tk5YcXNmZWIzNUhEOGRhRlpfZFFwZGN6SW4wUjQ2T1hhbHdzUmltRFNTYURYd3NncEF6R3gyQ3hhQWxLSFFqU3dRX3FQeWMtbTQ5eGNZekZldjlVVlNLeWpFV2FjRUVIazYwQmdGVjI5eXI0dHY3NVljWjhtLWtCYVZwZ2JYSA?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 06:13:00 GMT",
+          "pubDate": "Thu, 20 Aug 2026 09:02:00 GMT",
           "source": "AP News"
         },
         {
           "title": "Israeli military launches criminal probes into killings of Hind Rajab and Palestinian paramedics - AP News",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdjh4SUp0a2ZhbFFhSGQzVERrREI3OFJQRXBVY3gyS2FQRkp4RTFyTUc4d3dJRDUzTzR5X1d1YkVCeU9nYTNyYnM5NmRjS25xXzVZWk03SksyVFlOWWdnM1dhQ0kyVFB3Vmt1RWZVeDlyNEZYMXpNbC1NdGNWbjZkSnBjM1ZqV1FrVjRpSmRNOThiT1d3OG5Ob3FQcHlTcnRNWWdqUktqa3FqLVRONmU1NmZWLURUV2lm?oc=5",
           "pubDate": "Thu, 20 Aug 2026 04:20:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "A timeline of Prince Harry and Meghan's relationship with the royal family as they return to the UK - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPd2ZIbkh4RkQ0SVhxeVhmYUhsTEJsZE1oaVp4Z08xNTBYMFNOazVrV1RpNnNuMXRRdzZfVUpqZC1EVDBQM2ZkM0Nla3ZIYXN5WXN4b3lYMUJvc3NHakFiQ3NIZW1fcTNuMVVZYmx6SThVbVFycHpvOEl6cFp1SkthZ05IeHZCb3N4cTByZmM5X1dUNUMxWE5qYWY2alRrTTBQYzU3NUVYbW42cHFpRlE?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 04:00:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Hong Kong conglomerate seeks $1.5 billion in damages from Panama for takeover of canal ports - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZmZ4b0hIVkkzbnNjUEFIeVFPNklYOXBoUjRMdS1wUEJvSnBLNWRrN3NKOGtvakJYd0tuRDRFdWVybV9FQ3lleWNuenQyT0ZZWjRuMy1jOXEyQUNTRDJ1aFRoalFQY3lmSTRnaEhTZmlKV0Z5Y2xsUVdpdllQMVFqOVlpNGZOOW0zMmUwYXNmc0dPaHlHYW5VNDVhWldIVHdQOUZRcmZhTUFnelRfYmc?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 03:48:00 GMT",
           "source": "AP News"
         },
         {
@@ -145,46 +157,40 @@
           "source": "AP News"
         },
         {
-          "title": "Israel’s deadly Gaza strikes cast doubt on ceasefire progress days after Kushner visit - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU3o3MnpVX0FDel85T2RxZC1SWGpMU09nSlF3SG8xTDQ1VWlhZDNSVzVWdWRBa3g1QXlpemJ3LXdNS1RicE9XaU5YaU81bnlzaV9JcEtSQ3lkUlJoWDJYdk5DWk96bG83R0JmaldOY3NaOE96clFIN3ZuNUZONGVPSnBtSmF0NzNYT0xqRkJWZ0YwNmFBRlF2QjJVczYzVTkxTU03RXN1c3Q?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 01:36:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "North Korea shrugs off Trump's scaled-back drills with South Korea, saying it changes nothing - AP News",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaUx1WkNNOFA1UXFocXB1OXFnbFc4dFJNMXdjTkExUmt4MFEtb1dta003UmoyX3VtUExaVlZ5cWJmb0tDS0U0Ym9LNE5EQ1Z4Q2tKaGNJUEh2X2toZ0ZKbGNFc0ZEbnQ2SXo0eGVhRE9lZHJZWlI5cU5uQUFSbHdJOXVEZUh1QlRhWjBmZQ?oc=5",
           "pubDate": "Thu, 20 Aug 2026 01:31:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Death toll in mine collapse in Central African Republic rises to more than 100 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYXI1dy1TTTZyOHJaZjdCNmVNMlNodno5WEY5cWRrLTk3WW1CYUxreUFqc0M1ZlhXcU52ZmxWNTEyd2RnbFBHRkU1SkktRlF5NFRNcG5WZlM0QnBLVnljY1RYelIyMlM1MFF0LXN4Rm1XaGtOT1BtWG9LS0ZMendJbEhYUVN4OTBNYldCRWhRQ0oxbmlGUWhGSUs1UERZSHJZQ1MydGFlb0puaG1RV0hr?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 01:19:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T09:40:15.617Z"
+      "updatedAt": "2026-08-20T10:36:21.390Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "China boosts imports of Russian crude, stymieing India's refiners - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZU9oV2RaZ2RZNW5hZlFqbXFNNmd5RnJkM21hWmo0WVhJX1paTlBWaE50SHhMazFzdHJuVVF2QlpzT1lRZG1VUEdERkdsSXcxTjFmQjd5RXlJeDM1eVR1NHZnd0xlRWJFXzlsbS0tdmpJMlVzeFNrLUk1R25abzR3cUxDYXRCUW1lekg0LU9lWmNzdWFyekI1SFJOdmxJSWVaRS0zT3Z5QzRVNkt3VndialQySlRtbTVKTTdJb3g1T0h2ZXFabXNLMQ?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 08:57:52 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "North Korea fires suspected ballistic missile, Japanese authorities say - Reuters",
+          "title": "North Korea launches 10 ballistic missiles as US-South Korea drills near end - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRXZKc3RxRGFCN0NYZVJKTFN1eFZCakt6WFN5alRHRjBpalMwdmlYeWhsYUhvWEJfbC1kZ1FHS1JlbGxYSG9jUHRDUVdlR3pJSE93eXlnN2NSMXlGX19XZFlVaVNxRE5xMzlZS1VwMkwzSXpCMjZ4ZDVRcWRCR21UN19yQ1ZhTkYzeUVwREl0MTRxZ20xb0kzNTNrNmtYMXc0YUFpdEtxckJVRVZTWHl3d3V2R0dFSlNsTHc?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 08:41:41 GMT",
+          "pubDate": "Thu, 20 Aug 2026 10:03:16 GMT",
           "source": "Reuters"
         },
         {
           "title": "Evergrande founder Hui Ka Yan, from property tycoon to life in jail - Reuters",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeU1JcFVldWhYODZiWmJKTWVWSTRCT3hKMHJ2TkhrcWhtODF5TGl0Q2xDdGNnOUVReEJlRXZ6SklhanR1Q0l6TG1aalNXVTlvRUdnZS1FclNQTGZRcFNXZEVkOU1WVFl0aXFnZDJ0RXpsRF9nSjdQMU0xZmJzZXpzVFJ2TEZZTzB3cE1BTV90WHVBaWN5SElEeFBKeU5XWlVnYjhOQzdR?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 08:40:55 GMT",
+          "pubDate": "Thu, 20 Aug 2026 09:09:34 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Dollar falls to three-month low as Treasury moves to soothe bond jitters - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPamFxZlBhRm1DcmRBZF9VSDd4aXllSmNTWEttZ2dLUkprSnJ5c2xBNXRKT1lQTDdrbXlUUjBnTXdWdVRrWENPYkRkal9pbm9UVDNueFd0am56Z3JCakxsZ2ZHclBRMHpyUUMzeVJHV1FPcVp1dXBYNUtMNk81Z3k1QkRmV1RnRHdPVjhDU3hNYS1xaWxYOU4wMUQwWk5nTDJPWG9kblZIQV9xOG11QTJR?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 08:38:04 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "German spy agency opens helpline for those exiled from Russia, China - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPS0ZpY0hRRGNUbXJaUERQNlAtUWFHU3hCWi16UlRkUFg5TGVkUWtYeHFiQl80M1loeVd6OF9ORHRmQ000dlpYdWlZdERFR0V5Wm5mOGxfOXlvMnQtUFY0WFB6LWYwMXRaT0JmVmVCcC13Z0JiTUJHb01mU2phQ3QwQ1BmSm91QzB3Ul9yZWNySWN4SFNXZm9IX0hfTGlfNDBnbzlxNnVHTW1ydw?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 08:25:43 GMT",
           "source": "Reuters"
         },
         {
@@ -197,12 +203,6 @@
           "title": "How a low-budget fever dream sparked a Chinese box office revolt - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUlNjZ2t4d1B2NERYV2tDaURFTnFrbW5BOFh0QklNSjVtV0hDYUxyRzU3V1hxNmJ4WUdOdjVEUTdYRkNOalB1bWRNTjJUTlUyZlp3VjQ3YTVadXZxUlhIVWxnR19OMHlrX0s1Z29WTUZDVmpEOHJtZWZzd1EtNUJ6ZkszajBHU3JvQ1RLYlBmcUtORnl4eHBOaFBINFJnUUtfNGJyY0VySEwzNHBqOXo0endaYVM3dw?oc=5",
           "pubDate": "Thu, 20 Aug 2026 07:14:07 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Iran executes man over charges related to January protests, state media says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbGdaUUMxaVVtb1Zjc0o0dkwwaFhibExzZjBQNEc0emRZYm5LRVpTNm80c3FjYVhhRktwOHFYMzVVNU9GUkRVU1RkQ0ozakdwdEp3dUd4TUZ2a1ZhVFI1Q05jdTY3YXZ0OHduTGJIQV9zT1pxRm1UblpuM2ZCR3RpUkxzNGNzVUhVYlAwSXY3ZzVkWWhMMWpQUlA5ellzOXZVTEdNVUVOM1JReU5ESWYwMWFDVWZFLWk1YktvTWRuUk0tWFBM?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 06:40:00 GMT",
           "source": "Reuters"
         },
         {
@@ -219,7 +219,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T09:40:16.035Z"
+      "updatedAt": "2026-08-20T10:36:21.778Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T09:40:16.274Z"
+      "updatedAt": "2026-08-20T10:36:22.030Z"
     }
   ]
 }
