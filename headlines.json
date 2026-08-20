@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T01:36:41.401Z",
+  "generatedAt": "2026-08-20T03:02:12.517Z",
   "sources": [
     {
       "name": "BBC News",
@@ -7,7 +7,13 @@
         {
           "title": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
           "link": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 20 Aug 2026 01:02:51 GMT",
+          "pubDate": "Thu, 20 Aug 2026 02:16:49 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Giant whales move into Greenland waters as ice disappears",
+          "link": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 20 Aug 2026 02:05:20 GMT",
           "source": "BBC News"
         },
         {
@@ -45,16 +51,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 19 Aug 2026 20:34:39 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "81-year-old confesses to German cold case murder of US tourist in 1994",
-          "link": "https://www.bbc.co.uk/news/articles/cq89n5j9npdo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 19 Aug 2026 18:26:21 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T01:36:40.321Z"
+      "updatedAt": "2026-08-20T03:02:11.021Z"
     },
     {
       "name": "NPR",
@@ -109,11 +109,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T01:36:40.371Z"
+      "updatedAt": "2026-08-20T03:02:11.295Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "National security question trips up Sen. Darline Graham in South Carolina debate - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZVFLTG9abjhDOTUtZlhjVEdRSHp5b1g5Z0twZXVjZ2VSeV9ZYXdRTVVHZUxTUXdKS3lnSUZ0ZTdNMDRBTXVYdkNXSUpRcE9LYjZvSzdHX0w2R3ZFcnNsbTNBcGxJRFJRal9IMkpoSm1WME9GSmp0ZV9feXZHNUlTdzlrUmRoMFNYUjl3ZHpxS29DTWEtVlIwUEJPN0NldmRCQWpJRTB2TWt3Zw?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 01:37:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "North Korea shrugs off Trump's scaled-back drills with South Korea, saying it changes nothing - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaUx1WkNNOFA1UXFocXB1OXFnbFc4dFJNMXdjTkExUmt4MFEtb1dta003UmoyX3VtUExaVlZ5cWJmb0tDS0U0Ym9LNE5EQ1Z4Q2tKaGNJUEh2X2toZ0ZKbGNFc0ZEbnQ2SXo0eGVhRE9lZHJZWlI5cU5uQUFSbHdJOXVEZUh1QlRhWjBmZQ?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 01:31:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "A warehouse burns near Moscow. In Ukraine, drone crews prepare to strike again - AP News",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQmpoWmRzcDBhN3VqXzZfdWxvTDMyczhVOFJ4WTFzdzZBcGprR0k5VzFDb0lKbG5TMjZHR0I0VWlKd3NiSXg1VTdsZ253LTZMRFlJaWlKOGdVRm41S2QxSkNpX2NJc3RxMTY4UWRLVVI5T1NSQ1plNEJWc2xBbVJrUkI4eFNxOVloY1pDeXl2MTg1YnhDd2ZF?oc=5",
@@ -127,9 +139,15 @@
           "source": "AP News"
         },
         {
-          "title": "US pulls last aircraft carrier in Asia as Trump focuses on Iran and the Western Hemisphere - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS1ZVeVR3dkRTVHNDamZQUkxBc0FUS1RVQlh4WnJnM0hESmZYZUhMdkk1a3JaNE9IQUFMT2hGWU1CU1VkYkxCbUVpUGp0YzJNYmU2U05tZ2ViNE5hWVVnZUtyUW0zNjVLMk9IRDBVSzR0cTFlY0dsUDRGUXlEaWlFUFN5Qk5LTnJkQ0R5NDRpSUpiWmFoQVpKQ2VHaHJIY0o5SmN2OUE5Zm1ndw?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 23:17:52 GMT",
+          "title": "Missouri court allows new Trump-backed US House districts to be used in November election - AP News",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMlZnc2VmZWEyZmpkc3NibGZuempNZVM0ZjhmMk1Ba0RhOV9yZThJVVd1S2dGX2czaTlsanhuVlJIRVhQMUVIU3NwRElfbEJNaFlwek92NnRnZEp6VllKZlhhbzFnY1JUaUNzZjc4bnVNVzJNMzNqWUluSGh3dzlvcjJtY0d5ejZ4cTgwYUpJU0FqdGdHMlBRR2RIclJlUGVkQkF1clhKNDFhc0s4ckJTYW1B?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 23:43:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Judge removed from Texas track meet killing case as Karmelo Anthony seeks new trial - AP News",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWW51RHZodHEtRGYwNE5IRmdoYndzektvVHZqVi1WeC1yakhlNVdEcFNsZ3ZzUTJGcU8wVWl1dWJ5NlF1RnNRNlhCRTJmMnczTWVUeUV1bWFXR2J4NGlCbEp1bzVIblpVSEhDNHZTWXhMcjJFbWxvb09Fd1EzWkhzVGI0Tmtqbk9POGsyaUhDR2Nva3FFTFJJdWpsRVRyZDRxRC0xQmJZYTYxVW5aRS1oYg?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 23:35:00 GMT",
           "source": "AP News"
         },
         {
@@ -139,36 +157,36 @@
           "source": "AP News"
         },
         {
-          "title": "Missouri court allows new Trump-backed US House districts be used in November election - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMlZnc2VmZWEyZmpkc3NibGZuempNZVM0ZjhmMk1Ba0RhOV9yZThJVVd1S2dGX2czaTlsanhuVlJIRVhQMUVIU3NwRElfbEJNaFlwek92NnRnZEp6VllKZlhhbzFnY1JUaUNzZjc4bnVNVzJNMzNqWUluSGh3dzlvcjJtY0d5ejZ4cTgwYUpJU0FqdGdHMlBRR2RIclJlUGVkQkF1clhKNDFhc0s4ckJTYW1B?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 22:27:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "AI-assisted tool helped secure satellite communication system after 2022 Russian hacking - AP News",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTm9Za2V4OXJWODVZRENaWXhIQnRiTnBnWDJIanEyVGhWZGVlTTNQU3lrTEd4LU9ZcWxMRTN6S09nLVJJNGRCc1V1Si04OGo0d3U5WkNiYTlyc0dZbkQ2WEJnWjg1UjZnaUtMazRPd0tpN2dFNTd1NDYxNlluRllzcFNnb21rWkhoanBITEU5X3lfUTJMTF8xM0s3YUtDcF9l?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 22:01:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Judge removed from Texas track meet killing case as Karmelo Anthony seeks new trial - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWW51RHZodHEtRGYwNE5IRmdoYndzektvVHZqVi1WeC1yakhlNVdEcFNsZ3ZzUTJGcU8wVWl1dWJ5NlF1RnNRNlhCRTJmMnczTWVUeUV1bWFXR2J4NGlCbEp1bzVIblpVSEhDNHZTWXhMcjJFbWxvb09Fd1EzWkhzVGI0Tmtqbk9POGsyaUhDR2Nva3FFTFJJdWpsRVRyZDRxRC0xQmJZYTYxVW5aRS1oYg?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 21:34:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Israeli military launches criminal probes into killings of Hind Rajab and Palestinian paramedics - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdjh4SUp0a2ZhbFFhSGQzVERrREI3OFJQRXBVY3gyS2FQRkp4RTFyTUc4d3dJRDUzTzR5X1d1YkVCeU9nYTNyYnM5NmRjS25xXzVZWk03SksyVFlOWWdnM1dhQ0kyVFB3Vmt1RWZVeDlyNEZYMXpNbC1NdGNWbjZkSnBjM1ZqV1FrVjRpSmRNOThiT1d3OG5Ob3FQcHlTcnRNWWdqUktqa3FqLVRONmU1NmZWLURUV2lm?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 21:18:00 GMT",
+          "title": "Trump picks Dr. Heidi Overton, a top White House aide, to lead the Food and Drug Administration - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQc09saGRPVmlPY3RmSXdzbF9qSmNZbFRUSDhid3ZVeXMwRC1ndmU3WTBDSjh1TGdaMXlBWlFoQUZwYjkxeVhzV1Z2a0w1akVlLXhoQ2NIc1pKN3dQcE55WnpfbjFMT1c3WlpMTVhfQ0ljRE1iOW9fM0lyazFWMVMzUmZXRWVJRndJV0JEOXVRSEZiVF9HSUp4eVZULTVDSWkzRlhtZGVn?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 22:11:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T01:36:40.828Z"
+      "updatedAt": "2026-08-20T03:02:11.817Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Bonds steady after US Treasury comes to the rescue - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNT0NlakpDYU5qTWhFZm0wLUEtbmR3akx4YmNsV25UX0ZiRWdDaThaSkpBeUg3blJNUS0wZFFLLUhyaWdGVklzZElzdWV0UHl6bkM1Y3RqZGJhRndHT25WYThIWUhpTkZhSmpwS0MySmpuQmptQm5MY2ZfMU9aN3Q1bkdyTQ?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 01:25:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Oil prices steady as investors assess US-Iran war outlook - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM1ZTcG5JRHQxeFFrOEd6Q0s4eWdFZGZwRmUyaFlPQkEwWEFLZ2xtLUJxMDFGRzZEZ1VEMjA5MjlMazgtZkJRM01FRXJ3Yk5wZUJSRW8yUEc5THM4VEZBd3V0LVhiRHBBWExnTElPMTRCX3d1ODhKR2lDdHVDVktTZS1BTUtuLXN2ZGRwUmpnNzhEdDJBZnp3cHExVndUYWlrenVEOXI0dVppdw?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 01:11:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Gold hovers near early-June high on lower bond yields - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRzBOVjZ6ZU0xLWotdnpUeHVrVnN5ZFlGWEExLVF6RUgtY0RMQjdTZUNDbWRvRGNCY0gwUE9ubFJiM1dNVzVfVE12SV80ZlRSYTZqamdFMGhubUJBeFFNbkZHTml3WjFvRGVOVER3dXdYNUZnSDRKS3UxU2dTMnp3MG9qYUVKU0ZNY2ZiVUw1c0NJREpibDFhbWlORQ?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 01:07:00 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Trump put thousands of soldiers on Washington’s streets. They seldom stop crime - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSkpHV0wwZHN4MV84emhmbV95VHJ0UHZtd2dPN1owdVJORzA5VG5uY2kzczR6VF9GOVBsOThTRmxrWFA1ZU9TMV9WX3hnMkctdG5WYkgyZkh5SGVUZEdscE1ENjJMUjZOdTZYYXBxa0E4eE9CTnhIRW9VRExKV1NFd3FoT2Y3Q1lGaDlYRjFuSWd6UHdrWkFUczhZZ3h3SWJwb2hjMERsYXQtelA1ZlBSTW5LdXdid1U?oc=5",
@@ -179,24 +197,6 @@
           "title": "Moderna, Merck vaccine cuts recurrence and spread of melanoma, raising new treatment hope - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOV1VaQ05TQmRfMmJzTUkwU2puSHBUcE9FdzY2OW5SaXVFc2FpR25rclJEY1NHS1lrYWdaWE5OUVdhZ2VfTGVHak45akZnYm0wbEZVdXpOYjJEYkpVc3VXaDRrQnZBMDlJbWJLZUY2M2dFc0lycDc1LUtiSmxEWnlsVThSY1RRRG5WM050bEZLR1puWlhDMGlJczRZM0tXb2lHYzlSSmxTRFlQdm52THFDbG1zZlBWLUNUZG9qVjFoQlI?oc=5",
           "pubDate": "Wed, 19 Aug 2026 23:03:10 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Wall St rises as yields ease, Moderna lifts healthcare stocks - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNnFzX1pZYUZsd0lHWkM3SGVWNE9NRkFvRVdmQ1JIcVJMeXBKenVjQnJLVlFOTnpSVTU2VW95Y2ZUNUdaTnNqd0ItNGpUVktVMkFjR29JTExtc1NUV3lKYkw3MGRDWFozRmlJM0lIdW0xd3daMHZPTVVwZzV3d1ZZTGkybTBPYlZ6czhMVDNtY29pRE5SM2hvejNyZFFLUnRRSXMzTmhYTjBjTTBCejc5N1dxakdsSXBVSzZNRFV6cw?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 22:58:28 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Prince Harry and Meghan to move back to Britain, media reports say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQV2d3eUNITlMzVnBXbUpLNl9kT2JBWEFjUWlWaXh0UXVzSklRMVdIWlFpbUFqQ3NaTDBSLWtMZ1Fscl91YXJFRzhXMTRXZE5BUnpyelVRUFFOLXRSeWNQRmZ5MHZFeWtQb015VEhMWnJveXJQcmRDSExLdDVUaWV6SDZkcHNvZ3kwVUdVSHE0eVViUktTTHRybE9CaUxpSjFScHYtMlQxTQ?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 22:48:07 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Payments firm Stripe to buy marketplace OpenRouter in AI push - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVkl3Q1p0eG5uR21ZT0lMdnRnd0UydUJlc3J3M1lSckFjMndEX29fNG9lUXN3YmxLeDFwRms1MU0zME80TmUzb291Y3psVm0taE9fWDdYX2stOWs4cFRBUUgxN2hhRllfLXF0djJzSC0xN3pZZ0REMVZrWUxJSy03dE9uUVdWbWdoWDhnYjdpekIxeDNQSUh1SnJKUUtoLUtoU0xocEh4QQ?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 22:31:44 GMT",
           "source": "Reuters"
         },
         {
@@ -219,7 +219,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T01:36:41.281Z"
+      "updatedAt": "2026-08-20T03:02:12.294Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T01:36:41.401Z"
+      "updatedAt": "2026-08-20T03:02:12.517Z"
     }
   ]
 }
