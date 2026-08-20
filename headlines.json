@@ -1,25 +1,37 @@
 {
-  "generatedAt": "2026-08-19T23:52:03.345Z",
+  "generatedAt": "2026-08-20T01:36:41.401Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
+          "title": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
+          "link": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 20 Aug 2026 01:02:51 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Israel opens up bids for highly-sensitive West Bank settlement project",
+          "link": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 20 Aug 2026 00:53:20 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
+          "link": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 20 Aug 2026 00:48:57 GMT",
+          "source": "BBC News"
+        },
+        {
           "title": "Canada and US say they are finalising a trade deal, but details remain murky",
           "link": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 19 Aug 2026 23:32:37 GMT",
+          "pubDate": "Thu, 20 Aug 2026 00:18:01 GMT",
           "source": "BBC News"
         },
         {
           "title": "Who is Natalie Harp, Trump's right-hand woman?",
           "link": "https://www.bbc.co.uk/news/articles/c80nzdjgmk3o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 19 Aug 2026 23:11:14 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
-          "link": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 19 Aug 2026 22:55:37 GMT",
           "source": "BBC News"
         },
         {
@@ -39,22 +51,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cq89n5j9npdo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 19 Aug 2026 18:26:21 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Multiple deadly Israeli strikes in Gaza in under 24 hours",
-          "link": "https://www.bbc.co.uk/news/videos/cp3rgxzk5x2o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 19 Aug 2026 17:46:01 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "South Korea shortens war games with US, citing Washington request",
-          "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 19 Aug 2026 17:39:49 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T23:52:01.624Z"
+      "updatedAt": "2026-08-20T01:36:40.321Z"
     },
     {
       "name": "NPR",
@@ -109,27 +109,39 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T23:52:01.942Z"
+      "updatedAt": "2026-08-20T01:36:40.371Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Lake Powell hits record low, threatening key water and electricity supply for millions - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRlhiS1NtSUhQR2ZjTmVzR2FwdTVzeXM3Tk80Q1owYzhVODdfSjIxajZLeDdMckRwVkxJZm1Ca2FJSk1ZZHc4dTdQaGFBbC1YWVpTaHNxWXhWX2pueUtXdlVkZHIyNEJ0ZUNzamZ2VDB2VUN5Zk11Nm9uWVlLRW1aTC1NOFRCZ1JTa19jeTQ1RFV5cmFIZU8wZWRSVndNU1FZQWJ5TQ?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 23:35:22 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "A left tackle can make $4M in college football, not the NFL. Is this pay for play? - AP News",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVlRwdWQ0VVhKTjd5bDFUN2xzYVdWcFYyci1Od2NnT2hGYUk0OHRtR3dpLUowVUJzWTFUY1c4NDItR0owRzJEZU9SUFNPamhucXB4VWJJS180NXM1ZmIxMVN3VjY1N0QxMk5YUXpZSC05V3UwSGRMOTBsWUFLdDhia0ZLWWw?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 23:06:20 GMT",
+          "title": "A warehouse burns near Moscow. In Ukraine, drone crews prepare to strike again - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQmpoWmRzcDBhN3VqXzZfdWxvTDMyczhVOFJ4WTFzdzZBcGprR0k5VzFDb0lKbG5TMjZHR0I0VWlKd3NiSXg1VTdsZ253LTZMRFlJaWlKOGdVRm41S2QxSkNpX2NJc3RxMTY4UWRLVVI5T1NSQ1plNEJWc2xBbVJrUkI4eFNxOVloY1pDeXl2MTg1YnhDd2ZF?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 01:26:00 GMT",
           "source": "AP News"
         },
         {
           "title": "Prince Harry and Meghan are returning to the UK with their children, British newspaper says - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSFkwRDFCcE4xNlpLdlZ4UzkyOUNOcGJoVWNlQUtWVlkzREJIVHVZd2JibE5CVE1xSVF4X1o3WWVWZnhfdklqWVB5NC1hVmZHQjE5NU9TdERsazZmZ3Q2OEliaE9xSkFoaUN2T3EzNjZDenJ0eDRwc28yT0NORFdrdHVlWlkxYnVQa1BVbUsxdkFKYnhoYVlnbg?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 22:22:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVk02OF9KXzMzMFV3X3FiTGxqRDlGaG93MmpWbmdOenB1MXRYcXh1X0F3MmF4ZTE5N2hybUhMa1Qzcmp0LTBnYUx0c0ZMa3BWVDlOT0V3dFRBenNiZUM0dWhSckNrVFNROVFTZnJqY1V6ZjhTV2NsRHF6emNDSlVnMHY2NVFSTXpTb0o4Z21keThCRGtnRWEwQzdn?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 00:53:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "US pulls last aircraft carrier in Asia as Trump focuses on Iran and the Western Hemisphere - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS1ZVeVR3dkRTVHNDamZQUkxBc0FUS1RVQlh4WnJnM0hESmZYZUhMdkk1a3JaNE9IQUFMT2hGWU1CU1VkYkxCbUVpUGp0YzJNYmU2U05tZ2ViNE5hWVVnZUtyUW0zNjVLMk9IRDBVSzR0cTFlY0dsUDRGUXlEaWlFUFN5Qk5LTnJkQ0R5NDRpSUpiWmFoQVpKQ2VHaHJIY0o5SmN2OUE5Zm1ndw?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 23:17:52 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "The US national debt now stands at $40 trillion - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOWRYUG5oRjZUWTlia0VxVkROYmNERFdTd3NhaWpkeGdLbUF1R2Q3MDVhdzdYZFVrX1FiTGUxZ0piZ3ROaXpYYVdXUDN2akhfM1c2NWRxMjhXMWZ2aURVc0toUWVpVVhoM0hiaTQ2X2NzaWpacG5GaEpZbS1rOEQ0dmRhY0xCMk9YYU1mdW42TmFrQQ?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 23:07:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Missouri court allows new Trump-backed US House districts be used in November election - AP News",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMlZnc2VmZWEyZmpkc3NibGZuempNZVM0ZjhmMk1Ba0RhOV9yZThJVVd1S2dGX2czaTlsanhuVlJIRVhQMUVIU3NwRElfbEJNaFlwek92NnRnZEp6VllKZlhhbzFnY1JUaUNzZjc4bnVNVzJNMzNqWUluSGh3dzlvcjJtY0d5ejZ4cTgwYUpJU0FqdGdHMlBRR2RIclJlUGVkQkF1clhKNDFhc0s4ckJTYW1B?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 22:27:00 GMT",
           "source": "AP News"
         },
         {
@@ -149,36 +161,24 @@
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdjh4SUp0a2ZhbFFhSGQzVERrREI3OFJQRXBVY3gyS2FQRkp4RTFyTUc4d3dJRDUzTzR5X1d1YkVCeU9nYTNyYnM5NmRjS25xXzVZWk03SksyVFlOWWdnM1dhQ0kyVFB3Vmt1RWZVeDlyNEZYMXpNbC1NdGNWbjZkSnBjM1ZqV1FrVjRpSmRNOThiT1d3OG5Ob3FQcHlTcnRNWWdqUktqa3FqLVRONmU1NmZWLURUV2lm?oc=5",
           "pubDate": "Wed, 19 Aug 2026 21:18:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Psychologist testifies Lindsay Clancy was not criminally responsible in killing of her 3 children - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNVdlcnROYU5JZThJMVNXdGhaNkdHdVlJcXVZdmRQRmpPNnZIQlE4cU1FZGh5Y2tsSWpGTWNicWljRDJxQkI0R2JsaFM3Y0I4aUVydGtwQUJ4Z21fdlFhNVdpQXlzaHdKc00wYVJOVV9uNEhXOVZLMTRmUFBXVC0tXzNlbklIRFY1MVd5RlBmR0wtZW1wTmtiUzJia3RVdmoyRXc?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 21:15:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "The US national debt now stands at $40 trillion - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOWRYUG5oRjZUWTlia0VxVkROYmNERFdTd3NhaWpkeGdLbUF1R2Q3MDVhdzdYZFVrX1FiTGUxZ0piZ3ROaXpYYVdXUDN2akhfM1c2NWRxMjhXMWZ2aURVc0toUWVpVVhoM0hiaTQ2X2NzaWpacG5GaEpZbS1rOEQ0dmRhY0xCMk9YYU1mdW42TmFrQQ?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 21:14:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T23:52:02.574Z"
+      "updatedAt": "2026-08-20T01:36:40.828Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Moderna, Merck vaccine cuts recurrence and spread of melanoma, raising new treatment hope - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOV1VaQ05TQmRfMmJzTUkwU2puSHBUcE9FdzY2OW5SaXVFc2FpR25rclJEY1NHS1lrYWdaWE5OUVdhZ2VfTGVHak45akZnYm0wbEZVdXpOYjJEYkpVc3VXaDRrQnZBMDlJbWJLZUY2M2dFc0lycDc1LUtiSmxEWnlsVThSY1RRRG5WM050bEZLR1puWlhDMGlJczRZM0tXb2lHYzlSSmxTRFlQdm52THFDbG1zZlBWLUNUZG9qVjFoQlI?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 23:03:10 GMT",
+          "title": "Trump put thousands of soldiers on Washington’s streets. They seldom stop crime - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSkpHV0wwZHN4MV84emhmbV95VHJ0UHZtd2dPN1owdVJORzA5VG5uY2kzczR6VF9GOVBsOThTRmxrWFA1ZU9TMV9WX3hnMkctdG5WYkgyZkh5SGVUZEdscE1ENjJMUjZOdTZYYXBxa0E4eE9CTnhIRW9VRExKV1NFd3FoT2Y3Q1lGaDlYRjFuSWd6UHdrWkFUczhZZ3h3SWJwb2hjMERsYXQtelA1ZlBSTW5LdXdid1U?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 23:57:53 GMT",
           "source": "Reuters"
         },
         {
-          "title": "US debt crosses $40 trillion threshold after doubling under Trump and Biden - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPY3NKYnBaTEJPd09VZndtN19jYWFXX3FIZE1KZV9VSlp0NWxMNmZNbFZYemVWR0RWYnpUOWpQM2w4eWQ1aVQ3UEtCTVc5Y2Ric2lteHdZSmZSdkRKVXRDaTdoVDZNd3I4YUsxMnZLN0tuSkpSd1VmbnNEUEhSOEJKdi1Hd05iMU9MQmQzSVl3YmFCYklzRVFrbVlpcDZEbk54VS1GT3NJZllDeWRSZTl3dEp3?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 23:01:16 GMT",
+          "title": "Moderna, Merck vaccine cuts recurrence and spread of melanoma, raising new treatment hope - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOV1VaQ05TQmRfMmJzTUkwU2puSHBUcE9FdzY2OW5SaXVFc2FpR25rclJEY1NHS1lrYWdaWE5OUVdhZ2VfTGVHak45akZnYm0wbEZVdXpOYjJEYkpVc3VXaDRrQnZBMDlJbWJLZUY2M2dFc0lycDc1LUtiSmxEWnlsVThSY1RRRG5WM050bEZLR1puWlhDMGlJczRZM0tXb2lHYzlSSmxTRFlQdm52THFDbG1zZlBWLUNUZG9qVjFoQlI?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 23:03:10 GMT",
           "source": "Reuters"
         },
         {
@@ -200,9 +200,9 @@
           "source": "Reuters"
         },
         {
-          "title": "US could cut key tariffs as part of proposed Canada deal, source says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQnRyZExVRkFxVGJqQkpSZk83d1pCbkQ1elJqVURZSjl6TTEyZUZtdURWYWhMRldiTWpiRUFXWW1nSExxeE10cXJWMndsbl9QLXJwVDZqVTllUTNUV2s2M3pJZ3U5WExpbHh4MHpYNGE5OXpMeGU0cFlUVEdwM3IwdmtNbHRYOE5hSFRzWDF6ODBLczdqbDllaTRlamRySDlLREFqNi1UTnJuTk9uZFFmUQ?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 22:08:41 GMT",
+          "title": "Russian ballistic missiles kill at least three in Ukraine's Kyiv, mayor says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ2hpTTJYeTlzS2hqZHBTdkg1TjhTUklENW93WjNKNjgzZlJsaGxHTW1wTlliVEttM0lndVdGeGRBUHpHaWR4Q3JrTTJ3dThqMzl0VlJxUWZTMXdFS2R2QzlhdTRkaTFVNEoyTzFVZnptUlVqemxCUFJyS1lyVjZqNW1EOERzU3c3dW1rdmwxbjl6RGJMVmVtN1lmbHVscWNkMlVTWVhHeDd0MThsYzV3QnNCaURqb2c5b0E?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 22:08:00 GMT",
           "source": "Reuters"
         },
         {
@@ -219,7 +219,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T23:52:03.090Z"
+      "updatedAt": "2026-08-20T01:36:41.281Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T23:52:03.345Z"
+      "updatedAt": "2026-08-20T01:36:41.401Z"
     }
   ]
 }
