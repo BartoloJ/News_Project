@@ -1,13 +1,25 @@
 {
-  "generatedAt": "2026-08-20T19:35:36.102Z",
+  "generatedAt": "2026-08-20T20:34:20.984Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
+          "title": "Dozens dead after boat capsizes in north-western Nigeria",
+          "link": "https://www.bbc.co.uk/news/articles/cj035jg256no?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 20 Aug 2026 20:27:36 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Como mayor hit by electric bike and issues blanket ban in Italian city",
+          "link": "https://www.bbc.co.uk/news/articles/cn8n077vxd7o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 20 Aug 2026 20:08:29 GMT",
+          "source": "BBC News"
+        },
+        {
           "title": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
           "link": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 20 Aug 2026 19:19:20 GMT",
+          "pubDate": "Thu, 20 Aug 2026 19:52:48 GMT",
           "source": "BBC News"
         },
         {
@@ -20,12 +32,6 @@
           "title": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
           "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 20 Aug 2026 17:14:55 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Como mayor bans 'beasts' in city centre after being hit by bike",
-          "link": "https://www.bbc.co.uk/news/articles/cn8n077vxd7o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 20 Aug 2026 16:53:20 GMT",
           "source": "BBC News"
         },
         {
@@ -45,20 +51,20 @@
           "link": "https://www.bbc.co.uk/news/articles/c3r055g23qdo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 20 Aug 2026 13:04:15 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Assad officer extradited to Syria on war crimes charges for first time",
-          "link": "https://www.bbc.co.uk/news/articles/cvgjdy8q766o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 20 Aug 2026 12:38:35 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T19:35:34.747Z"
+      "updatedAt": "2026-08-20T20:34:19.569Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Record cyclosporiasis outbreak tests the response of a 'weakened' health system",
+          "link": "https://www.npr.org/2026/08/20/nx-s1-5930462/trump-health-foodborne-illness-outbreak-cyclospora",
+          "pubDate": "Thu, 20 Aug 2026 15:54:19 -0400",
+          "source": "NPR"
+        },
         {
           "title": "The Iran war and tariffs are costing farmers. Will Republicans pay in November?",
           "link": "https://www.npr.org/2026/08/20/nx-s1-5914684/farmers-trump-pennsylvania-midterms",
@@ -96,12 +102,6 @@
           "source": "NPR"
         },
         {
-          "title": "They grew up with disability rights. Now, they're fighting to keep them",
-          "link": "https://www.npr.org/2026/08/20/nx-s1-5891791/disability-rights-community-living-integration-trump",
-          "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
           "title": "Privacy advocates call on Maryland to investigate data brokers",
           "link": "https://www.npr.org/2026/08/20/nx-s1-5938822/maryland-privacy-data-brokers",
           "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
@@ -109,15 +109,33 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T19:35:34.884Z"
+      "updatedAt": "2026-08-20T20:34:19.677Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "A magnitude 6.7 earthquake has shaken Peru’s southern Andes, no immediate damages reported - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPU0s3OExOX3RaT0QwSGZwQWhEdUZ4am95Y19SVzZDN1lUQ2cwU1dHVGdBNlM2dWt2a1pZcnBEeTVqaGduNWRDc3IxVGJZZ0hxVERYcVZMV2R1aGc2Wk1xVUI3dTFDS1pla210OERtaTFQSTU1Z3BJWGJ2MXJlLU5BOF9UNG1sWi1SUVpqT2k5ZWRaRzhHb3c?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 18:50:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Iran dismisses US economic threats, and other developments in the Middle East - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZUo2YS1oV3h0ZEw3eTYxSExqYk1RUnpscEFodEZRaXNWeTRXd25BbGxXYlJlVFA3bzdMdVFiQmFzb0dhWnFyRFVjWlo5Rm9mVmhwY3lvUVZ0YmZTMmlkdnd1VUV3UUIwMERCSWNMWkFsVnotdTVOS0tpSHU5QkphbWs0R2VEMDY0T1Nv?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 18:49:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Higher yields in the bond market and a drop for Walmart drag US stocks lower - AP News",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNU0ZaR0FPdTIwcWpTRElWLTNTNTdqZEpYY3RPVnlQR21Cb2lZV056TkpGR0ctbUdzMnFwS0VydHdkdWZhSmhObElQY0dNcUN0SmpyRTBZX2U2U2dCUjF3NjRMNWI3TWtFWVJiWXNqbFFsWkNlRklBbzA3N3Iyb2gyUWUyUXl2U0VXeFVWeWd3WTlBTjZ1amJrQjlyX2xYR3c?oc=5",
           "pubDate": "Thu, 20 Aug 2026 18:43:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Michael Cohen, Trump's former fixer-turned-enemy, is hosting the president on his radio show - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZm1fR2tDZHdfcG1sU2ZLaTBGODJIeUdYVVc1WEIyV0l4QS1EZ1RPVXdCeS01M1RKVGd1SFJrMGxWVEJIMXdNeGx3OGpuMkJkeWtzY2hWREhLNjN4M3R5NGFyYUxtZ0pjd0V3bnlMeldtVlFxcVFMbUVoVG1WWVRYVnZVcW50RDVycDhxUklyOENianV5cHZnNVQ1ZUJaX2Rka2l2ZTJKdTV1RXNXNUgwTjAwemRPdTRFWVE?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 18:14:00 GMT",
           "source": "AP News"
         },
         {
@@ -139,36 +157,36 @@
           "source": "AP News"
         },
         {
-          "title": "Prices soar as Gaza smuggling booms. Officials, soldiers and middlemen are accused of cashing in - AP News",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMW9BTmJxYXY5cmY3R0ZXUjVwc2tuSjctNTRuazFKdXU4eHJhZ1pqYldwVGxvMFVKblRyVlFHUWNMbnhBcm5CcG9Gcl8xMzdzLVRRYzluRlVMQUNyUkNHWDlyQk5oa3BYWEtMMG1nX21oaUpTMndyQlFsUlV1eE1rUjdNZWltcW16UGtDWjNGQUtaNm1BXzhYWEo2WFFnZw?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 17:27:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "A Russian missile and drone barrage kills at least 16 in Ukraine’s Kyiv region - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWEM2OWViY2VqbDVyZFBIWHk5T05RYzVwbDEzeUQxZmtlQk9BRzJqVzVwWXZmQ1pwVnZXUkt2eVJLb3RncnpLUTJzT2txYlBVakhMWXpSY3BzR0JwM3dJVmhDZ1JTX3AwQUtuc0VXdmljOHhFeWlzdjlXakYtUmc0ekhOalRSZWZ3VVVYMzg4MUI3bDJa?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 14:47:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Congo to receive 70,000 doses of Ervebo Ebola vaccine which has been effective in past outbreaks - AP News",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTGEtVXNQeFMwVHN1QzAzZjYxVjUtMm5kUm1pSGx3blhxdG0wSTRrbXZTTm9FbnZsbnZQS0VNOWFHejJ2WXBfWkhVc1VXMzRTUnpvcS1XZFNKNGJIamY2TTBWRDU0VGVrbktTaGV5OEV6cU5TLXg2UGtCMVlYSVRZQW5ybFVuZw?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 14:41:42 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Airplane pilot killed in collision with Pennsylvania police helicopter near runway - AP News",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQemMxWERaSmxYcmRaYmJTbVl4cHZYWGZOQXBpejVVM1lqS1FnY2k3VER1Q0dPZU8wVlV4d0xwVnF6MVNIWkdfdE9ZdWJpT3lJLVVBd2ZfVWtvZ0oyaVU3ekJSTnB6LTllTmsybXk5YTlSVGc5aUNqNk1mMlJ2dGY4bzczcWs2WHVZX3hvMUZvcndfdm9mUFRNX1d4Ny1nWXA0R0VBbXhIOWFzaFhlTjlGUG5iTEM?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 12:51:00 GMT",
+          "title": "Vietnam police charge man with rape after American woman alleges attack - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaTVtU1U1MkJzd1NXVXhHV01CeV8yTGtpYk8xQU94ZnlJQWRvWjNLX0picGZLLTJFd2RReDlLaDNDa3BWUmc3blRiYXZQaFUyTS0tUW5HcXBUMFVTSl9vZmFjVjdhZ0FQUm9LQkxXRXFaMnJZaTZoQXdha3ZUQUJtdTQ0RFlySk9H?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 17:41:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T19:35:35.334Z"
+      "updatedAt": "2026-08-20T20:34:20.224Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Wall Street sinks as bond yields rise, Walmart results disappoint - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTmlyUENlX1M1NzRGQmNObkJzQ0dIMDNtcm9oU3VVLWMzTTdfNEp6M2Z0ZDF5U1lpUThkRnRTWGlRaC1tNl8wdDJaWnBRSmhKRE5ob1BDczVOVGg4a3N4eXNjMDM4eHpOMnpSbVNsZGJrX3dxOHk2Sktyc2hTQ1RJWjRTVFJuTkRzc2RlNVZXX29md3NsbzRYbUFjTm9Jc0cyMlRLRGxIcEphY19McEpERmdNbnl6LXlULVE?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 20:00:57 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Canada says trade deal with US is 'very close', more work needed - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcV90dGRFNXlmUWhKTk1uZExFRzhzNGF5VGNqcXJkcXFNNS1BUFlxeEhsbk02X1hYcVZnSUNDbjVSblNpTVpZaWZmbUV2Q3NXLWY0TXJNUDVRa0xYTmRwY0MwZlJHdVVhWUhOM0JYbUxoQVBhcnRlbjhveHFnd1R5S0U2ZEx2dGFWQWF4S3JReHFsckJPcmdmMkxCV21aeUJkTWFBLXJjQQ?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 19:43:43 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Crypto shares climb after Treasury's doubled buybacks boost risk assets - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVmM3elp4cktvVklVUlVBN3BvWkliX2FDX2RjbkdWQkhfcVdzVmFweEoxNkZzS3ZuMDhyRGZWOXRiQ2laWFlpUHhzcENKVklXMzduOGNzZFQydl9qMTJpRFczOU5paEU3VmpEYlRFMVlwU01OY21JTWRrbXItQXd4R1lZMUhaQXN5V1RtOVAzeXUwdUdLNDZ0T3ZNVENOVE5hUkYyV2t1d0xPRmEtTmRuQQ?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 19:31:44 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Romania destroys marine drone near Neptun Deep gas project, minister says - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZHhFbnVfeUN3WXExb3dCUFZTQzhPTVlnQm0xQkZ0YXFTUjVQZ3Y4WG1ET2N0T0JKMHJNWDBmU0xCYmxhT3FINXF3QlhYTDBxRWsxR2lXNkdQRThPc0lUY2FmakhSbUkwNTM3NWdRMjZ1T0JyYTUzWjBwbnRMUldCbXhaR245SWs3UFkzZFdtNzQ3dEhFQXhjZU9PV3pBS0NBX3ROTmZSVXBBOC1vbk1PN090SFF4S1poSjZBMkNn?oc=5",
@@ -176,50 +194,32 @@
           "source": "Reuters"
         },
         {
+          "title": "FBI raids Democrat Swalwell's home in sexual-misconduct investigation, source says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPLUJTNG40SVVHLWs1Q2JnVlRROFhad1REekN2X0tZQUlWTjFlUEhKZExkSHc5b2VTbUdDYl9OZjlKUThzU3BVdHhtMTl6WFkzUkZhZGVvVFc2YlE1Wk9pZ3VvQm9RZFJDRThtZWZRYmhGSWZVQkJjLUdkTk93S2VYSEdMU2NmbFZGYWtILUhKQUZDd0M5WTdMZzNSQXlieEVsUnJhZ19SbV9zUURWXy14akl1NnRyNkVydUpfS3RtUlVWeUhUWlZrb0tn?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 18:49:57 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Venezuelans and Cubans among deportees to Liberia under Trump deal, official says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcXdrbkRyd3FOTF8wdXNGSkRHMWJmaEJBQUtmMDhBcnhiTHJ6bmpWRWV3LVREeGlkeC1BUFEzU2xGUmdIYVF4dXNLRmctcmtyZkMyVVJINm1GUE1yaXc4V1FzQmlNbktwVklkckZPQVV5S1kwejhDTzRLRjVQczFtRVVfSERnamVlaVFBSC13SDNfYkgwTFhtaUJ6dEdxOGlFaWJhOERncnVkWkttUV80SV80N2xOQW14WE1BRmNzaw?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 18:48:09 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Soccer-Regional powerhouses weigh no-confidence vote in bid to oust Infantino - sources - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVjJ6TVk2TGJSWlNGU1NiQWNNeDRDaGhRa1ZmNlNQSUxFSEFiZjI2SHViczZveVJ6ZWdta1o4Q0pDcC1VWGd3NFI5WjhvekFNM1VwWkQ5bjlqZ29YRXFYS1A4bGdfMTQzUkdPWGx2SjZERVZ4dkNwcmp4U2N0bmQ5MGE5SUw2WnJkRkV6Sy1GYjBFZWRRcFgtbE40YndqRGVSWDE3RDVGNDh2MDE5emd0TUhzZDdoMGZVeUVtYW14MA?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 18:44:49 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "The new kingmakers: Crypto, AI and betting firms fuel record spending on the 2026 midterms - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeENQNnM1RGoxMUFwdGJ2c19GUDRnTUhiWVdieDZNZG1qX2QzN29SYVBqU0NBcnVaMjRISjB3ZFc5WTlRbXYwQ1FkallpcmdLeEcwWk1wcS1pbG9TbTB6WFQ4VENCa25wMTE1TmJMeGJ1dEFtY0xrX0hOb0ZURkZJWlRmM3lFcHFZaXpqTWFCYVhHdDc0UXJzNEpPTUo5LXdBYzlCcXppZklKbkN5cnc4NGFsU3p5U0xPNnJ1dGUxYWEzQVI0Y3ZqcA?oc=5",
           "pubDate": "Thu, 20 Aug 2026 18:39:27 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Wall St indexes fall to two-week lows as rising bond yields, disappointing Walmart results drag - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTmlyUENlX1M1NzRGQmNObkJzQ0dIMDNtcm9oU3VVLWMzTTdfNEp6M2Z0ZDF5U1lpUThkRnRTWGlRaC1tNl8wdDJaWnBRSmhKRE5ob1BDczVOVGg4a3N4eXNjMDM4eHpOMnpSbVNsZGJrX3dxOHk2Sktyc2hTQ1RJWjRTVFJuTkRzc2RlNVZXX29md3NsbzRYbUFjTm9Jc0cyMlRLRGxIcEphY19McEpERmdNbnl6LXlULVE?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 18:38:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US imposes more sanctions on Cuba - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUTBXOUxEdGNvYndTMlBGZHRFQk1wNU8tZk5DV29LdHNJMVlEcU5LcHNxTHJKTlMzWFJNZ0ZWelJ2Vl9GaXl4cklaVDcwd2dld2YyeDRicXVxQWhIcWpSTEY4emRvc3JEd3FrUmRnUU80UFdLdDNRN0IxYW5wVkV5NDBlc0VNanFV?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 18:22:11 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "EXCLUSIVE: Former PM Imran Khan would not confront Pakistan army chief if freed, close aide says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTFZQcDhFcFRCOGNyelJ6Q0V1c0k3VHh5WG96VU9MbE83RWgxZDN1TDV5VWtKbHB4NUR5MDVod1k4YTVMQ3JHUlVGS1Z0ZGU3V05XR2MybG95NjhoUHhJMEZmdTJiVGdfUC0yc0JvZjN4Yy11STkteFlQeEJuTFRycjVEVUxOX2pueWRJallNcDVBRlJzRVRPVm0xU185aGNBRFlpTWptS0JtcklJcHl0cGNoZW9hN2FmSmFyVlA5Y2tzNGoyRkVkMk1lazB0T2M?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 18:15:38 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "EXCLUSIVE Soccer-Regional powerhouses weigh no-confidence vote in bid to oust Infantino - sources - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVjJ6TVk2TGJSWlNGU1NiQWNNeDRDaGhRa1ZmNlNQSUxFSEFiZjI2SHViczZveVJ6ZWdta1o4Q0pDcC1VWGd3NFI5WjhvekFNM1VwWkQ5bjlqZ29YRXFYS1A4bGdfMTQzUkdPWGx2SjZERVZ4dkNwcmp4U2N0bmQ5MGE5SUw2WnJkRkV6Sy1GYjBFZWRRcFgtbE40YndqRGVSWDE3RDVGNDh2MDE5emd0TUhzZDdoMGZVeUVtYW14MA?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 18:14:45 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Bessent says US will impose toughest ever sanctions on Iran, urges China to cooperate - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUlFnUHhPNjlxRW5kTy03TFctOE1ST1NabGVNalozY2hiR2RKcEtfV1ZRblJ1VlJXQXRNem1yZmpIRVVYUjJOd2pzWElTX0JVeXZVR1V1Tk5NOG5oWWUtRVZzWDNFOE5KbE1VNmtubXdodnVzQ1RZMFV3TnpUUXVHM1N5MXZqZTBtdW1iUG8xS18wdi1ranhQQXpfVDdiYnRsc09iN3JtbEhZTVIwS202X0lmSkF2V0c2dFV5NQ?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 18:04:43 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Walmart sales growth slowdown tests consumer resilience, shares slide 10% - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWHpDQjhTTjdrTGVtLWhZMUJIdWtybnk5SjJ0bWxfMjZ3VmhYXzE3UGljRlZiMmI3V0FNN09Pb1NYWlhCWTVmMlFsdjZTRDFLUFh4WV9Yb0ZGMTJWYTc0eWVWVEZiVC1oVmdXNTBNdGtGdGZoWHN3MzRndDR2YlY2bzFuWTlJeHBXdGJzZHZzMmFiVzYxWUtsZDFlN0F6OWJPTktkS0RaTmtjY0I4WU9wQ3Y4X1VsZzQ?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 17:48:45 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T19:35:35.799Z"
+      "updatedAt": "2026-08-20T20:34:20.749Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T19:35:36.102Z"
+      "updatedAt": "2026-08-20T20:34:20.984Z"
     }
   ]
 }
