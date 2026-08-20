@@ -1,25 +1,37 @@
 {
-  "generatedAt": "2026-08-20T06:59:32.480Z",
+  "generatedAt": "2026-08-20T07:51:15.824Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "At least 12 killed in Kyiv as Ukraine grapples with air defence shortages",
+          "title": "At least 13 killed in Kyiv as Ukraine grapples with air defence shortages",
           "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 20 Aug 2026 06:44:20 GMT",
+          "pubDate": "Thu, 20 Aug 2026 07:37:55 GMT",
           "source": "BBC News"
         },
         {
           "title": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
           "link": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 20 Aug 2026 06:39:14 GMT",
+          "pubDate": "Thu, 20 Aug 2026 07:33:11 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Mushroom killer must stay in jail forever for 'truly dreadful' crime, appeal court told",
+          "link": "https://www.bbc.co.uk/news/articles/ckg3j3yn4exo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 20 Aug 2026 07:08:35 GMT",
           "source": "BBC News"
         },
         {
           "title": "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison",
           "link": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 20 Aug 2026 06:08:02 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Four workers dead after being hit by train in Japan",
+          "link": "https://www.bbc.co.uk/news/articles/c5yrnz24j22o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 20 Aug 2026 06:02:10 GMT",
           "source": "BBC News"
         },
         {
@@ -39,26 +51,20 @@
           "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 20 Aug 2026 04:17:53 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Trump vows tougher economic measures on Iran and supporting countries",
-          "link": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 20 Aug 2026 03:22:57 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Canada and US say they are finalising a trade deal",
-          "link": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 20 Aug 2026 03:10:48 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T06:59:31.210Z"
+      "updatedAt": "2026-08-20T07:51:14.339Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Chinese court sentences founder of property developer Evergrande to life in prison",
+          "link": "https://www.npr.org/2026/08/20/nx-s1-5939335/chinese-sentence-founder-evergrande",
+          "pubDate": "Thu, 20 Aug 2026 03:31:55 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Prince Harry and Meghan are returning to the U.K. with their children",
           "link": "https://www.npr.org/2026/08/20/nx-s1-5939320/harry-meghan-return-uk",
@@ -100,16 +106,10 @@
           "link": "https://www.npr.org/2026/08/19/nx-s1-5936636/covid-research-fauci-morens-foia-guilty",
           "pubDate": "Wed, 19 Aug 2026 15:45:11 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "In new filings, Kennedy Center says it won't try to put Trump's name on facade until Sept. 8",
-          "link": "https://www.npr.org/2026/08/19/nx-s1-5937912/kennedy-center-president-trump-name",
-          "pubDate": "Wed, 19 Aug 2026 14:01:03 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T06:59:31.354Z"
+      "updatedAt": "2026-08-20T07:51:14.541Z"
     },
     {
       "name": "AP News",
@@ -118,6 +118,12 @@
           "title": "Israeli military launches criminal probes into killings of Hind Rajab and Palestinian paramedics - AP News",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdjh4SUp0a2ZhbFFhSGQzVERrREI3OFJQRXBVY3gyS2FQRkp4RTFyTUc4d3dJRDUzTzR5X1d1YkVCeU9nYTNyYnM5NmRjS25xXzVZWk03SksyVFlOWWdnM1dhQ0kyVFB3Vmt1RWZVeDlyNEZYMXpNbC1NdGNWbjZkSnBjM1ZqV1FrVjRpSmRNOThiT1d3OG5Ob3FQcHlTcnRNWWdqUktqa3FqLVRONmU1NmZWLURUV2lm?oc=5",
           "pubDate": "Thu, 20 Aug 2026 04:20:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Hong Kong conglomerate seeks $1.5 billion in damages from Panama for takeover of canal ports - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZmZ4b0hIVkkzbnNjUEFIeVFPNklYOXBoUjRMdS1wUEJvSnBLNWRrN3NKOGtvakJYd0tuRDRFdWVybV9FQ3lleWNuenQyT0ZZWjRuMy1jOXEyQUNTRDJ1aFRoalFQY3lmSTRnaEhTZmlKV0Z5Y2xsUVdpdllQMVFqOVlpNGZOOW0zMmUwYXNmc0dPaHlHYW5VNDVhWldIVHdQOUZRcmZhTUFnelRfYmc?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 03:48:00 GMT",
           "source": "AP News"
         },
         {
@@ -151,12 +157,6 @@
           "source": "AP News"
         },
         {
-          "title": "A warehouse burns near Moscow. In Ukraine, drone crews prepare to strike again - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQmpoWmRzcDBhN3VqXzZfdWxvTDMyczhVOFJ4WTFzdzZBcGprR0k5VzFDb0lKbG5TMjZHR0I0VWlKd3NiSXg1VTdsZ253LTZMRFlJaWlKOGdVRm41S2QxSkNpX2NJc3RxMTY4UWRLVVI5T1NSQ1plNEJWc2xBbVJrUkI4eFNxOVloY1pDeXl2MTg1YnhDd2ZF?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 01:26:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "'No serious dispute' that Comey's seashell post could be read as a Trump threat, prosecutors say - AP News",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTWV3U0xxeEl6WFd6NFBnQndaY2loSXdtOW5MRjdWMnF4NENURXZEY19qbnFZWFNucnNiRkZTODJsN1pEcGpGOFNSb3piUmpTa2Y2YkktWGRyel9yVGF4alFJUW1HaXRJY0p1TVRabnpVNDJKcHJJbnpzSGlwdGxfNU9yaXNjVGZnMGktV3BWQ1BrSzAy?oc=5",
           "pubDate": "Thu, 20 Aug 2026 00:19:00 GMT",
@@ -164,11 +164,29 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T06:59:31.907Z"
+      "updatedAt": "2026-08-20T07:51:15.105Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Russian-held Zaporizhzhia nuclear plant loses external power supply - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaWlKV0RUU0lqVEhJdVJ2NmJXeXNIQlFuMDQ2eGstbW4wWFEwcHdfdE1landiUHpHVTM1c0dWVkpMLWc4Q0ZVWXBUWFBIaFotM1pvczFvakhyS2d4a1dBNVFEZDZwRzBpSWZhb0tmdDBjVG5OcXh2MDJCZWxnOWZ4dm5QV3FBaXU1UzU2SXRlSEhYUFNPQThibmxjSjgtZS0xU29UUjBvUUpjbjM4bGRFbHEzMFlBR3hCM1FZ?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 06:26:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "China puts robocops on traffic duty, minus the arrest powers - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNblFqaGhQV3N2aDFBakVtbzBDMUphR0RiVVNZb2JjdksxdW5vSEpZcVdObmRDeVNZeUJwdUZra3J3eWVTX0RFSTRIQTExRWtnenU4UmZEenI5bWczLWdyNUFOZnE0RlNlRFFkVGNoSjd6RUU4OUZwTlZHZVZRT1R3VWNxS1A2TVV5LUllS2ZpWmdudU5ha2xZN003NDFZVVNz?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 06:17:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Treasury's upsized buybacks may complicate Fed's monetary policy work - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeUNFNVY4V1prRFU5SG40RlZMSHNaWkI2dDBMeGNxWVpEcExuU2FsRU03cDBkWWJvLThHWXhmZy1tWW15VnNnRDVYTlJwODIyb21PczdaZzVUc25WRmQzb0drazZaM2xTcEYtYmF0LWtUdjJyNl9ueHB6bjBuUHJPN2NTUE5NaURMNVV6bTk2MzZCb1RwR0lEN0ZOYkMwM0tFZG5CZ1F2RHdhWmVQamJNUm1Nb1VKeUFJTHZkckY1WG4?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 05:01:00 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "StanChart turns to hedge fund strategies to shield wealth clients from volatility - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYjROWmctZW12eTh3czYwc2UwOVhVRFVTam9BclZZVi1haWtvMFpqZFdUdVAwOXFoVDFKWXowTWYwaGs0dzRldzlvUEZpeGpNSHZENFh6SGM5ZHlxNTB1aUYwcWMwT01HWExVQkRBY1gxQkdTeDVqbDVvMUhCUl92amtWOC1yOE1nSFN4NzRaZEpFWDl5cDktcTdlMkJRUnBveXJIVG1BOG5xV1hsc3FaaEtBaVZ5dmowMThPVDhfWl8?oc=5",
@@ -198,28 +216,10 @@
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15TXJjRDJDOFNwcS1yR3FNNEVCb09sbU8yZkFmTEJqdjdqcGVMa1Mtekh3ZXNBTDE1d3F0M0I3TjdqZzlVa2JyWTVTR1pfS3ZVcXcySmRLUDJ4dWswblM1N2NKNWh2MjdIaU9mLW0wUjhGVklheWYtQWhpQU1Qdzg?oc=5",
           "pubDate": "Thu, 20 Aug 2026 04:32:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Robots poised for 'ChatGPT moment,' Unitree CEO says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdTBFUDUyY3VFZGlQY0VvSDFSRDV6bTJLSVV5OVd4Zk9tbzFjYkdVZ3Fxc3ZZbGNKU3lMdGhxRU4wb0F1QzIzMzFOUHBvdVlWVHB0MEFQSkN0eDVHOF9VMktYR1pETnpfcUt2TEJwLUJyMDZRam55a3hhUHFWN0ZwVWlEV0FRX21aN0lyNjhKVll1ck1CWE52cjgzNEFQeGV1Rnc?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 04:18:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "China Evergrande founder sentenced to life in prison - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdnR1a0dyTTViSTRJLWQyWnN0dkhwTzhmeko0dE01RUgxMkVuVmZCVzhjUlIyNlZXcUxWRUFvZFVOZk9LYVctT1FwUnh1UEE3QzB6OFRiT0g0YnI3aFpGaVpLaTlQaDJlMURRYlFuTjFmYThXSUFQUEV3SkV4SkFCRkJPNTBfOXh0MEJRVUh4LXRSanZMRjVnY0ZpTm94M0dBSEc4TFlIOUVCZnZTb2VERWZiaw?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 04:15:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Hawkish RBI minutes, softer dollar soothe rupee sentiment while intervention boosts - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMldTN1NDcXVUVXBXMTU2cTkydklrSmdxazJwNHVDZUJ0VTh2cnpOd29VcUNjdDItanZZWXYxdGlEUkRUY1F6WDdXVThQcldkeHhHaGkzV3ZKTzRTd3JPMy1UeWVUSTMzRVVDdFh5TW4ta3NWZlA2dXkxdU5pWDQyZ3g3d2p4QVFMYXBkbTJfRnpWdUViNmxSYUNLU1JKeEtONWNwUEdiSnhaQWk2TFE5N25YdHVGTXFNRWtpWm1OZ1FNdw?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 03:04:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T06:59:32.299Z"
+      "updatedAt": "2026-08-20T07:51:15.497Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T06:59:32.480Z"
+      "updatedAt": "2026-08-20T07:51:15.824Z"
     }
   ]
 }
