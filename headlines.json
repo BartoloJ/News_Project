@@ -1,19 +1,31 @@
 {
-  "generatedAt": "2026-08-20T04:09:19.397Z",
+  "generatedAt": "2026-08-20T05:05:19.346Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
-          "link": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 20 Aug 2026 03:22:57 GMT",
+          "title": "Missing teen hiker found dead in Australian bush after eight-day search",
+          "link": "https://www.bbc.co.uk/news/articles/c304e2dlv20o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 20 Aug 2026 04:49:52 GMT",
           "source": "BBC News"
         },
         {
-          "title": "Missing teen hiker found dead in Australian bush after eight-day search",
-          "link": "https://www.bbc.co.uk/news/articles/c304e2dlv20o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 20 Aug 2026 03:16:22 GMT",
+          "title": "Russia launches missile strikes on Kyiv and surrounding region, killing at least eight",
+          "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 20 Aug 2026 04:46:32 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
+          "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 20 Aug 2026 04:17:53 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
+          "link": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 20 Aug 2026 03:22:57 GMT",
           "source": "BBC News"
         },
         {
@@ -39,22 +51,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 20 Aug 2026 02:05:20 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Israel opens up bids for highly-sensitive West Bank settlement project",
-          "link": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 20 Aug 2026 00:53:20 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Who is Natalie Harp, Trump's right-hand woman?",
-          "link": "https://www.bbc.co.uk/news/articles/c80nzdjgmk3o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 19 Aug 2026 23:11:14 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T04:09:18.006Z"
+      "updatedAt": "2026-08-20T05:05:00.746Z"
     },
     {
       "name": "NPR",
@@ -109,7 +109,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T04:09:18.194Z"
+      "updatedAt": "2026-08-20T05:05:01.025Z"
     },
     {
       "name": "AP News",
@@ -163,7 +163,7 @@
           "source": "AP News"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-08-20T04:09:18.759Z"
     },
     {
@@ -218,7 +218,7 @@
           "source": "Reuters"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-08-20T04:09:19.157Z"
     },
     {
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T04:09:19.397Z"
+      "updatedAt": "2026-08-20T05:05:19.346Z"
     }
   ]
 }
