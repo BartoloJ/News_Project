@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T07:51:15.824Z",
+  "generatedAt": "2026-08-20T08:46:50.530Z",
   "sources": [
     {
       "name": "BBC News",
@@ -7,7 +7,13 @@
         {
           "title": "At least 13 killed in Kyiv as Ukraine grapples with air defence shortages",
           "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 20 Aug 2026 07:37:55 GMT",
+          "pubDate": "Thu, 20 Aug 2026 08:39:26 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Four workers dead after being hit by train in Japan",
+          "link": "https://www.bbc.co.uk/news/articles/c5yrnz24j22o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 20 Aug 2026 08:14:20 GMT",
           "source": "BBC News"
         },
         {
@@ -26,12 +32,6 @@
           "title": "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison",
           "link": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 20 Aug 2026 06:08:02 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Four workers dead after being hit by train in Japan",
-          "link": "https://www.bbc.co.uk/news/articles/c5yrnz24j22o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 20 Aug 2026 06:02:10 GMT",
           "source": "BBC News"
         },
         {
@@ -54,7 +54,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T07:51:14.339Z"
+      "updatedAt": "2026-08-20T08:46:49.321Z"
     },
     {
       "name": "NPR",
@@ -109,11 +109,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T07:51:14.541Z"
+      "updatedAt": "2026-08-20T08:46:49.494Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Chinese court sentences Evergrande founder to life in prison for fraud - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdmpPc0tFMWFFbVdNcHBFUnNjM2h4QjhCVkFNcXU5Tk5YcXNmZWIzNUhEOGRhRlpfZFFwZGN6SW4wUjQ2T1hhbHdzUmltRFNTYURYd3NncEF6R3gyQ3hhQWxLSFFqU3dRX3FQeWMtbTQ5eGNZekZldjlVVlNLeWpFV2FjRUVIazYwQmdGVjI5eXI0dHY3NVljWjhtLWtCYVZwZ2JYSA?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 06:13:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "States take Meta to trial in California in the biggest fight yet over social media harms to children - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOG5rZWdhbGRKSkV4UlBQOEtWWVpoS05LbkFqcWVRMzFwWm9OV0pFRXpQNXB4R0tRNEJneDk5eHhYZlpJYWJDQnNjT0Q4QlpCTTlsbE5TUS1Rd2RZX0lSTFJpa21ycDZXWDNTcENUcG9Sc01UeHphX2V5bDR1dllld0I4V1d1Q3ZYSXpURVRfemRqUVhvLWQzd2RYaTZuN1lrY0E?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 05:51:06 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Israeli military launches criminal probes into killings of Hind Rajab and Palestinian paramedics - AP News",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdjh4SUp0a2ZhbFFhSGQzVERrREI3OFJQRXBVY3gyS2FQRkp4RTFyTUc4d3dJRDUzTzR5X1d1YkVCeU9nYTNyYnM5NmRjS25xXzVZWk03SksyVFlOWWdnM1dhQ0kyVFB3Vmt1RWZVeDlyNEZYMXpNbC1NdGNWbjZkSnBjM1ZqV1FrVjRpSmRNOThiT1d3OG5Ob3FQcHlTcnRNWWdqUktqa3FqLVRONmU1NmZWLURUV2lm?oc=5",
@@ -149,22 +161,10 @@
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU3o3MnpVX0FDel85T2RxZC1SWGpMU09nSlF3SG8xTDQ1VWlhZDNSVzVWdWRBa3g1QXlpemJ3LXdNS1RicE9XaU5YaU81bnlzaV9JcEtSQ3lkUlJoWDJYdk5DWk96bG83R0JmaldOY3NaOE96clFIN3ZuNUZONGVPSnBtSmF0NzNYT0xqRkJWZ0YwNmFBRlF2QjJVczYzVTkxTU03RXN1c3Q?oc=5",
           "pubDate": "Thu, 20 Aug 2026 01:36:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "North Korea shrugs off Trump's scaled-back drills with South Korea, saying it changes nothing - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaUx1WkNNOFA1UXFocXB1OXFnbFc4dFJNMXdjTkExUmt4MFEtb1dta003UmoyX3VtUExaVlZ5cWJmb0tDS0U0Ym9LNE5EQ1Z4Q2tKaGNJUEh2X2toZ0ZKbGNFc0ZEbnQ2SXo0eGVhRE9lZHJZWlI5cU5uQUFSbHdJOXVEZUh1QlRhWjBmZQ?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 01:31:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "'No serious dispute' that Comey's seashell post could be read as a Trump threat, prosecutors say - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTWV3U0xxeEl6WFd6NFBnQndaY2loSXdtOW5MRjdWMnF4NENURXZEY19qbnFZWFNucnNiRkZTODJsN1pEcGpGOFNSb3piUmpTa2Y2YkktWGRyel9yVGF4alFJUW1HaXRJY0p1TVRabnpVNDJKcHJJbnpzSGlwdGxfNU9yaXNjVGZnMGktV3BWQ1BrSzAy?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 00:19:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T07:51:15.105Z"
+      "updatedAt": "2026-08-20T08:46:49.973Z"
     },
     {
       "name": "Reuters",
@@ -179,6 +179,12 @@
           "title": "China puts robocops on traffic duty, minus the arrest powers - Reuters",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNblFqaGhQV3N2aDFBakVtbzBDMUphR0RiVVNZb2JjdksxdW5vSEpZcVdObmRDeVNZeUJwdUZra3J3eWVTX0RFSTRIQTExRWtnenU4UmZEenI5bWczLWdyNUFOZnE0RlNlRFFkVGNoSjd6RUU4OUZwTlZHZVZRT1R3VWNxS1A2TVV5LUllS2ZpWmdudU5ha2xZN003NDFZVVNz?oc=5",
           "pubDate": "Thu, 20 Aug 2026 06:17:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "SK Hynix workers to get 60% of this year's bonuses in stock rather than all cash - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOanNWYk1iU1JLems3WEdKRHVmeThRbkNudy1VU0VlOV9Wal8tNC1TZXNHVENIdkJ3TWNYclNWM09ZTmpCVGhjQl9KNExuR3cxN0NReWY3U2p5NF9RNlVEM2NLQUd2YVh3aEdCeUNKd3gtelEzTFdOb1AzR2VKTFlHM1c4NXdnNTNhLW16WC1wTDZXZ1hNNjNBQ21GX28wSl9PalBWV0gybmZsNXo1eWJhSw?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 05:27:00 GMT",
           "source": "Reuters"
         },
         {
@@ -210,16 +216,10 @@
           "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPai1rZ0dWNGExT2VoOUNnVEs4X01iZlpPVkU0aUlQTE9aNVJXNThnV0k3aEtZMm9yNmxBWWgwTVJzdFMzN2s0ZUR5amstVHNtQnNESkdRQklHV2Jtbm4wRm84OEN0WlVZU0ZuV3lNX3ZkVnlzbG1mYkU2dnRHS0xnQzY0U1Z1amx4d0hRMnkyNmxsejlnN1ZCTFVKenRyUXdXaDdibUVBaktqT3l3N3dJTldHaFR0N19WQUtTNklFV09NLVNzWFo0ZEhhZ1gxYjhqNmhIS2hRN3U?oc=5",
           "pubDate": "Thu, 20 Aug 2026 04:36:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Morning Bid: How long can this Bessent put last? - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15TXJjRDJDOFNwcS1yR3FNNEVCb09sbU8yZkFmTEJqdjdqcGVMa1Mtekh3ZXNBTDE1d3F0M0I3TjdqZzlVa2JyWTVTR1pfS3ZVcXcySmRLUDJ4dWswblM1N2NKNWh2MjdIaU9mLW0wUjhGVklheWYtQWhpQU1Qdzg?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 04:32:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T07:51:15.497Z"
+      "updatedAt": "2026-08-20T08:46:50.406Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T07:51:15.824Z"
+      "updatedAt": "2026-08-20T08:46:50.530Z"
     }
   ]
 }
