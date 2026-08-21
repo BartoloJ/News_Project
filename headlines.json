@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-21T08:07:09.208Z",
+  "generatedAt": "2026-08-21T09:08:56.160Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "El Niño set to be 'strongest in living memory', says Met Office",
-          "link": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 21 Aug 2026 07:43:30 GMT",
+          "title": "Why the US economy is ringing alarm bells",
+          "link": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 21 Aug 2026 08:38:18 GMT",
           "source": "BBC News"
         },
         {
@@ -23,6 +23,12 @@
           "source": "BBC News"
         },
         {
+          "title": "Gandhi's handwritten notes on life sold for $1.69m at Indian auction",
+          "link": "https://www.bbc.co.uk/news/articles/c4gdn2vmgvwo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 21 Aug 2026 06:33:32 GMT",
+          "source": "BBC News"
+        },
+        {
           "title": "Hong Kong's Tiananmen activists guilty in national security trial",
           "link": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 21 Aug 2026 05:47:32 GMT",
@@ -35,30 +41,60 @@
           "source": "BBC News"
         },
         {
+          "title": "'Reasonable' or a 'hit list'? New Yorkers react to rollout of Mamdani's tax on second homes",
+          "link": "https://www.bbc.co.uk/news/articles/c75gp1ppk6no?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 21 Aug 2026 05:02:39 GMT",
+          "source": "BBC News"
+        },
+        {
           "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
           "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 21 Aug 2026 05:00:57 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
-          "link": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 21 Aug 2026 04:27:13 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Japan executes man who killed five in Pachinko parlour fire",
-          "link": "https://www.bbc.co.uk/news/articles/cly8k232mn7o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 21 Aug 2026 02:49:27 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-21T08:07:08.188Z"
+      "updatedAt": "2026-08-21T09:08:54.798Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "What to know about this weekend's IndyCar race on the National Mall",
+          "link": "https://www.npr.org/2026/08/21/nx-s1-5939443/dc-indycar-race-overview-watch-politics",
+          "pubDate": "Fri, 21 Aug 2026 05:01:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Federal government thins the herds of wild horses in Colorado",
+          "link": "https://www.npr.org/2026/08/21/nx-s1-5920407/colorado-wild-horses-federal-government-roundup",
+          "pubDate": "Fri, 21 Aug 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Amid intense backlash, people are vandalizing Flock surveillance cameras",
+          "link": "https://www.npr.org/2026/08/21/nx-s1-5939851/flock-cameras-police-block-surveillance-vandalize",
+          "pubDate": "Fri, 21 Aug 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "As Trump courts Kim, Pyongyang ups price while Seoul fears being sidelined",
+          "link": "https://www.npr.org/2026/08/21/g-s1-139466/as-trump-courts-kim-pyongyang-ups-price-while-seoul-fears-being-sidelined",
+          "pubDate": "Fri, 21 Aug 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "As USS Lincoln heads home, mental health experts tally the stressors of life at sea",
+          "link": "https://www.npr.org/2026/08/21/nx-s1-5936445/uss-lincoln-returns-mental-health-stressors-life-sea",
+          "pubDate": "Fri, 21 Aug 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Morning news brief",
+          "link": "https://www.npr.org/2026/08/21/nx-s1-5931262/morning-news-brief",
+          "pubDate": "Fri, 21 Aug 2026 04:46:00 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Charter plane crash kills 8 near remote radar site in western Alaska, military says",
           "link": "https://www.npr.org/2026/08/21/nx-s1-5940552/charter-plane-crash-kills-8-alaska-military",
@@ -70,50 +106,20 @@
           "link": "https://www.npr.org/2026/08/21/g-s1-139527/indiana-storm-outages",
           "pubDate": "Fri, 21 Aug 2026 02:40:26 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Federal agents seize devices from ex-Rep. Eric Swalwell in sexual misconduct probe, AP source says",
-          "link": "https://www.npr.org/2026/08/21/nx-s1-5940542/federal-agents-seize-eric-swalwell-sexual-misconduct-probe",
-          "pubDate": "Fri, 21 Aug 2026 01:49:48 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Jurors hear 'Keffe D' say his nephew fired fatal shots at Tupac Shakur in 1996 drive-by shooting",
-          "link": "https://www.npr.org/2026/08/21/nx-s1-5940538/jurors-hear-keffe-d-say-his-nephew-fired-fatal-shots-at-tupac-shakur-in-1996-drive-by-shooting",
-          "pubDate": "Fri, 21 Aug 2026 01:41:15 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Record cyclosporiasis outbreak tests the response of a 'weakened' health system",
-          "link": "https://www.npr.org/2026/08/20/nx-s1-5930462/trump-health-foodborne-illness-outbreak-cyclospora",
-          "pubDate": "Thu, 20 Aug 2026 15:54:19 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "The Iran war and tariffs are costing farmers. Will Republicans pay in November?",
-          "link": "https://www.npr.org/2026/08/20/nx-s1-5914684/farmers-trump-pennsylvania-midterms",
-          "pubDate": "Thu, 20 Aug 2026 15:22:20 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "3 things to know about the $40 trillion federal debt",
-          "link": "https://www.npr.org/2026/08/20/nx-s1-5939473/40-trillion-federal-debt",
-          "pubDate": "Thu, 20 Aug 2026 12:50:41 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "What to know about Dr. Heidi Overton, Trump's pick to lead the FDA",
-          "link": "https://www.npr.org/2026/08/20/nx-s1-5939549/heidi-overton-fda-commissioner-trump-senate-nomination",
-          "pubDate": "Thu, 20 Aug 2026 12:49:11 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-21T08:07:08.328Z"
+      "updatedAt": "2026-08-21T09:08:55.109Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Thousands of migrants in Ceuta wait in limbo while Spain figures out what to do with them - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYi1FM2hNZzAzeGRENURtN0J3RktQN1hCOEIyMnpkaHZuSDJIbG55VWRSbG1XSlE0RldjNHZNQVhHOGVDYmdiSGVNYmpWNkctVHpWSjdPenZBS25LSDBQVnhpZmdKRUJ3TW1WOFVES0NEQi03NUhwX1h6N2lGc2xsRlhCWGE1YXA1dWoybFdvRy14YTQ?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 07:48:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Charter plane crash kills 8 near remote radar site in western Alaska, military says - AP News",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPR2lLNnhWYlF0UWtrc0lGeEdZTTQxa1l6WEdmTnhib0tqbGsyYkxOZTVGcVppbGtUUUVqTndBcWxySExoM1ZYQmtZam5NOURVb2RHUXNJa0dqNExxMHBsRDU0SGhCQ3J1OXk1ZzhXRnB6eFE5ZWxkLVdsM1gtTzE2bVhrZnhta095YU05ZUFQTQ?oc=5",
@@ -151,12 +157,6 @@
           "source": "AP News"
         },
         {
-          "title": "Canadian provincial leader says Trump is a ‘bad person’ as Canada weighs concessions for trade deal - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTHF5V2hJdGEwOHpyRTJDbTl2SFVBMl9UZzhuS0R2QWRERkwydk82Q2tybHo3Vlh1VzdWc1J6TWdPejg1ck01NGprV0pQTjFsWW0wVzZKMk9EbzJTS1VtdUZUN1JmeEEyb18xamw3TmNHMmR3ZFpwSEgxcEozUThrN2V6eEc2dTlEYjBCbVJVYTM?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 00:51:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "California lawmaker Aisha Wahab wins special election to succeed Eric Swalwell in Congress - AP News",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcVc1YUxqYzlMRG9jTktiQXQtaGE5bDUyd3RhLUNoNENuOWc0TmN5SE1JTjgxUkpRbjlXcmNXb1FqNTItSEk2YjBTVnpCMDY4VmFDUERQMWg2bzRUYjlwTEg0ZjNzVDVlS3NHYjZQRTlxcDhmV2tPWHJlWGY3czBfMVNPZ1J0QWN2OG9CaTBDN2ItTGpCYWZHZHpnOUpGT20yS1BSYy1nRWZiWTlBY0FLWlB3?oc=5",
           "pubDate": "Fri, 21 Aug 2026 00:48:00 GMT",
@@ -164,11 +164,35 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-21T08:07:08.696Z"
+      "updatedAt": "2026-08-21T09:08:55.617Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "India orders removal of Google Firebase accounts after spotting scam pattern - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSnlmWWZrN2UwRVI4Zkc5cHZJdWkxdTBlU3dXYW43d3dzVzdnVi1iN1RiM1RuTHI2U3Y4cm5fOWZsU2RsU2VJclkwVDNwZlhGODVPVVpSTEk1VEt1QjRmcUlTQjhYLW9zMnNfRWV0UUZlbGduQTFtNWk3WFFMRjNmODFWQ3pzcHNiczRHdUV2Q3RCdjFmVDhOUU1ESWY5TFRVdXFnQlByVWc0ZnBkLVl0VU5mOEFyQjFyYnA2LXlR?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 08:15:06 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Iran says Tehran must overcome 'unjust sanctions' as U.S. ramps up economic pressure - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZ1k1ZnYtdXFiVWJvUVdmQlJLR1hWN1czeTU1Vkt5VFEyWkNISDhnUHVBY1hLb1JMdnp1dmRxU3Z6WG9wNlZRUmVZaUZxeVJVOERnX0QzeEVuU1FPbzByQ29EQXBvMzJrSkZWOWdkV0pHYUlfYkNTcFZDaTc3cUdLMzdmemlmV2hhUlYzdDFwUHpMcE9oSVZCbXlGYzM2LW9DcEFBdl9kSHRwOF9PdUtUMjdaWUZ5Rm90aFh4blpzaXhXUkZSU0ZPNzRvRQ?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 08:14:41 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "India set to approve $1.2 billion incentive plan to make building equipment, sources say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWFozQy1XZHVfdTB4MmlpVmg1dWdvZzRqa1R5dl9iYWNtZXdKaXBHcjNHMlUtZV9pV2VWaXFGenBPckhaQ29zSXBFcWE1b2hnM3VSQ0lWOTdoMEhQTzhnakZJNVcwdHZXd1ZBcEJTUnZfT3JfWXhraTREa3hwREk2Vl9zR1Boa1FuUlpYNFF0SEowRnRJcGYxQy0yMnZ3X0lVOVluZWMtLXpoZGlWall4WURrenZGSktlanI1OURrZlJFUWlaRGc?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 07:09:43 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Europe's hottest town says climate change is reshaping daily life - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNGprSDRDTVlCc044X3ZGN0VKUkNfb3o2azduVG9Ed2hfU0JYMHFJeERrTGN5WFdHeWJWR2Jwak95MlZGWmN0bVE1M253QWZtdzRid21zbllXTUJtSVhQOGNZY040ekdmMHFhWUY5bXRJMXUyaXQyZzZ0ZTJxZTM2X0tkOUR3VGlrdE5STlpBTUp5NnZUSFdHd1MtQndRX05KdnZUVHlsQ3lRTGg2Q3V4UW1BQ2xJNVNkb1JHRmxn?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 06:03:00 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "India to give Canada's Fairfax two years to consolidate holdings for IDBI Bank deal, sources say - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORHExNm9zWW9hdmEwM2o5RERQOEVBRV90SnBjOERXUGdIcUdzdWpndlVHX2docnZYWExBcncxM08xQUJqamd5eFlaRUNlbVBXa1F1blhQMUxtZXlGYlJicHlVSGpMUzBTd29Rb3JLVXlwMncteEc1d0t4eGFOMXpIcHpXcElVTmMyLVBXN0cydWNiZXhYUkpMZkdmWUp4MEN5Mnl0WkVIeUZxQ1JBT25mWGFZN2tBUnkzM21xdnRqTEFjQWk4bjJR?oc=5",
@@ -192,34 +216,10 @@
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRTFpaml0bHVjVlJzcU1CR1BBWGxxZ3VIa0djWlI1RUNSWC1DRkJ0WVVodWlXUGNCRGUydUJXcUc1XzJyRl96elg5WDNqQ1k4R25ibTBLVWxrZG1EdkphZ1lVb0FYUkRrZFVZNllvME1NOUhGTnE4SHpWQjZrbEZzNUhUVXhYUjVCZWhzVzBucGlHTTM0cG1WQTJkNlZKZlBLZzFZNGJTRzRDajA2enZ3cjlsR0w?oc=5",
           "pubDate": "Fri, 21 Aug 2026 04:52:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Chinese court in Guangzhou accepts bankruptcy case of Evergrande unit - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR1NrRUwtVERSeHZlZ0lyUWtQcXYzdHZkcEd6RDY3dU5ldnducEh1YzJHZkhodVczOGxCem80NllRVWZFaHpaMjZqSjJLcFUzaEdOekNuNlJ1T0tTY2ZQWGpRLW40ejRpbzJRWVF4eEtLX0Ztc09QeGQtWDM4ZkZBc3IxSWZQNEFPSDExN010RTZacUM0SHAyU2NReS05UGRQQUtHQkNycUc?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 04:41:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Morning Bid: So much for the Bessent bid - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1uWDRxb0NtTDZ0RnN1bUU2dXlHYzdDbTNfb1NSUEI5dV9oRzdVMjk5SmtnSXlKRW02QzVxYnJCOEJ4RmpoclAyVU0wbW4ydldlb3lTcldxbkNtcEgzamN4ZHBJU1V0NXF2THhwRzB0V0k3TkhDdEstaEJNd3IwWHM?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 04:31:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "South Korea plans chip windfall fund to back youth, AI investment - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYWx2Uko2TGV3T04xUFk4dXpjR1Y2V2FDQ295Rm5ydHNSYUdKcWFWM1daM3VuWkdveFl2MTNiY19hdmhVUTBud3cyR3A1YmtGd0licHpNN2xoWmdTeE85WTRyVW9OWVd4Vi01bERRWGtvbzNJaDY4VUlETEcwMzZYMW1DLTBPWXQ3MUFoSUFXSVNzSnlpdFAyOWdPZlNLZHBuZERhTkpmTFNCVEhGTU5NUjl1RldmR28?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 04:11:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "War-hit European markets are far from down and out - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdnhLRk44Z05ZeGw4cWhLcEtkTVRNMnRuSDd0cTYwa2xJdWM0WEsxQS1MeG8yM0lnenM2QVpxc0pKVHdIaHI1TXhzMk40Z25WTDlzdkVTT2tmNlRORlc2eW9FRGpsWng3MEJ1OUZJVVpkUm1QTzV6Z2dkeTd2YjRtREtPdGZXTXAzeUdNaUNuaw?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 04:01:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-21T08:07:09.084Z"
+      "updatedAt": "2026-08-21T09:08:56.040Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-21T08:07:09.208Z"
+      "updatedAt": "2026-08-21T09:08:56.160Z"
     }
   ]
 }
