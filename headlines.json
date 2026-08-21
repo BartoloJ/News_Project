@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-08-21T07:02:35.091Z",
+  "generatedAt": "2026-08-21T08:07:09.208Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "El Niño set to be 'strongest in living memory', says Met Office",
+          "link": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 21 Aug 2026 07:43:30 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Five missing after fire in Swiss Alpine town",
+          "link": "https://www.bbc.co.uk/news/articles/cy8e6g13497o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 21 Aug 2026 07:06:16 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Panama Canal to cut number of ships passing through due to El Niño",
           "link": "https://www.bbc.co.uk/news/articles/cwyl0jkxxryo?at_medium=RSS&at_campaign=rss",
@@ -23,6 +35,12 @@
           "source": "BBC News"
         },
         {
+          "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
+          "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 21 Aug 2026 05:00:57 GMT",
+          "source": "BBC News"
+        },
+        {
           "title": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
           "link": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 21 Aug 2026 04:27:13 GMT",
@@ -33,28 +51,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cly8k232mn7o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 21 Aug 2026 02:49:27 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Bali jails Swiss tourist for insulting sacred Day of Silence",
-          "link": "https://www.bbc.co.uk/news/articles/cj4kr59r28ko?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 21 Aug 2026 02:33:27 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "US sanctions more Cuban companies and officials",
-          "link": "https://www.bbc.co.uk/news/articles/cgq5x9l7054o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 21 Aug 2026 02:06:28 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "El Niño set to be 'strongest in living memory', says Met Office",
-          "link": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 21 Aug 2026 00:33:21 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-21T07:02:33.439Z"
+      "updatedAt": "2026-08-21T08:07:08.188Z"
     },
     {
       "name": "NPR",
@@ -109,7 +109,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-21T07:02:33.788Z"
+      "updatedAt": "2026-08-21T08:07:08.328Z"
     },
     {
       "name": "AP News",
@@ -124,6 +124,12 @@
           "title": "Pakistan's former Prime Minister Imran Khan returned to prison after exam at a private hospital - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM05aYV9OUFBHNHp0UEE4NWlfaVFEMEFXUjI0NGo5YnpaWUJnekhmNjZmdnhzQ3pKZkVWUkF3dlVtNDJyOGxCOWE1VVJNREF2dWxGVG4tR2h4UzViSjlZdlVEYTlYSWU3WVQtQ0RBcks4MjZqb2tXX21LR2N0NVFTbWJZMFRGM3dRV1NvLWhTMk5ZU2RvS2NCbW85Y09zM0xkLUMwcWQwc0JvbkE?oc=5",
           "pubDate": "Fri, 21 Aug 2026 04:37:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "What to know about the Tiananmen vigil organizers convicted of inciting subversion in Hong Kong - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMFhaRVo2WjZXR0pWeVVIY2NDaS1HR043SXhNUW1xUURvXzdRLVBHcUNSbGJuSldILXdmR3EtWWF5NkxvOExsaUlNR1lMWkc5ZEZ3VTA0aEpUdjdzQ0toWVQxWHZFZzAtMjkzaVpqakFZMlYxVXM4X0dFR3l6cmk0cDNvcVlOU3lSeHR4VkFweUZIdE9OVUliMExNeHM1eDV5SWVCR0IwSHEySmJ5RXkxRlE2Zw?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 04:13:00 GMT",
           "source": "AP News"
         },
         {
@@ -145,34 +151,28 @@
           "source": "AP News"
         },
         {
+          "title": "Canadian provincial leader says Trump is a ‘bad person’ as Canada weighs concessions for trade deal - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTHF5V2hJdGEwOHpyRTJDbTl2SFVBMl9UZzhuS0R2QWRERkwydk82Q2tybHo3Vlh1VzdWc1J6TWdPejg1ck01NGprV0pQTjFsWW0wVzZKMk9EbzJTS1VtdUZUN1JmeEEyb18xamw3TmNHMmR3ZFpwSEgxcEozUThrN2V6eEc2dTlEYjBCbVJVYTM?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 00:51:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "California lawmaker Aisha Wahab wins special election to succeed Eric Swalwell in Congress - AP News",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcVc1YUxqYzlMRG9jTktiQXQtaGE5bDUyd3RhLUNoNENuOWc0TmN5SE1JTjgxUkpRbjlXcmNXb1FqNTItSEk2YjBTVnpCMDY4VmFDUERQMWg2bzRUYjlwTEg0ZjNzVDVlS3NHYjZQRTlxcDhmV2tPWHJlWGY3czBfMVNPZ1J0QWN2OG9CaTBDN2ItTGpCYWZHZHpnOUpGT20yS1BSYy1nRWZiWTlBY0FLWlB3?oc=5",
           "pubDate": "Fri, 21 Aug 2026 00:48:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "US ramps up Cuba sanctions and detentions of Americans returning from the island - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTVp3TkxRTlg1ZnZiYzUxM0hZWDZYM056SlNRdDVjYl9fcHB5ZkdhNHVjcXVacWRyOVdxbFBGR2xvYXAtcHg5ZFQyUER5LWNhT2xWUjhucFc4R3FYZ3Z2YlZLMUUwTG5GczVWS05xY0Z1dzdzMk1RUmt6VWFzMHZqSnBILUlqVXROOWUzUUFtMEdmdm5h?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 00:27:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "AP reporter Christopher Bodeen, a tenacious chronicler of China’s rise, dies at 55 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSlU2WkZpY3RCQnBVWDc2R3ZIY3BrVGxhdTBWbjRwbkZzek4yaFlwLTUzTXZBamdkbmFGUV9qVWtKbkNNczVhWm9kRUlHMGw0QlRLOW9feWdTaGZXZElNeDNiaHktN0Q2NmViY19oT2tNMHMyd2VyckNONlYxby1zYzNXQ2l3X2hlenp6MlZwXzBoMnYwd05paTVmMkl6enR3aGVoUnNQSzlUWUZwTjNneDBYNUg5TDJGYXktTVoycVg?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 00:26:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-21T07:02:34.307Z"
+      "updatedAt": "2026-08-21T08:07:08.696Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "China boosts imports of Russian crude, stymieing India's refiners - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZU9oV2RaZ2RZNW5hZlFqbXFNNmd5RnJkM21hWmo0WVhJX1paTlBWaE50SHhMazFzdHJuVVF2QlpzT1lRZG1VUEdERkdsSXcxTjFmQjd5RXlJeDM1eVR1NHZnd0xlRWJFXzlsbS0tdmpJMlVzeFNrLUk1R25abzR3cUxDYXRCUW1lekg0LU9lWmNzdWFyekI1SFJOdmxJSWVaRS0zT3Z5QzRVNkt3VndialQySlRtbTVKTTdJb3g1T0h2ZXFabXNLMQ?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 06:00:00 GMT",
+          "title": "India to give Canada's Fairfax two years to consolidate holdings for IDBI Bank deal, sources say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORHExNm9zWW9hdmEwM2o5RERQOEVBRV90SnBjOERXUGdIcUdzdWpndlVHX2docnZYWExBcncxM08xQUJqamd5eFlaRUNlbVBXa1F1blhQMUxtZXlGYlJicHlVSGpMUzBTd29Rb3JLVXlwMncteEc1d0t4eGFOMXpIcHpXcElVTmMyLVBXN0cydWNiZXhYUkpMZkdmWUp4MEN5Mnl0WkVIeUZxQ1JBT25mWGFZN2tBUnkzM21xdnRqTEFjQWk4bjJR?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 05:53:00 GMT",
           "source": "Reuters"
         },
         {
@@ -182,15 +182,33 @@
           "source": "Reuters"
         },
         {
+          "title": "Russian-Australian to appear in court charged with spying on Ukraine military - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcjlPQ0haOXVkNzZ2Q2JRUE1zbk1leG50T1NBdEFWMGdObk8xRVF0cTR6NmJjdTVQdm4wVUVtV0F2SkVXVHgtMWctczd2RW1GTG45dWZCalZlNWJaVzA1ODhvTVRfbUNXelE3WW1HXzJBUVBnY0liMDgxN0pRbGtOc0xqeGNYVnBDV2ZlU1BST1UweFFES2JuY0JjV3JKRlFDM1BUS1otQ0dFX3lHQTJNTjVNdDM?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 05:03:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Hong Kong court convicts Tiananmen vigil group leaders of inciting subversion - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRTFpaml0bHVjVlJzcU1CR1BBWGxxZ3VIa0djWlI1RUNSWC1DRkJ0WVVodWlXUGNCRGUydUJXcUc1XzJyRl96elg5WDNqQ1k4R25ibTBLVWxrZG1EdkphZ1lVb0FYUkRrZFVZNllvME1NOUhGTnE4SHpWQjZrbEZzNUhUVXhYUjVCZWhzVzBucGlHTTM0cG1WQTJkNlZKZlBLZzFZNGJTRzRDajA2enZ3cjlsR0w?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 04:52:00 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Chinese court in Guangzhou accepts bankruptcy case of Evergrande unit - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR1NrRUwtVERSeHZlZ0lyUWtQcXYzdHZkcEd6RDY3dU5ldnducEh1YzJHZkhodVczOGxCem80NllRVWZFaHpaMjZqSjJLcFUzaEdOekNuNlJ1T0tTY2ZQWGpRLW40ejRpbzJRWVF4eEtLX0Ztc09QeGQtWDM4ZkZBc3IxSWZQNEFPSDExN010RTZacUM0SHAyU2NReS05UGRQQUtHQkNycUc?oc=5",
           "pubDate": "Fri, 21 Aug 2026 04:41:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Myanmar military offensive targets land for Russia-backed port project - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNX0dtXzJ4MGc5aVI0a0tCdXVUcW9JdFJBZUctUGdjUTdwb194LUhfdHl1QnA4bDFZaFlNVmRGWWJpUUZKUUtGWGFWYWdMaGxnOFpVU1Z4S1dwWVpWWFIwTnNZV0l3YjMxYjA3WFdfdVJrOGRfaDY1aE41Q2JFaDI4azhlYnJJVENZRGY5TDJsb2syMnBFNTFvNnMtdFdoTEFialJkVkpvdXUtbmxobGVOVHBqdVpfYjFKVTk2SzdR?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 04:01:00 GMT",
+          "title": "Morning Bid: So much for the Bessent bid - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1uWDRxb0NtTDZ0RnN1bUU2dXlHYzdDbTNfb1NSUEI5dV9oRzdVMjk5SmtnSXlKRW02QzVxYnJCOEJ4RmpoclAyVU0wbW4ydldlb3lTcldxbkNtcEgzamN4ZHBJU1V0NXF2THhwRzB0V0k3TkhDdEstaEJNd3IwWHM?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 04:31:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "South Korea plans chip windfall fund to back youth, AI investment - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYWx2Uko2TGV3T04xUFk4dXpjR1Y2V2FDQ295Rm5ydHNSYUdKcWFWM1daM3VuWkdveFl2MTNiY19hdmhVUTBud3cyR3A1YmtGd0licHpNN2xoWmdTeE85WTRyVW9OWVd4Vi01bERRWGtvbzNJaDY4VUlETEcwMzZYMW1DLTBPWXQ3MUFoSUFXSVNzSnlpdFAyOWdPZlNLZHBuZERhTkpmTFNCVEhGTU5NUjl1RldmR28?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 04:11:00 GMT",
           "source": "Reuters"
         },
         {
@@ -198,28 +216,10 @@
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdnhLRk44Z05ZeGw4cWhLcEtkTVRNMnRuSDd0cTYwa2xJdWM0WEsxQS1MeG8yM0lnenM2QVpxc0pKVHdIaHI1TXhzMk40Z25WTDlzdkVTT2tmNlRORlc2eW9FRGpsWng3MEJ1OUZJVVpkUm1QTzV6Z2dkeTd2YjRtREtPdGZXTXAzeUdNaUNuaw?oc=5",
           "pubDate": "Fri, 21 Aug 2026 04:01:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Trump wants a new meeting with Kim Jong Un. North Korea says not so fast - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYmNSdFdHSUxwdV91bzFuRVhydnBoRk85Tng0QUp2Um1tczFEMDRBbGVac0llaER1U2VoeHNPbFdrXzdReXR3bGF1cUs4eVZnOUJnVUdvWmJJcVI1Tmltd3U1R2x2akJXVVN5TkRuZTRlYUJ6M2JBWTNNWlYwNWQ2UlZWZWxHS0NkcVUydnlTQlRydzY0MDBwVVUzaFFwQk5sTTlMYVNhWW9lTlpWSThUSHoxbE5oNjJ3V0RXa0F6dkV3M25kLUdkWVRHeTQ?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 03:42:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Ships passing through Hormuz hover in single digits, data shows - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSEhZX09yZU9wMFlFN0FUUjM0dUhpZ01zMEVvWFBlVHpoQ25lY0xFckRtVnpXMHZfZVA3TU0zRjNNYlUydy1pelQ1Q3Rmb1dPeWZmU3hDTXF2ZERfY3UyY2tteGpocUNoY0FkdE13dXV5cjV1VUh3MmN1al9MUm5xVlh6RWpwenRzQ2dzR0dxci05c2kwQ1VSUGNDTVBJVkFFd0RjZm9GRnBBdw?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 02:43:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Samsung board set to discuss huge shareholder return package on Friday - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYU00V3Z3amhPOVhYbVlXazNVMUpSMkxFeHRKSVJET2p0aFNkVDB2OGFRamNLZ3V5RllYVEItOTYwelFPZlg0SDEwX0NMNjVyanRDZkwwWWRKTVN2cURMTllSV0t1N0VOMkVWZEVCT3BXODZjWFZUZkZkY0d1enpzVzhJMkNlcGgzbWg0c21vT08wcGQzMkpadmtqZ3Rvb0U0M2pGUTBNUGdlcDkxNnF5R01yUWF3WWt3cjNWWEgxUTUtSUtsOUo1UXRsZWozQQ?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 02:31:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-21T07:02:34.711Z"
+      "updatedAt": "2026-08-21T08:07:09.084Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-21T07:02:35.091Z"
+      "updatedAt": "2026-08-21T08:07:09.208Z"
     }
   ]
 }
