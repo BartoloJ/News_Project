@@ -1,13 +1,25 @@
 {
-  "generatedAt": "2026-08-21T15:38:56.312Z",
+  "generatedAt": "2026-08-21T16:40:24.448Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "Several injured after sword attack at Swedish school",
+          "title": "Two teenagers seriously injured after sword attack at Swedish school",
           "link": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 21 Aug 2026 15:26:24 GMT",
+          "pubDate": "Fri, 21 Aug 2026 16:32:37 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Ethiopia's Virgin Mary festival in Tigray cancelled over drone strike fears",
+          "link": "https://www.bbc.co.uk/news/articles/c24me64n31qo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 21 Aug 2026 16:20:55 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Eight killed in plane crash at remote Alaskan military site, air force says",
+          "link": "https://www.bbc.co.uk/news/articles/cj9dmw8183wo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 21 Aug 2026 16:05:09 GMT",
           "source": "BBC News"
         },
         {
@@ -39,22 +51,10 @@
           "link": "https://www.bbc.co.uk/news/videos/cn4nk1915vxo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 21 Aug 2026 13:32:28 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Five missing after fire in Swiss Alpine town",
-          "link": "https://www.bbc.co.uk/news/articles/cy8e6g13497o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 21 Aug 2026 13:10:39 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
-          "link": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 21 Aug 2026 13:07:00 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-21T15:38:54.770Z"
+      "updatedAt": "2026-08-21T16:40:23.781Z"
     },
     {
       "name": "NPR",
@@ -84,12 +84,6 @@
           "source": "NPR"
         },
         {
-          "title": "As Trump courts Kim, Pyongyang ups price while Seoul fears being sidelined",
-          "link": "https://www.npr.org/2026/08/21/g-s1-139466/as-trump-courts-kim-pyongyang-ups-price-while-seoul-fears-being-sidelined",
-          "pubDate": "Fri, 21 Aug 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
           "title": "Amid intense backlash, people are vandalizing Flock surveillance cameras",
           "link": "https://www.npr.org/2026/08/21/nx-s1-5939851/flock-cameras-police-block-surveillance-vandalize",
           "pubDate": "Fri, 21 Aug 2026 05:00:00 -0400",
@@ -102,6 +96,12 @@
           "source": "NPR"
         },
         {
+          "title": "As Trump courts Kim, Pyongyang ups the price, while Seoul fears being sidelined",
+          "link": "https://www.npr.org/2026/08/21/g-s1-139466/as-trump-courts-kim-pyongyang-ups-price-while-seoul-fears-being-sidelined",
+          "pubDate": "Fri, 21 Aug 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
           "title": "Morning news brief",
           "link": "https://www.npr.org/2026/08/21/nx-s1-5931262/morning-news-brief",
           "pubDate": "Fri, 21 Aug 2026 04:46:00 -0400",
@@ -109,11 +109,35 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-21T15:38:55.118Z"
+      "updatedAt": "2026-08-21T16:40:23.829Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Court slashes $50M judgment against Infowars' Alex Jones over falsely calling school shooting a hoax - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdkRnRTdwVmJVMi1VSXFycVBET3c0Y1RjMU4yNUtxWU9GWGZSUGFaaUhkWE5PUVNmLXlnZWxsTG1TYWFfN1NvbnlIRDdyMl95bUNpbzR0T2w4Q0tIMUNWYjNGMHJUT0Rfc2xwY1FtSXU1Q1ljOWMxc2lFNWVITjJtVlppT3cxVjFSY0wxLVRFMzg?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 16:24:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Trump warns of ‘economic D-Day’ against Iran, but Tehran is well acquainted with sanctions - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdDJaQjg5RDQ1MWozcDVVamNqS1ZEeDd1X3J1YzZ5YzNyWUgxa29fYVotWDN1SHN3Y3ZqVm44YlVtOVR6SzNXam5zVzNqM1hwUG8tbjRVQU5iVmpzSVd1UnJZMGVLcWE3a0h1OGFNM1k5MWg2WFZYRGhDLUNtZmg0T3F4V3dLN2JfdFZoSTBSVlRScy1tT2l0WE9KSlJ4TXZBNGtqSQ?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 16:22:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Prince Harry and 6 others must pay initial $13 million over failed invasion of privacy case - AP News",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdGtIZDBRdHpXTmhwLUE0d3FWb24tNTVoTk0zNWREcXZUVkhKSl9XWDhabjFjNHlHZFJVQ05wdEk3dm9nX1F6cFBzRGJ5Z0dYeWYzZjVsZm5SZjl6MEpGTDF4eWVqTzExSDZFZXFDeUpOMm94VnNzQTVkbVFfQnN5V1Nlb09aRGhvZkRkaUZFWEZBcFg0SDdRcmpNRlBYdw?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 15:51:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "A donkey jumps into a van while on the loose, kicking and biting, injuring 3 people in Germany - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbHZOQU9TaGZ3VUJzZFlORmVCY000YVp4Q2k5dmI3LUZ1TzY4WDRfYUZZOGJPLS0xMVVCUG11T000bllJLVVsMW5EUG5mODBpYjFZXzJpUkVCcjF6TUFkWVZZZUcxdEVjcm9QOU5abFE4N0pfT04xSTVvZkZ3dHhTU2VsM2hxYWYxZVZrcDZCMS0tSTVRNlAyU09fY1Q?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 15:15:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "US stocks rise as the bond market’s big swings ease a bit - AP News",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ1VqMXNlMnp0alRkYnpKcDJPQ3RPbE5qOElKdFlySkFLQVFERk5SYWpUd0M2ejlDazNnbVI1b01yTGZkXzlKMExtaWM1VmtvLUp4TVdQd05kVVJfMmE2V2s5MGFFSEw2dTFJZWZCTG5CdXhkbWItaldsMi14Qk5ONk8yVGdwR3MzbE9jd3FRVmtJR3E1bXdvZXBQeFo?oc=5",
@@ -127,18 +151,6 @@
           "source": "AP News"
         },
         {
-          "title": "2 organizers of Hong Kong’s Tiananmen vigils convicted in national security case - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRG80YTFsS3JRbUdVaUFVSG5KZExiU3VCT2lPQnk2bEYyMzl2N3lRVHgzams4SXNqUWJOSUdDZm1ITnRRc2ExZE9FbzZmUEJTWmRwd2ZXY2o2SlRITmdCSTVyVWpVNzdtbmpyUjdEc3gyMjRWZkNLUzVtYkYtUF91OGFkZXpPb3ZjaldlZUtJaUM4OEJWTElKWERNNEE?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 14:21:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Prince Harry and 6 others must pay initial $13 million over failed invasion of privacy case - AP News",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdGtIZDBRdHpXTmhwLUE0d3FWb24tNTVoTk0zNWREcXZUVkhKSl9XWDhabjFjNHlHZFJVQ05wdEk3dm9nX1F6cFBzRGJ5Z0dYeWYzZjVsZm5SZjl6MEpGTDF4eWVqTzExSDZFZXFDeUpOMm94VnNzQTVkbVFfQnN5V1Nlb09aRGhvZkRkaUZFWEZBcFg0SDdRcmpNRlBYdw?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 14:16:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "US, South Korean militaries wrap up drill early, a day after North Korea’s missile barrage - AP News",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSXJVTUlzZW43bGVHNnMzWmxlXzVxc1NJVlZkQ2RvWHdfaHZfbUVTb2lHUlI4bC02NHVJcFl4dDNraE5RYUJpbjdrQTdadlFiNFpwczUyMnN0QkxJMXBSWGItZ1pVUGRBNW9kdVk4VUk3Ym9KUnZxRTNSV280UV9iMmRtb3JVTjZOUW5QSWdmS2FaLU9MT2lINWJEekZFZw?oc=5",
           "pubDate": "Fri, 21 Aug 2026 13:20:00 GMT",
@@ -149,26 +161,50 @@
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPR2lLNnhWYlF0UWtrc0lGeEdZTTQxa1l6WEdmTnhib0tqbGsyYkxOZTVGcVppbGtUUUVqTndBcWxySExoM1ZYQmtZam5NOURVb2RHUXNJa0dqNExxMHBsRDU0SGhCQ3J1OXk1ZzhXRnB6eFE5ZWxkLVdsM1gtTzE2bVhrZnhta095YU05ZUFQTQ?oc=5",
           "pubDate": "Fri, 21 Aug 2026 11:19:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "New opposition group plans protest in Tunisia after extreme heat-driven power and water cuts - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQnZVbDBhLV9sczIxaHFwRExmUmtyV3J6aFpjQ1dpVXBTTXdVQldwb2RPTmhJYWFxbHRYS0s3SjNUa3ZyaWM0YkpleDRnY05yM0thNnpBTTY2SXV4djE5RGk2cG9nOExQWkt5Q2hUOTI3cVpqeG9TQVhWRDlXMU5QRHRVanBadWktQUZfV3Bkc2NWQzdudDA0?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 07:56:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Thousands of migrants in Ceuta wait in limbo while Spain figures out what to do with them - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYi1FM2hNZzAzeGRENURtN0J3RktQN1hCOEIyMnpkaHZuSDJIbG55VWRSbG1XSlE0RldjNHZNQVhHOGVDYmdiSGVNYmpWNkctVHpWSjdPenZBS25LSDBQVnhpZmdKRUJ3TW1WOFVES0NEQi03NUhwX1h6N2lGc2xsRlhCWGE1YXA1dWoybFdvRy14YTQ?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 07:48:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-21T15:38:55.628Z"
+      "updatedAt": "2026-08-21T16:40:24.298Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Ukrainian Nord Stream blast suspect detained in Croatia - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOVBQR1NVYTBUMU9IcHpyWDVQSlY2VFBFUlotMG5ySHZTY0xtc3hvdDRnQXYtZjdOZDRfRnd4RFBQUEpRa3I3ZjZzNnhPNlhqWEZOQWUwVlY1bjd3MTc5MUFWRlRDNEpUZEdkYzNPb2JwSFY5cTQyX3BlMjY3bkRYOXVQeGdwSVBycWxKbUpFRTVLUVYyNTBubk9R?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 16:18:16 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Wall St rises in broad rebound; yields push markets towards weekly declines - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQX2E3YkdBQXBjbW43VmpoeklMN0VYV0ZtV0xZeUNHQUx0aXAxLW16MjU5bWdkLVRxUzlpNGhWWEpCeUJDd3JYbTJkZE5KTll3R3JkZGJoamdUSnRPMmp1d21Tc2lUb3FVcldGcXBXamZZU0lqcEV1SDdwN09pOUl4cTM4WHBnWDVhNExtbzdkMXBYVTRmVjVXSjQyYjMyUXJt?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 16:10:35 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Man armed with sword injures several people at Swedish high school - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYld0b2RsdVRvRlhCVVpCRWJVYkpTeTY3SlFmcWJsSC1majhPVWFXRVAtMDdsTHJMT0FxY2RKMTFxRmpCRkxTTTFZMGI5RDctTmROWmplNDFBY0FVRzVMc1lEMnlCN0VjcE13anpXR0RfNDJkaVIzYUdQMWRnTWlGM3dwT01KNm9HcmlZYmI2ZnYwbzR3Wi1fSnQtM1VlYlRwQVk5Z2prSEEtWGo4UmhNaEhjNmlnSmVF?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 15:52:04 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Airbus backs down on return-to-office after protests, sources say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTkNYWDZBYlJyT2xqN0NHTGhhQ1YwUlNTSWVzTjhzeGtGODlOWFFzX2VzMEF0d1JjcDBLMi1oVUk5QzFCVzJWQVFSanhVNG8weGI1QzlwUk9ldWd1U1FSZ1ZNdXdZMWExNm5yYWhlLU9MbjhTa29EcVYtQmZSekZJY3FGTGlWV0FLMVhZaW5MMExWSEhManpKNGtJZE9PMkNLd082dGRDaHdrTEZvTjRwYTNNb3RiQnB6TnBrUg?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 15:48:09 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Iran says Tehran must overcome 'unjust sanctions' as US ramps up economic pressure - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZ1k1ZnYtdXFiVWJvUVdmQlJLR1hWN1czeTU1Vkt5VFEyWkNISDhnUHVBY1hLb1JMdnp1dmRxU3Z6WG9wNlZRUmVZaUZxeVJVOERnX0QzeEVuU1FPbzByQ29EQXBvMzJrSkZWOWdkV0pHYUlfYkNTcFZDaTc3cUdLMzdmemlmV2hhUlYzdDFwUHpMcE9oSVZCbXlGYzM2LW9DcEFBdl9kSHRwOF9PdUtUMjdaWUZ5Rm90aFh4blpzaXhXUkZSU0ZPNzRvRQ?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 15:18:19 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US corporate AI debt surge tests investor limits as fatigue emerges - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNR0I5VXZyeVp4RlV6cnhVdXFwZ2RNZUU0Q1czQ2c0WkpZUUJuRV9PNEg0VHkzLVlnSUdZMWVOalJzNkNXdlNtamlGSzRLbVRXb0VkVzl3dm5Uc3hPV21Cb3BIdTNyOWZQSDRGQ1ZvV2xUVUZ6eExfeGpRM0hQck8wSDlzR3ViRDJHS25NaGxwNHdVYWN5cHRUcWJvb0hybjRtclNxMFFGT18tMmc2SEw5RFNYb3ZrSWZpS0VYTw?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 15:07:42 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "EXCLUSIVE: Dutch regulator fines Uber $966 million for automating driver suspensions, document shows - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOd2JmWFg1eFpuU0RoTnJXYnFqSDdzOFdMU0c4X0xwV3hVZFJiZWYwWHVJNUxsLUV3SEdlMGtPWnJmSlk2YlRWZlFRU3VYakJxbHFWUnVJZnVlYktUMURhczV3ekttcWhOM2Fob1JVWERKRkhtSDltWHQzQ3Y4clJlTVhleTNLSWVLVWM5Ul9YUVlpcnBMQWxhYnE3QmVXY3lMbHAyalhEaWptS2ozMGdMUDdWWndqc3p5QUln?oc=5",
@@ -176,50 +212,14 @@
           "source": "Reuters"
         },
         {
-          "title": "Man armed with sword injures several people at Swedish high school - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYld0b2RsdVRvRlhCVVpCRWJVYkpTeTY3SlFmcWJsSC1majhPVWFXRVAtMDdsTHJMT0FxY2RKMTFxRmpCRkxTTTFZMGI5RDctTmROWmplNDFBY0FVRzVMc1lEMnlCN0VjcE13anpXR0RfNDJkaVIzYUdQMWRnTWlGM3dwT01KNm9HcmlZYmI2ZnYwbzR3Wi1fSnQtM1VlYlRwQVk5Z2prSEEtWGo4UmhNaEhjNmlnSmVF?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 14:17:14 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Wall St rebounds, but yield surge sets stage for weekly losses - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQX2E3YkdBQXBjbW43VmpoeklMN0VYV0ZtV0xZeUNHQUx0aXAxLW16MjU5bWdkLVRxUzlpNGhWWEpCeUJDd3JYbTJkZE5KTll3R3JkZGJoamdUSnRPMmp1d21Tc2lUb3FVcldGcXBXamZZU0lqcEV1SDdwN09pOUl4cTM4WHBnWDVhNExtbzdkMXBYVTRmVjVXSjQyYjMyUXJt?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 14:11:07 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Airbus backs down on return-to-office after protests, sources say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTkNYWDZBYlJyT2xqN0NHTGhhQ1YwUlNTSWVzTjhzeGtGODlOWFFzX2VzMEF0d1JjcDBLMi1oVUk5QzFCVzJWQVFSanhVNG8weGI1QzlwUk9ldWd1U1FSZ1ZNdXdZMWExNm5yYWhlLU9MbjhTa29EcVYtQmZSekZJY3FGTGlWV0FLMVhZaW5MMExWSEhManpKNGtJZE9PMkNLd082dGRDaHdrTEZvTjRwYTNNb3RiQnB6TnBrUg?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 14:06:52 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "NHTSA opens probe into nearly 1 million GM pickups, SUVs over engine failure concerns - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNY1F1dUkycjBIX0hvdUQzTlI0bnhXWWNLdk4yNUV4QXNZQzZ5SEh5ZG52UG9kaG04blpLNUt3MzJCLUNMRzhNMjlibkhBeFB6a2g3SmRLalhZdXk1VlVOQWx6WlgyTDN1bDJyNXlVRk5IaHc5S2JMaWlWVzk3Nlc1SmF2RHhwSnhlb29QY25RdlFadk5NdF81aEtPVGowY1g2WkFjYU9OR3NtV3o0QlNmd25uSVRPS1ZKT3JhMHdlS1FOZndIMUp3?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 14:05:13 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Treasury buyback renews dollar-debasement fears - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMkkwenhydmpyZmx1Z0lxTjNQN0NXRDJtbjd4UEFkLVllcks3M05JM1VlQnJ5WDNmRDJTbHhValJwSmt0SnpFdllKYnRUcGNyY3lDNDBYZ1ZTWWtDaklOeDgzVUFqbzZyeWRLQ05waUV1aUd3LTRyRGlqc1FYaHNvNm1SZE83S0ZOYXNrejRwNXZ2N19BRWNka2FuTzB6ay01OUNuREtR?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 14:03:54 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Tesla and others begin record vehicle recall in China - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQjEyamNWRHVrWi10M3pudDZBWVhwa1pMU2MtRkhpY1BEUEVab1lOaVljX296UVVraG9vcUVOczZndEFfVXp4Y0lEdUpzX2tHMERTMGFsYnQ4UklkMVBRbGx1RElGbFRDdGVsazdUVlhuQjQ3NU9XTXNaMFlqNi1GWFdXV01zWjFVZ0pRaklBdFFuRnFVOElxSG1YVHlKNWFY?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 13:58:40 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Oil set for second weekly gain as US ramps up pressure on Iran - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEh1QVJmcTNtSE1PMURxNmRBT3RIWHhVTmtwZDRiMk5yUzJtc2xuNHFlQXF1a3VJS3FQckxIY3Y2VjhFejlkNDZnLTY0R0prazZHb194Y19sRDdjUVJtNHlMT0lwSHRRcU5UM2VBTFZpVHBDZEl1OGFWbUkxX1pacWhMYUtFQ0pRbGVRYVNYcy1zSUNZVWtxNW4zczc0YVhZVkFWUHJwRWlFQl8zQUR3dFNIU1o?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 13:19:41 GMT",
+          "title": "US, Canadian trade teams to meet again as tariffs deadline looms - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeHUybEFVcFlsU2tZSVAyZGoxZ1g3ZmZSZjAybE9pbjRURDdFem04SXhZVnZIQW5iUEVscGFmbXNOR2w3d0Y2OEVZSVRlS3JOVXBmamwyWUU0WmRsZlRuZm5Xc01zRnVYV1pYZ2Rfb1pDbnlSM0JZamhsWjUxa083eWZRU2hzZzJIWXRrUlFpajg4a0ZHbk5wYWZlRVZ2SFZQZlVJV24zakhlYVE4?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 14:31:42 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-21T15:38:56.092Z"
+      "updatedAt": "2026-08-21T16:40:24.320Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-21T15:38:56.312Z"
+      "updatedAt": "2026-08-21T16:40:24.448Z"
     }
   ]
 }
