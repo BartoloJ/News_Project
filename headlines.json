@@ -1,9 +1,15 @@
 {
-  "generatedAt": "2026-08-21T05:59:52.739Z",
+  "generatedAt": "2026-08-21T07:02:35.091Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Panama Canal to cut number of ships passing through due to El Niño",
+          "link": "https://www.bbc.co.uk/news/articles/cwyl0jkxxryo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 21 Aug 2026 06:46:08 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Hong Kong's Tiananmen activists guilty in national security trial",
           "link": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
@@ -45,20 +51,26 @@
           "link": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 21 Aug 2026 00:33:21 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Fix schools, say India's 'cockroach' protesters. Schoolchildren agree",
-          "link": "https://www.bbc.co.uk/news/articles/ckg4q8kyxp7o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 21 Aug 2026 00:04:10 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-21T05:59:51.462Z"
+      "updatedAt": "2026-08-21T07:02:33.439Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Charter plane crash kills 8 near remote radar site in western Alaska, military says",
+          "link": "https://www.npr.org/2026/08/21/nx-s1-5940552/charter-plane-crash-kills-8-alaska-military",
+          "pubDate": "Fri, 21 Aug 2026 02:41:33 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "'Survival mode': Indiana residents endure a ninth day without power",
+          "link": "https://www.npr.org/2026/08/21/g-s1-139527/indiana-storm-outages",
+          "pubDate": "Fri, 21 Aug 2026 02:40:26 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Federal agents seize devices from ex-Rep. Eric Swalwell in sexual misconduct probe, AP source says",
           "link": "https://www.npr.org/2026/08/21/nx-s1-5940542/federal-agents-seize-eric-swalwell-sexual-misconduct-probe",
@@ -94,22 +106,10 @@
           "link": "https://www.npr.org/2026/08/20/nx-s1-5939549/heidi-overton-fda-commissioner-trump-senate-nomination",
           "pubDate": "Thu, 20 Aug 2026 12:49:11 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "D.C.'s IndyCar race will zoom past museums. Some worry it could harm the art inside",
-          "link": "https://www.npr.org/2026/08/20/nx-s1-5939431/dc-indycar-race-museums-art-vibration",
-          "pubDate": "Thu, 20 Aug 2026 11:18:21 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "U.S. debt tops $40 trillion. And, new census report Trump is touting raises concerns",
-          "link": "https://www.npr.org/2026/08/20/g-s1-139388/up-first-newsletter-us-debt-venezuela-oil-deals-census-bureau-trump-voting-claims",
-          "pubDate": "Thu, 20 Aug 2026 07:30:18 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-21T05:59:51.647Z"
+      "updatedAt": "2026-08-21T07:02:33.788Z"
     },
     {
       "name": "AP News",
@@ -117,7 +117,7 @@
         {
           "title": "Charter plane crash kills 8 near remote radar site in western Alaska, military says - AP News",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPR2lLNnhWYlF0UWtrc0lGeEdZTTQxa1l6WEdmTnhib0tqbGsyYkxOZTVGcVppbGtUUUVqTndBcWxySExoM1ZYQmtZam5NOURVb2RHUXNJa0dqNExxMHBsRDU0SGhCQ3J1OXk1ZzhXRnB6eFE5ZWxkLVdsM1gtTzE2bVhrZnhta095YU05ZUFQTQ?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 05:32:00 GMT",
+          "pubDate": "Fri, 21 Aug 2026 05:41:00 GMT",
           "source": "AP News"
         },
         {
@@ -164,11 +164,35 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-21T05:59:52.127Z"
+      "updatedAt": "2026-08-21T07:02:34.307Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "China boosts imports of Russian crude, stymieing India's refiners - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZU9oV2RaZ2RZNW5hZlFqbXFNNmd5RnJkM21hWmo0WVhJX1paTlBWaE50SHhMazFzdHJuVVF2QlpzT1lRZG1VUEdERkdsSXcxTjFmQjd5RXlJeDM1eVR1NHZnd0xlRWJFXzlsbS0tdmpJMlVzeFNrLUk1R25abzR3cUxDYXRCUW1lekg0LU9lWmNzdWFyekI1SFJOdmxJSWVaRS0zT3Z5QzRVNkt3VndialQySlRtbTVKTTdJb3g1T0h2ZXFabXNLMQ?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 06:00:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Russia is ready for new ideas on Ukraine peace, but with conditions, senior diplomat says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSG1FLTR6ekxvVzVEOFo4d2tkbHpfMlI1STMwdjkxR204bHNwaWZ1OFVCWm41eXB4T3NHcVl4TktwTjRmSTVNOGlHQ2JRSDBHY3FxWjg1V2c4UUFwT2tjM25ubGpMaDJHU3VrWUpCZm9oMHhicXhCOTQxdTRGMkVpT0tGOEYyRW51ZWdVSzByOXFWZENab2g0d1ZsZXlKOHMwSldpeklvbjJfekxESVV1ejR2dnFSc01QZUQyZTlWeDQ?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 05:25:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Chinese court in Guangzhou accepts bankruptcy case of Evergrande unit - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR1NrRUwtVERSeHZlZ0lyUWtQcXYzdHZkcEd6RDY3dU5ldnducEh1YzJHZkhodVczOGxCem80NllRVWZFaHpaMjZqSjJLcFUzaEdOekNuNlJ1T0tTY2ZQWGpRLW40ejRpbzJRWVF4eEtLX0Ztc09QeGQtWDM4ZkZBc3IxSWZQNEFPSDExN010RTZacUM0SHAyU2NReS05UGRQQUtHQkNycUc?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 04:41:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Myanmar military offensive targets land for Russia-backed port project - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNX0dtXzJ4MGc5aVI0a0tCdXVUcW9JdFJBZUctUGdjUTdwb194LUhfdHl1QnA4bDFZaFlNVmRGWWJpUUZKUUtGWGFWYWdMaGxnOFpVU1Z4S1dwWVpWWFIwTnNZV0l3YjMxYjA3WFdfdVJrOGRfaDY1aE41Q2JFaDI4azhlYnJJVENZRGY5TDJsb2syMnBFNTFvNnMtdFdoTEFialJkVkpvdXUtbmxobGVOVHBqdVpfYjFKVTk2SzdR?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 04:01:00 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "War-hit European markets are far from down and out - Reuters",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdnhLRk44Z05ZeGw4cWhLcEtkTVRNMnRuSDd0cTYwa2xJdWM0WEsxQS1MeG8yM0lnenM2QVpxc0pKVHdIaHI1TXhzMk40Z25WTDlzdkVTT2tmNlRORlc2eW9FRGpsWng3MEJ1OUZJVVpkUm1QTzV6Z2dkeTd2YjRtREtPdGZXTXAzeUdNaUNuaw?oc=5",
@@ -184,42 +208,18 @@
         {
           "title": "Ships passing through Hormuz hover in single digits, data shows - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSEhZX09yZU9wMFlFN0FUUjM0dUhpZ01zMEVvWFBlVHpoQ25lY0xFckRtVnpXMHZfZVA3TU0zRjNNYlUydy1pelQ1Q3Rmb1dPeWZmU3hDTXF2ZERfY3UyY2tteGpocUNoY0FkdE13dXV5cjV1VUh3MmN1al9MUm5xVlh6RWpwenRzQ2dzR0dxci05c2kwQ1VSUGNDTVBJVkFFd0RjZm9GRnBBdw?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 03:15:52 GMT",
+          "pubDate": "Fri, 21 Aug 2026 02:43:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Indian shares inch higher at open; higher oil, bond stress cap gains - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORTRaUnV1SklLS1c2TjZIUTAyV0Q5aHI1NDJDLUhYMUNfTUt1SzRzMl9ubnV5ejB1RV9pQnU4YXBrU0piZHF4eXZ5WjBDcnRZdy04LTMxcWs3X0RPaHV5Y3lHRGRScWwzX3pRRjZ6TWRlV0dBNWlHbExJbXlOM2liYjZRQ1pWZ1B5bFRWNXU3b3ZuQkpGeU1senpXZm1MeVJvUXk2SHNRMkdWVFlZZ0NGazlNTnY?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 02:26:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Hyundai Motor's South Korean union stages first full strike in a decade over pay - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOd1NFbENBWGRhVEpxLXVyaFFZTzhNczN6TlNQcHhFZGtTM2ZERGpzLWRrbGdxYnNDYkJBQUYtQWxKaXZmaVpSRkhaeUlxb2NrSnMyckMwcUVzS2pHMGRfZUFITTlUb0xvUVpoWWFNUm85cGJfRTRKX2FlSnBqbXduNkZnbWJVVFIzQkw5bXdpcE1hbkRRZ213cWdtV3dIZFVON3ZsakZPZjFRU0QzTWhWYU82a1I3T2xySlE4WkRyak9jM09zcF9YLQ?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 02:22:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Oil set for second weekly rise as unsettled US-Iran war crimps supply - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEh1QVJmcTNtSE1PMURxNmRBT3RIWHhVTmtwZDRiMk5yUzJtc2xuNHFlQXF1a3VJS3FQckxIY3Y2VjhFejlkNDZnLTY0R0prazZHb194Y19sRDdjUVJtNHlMT0lwSHRRcU5UM2VBTFZpVHBDZEl1OGFWbUkxX1pacWhMYUtFQ0pRbGVRYVNYcy1zSUNZVWtxNW4zczc0YVhZVkFWUHJwRWlFQl8zQUR3dFNIU1o?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 01:50:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "From euphoria to despair, Korea reckons with stock mania's emotional toll - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSkJ0MzlKWWZHOE5jQjh2ZGlGekRQZE1UQk53bDhmX05Jc2NfajBYOEI2eE16LXNfejc1Yk04OWs5clRULXBIMDhqNi10a19mTWM0Zlp1ZVp2YVdZRHhVWllMcnptRWRoNEJxRlgxaDZrOTNWVFJzcW01NWhuRzZvZkt4X1lVRUdrbU56Y0RhYjctSldQaG5KclZyazE4WDNfX2JxRUJEdGtLQUxpdlhpci04WTZNNXc?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 01:43:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Dollar wobbles as investors balk at US Treasury's rescue efforts - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSFZuSmFFRlNlQUZPTlJaNnE2UUJzS29YTWZkWlhJNG1BSWEwbTNCWEVidHBISmc5VUpSMVh5YnRhNHBwMzhCRUZMX2RQalJCTjJhUWJTeFdQckZwbmxRZFgxdVBaTTg3NkZhOE9tZ2h3dHNNV1M5WEVSbTM4NTNsbXdNNnJyNTZHaTk5d25mWVB1eDB5c2RtQkpwVkVidDEtSkpCbA?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 01:36:00 GMT",
+          "title": "Samsung board set to discuss huge shareholder return package on Friday - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYU00V3Z3amhPOVhYbVlXazNVMUpSMkxFeHRKSVJET2p0aFNkVDB2OGFRamNLZ3V5RllYVEItOTYwelFPZlg0SDEwX0NMNjVyanRDZkwwWWRKTVN2cURMTllSV0t1N0VOMkVWZEVCT3BXODZjWFZUZkZkY0d1enpzVzhJMkNlcGgzbWg0c21vT08wcGQzMkpadmtqZ3Rvb0U0M2pGUTBNUGdlcDkxNnF5R01yUWF3WWt3cjNWWEgxUTUtSUtsOUo1UXRsZWozQQ?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 02:31:00 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-21T05:59:52.575Z"
+      "updatedAt": "2026-08-21T07:02:34.711Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-21T05:59:52.739Z"
+      "updatedAt": "2026-08-21T07:02:35.091Z"
     }
   ]
 }
