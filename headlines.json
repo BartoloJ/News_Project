@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T19:51:45.245Z",
+  "generatedAt": "2026-08-21T20:31:11.146Z",
   "sources": [
     {
       "name": "BBC News",
@@ -54,7 +54,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-21T19:51:43.901Z"
+      "updatedAt": "2026-08-21T20:31:09.892Z"
     },
     {
       "name": "NPR",
@@ -109,11 +109,35 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-21T19:51:44.093Z"
+      "updatedAt": "2026-08-21T20:31:09.981Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Supreme Court's chief justice allows work on Trump’s $400M White House ballroom to continue for now - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWF96endSSklBQ0dCRVBNcjNPdEFVSS02dU5ybnNIeDdNOTlhZ0gyNVZuWm05YndRbTF6VkctQVFUdDRXeklSbDFJS3laNC1vaGt6NGZZWGNlREo4YXE0MXFuNzNzaU10NnVBTjRXS2MyX0RWNi1MRVBlYjZyVWNDZVVHdGV6cTg0WlItLTR0ZFFuUDFuMjlqV1JwRzBPZ1A2REE?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 20:06:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Stars and Stripes editor says he has been fired for insubordination after doing interview - AP News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMUdoUkpLcFVnOWFKMlJ3bkZLR2VKMndOal9mR2QxMG5JMl9ZeUJXd21Relp6OUgtd1FRTU8wSmFkczh2YjVBQ3FjQ190MjY2dER4WnEwSkZtWFJQT1lqWFhSTHNFN2pGRVBIVUh2cTFiTktZd2RINHVxc2w1UjFvSUZFU2w1b2RiSWZfTTlDY2xMRkdHZDREQXo2aU5ZYXFC?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 19:55:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "NCAA gets win in court on 5-year eligibility rule, but this is hardly the end of the lawsuits - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZVBVMWVYTUY4ZWR3OXhZMEx2WTNtU1MzMnVhbjNLZjFSZ0t0b3pIMGNMWWpwZHZlT05HTXhzU0FHa29LenVOZENwaU0zRFJyVjZvN3oybXRTc0tLSzJCbzYwUWdJeWVPQjY0UEhldEdWbE9XX1F0N0dFYTA3RHJEcWtqT1JwbHpORTVteQ?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 19:46:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Arizona AG declines to charge Gov. Katie Hobbs over pay-to-play allegations - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNM1pOdkZzQjY3ZlpmcEp5ZVhjUTRtX3E1V2M4bnY0ODVFQnlBTnUtV09mREtvVXBVVnk0SVZhT09FYkhzbElvbE5KVTVWandkdTRaZjlIU3A1b2tOWDNTb1pER0lNdWZUTnBkWUlKd3NaaHpZMnFJSmNObUd5eWlZUC16TktQamdFQzFLQzlOUWtBdjRBSFlHSElUS083WUpKTnZhMkhB?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 19:18:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "US stocks rise, even as the bond market applies more pressure - AP News",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ1VqMXNlMnp0alRkYnpKcDJPQ3RPbE5qOElKdFlySkFLQVFERk5SYWpUd0M2ejlDazNnbVI1b01yTGZkXzlKMExtaWM1VmtvLUp4TVdQd05kVVJfMmE2V2s5MGFFSEw2dTFJZWZCTG5CdXhkbWItaldsMi14Qk5ONk8yVGdwR3MzbE9jd3FRVmtJR3E1bXdvZXBQeFo?oc=5",
@@ -121,9 +145,9 @@
           "source": "AP News"
         },
         {
-          "title": "Supreme Court's chief justice allows work on Trump’s $400M White House ballroom to continue for now - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWF96endSSklBQ0dCRVBNcjNPdEFVSS02dU5ybnNIeDdNOTlhZ0gyNVZuWm05YndRbTF6VkctQVFUdDRXeklSbDFJS3laNC1vaGt6NGZZWGNlREo4YXE0MXFuNzNzaU10NnVBTjRXS2MyX0RWNi1MRVBlYjZyVWNDZVVHdGV6cTg0WlItLTR0ZFFuUDFuMjlqV1JwRzBPZ1A2REE?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 18:53:00 GMT",
+          "title": "Court cuts $50M judgment against Infowars' Alex Jones over falsely labeling Newtown killings a hoax - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdkRnRTdwVmJVMi1VSXFycVBET3c0Y1RjMU4yNUtxWU9GWGZSUGFaaUhkWE5PUVNmLXlnZWxsTG1TYWFfN1NvbnlIRDdyMl95bUNpbzR0T2w4Q0tIMUNWYjNGMHJUT0Rfc2xwY1FtSXU1Q1ljOWMxc2lFNWVITjJtVlppT3cxVjFSY0wxLVRFMzg?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 18:50:00 GMT",
           "source": "AP News"
         },
         {
@@ -137,38 +161,32 @@
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYjJWZE9raUpObEpLRDllTXBEeUw4N1I3ZHlfbjk3RExjZXJhd3dwdkFYNktNVkwzaUNQM3Q2d0ViUjEwMFAxeVFScHBueTRSX2RnOVMxMThlRldWa1RPOFZvR0ZEWFlzZjE0N1UzX3M0S1c1RERITXVzYnZyX1JGQldnWXJmd29jbDRCWUs3S0t3emxwb0E?oc=5",
           "pubDate": "Fri, 21 Aug 2026 18:03:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Russian drones kill 14 people at a shopping mall in a central Ukrainian city, officials say - AP News",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNDhjUUItSEFEc3plVmVWdEdUQk95RXJmeWFRQmpWdlZlUjVwWE1DcGhhQXhoYk5fRkhCU0RWbklwdC1FUnlmTF9KZGN2VkhJSXpsNUo5Vkc0UFFOMmxCZ2xHZzN2YVFfUWVzV3VjTzJHX1g0aWtIa2JIeU1vS3hYbGZjblA?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 17:59:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Court cuts $50M judgment against Infowars' Alex Jones over falsely labeling Newtown killings a hoax - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdkRnRTdwVmJVMi1VSXFycVBET3c0Y1RjMU4yNUtxWU9GWGZSUGFaaUhkWE5PUVNmLXlnZWxsTG1TYWFfN1NvbnlIRDdyMl95bUNpbzR0T2w4Q0tIMUNWYjNGMHJUT0Rfc2xwY1FtSXU1Q1ljOWMxc2lFNWVITjJtVlppT3cxVjFSY0wxLVRFMzg?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 17:48:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Federal appeals court pauses order granting extra year of NCAA eligibility for 2022 grads - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZVBVMWVYTUY4ZWR3OXhZMEx2WTNtU1MzMnVhbjNLZjFSZ0t0b3pIMGNMWWpwZHZlT05HTXhzU0FHa29LenVOZENwaU0zRFJyVjZvN3oybXRTc0tLSzJCbzYwUWdJeWVPQjY0UEhldEdWbE9XX1F0N0dFYTA3RHJEcWtqT1JwbHpORTVteQ?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 17:19:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Trump warns of ‘economic D-Day’ against Iran, but Tehran is well acquainted with sanctions - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdDJaQjg5RDQ1MWozcDVVamNqS1ZEeDd1X3J1YzZ5YzNyWUgxa29fYVotWDN1SHN3Y3ZqVm44YlVtOVR6SzNXam5zVzNqM1hwUG8tbjRVQU5iVmpzSVd1UnJZMGVLcWE3a0h1OGFNM1k5MWg2WFZYRGhDLUNtZmg0T3F4V3dLN2JfdFZoSTBSVlRScy1tT2l0WE9KSlJ4TXZBNGtqSQ?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 16:22:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-21T19:51:44.558Z"
+      "updatedAt": "2026-08-21T20:31:10.493Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Wall St rises on the day but falls for the week; bond yields and Iran in focus - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQX2E3YkdBQXBjbW43VmpoeklMN0VYV0ZtV0xZeUNHQUx0aXAxLW16MjU5bWdkLVRxUzlpNGhWWEpCeUJDd3JYbTJkZE5KTll3R3JkZGJoamdUSnRPMmp1d21Tc2lUb3FVcldGcXBXamZZU0lqcEV1SDdwN09pOUl4cTM4WHBnWDVhNExtbzdkMXBYVTRmVjVXSjQyYjMyUXJt?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 20:02:20 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Trump to temporarily ease US beef tariffs, irking cattle producers - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbEFodmROalY1SkRMRUp0NWdHc01wbU1Fa05Ib0NIR0VzNFVzV3R1dElCdzMweFkzLVhsS0IwQURrZUo2MGQ4OFBLZEVtak9XR1ozZG0wbmVQV2hOUmIzS1pzVlJOVFdINUhNa1lXaElyYm1YeWw2SnZpbUV5VXJIdno5SlZLMzVoZzBHejRZWE9Vc1k?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 19:54:26 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Supreme Court lets Trump continue work on White House ballroom for now - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWDRsWDhPVVVzZVdpcEpaNi0tRGF3SU90MmwwcWw5UHdkb3VEM3FCcXVzQm0tWExlQUtMNy0yUGl6NVBMeWJSenN3VXNqZ251TzMySHBrTEpSVjMwQWFreFVjTE9idkFJbE1zWWtnWlBveXlLNmc3Z25pTkU1RlFLRGg0R1REZnVOeVVsRXNpNlJBN3BmakJGMWVxcFNsdkh4c00teW1OX3c?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 19:38:58 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "One killed, three injured when man attacks Swedish school with sword - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYld0b2RsdVRvRlhCVVpCRWJVYkpTeTY3SlFmcWJsSC1majhPVWFXRVAtMDdsTHJMT0FxY2RKMTFxRmpCRkxTTTFZMGI5RDctTmROWmplNDFBY0FVRzVMc1lEMnlCN0VjcE13anpXR0RfNDJkaVIzYUdQMWRnTWlGM3dwT01KNm9HcmlZYmI2ZnYwbzR3Wi1fSnQtM1VlYlRwQVk5Z2prSEEtWGo4UmhNaEhjNmlnSmVF?oc=5",
@@ -194,32 +212,14 @@
           "source": "Reuters"
         },
         {
-          "title": "Supreme Court lets Trump continue work on White House ballroom for now - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWDRsWDhPVVVzZVdpcEpaNi0tRGF3SU90MmwwcWw5UHdkb3VEM3FCcXVzQm0tWExlQUtMNy0yUGl6NVBMeWJSenN3VXNqZ251TzMySHBrTEpSVjMwQWFreFVjTE9idkFJbE1zWWtnWlBveXlLNmc3Z25pTkU1RlFLRGg0R1REZnVOeVVsRXNpNlJBN3BmakJGMWVxcFNsdkh4c00teW1OX3c?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 19:03:32 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Wall St indexes eye weekly losses; bond yields and Iran in focus - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQX2E3YkdBQXBjbW43VmpoeklMN0VYV0ZtV0xZeUNHQUx0aXAxLW16MjU5bWdkLVRxUzlpNGhWWEpCeUJDd3JYbTJkZE5KTll3R3JkZGJoamdUSnRPMmp1d21Tc2lUb3FVcldGcXBXamZZU0lqcEV1SDdwN09pOUl4cTM4WHBnWDVhNExtbzdkMXBYVTRmVjVXSjQyYjMyUXJt?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 18:57:01 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Paredes banned for 10 games after World Cup final fracas, Argentina fined - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWlBpR2t3SUZ6Q25IYUd6ZWNVc2xtOW9EN2lrTEM5VGhlcGlIZWtyNHpfN0FxcE9kdU1ES2tfaG5KVk9Hejc2MzBTdUltRFgyTFJ2QVJKcEtIdmc5dDJSd0hSREVRblF4T3dHMUh5NEtHcEp5RDJaNDhEMllDOHM1NUpOTDZUXzdRSS12VFpIX0NuWUJsbTQ4d0tkUjVRMUNYQzZHVkkzZWprY1VYTUVzQ3JQZF9QNUY4UGc?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 18:56:43 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Russian 'double-tap' strike on shopping centre in Ukraine kills 14 - Reuters",
+          "title": "Russian 'double-tap' strike on shopping centre in Ukraine kills 15 and wounds 130 - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOME1nc2ZfV3l1LXlTQ29EZlNTd3drS1ZwNHBnbTdKd3VmVG5ZYkVpWngxV1BNQWFWY3VEMk8tVUVSX215cEgwV0ZRejFmR05LalNab3dkLXNwMTVkSmxDd3hlYjRGMkVZRHBlS1lQbU15R0hCQ3lvWHNpSW5QbUNvSmRVWnZhSVlYYW5IWUJCZGFTckZTdlVDNE9Wb3JsWkFvTHRkNmVscnNFUQ?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 18:41:32 GMT",
+          "pubDate": "Fri, 21 Aug 2026 19:15:30 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-21T19:51:45.020Z"
+      "updatedAt": "2026-08-21T20:31:10.914Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-21T19:51:45.245Z"
+      "updatedAt": "2026-08-21T20:31:11.146Z"
     }
   ]
 }
