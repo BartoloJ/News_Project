@@ -1,19 +1,25 @@
 {
-  "generatedAt": "2026-08-21T12:58:26.370Z",
+  "generatedAt": "2026-08-21T13:52:26.872Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "Two Mexicans arrested as police uncover big meth lab on South African farm",
-          "link": "https://www.bbc.co.uk/news/articles/c80n8d4xz1eo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 21 Aug 2026 11:57:37 GMT",
+          "title": "Five missing after fire in Swiss Alpine town",
+          "link": "https://www.bbc.co.uk/news/articles/cy8e6g13497o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 21 Aug 2026 13:10:39 GMT",
           "source": "BBC News"
         },
         {
           "title": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
           "link": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 21 Aug 2026 11:31:51 GMT",
+          "pubDate": "Fri, 21 Aug 2026 13:07:00 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Two Mexicans arrested as police uncover big meth lab on South African farm",
+          "link": "https://www.bbc.co.uk/news/articles/c80n8d4xz1eo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 21 Aug 2026 11:57:37 GMT",
           "source": "BBC News"
         },
         {
@@ -45,16 +51,10 @@
           "link": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 21 Aug 2026 08:38:18 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Five missing after fire in Swiss Alpine town",
-          "link": "https://www.bbc.co.uk/news/articles/cy8e6g13497o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 21 Aug 2026 07:06:16 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-21T12:58:25.130Z"
+      "updatedAt": "2026-08-21T13:52:25.508Z"
     },
     {
       "name": "NPR",
@@ -109,11 +109,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-21T12:58:25.417Z"
+      "updatedAt": "2026-08-21T13:52:25.850Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Prince Harry and 6 others to learn initial cost of failed Daily Mail case - AP News",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdGtIZDBRdHpXTmhwLUE0d3FWb24tNTVoTk0zNWREcXZUVkhKSl9XWDhabjFjNHlHZFJVQ05wdEk3dm9nX1F6cFBzRGJ5Z0dYeWYzZjVsZm5SZjl6MEpGTDF4eWVqTzExSDZFZXFDeUpOMm94VnNzQTVkbVFfQnN5V1Nlb09aRGhvZkRkaUZFWEZBcFg0SDdRcmpNRlBYdw?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 11:20:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Charter plane crash kills 8 near remote radar site in western Alaska, military says - AP News",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPR2lLNnhWYlF0UWtrc0lGeEdZTTQxa1l6WEdmTnhib0tqbGsyYkxOZTVGcVppbGtUUUVqTndBcWxySExoM1ZYQmtZam5NOURVb2RHUXNJa0dqNExxMHBsRDU0SGhCQ3J1OXk1ZzhXRnB6eFE5ZWxkLVdsM1gtTzE2bVhrZnhta095YU05ZUFQTQ?oc=5",
@@ -155,16 +161,10 @@
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM05aYV9OUFBHNHp0UEE4NWlfaVFEMEFXUjI0NGo5YnpaWUJnekhmNjZmdnhzQ3pKZkVWUkF3dlVtNDJyOGxCOWE1VVJNREF2dWxGVG4tR2h4UzViSjlZdlVEYTlYSWU3WVQtQ0RBcks4MjZqb2tXX21LR2N0NVFTbWJZMFRGM3dRV1NvLWhTMk5ZU2RvS2NCbW85Y09zM0xkLUMwcWQwc0JvbkE?oc=5",
           "pubDate": "Fri, 21 Aug 2026 04:37:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "A question looms over Harry's return to the UK. Can he rebuild his relationship with Prince William? - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZnM4eFJlN3RRek8yd0I3QVROVDgtVnFodW1pZlVMQ05WX0k4cHZrcUc5R2hHRVRqVHR4WTIydk5qRC1LaXJoaW1vcmNpVjFoajl1am1jUEhZUjJZQnNHNTlLUHZRSmlzQWxKUHZ0cXBrZFNIWkpfWWh1V2JxS1pVdnNPNVhTczE1dWZ6Nm5zUGM?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 04:19:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-21T12:58:25.845Z"
+      "updatedAt": "2026-08-21T13:52:26.322Z"
     },
     {
       "name": "Reuters",
@@ -172,7 +172,25 @@
         {
           "title": "EXCLUSIVE: Dutch regulator fines Uber $966 million for automating driver suspensions, document shows - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOd2JmWFg1eFpuU0RoTnJXYnFqSDdzOFdMU0c4X0xwV3hVZFJiZWYwWHVJNUxsLUV3SEdlMGtPWnJmSlk2YlRWZlFRU3VYakJxbHFWUnVJZnVlYktUMURhczV3ekttcWhOM2Fob1JVWERKRkhtSDltWHQzQ3Y4clJlTVhleTNLSWVLVWM5Ul9YUVlpcnBMQWxhYnE3QmVXY3lMbHAyalhEaWptS2ozMGdMUDdWWndqc3p5QUln?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 12:18:21 GMT",
+          "pubDate": "Fri, 21 Aug 2026 13:29:31 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Several people injured in sword attack at Swedish high school - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYld0b2RsdVRvRlhCVVpCRWJVYkpTeTY3SlFmcWJsSC1majhPVWFXRVAtMDdsTHJMT0FxY2RKMTFxRmpCRkxTTTFZMGI5RDctTmROWmplNDFBY0FVRzVMc1lEMnlCN0VjcE13anpXR0RfNDJkaVIzYUdQMWRnTWlGM3dwT01KNm9HcmlZYmI2ZnYwbzR3Wi1fSnQtM1VlYlRwQVk5Z2prSEEtWGo4UmhNaEhjNmlnSmVF?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 13:28:25 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Wall St set for higher open but weekly losses loom - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQX2E3YkdBQXBjbW43VmpoeklMN0VYV0ZtV0xZeUNHQUx0aXAxLW16MjU5bWdkLVRxUzlpNGhWWEpCeUJDd3JYbTJkZE5KTll3R3JkZGJoamdUSnRPMmp1d21Tc2lUb3FVcldGcXBXamZZU0lqcEV1SDdwN09pOUl4cTM4WHBnWDVhNExtbzdkMXBYVTRmVjVXSjQyYjMyUXJt?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 12:41:54 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Global stocks set for biggest weekly fall since mid-July, dollar on the defensive - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVTFQMW56em9GbmdpNkt2Y1pGekxZbWNTT2I5bHZDNUJCaFFYem9uWVlkSEd3dzBHQ19mSHA0QzZlUmMzWHJtOEtJX09qRmVaNFdYaC1wZzQ4VmJCdFdlWnFDSkhRLVkwYXRidHJPaVk2ZXFyeVNzU0dCbzNRZnhNc0dLcw?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 12:27:09 GMT",
           "source": "Reuters"
         },
         {
@@ -182,44 +200,26 @@
           "source": "Reuters"
         },
         {
-          "title": "US stock futures rise after previous session's selloff - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQX2E3YkdBQXBjbW43VmpoeklMN0VYV0ZtV0xZeUNHQUx0aXAxLW16MjU5bWdkLVRxUzlpNGhWWEpCeUJDd3JYbTJkZE5KTll3R3JkZGJoamdUSnRPMmp1d21Tc2lUb3FVcldGcXBXamZZU0lqcEV1SDdwN09pOUl4cTM4WHBnWDVhNExtbzdkMXBYVTRmVjVXSjQyYjMyUXJt?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 11:40:53 GMT",
+          "title": "Dollar wobbles as Treasury's bond market buybacks raise fresh concerns - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSFZuSmFFRlNlQUZPTlJaNnE2UUJzS29YTWZkWlhJNG1BSWEwbTNCWEVidHBISmc5VUpSMVh5YnRhNHBwMzhCRUZMX2RQalJCTjJhUWJTeFdQckZwbmxRZFgxdVBaTTg3NkZhOE9tZ2h3dHNNV1M5WEVSbTM4NTNsbXdNNnJyNTZHaTk5d25mWVB1eDB5c2RtQkpwVkVidDEtSkpCbA?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 11:34:19 GMT",
           "source": "Reuters"
         },
         {
-          "title": "EXCLUSIVE: Chery's robot affiliate AiMOGA eyes IPO, targets overseas market - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNLVJudW9BakRXdDRNSHN2QlN1RzBQUXhjT0FzRUdjMl96SW9ibDFLS0lIdWhnc0cwN2tjSzR6MnJaSVpJX2VVdFRoV0h6eDdDOC1WNnotZzgyWFlJYlZQTGNsLUh3R2YzTnI4c1hkMXJHZFBJYTlSOUJjZy12MnNvSGFVcnpZTmVyM2pySERKRXdOay1waXMtUXpvUjZVLTBFa3cyTXRyMS1DenMyUHpDeTNHU3FwODdCbGlJSkktMnhEM1U2TEJNWk0zZVU2TkEwZnBHcUhZTWs?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 11:21:27 GMT",
+          "title": "Take Five: Six months of war - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX0lPYzNQYzNFb2I1ZW91YXRCQWhCYWV2NGFkMWNtTV9KdUUtSWNOREVHOEJGY3R5THNITzY0d29lTTB3Tk5RQ1dGQ21nYk1oblczcGVua3RuemZLdm1BeXBETDEwN29rWEZGeG1VUy04ZUxGRDRWWEdKa1VLNS1nYzR1Y1VNSFVFcmJ3VQ?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 11:25:55 GMT",
           "source": "Reuters"
         },
         {
-          "title": "No decision yet on Bangladesh PM's visit to India, Dhaka says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNeEV1dFdDNFdNTTBKTDZ2VlRZd2NDSy1aSC1XaDY0NV9ya1NLVGRCazlqV0paV3dHTjM5alAtblpoLU1vR0FXLUR1clc2R29GWkxZallFT1RhN0EzV0E5XzZwMUItcTBmcDZmMGFjM280TGE4YmlCNkJPMTI2N2plWW0zeEZELUJGck9uQ0JFRms1WGowb2VEblpEVGZBN1A1R09vdFMyanNwaEFpMUdTN2lMVzdXNkQwTlhLNDdTZjYxMmN3UWN2dGNPSWFoVVp2cXc?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 10:57:37 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Morning Bid: Big, bad bond market - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOFpiZTBOeUlBMDlVbWNNTlFiMmFtVjhHMVkxRmVqaE9zSUMzZkhCcUJHWFdlZlo0VDQyZzRfNEpORWE3azJPTDJncEFQWHItcy1tYkFfeE1yVnRjYXhGb3JhQURsSlNFeHBaLW1PQVgyMEhWY25VYTlJRFY2elAxdHM1UENHYzFwdTdJUTVfaGZNUnBYV1hj?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 10:40:44 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Rupee dips on week as oil pangs linger, intervention prevents fall past 96/USD - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdmF1dnI2MFY1Qmo5LWdRYUpPck90S0RZOWxXUHdfYTJvMUd5aHVYenFQNFRsc0F3OGktZUZEY2tEOHdEdHRHYVZ4bkljN0dfR1F3Mm40cGdmT1BFODhNWDFnbG44NkxxTVd2RnBLekZ3b2R4Y0ZXbmo5TlR6N2VpdzVJWWVQXzhPNUxEdnZpbG5RVmZOZ1FldERicXJCU2Utd3dzQXFpalM5ZV9LSmxjVG1OZEI?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 10:09:45 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "EXCLUSIVE: Tankers stack up as Venezuela sells oil faster than its ports can handle - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcmstT2tWcUdBLXhnOE9WcUlmOWdfSzdyZTVPeGoyVVBVQVVVS2piRVZKT1g4X2RLNG9QMWxETllURmVYbndfLTFhaTJMWnBubTlRdmpHX3dndzcwTW1Yd0hreE9QQ25RdXVEMFA4YV9LY3k3OF92NUx5b0xWaG1BNGRmaGt4ZURmemE5TENmWWl1SzY2ZkRxMFNUaUdRVWVtTnExZzBESFFkMGltdjNtYV9pMldubjVzWnR2YVBR?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 10:01:44 GMT",
+          "title": "Ships passing through Hormuz hover in single digits, data shows - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSEhZX09yZU9wMFlFN0FUUjM0dUhpZ01zMEVvWFBlVHpoQ25lY0xFckRtVnpXMHZfZVA3TU0zRjNNYlUydy1pelQ1Q3Rmb1dPeWZmU3hDTXF2ZERfY3UyY2tteGpocUNoY0FkdE13dXV5cjV1VUh3MmN1al9MUm5xVlh6RWpwenRzQ2dzR0dxci05c2kwQ1VSUGNDTVBJVkFFd0RjZm9GRnBBdw?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 11:22:01 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-21T12:58:26.281Z"
+      "updatedAt": "2026-08-21T13:52:26.697Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-21T12:58:26.370Z"
+      "updatedAt": "2026-08-21T13:52:26.872Z"
     }
   ]
 }
