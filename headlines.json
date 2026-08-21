@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T13:52:26.872Z",
+  "generatedAt": "2026-08-21T14:40:55.043Z",
   "sources": [
     {
       "name": "BBC News",
@@ -54,7 +54,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-21T13:52:25.508Z"
+      "updatedAt": "2026-08-21T14:40:53.907Z"
     },
     {
       "name": "NPR",
@@ -109,7 +109,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-21T13:52:25.850Z"
+      "updatedAt": "2026-08-21T14:40:54.128Z"
     },
     {
       "name": "AP News",
@@ -164,11 +164,29 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-21T13:52:26.322Z"
+      "updatedAt": "2026-08-21T14:40:54.601Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Treasury buyback renews dollar-debasement fears - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMkkwenhydmpyZmx1Z0lxTjNQN0NXRDJtbjd4UEFkLVllcks3M05JM1VlQnJ5WDNmRDJTbHhValJwSmt0SnpFdllKYnRUcGNyY3lDNDBYZ1ZTWWtDaklOeDgzVUFqbzZyeWRLQ05waUV1aUd3LTRyRGlqc1FYaHNvNm1SZE83S0ZOYXNrejRwNXZ2N19BRWNka2FuTzB6ay01OUNuREtR?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 14:03:54 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Tesla and others begin record vehicle recall in China - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQjEyamNWRHVrWi10M3pudDZBWVhwa1pMU2MtRkhpY1BEUEVab1lOaVljX296UVVraG9vcUVOczZndEFfVXp4Y0lEdUpzX2tHMERTMGFsYnQ4UklkMVBRbGx1RElGbFRDdGVsazdUVlhuQjQ3NU9XTXNaMFlqNi1GWFdXV01zWjFVZ0pRaklBdFFuRnFVOElxSG1YVHlKNWFY?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 13:58:40 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Wall St opens higher but weekly losses loom - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQX2E3YkdBQXBjbW43VmpoeklMN0VYV0ZtV0xZeUNHQUx0aXAxLW16MjU5bWdkLVRxUzlpNGhWWEpCeUJDd3JYbTJkZE5KTll3R3JkZGJoamdUSnRPMmp1d21Tc2lUb3FVcldGcXBXamZZU0lqcEV1SDdwN09pOUl4cTM4WHBnWDVhNExtbzdkMXBYVTRmVjVXSjQyYjMyUXJt?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 13:36:52 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "EXCLUSIVE: Dutch regulator fines Uber $966 million for automating driver suspensions, document shows - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOd2JmWFg1eFpuU0RoTnJXYnFqSDdzOFdMU0c4X0xwV3hVZFJiZWYwWHVJNUxsLUV3SEdlMGtPWnJmSlk2YlRWZlFRU3VYakJxbHFWUnVJZnVlYktUMURhczV3ekttcWhOM2Fob1JVWERKRkhtSDltWHQzQ3Y4clJlTVhleTNLSWVLVWM5Ul9YUVlpcnBMQWxhYnE3QmVXY3lMbHAyalhEaWptS2ozMGdMUDdWWndqc3p5QUln?oc=5",
@@ -176,39 +194,15 @@
           "source": "Reuters"
         },
         {
-          "title": "Several people injured in sword attack at Swedish high school - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYld0b2RsdVRvRlhCVVpCRWJVYkpTeTY3SlFmcWJsSC1majhPVWFXRVAtMDdsTHJMT0FxY2RKMTFxRmpCRkxTTTFZMGI5RDctTmROWmplNDFBY0FVRzVMc1lEMnlCN0VjcE13anpXR0RfNDJkaVIzYUdQMWRnTWlGM3dwT01KNm9HcmlZYmI2ZnYwbzR3Wi1fSnQtM1VlYlRwQVk5Z2prSEEtWGo4UmhNaEhjNmlnSmVF?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 13:28:25 GMT",
+          "title": "Ebola spreading exponentially in Congo as death toll tops 2,500, UN says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVFlxeFAyUWRzRllpVGluQjZlYlUwZjROV2w1TFphQmN4MjFISnNyZTBPaDlzYk15Y25XWUViOG1ZcU0yNHRTa2NydHlVWS1NSnVUTEJ3LTJOX2I2VmpfMDJ3ejhKR2tNV3g2MWR2OEZuVWdQbWIweko4dEc2cVAtUURQUlNad0tJNzdsQjZ0eUVuWEJ1MFdPMEtrWGlhYVZxNmVHemRmQ2xNYXdOTE1fNG91Q0htUUYyRTE1TElhVEpsdWtveXVIcVBQMTJCUnUwdlVWUVA4ZUtwNkVKNnc?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 12:56:45 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Wall St set for higher open but weekly losses loom - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQX2E3YkdBQXBjbW43VmpoeklMN0VYV0ZtV0xZeUNHQUx0aXAxLW16MjU5bWdkLVRxUzlpNGhWWEpCeUJDd3JYbTJkZE5KTll3R3JkZGJoamdUSnRPMmp1d21Tc2lUb3FVcldGcXBXamZZU0lqcEV1SDdwN09pOUl4cTM4WHBnWDVhNExtbzdkMXBYVTRmVjVXSjQyYjMyUXJt?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 12:41:54 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Global stocks set for biggest weekly fall since mid-July, dollar on the defensive - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVTFQMW56em9GbmdpNkt2Y1pGekxZbWNTT2I5bHZDNUJCaFFYem9uWVlkSEd3dzBHQ19mSHA0QzZlUmMzWHJtOEtJX09qRmVaNFdYaC1wZzQ4VmJCdFdlWnFDSkhRLVkwYXRidHJPaVk2ZXFyeVNzU0dCbzNRZnhNc0dLcw?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 12:27:09 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "China launches biggest ever auto recall campaign over door handle safety - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQjEyamNWRHVrWi10M3pudDZBWVhwa1pMU2MtRkhpY1BEUEVab1lOaVljX296UVVraG9vcUVOczZndEFfVXp4Y0lEdUpzX2tHMERTMGFsYnQ4UklkMVBRbGx1RElGbFRDdGVsazdUVlhuQjQ3NU9XTXNaMFlqNi1GWFdXV01zWjFVZ0pRaklBdFFuRnFVOElxSG1YVHlKNWFY?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 12:15:59 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Dollar wobbles as Treasury's bond market buybacks raise fresh concerns - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSFZuSmFFRlNlQUZPTlJaNnE2UUJzS29YTWZkWlhJNG1BSWEwbTNCWEVidHBISmc5VUpSMVh5YnRhNHBwMzhCRUZMX2RQalJCTjJhUWJTeFdQckZwbmxRZFgxdVBaTTg3NkZhOE9tZ2h3dHNNV1M5WEVSbTM4NTNsbXdNNnJyNTZHaTk5d25mWVB1eDB5c2RtQkpwVkVidDEtSkpCbA?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 11:34:19 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Take Five: Six months of war - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX0lPYzNQYzNFb2I1ZW91YXRCQWhCYWV2NGFkMWNtTV9KdUUtSWNOREVHOEJGY3R5THNITzY0d29lTTB3Tk5RQ1dGQ21nYk1oblczcGVua3RuemZLdm1BeXBETDEwN29rWEZGeG1VUy04ZUxGRDRWWEdKa1VLNS1nYzR1Y1VNSFVFcmJ3VQ?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 11:25:55 GMT",
+          "title": "US equity funds draw inflows despite market pressures - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSGFkaEdLdjJ4Zi1YYk11N1kwTTBoS1pTQ3NPQV9ZclF6b052dW9tYWtCXzZMUF9Wa1hYS0Y2c01iSVAzU09fb0N2WVh2S0lQQVUtUjI0TXlyRWZnODdYOUZQU2FMQVFJM2pzTDFyN1J5VWtOZHB5azE4QTctMjhNZDdzcXlPOVlyTnVacnhGd1kxUlUzZGcwWVBFdGl0MDA?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 12:29:10 GMT",
           "source": "Reuters"
         },
         {
@@ -216,10 +210,16 @@
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSEhZX09yZU9wMFlFN0FUUjM0dUhpZ01zMEVvWFBlVHpoQ25lY0xFckRtVnpXMHZfZVA3TU0zRjNNYlUydy1pelQ1Q3Rmb1dPeWZmU3hDTXF2ZERfY3UyY2tteGpocUNoY0FkdE13dXV5cjV1VUh3MmN1al9MUm5xVlh6RWpwenRzQ2dzR0dxci05c2kwQ1VSUGNDTVBJVkFFd0RjZm9GRnBBdw?oc=5",
           "pubDate": "Fri, 21 Aug 2026 11:22:01 GMT",
           "source": "Reuters"
+        },
+        {
+          "title": "EXCLUSIVE: Chery's robot affiliate AiMOGA eyes IPO, targets overseas market - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNLVJudW9BakRXdDRNSHN2QlN1RzBQUXhjT0FzRUdjMl96SW9ibDFLS0lIdWhnc0cwN2tjSzR6MnJaSVpJX2VVdFRoV0h6eDdDOC1WNnotZzgyWFlJYlZQTGNsLUh3R2YzTnI4c1hkMXJHZFBJYTlSOUJjZy12MnNvSGFVcnpZTmVyM2pySERKRXdOay1waXMtUXpvUjZVLTBFa3cyTXRyMS1DenMyUHpDeTNHU3FwODdCbGlJSkktMnhEM1U2TEJNWk0zZVU2TkEwZnBHcUhZTWs?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 11:21:27 GMT",
+          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-21T13:52:26.697Z"
+      "updatedAt": "2026-08-21T14:40:55.017Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-21T13:52:26.872Z"
+      "updatedAt": "2026-08-21T14:40:55.043Z"
     }
   ]
 }
