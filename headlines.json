@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-08-21T05:06:27.255Z",
+  "generatedAt": "2026-08-21T05:59:52.739Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
-          "link": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 21 Aug 2026 04:27:13 GMT",
+          "title": "Hong Kong's Tiananmen activists guilty in national security trial",
+          "link": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 21 Aug 2026 05:47:32 GMT",
           "source": "BBC News"
         },
         {
           "title": "British rapper Yung Filly to face retrial on rape charges in Australia",
           "link": "https://www.bbc.co.uk/news/articles/cd7l1g8922jo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 21 Aug 2026 04:17:05 GMT",
+          "pubDate": "Fri, 21 Aug 2026 05:30:18 GMT",
           "source": "BBC News"
         },
         {
-          "title": "Hong Kong's Tiananmen activists guilty in national security trial",
-          "link": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 21 Aug 2026 02:59:46 GMT",
+          "title": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
+          "link": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 21 Aug 2026 04:27:13 GMT",
           "source": "BBC News"
         },
         {
@@ -54,11 +54,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-21T05:06:26.118Z"
+      "updatedAt": "2026-08-21T05:59:51.462Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Federal agents seize devices from ex-Rep. Eric Swalwell in sexual misconduct probe, AP source says",
+          "link": "https://www.npr.org/2026/08/21/nx-s1-5940542/federal-agents-seize-eric-swalwell-sexual-misconduct-probe",
+          "pubDate": "Fri, 21 Aug 2026 01:49:48 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Jurors hear 'Keffe D' say his nephew fired fatal shots at Tupac Shakur in 1996 drive-by shooting",
+          "link": "https://www.npr.org/2026/08/21/nx-s1-5940538/jurors-hear-keffe-d-say-his-nephew-fired-fatal-shots-at-tupac-shakur-in-1996-drive-by-shooting",
+          "pubDate": "Fri, 21 Aug 2026 01:41:15 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Record cyclosporiasis outbreak tests the response of a 'weakened' health system",
           "link": "https://www.npr.org/2026/08/20/nx-s1-5930462/trump-health-foodborne-illness-outbreak-cyclospora",
@@ -94,26 +106,20 @@
           "link": "https://www.npr.org/2026/08/20/g-s1-139388/up-first-newsletter-us-debt-venezuela-oil-deals-census-bureau-trump-voting-claims",
           "pubDate": "Thu, 20 Aug 2026 07:30:18 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "North Korea fires a suspected missile toward the sea, Japan says",
-          "link": "https://www.npr.org/2026/08/20/g-s1-139381/north-korea-suspected-missile",
-          "pubDate": "Thu, 20 Aug 2026 05:24:45 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Privacy advocates call on Maryland to investigate data brokers",
-          "link": "https://www.npr.org/2026/08/20/nx-s1-5938822/maryland-privacy-data-brokers",
-          "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-21T05:06:26.388Z"
+      "updatedAt": "2026-08-21T05:59:51.647Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Charter plane crash kills 8 near remote radar site in western Alaska, military says - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPR2lLNnhWYlF0UWtrc0lGeEdZTTQxa1l6WEdmTnhib0tqbGsyYkxOZTVGcVppbGtUUUVqTndBcWxySExoM1ZYQmtZam5NOURVb2RHUXNJa0dqNExxMHBsRDU0SGhCQ3J1OXk1ZzhXRnB6eFE5ZWxkLVdsM1gtTzE2bVhrZnhta095YU05ZUFQTQ?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 05:32:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Pakistan's former Prime Minister Imran Khan returned to prison after exam at a private hospital - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM05aYV9OUFBHNHp0UEE4NWlfaVFEMEFXUjI0NGo5YnpaWUJnekhmNjZmdnhzQ3pKZkVWUkF3dlVtNDJyOGxCOWE1VVJNREF2dWxGVG4tR2h4UzViSjlZdlVEYTlYSWU3WVQtQ0RBcks4MjZqb2tXX21LR2N0NVFTbWJZMFRGM3dRV1NvLWhTMk5ZU2RvS2NCbW85Y09zM0xkLUMwcWQwc0JvbkE?oc=5",
@@ -139,21 +145,9 @@
           "source": "AP News"
         },
         {
-          "title": "Charter plane carrying 8 crashes near remote radar site in western Alaska, NTSB says - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPR2lLNnhWYlF0UWtrc0lGeEdZTTQxa1l6WEdmTnhib0tqbGsyYkxOZTVGcVppbGtUUUVqTndBcWxySExoM1ZYQmtZam5NOURVb2RHUXNJa0dqNExxMHBsRDU0SGhCQ3J1OXk1ZzhXRnB6eFE5ZWxkLVdsM1gtTzE2bVhrZnhta095YU05ZUFQTQ?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 02:28:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "California lawmaker Aisha Wahab wins special election to succeed Eric Swalwell in Congress - AP News",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcVc1YUxqYzlMRG9jTktiQXQtaGE5bDUyd3RhLUNoNENuOWc0TmN5SE1JTjgxUkpRbjlXcmNXb1FqNTItSEk2YjBTVnpCMDY4VmFDUERQMWg2bzRUYjlwTEg0ZjNzVDVlS3NHYjZQRTlxcDhmV2tPWHJlWGY3czBfMVNPZ1J0QWN2OG9CaTBDN2ItTGpCYWZHZHpnOUpGT20yS1BSYy1nRWZiWTlBY0FLWlB3?oc=5",
           "pubDate": "Fri, 21 Aug 2026 00:48:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Alfalfa sprouts linked to food poisoning illnesses in Minnesota and Wisconsin - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTE5HUGtUVVlkLXlmaEx3U0Z5RFNxNkhvTWlDbWFZc05kNEVyU3p1NnZIaDZ6OWlOaUNyYWxjcFJKbUtjYjNlSHhkZzBjM3loUGdrOFVfNDdUY1ZXUDZDd1d3MjFzeGVLQ21wWmhBVFBJREdRa0FpcmJiaHpuc1pXdGZmMTB6b2JSMTNBTFhmTUY2NzB6b0VyQzZrSDgwcU1wSkJzVm1UbEI4bE5YLVdqdjAxUVFkS3dVS2c?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 00:43:23 GMT",
           "source": "AP News"
         },
         {
@@ -161,14 +155,50 @@
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTVp3TkxRTlg1ZnZiYzUxM0hZWDZYM056SlNRdDVjYl9fcHB5ZkdhNHVjcXVacWRyOVdxbFBGR2xvYXAtcHg5ZFQyUER5LWNhT2xWUjhucFc4R3FYZ3Z2YlZLMUUwTG5GczVWS05xY0Z1dzdzMk1RUmt6VWFzMHZqSnBILUlqVXROOWUzUUFtMEdmdm5h?oc=5",
           "pubDate": "Fri, 21 Aug 2026 00:27:00 GMT",
           "source": "AP News"
+        },
+        {
+          "title": "AP reporter Christopher Bodeen, a tenacious chronicler of China’s rise, dies at 55 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSlU2WkZpY3RCQnBVWDc2R3ZIY3BrVGxhdTBWbjRwbkZzek4yaFlwLTUzTXZBamdkbmFGUV9qVWtKbkNNczVhWm9kRUlHMGw0QlRLOW9feWdTaGZXZElNeDNiaHktN0Q2NmViY19oT2tNMHMyd2VyckNONlYxby1zYzNXQ2l3X2hlenp6MlZwXzBoMnYwd05paTVmMkl6enR3aGVoUnNQSzlUWUZwTjNneDBYNUg5TDJGYXktTVoycVg?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 00:26:00 GMT",
+          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-21T05:06:26.813Z"
+      "updatedAt": "2026-08-21T05:59:52.127Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "War-hit European markets are far from down and out - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdnhLRk44Z05ZeGw4cWhLcEtkTVRNMnRuSDd0cTYwa2xJdWM0WEsxQS1MeG8yM0lnenM2QVpxc0pKVHdIaHI1TXhzMk40Z25WTDlzdkVTT2tmNlRORlc2eW9FRGpsWng3MEJ1OUZJVVpkUm1QTzV6Z2dkeTd2YjRtREtPdGZXTXAzeUdNaUNuaw?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 04:01:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Trump wants a new meeting with Kim Jong Un. North Korea says not so fast - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYmNSdFdHSUxwdV91bzFuRVhydnBoRk85Tng0QUp2Um1tczFEMDRBbGVac0llaER1U2VoeHNPbFdrXzdReXR3bGF1cUs4eVZnOUJnVUdvWmJJcVI1Tmltd3U1R2x2akJXVVN5TkRuZTRlYUJ6M2JBWTNNWlYwNWQ2UlZWZWxHS0NkcVUydnlTQlRydzY0MDBwVVUzaFFwQk5sTTlMYVNhWW9lTlpWSThUSHoxbE5oNjJ3V0RXa0F6dkV3M25kLUdkWVRHeTQ?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 03:42:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Ships passing through Hormuz hover in single digits, data shows - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSEhZX09yZU9wMFlFN0FUUjM0dUhpZ01zMEVvWFBlVHpoQ25lY0xFckRtVnpXMHZfZVA3TU0zRjNNYlUydy1pelQ1Q3Rmb1dPeWZmU3hDTXF2ZERfY3UyY2tteGpocUNoY0FkdE13dXV5cjV1VUh3MmN1al9MUm5xVlh6RWpwenRzQ2dzR0dxci05c2kwQ1VSUGNDTVBJVkFFd0RjZm9GRnBBdw?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 03:15:52 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Indian shares inch higher at open; higher oil, bond stress cap gains - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORTRaUnV1SklLS1c2TjZIUTAyV0Q5aHI1NDJDLUhYMUNfTUt1SzRzMl9ubnV5ejB1RV9pQnU4YXBrU0piZHF4eXZ5WjBDcnRZdy04LTMxcWs3X0RPaHV5Y3lHRGRScWwzX3pRRjZ6TWRlV0dBNWlHbExJbXlOM2liYjZRQ1pWZ1B5bFRWNXU3b3ZuQkpGeU1senpXZm1MeVJvUXk2SHNRMkdWVFlZZ0NGazlNTnY?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 02:26:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Hyundai Motor's South Korean union stages first full strike in a decade over pay - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOd1NFbENBWGRhVEpxLXVyaFFZTzhNczN6TlNQcHhFZGtTM2ZERGpzLWRrbGdxYnNDYkJBQUYtQWxKaXZmaVpSRkhaeUlxb2NrSnMyckMwcUVzS2pHMGRfZUFITTlUb0xvUVpoWWFNUm85cGJfRTRKX2FlSnBqbXduNkZnbWJVVFIzQkw5bXdpcE1hbkRRZ213cWdtV3dIZFVON3ZsakZPZjFRU0QzTWhWYU82a1I3T2xySlE4WkRyak9jM09zcF9YLQ?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 02:22:00 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Oil set for second weekly rise as unsettled US-Iran war crimps supply - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEh1QVJmcTNtSE1PMURxNmRBT3RIWHhVTmtwZDRiMk5yUzJtc2xuNHFlQXF1a3VJS3FQckxIY3Y2VjhFejlkNDZnLTY0R0prazZHb194Y19sRDdjUVJtNHlMT0lwSHRRcU5UM2VBTFZpVHBDZEl1OGFWbUkxX1pacWhMYUtFQ0pRbGVRYVNYcy1zSUNZVWtxNW4zczc0YVhZVkFWUHJwRWlFQl8zQUR3dFNIU1o?oc=5",
@@ -186,40 +216,10 @@
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSFZuSmFFRlNlQUZPTlJaNnE2UUJzS29YTWZkWlhJNG1BSWEwbTNCWEVidHBISmc5VUpSMVh5YnRhNHBwMzhCRUZMX2RQalJCTjJhUWJTeFdQckZwbmxRZFgxdVBaTTg3NkZhOE9tZ2h3dHNNV1M5WEVSbTM4NTNsbXdNNnJyNTZHaTk5d25mWVB1eDB5c2RtQkpwVkVidDEtSkpCbA?oc=5",
           "pubDate": "Fri, 21 Aug 2026 01:36:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Asia shares downbeat on the week as bond yields, oil stay high - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVTFQMW56em9GbmdpNkt2Y1pGekxZbWNTT2I5bHZDNUJCaFFYem9uWVlkSEd3dzBHQ19mSHA0QzZlUmMzWHJtOEtJX09qRmVaNFdYaC1wZzQ4VmJCdFdlWnFDSkhRLVkwYXRidHJPaVk2ZXFyeVNzU0dCbzNRZnhNc0dLcw?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 01:23:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Trump, former fixer Michael Cohen have warm interview at political low point for president - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWE1GRE5HYVN1YUxtLU1HZUFUWndDdElzVGk2UnNzVVpkTkotN0NFYTZMSDY5VE15ajRKaGVxc3RvcWlmN3I2WDgxVjVmYk03SWRXMXhPMHdva3d2QVNsajZjcDhKc1N4UG5TZDZ3VHdZMFEtUXlGMHlkcVplRlRCckRjOGN5UUVpUmx0VkdTVk43ZFdGOXBMVUZ4M29LT1VERUJIR1pJcGJ1NlpiQkE4andVczdzZE9CZHBBT3BDWk81VHM?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 01:15:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Gold on track for third weekly gain after US Treasury move - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdzBQclFYMVRpaFk2cVBvUUNLd2tWYjlENUhJbG9tR3RYQ2k3VTFpSV9yd0xXVVgzNnFQNGltZV9sbHhQdENsX29BekdQM0NOb2p5bjBqQWNUbnE1WGZmaEt5d0ZFQVgzZUFKeWNOSEt2eHUzZWZRdk8xb1lMZUplLVZBY2oyYlRtMHo4YmZhdWRRZ2FndkE?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 00:58:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US teen drops lawsuit against Meta, Google and Snap ahead of trial - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZWVBQThZSDJYVURnZ3FYR0RickduLWp0Y1JIQTB0MkxZMDFCTFE2b0Vfd3RmQzIwZ1NIWkl2NGhKZDZXMFl2UmdpVEFxYVZLSWlVUURJOEFxeThkRG0yMVJXcXBmUW0wMmRpMlNPdTZrU1hBemhkWmhTVVJ6WHVGdzl3N0dMcm1kNllpMFJnal9VUzBaUkdpYzlGQnNkQ2JEa285WDVn?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 00:13:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US says it will impose 'toughest sanctions in history' on Iran - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN2ZEV0ttbXhQZHVsUVNRYTBoVkczUHp5MVN5ME9vWGo4ajVmWmhMUXBwdkVVaXo3MjZlSEpyTC0wWWtvaGdYZkttakoyazRFMXBCM1ZUVmZ4TldhaUF2WU1QdTgtR3NwaFlMa016ZGJ6UjBaTmZGZjVTN011RXFNWktVcm44QUxMbHE4WVNyOWpNUkJwNzVKLW0wUTdQSUZCdGNrT1NkWXZPMzVJ?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 23:59:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-21T05:06:27.227Z"
+      "updatedAt": "2026-08-21T05:59:52.575Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-21T05:06:27.255Z"
+      "updatedAt": "2026-08-21T05:59:52.739Z"
     }
   ]
 }
