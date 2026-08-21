@@ -1,9 +1,15 @@
 {
-  "generatedAt": "2026-08-21T09:08:56.160Z",
+  "generatedAt": "2026-08-21T10:02:17.350Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Eight killed in plane crash at remote Alaskan military site, air force says",
+          "link": "https://www.bbc.co.uk/news/articles/cj9dmw8183wo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 21 Aug 2026 09:53:47 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Why the US economy is ringing alarm bells",
           "link": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
@@ -45,16 +51,10 @@
           "link": "https://www.bbc.co.uk/news/articles/c75gp1ppk6no?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 21 Aug 2026 05:02:39 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
-          "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 21 Aug 2026 05:00:57 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-21T09:08:54.798Z"
+      "updatedAt": "2026-08-21T10:02:15.981Z"
     },
     {
       "name": "NPR",
@@ -109,21 +109,21 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-21T09:08:55.109Z"
+      "updatedAt": "2026-08-21T10:02:16.163Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Thousands of migrants in Ceuta wait in limbo while Spain figures out what to do with them - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYi1FM2hNZzAzeGRENURtN0J3RktQN1hCOEIyMnpkaHZuSDJIbG55VWRSbG1XSlE0RldjNHZNQVhHOGVDYmdiSGVNYmpWNkctVHpWSjdPenZBS25LSDBQVnhpZmdKRUJ3TW1WOFVES0NEQi03NUhwX1h6N2lGc2xsRlhCWGE1YXA1dWoybFdvRy14YTQ?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 07:48:00 GMT",
+          "title": "Charter plane crash kills 8 near remote radar site in western Alaska, military says - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPR2lLNnhWYlF0UWtrc0lGeEdZTTQxa1l6WEdmTnhib0tqbGsyYkxOZTVGcVppbGtUUUVqTndBcWxySExoM1ZYQmtZam5NOURVb2RHUXNJa0dqNExxMHBsRDU0SGhCQ3J1OXk1ZzhXRnB6eFE5ZWxkLVdsM1gtTzE2bVhrZnhta095YU05ZUFQTQ?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 09:52:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Charter plane crash kills 8 near remote radar site in western Alaska, military says - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPR2lLNnhWYlF0UWtrc0lGeEdZTTQxa1l6WEdmTnhib0tqbGsyYkxOZTVGcVppbGtUUUVqTndBcWxySExoM1ZYQmtZam5NOURVb2RHUXNJa0dqNExxMHBsRDU0SGhCQ3J1OXk1ZzhXRnB6eFE5ZWxkLVdsM1gtTzE2bVhrZnhta095YU05ZUFQTQ?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 05:41:00 GMT",
+          "title": "Thousands of migrants in Ceuta wait in limbo while Spain figures out what to do with them - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYi1FM2hNZzAzeGRENURtN0J3RktQN1hCOEIyMnpkaHZuSDJIbG55VWRSbG1XSlE0RldjNHZNQVhHOGVDYmdiSGVNYmpWNkctVHpWSjdPenZBS25LSDBQVnhpZmdKRUJ3TW1WOFVES0NEQi03NUhwX1h6N2lGc2xsRlhCWGE1YXA1dWoybFdvRy14YTQ?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 07:48:00 GMT",
           "source": "AP News"
         },
         {
@@ -164,11 +164,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-21T09:08:55.617Z"
+      "updatedAt": "2026-08-21T10:02:16.675Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Iranian oil offers to Chinese buyers fall as US blockade bites, sources say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNTlOa0p6cWFWR2FCZ0dZY2tEZEZLMkNWR3RvQkUzdUwyTE11aVF0TkVpMExXM3otZy0wbVRZU0lBOUpLV2lhYTdPWHBMZ3plOGFwekxwbVdQLTM5anpldkwtTWpnak05T3VLdDVUT3ItVVpEeHllS3E5SjFOeHFCT0FPeXU5c1I3X203S0pGcENjeFRESF9YaTZnV0JNNGNZUnl4RUxGTFZIN2RNU0k0YXpJbVhyVW55UlB6Rw?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 08:45:59 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "India orders removal of Google Firebase accounts after spotting scam pattern - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSnlmWWZrN2UwRVI4Zkc5cHZJdWkxdTBlU3dXYW43d3dzVzdnVi1iN1RiM1RuTHI2U3Y4cm5fOWZsU2RsU2VJclkwVDNwZlhGODVPVVpSTEk1VEt1QjRmcUlTQjhYLW9zMnNfRWV0UUZlbGduQTFtNWk3WFFMRjNmODFWQ3pzcHNiczRHdUV2Q3RCdjFmVDhOUU1ESWY5TFRVdXFnQlByVWc0ZnBkLVl0VU5mOEFyQjFyYnA2LXlR?oc=5",
@@ -176,15 +182,21 @@
           "source": "Reuters"
         },
         {
-          "title": "Iran says Tehran must overcome 'unjust sanctions' as U.S. ramps up economic pressure - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZ1k1ZnYtdXFiVWJvUVdmQlJLR1hWN1czeTU1Vkt5VFEyWkNISDhnUHVBY1hLb1JMdnp1dmRxU3Z6WG9wNlZRUmVZaUZxeVJVOERnX0QzeEVuU1FPbzByQ29EQXBvMzJrSkZWOWdkV0pHYUlfYkNTcFZDaTc3cUdLMzdmemlmV2hhUlYzdDFwUHpMcE9oSVZCbXlGYzM2LW9DcEFBdl9kSHRwOF9PdUtUMjdaWUZ5Rm90aFh4blpzaXhXUkZSU0ZPNzRvRQ?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 08:14:41 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "India set to approve $1.2 billion incentive plan to make building equipment, sources say - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWFozQy1XZHVfdTB4MmlpVmg1dWdvZzRqa1R5dl9iYWNtZXdKaXBHcjNHMlUtZV9pV2VWaXFGenBPckhaQ29zSXBFcWE1b2hnM3VSQ0lWOTdoMEhQTzhnakZJNVcwdHZXd1ZBcEJTUnZfT3JfWXhraTREa3hwREk2Vl9zR1Boa1FuUlpYNFF0SEowRnRJcGYxQy0yMnZ3X0lVOVluZWMtLXpoZGlWall4WURrenZGSktlanI1OURrZlJFUWlaRGc?oc=5",
           "pubDate": "Fri, 21 Aug 2026 07:09:43 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Families protest in Nigeria over children abducted nearly 100 days ago - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOThfN0FQbkpkZWdqNGNvd0xuc05QQ0dKRVBFY0RhejROUnNWTm51eGs2allMemQzRjY2QVd2cmM3RzJZZndBSEFZN3YxM05kYUY5STRoV1hSM1RKT2UtNzNobG93c0NicTkxaUFzYnRhS2o2NWZfTjhNSjhhOWhQeUYwN1BHVkEyTS0xNmN6M3dWWnFwRGxkRlFmRlhDcGo1UG9OOGlqS0JqY3lyVnNaTUM2Nk9QWVk?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 07:07:43 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Prince Harry to learn how much failed Daily Mail lawsuit will cost - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTmkwcWhUY3EwXzdGYjctUDRHZl9MTUJpWW53Wm9yS3VSelZnQ2FKWE5ud3Z0TVBDM0FFeG5vVTdRQkxXYWU4Z3pzMm95V21weVpTNkJ3V29iOHBIa3huLWdBMmtwTHRodTNWaF9SOXpfckdNLWIxWmtneDV4WWMzQ3lmRFFtbUMya1ZJSElNVS16QklRSlI3aEEyN0tkbE1OSV9Ta1RScU5IeHhtYmNLbFZTRWdmYVE?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 06:04:00 GMT",
           "source": "Reuters"
         },
         {
@@ -204,22 +216,10 @@
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSG1FLTR6ekxvVzVEOFo4d2tkbHpfMlI1STMwdjkxR204bHNwaWZ1OFVCWm41eXB4T3NHcVl4TktwTjRmSTVNOGlHQ2JRSDBHY3FxWjg1V2c4UUFwT2tjM25ubGpMaDJHU3VrWUpCZm9oMHhicXhCOTQxdTRGMkVpT0tGOEYyRW51ZWdVSzByOXFWZENab2g0d1ZsZXlKOHMwSldpeklvbjJfekxESVV1ejR2dnFSc01QZUQyZTlWeDQ?oc=5",
           "pubDate": "Fri, 21 Aug 2026 05:25:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Russian-Australian to appear in court charged with spying on Ukraine military - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcjlPQ0haOXVkNzZ2Q2JRUE1zbk1leG50T1NBdEFWMGdObk8xRVF0cTR6NmJjdTVQdm4wVUVtV0F2SkVXVHgtMWctczd2RW1GTG45dWZCalZlNWJaVzA1ODhvTVRfbUNXelE3WW1HXzJBUVBnY0liMDgxN0pRbGtOc0xqeGNYVnBDV2ZlU1BST1UweFFES2JuY0JjV3JKRlFDM1BUS1otQ0dFX3lHQTJNTjVNdDM?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 05:03:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Hong Kong court convicts Tiananmen vigil group leaders of inciting subversion - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRTFpaml0bHVjVlJzcU1CR1BBWGxxZ3VIa0djWlI1RUNSWC1DRkJ0WVVodWlXUGNCRGUydUJXcUc1XzJyRl96elg5WDNqQ1k4R25ibTBLVWxrZG1EdkphZ1lVb0FYUkRrZFVZNllvME1NOUhGTnE4SHpWQjZrbEZzNUhUVXhYUjVCZWhzVzBucGlHTTM0cG1WQTJkNlZKZlBLZzFZNGJTRzRDajA2enZ3cjlsR0w?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 04:52:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-21T09:08:56.040Z"
+      "updatedAt": "2026-08-21T10:02:17.091Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-21T09:08:56.160Z"
+      "updatedAt": "2026-08-21T10:02:17.350Z"
     }
   ]
 }
