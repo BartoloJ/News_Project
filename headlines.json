@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T21:26:48.251Z",
+  "generatedAt": "2026-08-22T21:49:44.320Z",
   "sources": [
     {
       "name": "BBC News",
@@ -54,7 +54,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T21:26:47.118Z"
+      "updatedAt": "2026-08-22T21:49:42.969Z"
     },
     {
       "name": "NPR",
@@ -109,7 +109,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T21:26:47.208Z"
+      "updatedAt": "2026-08-22T21:49:43.164Z"
     },
     {
       "name": "AP News",
@@ -145,6 +145,12 @@
           "source": "AP News"
         },
         {
+          "title": "Trump’s trade war with Canada: A timeline of how we got here - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbF9QeG1JbUxkajVXT1l5QXg4T0Y1Wi1qdng2cFB3MVhPSk9CYWtoamIybkdtT1pPMkJDZG91NmpaLXRSaXh3Q3Q5bE8xVHEyLTF6NmEybTdkTzk2VWQxV0V0VlZDN1VPeU5RN1gweXVsWEE3cThpWGpHbHR4TlRpSEpxUEx6aDZpWmV0UmZOY1U?oc=5",
+          "pubDate": "Sat, 22 Aug 2026 16:00:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Federal judge vacates Trump policy that suspended processing of immigration visas from 75 countries - AP News",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVVFtMlhNYU9fa1JGZXpOSzFDd1NKSTRTRXlYOXZ0dk94ekhqaUVvdllWVXFyMlJ5aEVKdzFTbGkxV091RmJ0S2lJSWkxSERpTm43dlFfWjR2U0FQVF9rMHpLejVQNTdIdzAtcjVMdGNhWU1jZXhZTWNSanZYcmZxUktLb2tLZDhWSHZTclZzc2JxeTFwVDluMTlqa0RlRURnUldZ?oc=5",
           "pubDate": "Sat, 22 Aug 2026 15:55:00 GMT",
@@ -155,20 +161,20 @@
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWGtOTmFBNE13QWtYajRFYlBQYVBtM0Q1VVdJYnBnVUdudEo1RnhlVUZ5LVo3cUYyX2wwdEc3SzJBa2xubnF6VXBzcm9uTWtuazBOVE1yOUwtY1ctY1I5bFZMajZMbGY2bUJ5UzFsbk9NT1pkbmQ5UEVSd1d4eDU0em1zdFg0ME5iY21RbTJkZmhoNmlWMlZ3b293VnhKX3c?oc=5",
           "pubDate": "Sat, 22 Aug 2026 15:40:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "A head-on collision in northeast England kills 7 people, including 2 police officers - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOM1h3YVoxQnAxVU4zc0xPMXFzbXFjUm02OTNhRFFCTjhwNUFpODNtX1lHMnMxX3hrOTlseFhZcTFULVN0NFNETkw5ekZoMUV2b2U4U296dTFka1FGUnFlN19ZMGpGdlY1QndHeEZBWHN2TUIyVEIzakJWUHlYbHQ4ZFViYlZ4Q0xE?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 15:29:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T21:26:47.669Z"
+      "updatedAt": "2026-08-22T21:49:43.661Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "South Africa's former world boxing champion Tete shot dead outside his home - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVDlRa1g4Rkd1OWVuOThwZWZ5STJ4eEtUbV9iWDhDb0x1cmtvRHAwcjNGWnZsSi1WYmxDd1ZKV2I2bzFRLTA1MWQ4Q1hUOGFkc3BfZXVibDhJNXVnRWdraGZ2Sy1VUW0tS0x1bElfbGJYTDA3TzRMd2FyclppVUhPanpWVkNrZlgxbUJsdXVRS0Vuc3hITzJuX0lmWVlMVHFzQ1BPaFJpOC1NV04zc0xBZVNqQ3NhWTNr?oc=5",
+          "pubDate": "Sat, 22 Aug 2026 21:03:28 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Canada to impose retaliatory tariffs on US steel, electronics, other products, Carney says - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ2ZPTUg0NjVrWlY5aVBzbS1ucUhqc014UGZYMkhlX3R1bkpDMnlXMmZyT2hCVEs1dXZNbkE4Nlc1aXZQemtvNUJFWFVyLWJBb1BWelBfVmJBRVlUMk4tR2lNVWw5NW11NG5SOUtGZVZNZ0lIXzJYVlJsNFE0Vlh3TExaMnJmOGhJNmNWSkd1MkE1QmpjeHl1TXQwYUkydWRkSUVxU21UV3VBdHVJZUV2U05NaGI2d1RuNUJvMg?oc=5",
@@ -210,16 +216,10 @@
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaXo5Zy1LWkNHT2I1azNJT0ZmbElLanZORGxBbXFFU3A2Sjd4TWRaeTBFTWJFd09qTDVPalF4Y3ktanZvZFJmRVgzU1h1TmsyQ2dYd18tUVVtMXlaQWhFbGllUjA5ampBb1dsRnV0eGZ6dC1KajJxUDNvaW1sYUgyZ2VVaUpXZE45STJyX21tVnhqUTJYaGJzbDB6bmZTcUs5ZjNiSmNMRHQ3WUJFaU1HR05nLWwycHdlTkxBMVdMUUhyR3dFc3I3YQ?oc=5",
           "pubDate": "Sat, 22 Aug 2026 17:08:12 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Hit by Trump tariffs, Quebec loses appetite for quick separation from Canada - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTHJKQkxBdVZTZUdMeW9KTWFkbFYtOUMtUTVwalc5UF9xb1FqalVlLVlfVlJPQnRMMG5WVUIyMkhsNW9rRThJemxTYUNIdU5wRXlfVWVwcHg3Ti1WLXhZUm5fbWFvdHBKTHJHUTlySTdQd2VMbHpyVkZzdDVXaFJneGNpeV9LLWxQN3AwOEktS3h0TFRrNzlQQ0ZyUHRrUDRwTTBPREkzOThuOG5WOXRiSENOWkN0cVp1?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 17:03:42 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T21:26:48.068Z"
+      "updatedAt": "2026-08-22T21:49:44.076Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T21:26:48.251Z"
+      "updatedAt": "2026-08-22T21:49:44.320Z"
     }
   ]
 }
