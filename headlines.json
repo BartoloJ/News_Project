@@ -1,9 +1,15 @@
 {
-  "generatedAt": "2026-08-22T10:54:02.337Z",
+  "generatedAt": "2026-08-22T11:25:32.567Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
+          "link": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 22 Aug 2026 11:21:05 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' strike",
           "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
@@ -20,12 +26,6 @@
           "title": "Sydney Marathon medal mistakenly depicts Munich stadium",
           "link": "https://www.bbc.co.uk/news/articles/cvg92y1wzn8o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 22 Aug 2026 07:53:57 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
-          "link": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 22 Aug 2026 04:46:33 GMT",
           "source": "BBC News"
         },
         {
@@ -54,7 +54,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T10:54:01.265Z"
+      "updatedAt": "2026-08-22T11:25:31.289Z"
     },
     {
       "name": "NPR",
@@ -109,7 +109,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T10:54:01.340Z"
+      "updatedAt": "2026-08-22T11:25:31.530Z"
     },
     {
       "name": "AP News",
@@ -118,6 +118,12 @@
           "title": "MLB | Latest News, Stats, and Scores - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
           "pubDate": "Sat, 22 Aug 2026 08:30:18 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Russian and Ukrainian attacks kill 5 people a day after deadly shopping mall drone strike by Moscow - AP News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVURpSFQ4WnVGVmZkQzdrYS1FTUVNdHRIREZWYU1iek1RV24tNjlINGRZSHU3bElZSFBHVHFTQklmdXRlaGk2eWFoM2NUWWVRTGkzbjdxM1FkTXFpM0hDOTBXaDZsQXFZZEJLcGtLai16ZjZHQmtpcVhLOG1Yc2dpSzJQSi1ObWNIT2xMbkwxQmxha0RmV0ZfNWFwQjFpeFNJ?oc=5",
+          "pubDate": "Sat, 22 Aug 2026 07:58:35 GMT",
           "source": "AP News"
         },
         {
@@ -133,12 +139,6 @@
           "source": "AP News"
         },
         {
-          "title": "Russian attacks on Ukraine kill 2 people a day after deadly shopping mall drone strike - AP News",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVURpSFQ4WnVGVmZkQzdrYS1FTUVNdHRIREZWYU1iek1RV24tNjlINGRZSHU3bElZSFBHVHFTQklmdXRlaGk2eWFoM2NUWWVRTGkzbjdxM1FkTXFpM0hDOTBXaDZsQXFZZEJLcGtLai16ZjZHQmtpcVhLOG1Yc2dpSzJQSi1ObWNIT2xMbkwxQmxha0RmV0ZfNWFwQjFpeFNJ?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 07:20:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Former world champion boxer Zolani Tete killed in South Africa - AP News",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY09ZWEw4OTEyeU5aWFFrTkQyYmc3X0RydENSclU5eUZZcmduVGE4ZnBITE1oWEVnYjZRVGd4MzJqckc5eGhRZ2RqRFMtQ0NMbjNjWjBZX2Ywc0k5UkNwakx5Smk0VWVwaklnMXR5ZnRRYjlBdXNhaDZna0hoMlk1d3ViUXM2Q3FYcFdhRw?oc=5",
           "pubDate": "Sat, 22 Aug 2026 06:53:00 GMT",
@@ -151,20 +151,20 @@
           "source": "AP News"
         },
         {
+          "title": "Tropical Storm Moke forms on track to bring heavy rain and winds to Hawaii - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdVJkQnQzNHZ4c0lXNDZlZDlqS1Nvc20zX3dNS0l0Mk9JUGR4b1lfYlMzTUNFVW9ERVVPREJsc0hXZ0prbDRVV1RhQVI3OVphVEdnQk03Vndta2tENmVaeXNXczFVZ292VlVSeGRuazZWb05GQkVaOWYxR1NxYnZIdVhZdEt1SzNKWDJqMVRMOVUtYl9ULVpvVzRDeXd1STdka2c?oc=5",
+          "pubDate": "Sat, 22 Aug 2026 03:01:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Court cuts $50M judgment against Alex Jones over falsely labeling Sandy Hook killings a hoax - AP News",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdkRnRTdwVmJVMi1VSXFycVBET3c0Y1RjMU4yNUtxWU9GWGZSUGFaaUhkWE5PUVNmLXlnZWxsTG1TYWFfN1NvbnlIRDdyMl95bUNpbzR0T2w4Q0tIMUNWYjNGMHJUT0Rfc2xwY1FtSXU1Q1ljOWMxc2lFNWVITjJtVlppT3cxVjFSY0wxLVRFMzg?oc=5",
           "pubDate": "Sat, 22 Aug 2026 02:17:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Victoire's PWHL championship Walter Cup trophy missing after not arriving in Alberta, AP source says - AP News",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORXlwSnNJenQ2d0xhVTlCZFNUdFBscVRFV2JuU0U1eERnUFFQaFlwOHBvTUl2Y3hacFNMU2lGdWpYVXZldE5lYXZaSGFZOFhQNkE1c01JVmk2ZG9td29BVFYwTkt3aVU2WVRpakNKSFZWTGtMVExoUkc1MU9MdjNpMjRjblJGbEEyWmRYaUdhQy16UWlLWmJpU2JsYXg1QQ?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 00:40:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T10:54:01.750Z"
+      "updatedAt": "2026-08-22T11:25:31.902Z"
     },
     {
       "name": "Reuters",
@@ -219,7 +219,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T10:54:02.154Z"
+      "updatedAt": "2026-08-22T11:25:32.294Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T10:54:02.337Z"
+      "updatedAt": "2026-08-22T11:25:32.566Z"
     }
   ]
 }
