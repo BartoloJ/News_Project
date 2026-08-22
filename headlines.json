@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T06:49:32.536Z",
+  "generatedAt": "2026-08-22T07:36:02.934Z",
   "sources": [
     {
       "name": "BBC News",
@@ -17,6 +17,12 @@
           "source": "BBC News"
         },
         {
+          "title": "Lindsay Clancy suffering 'command hallucination' when she killed children, court hears",
+          "link": "https://www.bbc.co.uk/news/articles/c62xpre63j2o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 22 Aug 2026 03:43:26 GMT",
+          "source": "BBC News"
+        },
+        {
           "title": "'Quiet, quiet, quiet!' - What triggers Trump to shut down reporters?",
           "link": "https://www.bbc.co.uk/news/videos/c235j22d85ro?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 22 Aug 2026 02:39:10 GMT",
@@ -26,6 +32,12 @@
           "title": "As they return to the UK, Harry and Meghan search for a brand that sticks",
           "link": "https://www.bbc.co.uk/news/articles/c0l5d387j18o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 22 Aug 2026 00:03:10 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Drugs at their fingertips, intense pressure: Why child stars fall into addiction",
+          "link": "https://www.bbc.co.uk/news/articles/cq56x3910jwo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 21 Aug 2026 23:41:33 GMT",
           "source": "BBC News"
         },
         {
@@ -39,30 +51,24 @@
           "link": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 21 Aug 2026 22:36:12 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "These bookshops let Chinese readers question their country - now the doors are closing",
-          "link": "https://www.bbc.co.uk/news/articles/cj0338l6yg4o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 21 Aug 2026 22:26:25 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Modi spent years building his strong image - why is he making Gen Z reels now?",
-          "link": "https://www.bbc.co.uk/news/articles/cnvn0n1nld6o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 21 Aug 2026 22:15:32 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T06:49:31.042Z"
+      "updatedAt": "2026-08-22T07:36:01.828Z"
     },
     {
       "name": "NPR",
       "items": [
         {
-          "title": "U.S. imposes 50% tariffs on $20 billion worth of Canadian products",
+          "title": "U.S.-Canada trade talks collapse minutes before deadline for tariffs to take effect",
           "link": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs",
           "pubDate": "Sat, 22 Aug 2026 00:36:27 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "A battle over 'Italian brainrot' could shape who owns AI art",
+          "link": "https://www.npr.org/2026/08/19/nx-s1-5867638/artificial-intelligence-brainrot-memes-copyright-spyder-tung-tung-sahur",
+          "pubDate": "Fri, 21 Aug 2026 18:16:46 -0400",
           "source": "NPR"
         },
         {
@@ -100,30 +106,24 @@
           "link": "https://www.npr.org/2026/08/21/nx-s1-5920407/colorado-wild-horses-federal-government-roundup",
           "pubDate": "Fri, 21 Aug 2026 05:00:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Amid intense backlash, people are vandalizing Flock surveillance cameras",
-          "link": "https://www.npr.org/2026/08/21/nx-s1-5939851/flock-cameras-police-block-surveillance-vandalize",
-          "pubDate": "Fri, 21 Aug 2026 05:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T06:49:31.544Z"
+      "updatedAt": "2026-08-22T07:36:01.972Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 04:22:34 GMT",
+          "title": "US imposes 50% tariffs on $20 billion worth of Canadian products, and Canada says it will retaliate - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTFZQdTRIMXVabHVfUTNldG4yeGlBSWlHNTFsNUt4WktQeHBuT1RzUUxVT3NZMTQ4ampFeFMtQVhVUDN4bXZXVWlzWXY5LTBEVTI1d29obi03ZGd2dTB6WG0zRGtsa3llaHhtVlVnRjFKYW4tOGpubG1qSWp6NWZfNG5WUVlpeGdjc0s0ck5GM0F3eWs?oc=5",
+          "pubDate": "Sat, 22 Aug 2026 04:51:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "US is set to impose 50% tariffs on $20 billion worth of Canadian products - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTFZQdTRIMXVabHVfUTNldG4yeGlBSWlHNTFsNUt4WktQeHBuT1RzUUxVT3NZMTQ4ampFeFMtQVhVUDN4bXZXVWlzWXY5LTBEVTI1d29obi03ZGd2dTB6WG0zRGtsa3llaHhtVlVnRjFKYW4tOGpubG1qSWp6NWZfNG5WUVlpeGdjc0s0ck5GM0F3eWs?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 03:43:36 GMT",
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Sat, 22 Aug 2026 03:09:04 GMT",
           "source": "AP News"
         },
         {
@@ -164,7 +164,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T06:49:31.939Z"
+      "updatedAt": "2026-08-22T07:36:02.409Z"
     },
     {
       "name": "Reuters",
@@ -176,15 +176,15 @@
           "source": "Reuters"
         },
         {
-          "title": "US, Iran keep up hostile rhetoric ahead of new sanctions - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdXVJYmgzQ2hHN1JlVkg0MFl5eU1hVWtYWTN2OFNvUFV3b3NoS053LTdCMDVWNTBZMEdhUDV3ZEQ3QXBBYnpNRDZST0l3amt6V0luVGtJek1aZnlPZVpwMndfY0VjemxrTWxsdUlZQkZxMU03SHA4LXJ2OVdSemltdzJfUGJseElLR3BCUjlFT1JIcXdhUW9CZU1xdVctMEFjN1B5ekl0cmplQQ?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 04:11:03 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "US Navy aircraft transits Taiwan Strait before planned Xi-Trump meeting - Reuters",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZVZ5QXlJdUphUk9mZFZtcDlkNXZyY2gzLUFwV0tQSjllVks1bS1GMm41Q2RYamZGcTBJMEtDa1JfREpJSFNvTkQtTjBZZFg0UXpWRjFDQ2RwU3Q3enlkWkVMUEluU2FRTmhCdFk1cFdGSzlVMW5KanEtRjdWajAxVHN3NGhzSXdlNEFwRTVlTU80VlBzV3BBQkd5Ui0?oc=5",
           "pubDate": "Sat, 22 Aug 2026 02:09:43 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "At least 13 Tunisians missing after migrant boat sinks off Tunisia, group says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcHFXYTZwbms4c0tlRDFOZkwwS2FhM0xmZzZRMkdSMjV6MGhZWXl0NC1uSXF1NzU2X1pOMzBEU05QU2NKUDNCSTk4THFXWEY5bW5NT0F6aDl3WlNWeTJmVVJFYkJxRjJmU3U4dnJZc1NhS0tnbTd3bVZpNEVva2FKOFdHQ0VQSWdjTVpUazljenlBNWJ2Sy13U3pWbGloVjdjakNvOThxajJuSEU3NGxnUS1LT2RBZjVYMFR5VGZWYlE?oc=5",
+          "pubDate": "Sat, 22 Aug 2026 01:36:06 GMT",
           "source": "Reuters"
         },
         {
@@ -194,15 +194,9 @@
           "source": "Reuters"
         },
         {
-          "title": "US Postal Service issues rules to tighten mail-in voting if court gives OK - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZXhWMEQ5T1ZuUnd3cHIxWUhURGIwLUxhRmFrRFdCTzRvSlNXMVljbkhLM2J4UUgxa3poY215TWhLVGg3V2NKN1NrbW9NSG9tdmNrZ25HNVYxT3pHbk9WVTR4YUc1Z3JSZ3FsWlNUUEpadm8zMnV0SmtRVnNkNXM1MHkwRXRGRWFaZVozQ3BtREIwOXpMT29HM0dvUXZaTnVZN2Q1NHRYZE5qaThGV1I4enVFbw?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 01:20:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "At least 13 Tunisians missing after migrant boat sinks off Tunisia, group says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcHFXYTZwbms4c0tlRDFOZkwwS2FhM0xmZzZRMkdSMjV6MGhZWXl0NC1uSXF1NzU2X1pOMzBEU05QU2NKUDNCSTk4THFXWEY5bW5NT0F6aDl3WlNWeTJmVVJFYkJxRjJmU3U4dnJZc1NhS0tnbTd3bVZpNEVva2FKOFdHQ0VQSWdjTVpUazljenlBNWJ2Sy13U3pWbGloVjdjakNvOThxajJuSEU3NGxnUS1LT2RBZjVYMFR5VGZWYlE?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 00:44:00 GMT",
+          "title": "US, Iran keep up hostile rhetoric ahead of new sanctions - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdXVJYmgzQ2hHN1JlVkg0MFl5eU1hVWtYWTN2OFNvUFV3b3NoS053LTdCMDVWNTBZMEdhUDV3ZEQ3QXBBYnpNRDZST0l3amt6V0luVGtJek1aZnlPZVpwMndfY0VjemxrTWxsdUlZQkZxMU03SHA4LXJ2OVdSemltdzJfUGJseElLR3BCUjlFT1JIcXdhUW9CZU1xdVctMEFjN1B5ekl0cmplQQ?oc=5",
+          "pubDate": "Sat, 22 Aug 2026 01:05:00 GMT",
           "source": "Reuters"
         },
         {
@@ -216,10 +210,16 @@
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRllacHoySWMzOVhfVHo4WU1oaDZubUdLVU1YWXpBZV9XSGI1azZ2Ul9NMFNhNTI1ZjNVRjFzcm9sbHJ6Y01vR25xTWpIS1ZqTzhmQk1Dd3pBYXpZc0pPbGlWM3haUEFZOS1kc3JIcWxQV2xaVHkyQ096STFseGp1ZWF6REZJbkVuaUN1YXQ2bVJ3SVVlRjZQVkNWTXFydHhwakoxMmhQNzFrWHQz?oc=5",
           "pubDate": "Fri, 21 Aug 2026 23:28:41 GMT",
           "source": "Reuters"
+        },
+        {
+          "title": "Trump says he did not direct Bessent to intervene in bond market - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTkFsc1FIR29sOXp1dmJuLTJFNHR0Z04taHhTaEZkd1QyRmhxN0hKTmZHYldObW5zV1J6c2ozT04xOXp0dlFMbWgwMHVUckdCeHNPRG1QTEE4bU9fckJmd1BnekhaZ0JCOUUwbDBCdWdRM3FRWEFJUHB4LW9KaTNPRDBmQ1lLYTdOUTJWa2wtckZ1Y0FFbjJVTkFjaUVKY2Zwdm05VENB?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 23:27:43 GMT",
+          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T06:49:32.315Z"
+      "updatedAt": "2026-08-22T07:36:02.830Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T06:49:32.536Z"
+      "updatedAt": "2026-08-22T07:36:02.934Z"
     }
   ]
 }
