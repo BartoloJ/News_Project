@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T20:29:07.889Z",
+  "generatedAt": "2026-08-22T20:53:43.109Z",
   "sources": [
     {
       "name": "BBC News",
@@ -54,7 +54,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T20:29:06.737Z"
+      "updatedAt": "2026-08-22T20:53:41.857Z"
     },
     {
       "name": "NPR",
@@ -109,11 +109,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T20:29:06.828Z"
+      "updatedAt": "2026-08-22T20:53:42.012Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "US and Canada fall deeper into a trade war with new tariffs as talks collapse and blame is spread - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTFZQdTRIMXVabHVfUTNldG4yeGlBSWlHNTFsNUt4WktQeHBuT1RzUUxVT3NZMTQ4ampFeFMtQVhVUDN4bXZXVWlzWXY5LTBEVTI1d29obi03ZGd2dTB6WG0zRGtsa3llaHhtVlVnRjFKYW4tOGpubG1qSWp6NWZfNG5WUVlpeGdjc0s0ck5GM0F3eWs?oc=5",
+          "pubDate": "Sat, 22 Aug 2026 19:43:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "A trade war between Canada and the US further ruptures a once-close and durable alliance - AP News",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQVlYNWswSUYyM3pKRmI0SGpaU3k2WEVGa19ubU5fZmNRclBiMUpRcHFnRGU4SzZoLVVVbWxsR25fTHZ1NzI1ZUswYVdXUk85MnpTc1NpakhqSC1OMk1KMG5CcGdmaF90TVIyanhiWUNweTRzVVhFQXJhaXllQnlOMFo1Z2ktRmZKNEdpTEtWb2IzVmFaQ1RuS2pOLTJPcVdmWEE?oc=5",
@@ -123,7 +129,7 @@
         {
           "title": "MLB | Latest News, Stats, and Scores - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 16:36:32 GMT",
+          "pubDate": "Sat, 22 Aug 2026 17:54:05 GMT",
           "source": "AP News"
         },
         {
@@ -155,16 +161,10 @@
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa1Y2M3NIc0FjbFNUUXMxVVVJTlVwNUE1UGR5RXdZazNZT2lxNTQ5LTRXZTVzcVdJZGhDQzUtbFZqay1jZ2tNemhOZy1JdXQwR0JjVWh1ajlMMFpQUHBqak0wd3gzSXZISVZLYXFqeDR0dDlkRXlGQXZaZE5DTnBwMTAwYnhZMTJtM09oVVItQkMySkhPV3gxOWRWVFBsU3V6em1HMUc3czNjU2ozaFRKM1Rxbw?oc=5",
           "pubDate": "Sat, 22 Aug 2026 15:19:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Mexican ranchers prepare to resume livestock sales to US under tight controls over screwworm risk - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQlNzd1VSejJBRjh4UEZBcGlCcHlVYW94M3NPOUhTQnlMOEdaelhUZE91VTFNcjNlX1g0NExaNDBvWmdualZsRnBKcjhtcFh1X3pzck1lOXRZR2I2LWRHcWYwTzlTUGN2ZWx6WklWaTNjVk9LTmhtc1JnS0V3ZE5NN3FyWmxsTDNjeDZxNC1FUlZUUmNQYzJhOWdyWjQ1SjU4TEpzcHZIVHI2ZC1obTROdw?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 14:59:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T20:29:07.305Z"
+      "updatedAt": "2026-08-22T20:53:42.429Z"
     },
     {
       "name": "Reuters",
@@ -173,6 +173,12 @@
           "title": "Canada to impose retaliatory tariffs on US steel, electronics, other products, Carney says - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ2ZPTUg0NjVrWlY5aVBzbS1ucUhqc014UGZYMkhlX3R1bkpDMnlXMmZyT2hCVEs1dXZNbkE4Nlc1aXZQemtvNUJFWFVyLWJBb1BWelBfVmJBRVlUMk4tR2lNVWw5NW11NG5SOUtGZVZNZ0lIXzJYVlJsNFE0Vlh3TExaMnJmOGhJNmNWSkd1MkE1QmpjeHl1TXQwYUkydWRkSUVxU21UV3VBdHVJZUV2U05NaGI2d1RuNUJvMg?oc=5",
           "pubDate": "Sat, 22 Aug 2026 20:03:10 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLWE3OUFQMndpYzJSVFBuYXBocWg0RUlmWGFtZDU0NEdtTUJzRmV2c3ZtWjJFOTUxNEFwaFNkSno5ZlhCdGpTSjJOMnNUc2U1Y01Fc1YtX2NrdnRFM0pEMDYyYXBrWGdHUVpTei1ramJ6YVE1aFFFTGVwX0drX1lBOFdyRGM4cEpZVG9uUEhka1J1RDZDQ0F3UWY3S0VjQVhLbzVjYmZPazhPcnV3c1ZVd0F4bExTeU9QN0VnOVRyVlA?oc=5",
+          "pubDate": "Sat, 22 Aug 2026 19:21:41 GMT",
           "source": "Reuters"
         },
         {
@@ -185,6 +191,12 @@
           "title": "Promoted Hull stun Man Utd, Spurs thrashed, Ipswich enjoy winning return - Reuters",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONkNEcEVKSFZQVFBPWmdRblhfM19wRHdGbTc0WXZkMVI2YWwxTzdrWE0wWWVPSkdnclJVbm9XVTFpemhzczBhZk1PZjExYi1oanRRYkw4eENtRC1CUzA0WFNxMTJhNEdRaVo5RlZYdXpuQlRlV0dFanV1cG8ycWJnWEVmbGNwTGl5WnQtZl9oOENUZ3dYWVpSUDc1bGtULXBGYnpwcDVn?oc=5",
           "pubDate": "Sat, 22 Aug 2026 19:03:34 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Israel strikes southern Syria; Damascus condemns attack - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdUlteHpodFpvY0RlTjBQVWdHWmFhTTAtU0VzVlRuY3hYRTA3NEFBSHcwN3pIR1ROYnBWVmFxWDVPTmVRcXZSaUM0YURHZHBmUDg0ekNFTDJ3NTd0S2NiR3loeDlXTlUzNzI1TjlKai1uNzh5TWRPeHJzd1UzNmM4TGRYLW1ET3ZnQ3hmeWNTNWF5ZVVReUtqTGFLdEtqVXZJWEw4RXk2TjE4YkFO?oc=5",
+          "pubDate": "Sat, 22 Aug 2026 18:51:50 GMT",
           "source": "Reuters"
         },
         {
@@ -204,22 +216,10 @@
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTHJKQkxBdVZTZUdMeW9KTWFkbFYtOUMtUTVwalc5UF9xb1FqalVlLVlfVlJPQnRMMG5WVUIyMkhsNW9rRThJemxTYUNIdU5wRXlfVWVwcHg3Ti1WLXhZUm5fbWFvdHBKTHJHUTlySTdQd2VMbHpyVkZzdDVXaFJneGNpeV9LLWxQN3AwOEktS3h0TFRrNzlQQ0ZyUHRrUDRwTTBPREkzOThuOG5WOXRiSENOWkN0cVp1?oc=5",
           "pubDate": "Sat, 22 Aug 2026 17:03:42 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Ukrainian drones kill at least 10, hit warehouse of Russian online retailer Ozon - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQR3V4eHZkQWFrSEdIRXBiQjVXZUd6c3FuVllaNWVWQmRqeFY0WUhkQWswRVFNRGJFT0tFWkJVbTlqNnVOT0F1Rk0yRHlrVUhDRldJcjRlTjVjcjVDbG1Sc2tkQ0t5MWwzcHJBSmduTWhXazBUWHVKWUFrRmRkZzhYdXh4Wko4R3k2bmp6VDFpRkRudkNaVWxsUm85ZUxtbGFNNUxIdEExV2hxbDRTalFQeGR5cVFxTTZ3b0U4?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 16:58:41 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "South Africa's former world boxing champion Tete shot dead outside his home - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVDlRa1g4Rkd1OWVuOThwZWZ5STJ4eEtUbV9iWDhDb0x1cmtvRHAwcjNGWnZsSi1WYmxDd1ZKV2I2bzFRLTA1MWQ4Q1hUOGFkc3BfZXVibDhJNXVnRWdraGZ2Sy1VUW0tS0x1bElfbGJYTDA3TzRMd2FyclppVUhPanpWVkNrZlgxbUJsdXVRS0Vuc3hITzJuX0lmWVlMVHFzQ1BPaFJpOC1NV04zc0xBZVNqQ3NhWTNr?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 16:31:06 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T20:29:07.781Z"
+      "updatedAt": "2026-08-22T20:53:42.833Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T20:29:07.889Z"
+      "updatedAt": "2026-08-22T20:53:43.109Z"
     }
   ]
 }
