@@ -1,9 +1,15 @@
 {
-  "generatedAt": "2026-08-22T17:49:37.217Z",
+  "generatedAt": "2026-08-22T18:38:07.760Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
+          "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 22 Aug 2026 18:20:36 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Watch: Moment humanoid robot beats Usain Bolt's 100m record",
           "link": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&at_campaign=rss",
@@ -14,12 +20,6 @@
           "title": "US military newspaper editor voices censorship fears after being fired",
           "link": "https://www.bbc.co.uk/news/articles/cm2g23ng8p4o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 22 Aug 2026 16:57:19 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
-          "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 22 Aug 2026 16:45:02 GMT",
           "source": "BBC News"
         },
         {
@@ -54,7 +54,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T17:49:36.127Z"
+      "updatedAt": "2026-08-22T18:37:51.056Z"
     },
     {
       "name": "NPR",
@@ -109,7 +109,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T17:49:36.215Z"
+      "updatedAt": "2026-08-22T18:37:51.314Z"
     },
     {
       "name": "AP News",
@@ -163,7 +163,7 @@
           "source": "AP News"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-08-22T17:49:36.636Z"
     },
     {
@@ -218,7 +218,7 @@
           "source": "Reuters"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-08-22T17:49:37.024Z"
     },
     {
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T17:49:37.217Z"
+      "updatedAt": "2026-08-22T18:38:07.760Z"
     }
   ]
 }
