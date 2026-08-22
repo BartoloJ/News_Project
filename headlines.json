@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T17:25:53.931Z",
+  "generatedAt": "2026-08-22T17:49:37.217Z",
   "sources": [
     {
       "name": "BBC News",
@@ -54,7 +54,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T17:25:53.079Z"
+      "updatedAt": "2026-08-22T17:49:36.127Z"
     },
     {
       "name": "NPR",
@@ -109,15 +109,27 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T17:25:53.202Z"
+      "updatedAt": "2026-08-22T17:49:36.215Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "US and Canada fall deeper into a trade war with new tariffs as talks collapse and blame is spread - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTFZQdTRIMXVabHVfUTNldG4yeGlBSWlHNTFsNUt4WktQeHBuT1RzUUxVT3NZMTQ4ampFeFMtQVhVUDN4bXZXVWlzWXY5LTBEVTI1d29obi03ZGd2dTB6WG0zRGtsa3llaHhtVlVnRjFKYW4tOGpubG1qSWp6NWZfNG5WUVlpeGdjc0s0ck5GM0F3eWs?oc=5",
+          "pubDate": "Sat, 22 Aug 2026 17:37:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Russian and Ukrainian attacks kill 10 people, a day after deadly shopping mall drone strike - AP News",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVURpSFQ4WnVGVmZkQzdrYS1FTUVNdHRIREZWYU1iek1RV24tNjlINGRZSHU3bElZSFBHVHFTQklmdXRlaGk2eWFoM2NUWWVRTGkzbjdxM1FkTXFpM0hDOTBXaDZsQXFZZEJLcGtLai16ZjZHQmtpcVhLOG1Yc2dpSzJQSi1ObWNIT2xMbkwxQmxha0RmV0ZfNWFwQjFpeFNJ?oc=5",
           "pubDate": "Sat, 22 Aug 2026 16:41:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Federal judge vacates Trump policy that suspended processing of immigration visas from 75 countries - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVVFtMlhNYU9fa1JGZXpOSzFDd1NKSTRTRXlYOXZ0dk94ekhqaUVvdllWVXFyMlJ5aEVKdzFTbGkxV091RmJ0S2lJSWkxSERpTm43dlFfWjR2U0FQVF9rMHpLejVQNTdIdzAtcjVMdGNhWU1jZXhZTWNSanZYcmZxUktLb2tLZDhWSHZTclZzc2JxeTFwVDluMTlqa0RlRURnUldZ?oc=5",
+          "pubDate": "Sat, 22 Aug 2026 15:55:00 GMT",
           "source": "AP News"
         },
         {
@@ -127,15 +139,21 @@
           "source": "AP News"
         },
         {
-          "title": "Florida shows how to adapt as coastal cities face growing threats from sea level rise and storms - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbnJJUkh5N3A5bmdDYkJOaTY2dENDNlJtNjJwMWRnZ3BvRnBsTVdiVHlNWUxnTGMycGRaTFlTQnJyMl9lSVZYYjc1RWt6T09qWDlzY28td3RxbHNPaXpmTXlJLXNWVUZ0VmRfTVJIZ0FYdW0yajFLX2ZUU2xCWEl0V1J2LUxrakdiUXZRTFc3a2RhWTZ1azJtUFhaRUV2MUh5STBLREV4RXB3QQ?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 13:46:00 GMT",
+          "title": "Mexican ranchers prepare to resume livestock sales to US under tight controls over screwworm risk - AP News",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQlNzd1VSejJBRjh4UEZBcGlCcHlVYW94M3NPOUhTQnlMOEdaelhUZE91VTFNcjNlX1g0NExaNDBvWmdualZsRnBKcjhtcFh1X3pzck1lOXRZR2I2LWRHcWYwTzlTUGN2ZWx6WklWaTNjVk9LTmhtc1JnS0V3ZE5NN3FyWmxsTDNjeDZxNC1FUlZUUmNQYzJhOWdyWjQ1SjU4TEpzcHZIVHI2ZC1obTROdw?oc=5",
+          "pubDate": "Sat, 22 Aug 2026 14:59:00 GMT",
           "source": "AP News"
         },
         {
           "title": "MLB | Latest News, Stats, and Scores - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 13:26:04 GMT",
+          "pubDate": "Sat, 22 Aug 2026 14:47:54 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Florida shows how to adapt as coastal cities face growing threats from sea level rise and storms - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbnJJUkh5N3A5bmdDYkJOaTY2dENDNlJtNjJwMWRnZ3BvRnBsTVdiVHlNWUxnTGMycGRaTFlTQnJyMl9lSVZYYjc1RWt6T09qWDlzY28td3RxbHNPaXpmTXlJLXNWVUZ0VmRfTVJIZ0FYdW0yajFLX2ZUU2xCWEl0V1J2LUxrakdiUXZRTFc3a2RhWTZ1azJtUFhaRUV2MUh5STBLREV4RXB3QQ?oc=5",
+          "pubDate": "Sat, 22 Aug 2026 13:46:00 GMT",
           "source": "AP News"
         },
         {
@@ -143,32 +161,44 @@
           "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdFh4LXA1WTJxUFB0SFF2UE0wNjRjTldBNjIwMlFWUC11VlZyQXpyYnh5WTFkSjFCMjBUbElJUnNTYjdTa3JBVjZDRGdlR0FZSTlhd2dUZGVWTTBtRDFTYlYwel8wZHVuelB0aW9hZ05oSHhyVEJJN0VoZlNLWm42Y1hLT2pZZw?oc=5",
           "pubDate": "Sat, 22 Aug 2026 11:19:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Wall Street week ahead: Reports on consumer confidence and inflation on tap - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWVVzc05uLUJ1Wk9tQThEQnYxR2Rza2txazJid1Z0Z1UzOGlPTTJiX2FEUXBaZl8xSGtEenRJQnhxdmR5TGFuT3lfNXdBa3kzZlJUNTNseVBZYnhmdzBZUWNKenYtOXhncm03V3JRbXVIWTVaMk1rV3BHV2ZmV0JwLThyVUlWdnFQbXJxdzY4OUxTRDJTLXRiYkpQZ3c1V1UwS1dR?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 08:00:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Wildfires expose — and detonate — buried bombs and mines from WWI and WWII - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaWoxWmxoZzJmT20yYWR3Yks0MGd4Z1U0S28yLXpxWDNiZjNNdTJ6cnVTWUlmY2JFREFWRThpTDJQazNRSzA1bHBzWmRkLVBGT0ZJbmhjTFFmVzdEZzA5MHktY2FSRk5DUk4yM1FBMUl3Q3pmRllIQnUyWFFfamZ3Z1Rwa1lVNWlzR2ljUWd2Q1dnY3BZZkdTNmxRVFZ3U2tHN0E?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 07:53:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Former world champion boxer Zolani Tete killed in South Africa - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY09ZWEw4OTEyeU5aWFFrTkQyYmc3X0RydENSclU5eUZZcmduVGE4ZnBITE1oWEVnYjZRVGd4MzJqckc5eGhRZ2RqRFMtQ0NMbjNjWjBZX2Ywc0k5UkNwakx5Smk0VWVwaklnMXR5ZnRRYjlBdXNhaDZna0hoMlk1d3ViUXM2Q3FYcFdhRw?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 06:53:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T17:25:53.280Z"
+      "updatedAt": "2026-08-22T17:49:36.636Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Chinese robot beats Usain Bolt's 100m world record at Beijing games - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOFpWcEU2Z3A5dEFDSXRERWhFSGsxd0NCRDAydDk5MFZXYmkwajZ0OFhwZFh0TzN1NVM0bUFmTTBocUNfYzZoT1FUdFVGazRZVHp3NC00eVNlWlFUcnFuOW1QdkhWeWk0OW42OW42SWxWVjFJRGFKZi0xYUN2ekFuUHRyVEdzNmg0MS1NeU80MFZWeTNmX0VTR2d5VFhQUFlzVmZBX2ZKNnFOM2tFbGtiZE1fV0drOXNtOTFMQWh0VQ?oc=5",
+          "pubDate": "Sat, 22 Aug 2026 17:30:02 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Canada to impose retaliatory tariffs across a raft of US sectors, Carney says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ2ZPTUg0NjVrWlY5aVBzbS1ucUhqc014UGZYMkhlX3R1bkpDMnlXMmZyT2hCVEs1dXZNbkE4Nlc1aXZQemtvNUJFWFVyLWJBb1BWelBfVmJBRVlUMk4tR2lNVWw5NW11NG5SOUtGZVZNZ0lIXzJYVlJsNFE0Vlh3TExaMnJmOGhJNmNWSkd1MkE1QmpjeHl1TXQwYUkydWRkSUVxU21UV3VBdHVJZUV2U05NaGI2d1RuNUJvMg?oc=5",
+          "pubDate": "Sat, 22 Aug 2026 17:13:37 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "CONCACAF chief asks Infantino to skip youth tournament amid FIFA governance crisis - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaXo5Zy1LWkNHT2I1azNJT0ZmbElLanZORGxBbXFFU3A2Sjd4TWRaeTBFTWJFd09qTDVPalF4Y3ktanZvZFJmRVgzU1h1TmsyQ2dYd18tUVVtMXlaQWhFbGllUjA5ampBb1dsRnV0eGZ6dC1KajJxUDNvaW1sYUgyZ2VVaUpXZE45STJyX21tVnhqUTJYaGJzbDB6bmZTcUs5ZjNiSmNMRHQ3WUJFaU1HR05nLWwycHdlTkxBMVdMUUhyR3dFc3I3YQ?oc=5",
+          "pubDate": "Sat, 22 Aug 2026 17:08:12 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Hull stun Man Utd and Ipswich also enjoy winning Premier League return - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONkNEcEVKSFZQVFBPWmdRblhfM19wRHdGbTc0WXZkMVI2YWwxTzdrWE0wWWVPSkdnclJVbm9XVTFpemhzczBhZk1PZjExYi1oanRRYkw4eENtRC1CUzA0WFNxMTJhNEdRaVo5RlZYdXpuQlRlV0dFanV1cG8ycWJnWEVmbGNwTGl5WnQtZl9oOENUZ3dYWVpSUDc1bGtULXBGYnpwcDVn?oc=5",
+          "pubDate": "Sat, 22 Aug 2026 17:07:26 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Hit by Trump tariffs, Quebec loses appetite for quick separation from Canada - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTHJKQkxBdVZTZUdMeW9KTWFkbFYtOUMtUTVwalc5UF9xb1FqalVlLVlfVlJPQnRMMG5WVUIyMkhsNW9rRThJemxTYUNIdU5wRXlfVWVwcHg3Ti1WLXhZUm5fbWFvdHBKTHJHUTlySTdQd2VMbHpyVkZzdDVXaFJneGNpeV9LLWxQN3AwOEktS3h0TFRrNzlQQ0ZyUHRrUDRwTTBPREkzOThuOG5WOXRiSENOWkN0cVp1?oc=5",
+          "pubDate": "Sat, 22 Aug 2026 17:03:42 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Ukrainian drones kill at least 10, hit warehouse of Russian online retailer Ozon - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQR3V4eHZkQWFrSEdIRXBiQjVXZUd6c3FuVllaNWVWQmRqeFY0WUhkQWswRVFNRGJFT0tFWkJVbTlqNnVOT0F1Rk0yRHlrVUhDRldJcjRlTjVjcjVDbG1Sc2tkQ0t5MWwzcHJBSmduTWhXazBUWHVKWUFrRmRkZzhYdXh4Wko4R3k2bmp6VDFpRkRudkNaVWxsUm85ZUxtbGFNNUxIdEExV2hxbDRTalFQeGR5cVFxTTZ3b0U4?oc=5",
@@ -186,40 +216,10 @@
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUGlKOVc4ZDFhMlNOWE8wNXpPb1paZW5RRG5oZFd3VV9YaThScFlPYmRCZ2xfMU9sRFNpNUpsNk9Jb1BES19nOVJDdnJER241VzNyZWc0UGNSZWJEMEFnSW1vaDhacGEzQW1WYU9pU21mcTlWWHBOU3BiTm05cFNGY05QVFhwd1pGOEhLenNoSnliZUhEYnh3ZFpTNTMxYzZoeURya04zdy12c3NmQVUtTDcyRVE?oc=5",
           "pubDate": "Sat, 22 Aug 2026 16:07:07 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "France agrees to accelerate air defence deliveries to Ukraine, Zelenskiy says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbFdqVktrVmFsQ09keFFUalBaQVBlbkVLSlo1dEM1MExpaURaNkw4bmlTSFpfbGJpcjN1T3R4Z2dpUTNzQWlwc3hUNFhQTlhidTlOZ0ZWZGRleXp0YUdXRmdFS1hXVUY5X0t5d3c2eVdUQ2dFRi1ZRlZ0QUlwdS1UbWZnQ2h6TWhnRmZQSmlSUmZJaGRVaUM2Nk8yM1REOHF6SmpfbU1Wa05rN19nNUpOSE9sdw?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 16:06:10 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Putin says Ukraine opened 'Pandora's box' with strikes on economic targets - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNmx1MlE4ak9qOGpNUGN5UUFYTFdMOGNaaFU5aUdmR2ZFS3A4NGlnQ2NqbHlMSWI1eHc5bmQ1eW9rbnFudGt6ZTM3RG9QTy1PeTdtN1J0ZXRMTDRMNVVsMk1qcEhuSmNpTjhraXBXZUtERmw4M3VVbDh6VzF2ZE5vS1hnblpsUEpFLVpUSHpTUmI4dEVIcUxPNC1tUXFmdk0xaVJnX0FlclFHaUl3RHBaX2F0eGpKUkVJ?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 16:03:12 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Canada to impose retaliatory tariffs across a raft of US sectors, Carney says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ2ZPTUg0NjVrWlY5aVBzbS1ucUhqc014UGZYMkhlX3R1bkpDMnlXMmZyT2hCVEs1dXZNbkE4Nlc1aXZQemtvNUJFWFVyLWJBb1BWelBfVmJBRVlUMk4tR2lNVWw5NW11NG5SOUtGZVZNZ0lIXzJYVlJsNFE0Vlh3TExaMnJmOGhJNmNWSkd1MkE1QmpjeHl1TXQwYUkydWRkSUVxU21UV3VBdHVJZUV2U05NaGI2d1RuNUJvMg?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 15:59:41 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Seven dead in UK after vehicle travelling wrong way hits police car - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcC11SW8wQU1KT0N4d3h5RUI5eVhQcDBUZFdlZXFjQzZPMGJrYi1mYnVGS2tobE9ZV1JkSDJRWTVIWlkxSk1obkpYeHlTZ2ItX0NYWmlXbmdRTjBHeHRocmJaaG9NVktrclNHYTBMZVZaSjdia1BmZDhTNGUtTGZfS0tBNHhveTVfMFZIS3czR0o4SHNQMGpBQmlUUldxUQ?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 15:53:16 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Gunmen abduct worshippers from Nigeria mosque, police say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaFNLWWo0NHRKemdFYkxoaWw3OWFDcjU5aFZ0VjdOSFdpdThLQ2pKQVUxTWVzNXd1X0hhM0dWQUZIejBMRUEySWsyUEdqc3d5UzhkWnkwenpRdTgweDhlbFFhVHFPaEdIRU9Cc3NhaGVlQzRDelRXRkpEUlJ2eW5va3Z6MEwxMGVNa192bm40SFJYbEFfRFV5b0ZoUzdpNXVFVThWWGpjeVFULWZv?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 14:59:54 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T17:25:53.693Z"
+      "updatedAt": "2026-08-22T17:49:37.024Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T17:25:53.931Z"
+      "updatedAt": "2026-08-22T17:49:37.217Z"
     }
   ]
 }
