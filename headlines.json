@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T10:28:57.710Z",
+  "generatedAt": "2026-08-22T10:54:02.337Z",
   "sources": [
     {
       "name": "BBC News",
@@ -54,7 +54,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T10:28:56.445Z"
+      "updatedAt": "2026-08-22T10:54:01.265Z"
     },
     {
       "name": "NPR",
@@ -102,28 +102,34 @@
           "source": "NPR"
         },
         {
-          "title": "Federal government thins the herds of wild horses in Colorado",
-          "link": "https://www.npr.org/2026/08/21/nx-s1-5920407/colorado-wild-horses-federal-government-roundup",
+          "title": "As Trump courts Kim, Pyongyang ups the price, while Seoul fears being sidelined",
+          "link": "https://www.npr.org/2026/08/21/g-s1-139466/as-trump-courts-kim-pyongyang-ups-price-while-seoul-fears-being-sidelined",
           "pubDate": "Fri, 21 Aug 2026 05:00:00 -0400",
           "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T10:28:56.544Z"
+      "updatedAt": "2026-08-22T10:54:01.340Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Wildfires expose — and detonate — buried bombs and mines from WWI and WWII - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaWoxWmxoZzJmT20yYWR3Yks0MGd4Z1U0S28yLXpxWDNiZjNNdTJ6cnVTWUlmY2JFREFWRThpTDJQazNRSzA1bHBzWmRkLVBGT0ZJbmhjTFFmVzdEZzA5MHktY2FSRk5DUk4yM1FBMUl3Q3pmRllIQnUyWFFfamZ3Z1Rwa1lVNWlzR2ljUWd2Q1dnY3BZZkdTNmxRVFZ3U2tHN0E?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 07:53:00 GMT",
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Sat, 22 Aug 2026 08:30:18 GMT",
           "source": "AP News"
         },
         {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 07:32:13 GMT",
+          "title": "Congo receives more than 16,000 doses of Ebola vaccine as it grapples with unprecedented outbreak - AP News",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdFh4LXA1WTJxUFB0SFF2UE0wNjRjTldBNjIwMlFWUC11VlZyQXpyYnh5WTFkSjFCMjBUbElJUnNTYjdTa3JBVjZDRGdlR0FZSTlhd2dUZGVWTTBtRDFTYlYwel8wZHVuelB0aW9hZ05oSHhyVEJJN0VoZlNLWm42Y1hLT2pZZw?oc=5",
+          "pubDate": "Sat, 22 Aug 2026 07:56:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Wildfires expose — and detonate — buried bombs and mines from WWI and WWII - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaWoxWmxoZzJmT20yYWR3Yks0MGd4Z1U0S28yLXpxWDNiZjNNdTJ6cnVTWUlmY2JFREFWRThpTDJQazNRSzA1bHBzWmRkLVBGT0ZJbmhjTFFmVzdEZzA5MHktY2FSRk5DUk4yM1FBMUl3Q3pmRllIQnUyWFFfamZ3Z1Rwa1lVNWlzR2ljUWd2Q1dnY3BZZkdTNmxRVFZ3U2tHN0E?oc=5",
+          "pubDate": "Sat, 22 Aug 2026 07:53:00 GMT",
           "source": "AP News"
         },
         {
@@ -155,20 +161,20 @@
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORXlwSnNJenQ2d0xhVTlCZFNUdFBscVRFV2JuU0U1eERnUFFQaFlwOHBvTUl2Y3hacFNMU2lGdWpYVXZldE5lYXZaSGFZOFhQNkE1c01JVmk2ZG9td29BVFYwTkt3aVU2WVRpakNKSFZWTGtMVExoUkc1MU9MdjNpMjRjblJGbEEyWmRYaUdhQy16UWlLWmJpU2JsYXg1QQ?oc=5",
           "pubDate": "Sat, 22 Aug 2026 00:40:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "TikTok reaches $400 million settlement with US Justice Department over children’s privacy - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZTB4RWQ4ejVhWFhxMGpncmpjMThVbnozZ0VVOWlaUjlTdVBLcTUyUHZkOHl1dmNOUFR0UnVjWHNrdnZlSl9kdmVMTGJ0RTlKVFhPSkFIVVJjaWdEN1p1QlhHZUF3Y2RKRTJScDBjSDc0VkR2WVRWTTAyOVNyY19oaDBNNDFoQ1FVVHMwejFEX3ZYb2d4TC1HdmRaYjdUQmlVU2ZPTktQWQ?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 00:08:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T10:28:57.009Z"
+      "updatedAt": "2026-08-22T10:54:01.750Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Ukrainian drones kill several, hit warehouse of Russian online retailer Ozon - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQR3V4eHZkQWFrSEdIRXBiQjVXZUd6c3FuVllaNWVWQmRqeFY0WUhkQWswRVFNRGJFT0tFWkJVbTlqNnVOT0F1Rk0yRHlrVUhDRldJcjRlTjVjcjVDbG1Sc2tkQ0t5MWwzcHJBSmduTWhXazBUWHVKWUFrRmRkZzhYdXh4Wko4R3k2bmp6VDFpRkRudkNaVWxsUm85ZUxtbGFNNUxIdEExV2hxbDRTalFQeGR5cVFxTTZ3b0U4?oc=5",
+          "pubDate": "Sat, 22 Aug 2026 09:18:15 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Romania adopts new measures to boost Danube waters to cool Cernavoda nuclear plant - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTEloQl93UWRETzBXZ3hIZWM1eDZFREpLN0NDZkMwM3hZVXhpMjI2dnBWdmxIVV81WVVRVG1nVEE5NkVHYTlqSE9RQWQxMy03Tl94RUU4WDZQRkc2cFBJVU0xYy1DdHpFOFRoLUVkajd0dkplRVNmZkhlSERNV1NpR3M2TXlxaGo2LWR3Yzk1ZUdtUXdmNVdKVWNJN2tHSU1qOHRIcWRZcWRZaGRkMjF6cWFSVFJNbE11U0VINW5ERDZ5QUo4ajRv?oc=5",
@@ -188,12 +194,6 @@
           "source": "Reuters"
         },
         {
-          "title": "Ukrainian drones hit warehouse of Russian online retailer Ozon in overnight strikes - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQR3V4eHZkQWFrSEdIRXBiQjVXZUd6c3FuVllaNWVWQmRqeFY0WUhkQWswRVFNRGJFT0tFWkJVbTlqNnVOT0F1Rk0yRHlrVUhDRldJcjRlTjVjcjVDbG1Sc2tkQ0t5MWwzcHJBSmduTWhXazBUWHVKWUFrRmRkZzhYdXh4Wko4R3k2bmp6VDFpRkRudkNaVWxsUm85ZUxtbGFNNUxIdEExV2hxbDRTalFQeGR5cVFxTTZ3b0U4?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 08:10:02 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "Imran Khan's party seeks contempt action over jailed leader's hospital move - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOblRkaFZsa2c5ZW5wU1ZUV0Y1SXBlZVVPRTE0YTV2aXY4c2JGVUNJMHo2cTFkUVVBSi01TWRlS1JpdWk4b1o4dVJrQ2N6dURlTDg2NEZZczljY3U0Ul9FMHpnRlEteldCT1dCYm9tb2JyNzZWbFliWFl2VGdfWGg5WEFHcEN6SlpaVzZvZDluelp0VVowYm44RjBTZmhaXzdXRkNCSG51ZGF5TGY1QkRKM3ZleVRVUkt4NTZiQjVwT0U3Yk5VMmdB?oc=5",
           "pubDate": "Sat, 22 Aug 2026 08:02:28 GMT",
@@ -208,7 +208,7 @@
         {
           "title": "South Korea ship to test Arctic commercial route amid Western concerns - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY3h3N3U3TVFHR3drWTl1RDEzQlhJOFR5dVpfQjFGcGNLZjJuNTl6SjQ5V3BYUTRvYWhWZk5YandYWnp0RUUxX2Z4V21zbmxadWFWQWd1R1Vqa3BzdmRocFMzTnRJMFBaZWt6Y2JJS0l1OHE1V3Y3TDV6N2F6d25paERCQnJOZkRQNzVTU3VMY2ZKdmNTMlNEeFZHb05rVnFDMWlkMWQwUDhPZXdqRUNyNW5PUUp0Zw?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 06:47:41 GMT",
+          "pubDate": "Sat, 22 Aug 2026 06:47:00 GMT",
           "source": "Reuters"
         },
         {
@@ -219,7 +219,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T10:28:57.424Z"
+      "updatedAt": "2026-08-22T10:54:02.154Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T10:28:57.710Z"
+      "updatedAt": "2026-08-22T10:54:02.337Z"
     }
   ]
 }
