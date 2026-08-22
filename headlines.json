@@ -1,19 +1,25 @@
 {
-  "generatedAt": "2026-08-22T11:48:25.299Z",
+  "generatedAt": "2026-08-22T12:49:55.850Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
-          "link": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 22 Aug 2026 11:21:05 GMT",
+          "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
+          "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 22 Aug 2026 12:36:28 GMT",
           "source": "BBC News"
         },
         {
-          "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' strike",
-          "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 22 Aug 2026 10:01:22 GMT",
+          "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
+          "link": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 22 Aug 2026 12:20:46 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Robot horse and rider steal the spotlight at Chinese conference",
+          "link": "https://www.bbc.co.uk/news/videos/c0qvqzzdd02o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 22 Aug 2026 10:01:18 GMT",
           "source": "BBC News"
         },
         {
@@ -45,20 +51,20 @@
           "link": "https://www.bbc.co.uk/news/articles/c0l5d387j18o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 22 Aug 2026 00:03:10 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Drugs at their fingertips, intense pressure: Why child stars fall into addiction",
-          "link": "https://www.bbc.co.uk/news/articles/cq56x3910jwo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 21 Aug 2026 23:41:33 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T11:48:23.869Z"
+      "updatedAt": "2026-08-22T12:49:54.933Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Opinion: Mr. Rogers keeps finding a new neighborhood",
+          "link": "https://www.npr.org/2026/08/22/nx-s1-5932426/opinion-mr-rogers-keeps-finding-a-new-neighborhood",
+          "pubDate": "Sat, 22 Aug 2026 08:00:00 -0400",
+          "source": "NPR"
+        },
         {
           "title": "U.S.-Canada trade talks collapse just before deadline for tariffs",
           "link": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs",
@@ -100,30 +106,18 @@
           "link": "https://www.npr.org/2026/08/21/nx-s1-5939443/dc-indycar-race-overview-watch-politics",
           "pubDate": "Fri, 21 Aug 2026 05:01:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Federal government thins the herds of wild horses in Colorado",
-          "link": "https://www.npr.org/2026/08/21/nx-s1-5920407/colorado-wild-horses-federal-government-roundup",
-          "pubDate": "Fri, 21 Aug 2026 05:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T11:48:24.079Z"
+      "updatedAt": "2026-08-22T12:49:55.224Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Mexico resumes livestock sales to US under tight controls over screwworm risk - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQlNzd1VSejJBRjh4UEZBcGlCcHlVYW94M3NPOUhTQnlMOEdaelhUZE91VTFNcjNlX1g0NExaNDBvWmdualZsRnBKcjhtcFh1X3pzck1lOXRZR2I2LWRHcWYwTzlTUGN2ZWx6WklWaTNjVk9LTmhtc1JnS0V3ZE5NN3FyWmxsTDNjeDZxNC1FUlZUUmNQYzJhOWdyWjQ1SjU4TEpzcHZIVHI2ZC1obTROdw?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 09:59:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "MLB | Latest News, Stats, and Scores - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 08:30:18 GMT",
+          "pubDate": "Sat, 22 Aug 2026 08:54:19 GMT",
           "source": "AP News"
         },
         {
@@ -151,6 +145,12 @@
           "source": "AP News"
         },
         {
+          "title": "Dodgers’ Andy Pages fractures hand on hit by pitch vs the Pirates - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZm5yNjN3T3N1dVhCZE1PYlY5M25TdXlGZDJzcmVkWW5pWUlfaHI2eV94WjBFUG1pRG84V3duV01MTTVHV1hoekY4UWVmSWt1MVQ3UTEzei1WUGVWNmNMc2JaNEJaNFFMTmFKdG5Kc3FWZEVfaUNBZTJBblhNX0tKZXpkVGVtYlFjamg0?oc=5",
+          "pubDate": "Sat, 22 Aug 2026 06:15:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "US imposes 50% tariffs on $20 billion worth of Canadian products, and Canada says it will retaliate - AP News",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTFZQdTRIMXVabHVfUTNldG4yeGlBSWlHNTFsNUt4WktQeHBuT1RzUUxVT3NZMTQ4ampFeFMtQVhVUDN4bXZXVWlzWXY5LTBEVTI1d29obi03ZGd2dTB6WG0zRGtsa3llaHhtVlVnRjFKYW4tOGpubG1qSWp6NWZfNG5WUVlpeGdjc0s0ck5GM0F3eWs?oc=5",
           "pubDate": "Sat, 22 Aug 2026 04:51:00 GMT",
@@ -164,7 +164,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T11:48:24.601Z"
+      "updatedAt": "2026-08-22T12:49:55.274Z"
     },
     {
       "name": "Reuters",
@@ -176,9 +176,21 @@
           "source": "Reuters"
         },
         {
+          "title": "Hit by Trump tariffs, Quebec loses appetite for quick separation from Canada - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTHJKQkxBdVZTZUdMeW9KTWFkbFYtOUMtUTVwalc5UF9xb1FqalVlLVlfVlJPQnRMMG5WVUIyMkhsNW9rRThJemxTYUNIdU5wRXlfVWVwcHg3Ti1WLXhZUm5fbWFvdHBKTHJHUTlySTdQd2VMbHpyVkZzdDVXaFJneGNpeV9LLWxQN3AwOEktS3h0TFRrNzlQQ0ZyUHRrUDRwTTBPREkzOThuOG5WOXRiSENOWkN0cVp1?oc=5",
+          "pubDate": "Sat, 22 Aug 2026 10:46:18 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Chinese robot beats Usain Bolt's 100m world record in test run - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOFpWcEU2Z3A5dEFDSXRERWhFSGsxd0NCRDAydDk5MFZXYmkwajZ0OFhwZFh0TzN1NVM0bUFmTTBocUNfYzZoT1FUdFVGazRZVHp3NC00eVNlWlFUcnFuOW1QdkhWeWk0OW42OW42SWxWVjFJRGFKZi0xYUN2ekFuUHRyVEdzNmg0MS1NeU80MFZWeTNmX0VTR2d5VFhQUFlzVmZBX2ZKNnFOM2tFbGtiZE1fV0drOXNtOTFMQWh0VQ?oc=5",
           "pubDate": "Sat, 22 Aug 2026 10:40:20 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "South Africa's former world boxing champion Tete shot dead outside his home - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVDlRa1g4Rkd1OWVuOThwZWZ5STJ4eEtUbV9iWDhDb0x1cmtvRHAwcjNGWnZsSi1WYmxDd1ZKV2I2bzFRLTA1MWQ4Q1hUOGFkc3BfZXVibDhJNXVnRWdraGZ2Sy1VUW0tS0x1bElfbGJYTDA3TzRMd2FyclppVUhPanpWVkNrZlgxbUJsdXVRS0Vuc3hITzJuX0lmWVlMVHFzQ1BPaFJpOC1NV04zc0xBZVNqQ3NhWTNr?oc=5",
+          "pubDate": "Sat, 22 Aug 2026 09:32:13 GMT",
           "source": "Reuters"
         },
         {
@@ -204,22 +216,10 @@
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSEVXQTRoYlc4andBREZoNFdRM3NHMVRtbmdqRU9PQ1k0LWZWdEo5TFBIN0NHakJnc3lJVmlTZzJZM2d5djl4bHFMUEdXUWU4TXkzb2ppOWdnLUpWV1UxN29HN2dMZFJDY2M4eU9iMm40aTllUVBacnU0bGFtZ054YVRFeGFpSXo0bF80VWpsSDVNQlhPR2NkVEMySG9ucnZ3VEIxNmt1SE9UZzdrLW1DR0ZlZjMzaklxZEg0?oc=5",
           "pubDate": "Sat, 22 Aug 2026 08:41:44 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Imran Khan's party seeks contempt action over jailed leader's hospital move - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOblRkaFZsa2c5ZW5wU1ZUV0Y1SXBlZVVPRTE0YTV2aXY4c2JGVUNJMHo2cTFkUVVBSi01TWRlS1JpdWk4b1o4dVJrQ2N6dURlTDg2NEZZczljY3U0Ul9FMHpnRlEteldCT1dCYm9tb2JyNzZWbFliWFl2VGdfWGg5WEFHcEN6SlpaVzZvZDluelp0VVowYm44RjBTZmhaXzdXRkNCSG51ZGF5TGY1QkRKM3ZleVRVUkt4NTZiQjVwT0U3Yk5VMmdB?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 08:02:28 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Let there be sunlight: Vatican plans solar and agriculture plant to cover its electricity needs - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWGw0X0lOUmZESVVqMWhVeV84V3ptaFJTWDhqSzdPUm9CUEF5QmppQUExYWVwN09OZjhqYnpOcUxaRDZHdngzTHNaWWtPZy1namVHODNULWtCNkpSV0hvSmRfMkRFeXQ2bkNIR05qQUFSdzc4bWV4ZFZud0ppWWVGQVVnbTR0ZXhSMUVWQ3Y5ZXluc1VrUXh6NUhmNEJ2RDAzdElkMjZKS3lqMXNHdHR1ZlJB?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 07:07:29 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T11:48:24.970Z"
+      "updatedAt": "2026-08-22T12:49:55.667Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T11:48:25.299Z"
+      "updatedAt": "2026-08-22T12:49:55.850Z"
     }
   ]
 }
