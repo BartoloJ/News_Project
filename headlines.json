@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T20:53:43.109Z",
+  "generatedAt": "2026-08-22T21:26:48.251Z",
   "sources": [
     {
       "name": "BBC News",
@@ -54,11 +54,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T20:53:41.857Z"
+      "updatedAt": "2026-08-22T21:26:47.118Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Trump administration's 75-country visa ban was illegal, judge rules",
+          "link": "https://www.npr.org/2026/08/22/nx-s1-5941765/trump-immigration-visa-ban-75-countries",
+          "pubDate": "Sat, 22 Aug 2026 16:53:19 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Opinion: Mr. Rogers keeps finding a new neighborhood",
           "link": "https://www.npr.org/2026/08/22/nx-s1-5932426/opinion-mr-rogers-keeps-finding-a-new-neighborhood",
@@ -100,24 +106,18 @@
           "link": "https://www.npr.org/2026/08/21/nx-s1-5940610/iran-us-threat-economic-warfare",
           "pubDate": "Fri, 21 Aug 2026 07:42:10 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Trump declares economic warfare on Iran. And, SCOTUS to rule on White House ballroom",
-          "link": "https://www.npr.org/2026/08/21/g-s1-139542/up-first-newsletter-trump-iran-economy-white-house-ballroom-bond-market",
-          "pubDate": "Fri, 21 Aug 2026 07:25:10 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T20:53:42.012Z"
+      "updatedAt": "2026-08-22T21:26:47.208Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "US and Canada fall deeper into a trade war with new tariffs as talks collapse and blame is spread - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTFZQdTRIMXVabHVfUTNldG4yeGlBSWlHNTFsNUt4WktQeHBuT1RzUUxVT3NZMTQ4ampFeFMtQVhVUDN4bXZXVWlzWXY5LTBEVTI1d29obi03ZGd2dTB6WG0zRGtsa3llaHhtVlVnRjFKYW4tOGpubG1qSWp6NWZfNG5WUVlpeGdjc0s0ck5GM0F3eWs?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 19:43:00 GMT",
+          "title": "What to know about Trump’s 50% tariffs on Canadian goods that just went into effect - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVHl1OFdkU2VpRThnVkF0UE9lcXYyeERtOFZOMDNQTHZTR1VxU3pzVWc4WEs4TXFIcnNtYThhWmVzOHprcmNwbDBUT1RwekVBd003ZGw1YUZwTXlZa2E0d1pIUFdmWVd5enRtYW5tbjlzSmw1aFVhMF94Ni01TlJsTEtfVWdLR2FtclRPUWJYLUxSMDZCam1ESw?oc=5",
+          "pubDate": "Sat, 22 Aug 2026 20:37:00 GMT",
           "source": "AP News"
         },
         {
@@ -130,6 +130,12 @@
           "title": "MLB | Latest News, Stats, and Scores - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
           "pubDate": "Sat, 22 Aug 2026 17:54:05 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Russian and Ukrainian attacks kill 10 people, a day after deadly shopping mall drone strike - AP News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVURpSFQ4WnVGVmZkQzdrYS1FTUVNdHRIREZWYU1iek1RV24tNjlINGRZSHU3bElZSFBHVHFTQklmdXRlaGk2eWFoM2NUWWVRTGkzbjdxM1FkTXFpM0hDOTBXaDZsQXFZZEJLcGtLai16ZjZHQmtpcVhLOG1Yc2dpSzJQSi1ObWNIT2xMbkwxQmxha0RmV0ZfNWFwQjFpeFNJ?oc=5",
+          "pubDate": "Sat, 22 Aug 2026 16:41:00 GMT",
           "source": "AP News"
         },
         {
@@ -155,16 +161,10 @@
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOM1h3YVoxQnAxVU4zc0xPMXFzbXFjUm02OTNhRFFCTjhwNUFpODNtX1lHMnMxX3hrOTlseFhZcTFULVN0NFNETkw5ekZoMUV2b2U4U296dTFka1FGUnFlN19ZMGpGdlY1QndHeEZBWHN2TUIyVEIzakJWUHlYbHQ4ZFViYlZ4Q0xE?oc=5",
           "pubDate": "Sat, 22 Aug 2026 15:29:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Trump urges court to reject BBC’s bid to secure records from his family in defamation case - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa1Y2M3NIc0FjbFNUUXMxVVVJTlVwNUE1UGR5RXdZazNZT2lxNTQ5LTRXZTVzcVdJZGhDQzUtbFZqay1jZ2tNemhOZy1JdXQwR0JjVWh1ajlMMFpQUHBqak0wd3gzSXZISVZLYXFqeDR0dDlkRXlGQXZaZE5DTnBwMTAwYnhZMTJtM09oVVItQkMySkhPV3gxOWRWVFBsU3V6em1HMUc3czNjU2ozaFRKM1Rxbw?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 15:19:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T20:53:42.429Z"
+      "updatedAt": "2026-08-22T21:26:47.669Z"
     },
     {
       "name": "Reuters",
@@ -178,7 +178,7 @@
         {
           "title": "Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLWE3OUFQMndpYzJSVFBuYXBocWg0RUlmWGFtZDU0NEdtTUJzRmV2c3ZtWjJFOTUxNEFwaFNkSno5ZlhCdGpTSjJOMnNUc2U1Y01Fc1YtX2NrdnRFM0pEMDYyYXBrWGdHUVpTei1ramJ6YVE1aFFFTGVwX0drX1lBOFdyRGM4cEpZVG9uUEhka1J1RDZDQ0F3UWY3S0VjQVhLbzVjYmZPazhPcnV3c1ZVd0F4bExTeU9QN0VnOVRyVlA?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 19:21:41 GMT",
+          "pubDate": "Sat, 22 Aug 2026 20:00:21 GMT",
           "source": "Reuters"
         },
         {
@@ -219,7 +219,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T20:53:42.833Z"
+      "updatedAt": "2026-08-22T21:26:48.068Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T20:53:43.109Z"
+      "updatedAt": "2026-08-22T21:26:48.251Z"
     }
   ]
 }
