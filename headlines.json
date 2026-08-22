@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T23:25:48.232Z",
+  "generatedAt": "2026-08-22T23:48:36.277Z",
   "sources": [
     {
       "name": "BBC News",
@@ -54,7 +54,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T23:25:46.868Z"
+      "updatedAt": "2026-08-22T23:48:34.950Z"
     },
     {
       "name": "NPR",
@@ -109,7 +109,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T23:25:47.035Z"
+      "updatedAt": "2026-08-22T23:48:35.250Z"
     },
     {
       "name": "AP News",
@@ -117,13 +117,19 @@
         {
           "title": "MLB | Latest News, Stats, and Scores - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 20:50:15 GMT",
+          "pubDate": "Sat, 22 Aug 2026 21:22:05 GMT",
           "source": "AP News"
         },
         {
           "title": "What to know about Trump’s 50% tariffs on Canadian goods that just went into effect - AP News",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVHl1OFdkU2VpRThnVkF0UE9lcXYyeERtOFZOMDNQTHZTR1VxU3pzVWc4WEs4TXFIcnNtYThhWmVzOHprcmNwbDBUT1RwekVBd003ZGw1YUZwTXlZa2E0d1pIUFdmWVd5enRtYW5tbjlzSmw1aFVhMF94Ni01TlJsTEtfVWdLR2FtclRPUWJYLUxSMDZCam1ESw?oc=5",
           "pubDate": "Sat, 22 Aug 2026 20:37:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "US and Canada fall deeper into a trade war with new tariffs as talks collapse and blame is spread - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTFZQdTRIMXVabHVfUTNldG4yeGlBSWlHNTFsNUt4WktQeHBuT1RzUUxVT3NZMTQ4ampFeFMtQVhVUDN4bXZXVWlzWXY5LTBEVTI1d29obi03ZGd2dTB6WG0zRGtsa3llaHhtVlVnRjFKYW4tOGpubG1qSWp6NWZfNG5WUVlpeGdjc0s0ck5GM0F3eWs?oc=5",
+          "pubDate": "Sat, 22 Aug 2026 19:43:00 GMT",
           "source": "AP News"
         },
         {
@@ -155,16 +161,10 @@
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbF9QeG1JbUxkajVXT1l5QXg4T0Y1Wi1qdng2cFB3MVhPSk9CYWtoamIybkdtT1pPMkJDZG91NmpaLXRSaXh3Q3Q5bE8xVHEyLTF6NmEybTdkTzk2VWQxV0V0VlZDN1VPeU5RN1gweXVsWEE3cThpWGpHbHR4TlRpSEpxUEx6aDZpWmV0UmZOY1U?oc=5",
           "pubDate": "Sat, 22 Aug 2026 16:00:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Federal judge vacates Trump policy that suspended processing of immigration visas from 75 countries - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVVFtMlhNYU9fa1JGZXpOSzFDd1NKSTRTRXlYOXZ0dk94ekhqaUVvdllWVXFyMlJ5aEVKdzFTbGkxV091RmJ0S2lJSWkxSERpTm43dlFfWjR2U0FQVF9rMHpLejVQNTdIdzAtcjVMdGNhWU1jZXhZTWNSanZYcmZxUktLb2tLZDhWSHZTclZzc2JxeTFwVDluMTlqa0RlRURnUldZ?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 15:55:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T23:25:47.545Z"
+      "updatedAt": "2026-08-22T23:48:35.639Z"
     },
     {
       "name": "Reuters",
@@ -185,6 +185,12 @@
           "title": "South Africa's former world boxing champion Tete shot dead outside his home - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVDlRa1g4Rkd1OWVuOThwZWZ5STJ4eEtUbV9iWDhDb0x1cmtvRHAwcjNGWnZsSi1WYmxDd1ZKV2I2bzFRLTA1MWQ4Q1hUOGFkc3BfZXVibDhJNXVnRWdraGZ2Sy1VUW0tS0x1bElfbGJYTDA3TzRMd2FyclppVUhPanpWVkNrZlgxbUJsdXVRS0Vuc3hITzJuX0lmWVlMVHFzQ1BPaFJpOC1NV04zc0xBZVNqQ3NhWTNr?oc=5",
           "pubDate": "Sat, 22 Aug 2026 21:03:28 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Canada's Unifor union, GM reach tentative agreements - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbE9qRThKRHpERnc2STFaNDFPT3Fxa19Cd2lDa2dCekQtZUVQQnFFM0NIRlZLY1JJY2w4bWM3MGhBWW1lbEJObURHRTRSUl9vMW5xZW9LOC1uT196QjRlWnpHai1kb1U2dEFBZGI4YVVORjNURDBPXzdfRDhxSzB5RklYR0hlaDIxakpqWTdGTEdURlpqWGNWZFRuMHNvQlhIdWZMRjgxVjlOcFVXdFE?oc=5",
+          "pubDate": "Sat, 22 Aug 2026 20:24:10 GMT",
           "source": "Reuters"
         },
         {
@@ -210,16 +216,10 @@
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONkNEcEVKSFZQVFBPWmdRblhfM19wRHdGbTc0WXZkMVI2YWwxTzdrWE0wWWVPSkdnclJVbm9XVTFpemhzczBhZk1PZjExYi1oanRRYkw4eENtRC1CUzA0WFNxMTJhNEdRaVo5RlZYdXpuQlRlV0dFanV1cG8ycWJnWEVmbGNwTGl5WnQtZl9oOENUZ3dYWVpSUDc1bGtULXBGYnpwcDVn?oc=5",
           "pubDate": "Sat, 22 Aug 2026 19:03:34 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Israel strikes southern Syria; Damascus condemns attack - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdUlteHpodFpvY0RlTjBQVWdHWmFhTTAtU0VzVlRuY3hYRTA3NEFBSHcwN3pIR1ROYnBWVmFxWDVPTmVRcXZSaUM0YURHZHBmUDg0ekNFTDJ3NTd0S2NiR3loeDlXTlUzNzI1TjlKai1uNzh5TWRPeHJzd1UzNmM4TGRYLW1ET3ZnQ3hmeWNTNWF5ZVVReUtqTGFLdEtqVXZJWEw4RXk2TjE4YkFO?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 18:51:50 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T23:25:47.956Z"
+      "updatedAt": "2026-08-22T23:48:36.081Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T23:25:48.232Z"
+      "updatedAt": "2026-08-22T23:48:36.277Z"
     }
   ]
 }
