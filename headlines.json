@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-22T02:59:08.309Z",
+  "generatedAt": "2026-08-22T03:50:32.051Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "Russian double-tap drone strike kills 16 in Ukrainian mall, officials say",
+          "title": "Russian strikes on Ukraine kill two, officials say, a day after deadly attack on mall",
           "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 22 Aug 2026 01:47:54 GMT",
+          "pubDate": "Sat, 22 Aug 2026 03:17:29 GMT",
           "source": "BBC News"
         },
         {
@@ -54,7 +54,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T02:59:07.097Z"
+      "updatedAt": "2026-08-22T03:50:30.438Z"
     },
     {
       "name": "NPR",
@@ -90,30 +90,36 @@
           "source": "NPR"
         },
         {
-          "title": "As Trump courts Kim, Pyongyang ups the price, while Seoul fears being sidelined",
-          "link": "https://www.npr.org/2026/08/21/g-s1-139466/as-trump-courts-kim-pyongyang-ups-price-while-seoul-fears-being-sidelined",
-          "pubDate": "Fri, 21 Aug 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "As USS Lincoln heads home, mental health experts tally the stressors of life at sea",
-          "link": "https://www.npr.org/2026/08/21/nx-s1-5936445/uss-lincoln-returns-mental-health-stressors-life-sea",
-          "pubDate": "Fri, 21 Aug 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
           "title": "Federal government thins the herds of wild horses in Colorado",
           "link": "https://www.npr.org/2026/08/21/nx-s1-5920407/colorado-wild-horses-federal-government-roundup",
+          "pubDate": "Fri, 21 Aug 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Amid intense backlash, people are vandalizing Flock surveillance cameras",
+          "link": "https://www.npr.org/2026/08/21/nx-s1-5939851/flock-cameras-police-block-surveillance-vandalize",
+          "pubDate": "Fri, 21 Aug 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "As Trump courts Kim, Pyongyang ups the price, while Seoul fears being sidelined",
+          "link": "https://www.npr.org/2026/08/21/g-s1-139466/as-trump-courts-kim-pyongyang-ups-price-while-seoul-fears-being-sidelined",
           "pubDate": "Fri, 21 Aug 2026 05:00:00 -0400",
           "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T02:59:07.292Z"
+      "updatedAt": "2026-08-22T03:50:30.824Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Court cuts $50M judgment against Alex Jones over falsely labeling Sandy Hook killings a hoax - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdkRnRTdwVmJVMi1VSXFycVBET3c0Y1RjMU4yNUtxWU9GWGZSUGFaaUhkWE5PUVNmLXlnZWxsTG1TYWFfN1NvbnlIRDdyMl95bUNpbzR0T2w4Q0tIMUNWYjNGMHJUT0Rfc2xwY1FtSXU1Q1ljOWMxc2lFNWVITjJtVlppT3cxVjFSY0wxLVRFMzg?oc=5",
+          "pubDate": "Sat, 22 Aug 2026 02:17:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Victoire's PWHL championship Walter Cup trophy missing after not arriving in Alberta, AP source says - AP News",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORXlwSnNJenQ2d0xhVTlCZFNUdFBscVRFV2JuU0U1eERnUFFQaFlwOHBvTUl2Y3hacFNMU2lGdWpYVXZldE5lYXZaSGFZOFhQNkE1c01JVmk2ZG9td29BVFYwTkt3aVU2WVRpakNKSFZWTGtMVExoUkc1MU9MdjNpMjRjblJGbEEyWmRYaUdhQy16UWlLWmJpU2JsYXg1QQ?oc=5",
@@ -124,6 +130,12 @@
           "title": "Here’s data showing Congo’s Ebola outbreak is on track to surpass history’s largest - AP News",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOc0tYdWx3R0s3QUFTSWlLNXlMb1pjSWd5bEN0Zm5oTEZQbTBqY1k2RjBNVXNfYWx3bjFPa1d0M2RrQkxoVE5EbUttQUNjT0x1cnM3Y25WeWFTaXUtVGxIU0FYUXl2NXZ1a0ZrZmhsRmhXVUpvRWNpQnhYdkNHMlJuYm5La1drSV94NlE?oc=5",
           "pubDate": "Sat, 22 Aug 2026 00:06:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Supreme Court's chief justice allows work on Trump’s $400M White House ballroom to continue for now - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWF96endSSklBQ0dCRVBNcjNPdEFVSS02dU5ybnNIeDdNOTlhZ0gyNVZuWm05YndRbTF6VkctQVFUdDRXeklSbDFJS3laNC1vaGt6NGZZWGNlREo4YXE0MXFuNzNzaU10NnVBTjRXS2MyX0RWNi1MRVBlYjZyVWNDZVVHdGV6cTg0WlItLTR0ZFFuUDFuMjlqV1JwRzBPZ1A2REE?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 23:32:00 GMT",
           "source": "AP News"
         },
         {
@@ -149,26 +161,38 @@
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTVViWDlLRjR5ZGYxNm1uZHdhWWdsUFR5OElyQ1dwVG9MMzdKY1NpNXdzWmNpSjNMd21zTm96bFdWU3JzWi12OEw3YWtQcENoanZzbFJFVjRTNVl2VkFoS2lZY0hDNTljQVlya1kxQXQ3OUFWalRHN2NSNUdWSzkxYWZDeldpWGszYjg5dnowSVEyU25DWTdhWUlpMA?oc=5",
           "pubDate": "Fri, 21 Aug 2026 22:57:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "US stocks rise, even as the bond market applies more pressure - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ1VqMXNlMnp0alRkYnpKcDJPQ3RPbE5qOElKdFlySkFLQVFERk5SYWpUd0M2ejlDazNnbVI1b01yTGZkXzlKMExtaWM1VmtvLUp4TVdQd05kVVJfMmE2V2s5MGFFSEw2dTFJZWZCTG5CdXhkbWItaldsMi14Qk5ONk8yVGdwR3MzbE9jd3FRVmtJR3E1bXdvZXBQeFo?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 21:55:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Court cuts $50M judgment against Infowars' Alex Jones over falsely labeling Newtown killings a hoax - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdkRnRTdwVmJVMi1VSXFycVBET3c0Y1RjMU4yNUtxWU9GWGZSUGFaaUhkWE5PUVNmLXlnZWxsTG1TYWFfN1NvbnlIRDdyMl95bUNpbzR0T2w4Q0tIMUNWYjNGMHJUT0Rfc2xwY1FtSXU1Q1ljOWMxc2lFNWVITjJtVlppT3cxVjFSY0wxLVRFMzg?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 21:45:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T02:59:07.764Z"
+      "updatedAt": "2026-08-22T03:50:31.339Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "US judge strikes down policy suspending immigrant visa processing for 75 nations - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQT0F2RlpfcnFUWko2OFFTZzBmUG9TcWJJZDJYMXhPU1oyVEx4cV9jSXhiZDdiU3E3Q1ctcExuWFh2UERJWkd2dWVKQ0tJZlk1eDlJT01OSk9nMkZzQWozcXgxVktwajN1cE1YQ0pxWUNBYXNCU3BHSUlOWFlqS0JIRW16VWxRbjJfSlExc3kyaS1jcUdxeFhaSUQ3V3V0NzlKTU1rbEFtTWxQRnNDVHpNZkhPbmhyTzhKSGxZLVY4WXZiMjNZRVRzTg?oc=5",
+          "pubDate": "Sat, 22 Aug 2026 01:28:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Trump says Iran not ready to make the 'right deal' - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdXVJYmgzQ2hHN1JlVkg0MFl5eU1hVWtYWTN2OFNvUFV3b3NoS053LTdCMDVWNTBZMEdhUDV3ZEQ3QXBBYnpNRDZST0l3amt6V0luVGtJek1aZnlPZVpwMndfY0VjemxrTWxsdUlZQkZxMU03SHA4LXJ2OVdSemltdzJfUGJseElLR3BCUjlFT1JIcXdhUW9CZU1xdVctMEFjN1B5ekl0cmplQQ?oc=5",
+          "pubDate": "Sat, 22 Aug 2026 01:05:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "At least 13 Tunisians missing after migrant boat sinks off Tunisia, group says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcHFXYTZwbms4c0tlRDFOZkwwS2FhM0xmZzZRMkdSMjV6MGhZWXl0NC1uSXF1NzU2X1pOMzBEU05QU2NKUDNCSTk4THFXWEY5bW5NT0F6aDl3WlNWeTJmVVJFYkJxRjJmU3U4dnJZc1NhS0tnbTd3bVZpNEVva2FKOFdHQ0VQSWdjTVpUazljenlBNWJ2Sy13U3pWbGloVjdjakNvOThxajJuSEU3NGxnUS1LT2RBZjVYMFR5VGZWYlE?oc=5",
+          "pubDate": "Sat, 22 Aug 2026 00:44:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US Navy aircraft transits Taiwan Strait before planned Xi-Trump meeting - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZVZ5QXlJdUphUk9mZFZtcDlkNXZyY2gzLUFwV0tQSjllVks1bS1GMm41Q2RYamZGcTBJMEtDa1JfREpJSFNvTkQtTjBZZFg0UXpWRjFDQ2RwU3Q3enlkWkVMUEluU2FRTmhCdFk1cFdGSzlVMW5KanEtRjdWajAxVHN3NGhzSXdlNEFwRTVlTU80VlBzV3BBQkd5Ui0?oc=5",
+          "pubDate": "Sat, 22 Aug 2026 00:43:00 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Russian 'double-tap' strike on shopping centre in Ukraine kills 16 and wounds 130 - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOME1nc2ZfV3l1LXlTQ29EZlNTd3drS1ZwNHBnbTdKd3VmVG5ZYkVpWngxV1BNQWFWY3VEMk8tVUVSX215cEgwV0ZRejFmR05LalNab3dkLXNwMTVkSmxDd3hlYjRGMkVZRHBlS1lQbU15R0hCQ3lvWHNpSW5QbUNvSmRVWnZhSVlYYW5IWUJCZGFTckZTdlVDNE9Wb3JsWkFvTHRkNmVscnNFUQ?oc=5",
@@ -182,44 +206,20 @@
           "source": "Reuters"
         },
         {
+          "title": "Trump says he did not direct Bessent to intervene in bond market - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTkFsc1FIR29sOXp1dmJuLTJFNHR0Z04taHhTaEZkd1QyRmhxN0hKTmZHYldObW5zV1J6c2ozT04xOXp0dlFMbWgwMHVUckdCeHNPRG1QTEE4bU9fckJmd1BnekhaZ0JCOUUwbDBCdWdRM3FRWEFJUHB4LW9KaTNPRDBmQ1lLYTdOUTJWa2wtckZ1Y0FFbjJVTkFjaUVKY2Zwdm05VENB?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 23:27:43 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "US imposes deep Colorado River water cuts to California, Nevada and Arizona - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTG5vMnF2Z29oaHVGUzNEclJKb29zUzkwNlFvNkZmcVdCM0RlREJaODV3RGpRQVdxQkdQa1V6d0w3YnlzNGFMN1NTdmwzLXNUMmUwWHY3S2ZXTGVNWjVsN1lsT3FySFIzRER6UnJGbFczWVVNdmRVM1Vjc0JYVE1SVVZvTlB0X01RaVV6UW5lQTdlY3MweXluVlY0WDcxbmNTWFplU3g1RFFaSnUtdGQ3TGhkMDBEMHFKei1rTGg5QQ?oc=5",
           "pubDate": "Fri, 21 Aug 2026 23:00:11 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Wall St rises on the day but falls for the week; bond yields and Iran in focus - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQX2E3YkdBQXBjbW43VmpoeklMN0VYV0ZtV0xZeUNHQUx0aXAxLW16MjU5bWdkLVRxUzlpNGhWWEpCeUJDd3JYbTJkZE5KTll3R3JkZGJoamdUSnRPMmp1d21Tc2lUb3FVcldGcXBXamZZU0lqcEV1SDdwN09pOUl4cTM4WHBnWDVhNExtbzdkMXBYVTRmVjVXSjQyYjMyUXJt?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 22:58:54 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Boeing engineers, technical workers reject contract offer - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcEtXS0RiNFlVakR1UGZ3MjU5OEktdlJabzdJZVFiWV9JM2U5dzBkNU15YTdUQldzbzEtQkFyeWV1bGFqUmkzVjJINnFVMUthdjg3MVRxSVpJWHlicmRRRXRMTEx2TWJuMzdqbHZYazBaMWxHNVcwdUdJTHJaMEllWmdHdEd5RTRrd1g5ZS1iRjFmNEp1Zl9vV2tQU3ZmUG5HVUZWUW5kcWRIS001ZFFUME04TmExdw?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 22:52:21 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Explainer: What we know about the door handles that triggered China’s record auto recall - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbXFlcVNMekU3YWJITDg1aW5RMnhiZTU3OHZld0Q3aFdoLXRYMUpBVF84cmZHOEt0WklReTR0QUNwaG5qYU5KVHl3TmhfZjJvOURycHNLanUxY1daUXR5N2ZkZ29tTmY3aDYzUmp2M2g0S1BaS0wxdkIxMjl5cXpmeHo5Vlp1MzNGTEs5dUtETzRlN2g1cXpEMkVFQzY4SmxydndmMng3RmcwVmhqdUIwRi1nd2djSG9PdS1PSXNFQWVRc2tzUVBZdGNMRG5rSGdMeU5kTw?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 22:24:32 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "One killed, three injured when man attacks Swedish school with sword - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYld0b2RsdVRvRlhCVVpCRWJVYkpTeTY3SlFmcWJsSC1majhPVWFXRVAtMDdsTHJMT0FxY2RKMTFxRmpCRkxTTTFZMGI5RDctTmROWmplNDFBY0FVRzVMc1lEMnlCN0VjcE13anpXR0RfNDJkaVIzYUdQMWRnTWlGM3dwT01KNm9HcmlZYmI2ZnYwbzR3Wi1fSnQtM1VlYlRwQVk5Z2prSEEtWGo4UmhNaEhjNmlnSmVF?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 22:21:44 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "EXCLUSIVE: Fauci's lawyers set up legal defense fund as US probes multiply - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQc3ZKSm5RMU83dFhuYWFPU2JpUWc4TUg5ckc3NXJtT1N3b24wWm92Ykx3ZFFfazdyckpwZW82V2h4YW5IbFhRS0N0ZEF5ZUk2VEVKYVVrUFQwSE1KdUxDTmcwQXlCWENtOHhBaWRBcUZKZUpCZ19PbWt5MmppMF93RjZ0ZS1MYkRzQWtldUhHbklpQ3V0YW54SXI1MXhoVzZJSG9j?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 22:03:48 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T02:59:08.188Z"
+      "updatedAt": "2026-08-22T03:50:31.753Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T02:59:08.309Z"
+      "updatedAt": "2026-08-22T03:50:32.051Z"
     }
   ]
 }
