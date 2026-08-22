@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T18:38:07.760Z",
+  "generatedAt": "2026-08-22T19:26:42.580Z",
   "sources": [
     {
       "name": "BBC News",
@@ -54,7 +54,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T18:37:51.056Z"
+      "updatedAt": "2026-08-22T19:26:40.969Z"
     },
     {
       "name": "NPR",
@@ -109,21 +109,27 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T18:37:51.314Z"
+      "updatedAt": "2026-08-22T19:26:41.342Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "US and Canada fall deeper into a trade war with new tariffs as talks collapse and blame is spread - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTFZQdTRIMXVabHVfUTNldG4yeGlBSWlHNTFsNUt4WktQeHBuT1RzUUxVT3NZMTQ4ampFeFMtQVhVUDN4bXZXVWlzWXY5LTBEVTI1d29obi03ZGd2dTB6WG0zRGtsa3llaHhtVlVnRjFKYW4tOGpubG1qSWp6NWZfNG5WUVlpeGdjc0s0ck5GM0F3eWs?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 17:37:00 GMT",
+          "title": "A trade war between Canada and the US further ruptures a once-close and durable alliance - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQVlYNWswSUYyM3pKRmI0SGpaU3k2WEVGa19ubU5fZmNRclBiMUpRcHFnRGU4SzZoLVVVbWxsR25fTHZ1NzI1ZUswYVdXUk85MnpTc1NpakhqSC1OMk1KMG5CcGdmaF90TVIyanhiWUNweTRzVVhFQXJhaXllQnlOMFo1Z2ktRmZKNEdpTEtWb2IzVmFaQ1RuS2pOLTJPcVdmWEE?oc=5",
+          "pubDate": "Sat, 22 Aug 2026 18:31:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Russian and Ukrainian attacks kill 10 people, a day after deadly shopping mall drone strike - AP News",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVURpSFQ4WnVGVmZkQzdrYS1FTUVNdHRIREZWYU1iek1RV24tNjlINGRZSHU3bElZSFBHVHFTQklmdXRlaGk2eWFoM2NUWWVRTGkzbjdxM1FkTXFpM0hDOTBXaDZsQXFZZEJLcGtLai16ZjZHQmtpcVhLOG1Yc2dpSzJQSi1ObWNIT2xMbkwxQmxha0RmV0ZfNWFwQjFpeFNJ?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 16:41:00 GMT",
+          "title": "Palestinians in Gaza scavenge trash for things to burn to cook meals, in photos - AP News",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbmk2V0FSWWNnbkpsVExybkVsc3d2eEdibUVfYTUtNXBycDdSTHQwLUFmbE9yWEtYZVdBMFMxbkZvZmJsZjM2bFN3LVUxSDhlRG5jOUtLWW40UDFGejhjdlpFN0J5TVlDazRUSDJyYTd6bzAyc3l5S1QzY0ZCOWRyNjhhb1lSYmZuc0UzNEJuTG1tU3cyVGNlR1FBZjRMSzJSVHhNa09DbzZVVWdicnBIbFFzSXY?oc=5",
+          "pubDate": "Sat, 22 Aug 2026 16:35:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Sat, 22 Aug 2026 16:04:10 GMT",
           "source": "AP News"
         },
         {
@@ -139,15 +145,15 @@
           "source": "AP News"
         },
         {
-          "title": "Mexican ranchers prepare to resume livestock sales to US under tight controls over screwworm risk - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQlNzd1VSejJBRjh4UEZBcGlCcHlVYW94M3NPOUhTQnlMOEdaelhUZE91VTFNcjNlX1g0NExaNDBvWmdualZsRnBKcjhtcFh1X3pzck1lOXRZR2I2LWRHcWYwTzlTUGN2ZWx6WklWaTNjVk9LTmhtc1JnS0V3ZE5NN3FyWmxsTDNjeDZxNC1FUlZUUmNQYzJhOWdyWjQ1SjU4TEpzcHZIVHI2ZC1obTROdw?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 14:59:00 GMT",
+          "title": "A head-on collision in northeast England kills 7 people, including 2 police officers - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOM1h3YVoxQnAxVU4zc0xPMXFzbXFjUm02OTNhRFFCTjhwNUFpODNtX1lHMnMxX3hrOTlseFhZcTFULVN0NFNETkw5ekZoMUV2b2U4U296dTFka1FGUnFlN19ZMGpGdlY1QndHeEZBWHN2TUIyVEIzakJWUHlYbHQ4ZFViYlZ4Q0xE?oc=5",
+          "pubDate": "Sat, 22 Aug 2026 15:29:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 14:47:54 GMT",
+          "title": "Trump urges court to reject BBC’s bid to secure records from his family in defamation case - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa1Y2M3NIc0FjbFNUUXMxVVVJTlVwNUE1UGR5RXdZazNZT2lxNTQ5LTRXZTVzcVdJZGhDQzUtbFZqay1jZ2tNemhOZy1JdXQwR0JjVWh1ajlMMFpQUHBqak0wd3gzSXZISVZLYXFqeDR0dDlkRXlGQXZaZE5DTnBwMTAwYnhZMTJtM09oVVItQkMySkhPV3gxOWRWVFBsU3V6em1HMUc3czNjU2ozaFRKM1Rxbw?oc=5",
+          "pubDate": "Sat, 22 Aug 2026 15:19:00 GMT",
           "source": "AP News"
         },
         {
@@ -155,30 +161,24 @@
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbnJJUkh5N3A5bmdDYkJOaTY2dENDNlJtNjJwMWRnZ3BvRnBsTVdiVHlNWUxnTGMycGRaTFlTQnJyMl9lSVZYYjc1RWt6T09qWDlzY28td3RxbHNPaXpmTXlJLXNWVUZ0VmRfTVJIZ0FYdW0yajFLX2ZUU2xCWEl0V1J2LUxrakdiUXZRTFc3a2RhWTZ1azJtUFhaRUV2MUh5STBLREV4RXB3QQ?oc=5",
           "pubDate": "Sat, 22 Aug 2026 13:46:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Congo receives more than 16,000 doses of Ebola vaccine as it grapples with unprecedented outbreak - AP News",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdFh4LXA1WTJxUFB0SFF2UE0wNjRjTldBNjIwMlFWUC11VlZyQXpyYnh5WTFkSjFCMjBUbElJUnNTYjdTa3JBVjZDRGdlR0FZSTlhd2dUZGVWTTBtRDFTYlYwel8wZHVuelB0aW9hZ05oSHhyVEJJN0VoZlNLWm42Y1hLT2pZZw?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 11:19:00 GMT",
-          "source": "AP News"
         }
       ],
-      "ok": false,
-      "updatedAt": "2026-08-22T17:49:36.636Z"
+      "ok": true,
+      "updatedAt": "2026-08-22T19:26:41.879Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Chinese robot beats Usain Bolt's 100m world record at Beijing games - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOFpWcEU2Z3A5dEFDSXRERWhFSGsxd0NCRDAydDk5MFZXYmkwajZ0OFhwZFh0TzN1NVM0bUFmTTBocUNfYzZoT1FUdFVGazRZVHp3NC00eVNlWlFUcnFuOW1QdkhWeWk0OW42OW42SWxWVjFJRGFKZi0xYUN2ekFuUHRyVEdzNmg0MS1NeU80MFZWeTNmX0VTR2d5VFhQUFlzVmZBX2ZKNnFOM2tFbGtiZE1fV0drOXNtOTFMQWh0VQ?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 17:30:02 GMT",
+          "title": "Canada to impose retaliatory tariffs on US steel, electronics, other products, Carney says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ2ZPTUg0NjVrWlY5aVBzbS1ucUhqc014UGZYMkhlX3R1bkpDMnlXMmZyT2hCVEs1dXZNbkE4Nlc1aXZQemtvNUJFWFVyLWJBb1BWelBfVmJBRVlUMk4tR2lNVWw5NW11NG5SOUtGZVZNZ0lIXzJYVlJsNFE0Vlh3TExaMnJmOGhJNmNWSkd1MkE1QmpjeHl1TXQwYUkydWRkSUVxU21UV3VBdHVJZUV2U05NaGI2d1RuNUJvMg?oc=5",
+          "pubDate": "Sat, 22 Aug 2026 18:15:17 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Canada to impose retaliatory tariffs across a raft of US sectors, Carney says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ2ZPTUg0NjVrWlY5aVBzbS1ucUhqc014UGZYMkhlX3R1bkpDMnlXMmZyT2hCVEs1dXZNbkE4Nlc1aXZQemtvNUJFWFVyLWJBb1BWelBfVmJBRVlUMk4tR2lNVWw5NW11NG5SOUtGZVZNZ0lIXzJYVlJsNFE0Vlh3TExaMnJmOGhJNmNWSkd1MkE1QmpjeHl1TXQwYUkydWRkSUVxU21UV3VBdHVJZUV2U05NaGI2d1RuNUJvMg?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 17:13:37 GMT",
+          "title": "Chinese robot beats Usain Bolt's 100m world record at Beijing games - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOFpWcEU2Z3A5dEFDSXRERWhFSGsxd0NCRDAydDk5MFZXYmkwajZ0OFhwZFh0TzN1NVM0bUFmTTBocUNfYzZoT1FUdFVGazRZVHp3NC00eVNlWlFUcnFuOW1QdkhWeWk0OW42OW42SWxWVjFJRGFKZi0xYUN2ekFuUHRyVEdzNmg0MS1NeU80MFZWeTNmX0VTR2d5VFhQUFlzVmZBX2ZKNnFOM2tFbGtiZE1fV0drOXNtOTFMQWh0VQ?oc=5",
+          "pubDate": "Sat, 22 Aug 2026 17:30:02 GMT",
           "source": "Reuters"
         },
         {
@@ -212,14 +212,14 @@
           "source": "Reuters"
         },
         {
-          "title": "EU sends helicopters, firefighters to Serbia to tackle wildfires - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUGlKOVc4ZDFhMlNOWE8wNXpPb1paZW5RRG5oZFd3VV9YaThScFlPYmRCZ2xfMU9sRFNpNUpsNk9Jb1BES19nOVJDdnJER241VzNyZWc0UGNSZWJEMEFnSW1vaDhacGEzQW1WYU9pU21mcTlWWHBOU3BiTm05cFNGY05QVFhwd1pGOEhLenNoSnliZUhEYnh3ZFpTNTMxYzZoeURya04zdy12c3NmQVUtTDcyRVE?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 16:07:07 GMT",
+          "title": "Norris beats Russell to pole in Dutch hat-trick for McLaren - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZV9Kak1OQVVXQVR4d2xmWnhyVkhZU1FzdUxxTjR3Y2sxMER0U0lOaTRTQUdEZlkzaWhDVVZIQUVuaFIwM0dUVkJSaW85blFqMmRWWmpIcFJvUTNoOU8zUnZrRGFscnMyYi1TQ2k2TXptME92aEtjVlltTUpZejZBbGxvcHdJUGVZVFBha2JpYw?oc=5",
+          "pubDate": "Sat, 22 Aug 2026 16:28:34 GMT",
           "source": "Reuters"
         }
       ],
-      "ok": false,
-      "updatedAt": "2026-08-22T17:49:37.024Z"
+      "ok": true,
+      "updatedAt": "2026-08-22T19:26:42.350Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T18:38:07.760Z"
+      "updatedAt": "2026-08-22T19:26:42.580Z"
     }
   ]
 }
