@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T11:25:32.567Z",
+  "generatedAt": "2026-08-22T11:48:25.299Z",
   "sources": [
     {
       "name": "BBC News",
@@ -54,7 +54,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T11:25:31.289Z"
+      "updatedAt": "2026-08-22T11:48:23.869Z"
     },
     {
       "name": "NPR",
@@ -102,18 +102,24 @@
           "source": "NPR"
         },
         {
-          "title": "As Trump courts Kim, Pyongyang ups the price, while Seoul fears being sidelined",
-          "link": "https://www.npr.org/2026/08/21/g-s1-139466/as-trump-courts-kim-pyongyang-ups-price-while-seoul-fears-being-sidelined",
+          "title": "Federal government thins the herds of wild horses in Colorado",
+          "link": "https://www.npr.org/2026/08/21/nx-s1-5920407/colorado-wild-horses-federal-government-roundup",
           "pubDate": "Fri, 21 Aug 2026 05:00:00 -0400",
           "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T11:25:31.530Z"
+      "updatedAt": "2026-08-22T11:48:24.079Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Mexico resumes livestock sales to US under tight controls over screwworm risk - AP News",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQlNzd1VSejJBRjh4UEZBcGlCcHlVYW94M3NPOUhTQnlMOEdaelhUZE91VTFNcjNlX1g0NExaNDBvWmdualZsRnBKcjhtcFh1X3pzck1lOXRZR2I2LWRHcWYwTzlTUGN2ZWx6WklWaTNjVk9LTmhtc1JnS0V3ZE5NN3FyWmxsTDNjeDZxNC1FUlZUUmNQYzJhOWdyWjQ1SjU4TEpzcHZIVHI2ZC1obTROdw?oc=5",
+          "pubDate": "Sat, 22 Aug 2026 09:59:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "MLB | Latest News, Stats, and Scores - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
@@ -155,20 +161,26 @@
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdVJkQnQzNHZ4c0lXNDZlZDlqS1Nvc20zX3dNS0l0Mk9JUGR4b1lfYlMzTUNFVW9ERVVPREJsc0hXZ0prbDRVV1RhQVI3OVphVEdnQk03Vndta2tENmVaeXNXczFVZ292VlVSeGRuazZWb05GQkVaOWYxR1NxYnZIdVhZdEt1SzNKWDJqMVRMOVUtYl9ULVpvVzRDeXd1STdka2c?oc=5",
           "pubDate": "Sat, 22 Aug 2026 03:01:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Court cuts $50M judgment against Alex Jones over falsely labeling Sandy Hook killings a hoax - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdkRnRTdwVmJVMi1VSXFycVBET3c0Y1RjMU4yNUtxWU9GWGZSUGFaaUhkWE5PUVNmLXlnZWxsTG1TYWFfN1NvbnlIRDdyMl95bUNpbzR0T2w4Q0tIMUNWYjNGMHJUT0Rfc2xwY1FtSXU1Q1ljOWMxc2lFNWVITjJtVlppT3cxVjFSY0wxLVRFMzg?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 02:17:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T11:25:31.902Z"
+      "updatedAt": "2026-08-22T11:48:24.601Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Swedish police probe online networks after teenage girl killed in school sword attack - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZVV3NExuQmFxMzNiVU9iZnhweFRMb2tvQmlqVmhNbXJia0YtcXFMalNXanhOS2gxYy12MHFZT0VoRENBOWFLMklzdWVaV3pZMVFmSmI0VEJENUxSTU5nbUJZdnpWa3lIR1IydEFSb3JIY0pjQ0RRdjh5aGhqdy1DYlVLdksyc1psREx4Q1NXUDVOTk45WndFU1RaWE5RMmdTZFZ2SnAxVFltWDhhYTJ2WlQxNS1lNU9rX29nVXVRMmEwdw?oc=5",
+          "pubDate": "Sat, 22 Aug 2026 11:00:33 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Chinese robot beats Usain Bolt's 100m world record in test run - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOFpWcEU2Z3A5dEFDSXRERWhFSGsxd0NCRDAydDk5MFZXYmkwajZ0OFhwZFh0TzN1NVM0bUFmTTBocUNfYzZoT1FUdFVGazRZVHp3NC00eVNlWlFUcnFuOW1QdkhWeWk0OW42OW42SWxWVjFJRGFKZi0xYUN2ekFuUHRyVEdzNmg0MS1NeU80MFZWeTNmX0VTR2d5VFhQUFlzVmZBX2ZKNnFOM2tFbGtiZE1fV0drOXNtOTFMQWh0VQ?oc=5",
+          "pubDate": "Sat, 22 Aug 2026 10:40:20 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Ukrainian drones kill several, hit warehouse of Russian online retailer Ozon - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQR3V4eHZkQWFrSEdIRXBiQjVXZUd6c3FuVllaNWVWQmRqeFY0WUhkQWswRVFNRGJFT0tFWkJVbTlqNnVOT0F1Rk0yRHlrVUhDRldJcjRlTjVjcjVDbG1Sc2tkQ0t5MWwzcHJBSmduTWhXazBUWHVKWUFrRmRkZzhYdXh4Wko4R3k2bmp6VDFpRkRudkNaVWxsUm85ZUxtbGFNNUxIdEExV2hxbDRTalFQeGR5cVFxTTZ3b0U4?oc=5",
@@ -204,22 +216,10 @@
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWGw0X0lOUmZESVVqMWhVeV84V3ptaFJTWDhqSzdPUm9CUEF5QmppQUExYWVwN09OZjhqYnpOcUxaRDZHdngzTHNaWWtPZy1namVHODNULWtCNkpSV0hvSmRfMkRFeXQ2bkNIR05qQUFSdzc4bWV4ZFZud0ppWWVGQVVnbTR0ZXhSMUVWQ3Y5ZXluc1VrUXh6NUhmNEJ2RDAzdElkMjZKS3lqMXNHdHR1ZlJB?oc=5",
           "pubDate": "Sat, 22 Aug 2026 07:07:29 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "South Korea ship to test Arctic commercial route amid Western concerns - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY3h3N3U3TVFHR3drWTl1RDEzQlhJOFR5dVpfQjFGcGNLZjJuNTl6SjQ5V3BYUTRvYWhWZk5YandYWnp0RUUxX2Z4V21zbmxadWFWQWd1R1Vqa3BzdmRocFMzTnRJMFBaZWt6Y2JJS0l1OHE1V3Y3TDV6N2F6d25paERCQnJOZkRQNzVTU3VMY2ZKdmNTMlNEeFZHb05rVnFDMWlkMWQwUDhPZXdqRUNyNW5PUUp0Zw?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 06:47:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Trump heads into midterms short on foreign policy wins - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWVpobThVRFlSUldKZkNtUFdwaTRmaFZyQl9HOExfQ2dxQkFOd2EtdWdtWUZ1ckthb3dKTVZwSmtpNk5Eb3A3dVFhWnVqZzlyMlpCQlFydGZrYTlyNzFDV21fQzZPYWxqeFBranZibzZiampxb3pyYll0LXhqZUJmN2ZNa3Q2UE55Tk1QSEx3NG9wd21zbFowNjZIcTY?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 05:04:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T11:25:32.294Z"
+      "updatedAt": "2026-08-22T11:48:24.970Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T11:25:32.566Z"
+      "updatedAt": "2026-08-22T11:48:25.299Z"
     }
   ]
 }
