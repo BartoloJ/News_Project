@@ -1,9 +1,15 @@
 {
-  "generatedAt": "2026-08-22T01:35:20.164Z",
+  "generatedAt": "2026-08-22T02:59:08.309Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Russian double-tap drone strike kills 16 in Ukrainian mall, officials say",
+          "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 22 Aug 2026 01:47:54 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "'We have more work to do', says Canada negotiator as US trade deadline looms",
           "link": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss",
@@ -41,12 +47,6 @@
           "source": "BBC News"
         },
         {
-          "title": "Russian double-tap drone strike kills 15 in Ukrainian mall, officials say",
-          "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 21 Aug 2026 19:49:56 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "How Israel is expanding settlements in drive to reshape West Bank",
           "link": "https://www.bbc.co.uk/news/articles/c2lq5g4dedpo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 21 Aug 2026 19:31:47 GMT",
@@ -54,7 +54,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T01:35:18.531Z"
+      "updatedAt": "2026-08-22T02:59:07.097Z"
     },
     {
       "name": "NPR",
@@ -90,30 +90,48 @@
           "source": "NPR"
         },
         {
-          "title": "Federal government thins the herds of wild horses in Colorado",
-          "link": "https://www.npr.org/2026/08/21/nx-s1-5920407/colorado-wild-horses-federal-government-roundup",
-          "pubDate": "Fri, 21 Aug 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Amid intense backlash, people are vandalizing Flock surveillance cameras",
-          "link": "https://www.npr.org/2026/08/21/nx-s1-5939851/flock-cameras-police-block-surveillance-vandalize",
-          "pubDate": "Fri, 21 Aug 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
           "title": "As Trump courts Kim, Pyongyang ups the price, while Seoul fears being sidelined",
           "link": "https://www.npr.org/2026/08/21/g-s1-139466/as-trump-courts-kim-pyongyang-ups-price-while-seoul-fears-being-sidelined",
+          "pubDate": "Fri, 21 Aug 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "As USS Lincoln heads home, mental health experts tally the stressors of life at sea",
+          "link": "https://www.npr.org/2026/08/21/nx-s1-5936445/uss-lincoln-returns-mental-health-stressors-life-sea",
+          "pubDate": "Fri, 21 Aug 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Federal government thins the herds of wild horses in Colorado",
+          "link": "https://www.npr.org/2026/08/21/nx-s1-5920407/colorado-wild-horses-federal-government-roundup",
           "pubDate": "Fri, 21 Aug 2026 05:00:00 -0400",
           "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T01:35:18.915Z"
+      "updatedAt": "2026-08-22T02:59:07.292Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Victoire's PWHL championship Walter Cup trophy missing after not arriving in Alberta, AP source says - AP News",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORXlwSnNJenQ2d0xhVTlCZFNUdFBscVRFV2JuU0U1eERnUFFQaFlwOHBvTUl2Y3hacFNMU2lGdWpYVXZldE5lYXZaSGFZOFhQNkE1c01JVmk2ZG9td29BVFYwTkt3aVU2WVRpakNKSFZWTGtMVExoUkc1MU9MdjNpMjRjblJGbEEyWmRYaUdhQy16UWlLWmJpU2JsYXg1QQ?oc=5",
+          "pubDate": "Sat, 22 Aug 2026 01:21:07 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Here’s data showing Congo’s Ebola outbreak is on track to surpass history’s largest - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOc0tYdWx3R0s3QUFTSWlLNXlMb1pjSWd5bEN0Zm5oTEZQbTBqY1k2RjBNVXNfYWx3bjFPa1d0M2RrQkxoVE5EbUttQUNjT0x1cnM3Y25WeWFTaXUtVGxIU0FYUXl2NXZ1a0ZrZmhsRmhXVUpvRWNpQnhYdkNHMlJuYm5La1drSV94NlE?oc=5",
+          "pubDate": "Sat, 22 Aug 2026 00:06:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Plane crashed on second attempt to land in heavy fog in Alaska, killing all 8 aboard, officials say - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYjJWZE9raUpObEpLRDllTXBEeUw4N1I3ZHlfbjk3RExjZXJhd3dwdkFYNktNVkwzaUNQM3Q2d0ViUjEwMFAxeVFScHBueTRSX2RnOVMxMThlRldWa1RPOFZvR0ZEWFlzZjE0N1UzX3M0S1c1RERITXVzYnZyX1JGQldnWXJmd29jbDRCWUs3S0t3emxwb0E?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 23:26:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Trump threatens lawsuit against nonprofit that questioned whether National Guard plan lessened crime - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObFV2NWFLWVhic0ZzMUdRMzQ1Z3c0VlpCbXFuLVR5b0dpN3llTnZrd2MwUlJRSkpxRTlCT2F0QmFlekpQdDhiLXhYTHI2dk5Pd2JPb2s1NlFfTTF1Snl2SUpIQTh2dnZsYzRLakJ1bzJPX1BTTUdLc3N3eUc2SThvYUhBUkkybUtrdjRPX0ZwZEFiN3VlMmo0XzJrb2hjSnYteXdFNnZ2REM?oc=5",
@@ -127,15 +145,9 @@
           "source": "AP News"
         },
         {
-          "title": "Plane crashed on second attempt to land in heavy fog in Alaska, killing all 8 aboard, officials say - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYjJWZE9raUpObEpLRDllTXBEeUw4N1I3ZHlfbjk3RExjZXJhd3dwdkFYNktNVkwzaUNQM3Q2d0ViUjEwMFAxeVFScHBueTRSX2RnOVMxMThlRldWa1RPOFZvR0ZEWFlzZjE0N1UzX3M0S1c1RERITXVzYnZyX1JGQldnWXJmd29jbDRCWUs3S0t3emxwb0E?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 22:43:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "China investigates comedian after he altered a revolutionary song lyric onstage - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYVVCc3RVS0lCWXQ0UW1LaUZ4VWE0NlpRZDZDLU5HVlFCdXFTODQzeFVlQkhEbFUzYkNPYmMxckxlc1FXaGxZM09sSVRXdG5FNE9IaGhFaW5sQnc1Zk43c2FSN2k5YnNlY2RfTnozTFJMU04tY19NenhLd2ZnNUxDR1lvR0QtMkhOdW8yYVU2bE5DN081ZUNUNjl3cFp4Z2FvNEVNclloSQ?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 22:20:00 GMT",
+          "title": "Lindsay Clancy’s defense rests at trial over whether postpartum psychosis drove her to kill her kids - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTVViWDlLRjR5ZGYxNm1uZHdhWWdsUFR5OElyQ1dwVG9MMzdKY1NpNXdzWmNpSjNMd21zTm96bFdWU3JzWi12OEw3YWtQcENoanZzbFJFVjRTNVl2VkFoS2lZY0hDNTljQVlya1kxQXQ3OUFWalRHN2NSNUdWSzkxYWZDeldpWGszYjg5dnowSVEyU25DWTdhWUlpMA?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 22:57:00 GMT",
           "source": "AP News"
         },
         {
@@ -149,22 +161,10 @@
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdkRnRTdwVmJVMi1VSXFycVBET3c0Y1RjMU4yNUtxWU9GWGZSUGFaaUhkWE5PUVNmLXlnZWxsTG1TYWFfN1NvbnlIRDdyMl95bUNpbzR0T2w4Q0tIMUNWYjNGMHJUT0Rfc2xwY1FtSXU1Q1ljOWMxc2lFNWVITjJtVlppT3cxVjFSY0wxLVRFMzg?oc=5",
           "pubDate": "Fri, 21 Aug 2026 21:45:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Tropical Storm Moke forms on track to bring heavy rain and winds to Hawaii - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdVJkQnQzNHZ4c0lXNDZlZDlqS1Nvc20zX3dNS0l0Mk9JUGR4b1lfYlMzTUNFVW9ERVVPREJsc0hXZ0prbDRVV1RhQVI3OVphVEdnQk03Vndta2tENmVaeXNXczFVZ292VlVSeGRuazZWb05GQkVaOWYxR1NxYnZIdVhZdEt1SzNKWDJqMVRMOVUtYl9ULVpvVzRDeXd1STdka2c?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 21:10:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Arizona AG declines to charge Gov. Katie Hobbs over pay-to-play allegations - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNM1pOdkZzQjY3ZlpmcEp5ZVhjUTRtX3E1V2M4bnY0ODVFQnlBTnUtV09mREtvVXBVVnk0SVZhT09FYkhzbElvbE5KVTVWandkdTRaZjlIU3A1b2tOWDNTb1pER0lNdWZUTnBkWUlKd3NaaHpZMnFJSmNObUd5eWlZUC16TktQamdFQzFLQzlOUWtBdjRBSFlHSElUS083WUpKTnZhMkhB?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 20:46:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T01:35:19.385Z"
+      "updatedAt": "2026-08-22T02:59:07.764Z"
     },
     {
       "name": "Reuters",
@@ -219,7 +219,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T01:35:19.822Z"
+      "updatedAt": "2026-08-22T02:59:08.188Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T01:35:20.164Z"
+      "updatedAt": "2026-08-22T02:59:08.309Z"
     }
   ]
 }
