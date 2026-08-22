@@ -1,13 +1,37 @@
 {
-  "generatedAt": "2026-08-21T23:53:52.708Z",
+  "generatedAt": "2026-08-22T01:35:20.164Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
+          "title": "'We have more work to do', says Canada negotiator as US trade deadline looms",
+          "link": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 22 Aug 2026 00:40:47 GMT",
+          "source": "BBC News"
+        },
+        {
           "title": "Two injured in stabbing attack at Canada Sikh temple",
           "link": "https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 21 Aug 2026 22:45:01 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
+          "link": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 21 Aug 2026 22:36:12 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "These bookshops let Chinese readers question their country - now the doors are closing",
+          "link": "https://www.bbc.co.uk/news/articles/cj0338l6yg4o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 21 Aug 2026 22:26:25 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Modi spent years building his strong image - why is he making Gen Z reels now?",
+          "link": "https://www.bbc.co.uk/news/articles/cnvn0n1nld6o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 21 Aug 2026 22:15:32 GMT",
           "source": "BBC News"
         },
         {
@@ -27,34 +51,10 @@
           "link": "https://www.bbc.co.uk/news/articles/c2lq5g4dedpo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 21 Aug 2026 19:31:47 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Meghan in talks for role in Netflix series The Gentlemen, BBC understands",
-          "link": "https://www.bbc.co.uk/news/articles/cwye9g9r58zo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 21 Aug 2026 18:29:31 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Tupac murder accused told police in 2008 his nephew fired fatal shots",
-          "link": "https://www.bbc.co.uk/news/articles/cly57kzgr0ko?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 21 Aug 2026 18:09:38 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Germany investigates Russia links to weapons cache discovered in woods, reports say",
-          "link": "https://www.bbc.co.uk/news/articles/cp9edjpvplpo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 21 Aug 2026 16:26:53 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Ethiopia's Virgin Mary festival in Tigray cancelled over drone strike fears",
-          "link": "https://www.bbc.co.uk/news/articles/c24me64n31qo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 21 Aug 2026 16:20:55 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-21T23:53:37.099Z"
+      "updatedAt": "2026-08-22T01:35:18.531Z"
     },
     {
       "name": "NPR",
@@ -109,11 +109,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-21T23:53:37.336Z"
+      "updatedAt": "2026-08-22T01:35:18.915Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Trump threatens lawsuit against nonprofit that questioned whether National Guard plan lessened crime - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObFV2NWFLWVhic0ZzMUdRMzQ1Z3c0VlpCbXFuLVR5b0dpN3llTnZrd2MwUlJRSkpxRTlCT2F0QmFlekpQdDhiLXhYTHI2dk5Pd2JPb2s1NlFfTTF1Snl2SUpIQTh2dnZsYzRLakJ1bzJPX1BTTUdLc3N3eUc2SThvYUhBUkkybUtrdjRPX0ZwZEFiN3VlMmo0XzJrb2hjSnYteXdFNnZ2REM?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 23:21:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Pentagon dismisses Stars and Stripes leadership after editor, reporter oppose military interference - AP News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMUdoUkpLcFVnOWFKMlJ3bkZLR2VKMndOal9mR2QxMG5JMl9ZeUJXd21Relp6OUgtd1FRTU8wSmFkczh2YjVBQ3FjQ190MjY2dER4WnEwSkZtWFJQT1lqWFhSTHNFN2pGRVBIVUh2cTFiTktZd2RINHVxc2w1UjFvSUZFU2w1b2RiSWZfTTlDY2xMRkdHZDREQXo2aU5ZYXFC?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 23:21:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Plane crashed on second attempt to land in heavy fog in Alaska, killing all 8 aboard, officials say - AP News",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYjJWZE9raUpObEpLRDllTXBEeUw4N1I3ZHlfbjk3RExjZXJhd3dwdkFYNktNVkwzaUNQM3Q2d0ViUjEwMFAxeVFScHBueTRSX2RnOVMxMThlRldWa1RPOFZvR0ZEWFlzZjE0N1UzX3M0S1c1RERITXVzYnZyX1JGQldnWXJmd29jbDRCWUs3S0t3emxwb0E?oc=5",
@@ -121,15 +133,9 @@
           "source": "AP News"
         },
         {
-          "title": "Trump threatens lawsuit against nonprofit that questioned whether National Guard plan lessened crime - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObFV2NWFLWVhic0ZzMUdRMzQ1Z3c0VlpCbXFuLVR5b0dpN3llTnZrd2MwUlJRSkpxRTlCT2F0QmFlekpQdDhiLXhYTHI2dk5Pd2JPb2s1NlFfTTF1Snl2SUpIQTh2dnZsYzRLakJ1bzJPX1BTTUdLc3N3eUc2SThvYUhBUkkybUtrdjRPX0ZwZEFiN3VlMmo0XzJrb2hjSnYteXdFNnZ2REM?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 22:17:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Pentagon dismisses Stars and Stripes leadership after editor, reporter oppose military interference - AP News",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMUdoUkpLcFVnOWFKMlJ3bkZLR2VKMndOal9mR2QxMG5JMl9ZeUJXd21Relp6OUgtd1FRTU8wSmFkczh2YjVBQ3FjQ190MjY2dER4WnEwSkZtWFJQT1lqWFhSTHNFN2pGRVBIVUh2cTFiTktZd2RINHVxc2w1UjFvSUZFU2w1b2RiSWZfTTlDY2xMRkdHZDREQXo2aU5ZYXFC?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 22:14:00 GMT",
+          "title": "China investigates comedian after he altered a revolutionary song lyric onstage - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYVVCc3RVS0lCWXQ0UW1LaUZ4VWE0NlpRZDZDLU5HVlFCdXFTODQzeFVlQkhEbFUzYkNPYmMxckxlc1FXaGxZM09sSVRXdG5FNE9IaGhFaW5sQnc1Zk43c2FSN2k5YnNlY2RfTnozTFJMU04tY19NenhLd2ZnNUxDR1lvR0QtMkhOdW8yYVU2bE5DN081ZUNUNjl3cFp4Z2FvNEVNclloSQ?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 22:20:00 GMT",
           "source": "AP News"
         },
         {
@@ -139,15 +145,15 @@
           "source": "AP News"
         },
         {
-          "title": "Tropical Storm Moke forms on track to bring heavy rain and winds to Hawaii - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdVJkQnQzNHZ4c0lXNDZlZDlqS1Nvc20zX3dNS0l0Mk9JUGR4b1lfYlMzTUNFVW9ERVVPREJsc0hXZ0prbDRVV1RhQVI3OVphVEdnQk03Vndta2tENmVaeXNXczFVZ292VlVSeGRuazZWb05GQkVaOWYxR1NxYnZIdVhZdEt1SzNKWDJqMVRMOVUtYl9ULVpvVzRDeXd1STdka2c?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 21:10:00 GMT",
+          "title": "Court cuts $50M judgment against Infowars' Alex Jones over falsely labeling Newtown killings a hoax - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdkRnRTdwVmJVMi1VSXFycVBET3c0Y1RjMU4yNUtxWU9GWGZSUGFaaUhkWE5PUVNmLXlnZWxsTG1TYWFfN1NvbnlIRDdyMl95bUNpbzR0T2w4Q0tIMUNWYjNGMHJUT0Rfc2xwY1FtSXU1Q1ljOWMxc2lFNWVITjJtVlppT3cxVjFSY0wxLVRFMzg?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 21:45:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Court cuts $50M judgment against Infowars' Alex Jones over falsely labeling Newtown killings a hoax - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdkRnRTdwVmJVMi1VSXFycVBET3c0Y1RjMU4yNUtxWU9GWGZSUGFaaUhkWE5PUVNmLXlnZWxsTG1TYWFfN1NvbnlIRDdyMl95bUNpbzR0T2w4Q0tIMUNWYjNGMHJUT0Rfc2xwY1FtSXU1Q1ljOWMxc2lFNWVITjJtVlppT3cxVjFSY0wxLVRFMzg?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 20:56:00 GMT",
+          "title": "Tropical Storm Moke forms on track to bring heavy rain and winds to Hawaii - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdVJkQnQzNHZ4c0lXNDZlZDlqS1Nvc20zX3dNS0l0Mk9JUGR4b1lfYlMzTUNFVW9ERVVPREJsc0hXZ0prbDRVV1RhQVI3OVphVEdnQk03Vndta2tENmVaeXNXczFVZ292VlVSeGRuazZWb05GQkVaOWYxR1NxYnZIdVhZdEt1SzNKWDJqMVRMOVUtYl9ULVpvVzRDeXd1STdka2c?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 21:10:00 GMT",
           "source": "AP News"
         },
         {
@@ -155,24 +161,30 @@
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNM1pOdkZzQjY3ZlpmcEp5ZVhjUTRtX3E1V2M4bnY0ODVFQnlBTnUtV09mREtvVXBVVnk0SVZhT09FYkhzbElvbE5KVTVWandkdTRaZjlIU3A1b2tOWDNTb1pER0lNdWZUTnBkWUlKd3NaaHpZMnFJSmNObUd5eWlZUC16TktQamdFQzFLQzlOUWtBdjRBSFlHSElUS083WUpKTnZhMkhB?oc=5",
           "pubDate": "Fri, 21 Aug 2026 20:46:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Supreme Court's chief justice allows work on Trump’s $400M White House ballroom to continue for now - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWF96endSSklBQ0dCRVBNcjNPdEFVSS02dU5ybnNIeDdNOTlhZ0gyNVZuWm05YndRbTF6VkctQVFUdDRXeklSbDFJS3laNC1vaGt6NGZZWGNlREo4YXE0MXFuNzNzaU10NnVBTjRXS2MyX0RWNi1MRVBlYjZyVWNDZVVHdGV6cTg0WlItLTR0ZFFuUDFuMjlqV1JwRzBPZ1A2REE?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 20:33:00 GMT",
-          "source": "AP News"
         }
       ],
-      "ok": false,
-      "updatedAt": "2026-08-21T23:28:58.850Z"
+      "ok": true,
+      "updatedAt": "2026-08-22T01:35:19.385Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Tesla and others begin record vehicle recall in China - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQjEyamNWRHVrWi10M3pudDZBWVhwa1pMU2MtRkhpY1BEUEVab1lOaVljX296UVVraG9vcUVOczZndEFfVXp4Y0lEdUpzX2tHMERTMGFsYnQ4UklkMVBRbGx1RElGbFRDdGVsazdUVlhuQjQ3NU9XTXNaMFlqNi1GWFdXV01zWjFVZ0pRaklBdFFuRnFVOElxSG1YVHlKNWFY?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 23:02:17 GMT",
+          "title": "Russian 'double-tap' strike on shopping centre in Ukraine kills 16 and wounds 130 - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOME1nc2ZfV3l1LXlTQ29EZlNTd3drS1ZwNHBnbTdKd3VmVG5ZYkVpWngxV1BNQWFWY3VEMk8tVUVSX215cEgwV0ZRejFmR05LalNab3dkLXNwMTVkSmxDd3hlYjRGMkVZRHBlS1lQbU15R0hCQ3lvWHNpSW5QbUNvSmRVWnZhSVlYYW5IWUJCZGFTckZTdlVDNE9Wb3JsWkFvTHRkNmVscnNFUQ?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 23:57:21 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Mexican governor accused by US of cartel ties returns to office - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRllacHoySWMzOVhfVHo4WU1oaDZubUdLVU1YWXpBZV9XSGI1azZ2Ul9NMFNhNTI1ZjNVRjFzcm9sbHJ6Y01vR25xTWpIS1ZqTzhmQk1Dd3pBYXpZc0pPbGlWM3haUEFZOS1kc3JIcWxQV2xaVHkyQ096STFseGp1ZWF6REZJbkVuaUN1YXQ2bVJ3SVVlRjZQVkNWTXFydHhwakoxMmhQNzFrWHQz?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 23:28:41 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US imposes deep Colorado River water cuts to California, Nevada and Arizona - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTG5vMnF2Z29oaHVGUzNEclJKb29zUzkwNlFvNkZmcVdCM0RlREJaODV3RGpRQVdxQkdQa1V6d0w3YnlzNGFMN1NTdmwzLXNUMmUwWHY3S2ZXTGVNWjVsN1lsT3FySFIzRER6UnJGbFczWVVNdmRVM1Vjc0JYVE1SVVZvTlB0X01RaVV6UW5lQTdlY3MweXluVlY0WDcxbmNTWFplU3g1RFFaSnUtdGQ3TGhkMDBEMHFKei1rTGg5QQ?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 23:00:11 GMT",
           "source": "Reuters"
         },
         {
@@ -188,15 +200,15 @@
           "source": "Reuters"
         },
         {
-          "title": "One killed, three injured when man attacks Swedish school with sword - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYld0b2RsdVRvRlhCVVpCRWJVYkpTeTY3SlFmcWJsSC1majhPVWFXRVAtMDdsTHJMT0FxY2RKMTFxRmpCRkxTTTFZMGI5RDctTmROWmplNDFBY0FVRzVMc1lEMnlCN0VjcE13anpXR0RfNDJkaVIzYUdQMWRnTWlGM3dwT01KNm9HcmlZYmI2ZnYwbzR3Wi1fSnQtM1VlYlRwQVk5Z2prSEEtWGo4UmhNaEhjNmlnSmVF?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 22:21:44 GMT",
+          "title": "Explainer: What we know about the door handles that triggered China’s record auto recall - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbXFlcVNMekU3YWJITDg1aW5RMnhiZTU3OHZld0Q3aFdoLXRYMUpBVF84cmZHOEt0WklReTR0QUNwaG5qYU5KVHl3TmhfZjJvOURycHNLanUxY1daUXR5N2ZkZ29tTmY3aDYzUmp2M2g0S1BaS0wxdkIxMjl5cXpmeHo5Vlp1MzNGTEs5dUtETzRlN2g1cXpEMkVFQzY4SmxydndmMng3RmcwVmhqdUIwRi1nd2djSG9PdS1PSXNFQWVRc2tzUVBZdGNMRG5rSGdMeU5kTw?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 22:24:32 GMT",
           "source": "Reuters"
         },
         {
-          "title": "US, Canadian trade teams meet again as tariffs deadline looms - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeHUybEFVcFlsU2tZSVAyZGoxZ1g3ZmZSZjAybE9pbjRURDdFem04SXhZVnZIQW5iUEVscGFmbXNOR2w3d0Y2OEVZSVRlS3JOVXBmamwyWUU0WmRsZlRuZm5Xc01zRnVYV1pYZ2Rfb1pDbnlSM0JZamhsWjUxa083eWZRU2hzZzJIWXRrUlFpajg4a0ZHbk5wYWZlRVZ2SFZQZlVJV24zakhlYVE4?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 22:11:47 GMT",
+          "title": "One killed, three injured when man attacks Swedish school with sword - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYld0b2RsdVRvRlhCVVpCRWJVYkpTeTY3SlFmcWJsSC1majhPVWFXRVAtMDdsTHJMT0FxY2RKMTFxRmpCRkxTTTFZMGI5RDctTmROWmplNDFBY0FVRzVMc1lEMnlCN0VjcE13anpXR0RfNDJkaVIzYUdQMWRnTWlGM3dwT01KNm9HcmlZYmI2ZnYwbzR3Wi1fSnQtM1VlYlRwQVk5Z2prSEEtWGo4UmhNaEhjNmlnSmVF?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 22:21:44 GMT",
           "source": "Reuters"
         },
         {
@@ -204,22 +216,10 @@
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQc3ZKSm5RMU83dFhuYWFPU2JpUWc4TUg5ckc3NXJtT1N3b24wWm92Ykx3ZFFfazdyckpwZW82V2h4YW5IbFhRS0N0ZEF5ZUk2VEVKYVVrUFQwSE1KdUxDTmcwQXlCWENtOHhBaWRBcUZKZUpCZ19PbWt5MmppMF93RjZ0ZS1MYkRzQWtldUhHbklpQ3V0YW54SXI1MXhoVzZJSG9j?oc=5",
           "pubDate": "Fri, 21 Aug 2026 22:03:48 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Sinner withdraws from US open due to knee injury, Draper and Rune also out - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaUlPZDhwbWF5dE9jTWNVdkZySkM1cHlHazVWeEVyUFhPcUd0SEVORU1SY3BWOWQtdkNwcVBCUlFIak1DSnhqUVQ5LVQ3STVCWEJGVGFGbGxyRFlEWlIyNkdTeXdGRV9nWVJVeXhVYjV3OGliaHlhOWdEWFgxeXYtVnZDMlJaWVBtbjRpcXln?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 21:58:20 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Trump told Lula that officials should meet soon to discuss tariffs, Brazil says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSHFjdVZGTkJSOTJTQzFQWXkyOHFQa2NRaEFienkzTWthdl9NY29lTmpPMzVlM3JVaGd5Ui1QTEdPT0xGaHRGampuaUdxdTFXZDNxdHV3MDVMdkNlbzltbGlOM1FDdl9IcVo1X2x4T1FQYWI0U2VWcHVsaVo2RTRRS01OVGkxd0FjU0hNaDliWUlYQVZtXzljU3FYVmt6TTN1ZGc?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 21:46:19 GMT",
-          "source": "Reuters"
         }
       ],
-      "ok": false,
-      "updatedAt": "2026-08-21T23:28:59.310Z"
+      "ok": true,
+      "updatedAt": "2026-08-22T01:35:19.822Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-21T23:53:52.708Z"
+      "updatedAt": "2026-08-22T01:35:20.164Z"
     }
   ]
 }
