@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T10:54:32.411Z",
+  "generatedAt": "2026-08-23T11:25:58.287Z",
   "sources": [
     {
       "name": "BBC News",
@@ -54,7 +54,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T10:54:31.380Z"
+      "updatedAt": "2026-08-23T11:25:56.926Z"
     },
     {
       "name": "NPR",
@@ -109,7 +109,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T10:54:31.453Z"
+      "updatedAt": "2026-08-23T11:25:57.116Z"
     },
     {
       "name": "AP News",
@@ -123,13 +123,13 @@
         {
           "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Sun, 23 Aug 2026 05:51:57 GMT",
+          "pubDate": "Sun, 23 Aug 2026 09:19:03 GMT",
           "source": "AP News"
         },
         {
-          "title": "Buc-ee’s chain draws outcry in Ohio for launching fight over a mini mart’s beaver logo - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQa21VLTBTd0w5c282cEFBQ2JMYXZ3b1pWdndFOW9PaVBXN3RFaEhCUHBEVllYR0pUb1FBemJ3OFZPaE5POGQ4MXZlVVIwb0FsOHRROGZxUEF0dE5EcVN4Y0szajM3TTN5RThNOHllZXpaUFJvSkhmZUNLWGprTEZ1NTg5TEswc28tWHZuTEhnRXR2M1VwSkVzQ1VsV3JHZFgyUjBGY09lNG10UQ?oc=5",
-          "pubDate": "Sun, 23 Aug 2026 05:00:00 GMT",
+          "title": "Officials warn wildland firefighters about the risks of using a supplement for smoke exposure - AP News",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMk1WT3UtdzNMeWFOMXhfaHhIVk9ZQVpZVnVnTk44VGo0aFdpZ3ZUMmlGUzh3YWlsQXFGX3BVY0daVVNBV1V1WW4xd0x6ME9VTy1Tc2xzX0tsemRjZmVzbVNjZXlaV2xOZ1NURG5uUVg4S1ZUVlN3Y2dCVTA1MzVmQWNGWUJHQnZ6QlBFMnRwelJJZ3BXXzlVd2duNFI1N3djaEhqY0ZfZ3pQRWp0XzdWQXlSN2ZKcVU?oc=5",
+          "pubDate": "Sun, 23 Aug 2026 04:01:00 GMT",
           "source": "AP News"
         },
         {
@@ -164,7 +164,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T10:54:31.915Z"
+      "updatedAt": "2026-08-23T11:25:57.588Z"
     },
     {
       "name": "Reuters",
@@ -172,7 +172,19 @@
         {
           "title": "Iran says Pakistan's army chief to visit Tehran on Monday - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb1l4dmU1TFpSU2FINWVIZW5YLTMxaEhxY2hJa0tYZldGeG9Sa2loOFlfZEp5RkFDZ1JVMWQ5Y0VMY3hkeUlxZnh6QzVsTUdEcmJSckU4SGhoUURLN3M4Qi1hbkdXYXk1YWdzRUlKLU5SUmo1bC1tcE5pMzE3bkRYQmN0SW90YXNNQnNxTWZuWWwyM0x5NnRReGFiV1V3b1VOMElSVm5NVE0?oc=5",
-          "pubDate": "Sun, 23 Aug 2026 09:49:46 GMT",
+          "pubDate": "Sun, 23 Aug 2026 11:08:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Syria foreign minister sees Israel security talks resuming despite no trust - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWUpvdEk0SVFqbENrNjRzRkFFODFJb2ZkczFRWVU1OFBTWG5Sd3JDbHRnajBMYzZHNlhGR0lVNFdTQlZIMFJVOTZadXBGWDdianhfWXBjcUVTZ0ppbllKZnBfU05zeU5ONS10M2dFOHRpbWZEeFItR2hSNk8xblFlaHRWVTdpUzRPUWt4eTI2UzBTNHpZbHVpemlmTEdMbzY5aTFqWUNCclJ6aVpSeklsa2xDc19jb0dzOGh6ZTNRUVRZT25xNjVZMA?oc=5",
+          "pubDate": "Sun, 23 Aug 2026 11:05:49 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Putin wants to draft 300,000 new troops, Zelenskiy says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNM3pBalhkVDdUUXRxcVhPUWZjN1pRczkxM2g1ZngybEJNblJiMUllNXFRRzVhR1IzdTFXNEJ3RGtRb2pQYV9ocm1tWFhYS0E4YnZwMHVzeTl3Q3k1Y21uRmI5Z2NtZDBTN2ZHa3hJQXk1M2IzNmlSSk9vQ3J6TkRMSl84eDVNTVF3cThacVltODdEdHE5WVcwZmRLV1RzRUZyUVpZUnE4b3BmYTdpMTBPeUVkbVlBdXdGTjB1eWpxQ3lEUQ?oc=5",
+          "pubDate": "Sun, 23 Aug 2026 09:52:55 GMT",
           "source": "Reuters"
         },
         {
@@ -194,18 +206,6 @@
           "source": "Reuters"
         },
         {
-          "title": "Putin will draft 300,000 new troops after September elections, Zelenskiy says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNM3pBalhkVDdUUXRxcVhPUWZjN1pRczkxM2g1ZngybEJNblJiMUllNXFRRzVhR1IzdTFXNEJ3RGtRb2pQYV9ocm1tWFhYS0E4YnZwMHVzeTl3Q3k1Y21uRmI5Z2NtZDBTN2ZHa3hJQXk1M2IzNmlSSk9vQ3J6TkRMSl84eDVNTVF3cThacVltODdEdHE5WVcwZmRLV1RzRUZyUVpZUnE4b3BmYTdpMTBPeUVkbVlBdXdGTjB1eWpxQ3lEUQ?oc=5",
-          "pubDate": "Sun, 23 Aug 2026 08:17:43 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Syria foreign minister sees Israel security talks resuming despite no trust - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWUpvdEk0SVFqbENrNjRzRkFFODFJb2ZkczFRWVU1OFBTWG5Sd3JDbHRnajBMYzZHNlhGR0lVNFdTQlZIMFJVOTZadXBGWDdianhfWXBjcUVTZ0ppbllKZnBfU05zeU5ONS10M2dFOHRpbWZEeFItR2hSNk8xblFlaHRWVTdpUzRPUWt4eTI2UzBTNHpZbHVpemlmTEdMbzY5aTFqWUNCclJ6aVpSeklsa2xDc19jb0dzOGh6ZTNRUVRZT25xNjVZMA?oc=5",
-          "pubDate": "Sun, 23 Aug 2026 08:04:14 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "Russian online retailer Ozon warehouse in Orenburg region hit in drone attack, governor says - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZEtRSXowX3U4YjNkc2Q5UURqaXBPb3BZZkdJQU1WakxIUUVCX3hzdFF0QXhMbUx3bWp5SHpQT1pyTXNTd2NVelFvb3JrVHYwbExzYjR1aU84TlhFWEdUQXpab0U0NEhONVZmcnd1QjUxSE1ROUdRNHlMelk4c1ptQzVKSDQtWG5Bcm5IYWN2Yk5XZkZaMGlPR0JjYTdVTm5nanRvb24tM3VzYWR3aDBUMlVaNHhINEgyeV9LZFFPUQ?oc=5",
           "pubDate": "Sun, 23 Aug 2026 07:50:41 GMT",
@@ -219,7 +219,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T10:54:32.328Z"
+      "updatedAt": "2026-08-23T11:25:58.006Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T10:54:32.411Z"
+      "updatedAt": "2026-08-23T11:25:58.287Z"
     }
   ]
 }
