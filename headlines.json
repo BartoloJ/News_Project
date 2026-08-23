@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T03:08:25.166Z",
+  "generatedAt": "2026-08-23T04:10:21.042Z",
   "sources": [
     {
       "name": "BBC News",
@@ -54,7 +54,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T03:08:24.442Z"
+      "updatedAt": "2026-08-23T04:10:19.856Z"
     },
     {
       "name": "NPR",
@@ -109,11 +109,29 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T03:08:24.525Z"
+      "updatedAt": "2026-08-23T04:10:20.068Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Eagles' Ja’Quinden Jackson has movement after being taken off in ambulance following injury - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNanVEb1RTU09HeEJNa0tIaFVidlhyU0hxUVdldENOZFpkQ3ZQQkNyc2R0TzlRNy1oblNTREpteFJDM2s0aFhWV3Q3blkzNW1FZjFHTGtVOFI4ZjBsc194RDZtUmhvNmVpQkREZzdSdmNpU3pLc0I4VzVKdWxNSkx4cFRnSEt5SnY1VVlfS3BIUjVwZmZQZHFSdWI3TFZDOUx5TGc?oc=5",
+          "pubDate": "Sun, 23 Aug 2026 03:20:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Union for Boston Symphony Orchestra musicians authorizes first strike in ensemble's 145-year history - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYWJVRld5Vk1RVUU3RVRiSVhwLTg4aEpQbUVVRERDS1o1bTlGdldOMVpLNHNKc3ZWQUp2WG44MjZMYk5TQ1h1WDhHZVpXbFMtdkVueklUWVdNbzJ1U0w4OEpXcTJhcVRHVURhQ2VhMURqdDdJY21YVFN1eVl6cl9QVGphNVh2b2dFblE?oc=5",
+          "pubDate": "Sun, 23 Aug 2026 02:49:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Deshaun Watson calls booing by Browns fans 'disrespectful' and 'personal,' but QB feels love on road - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZlI0LXlzSmxSN2x6R2VGcG5oUHdpQUlLc2xodmw2MmRYZzNyTHZCajRTRndxYUdPbnF2ODhodFdCTUo5eXRRc1NjTHBSVEI4cnZCcFVnUmpwdVRzVllqcXBPRjE1VUZ3TG5DVGEwUmJvVW9zcTAtRUhnN3BNa3k1RDNUN0VlZlJZ?oc=5",
+          "pubDate": "Sun, 23 Aug 2026 01:30:26 GMT",
+          "source": "AP News"
+        },
         {
           "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
@@ -143,28 +161,10 @@
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZXRYaDRQbVhWeGwzNUQ1VUQ0M3c0azFDOUlOLWJONlVwZ243SVhlTnNDMkpqdjRhTTQ5TXFWTVBYa0RuOVpSWUptVGw5ZU9EMUtOVEhOY1NEN2ZMT19MdkRpUHlCcjBPQ2pJSTJJNzFLX1dOZ2ZFMkh5LTRUaGFMOUJzVjRWd3l2?oc=5",
           "pubDate": "Sat, 22 Aug 2026 21:59:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Chinese humanoid robots smash human records in 100m sprint and high jump at Beijing robot games - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMUkxanIwSTVhd2xuNTUteVpWQWJlQXF1M2c4R2RSM25vTTlENHZMSkRaNGJXR0Fsd1QwUmhyX3NtU3dNalg1dlBKWHJMRnJXOTNZZkJ4cDNxbmJDdEQ4YXdpZkdJZGxTT2gwR21NUzRnZnpfY1dibWF2cVVFRllELWJ1eDVzalBLLWh0M3lKNlVUR1k?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 20:42:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "What to know about Trump’s 50% tariffs on Canadian goods that just went into effect - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVHl1OFdkU2VpRThnVkF0UE9lcXYyeERtOFZOMDNQTHZTR1VxU3pzVWc4WEs4TXFIcnNtYThhWmVzOHprcmNwbDBUT1RwekVBd003ZGw1YUZwTXlZa2E0d1pIUFdmWVd5enRtYW5tbjlzSmw1aFVhMF94Ni01TlJsTEtfVWdLR2FtclRPUWJYLUxSMDZCam1ESw?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 20:37:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "A trade war between Canada and the US further ruptures a once-close and durable alliance - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQVlYNWswSUYyM3pKRmI0SGpaU3k2WEVGa19ubU5fZmNRclBiMUpRcHFnRGU4SzZoLVVVbWxsR25fTHZ1NzI1ZUswYVdXUk85MnpTc1NpakhqSC1OMk1KMG5CcGdmaF90TVIyanhiWUNweTRzVVhFQXJhaXllQnlOMFo1Z2ktRmZKNEdpTEtWb2IzVmFaQ1RuS2pOLTJPcVdmWEE?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 18:31:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T03:08:25.042Z"
+      "updatedAt": "2026-08-23T04:10:20.529Z"
     },
     {
       "name": "Reuters",
@@ -219,7 +219,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T03:08:25.063Z"
+      "updatedAt": "2026-08-23T04:10:20.897Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T03:08:25.166Z"
+      "updatedAt": "2026-08-23T04:10:21.042Z"
     }
   ]
 }
