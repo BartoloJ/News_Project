@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-08-23T11:48:56.895Z",
+  "generatedAt": "2026-08-23T12:51:03.952Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "Dozens of co-ordinated arson attacks hit southern Thailand",
-          "link": "https://www.bbc.co.uk/news/articles/c8enegx4xy3o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 23 Aug 2026 10:22:32 GMT",
+          "title": "Robots compete in boxing, football and sprinting at World Humanoid Games",
+          "link": "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 23 Aug 2026 12:47:06 GMT",
           "source": "BBC News"
         },
         {
-          "title": "Robots compete in boxing, football and sprinting at World Humanoid Games",
-          "link": "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 23 Aug 2026 09:42:05 GMT",
+          "title": "Dozens of co-ordinated arson attacks hit southern Thailand",
+          "link": "https://www.bbc.co.uk/news/articles/c8enegx4xy3o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 23 Aug 2026 11:50:59 GMT",
           "source": "BBC News"
         },
         {
@@ -54,7 +54,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T11:48:55.904Z"
+      "updatedAt": "2026-08-23T12:51:02.274Z"
     },
     {
       "name": "NPR",
@@ -109,11 +109,29 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T11:48:55.979Z"
+      "updatedAt": "2026-08-23T12:51:02.642Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
+          "pubDate": "Sun, 23 Aug 2026 10:19:43 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Kazakhstan votes in a parliamentary election expected to strengthen president’s grip on power - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQLWZUcG45aEgwVnNzYTRhVGdVSkdYTUZLem9fRXhneGpWODR6ZDhqRndkNWJ6a1V3M1ItcGJ5SG5kX0lZYTY4alk4ZVllOU5sMGthVFUydHN3YUFyWFRGOGI5bDdrRjNaX3BnSGRESUJXWVBQTkJ0cHFXWlhuOVRSd0tOc0w4M28zTk41ZW11NC0?oc=5",
+          "pubDate": "Sun, 23 Aug 2026 10:19:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Iran’s president says US memorandum is best path out of stalled war, and other Middle East news - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaHdQUFYyOHpTM3RqRFRpLVhoaDJZNVdRZFhqS3pDRHpkSlJ2VUxPaG0wUVN0WWpwQWphNzFGUFM0SHpHZTh4QW04cllJRTJsRWRCMWpSLTFpUS1TR0Q0elNabDVMcC1Iek1hZHFEN3hUeG5Rc2xHYTM5RnVzdGFDUDR1ME5KYWNYX08zcTNpa0stN0E5R2FpY09sSXdvV1FkV0kxa3I4LWQwT0gy?oc=5",
+          "pubDate": "Sun, 23 Aug 2026 10:11:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Zelenskyy details rift with dismissed defense minister, saying some of his actions were misguided - AP News",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONV81OVhGQUZYeXc2ZU5aQUlwZWRCdGU5OGlqdllsZXVZbEtJQzVXQ05ZMlZVRlVua0xUdDRpVmg3b25KRnNUbEVPc1JhQks5OHlPYi13RDdleGNxM2tlWnV2TUxYMXRsenNSN3VmdEoycFVSaFNEVll5Um1fOUFxbUNac3lfM1pTbTg3WVpHd21IdnU3R1ZkS2dyai0?oc=5",
@@ -121,9 +139,9 @@
           "source": "AP News"
         },
         {
-          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Sun, 23 Aug 2026 07:57:42 GMT",
+          "title": "Dutch Grand Prix sees a potential path back to F1 amid Middle East uncertainty - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcGVkQ2lxMENWRFVXdWxNRVpzQ0lFYmFyaUlmazRkb2JzNEhnUUFjX2dFUGxEUTJxS2QyRzI0bkp4U3gtNFJ0am9MMDhuc09LZzN6ZjRJOWtOdl9namJHaUpQYmd1Q2NnQk51Z1dqbmZ0ZW9haTk1dG5paFJWSENmSnEtT3NOVlB1d3B4ZA?oc=5",
+          "pubDate": "Sun, 23 Aug 2026 08:15:00 GMT",
           "source": "AP News"
         },
         {
@@ -139,36 +157,24 @@
           "source": "AP News"
         },
         {
-          "title": "Tropical Storm Moke advances toward Hawaii as winds strengthen - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOFhJUENlV3lDN1gzczBrRVVjWEFpdWpqcFhjWmtveXlGOGREU1VLV0JNZVFhQU4zSE1jU3VWTjFMaVpQWVVqOF92ZlZmVlpPa0duN1RZZmthTjVSNjhCdnpNUFlOY21Gd3FNYi1JZk1xd1RWYTloa1UwYWt1QU42N1VNQVg1NmpvRVV1a0FHQjU3d21zNUdLUHNFaHl6R2g4R2xz?oc=5",
-          "pubDate": "Sun, 23 Aug 2026 01:08:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Deshaun Watson calls booing by Browns fans 'disrespectful' and 'personal,' but QB feels love on road - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZlI0LXlzSmxSN2x6R2VGcG5oUHdpQUlLc2xodmw2MmRYZzNyTHZCajRTRndxYUdPbnF2ODhodFdCTUo5eXRRc1NjTHBSVEI4cnZCcFVnUmpwdVRzVllqcXBPRjE1VUZ3TG5DVGEwUmJvVW9zcTAtRUhnN3BNa3k1RDNUN0VlZlJZ?oc=5",
-          "pubDate": "Sun, 23 Aug 2026 00:18:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "How bitcoin and gold went from a slump to an MVP week in just a few days - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUG54cnh0XzJTWVMyVnl0b19hdFN1TGhnWE1xcE1ER2h5VnpTNmpOdkxEUWpRaWt5WnVUS1JCVnFWb0lxSElTQ3pENlNCVFNvYnBMWE9KbVdNNmJjOU55SzNIa3VkcFpwcFlXcXVSekZkdTBqSlA0LVRIYzVBYkZLYkpodkdPYWhvRFQzLWNIaTRlVVdPT0F4WmpDeFl6SjJ3c21ZRVl4UzNCUkVPVjR5ZU9B?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 23:58:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Breanna Stewart wants a safe space as transgender debate sparks rallies at Fever games - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLURsNmY0WWpNV2pPMkdoM3VDcHA0VURYaWlKd2IycWhtMFBoRVBSRlZlMC1SNV9MV2lrWDhDdXp5X0JZU0M0MUhmN2ExTDY0VFlHcldrbWVnVVkwY1JuSlFfa2l0c1ZtdGkteHRGMC05TDYzWGcyaEJNZ3NNc25pa1FCV1ZadHJqa2FLTmo3emlCaTNySzNPVzg4d1Q5Uzg?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 22:35:00 GMT",
+          "title": "Liberty beat the Fever 109-102 as Fiebich returns with 20 points in her first game since July 3 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNmZyNDJKVGowVzZpYnVTN3drN3EyeW9UR2tZOUFiNTBsVExlY0pVNVJ5NEFCUEozUmRfVmxSSXdfWk00VFViX0Y3dXctWnA2cWtHVTZIbzB0SzgzdUNRRGU2YWhpZjY0XzRJU3BPZGVDUXh2RDg0LUdmRE1JODFlRUJKZjNRQQ?oc=5",
+          "pubDate": "Sun, 23 Aug 2026 01:37:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T11:48:56.377Z"
+      "updatedAt": "2026-08-23T12:51:03.277Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Trump caps summer of US 250th birthday with auto race through Washington - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSGxpQXR6TFM3a211MXJac09OMXk5cEVWb2ZjZlYtWHZTWG1pQkhMM2V3Qlh3bzJsMW42aTRXaDEwMUNMLUlVb2JQWkVZZUkxbXFVRkprQUxBQTNSbmdTbnlMdk16UnN2NEJVSnRSclFFUzBIbGg2V3h2SzRiYXFMY2Q0aXYyVE1id0tXRFhlaGJrTkFUMkQyYmJwQU9Lc24teHRmY1Q4Yi00T3A2VkNyMnZWTEw?oc=5",
+          "pubDate": "Sun, 23 Aug 2026 11:14:57 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Iran says Pakistan's army chief to visit Tehran on Monday - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb1l4dmU1TFpSU2FINWVIZW5YLTMxaEhxY2hJa0tYZldGeG9Sa2loOFlfZEp5RkFDZ1JVMWQ5Y0VMY3hkeUlxZnh6QzVsTUdEcmJSckU4SGhoUURLN3M4Qi1hbkdXYXk1YWdzRUlKLU5SUmo1bC1tcE5pMzE3bkRYQmN0SW90YXNNQnNxTWZuWWwyM0x5NnRReGFiV1V3b1VOMElSVm5NVE0?oc=5",
@@ -210,16 +216,10 @@
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZEtRSXowX3U4YjNkc2Q5UURqaXBPb3BZZkdJQU1WakxIUUVCX3hzdFF0QXhMbUx3bWp5SHpQT1pyTXNTd2NVelFvb3JrVHYwbExzYjR1aU84TlhFWEdUQXpab0U0NEhONVZmcnd1QjUxSE1ROUdRNHlMelk4c1ptQzVKSDQtWG5Bcm5IYWN2Yk5XZkZaMGlPR0JjYTdVTm5nanRvb24tM3VzYWR3aDBUMlVaNHhINEgyeV9LZFFPUQ?oc=5",
           "pubDate": "Sun, 23 Aug 2026 07:50:41 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Vietnam approves customs law changes to strengthen IP enforcement - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMmpSbHcyT2NYU24yV05UTVg0NjlvZG1nVWlxWEFkZW4za21STmJPaVJXN3hNRk15TmNpaktmUEpjT0tEWF9pX0tjeXhialVoRUxZa0xCejhsQ2ZSMldGRDBGcmpocDdRR0xZYzNqVzVReXpqY2hJMHU1c1ZZRHRvNDJKM0JDOWd0LU5GUlU3STJyV3NrdU85NXhnT1V2c1dOckJucVpXYnJBUEpoNkdIOHpkT0RNdw?oc=5",
-          "pubDate": "Sun, 23 Aug 2026 06:44:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T11:48:56.720Z"
+      "updatedAt": "2026-08-23T12:51:03.661Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T11:48:56.895Z"
+      "updatedAt": "2026-08-23T12:51:03.952Z"
     }
   ]
 }
