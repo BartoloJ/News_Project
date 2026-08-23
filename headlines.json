@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T22:52:00.104Z",
+  "generatedAt": "2026-08-23T23:26:03.182Z",
   "sources": [
     {
       "name": "BBC News",
@@ -54,7 +54,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T22:51:58.733Z"
+      "updatedAt": "2026-08-23T23:26:01.760Z"
     },
     {
       "name": "NPR",
@@ -109,11 +109,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T22:51:59.031Z"
+      "updatedAt": "2026-08-23T23:26:01.942Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Sun, 23 Aug 2026 23:04:16 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
+          "pubDate": "Sun, 23 Aug 2026 21:48:57 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Shelley Fabares, 'Johnny Angel' singer and actor in ‘The Donna Reed Show’ and ‘Coach,’ dies at 82 - AP News",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNN3JnR3AyekN5b3ZsMjFHWnZHWmhOcDMtdzJIV3NCVkdDdk13dFVxQ1Z1aFVVMXVJOGRuSFVtNUJtNk5jV21tUHdpaW5GUWU5TDhoMW5sVE5abm40amVwODhkR1F2ZjlqMFBUNFFvTVlad09EN013aTVteWw3a0Uzai13VkdrRlBQN3dIMA?oc=5",
@@ -133,27 +145,15 @@
           "source": "AP News"
         },
         {
+          "title": "Officials warn wildland firefighters about the risks of using a supplement for smoke exposure - AP News",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMk1WT3UtdzNMeWFOMXhfaHhIVk9ZQVpZVnVnTk44VGo0aFdpZ3ZUMmlGUzh3YWlsQXFGX3BVY0daVVNBV1V1WW4xd0x6ME9VTy1Tc2xzX0tsemRjZmVzbVNjZXlaV2xOZ1NURG5uUVg4S1ZUVlN3Y2dCVTA1MzVmQWNGWUJHQnZ6QlBFMnRwelJJZ3BXXzlVd2duNFI1N3djaEhqY0ZfZ3pQRWp0XzdWQXlSN2ZKcVU?oc=5",
+          "pubDate": "Sun, 23 Aug 2026 21:35:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Human-caused wildfire approaches Reno, Nevada, forcing thousands of evacuations - AP News",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVUpEM0MwOHJxRV9tR2NuUkV6NFFBSzFwRHM3dmp2Z2U1TlBaTVRWY1ZDNDg2U0NTX0V0dlJVSkVNZF9FV1dDY2F4ZFBaMkhuVjl1MHRVYXZPZm1SUlRCOEZoa1lTZ0toek0wYVJIN2d0eTEtSXFYLVdOVFNOdHZYM0pzZXNKb2NscjNFLThoX1hpZmgzcHJoTQ?oc=5",
           "pubDate": "Sun, 23 Aug 2026 21:20:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Two Phoenix police officers arrested and fired after violent, unreported traffic stop - AP News",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVUotdkxKNm5Iei16VW5VS084ZGo1dkU4cUpueC15YWJaZFRTZXc3WllpNmpDWWlzeE9jc3lVRmxTekVVY2ZPRlJqQVpmS21PZjY5SXozUTNnX1RHamM5ZlFDY3lNd05vXzBJcW54MVFxQjdpQ0NfUFNrV0xrV3hKNmx2M2tHQnpOUGFEUVpJYVZTVDYxTFBuUWg1VWxwbVlK?oc=5",
-          "pubDate": "Sun, 23 Aug 2026 21:17:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Sun, 23 Aug 2026 21:06:26 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Sun, 23 Aug 2026 21:06:17 GMT",
           "source": "AP News"
         },
         {
@@ -164,11 +164,29 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T22:51:59.515Z"
+      "updatedAt": "2026-08-23T23:26:02.452Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Israeli airstrikes in Gaza kill two people, including 4-year-old boy, medics say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaFU5eGhHTHlWTGEwdF9hVzNLSFJMR2hZWTRFOGQ0aFNvVmFzaTFsRmRGa3JPZVhFcFFfeUs3YmRCYjBtNDZmYi15WF9xLUpjeDJXYThlaUFTNU5ISkMtTDl6MUo3N25rSmRWbXVpN1dhdzJ0QmpxZGFKRDMwcmlWaS1IOTVEM1NwY05Xdjd2ejZJcG13c2NjRmVrVHJZNEEwYTVmYW5fb0I3Zk01eGgzMjE0dHpDUjlrVFFzUVpKdlN4QjFoZVZ6dDBR?oc=5",
+          "pubDate": "Sun, 23 Aug 2026 23:00:07 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Syria foreign minister sees Israel security talks resuming despite no trust - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWUpvdEk0SVFqbENrNjRzRkFFODFJb2ZkczFRWVU1OFBTWG5Sd3JDbHRnajBMYzZHNlhGR0lVNFdTQlZIMFJVOTZadXBGWDdianhfWXBjcUVTZ0ppbllKZnBfU05zeU5ONS10M2dFOHRpbWZEeFItR2hSNk8xblFlaHRWVTdpUzRPUWt4eTI2UzBTNHpZbHVpemlmTEdMbzY5aTFqWUNCclJ6aVpSeklsa2xDc19jb0dzOGh6ZTNRUVRZT25xNjVZMA?oc=5",
+          "pubDate": "Sun, 23 Aug 2026 22:57:03 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Mariners' Brendan Donovan placed on 7-day concussion list - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWUZqMDdSV0M4Q2dRVjVrUzYtZFA1cjJ3Y2s5dkVBTno3ekpZMUZWdkNJNFY5SUNTeGNaSFZYa3pwbUQ1RjRUeG53V001ZHhxWWd4ZlpjTmhBay1EWC05aHd5WHBDdmo5TlhWN0J5TDMxdC0zNXFHVVBCY0JEQnlWeU5wSmdmNEJOYlI1c29Ua3liSVNxZ0dpWFhFNnV6eV9ISHpz?oc=5",
+          "pubDate": "Sun, 23 Aug 2026 22:54:09 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Landslide at Guinea landfill kills 30, government says - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNTdhSU5pTjdVYUdWZnhGczIwbG0yYW1DZldpTDJHSkdzUFFrejlibXBSTVJIeFhQZndMd1VRUXUzSnU0MmN5UHhvV3ZuSUU5aGJVbncyb0JUcUl0RTV5XzRQTG9tZ1Y2Um41dGZ3LV9rUmdaSmstdUVyRE5NWGI3NjdWNUJ5a0xXdUJ0MGx2TENSQmR4Szd6SWYzWHZqdC1tYXhTR194aFQ1V1E?oc=5",
@@ -198,28 +216,10 @@
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ0UyYlJfR0swcWM4cTlzdmlMc3l5aUdpbHZUOFFfMVNEbVdlTnB3dGJRTjNjY21WSEZmdkR5aGdZMURMOV9PYWpVdElOcEFzLUk2MzFDd2h3UTY5MGt0LVUxT2dKMDd3elVmd09RNEdIRmszNDE3N1lpY1ZDTmZteTVaeXJWcFZUZTdEZ2FCSEVKaDBWQVFjTktpc3J5RnpDdG11YWNDM1dJeVdZc2R0TDBKNA?oc=5",
           "pubDate": "Sun, 23 Aug 2026 19:28:54 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "French politician Glucksmann launches presidential bid amid fractured left - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdjJacDNYWVJGekp2dEdlUEsySE5IRTlxRUkycG5iYXFzc1BNTWk0dXhzT211TXNvY0d5RW1MOFJmS2Rlejh1c0RFUFZEem9nb2RFWUU5VDYycHFXZy1LMjlfbHJPUXlCU3J2WXBTSFhNbkxtU0ZJeW93QjZ2cS04d0pteHFfOHZqU2FJWjhmVWt2MElwXzZlNlJCa01uSjNDZmU3ZlRlYVBpeC1xZjAzSVhCcEVQaEk?oc=5",
-          "pubDate": "Sun, 23 Aug 2026 19:13:43 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Norris wins Dutch GP as Antonelli stretches his F1 lead - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTGhkM3pQeDVOdENTQ1ZQVVBEcWNENzdhODA5TEI1cTYxZXhMemtGNG5yS0pzYWtBZFJucW9IcHBvbjU4MDZNU1ZadmhDalZPVkxFUTNTUjdMN29rOW5CQ0hTREpqangtY055VjRuWnhoRlNDS2FGcmctUldfaUFQN21qODQ5ZUlZbEhwRy1PUHc2TUxlRUNpUThyTmowbHRu?oc=5",
-          "pubDate": "Sun, 23 Aug 2026 18:18:15 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Iran says new sanctions threatened by 'desperate' US will fail - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOakhmOU5UanRITUhNTk4zZUU4c0F6allnbnZWMC1mY1FsamNsYkRKVFpnbW5DR3hNdHItZm53ZzBNM01GRHB1M0xrYW1BTDBScUhQeTZJb0VnbVQzX1BoeElyNGJURG9DWEhnaEhINERMZjBRd3NpQ2g0d1EwWm1oM2dqWXRxbDVxY1ZPemxPX3F5alJwMmtzR081cjFZNzMtVzZrYlowMHBlblE3UGoyRGJnZG1hQQ?oc=5",
-          "pubDate": "Sun, 23 Aug 2026 18:16:16 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T22:51:59.915Z"
+      "updatedAt": "2026-08-23T23:26:03.069Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T22:52:00.104Z"
+      "updatedAt": "2026-08-23T23:26:03.182Z"
     }
   ]
 }
