@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T23:26:03.182Z",
+  "generatedAt": "2026-08-23T23:49:00.192Z",
   "sources": [
     {
       "name": "BBC News",
@@ -54,7 +54,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T23:26:01.760Z"
+      "updatedAt": "2026-08-23T23:48:58.572Z"
     },
     {
       "name": "NPR",
@@ -109,21 +109,21 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T23:26:01.942Z"
+      "updatedAt": "2026-08-23T23:48:58.954Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Sun, 23 Aug 2026 23:04:16 GMT",
+          "title": "He was waiting for his son to return from the USS Lincoln. Then Border Patrol arrested him. - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa1IxaXJWZ3VYZkhCQ0FHVm0zUnMtLTNUUnk1UzRQN3FwazFFVmtXVVMyX0ZCM2NwUExzVlc4RVQyd3JDTVVjRjQyQTdxaml3bDZxMVJyOHNERVZ2OEFWUGo4SllSSVozWXZBTDFOeUVrNEF4dGJ6MXVNSWxFSEx1VFE2dzFXYV94bXF4anVaakIxeHY0Z1RDQ3gtYXJoS0NoeUhRczJYTVM?oc=5",
+          "pubDate": "Sun, 23 Aug 2026 23:10:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Sun, 23 Aug 2026 21:48:57 GMT",
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Sun, 23 Aug 2026 23:04:16 GMT",
           "source": "AP News"
         },
         {
@@ -157,22 +157,28 @@
           "source": "AP News"
         },
         {
-          "title": "Kirkwood gives the Freedom 250 an American winner on the streets of downtown Washington - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOX1NNcTFMRHNUc2EzMmhEaUFZWjBzWjZjVkdNakZmTl9NQ1dBbTlkeWVTalpHMnhFT1ZyczlnRDhkSUI3Z0RZdUllTEFlZVJsQnhpZjdRTHZCX2Q4WDhlZjhCd1lGaERCLXhGb1dtcTVyUlozLUp5QU1QRXp2bkZsbXk5b0xMN0R6eWV1a1U0SUU2bHI1MVYySA?oc=5",
-          "pubDate": "Sun, 23 Aug 2026 20:27:00 GMT",
+          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
+          "pubDate": "Sun, 23 Aug 2026 21:06:17 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T23:26:02.452Z"
+      "updatedAt": "2026-08-23T23:48:59.408Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "Tens of thousands ordered to evacuate in Nevada as fire threatens Reno - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSVhMSE9Za3MyVm9WQjMwRmZHQ3NHZldfWXczSXhNeGpxT01yM3FLTWgzcFRGWUxxeTduaFJBQk5uRzJQVk1EM2xyWHhLNzBpOWpNb3pJX2xvQ0V3bF9PbTI4R3U5b1p6N3JqOEFyWnRTVFc3UUhUVzhtNkhaUC14Z2d6WHBWb1VGLXFjVDBZdGk5TEVVekxkX2h2c3FoT0h2b0M3NTVuX2l1cVpqTG9FZHcwRFpDUQ?oc=5",
+          "pubDate": "Sun, 23 Aug 2026 23:27:57 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Israeli airstrikes in Gaza kill two people, including 4-year-old boy, medics say - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaFU5eGhHTHlWTGEwdF9hVzNLSFJMR2hZWTRFOGQ0aFNvVmFzaTFsRmRGa3JPZVhFcFFfeUs3YmRCYjBtNDZmYi15WF9xLUpjeDJXYThlaUFTNU5ISkMtTDl6MUo3N25rSmRWbXVpN1dhdzJ0QmpxZGFKRDMwcmlWaS1IOTVEM1NwY05Xdjd2ejZJcG13c2NjRmVrVHJZNEEwYTVmYW5fb0I3Zk01eGgzMjE0dHpDUjlrVFFzUVpKdlN4QjFoZVZ6dDBR?oc=5",
-          "pubDate": "Sun, 23 Aug 2026 23:00:07 GMT",
+          "pubDate": "Sun, 23 Aug 2026 23:09:09 GMT",
           "source": "Reuters"
         },
         {
@@ -200,12 +206,6 @@
           "source": "Reuters"
         },
         {
-          "title": "Tens of thousands ordered to evacuate in Nevada as fire threatens Reno - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSVhMSE9Za3MyVm9WQjMwRmZHQ3NHZldfWXczSXhNeGpxT01yM3FLTWgzcFRGWUxxeTduaFJBQk5uRzJQVk1EM2xyWHhLNzBpOWpNb3pJX2xvQ0V3bF9PbTI4R3U5b1p6N3JqOEFyWnRTVFc3UUhUVzhtNkhaUC14Z2d6WHBWb1VGLXFjVDBZdGk5TEVVekxkX2h2c3FoT0h2b0M3NTVuX2l1cVpqTG9FZHcwRFpDUQ?oc=5",
-          "pubDate": "Sun, 23 Aug 2026 20:31:43 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "Republicans see opportunity in progressives' primary wins while Democrats embrace debate - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSW5NeEt5U3ZhMzVyQkl1Wi1SZjltMW1rTGhtMVU0SGsxeVIweWJPSlFxRzR3cEZhdUYtMkZJSWI3WTR4VHJ1Mmd2MzdYMl9SXzJtV0RjWVJ6YWE5Q1J5c3hQMklyTTB1cWlGdWp3T1hTekQ1bGVWX3UyOVpKdkNDUkpDeXhCZzZka2RfMEtjaEdheHBzWFVhZXZhZ1B3SlJBZjJxTzh1Tll2cmhHR294VEdFUlFmN2JoS2x6Vncycw?oc=5",
           "pubDate": "Sun, 23 Aug 2026 20:01:29 GMT",
@@ -219,7 +219,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T23:26:03.069Z"
+      "updatedAt": "2026-08-23T23:48:59.846Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T23:26:03.182Z"
+      "updatedAt": "2026-08-23T23:49:00.192Z"
     }
   ]
 }
