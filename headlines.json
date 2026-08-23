@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T22:27:56.583Z",
+  "generatedAt": "2026-08-23T22:52:00.104Z",
   "sources": [
     {
       "name": "BBC News",
@@ -54,7 +54,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T22:27:55.480Z"
+      "updatedAt": "2026-08-23T22:51:58.733Z"
     },
     {
       "name": "NPR",
@@ -109,15 +109,27 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T22:27:55.592Z"
+      "updatedAt": "2026-08-23T22:51:59.031Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "Shelley Fabares, 'Johnny Angel' singer and actor in ‘The Donna Reed Show’ and ‘Coach,’ dies at 82 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNN3JnR3AyekN5b3ZsMjFHWnZHWmhOcDMtdzJIV3NCVkdDdk13dFVxQ1Z1aFVVMXVJOGRuSFVtNUJtNk5jV21tUHdpaW5GUWU5TDhoMW5sVE5abm40amVwODhkR1F2ZjlqMFBUNFFvTVlad09EN013aTVteWw3a0Uzai13VkdrRlBQN3dIMA?oc=5",
+          "pubDate": "Sun, 23 Aug 2026 21:38:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Tropical Storm Moke set to dump more heavy rain on hurricane-stricken Hawaii - AP News",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZjVEamVIa0cwVk03YjhWVml0QjhfVHlrOVdKcmhuTmQ1eTBzclBzV3RjdE00Ukt6WUxqSDR2am5YYUhJX1VNRUowSVpHQTBQOUZwVVV6WHlWNF9lUHV3aEt6MnBMYjM5V3ZFVFpVYUZkVERLVVh5eGd3TUlndThXNXBZWlVtSlVEay1KMXloVGJqVmFBUTJXOTRzTVdfVXBZLU9z?oc=5",
           "pubDate": "Sun, 23 Aug 2026 21:38:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "A landslide at a landfill in the capital of Guinea kills 30 people, officials say - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQM0pXVm1oUkllY1YtOXY4MGZjMzBQWFg2V0wwU3V1YVFyalZ1V3BEbGRvckdhYlFSUVRIb3p5WFJHQTdmZ3l6dnBIWlg4OEtnOVRvaU05R3VVWlAwNm9jSnNIS0RydXlFTVBfWkZWaG1vdDFkcHRtaUNINmlLMjFSUjVRc1dGLVd0dkVDWlJsVDRSbEZGcGZZNFR1X0FoMkxDOEE?oc=5",
+          "pubDate": "Sun, 23 Aug 2026 21:36:00 GMT",
           "source": "AP News"
         },
         {
@@ -149,22 +161,10 @@
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOX1NNcTFMRHNUc2EzMmhEaUFZWjBzWjZjVkdNakZmTl9NQ1dBbTlkeWVTalpHMnhFT1ZyczlnRDhkSUI3Z0RZdUllTEFlZVJsQnhpZjdRTHZCX2Q4WDhlZjhCd1lGaERCLXhGb1dtcTVyUlozLUp5QU1QRXp2bkZsbXk5b0xMN0R6eWV1a1U0SUU2bHI1MVYySA?oc=5",
           "pubDate": "Sun, 23 Aug 2026 20:27:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "He was waiting for his son to return from the USS Lincoln. Then Border Patrol arrested him. - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa1IxaXJWZ3VYZkhCQ0FHVm0zUnMtLTNUUnk1UzRQN3FwazFFVmtXVVMyX0ZCM2NwUExzVlc4RVQyd3JDTVVjRjQyQTdxaml3bDZxMVJyOHNERVZ2OEFWUGo4SllSSVozWXZBTDFOeUVrNEF4dGJ6MXVNSWxFSEx1VFE2dzFXYV94bXF4anVaakIxeHY0Z1RDQ3gtYXJoS0NoeUhRczJYTVM?oc=5",
-          "pubDate": "Sun, 23 Aug 2026 20:03:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Iran official says support for new sanctions would be an 'act of war,' and other Middle East news - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaHdQUFYyOHpTM3RqRFRpLVhoaDJZNVdRZFhqS3pDRHpkSlJ2VUxPaG0wUVN0WWpwQWphNzFGUFM0SHpHZTh4QW04cllJRTJsRWRCMWpSLTFpUS1TR0Q0elNabDVMcC1Iek1hZHFEN3hUeG5Rc2xHYTM5RnVzdGFDUDR1ME5KYWNYX08zcTNpa0stN0E5R2FpY09sSXdvV1FkV0kxa3I4LWQwT0gy?oc=5",
-          "pubDate": "Sun, 23 Aug 2026 20:02:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T22:27:56.043Z"
+      "updatedAt": "2026-08-23T22:51:59.515Z"
     },
     {
       "name": "Reuters",
@@ -219,7 +219,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T22:27:56.478Z"
+      "updatedAt": "2026-08-23T22:51:59.915Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T22:27:56.583Z"
+      "updatedAt": "2026-08-23T22:52:00.104Z"
     }
   ]
 }
