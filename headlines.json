@@ -1,9 +1,15 @@
 {
-  "generatedAt": "2026-08-23T16:31:59.077Z",
+  "generatedAt": "2026-08-23T17:24:47.269Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Trump arrives at high-speed IndyCar race through Washington's streets",
+          "link": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 23 Aug 2026 16:57:05 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Thousands struggling without power in Indiana 12 days after severe storms",
           "link": "https://www.bbc.co.uk/news/articles/clyly8vdpdwo?at_medium=RSS&at_campaign=rss",
@@ -45,20 +51,20 @@
           "link": "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 23 Aug 2026 12:47:06 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "'New season, new trim' - Haaland reveals buzzcut",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cr4941zkgevo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 23 Aug 2026 12:36:54 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T16:31:57.917Z"
+      "updatedAt": "2026-08-23T17:24:46.059Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Thousands in northwest Indiana still without power nearly two weeks after storm",
+          "link": "https://www.npr.org/2026/08/23/nx-s1-5942292/thousands-in-northwest-indiana-still-without-power-nearly-two-weeks-after-storm",
+          "pubDate": "Sun, 23 Aug 2026 12:55:37 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Nonprofits are helping musicians pay for insurance in Austin, Texas, and beyond",
           "link": "https://www.npr.org/2026/08/23/nx-s1-5901338/health-alliance-austin-musicians-texas-health-premiums-obamacare-marketplace-uninsured",
@@ -100,20 +106,26 @@
           "link": "https://www.npr.org/2026/08/22/nx-s1-5931446/flock-fallout-competitors-see-opportunity",
           "pubDate": "Sat, 22 Aug 2026 07:43:32 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "As Canada readies retaliatory tariffs, Mark Carney says his nation is 'at war' with U.S.",
-          "link": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs",
-          "pubDate": "Sat, 22 Aug 2026 00:36:27 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T16:31:57.996Z"
+      "updatedAt": "2026-08-23T17:24:46.230Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Migrants clash with police and cut through a fence at a Greek detention center - AP News",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNT2VNOGxYc2gtaDQwcXU1VE1lRWZ3QjNCN19GOFBpb2h6OVhTT1FmYTZxaHlHV0tha1dZeWJ1WTMxVktzYjBub3VkRFBUYTI1eWJlODdOSlh0d1Jfek9SOGFaZkdZWk1fRldMNEl5T19wWmxNYlFMZ2FGTFZQeS1DWWhFbVlzSjFKQjFvX3NxM3Fmb3VEYTBoQ0RiVUNNdw?oc=5",
+          "pubDate": "Sun, 23 Aug 2026 16:44:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "‘Spider-Man’ tops box office in fourth weekend; ‘The Odyssey’ becomes Nolan’s highest-grossing film - AP News",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQc1g3OXU1bHdwNTVnLXZQWlY5ZE52Nk1lTUxjb0tpU2s0RnlOZEJWTHc5UDlJNUNheVBlbEwtc1RoTFExNTluNVJUeFd1RnMtdUVZaDhoU0hSbzR3SEp2cVBKTGU0UThJVjQzcDVLdXdSTUxhOWt6b2Y4c3lEVWptblBZVXU0Mzg?oc=5",
+          "pubDate": "Sun, 23 Aug 2026 16:27:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Kazakhstan votes in a parliamentary election expected to strengthen president’s grip on power - AP News",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQLWZUcG45aEgwVnNzYTRhVGdVSkdYTUZLem9fRXhneGpWODR6ZDhqRndkNWJ6a1V3M1ItcGJ5SG5kX0lZYTY4alk4ZVllOU5sMGthVFUydHN3YUFyWFRGOGI5bDdrRjNaX3BnSGRESUJXWVBQTkJ0cHFXWlhuOVRSd0tOc0w4M28zTk41ZW11NC0?oc=5",
@@ -149,26 +161,20 @@
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdmk4RXNwQ3ZEcE83VDdoSXlkY1loZHpVS180SnNOQXBLb0E3dldtcm0tVWQ5ZXZmYUF6dEM3Ml9mdHotUE9PVlU5dUUxTVFuU3V6NFJwbkprMEpxUkJyNlk3S2pLZl9STjV6aFlLbFRYSG9BNzFzRVoyS0l0aUxzRU4wYlBZYkZ1SHZWak9kYjJOV3lkQ19QbzN2aGsxZ0NQNXhPd3o4bDU?oc=5",
           "pubDate": "Sun, 23 Aug 2026 14:50:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Carney warned about economic coercion. Now Trump is testing the Canadian prime minister - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQX3dhSlN1T1ZfMHl3Y1BSSjJwMEdLQVN2OFFMRUhwb2p6MWtwX0ZpZmd4VlZKV1NlTDFEdnZRMFQ3cDg2a2hpOHB0SFNrN1Y4RldoVHhaNkFsdUFSSm5KOFB3LWE1TGJVbW1YS0NqblVOZ2dEcnZQTlgya3JNZVFVUDRHRkJlX2hfMWFlSG85cXdTRjJGa2tBNTFIdGdILU9iT09ybXNFM2J0MXVPQmhfQw?oc=5",
-          "pubDate": "Sun, 23 Aug 2026 14:11:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "China abruptly postpones ambitious Chang’e-7 lunar mission launch - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWXEwX0JsZ3g2N2oyb1p1YkpvT3BneC1TUWxLWUFNdHNsc3pwOUF2UW1XZ014ZE9iVWVTSXJCQi1JUE1ueTBxQ3g4UkRBQnRoZWt4TzlUbTVEY0liS2g2QjJQNVdLS25LcXpkbjZ2cXJnUDFvdlhtQU9sZWRqQXY4QzlTZXMyU1ZtejlacGxLeWhRWjl2aVE?oc=5",
-          "pubDate": "Sun, 23 Aug 2026 13:39:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T16:31:58.445Z"
+      "updatedAt": "2026-08-23T17:24:46.654Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Eleven bodies recovered after boat carrying migrants sinks off Tunisia - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcHd3a3l0Q0tteVVERzJqSjNEajFFQkFKenYwWklNRlJER2ZJcVkwQWR4Nmw5cTM0UEM1WDJkSmV3S2pOZlZCcVRJN09tVF9LWWVpSmh5ZlhNTm1ZRHdHYURUS3ltRE4wQkY5OElmbFlndU5ua19RUERxT3hCVDlvSjE3OHF6ZnB1SW9nX1F5aTFsNlVFenZ1T1RFTkdNNmgtVTJQTTlBaTU3QjhqZGpBbEJrX1pLZw?oc=5",
+          "pubDate": "Sun, 23 Aug 2026 17:00:09 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Trump caps summer of US 250th birthday with auto race through Washington - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSGxpQXR6TFM3a211MXJac09OMXk5cEVWb2ZjZlYtWHZTWG1pQkhMM2V3Qlh3bzJsMW42aTRXaDEwMUNMLUlVb2JQWkVZZUkxbXFVRkprQUxBQTNSbmdTbnlMdk16UnN2NEJVSnRSclFFUzBIbGg2V3h2SzRiYXFMY2Q0aXYyVE1id0tXRFhlaGJrTkFUMkQyYmJwQU9Lc24teHRmY1Q4Yi00T3A2VkNyMnZWTEw?oc=5",
@@ -182,27 +188,9 @@
           "source": "Reuters"
         },
         {
-          "title": "Indian rescuers search for 22 people missing after cargo ship sinks - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdjRlaFE0VUJieE53aVpBUHpxZDBZc3VYQ0laVTJGT2lYZG8wM1JydzQ2TmJ5Z1NMTDM4UkxTc1VTc0lEY2lhS25jZVRYV2FBMGZBSEYwQkQ4NDBqM0tYc3BWUHdVYWdWLTFJakpBUWdTMGoybU03YXN3M254ZWhBUlF1ZUh2TE5VTEQ3eEREUXFfLXpHVUZSUVBMZ3dGYVdwR29WLQ?oc=5",
-          "pubDate": "Sun, 23 Aug 2026 14:27:59 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "Iran says new sanctions threatened by 'desperate' US will fail - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOakhmOU5UanRITUhNTk4zZUU4c0F6allnbnZWMC1mY1FsamNsYkRKVFpnbW5DR3hNdHItZm53ZzBNM01GRHB1M0xrYW1BTDBScUhQeTZJb0VnbVQzX1BoeElyNGJURG9DWEhnaEhINERMZjBRd3NpQ2g0d1EwWm1oM2dqWXRxbDVxY1ZPemxPX3F5alJwMmtzR081cjFZNzMtVzZrYlowMHBlblE3UGoyRGJnZG1hQQ?oc=5",
           "pubDate": "Sun, 23 Aug 2026 14:27:05 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Tunisia coast guard recovers eight bodies of migrants whose boat sank - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcHd3a3l0Q0tteVVERzJqSjNEajFFQkFKenYwWklNRlJER2ZJcVkwQWR4Nmw5cTM0UEM1WDJkSmV3S2pOZlZCcVRJN09tVF9LWWVpSmh5ZlhNTm1ZRHdHYURUS3ltRE4wQkY5OElmbFlndU5ua19RUERxT3hCVDlvSjE3OHF6ZnB1SW9nX1F5aTFsNlVFenZ1T1RFTkdNNmgtVTJQTTlBaTU3QjhqZGpBbEJrX1pLZw?oc=5",
-          "pubDate": "Sun, 23 Aug 2026 14:03:43 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Alibaba launches $10 billion Hong Kong share placement to fund AI spending - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSHJGOUFEMWhrdjlTbk5JelZ2Zl9jNWZ3UjRUTFVZX3hyTmx2bnZ2Qi1Ob3FPZGdBNkoyOHpfRXk3YzFpYXMwNkZHb09uX01jWDRVZ3lJSi1rM2ZGbldMV1J1d0lLUWFTS1FLcHowTXNobENIUkxody01eDItOHZucHRUV0xjME80UkxscjVNX1dnRUlHY1BCN3o5TV9CMFNzcnlobjJBVWdyMHNiQjNtT090bEV6WXQyUU5SdQ?oc=5",
-          "pubDate": "Sun, 23 Aug 2026 13:46:29 GMT",
           "source": "Reuters"
         },
         {
@@ -216,10 +204,22 @@
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMXR2WHg4Sk1EWmREN2NWcjBGUVNFdW0ya2Rpa25CcFJqT0pZQmFYQ2YwSVVxa0ZsRWNMMEpvMk4zVmZidzNrbWF5MTFKUW5KTThIeXM2alI2aDJKSnhHM3JNWHE2c2JkM2tRTGhDbWNrd05yZ2NkNkZFZUw4ZDRjdDhZNVU0RnBoLXdBVDc4aVE0bGUtSVFrUDBoTWJrZG9ZdDEyeA?oc=5",
           "pubDate": "Sun, 23 Aug 2026 12:32:05 GMT",
           "source": "Reuters"
+        },
+        {
+          "title": "Syria foreign minister sees Israel security talks resuming despite no trust - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWUpvdEk0SVFqbENrNjRzRkFFODFJb2ZkczFRWVU1OFBTWG5Sd3JDbHRnajBMYzZHNlhGR0lVNFdTQlZIMFJVOTZadXBGWDdianhfWXBjcUVTZ0ppbllKZnBfU05zeU5ONS10M2dFOHRpbWZEeFItR2hSNk8xblFlaHRWVTdpUzRPUWt4eTI2UzBTNHpZbHVpemlmTEdMbzY5aTFqWUNCclJ6aVpSeklsa2xDc19jb0dzOGh6ZTNRUVRZT25xNjVZMA?oc=5",
+          "pubDate": "Sun, 23 Aug 2026 11:05:49 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Eni eyes Europe fusion plant by early 2040s, FT reports - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOWVfaWZTSkxXVzBKcFZvNjdKXzV6Tmp3bFRlZEFGSzZzcTQtbE1VaDhKclNVMGJacUxBZU1Hc0NKWHRVdkNUWTdHRXQ1eU1GcWlEazRpYTVabU5hdkgtNTBudDJhbVU5ZU1CSjAwRnJMZ1BSYTAxLUNMOGdobDlOaE92TEtGR19TNzVELWRYc3M5LXJHb3JaTGN5cWtwZkhvOVhqdV9aYjUtZw?oc=5",
+          "pubDate": "Sun, 23 Aug 2026 10:51:58 GMT",
+          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T16:31:58.819Z"
+      "updatedAt": "2026-08-23T17:24:47.120Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T16:31:59.077Z"
+      "updatedAt": "2026-08-23T17:24:47.269Z"
     }
   ]
 }
