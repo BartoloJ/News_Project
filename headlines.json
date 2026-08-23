@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-08-22T23:48:36.277Z",
+  "generatedAt": "2026-08-23T01:44:47.213Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Swedish sword attack victim was 17-year-old girl, police say",
+          "link": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 23 Aug 2026 01:34:15 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Syria says Israeli strike near Damascus violation of international law",
+          "link": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 22 Aug 2026 21:42:42 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
           "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
@@ -14,6 +26,12 @@
           "title": "Carney faces crucial test after walking away from Trump's deal",
           "link": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 22 Aug 2026 20:02:46 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "The hotel booking mix-up that could free mushroom murderer",
+          "link": "https://www.bbc.co.uk/news/articles/c9w09dj7qk5o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 22 Aug 2026 19:03:03 GMT",
           "source": "BBC News"
         },
         {
@@ -33,28 +51,10 @@
           "link": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 22 Aug 2026 14:35:11 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Fourteen killed in strike on Myanmar monastery",
-          "link": "https://www.bbc.co.uk/news/articles/cqlxlvz01z1o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 22 Aug 2026 13:48:06 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
-          "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 22 Aug 2026 13:13:16 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Robot horse and rider steal the spotlight at Chinese conference",
-          "link": "https://www.bbc.co.uk/news/videos/c0qvqzzdd02o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 22 Aug 2026 10:01:18 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T23:48:34.950Z"
+      "updatedAt": "2026-08-23T01:44:45.880Z"
     },
     {
       "name": "NPR",
@@ -109,27 +109,33 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T23:48:35.250Z"
+      "updatedAt": "2026-08-23T01:44:45.981Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 21:22:05 GMT",
+          "title": "How a sanctuary outside LA has cared for rare, endangered gibbons for a half-century - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOFpfS0dwWF9heDl4YnV4Y3hscHVISzBQNlUtM0tPOFBMaVZmR3JwelRHSzJOUEtIYnZIRE9RVFJCY2UtU01mR3ZGSFlma0FpVklPWkpUeGYxLXlXM1ZiVTZ4b0U1cFBOekJCV0JMd00xb1d6dlVzaGhncmxpMktnMG5pQUs3TFpjclFtcXlGVXVaR092TFNWcmNaUmh0bEk?oc=5",
+          "pubDate": "Sat, 22 Aug 2026 22:50:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Breanna Stewart wants a safe space as transgender debate sparks rallies at Fever games - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLURsNmY0WWpNV2pPMkdoM3VDcHA0VURYaWlKd2IycWhtMFBoRVBSRlZlMC1SNV9MV2lrWDhDdXp5X0JZU0M0MUhmN2ExTDY0VFlHcldrbWVnVVkwY1JuSlFfa2l0c1ZtdGkteHRGMC05TDYzWGcyaEJNZ3NNc25pa1FCV1ZadHJqa2FLTmo3emlCaTNySzNPVzg4d1Q5Uzg?oc=5",
+          "pubDate": "Sat, 22 Aug 2026 22:35:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Iran security chief threatens neighbors against economic measures, and other Mideast developments - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdmE4am10S043c0dka2x4cWdVWG9zanBfZkFVSnpyck5QWW9mUHNpLXdjaWxPYzhfSVBQTkxrb2hXS1c1dF9mbnlPZ2RzZnJzYlZFUTJsUGtSUXZRajQ2Z2tubkkyT3FNaXh1RWc1WXZwTEVSaVR0Zzhmc0ZKalg3OFcyeHZmWkJvWnRFV2RaNmJ6cGM?oc=5",
+          "pubDate": "Sat, 22 Aug 2026 20:59:00 GMT",
           "source": "AP News"
         },
         {
           "title": "What to know about Trump’s 50% tariffs on Canadian goods that just went into effect - AP News",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVHl1OFdkU2VpRThnVkF0UE9lcXYyeERtOFZOMDNQTHZTR1VxU3pzVWc4WEs4TXFIcnNtYThhWmVzOHprcmNwbDBUT1RwekVBd003ZGw1YUZwTXlZa2E0d1pIUFdmWVd5enRtYW5tbjlzSmw1aFVhMF94Ni01TlJsTEtfVWdLR2FtclRPUWJYLUxSMDZCam1ESw?oc=5",
           "pubDate": "Sat, 22 Aug 2026 20:37:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "US and Canada fall deeper into a trade war with new tariffs as talks collapse and blame is spread - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTFZQdTRIMXVabHVfUTNldG4yeGlBSWlHNTFsNUt4WktQeHBuT1RzUUxVT3NZMTQ4ampFeFMtQVhVUDN4bXZXVWlzWXY5LTBEVTI1d29obi03ZGd2dTB6WG0zRGtsa3llaHhtVlVnRjFKYW4tOGpubG1qSWp6NWZfNG5WUVlpeGdjc0s0ck5GM0F3eWs?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 19:43:00 GMT",
           "source": "AP News"
         },
         {
@@ -151,24 +157,24 @@
           "source": "AP News"
         },
         {
-          "title": "Chinese humanoid robots smash human records in 100m sprint and high jump at Beijing robot games - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMUkxanIwSTVhd2xuNTUteVpWQWJlQXF1M2c4R2RSM25vTTlENHZMSkRaNGJXR0Fsd1QwUmhyX3NtU3dNalg1dlBKWHJMRnJXOTNZZkJ4cDNxbmJDdEQ4YXdpZkdJZGxTT2gwR21NUzRnZnpfY1dibWF2cVVFRllELWJ1eDVzalBLLWh0M3lKNlVUR1k?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 16:24:20 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Trump’s trade war with Canada: A timeline of how we got here - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbF9QeG1JbUxkajVXT1l5QXg4T0Y1Wi1qdng2cFB3MVhPSk9CYWtoamIybkdtT1pPMkJDZG91NmpaLXRSaXh3Q3Q5bE8xVHEyLTF6NmEybTdkTzk2VWQxV0V0VlZDN1VPeU5RN1gweXVsWEE3cThpWGpHbHR4TlRpSEpxUEx6aDZpWmV0UmZOY1U?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 16:00:00 GMT",
+          "title": "A US envoy says Israel did not give a warning to the US ahead of a recent Syria air strike - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMTRPSG42N2hfX1hDV0FtOUxMeXdvNVM5WUhwRmtDYVR1VnZQc3BCYnBWU0YyWG1VNFdSZ3NZMDVJYTY5dHpLSHFTZUM3WjR3MEM4VDdaNVp3X1JVU0drSGVJNS1FQ0lma19hc0htaG9BbktsaTMtM09GVDRHU25jMDdtTHA5M2ZXMkFvOTl2V3RqMlMzZHAzcEJJTVk?oc=5",
+          "pubDate": "Sat, 22 Aug 2026 16:32:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T23:48:35.639Z"
+      "updatedAt": "2026-08-23T01:44:46.428Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "EU sends helicopters, firefighters to Serbia to tackle wildfires - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUGlKOVc4ZDFhMlNOWE8wNXpPb1paZW5RRG5oZFd3VV9YaThScFlPYmRCZ2xfMU9sRFNpNUpsNk9Jb1BES19nOVJDdnJER241VzNyZWc0UGNSZWJEMEFnSW1vaDhacGEzQW1WYU9pU21mcTlWWHBOU3BiTm05cFNGY05QVFhwd1pGOEhLenNoSnliZUhEYnh3ZFpTNTMxYzZoeURya04zdy12c3NmQVUtTDcyRVE?oc=5",
+          "pubDate": "Sat, 22 Aug 2026 22:36:48 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "India launches rescue operation as bulk carrier sinks off east coast - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX2NtbU5uRUdhVTY4RFR0UzhBMGEwZ3hfUW5RYmlqQmRGRTZKcU9EZkZ0ZzBFUG5Mbk9odGpyakpuMXVjbE95Ry1MQlFGTGliekktZnJkTVNzTzdlQlBIQlU2VFI3MnlNNXdVSTBNVVUtSHprYlJVSkFGdURIb25NX2tnRWhBai0xdXRQWXN1QkF0THh6T25HTnZrVDB3bE1nOU16NS1MYl9icExBVzdpcHZDSGVtNmM?oc=5",
@@ -210,16 +216,10 @@
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOFpWcEU2Z3A5dEFDSXRERWhFSGsxd0NCRDAydDk5MFZXYmkwajZ0OFhwZFh0TzN1NVM0bUFmTTBocUNfYzZoT1FUdFVGazRZVHp3NC00eVNlWlFUcnFuOW1QdkhWeWk0OW42OW42SWxWVjFJRGFKZi0xYUN2ekFuUHRyVEdzNmg0MS1NeU80MFZWeTNmX0VTR2d5VFhQUFlzVmZBX2ZKNnFOM2tFbGtiZE1fV0drOXNtOTFMQWh0VQ?oc=5",
           "pubDate": "Sat, 22 Aug 2026 19:14:19 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Promoted Hull stun Man Utd, Spurs thrashed, Ipswich enjoy winning return - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONkNEcEVKSFZQVFBPWmdRblhfM19wRHdGbTc0WXZkMVI2YWwxTzdrWE0wWWVPSkdnclJVbm9XVTFpemhzczBhZk1PZjExYi1oanRRYkw4eENtRC1CUzA0WFNxMTJhNEdRaVo5RlZYdXpuQlRlV0dFanV1cG8ycWJnWEVmbGNwTGl5WnQtZl9oOENUZ3dYWVpSUDc1bGtULXBGYnpwcDVn?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 19:03:34 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T23:48:36.081Z"
+      "updatedAt": "2026-08-23T01:44:46.849Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T23:48:36.277Z"
+      "updatedAt": "2026-08-23T01:44:47.213Z"
     }
   ]
 }
