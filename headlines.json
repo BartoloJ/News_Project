@@ -1,9 +1,15 @@
 {
-  "generatedAt": "2026-08-23T18:36:59.249Z",
+  "generatedAt": "2026-08-23T19:26:03.233Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+          "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 23 Aug 2026 19:11:30 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Guinea rubbish landfill collapse kills 30",
           "link": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
@@ -45,16 +51,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cre4e1q3wewo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 23 Aug 2026 12:52:08 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Wicker Man director's sons complete their late father's film trilogy",
-          "link": "https://www.bbc.co.uk/news/articles/cj36kv62g7yo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 23 Aug 2026 12:51:15 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T18:36:57.633Z"
+      "updatedAt": "2026-08-23T19:26:01.639Z"
     },
     {
       "name": "NPR",
@@ -109,15 +109,27 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T18:36:57.932Z"
+      "updatedAt": "2026-08-23T19:26:01.960Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Wildfire approaches Reno, Nevada, forcing thousands to evacuate their neighborhoods - AP News",
+          "title": "Wildfire started by humans approaches Reno, Nevada, forcing thousands of evacuations - AP News",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVUpEM0MwOHJxRV9tR2NuUkV6NFFBSzFwRHM3dmp2Z2U1TlBaTVRWY1ZDNDg2U0NTX0V0dlJVSkVNZF9FV1dDY2F4ZFBaMkhuVjl1MHRVYXZPZm1SUlRCOEZoa1lTZ0toek0wYVJIN2d0eTEtSXFYLVdOVFNOdHZYM0pzZXNKb2NscjNFLThoX1hpZmgzcHJoTQ?oc=5",
-          "pubDate": "Sun, 23 Aug 2026 17:34:00 GMT",
+          "pubDate": "Sun, 23 Aug 2026 18:38:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Auto Racing - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9qekN5SGJkSzNLUkszajRtNDl4MTVkWWlqc3JqbTl6VmIwdTFuRUZxQ29xOVhJY3gtOUJxLVFQTm1RZVI2a3kyMVdn?oc=5",
+          "pubDate": "Sun, 23 Aug 2026 18:34:58 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Tropical Storm Moke carrying more rain toward hurricane-damaged Hawaii - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZjVEamVIa0cwVk03YjhWVml0QjhfVHlrOVdKcmhuTmQ1eTBzclBzV3RjdE00Ukt6WUxqSDR2am5YYUhJX1VNRUowSVpHQTBQOUZwVVV6WHlWNF9lUHV3aEt6MnBMYjM5V3ZFVFpVYUZkVERLVVh5eGd3TUlndThXNXBZWlVtSlVEay1KMXloVGJqVmFBUTJXOTRzTVdfVXBZLU9z?oc=5",
+          "pubDate": "Sun, 23 Aug 2026 18:02:00 GMT",
           "source": "AP News"
         },
         {
@@ -149,26 +161,26 @@
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaHdQUFYyOHpTM3RqRFRpLVhoaDJZNVdRZFhqS3pDRHpkSlJ2VUxPaG0wUVN0WWpwQWphNzFGUFM0SHpHZTh4QW04cllJRTJsRWRCMWpSLTFpUS1TR0Q0elNabDVMcC1Iek1hZHFEN3hUeG5Rc2xHYTM5RnVzdGFDUDR1ME5KYWNYX08zcTNpa0stN0E5R2FpY09sSXdvV1FkV0kxa3I4LWQwT0gy?oc=5",
           "pubDate": "Sun, 23 Aug 2026 16:26:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Kazakhstan votes in a parliamentary election expected to strengthen president’s grip on power - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQLWZUcG45aEgwVnNzYTRhVGdVSkdYTUZLem9fRXhneGpWODR6ZDhqRndkNWJ6a1V3M1ItcGJ5SG5kX0lZYTY4alk4ZVllOU5sMGthVFUydHN3YUFyWFRGOGI5bDdrRjNaX3BnSGRESUJXWVBQTkJ0cHFXWlhuOVRSd0tOc0w4M28zTk41ZW11NC0?oc=5",
-          "pubDate": "Sun, 23 Aug 2026 16:12:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Pete Buttigieg returns to South Carolina as he weighs another White House run - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObGRqUjN0ODlLTkQ2Q0ZldXRMb0llSEQxVklHWF9Wd1JpMWVwTUIwRGRpWnNRRmFMWXYzaUxESVd6OVVwSUhBbmx3RjJFdGxZWlJzRlZ5LWM3VW15Q0JWRTB5RWQ2Mzlxa1dzcGNudEZPOFBWNzladk5QWHJJNFVuM1FPQ3c3STY3OXFoaEtqbUxEbUlYMHlUSmZXcHJwckVjNm9pZ0VZVWxFMTg1UjNDTkRn?oc=5",
-          "pubDate": "Sun, 23 Aug 2026 15:34:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T18:36:58.517Z"
+      "updatedAt": "2026-08-23T19:26:02.381Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Trump caps summer of US 250th birthday at IndyCar race through Washington - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSGxpQXR6TFM3a211MXJac09OMXk5cEVWb2ZjZlYtWHZTWG1pQkhMM2V3Qlh3bzJsMW42aTRXaDEwMUNMLUlVb2JQWkVZZUkxbXFVRkprQUxBQTNSbmdTbnlMdk16UnN2NEJVSnRSclFFUzBIbGg2V3h2SzRiYXFMY2Q0aXYyVE1id0tXRFhlaGJrTkFUMkQyYmJwQU9Lc24teHRmY1Q4Yi00T3A2VkNyMnZWTEw?oc=5",
+          "pubDate": "Sun, 23 Aug 2026 19:11:35 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Norris wins Dutch GP as Antonelli stretches his F1 lead - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTGhkM3pQeDVOdENTQ1ZQVVBEcWNENzdhODA5TEI1cTYxZXhMemtGNG5yS0pzYWtBZFJucW9IcHBvbjU4MDZNU1ZadmhDalZPVkxFUTNTUjdMN29rOW5CQ0hTREpqangtY055VjRuWnhoRlNDS2FGcmctUldfaUFQN21qODQ5ZUlZbEhwRy1PUHc2TUxlRUNpUThyTmowbHRu?oc=5",
+          "pubDate": "Sun, 23 Aug 2026 18:18:15 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Iran says new sanctions threatened by 'desperate' US will fail - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOakhmOU5UanRITUhNTk4zZUU4c0F6allnbnZWMC1mY1FsamNsYkRKVFpnbW5DR3hNdHItZm53ZzBNM01GRHB1M0xrYW1BTDBScUhQeTZJb0VnbVQzX1BoeElyNGJURG9DWEhnaEhINERMZjBRd3NpQ2g0d1EwWm1oM2dqWXRxbDVxY1ZPemxPX3F5alJwMmtzR081cjFZNzMtVzZrYlowMHBlblE3UGoyRGJnZG1hQQ?oc=5",
@@ -176,9 +188,9 @@
           "source": "Reuters"
         },
         {
-          "title": "Trump caps summer of US 250th birthday with auto race through Washington - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSGxpQXR6TFM3a211MXJac09OMXk5cEVWb2ZjZlYtWHZTWG1pQkhMM2V3Qlh3bzJsMW42aTRXaDEwMUNMLUlVb2JQWkVZZUkxbXFVRkprQUxBQTNSbmdTbnlMdk16UnN2NEJVSnRSclFFUzBIbGg2V3h2SzRiYXFMY2Q0aXYyVE1id0tXRFhlaGJrTkFUMkQyYmJwQU9Lc24teHRmY1Q4Yi00T3A2VkNyMnZWTEw?oc=5",
-          "pubDate": "Sun, 23 Aug 2026 17:41:12 GMT",
+          "title": "Health of Norway's king deteriorates while in hospital, palace says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNb1lUMXhic3JyYmx3WmZRdjlFXzYyR29tN0lxb2dFR2lzNW5aSDdraG1fSzBQdHR1OVY3azRQQkN3MURpbmM0SFhYRC1WdVJRMk44bkRWMms0MEplT3ZVWi1UZXFyS1pLVGVWQ2Uwc2V0WWE4YWJyMUg2enlsbEdzczgwS1c5N0JGb3dzWmlXbjQtdFg5WW9SLVJlU0NfUTdZZnJn?oc=5",
+          "pubDate": "Sun, 23 Aug 2026 18:07:43 GMT",
           "source": "Reuters"
         },
         {
@@ -194,32 +206,20 @@
           "source": "Reuters"
         },
         {
+          "title": "Lanier crushes Naraoka to become first Frenchman to win singles world title - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONEQ3S0NjZTFCNzR4eVFqVGxRR2RrS2hWTTNHQ2N3eVE3ejg5UjA4WDYxOHI3YlhwVU1HRENRN20xUnFUd1U1TUNMMHJrcEtibkNSOGU3RHU3T2hhcnBjaUxhWEN5bldhSERRM05ScU42TDY1MVVFV3RfSi1NSF94cG1MWUx4SjB2dVhRejE3d2M0OURtdmNlRmVjMkNiNV9hZDRaVHBHNzEzUjVocGl3THBn?oc=5",
+          "pubDate": "Sun, 23 Aug 2026 14:06:42 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Nordic nations say they have lost confidence in Infantino and FIFA governance - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbzJMSU9PNFhkZTFkbU5FYmhNeXF0c0ZCQnV3YmVIRkU3V0Yya0hRQ3ctVnBQSy05eE85Z2VWN1JuU0JNQWIwdzRXc2pKZTd0R1NsV3llYUpGYThmUmQyUVMxZmR6U1NuYWJScUtxNkM4dnBGaFZnd1prNEx0bzVNYUVJdzhWbEZmcVhqUkxac3hEQWZwSGhJOFZGV25MZXMxWkpQU2plSzRZank5aGJnQVFUaDQ5MVp5UEtIQQ?oc=5",
           "pubDate": "Sun, 23 Aug 2026 13:56:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Iran says Pakistan's army chief to visit Tehran on Monday - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb1l4dmU1TFpSU2FINWVIZW5YLTMxaEhxY2hJa0tYZldGeG9Sa2loOFlfZEp5RkFDZ1JVMWQ5Y0VMY3hkeUlxZnh6QzVsTUdEcmJSckU4SGhoUURLN3M4Qi1hbkdXYXk1YWdzRUlKLU5SUmo1bC1tcE5pMzE3bkRYQmN0SW90YXNNQnNxTWZuWWwyM0x5NnRReGFiV1V3b1VOMElSVm5NVE0?oc=5",
-          "pubDate": "Sun, 23 Aug 2026 13:13:07 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Wartime election would 'destroy' Ukraine, Zelenskiy says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMXR2WHg4Sk1EWmREN2NWcjBGUVNFdW0ya2Rpa25CcFJqT0pZQmFYQ2YwSVVxa0ZsRWNMMEpvMk4zVmZidzNrbWF5MTFKUW5KTThIeXM2alI2aDJKSnhHM3JNWHE2c2JkM2tRTGhDbWNrd05yZ2NkNkZFZUw4ZDRjdDhZNVU0RnBoLXdBVDc4aVE0bGUtSVFrUDBoTWJrZG9ZdDEyeA?oc=5",
-          "pubDate": "Sun, 23 Aug 2026 12:32:05 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Syria foreign minister sees Israel security talks resuming despite no trust - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWUpvdEk0SVFqbENrNjRzRkFFODFJb2ZkczFRWVU1OFBTWG5Sd3JDbHRnajBMYzZHNlhGR0lVNFdTQlZIMFJVOTZadXBGWDdianhfWXBjcUVTZ0ppbllKZnBfU05zeU5ONS10M2dFOHRpbWZEeFItR2hSNk8xblFlaHRWVTdpUzRPUWt4eTI2UzBTNHpZbHVpemlmTEdMbzY5aTFqWUNCclJ6aVpSeklsa2xDc19jb0dzOGh6ZTNRUVRZT25xNjVZMA?oc=5",
-          "pubDate": "Sun, 23 Aug 2026 11:05:49 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T18:36:58.907Z"
+      "updatedAt": "2026-08-23T19:26:02.859Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T18:36:59.249Z"
+      "updatedAt": "2026-08-23T19:26:03.233Z"
     }
   ]
 }
