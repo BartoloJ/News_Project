@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T10:29:36.106Z",
+  "generatedAt": "2026-08-23T10:54:32.411Z",
   "sources": [
     {
       "name": "BBC News",
@@ -54,7 +54,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T10:29:34.318Z"
+      "updatedAt": "2026-08-23T10:54:31.380Z"
     },
     {
       "name": "NPR",
@@ -109,7 +109,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T10:29:34.447Z"
+      "updatedAt": "2026-08-23T10:54:31.453Z"
     },
     {
       "name": "AP News",
@@ -123,7 +123,13 @@
         {
           "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Sun, 23 Aug 2026 07:57:42 GMT",
+          "pubDate": "Sun, 23 Aug 2026 05:51:57 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Buc-ee’s chain draws outcry in Ohio for launching fight over a mini mart’s beaver logo - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQa21VLTBTd0w5c282cEFBQ2JMYXZ3b1pWdndFOW9PaVBXN3RFaEhCUHBEVllYR0pUb1FBemJ3OFZPaE5POGQ4MXZlVVIwb0FsOHRROGZxUEF0dE5EcVN4Y0szajM3TTN5RThNOHllZXpaUFJvSkhmZUNLWGprTEZ1NTg5TEswc28tWHZuTEhnRXR2M1VwSkVzQ1VsV3JHZFgyUjBGY09lNG10UQ?oc=5",
+          "pubDate": "Sun, 23 Aug 2026 05:00:00 GMT",
           "source": "AP News"
         },
         {
@@ -155,24 +161,30 @@
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUG54cnh0XzJTWVMyVnl0b19hdFN1TGhnWE1xcE1ER2h5VnpTNmpOdkxEUWpRaWt5WnVUS1JCVnFWb0lxSElTQ3pENlNCVFNvYnBMWE9KbVdNNmJjOU55SzNIa3VkcFpwcFlXcXVSekZkdTBqSlA0LVRIYzVBYkZLYkpodkdPYWhvRFQzLWNIaTRlVVdPT0F4WmpDeFl6SjJ3c21ZRVl4UzNCUkVPVjR5ZU9B?oc=5",
           "pubDate": "Sat, 22 Aug 2026 23:58:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Breanna Stewart wants a safe space as transgender debate sparks rallies at Fever games - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLURsNmY0WWpNV2pPMkdoM3VDcHA0VURYaWlKd2IycWhtMFBoRVBSRlZlMC1SNV9MV2lrWDhDdXp5X0JZU0M0MUhmN2ExTDY0VFlHcldrbWVnVVkwY1JuSlFfa2l0c1ZtdGkteHRGMC05TDYzWGcyaEJNZ3NNc25pa1FCV1ZadHJqa2FLTmo3emlCaTNySzNPVzg4d1Q5Uzg?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 22:35:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T10:29:35.278Z"
+      "updatedAt": "2026-08-23T10:54:31.915Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "Iran says Pakistan's army chief to visit Tehran on Monday - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb1l4dmU1TFpSU2FINWVIZW5YLTMxaEhxY2hJa0tYZldGeG9Sa2loOFlfZEp5RkFDZ1JVMWQ5Y0VMY3hkeUlxZnh6QzVsTUdEcmJSckU4SGhoUURLN3M4Qi1hbkdXYXk1YWdzRUlKLU5SUmo1bC1tcE5pMzE3bkRYQmN0SW90YXNNQnNxTWZuWWwyM0x5NnRReGFiV1V3b1VOMElSVm5NVE0?oc=5",
+          "pubDate": "Sun, 23 Aug 2026 09:49:46 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Norway to give over $9 billion to Ukraine in 2027 - Reuters",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdmhTa18xSnJQQ3IwQTF6LTgwY3dvY2JzNGJfUGJzVjNXdEE1SWt3b0xxQW5MSktZUUZIVHcxY092NmJ4SlRBU0JPYlZIVWFzVE42VHBMeFo4ODJITGwxZWRCc0Z5NDdfcm1aeVFzRDdiYWtMWW9GSGVfcDVRRlJGTnpZeE1MNFhUdVlOMlR2NXVDZw?oc=5",
           "pubDate": "Sun, 23 Aug 2026 09:32:08 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Hungary Paks nuclear plant could operate at full capacity by Wednesday, PM Magyar says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZEJfVzdZd1FzS096TGhjb19XSF9hYnJfazRCOF8zeF9qMkJMOW5Bbm1ZSEwycjJiT1hXci05RFViS1haSDRObmdTb2dvdDVzZjY3SlNnQV80bjhrNEcyOVI5azhybnFpVlVrUmpDQTB4UHNrWURkdXQ3dklqZ2Vucm5ob3RiVTNSRGpqTVRxX0Z1R0gtTTJVb1BYYk8yajNBMFZ2N2FWOHdhYXYycFlsSHpuZzdnOEpPOVN3ckU1SWljVEp1bXdHSQ?oc=5",
+          "pubDate": "Sun, 23 Aug 2026 08:55:43 GMT",
           "source": "Reuters"
         },
         {
@@ -204,22 +216,10 @@
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMmpSbHcyT2NYU24yV05UTVg0NjlvZG1nVWlxWEFkZW4za21STmJPaVJXN3hNRk15TmNpaktmUEpjT0tEWF9pX0tjeXhialVoRUxZa0xCejhsQ2ZSMldGRDBGcmpocDdRR0xZYzNqVzVReXpqY2hJMHU1c1ZZRHRvNDJKM0JDOWd0LU5GUlU3STJyV3NrdU85NXhnT1V2c1dOckJucVpXYnJBUEpoNkdIOHpkT0RNdw?oc=5",
           "pubDate": "Sun, 23 Aug 2026 06:44:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Brush fire in Nevada grows to over 10,500 acres - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNX3dCNE5iS3BIcmcwSGxYS29CVmRxRWN3Y3Z1S0c2VnNfSk42QmloS2plUko4UG9QdzFuZmhkYmNzWXRhLUdHUUw5c25aV2Z3V2pyelBnbFlXbjJRM3RJYXBiR2lXZ2RCSVZ1SEE3WmM1dzVOSS1PbGg3RnBSVmRmTkhVdjMySEpiWVhuRHF4aWJ2dnZSS3VaQXV4ZmM2dw?oc=5",
-          "pubDate": "Sun, 23 Aug 2026 06:00:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Peace through strength, Taiwan president says on China battle anniversary - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd29YcXQzMHVTQVR1SFNUb2tUV1AxR18yZFlfYzlZWXNQNVlBQVV5a21raGM0X3dobTU5cVFIZXAzYnIyVURoc0ZWOW45bFd6WWREOXhaazhiSFB4OHBxSWM4cEJhVVB6WHctM0RQOXBjbkJBdnVnZTB5RlhIY2NuUGpielJhVVNfM0lEZHdJNEEzSmVuWFZuNWlidkZMNlRFbE5LRHNXRDF5MEhfVHF3RWJnajFETktY?oc=5",
-          "pubDate": "Sun, 23 Aug 2026 05:33:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T10:29:35.770Z"
+      "updatedAt": "2026-08-23T10:54:32.328Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T10:29:36.106Z"
+      "updatedAt": "2026-08-23T10:54:32.411Z"
     }
   ]
 }
