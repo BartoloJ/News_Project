@@ -1,9 +1,15 @@
 {
-  "generatedAt": "2026-08-23T13:35:54.838Z",
+  "generatedAt": "2026-08-23T14:28:52.340Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Kejelcha breaks men's half marathon world record by 29 seconds",
+          "link": "https://www.bbc.co.uk/sport/athletics/articles/c9989lm0vkro?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 23 Aug 2026 13:35:06 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
           "link": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
@@ -45,16 +51,10 @@
           "link": "https://www.bbc.co.uk/news/articles/c8enegx4xy3o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 23 Aug 2026 11:50:59 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
-          "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 23 Aug 2026 05:46:43 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T13:35:53.962Z"
+      "updatedAt": "2026-08-23T14:28:51.361Z"
     },
     {
       "name": "NPR",
@@ -96,7 +96,7 @@
           "source": "NPR"
         },
         {
-          "title": "Hours after U.S. imposes tariffs, Canada says it'll strike back starting Sept. 8",
+          "title": "As Canada readies retaliatory tariffs, Mark Carney says his nation is 'at war' with U.S.",
           "link": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs",
           "pubDate": "Sat, 22 Aug 2026 00:36:27 -0400",
           "source": "NPR"
@@ -109,27 +109,21 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T13:35:54.004Z"
+      "updatedAt": "2026-08-23T14:28:51.391Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "As the Clancy case highlights postpartum psychosis, a mom stricken by it shares her story of hope - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTW1Bbm0wbm1uS1JMQ2UyQ1VkV0ZJX2lnRENrbEZFNGhEZy0tX25HSi1IQW5IaHhJakpCZlBwVWQwOXZXRkgzMnlTbDA0QlJLamNwMUFJcU9XMy14ZGQ1ajJiVGZjZW9NOWtDcWw5cVBfMDQ0RzJkYlhhMzhfeHh4Ymk3bEFZQTVvTy02YzIza3pjcHJlNnRYUkptVUZvYmNkQmljY05NeFZjdw?oc=5",
-          "pubDate": "Sun, 23 Aug 2026 12:12:00 GMT",
+          "title": "Iran’s president says US memorandum is best path out of stalled war, and other Middle East news - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaHdQUFYyOHpTM3RqRFRpLVhoaDJZNVdRZFhqS3pDRHpkSlJ2VUxPaG0wUVN0WWpwQWphNzFGUFM0SHpHZTh4QW04cllJRTJsRWRCMWpSLTFpUS1TR0Q0elNabDVMcC1Iek1hZHFEN3hUeG5Rc2xHYTM5RnVzdGFDUDR1ME5KYWNYX08zcTNpa0stN0E5R2FpY09sSXdvV1FkV0kxa3I4LWQwT0gy?oc=5",
+          "pubDate": "Sun, 23 Aug 2026 12:14:00 GMT",
           "source": "AP News"
         },
         {
           "title": "Migrants clash with police and cut through a fence at a Greek detention center - AP News",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNT2VNOGxYc2gtaDQwcXU1VE1lRWZ3QjNCN19GOFBpb2h6OVhTT1FmYTZxaHlHV0tha1dZeWJ1WTMxVktzYjBub3VkRFBUYTI1eWJlODdOSlh0d1Jfek9SOGFaZkdZWk1fRldMNEl5T19wWmxNYlFMZ2FGTFZQeS1DWWhFbVlzSjFKQjFvX3NxM3Fmb3VEYTBoQ0RiVUNNdw?oc=5",
           "pubDate": "Sun, 23 Aug 2026 11:44:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Sun, 23 Aug 2026 10:19:43 GMT",
           "source": "AP News"
         },
         {
@@ -145,6 +139,12 @@
           "source": "AP News"
         },
         {
+          "title": "Trump will kick off the IndyCar race in the Beast before cars zoom through Washington's streets - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQU2QyTEtaWVBXY0JlWEwxLXJ6eHMzMGoyY2VzR2N0V0RpR21fUmw1WFJCSHluWUV2emk3TG9IejRQTHFzWU04TDhHS2N3NjkyZmFFY053ek9ibzA4UDhFdjJTYmRmdVpBalNYOGhuVVhKYWlnb1lmSTdBNWJSZ0RocmFGLVk0bU1XUjJmZ193?oc=5",
+          "pubDate": "Sun, 23 Aug 2026 04:01:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Eagles' Ja’Quinden Jackson has movement after being taken off in ambulance following injury - AP News",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNanVEb1RTU09HeEJNa0tIaFVidlhyU0hxUVdldENOZFpkQ3ZQQkNyc2R0TzlRNy1oblNTREpteFJDM2s0aFhWV3Q3blkzNW1FZjFHTGtVOFI4ZjBsc194RDZtUmhvNmVpQkREZzdSdmNpU3pLc0I4VzVKdWxNSkx4cFRnSEt5SnY1VVlfS3BIUjVwZmZQZHFSdWI3TFZDOUx5TGc?oc=5",
           "pubDate": "Sun, 23 Aug 2026 03:20:00 GMT",
@@ -157,28 +157,40 @@
           "source": "AP News"
         },
         {
-          "title": "Texas judge denies Karmelo Anthony’s request for new trial in deadly stabbing at track meet - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMnpnd0NFSGpTVjAwTS1wUk04a1cycXduWE1GTThtQmRua3U3NDdqMzMxSkpzZXQwYWpadDFheW9Mand5XzdWRWlXQmlVc01rbXFCbmc2M050MHJESkNaampyWTlCXzZnMThlRGU5bXl2Z3FpNVZhTmlNU05Xb1QwT1I4WjV3NHhKc0wxRlMxMmZCamcxOHRBeXZCMUY5a2IzTzRzdWd0TGlfUWl5TTBVQg?oc=5",
-          "pubDate": "Sun, 23 Aug 2026 01:55:00 GMT",
+          "title": "Jessica Pegula and Coco Gauff to meet in first all-American Cincinnati women's final in 56 years - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRi1UVzNkT1F3NFcxTHBNeHlZNGFDRU45QWZDSHlaVkEybDZORWFpZ3gwclRLWl94dXEwX3ppbFZYTVF0c0VpVU41bEtQcmFsRE5DeEoxVkhjcmxpZ1pmZF9VZW8waTZEa1pxdWU3RGFKSnVla19aSHFNZS0wN1EtWm1SdXBiVVdSMnQ3SjhxUWVJZ3RsYUlJUA?oc=5",
+          "pubDate": "Sun, 23 Aug 2026 02:58:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T13:35:54.397Z"
+      "updatedAt": "2026-08-23T14:28:51.839Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Trump caps summer of US 250th birthday with auto race through Washington - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSGxpQXR6TFM3a211MXJac09OMXk5cEVWb2ZjZlYtWHZTWG1pQkhMM2V3Qlh3bzJsMW42aTRXaDEwMUNMLUlVb2JQWkVZZUkxbXFVRkprQUxBQTNSbmdTbnlMdk16UnN2NEJVSnRSclFFUzBIbGg2V3h2SzRiYXFMY2Q0aXYyVE1id0tXRFhlaGJrTkFUMkQyYmJwQU9Lc24teHRmY1Q4Yi00T3A2VkNyMnZWTEw?oc=5",
-          "pubDate": "Sun, 23 Aug 2026 11:14:57 GMT",
+          "title": "Iran says new sanctions threatened by 'desperate' US will fail - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOakhmOU5UanRITUhNTk4zZUU4c0F6allnbnZWMC1mY1FsamNsYkRKVFpnbW5DR3hNdHItZm53ZzBNM01GRHB1M0xrYW1BTDBScUhQeTZJb0VnbVQzX1BoeElyNGJURG9DWEhnaEhINERMZjBRd3NpQ2g0d1EwWm1oM2dqWXRxbDVxY1ZPemxPX3F5alJwMmtzR081cjFZNzMtVzZrYlowMHBlblE3UGoyRGJnZG1hQQ?oc=5",
+          "pubDate": "Sun, 23 Aug 2026 13:29:43 GMT",
           "source": "Reuters"
         },
         {
           "title": "Iran says Pakistan's army chief to visit Tehran on Monday - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb1l4dmU1TFpSU2FINWVIZW5YLTMxaEhxY2hJa0tYZldGeG9Sa2loOFlfZEp5RkFDZ1JVMWQ5Y0VMY3hkeUlxZnh6QzVsTUdEcmJSckU4SGhoUURLN3M4Qi1hbkdXYXk1YWdzRUlKLU5SUmo1bC1tcE5pMzE3bkRYQmN0SW90YXNNQnNxTWZuWWwyM0x5NnRReGFiV1V3b1VOMElSVm5NVE0?oc=5",
-          "pubDate": "Sun, 23 Aug 2026 11:08:00 GMT",
+          "pubDate": "Sun, 23 Aug 2026 13:13:07 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Wartime election would 'destroy' Ukraine, Zelenskiy says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMXR2WHg4Sk1EWmREN2NWcjBGUVNFdW0ya2Rpa25CcFJqT0pZQmFYQ2YwSVVxa0ZsRWNMMEpvMk4zVmZidzNrbWF5MTFKUW5KTThIeXM2alI2aDJKSnhHM3JNWHE2c2JkM2tRTGhDbWNrd05yZ2NkNkZFZUw4ZDRjdDhZNVU0RnBoLXdBVDc4aVE0bGUtSVFrUDBoTWJrZG9ZdDEyeA?oc=5",
+          "pubDate": "Sun, 23 Aug 2026 12:32:05 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Trump caps summer of US 250th birthday with auto race through Washington - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSGxpQXR6TFM3a211MXJac09OMXk5cEVWb2ZjZlYtWHZTWG1pQkhMM2V3Qlh3bzJsMW42aTRXaDEwMUNMLUlVb2JQWkVZZUkxbXFVRkprQUxBQTNSbmdTbnlMdk16UnN2NEJVSnRSclFFUzBIbGg2V3h2SzRiYXFMY2Q0aXYyVE1id0tXRFhlaGJrTkFUMkQyYmJwQU9Lc24teHRmY1Q4Yi00T3A2VkNyMnZWTEw?oc=5",
+          "pubDate": "Sun, 23 Aug 2026 11:14:57 GMT",
           "source": "Reuters"
         },
         {
@@ -204,22 +216,10 @@
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZEJfVzdZd1FzS096TGhjb19XSF9hYnJfazRCOF8zeF9qMkJMOW5Bbm1ZSEwycjJiT1hXci05RFViS1haSDRObmdTb2dvdDVzZjY3SlNnQV80bjhrNEcyOVI5azhybnFpVlVrUmpDQTB4UHNrWURkdXQ3dklqZ2Vucm5ob3RiVTNSRGpqTVRxX0Z1R0gtTTJVb1BYYk8yajNBMFZ2N2FWOHdhYXYycFlsSHpuZzdnOEpPOVN3ckU1SWljVEp1bXdHSQ?oc=5",
           "pubDate": "Sun, 23 Aug 2026 08:55:43 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "ECB chief Lagarde 'ready to serve' WEF, Swiss newspaper reports - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVjBuVUZsWDU3MW9GRWxWX1hoc01wUEdtMjN4OEcyZF9rX05VVkpDNzZGNS1sclpSekRMNmZaWUN4OUU3LXdza2MzVjFKV1F0aWZ4U1BmY2N6UXFnNTRSd3VvWTR0clRCbDlHakVlUThtT05FcjdjSEJhai12T0EyT1lwRlVLT1ltTDA2U0I0T19qQ252dENzNXllUlUwaENIU005dw?oc=5",
-          "pubDate": "Sun, 23 Aug 2026 08:38:55 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Russian online retailer Ozon warehouse in Orenburg region hit in drone attack, governor says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZEtRSXowX3U4YjNkc2Q5UURqaXBPb3BZZkdJQU1WakxIUUVCX3hzdFF0QXhMbUx3bWp5SHpQT1pyTXNTd2NVelFvb3JrVHYwbExzYjR1aU84TlhFWEdUQXpab0U0NEhONVZmcnd1QjUxSE1ROUdRNHlMelk4c1ptQzVKSDQtWG5Bcm5IYWN2Yk5XZkZaMGlPR0JjYTdVTm5nanRvb24tM3VzYWR3aDBUMlVaNHhINEgyeV9LZFFPUQ?oc=5",
-          "pubDate": "Sun, 23 Aug 2026 07:50:41 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T13:35:54.767Z"
+      "updatedAt": "2026-08-23T14:28:52.279Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T13:35:54.838Z"
+      "updatedAt": "2026-08-23T14:28:52.340Z"
     }
   ]
 }
