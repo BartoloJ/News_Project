@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-23T06:54:17.083Z",
+  "generatedAt": "2026-08-23T07:37:53.884Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "Trump says Canada wants 'benefits' of being US state as Carney says countries in trade war",
+          "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
           "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 23 Aug 2026 05:46:43 GMT",
           "source": "BBC News"
@@ -54,7 +54,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T06:54:14.920Z"
+      "updatedAt": "2026-08-23T07:37:52.832Z"
     },
     {
       "name": "NPR",
@@ -109,11 +109,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T06:54:16.044Z"
+      "updatedAt": "2026-08-23T07:37:52.912Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
+          "pubDate": "Sun, 23 Aug 2026 04:08:02 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Trump will kick off the IndyCar race in the Beast before cars zoom through Washington's streets - AP News",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQU2QyTEtaWVBXY0JlWEwxLXJ6eHMzMGoyY2VzR2N0V0RpR21fUmw1WFJCSHluWUV2emk3TG9IejRQTHFzWU04TDhHS2N3NjkyZmFFY053ek9ibzA4UDhFdjJTYmRmdVpBalNYOGhuVVhKYWlnb1lmSTdBNWJSZ0RocmFGLVk0bU1XUjJmZ193?oc=5",
@@ -121,21 +127,9 @@
           "source": "AP News"
         },
         {
-          "title": "Officials warn wildland firefighters about the risks of using a supplement for smoke exposure - AP News",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMk1WT3UtdzNMeWFOMXhfaHhIVk9ZQVpZVnVnTk44VGo0aFdpZ3ZUMmlGUzh3YWlsQXFGX3BVY0daVVNBV1V1WW4xd0x6ME9VTy1Tc2xzX0tsemRjZmVzbVNjZXlaV2xOZ1NURG5uUVg4S1ZUVlN3Y2dCVTA1MzVmQWNGWUJHQnZ6QlBFMnRwelJJZ3BXXzlVd2duNFI1N3djaEhqY0ZfZ3pQRWp0XzdWQXlSN2ZKcVU?oc=5",
-          "pubDate": "Sun, 23 Aug 2026 04:01:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Eagles' Ja’Quinden Jackson has movement after being taken off in ambulance following injury - AP News",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNanVEb1RTU09HeEJNa0tIaFVidlhyU0hxUVdldENOZFpkQ3ZQQkNyc2R0TzlRNy1oblNTREpteFJDM2s0aFhWV3Q3blkzNW1FZjFHTGtVOFI4ZjBsc194RDZtUmhvNmVpQkREZzdSdmNpU3pLc0I4VzVKdWxNSkx4cFRnSEt5SnY1VVlfS3BIUjVwZmZQZHFSdWI3TFZDOUx5TGc?oc=5",
           "pubDate": "Sun, 23 Aug 2026 03:20:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Sun, 23 Aug 2026 03:11:32 GMT",
           "source": "AP News"
         },
         {
@@ -161,14 +155,32 @@
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZlI0LXlzSmxSN2x6R2VGcG5oUHdpQUlLc2xodmw2MmRYZzNyTHZCajRTRndxYUdPbnF2ODhodFdCTUo5eXRRc1NjTHBSVEI4cnZCcFVnUmpwdVRzVllqcXBPRjE1VUZ3TG5DVGEwUmJvVW9zcTAtRUhnN3BNa3k1RDNUN0VlZlJZ?oc=5",
           "pubDate": "Sun, 23 Aug 2026 00:18:00 GMT",
           "source": "AP News"
+        },
+        {
+          "title": "Breanna Stewart wants a safe space as transgender debate sparks rallies at Fever games - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLURsNmY0WWpNV2pPMkdoM3VDcHA0VURYaWlKd2IycWhtMFBoRVBSRlZlMC1SNV9MV2lrWDhDdXp5X0JZU0M0MUhmN2ExTDY0VFlHcldrbWVnVVkwY1JuSlFfa2l0c1ZtdGkteHRGMC05TDYzWGcyaEJNZ3NNc25pa1FCV1ZadHJqa2FLTmo3emlCaTNySzNPVzg4d1Q5Uzg?oc=5",
+          "pubDate": "Sat, 22 Aug 2026 22:35:00 GMT",
+          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T06:54:16.456Z"
+      "updatedAt": "2026-08-23T07:37:53.351Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Peace through strength, Taiwan president says on China battle anniversary - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd29YcXQzMHVTQVR1SFNUb2tUV1AxR18yZFlfYzlZWXNQNVlBQVV5a21raGM0X3dobTU5cVFIZXAzYnIyVURoc0ZWOW45bFd6WWREOXhaazhiSFB4OHBxSWM4cEJhVVB6WHctM0RQOXBjbkJBdnVnZTB5RlhIY2NuUGpielJhVVNfM0lEZHdJNEEzSmVuWFZuNWlidkZMNlRFbE5LRHNXRDF5MEhfVHF3RWJnajFETktY?oc=5",
+          "pubDate": "Sun, 23 Aug 2026 05:33:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Robots can outrun humans, but can they plug in a cable? - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPM1BqLTJsOE1xcHpZa3RxVTR1Tno5azlWcXo0QUFVRmhQUm5Cb2hVOWhDc1ZOekpxMmtVU0xZVWJDcWhGRER2QmhBUV91bUVMSERvNGEzOTBsbGxIMDY0bjNmXy1pUE51RkgtZzFtNG51WmctMkVLV2lYLS1ZbWYtblpVSVk1OFhvUmNPcVhmb3l5eFpQZUswNXZEOFpmbkZC?oc=5",
+          "pubDate": "Sun, 23 Aug 2026 04:50:00 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Alibaba proposes Hong Kong share placement worth $10 billion - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSHJGOUFEMWhrdjlTbk5JelZ2Zl9jNWZ3UjRUTFVZX3hyTmx2bnZ2Qi1Ob3FPZGdBNkoyOHpfRXk3YzFpYXMwNkZHb09uX01jWDRVZ3lJSi1rM2ZGbldMV1J1d0lLUWFTS1FLcHowTXNobENIUkxody01eDItOHZucHRUV0xjME80UkxscjVNX1dnRUlHY1BCN3o5TV9CMFNzcnlobjJBVWdyMHNiQjNtT090bEV6WXQyUU5SdQ?oc=5",
@@ -204,22 +216,10 @@
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX2NtbU5uRUdhVTY4RFR0UzhBMGEwZ3hfUW5RYmlqQmRGRTZKcU9EZkZ0ZzBFUG5Mbk9odGpyakpuMXVjbE95Ry1MQlFGTGliekktZnJkTVNzTzdlQlBIQlU2VFI3MnlNNXdVSTBNVVUtSHprYlJVSkFGdURIb25NX2tnRWhBai0xdXRQWXN1QkF0THh6T25HTnZrVDB3bE1nOU16NS1MYl9icExBVzdpcHZDSGVtNmM?oc=5",
           "pubDate": "Sat, 22 Aug 2026 21:50:06 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Let there be sunlight: Vatican plans solar and agriculture plant to cover its electricity needs - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWGw0X0lOUmZESVVqMWhVeV84V3ptaFJTWDhqSzdPUm9CUEF5QmppQUExYWVwN09OZjhqYnpOcUxaRDZHdngzTHNaWWtPZy1namVHODNULWtCNkpSV0hvSmRfMkRFeXQ2bkNIR05qQUFSdzc4bWV4ZFZud0ppWWVGQVVnbTR0ZXhSMUVWQ3Y5ZXluc1VrUXh6NUhmNEJ2RDAzdElkMjZKS3lqMXNHdHR1ZlJB?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 21:46:16 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "South Africa's former world boxing champion Tete shot dead outside his home - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVDlRa1g4Rkd1OWVuOThwZWZ5STJ4eEtUbV9iWDhDb0x1cmtvRHAwcjNGWnZsSi1WYmxDd1ZKV2I2bzFRLTA1MWQ4Q1hUOGFkc3BfZXVibDhJNXVnRWdraGZ2Sy1VUW0tS0x1bElfbGJYTDA3TzRMd2FyclppVUhPanpWVkNrZlgxbUJsdXVRS0Vuc3hITzJuX0lmWVlMVHFzQ1BPaFJpOC1NV04zc0xBZVNqQ3NhWTNr?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 21:03:28 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T06:54:16.835Z"
+      "updatedAt": "2026-08-23T07:37:53.765Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T06:54:17.083Z"
+      "updatedAt": "2026-08-23T07:37:53.884Z"
     }
   ]
 }
