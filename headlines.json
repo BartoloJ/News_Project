@@ -1,9 +1,15 @@
 {
-  "generatedAt": "2026-08-23T04:10:21.042Z",
+  "generatedAt": "2026-08-23T05:03:21.427Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "'We're not going to run from it': Sydney Marathon laughs off medal error",
+          "link": "https://www.bbc.co.uk/news/articles/cn4n4l1yyvro?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 23 Aug 2026 03:44:19 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Swedish sword attack victim was 17-year-old girl, police say",
           "link": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo?at_medium=RSS&at_campaign=rss",
@@ -17,7 +23,7 @@
           "source": "BBC News"
         },
         {
-          "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
+          "title": "Carney say Trump started trade war with fresh tarrifs 'attack'",
           "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 22 Aug 2026 20:10:00 GMT",
           "source": "BBC News"
@@ -45,16 +51,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cm2g23ng8p4o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 22 Aug 2026 16:57:19 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike",
-          "link": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 22 Aug 2026 14:35:11 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T04:10:19.856Z"
+      "updatedAt": "2026-08-23T05:03:20.170Z"
     },
     {
       "name": "NPR",
@@ -109,7 +109,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T04:10:20.068Z"
+      "updatedAt": "2026-08-23T05:03:20.352Z"
     },
     {
       "name": "AP News",
@@ -127,27 +127,21 @@
           "source": "AP News"
         },
         {
-          "title": "Deshaun Watson calls booing by Browns fans 'disrespectful' and 'personal,' but QB feels love on road - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZlI0LXlzSmxSN2x6R2VGcG5oUHdpQUlLc2xodmw2MmRYZzNyTHZCajRTRndxYUdPbnF2ODhodFdCTUo5eXRRc1NjTHBSVEI4cnZCcFVnUmpwdVRzVllqcXBPRjE1VUZ3TG5DVGEwUmJvVW9zcTAtRUhnN3BNa3k1RDNUN0VlZlJZ?oc=5",
-          "pubDate": "Sun, 23 Aug 2026 01:30:26 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Sun, 23 Aug 2026 00:01:31 GMT",
+          "pubDate": "Sun, 23 Aug 2026 02:21:27 GMT",
           "source": "AP News"
         },
         {
           "title": "Texas judge denies Karmelo Anthony’s request for new trial in deadly stabbing at track meet - AP News",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMnpnd0NFSGpTVjAwTS1wUk04a1cycXduWE1GTThtQmRua3U3NDdqMzMxSkpzZXQwYWpadDFheW9Mand5XzdWRWlXQmlVc01rbXFCbmc2M050MHJESkNaampyWTlCXzZnMThlRGU5bXl2Z3FpNVZhTmlNU05Xb1QwT1I4WjV3NHhKc0wxRlMxMmZCamcxOHRBeXZCMUY5a2IzTzRzdWd0TGlfUWl5TTBVQg?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 23:37:00 GMT",
+          "pubDate": "Sun, 23 Aug 2026 01:55:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Drivers turn their attention from the buildings to the bumps while testing out DC's IndyCar track - AP News",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPME9YWW1FdmlTWE9sLTlnNC1vN1lBalFfNVlLZ2twTl81LWM0SExGUVFMcmd0LWNueEU1TDI2LUQxcWRjY015NXNFUTE0TkxBeG9Zd0FFcm9RcjM4dEpRYnROY0JodThYZ0IxYjZoZG45bFA2SE5WSWh4dFdGMVV0TndsaUVrUQ?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 23:28:00 GMT",
+          "title": "Deshaun Watson calls booing by Browns fans 'disrespectful' and 'personal,' but QB feels love on road - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZlI0LXlzSmxSN2x6R2VGcG5oUHdpQUlLc2xodmw2MmRYZzNyTHZCajRTRndxYUdPbnF2ODhodFdCTUo5eXRRc1NjTHBSVEI4cnZCcFVnUmpwdVRzVllqcXBPRjE1VUZ3TG5DVGEwUmJvVW9zcTAtRUhnN3BNa3k1RDNUN0VlZlJZ?oc=5",
+          "pubDate": "Sun, 23 Aug 2026 00:18:00 GMT",
           "source": "AP News"
         },
         {
@@ -161,14 +155,26 @@
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZXRYaDRQbVhWeGwzNUQ1VUQ0M3c0azFDOUlOLWJONlVwZ243SVhlTnNDMkpqdjRhTTQ5TXFWTVBYa0RuOVpSWUptVGw5ZU9EMUtOVEhOY1NEN2ZMT19MdkRpUHlCcjBPQ2pJSTJJNzFLX1dOZ2ZFMkh5LTRUaGFMOUJzVjRWd3l2?oc=5",
           "pubDate": "Sat, 22 Aug 2026 21:59:00 GMT",
           "source": "AP News"
+        },
+        {
+          "title": "Chinese humanoid robots smash human records in 100m sprint and high jump at Beijing robot games - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMUkxanIwSTVhd2xuNTUteVpWQWJlQXF1M2c4R2RSM25vTTlENHZMSkRaNGJXR0Fsd1QwUmhyX3NtU3dNalg1dlBKWHJMRnJXOTNZZkJ4cDNxbmJDdEQ4YXdpZkdJZGxTT2gwR21NUzRnZnpfY1dibWF2cVVFRllELWJ1eDVzalBLLWh0M3lKNlVUR1k?oc=5",
+          "pubDate": "Sat, 22 Aug 2026 20:42:00 GMT",
+          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T04:10:20.529Z"
+      "updatedAt": "2026-08-23T05:03:20.867Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Mexican governor, indicted by US on cartel charges, requests leave again amid backlash - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeXRpd0ZRbFN5Qy1nbUcwSGZscHpNTEZDcjNwRzNGMXNHMW9yVEdpaU9fdnZjU3NlM3ZlZEFVQ2IzdmtnVXU4b3BoVkJJVl90anJBYzhYTlFvVE5lbFQ4TXlMUWZoZjAtaTJDUVhOUzV0bDUyVl9yWXQ4eEtyME9CVmZXZGZ4MnNIMjdLcnRwRHlDaVJTRkpabE94c25xUXhYX3FaaGNsNzVtSjBkMWRjU05SdGhSaUlUYjRHcXhlNDg?oc=5",
+          "pubDate": "Sun, 23 Aug 2026 01:16:00 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "EU sends helicopters, firefighters to Serbia to tackle wildfires - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUGlKOVc4ZDFhMlNOWE8wNXpPb1paZW5RRG5oZFd3VV9YaThScFlPYmRCZ2xfMU9sRFNpNUpsNk9Jb1BES19nOVJDdnJER241VzNyZWc0UGNSZWJEMEFnSW1vaDhacGEzQW1WYU9pU21mcTlWWHBOU3BiTm05cFNGY05QVFhwd1pGOEhLenNoSnliZUhEYnh3ZFpTNTMxYzZoeURya04zdy12c3NmQVUtTDcyRVE?oc=5",
@@ -200,26 +206,20 @@
           "source": "Reuters"
         },
         {
+          "title": "Pegula to meet Gauff in all-American Cincinnati final, Tiafoe faces Fils - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNam0zVUFTclpyMzBsTTN1WlJLVjVoNlQwczFsYks4UkpBeFZuSm5ENUVEYUxTTGFrMjBoLUhQS254aUNVMVBaTG93Rzd1N0xwZExmejF2R09scTNXM1ItSnUzMW04NVltZzE0U29CbmowS3BZS0hlanlzc3pSX3ZySV8wTGVWRzhvaTNlSmpTM2N2MS1MQUFleERKWjFGQQ?oc=5",
+          "pubDate": "Sat, 22 Aug 2026 20:02:00 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLWE3OUFQMndpYzJSVFBuYXBocWg0RUlmWGFtZDU0NEdtTUJzRmV2c3ZtWjJFOTUxNEFwaFNkSno5ZlhCdGpTSjJOMnNUc2U1Y01Fc1YtX2NrdnRFM0pEMDYyYXBrWGdHUVpTei1ramJ6YVE1aFFFTGVwX0drX1lBOFdyRGM4cEpZVG9uUEhka1J1RDZDQ0F3UWY3S0VjQVhLbzVjYmZPazhPcnV3c1ZVd0F4bExTeU9QN0VnOVRyVlA?oc=5",
           "pubDate": "Sat, 22 Aug 2026 20:00:21 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Chinese robot beats Usain Bolt's 100m world record at Beijing games - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOFpWcEU2Z3A5dEFDSXRERWhFSGsxd0NCRDAydDk5MFZXYmkwajZ0OFhwZFh0TzN1NVM0bUFmTTBocUNfYzZoT1FUdFVGazRZVHp3NC00eVNlWlFUcnFuOW1QdkhWeWk0OW42OW42SWxWVjFJRGFKZi0xYUN2ekFuUHRyVEdzNmg0MS1NeU80MFZWeTNmX0VTR2d5VFhQUFlzVmZBX2ZKNnFOM2tFbGtiZE1fV0drOXNtOTFMQWh0VQ?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 19:14:19 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Promoted Hull stun Man Utd, Spurs thrashed, Ipswich enjoy winning return - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONkNEcEVKSFZQVFBPWmdRblhfM19wRHdGbTc0WXZkMVI2YWwxTzdrWE0wWWVPSkdnclJVbm9XVTFpemhzczBhZk1PZjExYi1oanRRYkw4eENtRC1CUzA0WFNxMTJhNEdRaVo5RlZYdXpuQlRlV0dFanV1cG8ycWJnWEVmbGNwTGl5WnQtZl9oOENUZ3dYWVpSUDc1bGtULXBGYnpwcDVn?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 19:03:34 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T04:10:20.897Z"
+      "updatedAt": "2026-08-23T05:03:21.285Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T04:10:21.042Z"
+      "updatedAt": "2026-08-23T05:03:21.427Z"
     }
   ]
 }
