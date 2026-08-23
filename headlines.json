@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-23T20:29:20.999Z",
+  "generatedAt": "2026-08-23T20:53:58.084Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "Trump waves green flag kicking off high-speed IndyCar race through Washington",
+          "title": "Trump waves green flag to start IndyCar race through Washington streets",
           "link": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 23 Aug 2026 20:19:36 GMT",
           "source": "BBC News"
@@ -29,7 +29,7 @@
           "source": "BBC News"
         },
         {
-          "title": "Thousands struggling without power in Indiana 12 days after severe storms",
+          "title": "Frustration builds in Indiana town struggling without power for 12 days",
           "link": "https://www.bbc.co.uk/news/articles/clyly8vdpdwo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 23 Aug 2026 15:54:32 GMT",
           "source": "BBC News"
@@ -54,7 +54,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T20:29:20.005Z"
+      "updatedAt": "2026-08-23T20:53:56.860Z"
     },
     {
       "name": "NPR",
@@ -109,11 +109,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T20:29:20.047Z"
+      "updatedAt": "2026-08-23T20:53:57.104Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "He was waiting for his son to return from the USS Lincoln. Then Border Patrol arrested him. - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa1IxaXJWZ3VYZkhCQ0FHVm0zUnMtLTNUUnk1UzRQN3FwazFFVmtXVVMyX0ZCM2NwUExzVlc4RVQyd3JDTVVjRjQyQTdxaml3bDZxMVJyOHNERVZ2OEFWUGo4SllSSVozWXZBTDFOeUVrNEF4dGJ6MXVNSWxFSEx1VFE2dzFXYV94bXF4anVaakIxeHY0Z1RDQ3gtYXJoS0NoeUhRczJYTVM?oc=5",
+          "pubDate": "Sun, 23 Aug 2026 20:03:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Iran official says support for new sanctions would be an 'act of war,' and other Middle East news - AP News",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaHdQUFYyOHpTM3RqRFRpLVhoaDJZNVdRZFhqS3pDRHpkSlJ2VUxPaG0wUVN0WWpwQWphNzFGUFM0SHpHZTh4QW04cllJRTJsRWRCMWpSLTFpUS1TR0Q0elNabDVMcC1Iek1hZHFEN3hUeG5Rc2xHYTM5RnVzdGFDUDR1ME5KYWNYX08zcTNpa0stN0E5R2FpY09sSXdvV1FkV0kxa3I4LWQwT0gy?oc=5",
@@ -155,16 +161,10 @@
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVUpEM0MwOHJxRV9tR2NuUkV6NFFBSzFwRHM3dmp2Z2U1TlBaTVRWY1ZDNDg2U0NTX0V0dlJVSkVNZF9FV1dDY2F4ZFBaMkhuVjl1MHRVYXZPZm1SUlRCOEZoa1lTZ0toek0wYVJIN2d0eTEtSXFYLVdOVFNOdHZYM0pzZXNKb2NscjNFLThoX1hpZmgzcHJoTQ?oc=5",
           "pubDate": "Sun, 23 Aug 2026 18:38:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Trump waves the green flag to start the IndyCar race as drivers zoom through Washington's streets - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQU2QyTEtaWVBXY0JlWEwxLXJ6eHMzMGoyY2VzR2N0V0RpR21fUmw1WFJCSHluWUV2emk3TG9IejRQTHFzWU04TDhHS2N3NjkyZmFFY053ek9ibzA4UDhFdjJTYmRmdVpBalNYOGhuVVhKYWlnb1lmSTdBNWJSZ0RocmFGLVk0bU1XUjJmZ193?oc=5",
-          "pubDate": "Sun, 23 Aug 2026 18:12:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T20:29:20.461Z"
+      "updatedAt": "2026-08-23T20:53:57.565Z"
     },
     {
       "name": "Reuters",
@@ -173,6 +173,12 @@
           "title": "Trump caps summer of US 250th birthday at IndyCar race through Washington - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSGxpQXR6TFM3a211MXJac09OMXk5cEVWb2ZjZlYtWHZTWG1pQkhMM2V3Qlh3bzJsMW42aTRXaDEwMUNMLUlVb2JQWkVZZUkxbXFVRkprQUxBQTNSbmdTbnlMdk16UnN2NEJVSnRSclFFUzBIbGg2V3h2SzRiYXFMY2Q0aXYyVE1id0tXRFhlaGJrTkFUMkQyYmJwQU9Lc24teHRmY1Q4Yi00T3A2VkNyMnZWTEw?oc=5",
           "pubDate": "Sun, 23 Aug 2026 19:55:10 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "New pro-presidential party wins large majority in Kazakh election, exit polls show - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ0UyYlJfR0swcWM4cTlzdmlMc3l5aUdpbHZUOFFfMVNEbVdlTnB3dGJRTjNjY21WSEZmdkR5aGdZMURMOV9PYWpVdElOcEFzLUk2MzFDd2h3UTY5MGt0LVUxT2dKMDd3elVmd09RNEdIRmszNDE3N1lpY1ZDTmZteTVaeXJWcFZUZTdEZ2FCSEVKaDBWQVFjTktpc3J5RnpDdG11YWNDM1dJeVdZc2R0TDBKNA?oc=5",
+          "pubDate": "Sun, 23 Aug 2026 19:28:54 GMT",
           "source": "Reuters"
         },
         {
@@ -210,16 +216,10 @@
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcHd3a3l0Q0tteVVERzJqSjNEajFFQkFKenYwWklNRlJER2ZJcVkwQWR4Nmw5cTM0UEM1WDJkSmV3S2pOZlZCcVRJN09tVF9LWWVpSmh5ZlhNTm1ZRHdHYURUS3ltRE4wQkY5OElmbFlndU5ua19RUERxT3hCVDlvSjE3OHF6ZnB1SW9nX1F5aTFsNlVFenZ1T1RFTkdNNmgtVTJQTTlBaTU3QjhqZGpBbEJrX1pLZw?oc=5",
           "pubDate": "Sun, 23 Aug 2026 17:00:09 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Lanier crushes Naraoka to become first Frenchman to win singles world title - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONEQ3S0NjZTFCNzR4eVFqVGxRR2RrS2hWTTNHQ2N3eVE3ejg5UjA4WDYxOHI3YlhwVU1HRENRN20xUnFUd1U1TUNMMHJrcEtibkNSOGU3RHU3T2hhcnBjaUxhWEN5bldhSERRM05ScU42TDY1MVVFV3RfSi1NSF94cG1MWUx4SjB2dVhRejE3d2M0OURtdmNlRmVjMkNiNV9hZDRaVHBHNzEzUjVocGl3THBn?oc=5",
-          "pubDate": "Sun, 23 Aug 2026 14:06:42 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T20:29:20.896Z"
+      "updatedAt": "2026-08-23T20:53:57.987Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T20:29:20.999Z"
+      "updatedAt": "2026-08-23T20:53:58.084Z"
     }
   ]
 }
