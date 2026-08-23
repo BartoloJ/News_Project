@@ -1,13 +1,43 @@
 {
-  "generatedAt": "2026-08-23T12:51:03.952Z",
+  "generatedAt": "2026-08-23T13:35:54.838Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "Robots compete in boxing, football and sprinting at World Humanoid Games",
+          "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
+          "link": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 23 Aug 2026 12:56:43 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "DR Congo and M23 rebels agree roadmap for peace talks",
+          "link": "https://www.bbc.co.uk/news/articles/cre4e1q3wewo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 23 Aug 2026 12:52:08 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Wicker Man director's sons complete their late father's film trilogy",
+          "link": "https://www.bbc.co.uk/news/articles/cj36kv62g7yo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 23 Aug 2026 12:51:15 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Robot boxing, football and sprinting at World Humanoid Games",
           "link": "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 23 Aug 2026 12:47:06 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "'New season, new trim' - Haaland reveals buzzcut",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cr4941zkgevo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 23 Aug 2026 12:36:54 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Golf brand apologises for advert that shows woman being pushed over",
+          "link": "https://www.bbc.co.uk/sport/golf/articles/cx2j2g42xq9o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 23 Aug 2026 12:25:40 GMT",
           "source": "BBC News"
         },
         {
@@ -17,48 +47,30 @@
           "source": "BBC News"
         },
         {
-          "title": "Zelensky has 'questions to answer' about corruption in his government, sacked minister tells BBC",
-          "link": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 23 Aug 2026 09:37:05 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
           "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 23 Aug 2026 05:46:43 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "'We're not going to run from it': Sydney Marathon laughs off medal error",
-          "link": "https://www.bbc.co.uk/news/articles/cn4n4l1yyvro?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 23 Aug 2026 03:44:19 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Girl, 17, killed in Swedish sword attack, police say",
-          "link": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 23 Aug 2026 01:34:15 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Trump Mobile promoted a 'Made in the USA' phone - but the details kept changing",
-          "link": "https://www.bbc.co.uk/news/videos/c20eq9ywplqo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 22 Aug 2026 23:45:01 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Did a goat herder's lucky $200 nugget spark a gold rush in western Kenya?",
-          "link": "https://www.bbc.co.uk/news/articles/clyjmnvdr95o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 22 Aug 2026 23:22:02 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T12:51:02.274Z"
+      "updatedAt": "2026-08-23T13:35:53.962Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Becerra, running for governor of California, faces a health insurance problem",
+          "link": "https://www.npr.org/2026/08/23/nx-s1-5941143/california-governor-xavier-becerra-health-insurance",
+          "pubDate": "Sun, 23 Aug 2026 08:50:09 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Tropical Storm Moke to cause more flooding as Hawaii recovers from Lala",
+          "link": "https://www.npr.org/2026/08/23/nx-s1-5941769/tropical-storm-moke-hawaii",
+          "pubDate": "Sun, 23 Aug 2026 08:48:05 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Body cam shows federal agent was 'unjustified' in Memphis shooting, attorney says",
           "link": "https://www.npr.org/2026/08/23/nx-s1-5936573/memphis-task-force-shooting-video-jonah-neal",
@@ -94,26 +106,26 @@
           "link": "https://www.npr.org/2026/08/19/nx-s1-5867638/artificial-intelligence-brainrot-memes-copyright-spyder-tung-tung-sahur",
           "pubDate": "Fri, 21 Aug 2026 18:16:46 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Supreme Court allows Trump's ballroom construction to continue for now",
-          "link": "https://www.npr.org/2026/08/21/nx-s1-5935417/supreme-court-allows-trumps-ballroom-construction-to-continue-for-now",
-          "pubDate": "Fri, 21 Aug 2026 14:47:48 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Beatty files emergency request to stop Trump's name from returning to Kennedy Center",
-          "link": "https://www.npr.org/2026/08/21/nx-s1-5940799/kennedy-center-president-trump-filing",
-          "pubDate": "Fri, 21 Aug 2026 12:40:59 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T12:51:02.642Z"
+      "updatedAt": "2026-08-23T13:35:54.004Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "As the Clancy case highlights postpartum psychosis, a mom stricken by it shares her story of hope - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTW1Bbm0wbm1uS1JMQ2UyQ1VkV0ZJX2lnRENrbEZFNGhEZy0tX25HSi1IQW5IaHhJakpCZlBwVWQwOXZXRkgzMnlTbDA0QlJLamNwMUFJcU9XMy14ZGQ1ajJiVGZjZW9NOWtDcWw5cVBfMDQ0RzJkYlhhMzhfeHh4Ymk3bEFZQTVvTy02YzIza3pjcHJlNnRYUkptVUZvYmNkQmljY05NeFZjdw?oc=5",
+          "pubDate": "Sun, 23 Aug 2026 12:12:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Migrants clash with police and cut through a fence at a Greek detention center - AP News",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNT2VNOGxYc2gtaDQwcXU1VE1lRWZ3QjNCN19GOFBpb2h6OVhTT1FmYTZxaHlHV0tha1dZeWJ1WTMxVktzYjBub3VkRFBUYTI1eWJlODdOSlh0d1Jfek9SOGFaZkdZWk1fRldMNEl5T19wWmxNYlFMZ2FGTFZQeS1DWWhFbVlzSjFKQjFvX3NxM3Fmb3VEYTBoQ0RiVUNNdw?oc=5",
+          "pubDate": "Sun, 23 Aug 2026 11:44:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
@@ -127,21 +139,15 @@
           "source": "AP News"
         },
         {
-          "title": "Iran’s president says US memorandum is best path out of stalled war, and other Middle East news - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaHdQUFYyOHpTM3RqRFRpLVhoaDJZNVdRZFhqS3pDRHpkSlJ2VUxPaG0wUVN0WWpwQWphNzFGUFM0SHpHZTh4QW04cllJRTJsRWRCMWpSLTFpUS1TR0Q0elNabDVMcC1Iek1hZHFEN3hUeG5Rc2xHYTM5RnVzdGFDUDR1ME5KYWNYX08zcTNpa0stN0E5R2FpY09sSXdvV1FkV0kxa3I4LWQwT0gy?oc=5",
-          "pubDate": "Sun, 23 Aug 2026 10:11:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Zelenskyy details rift with dismissed defense minister, saying some of his actions were misguided - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONV81OVhGQUZYeXc2ZU5aQUlwZWRCdGU5OGlqdllsZXVZbEtJQzVXQ05ZMlZVRlVua0xUdDRpVmg3b25KRnNUbEVPc1JhQks5OHlPYi13RDdleGNxM2tlWnV2TUxYMXRsenNSN3VmdEoycFVSaFNEVll5Um1fOUFxbUNac3lfM1pTbTg3WVpHd21IdnU3R1ZkS2dyai0?oc=5",
-          "pubDate": "Sun, 23 Aug 2026 09:23:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Dutch Grand Prix sees a potential path back to F1 amid Middle East uncertainty - AP News",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcGVkQ2lxMENWRFVXdWxNRVpzQ0lFYmFyaUlmazRkb2JzNEhnUUFjX2dFUGxEUTJxS2QyRzI0bkp4U3gtNFJ0am9MMDhuc09LZzN6ZjRJOWtOdl9namJHaUpQYmd1Q2NnQk51Z1dqbmZ0ZW9haTk1dG5paFJWSENmSnEtT3NOVlB1d3B4ZA?oc=5",
           "pubDate": "Sun, 23 Aug 2026 08:15:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Eagles' Ja’Quinden Jackson has movement after being taken off in ambulance following injury - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNanVEb1RTU09HeEJNa0tIaFVidlhyU0hxUVdldENOZFpkQ3ZQQkNyc2R0TzlRNy1oblNTREpteFJDM2s0aFhWV3Q3blkzNW1FZjFHTGtVOFI4ZjBsc194RDZtUmhvNmVpQkREZzdSdmNpU3pLc0I4VzVKdWxNSkx4cFRnSEt5SnY1VVlfS3BIUjVwZmZQZHFSdWI3TFZDOUx5TGc?oc=5",
+          "pubDate": "Sun, 23 Aug 2026 03:20:00 GMT",
           "source": "AP News"
         },
         {
@@ -155,16 +161,10 @@
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMnpnd0NFSGpTVjAwTS1wUk04a1cycXduWE1GTThtQmRua3U3NDdqMzMxSkpzZXQwYWpadDFheW9Mand5XzdWRWlXQmlVc01rbXFCbmc2M050MHJESkNaampyWTlCXzZnMThlRGU5bXl2Z3FpNVZhTmlNU05Xb1QwT1I4WjV3NHhKc0wxRlMxMmZCamcxOHRBeXZCMUY5a2IzTzRzdWd0TGlfUWl5TTBVQg?oc=5",
           "pubDate": "Sun, 23 Aug 2026 01:55:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Liberty beat the Fever 109-102 as Fiebich returns with 20 points in her first game since July 3 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNmZyNDJKVGowVzZpYnVTN3drN3EyeW9UR2tZOUFiNTBsVExlY0pVNVJ5NEFCUEozUmRfVmxSSXdfWk00VFViX0Y3dXctWnA2cWtHVTZIbzB0SzgzdUNRRGU2YWhpZjY0XzRJU3BPZGVDUXh2RDg0LUdmRE1JODFlRUJKZjNRQQ?oc=5",
-          "pubDate": "Sun, 23 Aug 2026 01:37:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T12:51:03.277Z"
+      "updatedAt": "2026-08-23T13:35:54.397Z"
     },
     {
       "name": "Reuters",
@@ -219,7 +219,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T12:51:03.661Z"
+      "updatedAt": "2026-08-23T13:35:54.767Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T12:51:03.952Z"
+      "updatedAt": "2026-08-23T13:35:54.838Z"
     }
   ]
 }
