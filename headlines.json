@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T01:44:47.213Z",
+  "generatedAt": "2026-08-23T03:08:25.166Z",
   "sources": [
     {
       "name": "BBC News",
@@ -54,7 +54,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T01:44:45.880Z"
+      "updatedAt": "2026-08-23T03:08:24.442Z"
     },
     {
       "name": "NPR",
@@ -109,15 +109,27 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T01:44:45.981Z"
+      "updatedAt": "2026-08-23T03:08:24.525Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "How a sanctuary outside LA has cared for rare, endangered gibbons for a half-century - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOFpfS0dwWF9heDl4YnV4Y3hscHVISzBQNlUtM0tPOFBMaVZmR3JwelRHSzJOUEtIYnZIRE9RVFJCY2UtU01mR3ZGSFlma0FpVklPWkpUeGYxLXlXM1ZiVTZ4b0U1cFBOekJCV0JMd00xb1d6dlVzaGhncmxpMktnMG5pQUs3TFpjclFtcXlGVXVaR092TFNWcmNaUmh0bEk?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 22:50:00 GMT",
+          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
+          "pubDate": "Sun, 23 Aug 2026 00:01:31 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Texas judge denies Karmelo Anthony’s request for new trial in deadly stabbing at track meet - AP News",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMnpnd0NFSGpTVjAwTS1wUk04a1cycXduWE1GTThtQmRua3U3NDdqMzMxSkpzZXQwYWpadDFheW9Mand5XzdWRWlXQmlVc01rbXFCbmc2M050MHJESkNaampyWTlCXzZnMThlRGU5bXl2Z3FpNVZhTmlNU05Xb1QwT1I4WjV3NHhKc0wxRlMxMmZCamcxOHRBeXZCMUY5a2IzTzRzdWd0TGlfUWl5TTBVQg?oc=5",
+          "pubDate": "Sat, 22 Aug 2026 23:37:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Drivers turn their attention from the buildings to the bumps while testing out DC's IndyCar track - AP News",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPME9YWW1FdmlTWE9sLTlnNC1vN1lBalFfNVlLZ2twTl81LWM0SExGUVFMcmd0LWNueEU1TDI2LUQxcWRjY015NXNFUTE0TkxBeG9Zd0FFcm9RcjM4dEpRYnROY0JodThYZ0IxYjZoZG45bFA2SE5WSWh4dFdGMVV0TndsaUVrUQ?oc=5",
+          "pubDate": "Sat, 22 Aug 2026 23:28:00 GMT",
           "source": "AP News"
         },
         {
@@ -127,9 +139,15 @@
           "source": "AP News"
         },
         {
-          "title": "Iran security chief threatens neighbors against economic measures, and other Mideast developments - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdmE4am10S043c0dka2x4cWdVWG9zanBfZkFVSnpyck5QWW9mUHNpLXdjaWxPYzhfSVBQTkxrb2hXS1c1dF9mbnlPZ2RzZnJzYlZFUTJsUGtSUXZRajQ2Z2tubkkyT3FNaXh1RWc1WXZwTEVSaVR0Zzhmc0ZKalg3OFcyeHZmWkJvWnRFV2RaNmJ6cGM?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 20:59:00 GMT",
+          "title": "A thumbs-up and 30 pitches: Ohtani’s latest step back toward the Dodgers’ mound - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZXRYaDRQbVhWeGwzNUQ1VUQ0M3c0azFDOUlOLWJONlVwZ243SVhlTnNDMkpqdjRhTTQ5TXFWTVBYa0RuOVpSWUptVGw5ZU9EMUtOVEhOY1NEN2ZMT19MdkRpUHlCcjBPQ2pJSTJJNzFLX1dOZ2ZFMkh5LTRUaGFMOUJzVjRWd3l2?oc=5",
+          "pubDate": "Sat, 22 Aug 2026 21:59:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Chinese humanoid robots smash human records in 100m sprint and high jump at Beijing robot games - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMUkxanIwSTVhd2xuNTUteVpWQWJlQXF1M2c4R2RSM25vTTlENHZMSkRaNGJXR0Fsd1QwUmhyX3NtU3dNalg1dlBKWHJMRnJXOTNZZkJ4cDNxbmJDdEQ4YXdpZkdJZGxTT2gwR21NUzRnZnpfY1dibWF2cVVFRllELWJ1eDVzalBLLWh0M3lKNlVUR1k?oc=5",
+          "pubDate": "Sat, 22 Aug 2026 20:42:00 GMT",
           "source": "AP News"
         },
         {
@@ -143,28 +161,10 @@
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQVlYNWswSUYyM3pKRmI0SGpaU3k2WEVGa19ubU5fZmNRclBiMUpRcHFnRGU4SzZoLVVVbWxsR25fTHZ1NzI1ZUswYVdXUk85MnpTc1NpakhqSC1OMk1KMG5CcGdmaF90TVIyanhiWUNweTRzVVhFQXJhaXllQnlOMFo1Z2ktRmZKNEdpTEtWb2IzVmFaQ1RuS2pOLTJPcVdmWEE?oc=5",
           "pubDate": "Sat, 22 Aug 2026 18:31:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Russian and Ukrainian attacks kill 10 people, a day after deadly shopping mall drone strike - AP News",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVURpSFQ4WnVGVmZkQzdrYS1FTUVNdHRIREZWYU1iek1RV24tNjlINGRZSHU3bElZSFBHVHFTQklmdXRlaGk2eWFoM2NUWWVRTGkzbjdxM1FkTXFpM0hDOTBXaDZsQXFZZEJLcGtLai16ZjZHQmtpcVhLOG1Yc2dpSzJQSi1ObWNIT2xMbkwxQmxha0RmV0ZfNWFwQjFpeFNJ?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 16:41:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Palestinians in Gaza scavenge trash for things to burn to cook meals, in photos - AP News",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbmk2V0FSWWNnbkpsVExybkVsc3d2eEdibUVfYTUtNXBycDdSTHQwLUFmbE9yWEtYZVdBMFMxbkZvZmJsZjM2bFN3LVUxSDhlRG5jOUtLWW40UDFGejhjdlpFN0J5TVlDazRUSDJyYTd6bzAyc3l5S1QzY0ZCOWRyNjhhb1lSYmZuc0UzNEJuTG1tU3cyVGNlR1FBZjRMSzJSVHhNa09DbzZVVWdicnBIbFFzSXY?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 16:35:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "A US envoy says Israel did not give a warning to the US ahead of a recent Syria air strike - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMTRPSG42N2hfX1hDV0FtOUxMeXdvNVM5WUhwRmtDYVR1VnZQc3BCYnBWU0YyWG1VNFdSZ3NZMDVJYTY5dHpLSHFTZUM3WjR3MEM4VDdaNVp3X1JVU0drSGVJNS1FQ0lma19hc0htaG9BbktsaTMtM09GVDRHU25jMDdtTHA5M2ZXMkFvOTl2V3RqMlMzZHAzcEJJTVk?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 16:32:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T01:44:46.428Z"
+      "updatedAt": "2026-08-23T03:08:25.042Z"
     },
     {
       "name": "Reuters",
@@ -200,12 +200,6 @@
           "source": "Reuters"
         },
         {
-          "title": "Canada to impose retaliatory tariffs on US steel, electronics, other products, Carney says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ2ZPTUg0NjVrWlY5aVBzbS1ucUhqc014UGZYMkhlX3R1bkpDMnlXMmZyT2hCVEs1dXZNbkE4Nlc1aXZQemtvNUJFWFVyLWJBb1BWelBfVmJBRVlUMk4tR2lNVWw5NW11NG5SOUtGZVZNZ0lIXzJYVlJsNFE0Vlh3TExaMnJmOGhJNmNWSkd1MkE1QmpjeHl1TXQwYUkydWRkSUVxU21UV3VBdHVJZUV2U05NaGI2d1RuNUJvMg?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 20:03:10 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLWE3OUFQMndpYzJSVFBuYXBocWg0RUlmWGFtZDU0NEdtTUJzRmV2c3ZtWjJFOTUxNEFwaFNkSno5ZlhCdGpTSjJOMnNUc2U1Y01Fc1YtX2NrdnRFM0pEMDYyYXBrWGdHUVpTei1ramJ6YVE1aFFFTGVwX0drX1lBOFdyRGM4cEpZVG9uUEhka1J1RDZDQ0F3UWY3S0VjQVhLbzVjYmZPazhPcnV3c1ZVd0F4bExTeU9QN0VnOVRyVlA?oc=5",
           "pubDate": "Sat, 22 Aug 2026 20:00:21 GMT",
@@ -216,10 +210,16 @@
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOFpWcEU2Z3A5dEFDSXRERWhFSGsxd0NCRDAydDk5MFZXYmkwajZ0OFhwZFh0TzN1NVM0bUFmTTBocUNfYzZoT1FUdFVGazRZVHp3NC00eVNlWlFUcnFuOW1QdkhWeWk0OW42OW42SWxWVjFJRGFKZi0xYUN2ekFuUHRyVEdzNmg0MS1NeU80MFZWeTNmX0VTR2d5VFhQUFlzVmZBX2ZKNnFOM2tFbGtiZE1fV0drOXNtOTFMQWh0VQ?oc=5",
           "pubDate": "Sat, 22 Aug 2026 19:14:19 GMT",
           "source": "Reuters"
+        },
+        {
+          "title": "Promoted Hull stun Man Utd, Spurs thrashed, Ipswich enjoy winning return - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONkNEcEVKSFZQVFBPWmdRblhfM19wRHdGbTc0WXZkMVI2YWwxTzdrWE0wWWVPSkdnclJVbm9XVTFpemhzczBhZk1PZjExYi1oanRRYkw4eENtRC1CUzA0WFNxMTJhNEdRaVo5RlZYdXpuQlRlV0dFanV1cG8ycWJnWEVmbGNwTGl5WnQtZl9oOENUZ3dYWVpSUDc1bGtULXBGYnpwcDVn?oc=5",
+          "pubDate": "Sat, 22 Aug 2026 19:03:34 GMT",
+          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T01:44:46.849Z"
+      "updatedAt": "2026-08-23T03:08:25.063Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T01:44:47.213Z"
+      "updatedAt": "2026-08-23T03:08:25.166Z"
     }
   ]
 }
