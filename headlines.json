@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T19:26:03.233Z",
+  "generatedAt": "2026-08-23T19:47:51.673Z",
   "sources": [
     {
       "name": "BBC News",
@@ -54,7 +54,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T19:26:01.639Z"
+      "updatedAt": "2026-08-23T19:47:50.554Z"
     },
     {
       "name": "NPR",
@@ -109,11 +109,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T19:26:01.960Z"
+      "updatedAt": "2026-08-23T19:47:50.613Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "A landslide at a landfill in the capital of Guinea kills 30 people, officials say - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQM0pXVm1oUkllY1YtOXY4MGZjMzBQWFg2V0wwU3V1YVFyalZ1V3BEbGRvckdhYlFSUVRIb3p5WFJHQTdmZ3l6dnBIWlg4OEtnOVRvaU05R3VVWlAwNm9jSnNIS0RydXlFTVBfWkZWaG1vdDFkcHRtaUNINmlLMjFSUjVRc1dGLVd0dkVDWlJsVDRSbEZGcGZZNFR1X0FoMkxDOEE?oc=5",
+          "pubDate": "Sun, 23 Aug 2026 19:37:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "A US envoy clarifies his comments on Golan Heights that contradicted Trump’s position - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaVVKdER4VWQxbUZYZWN4ZWlLZmVuUWVQTnNFeVU5LU9PM0FMYTE5Mjk5RjBPb1JsR0ZfR3l0Z2JDYkxzN0pUVmtBZWZxcU1WeERFWUtLaFFNVjVMZFV3LTlPUkQwaVBzY1p3XzhSSHp3Mm5jZi16OVBrcVNQeXV1ajlxQnhpSUJleWN4TWl5bXN6elV3RmFVZk1FaUs2WmM?oc=5",
+          "pubDate": "Sun, 23 Aug 2026 19:29:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Wildfire started by humans approaches Reno, Nevada, forcing thousands of evacuations - AP News",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVUpEM0MwOHJxRV9tR2NuUkV6NFFBSzFwRHM3dmp2Z2U1TlBaTVRWY1ZDNDg2U0NTX0V0dlJVSkVNZF9FV1dDY2F4ZFBaMkhuVjl1MHRVYXZPZm1SUlRCOEZoa1lTZ0toek0wYVJIN2d0eTEtSXFYLVdOVFNOdHZYM0pzZXNKb2NscjNFLThoX1hpZmgzcHJoTQ?oc=5",
@@ -124,6 +136,12 @@
           "title": "Auto Racing - AP News",
           "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9qekN5SGJkSzNLUkszajRtNDl4MTVkWWlqc3JqbTl6VmIwdTFuRUZxQ29xOVhJY3gtOUJxLVFQTm1RZVI2a3kyMVdn?oc=5",
           "pubDate": "Sun, 23 Aug 2026 18:34:58 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Premier League: Maresca's 'perfect day' as Man City rallies for win, Liverpool grabs late equalizer - AP News",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWVdCbzZ5YUdKYTg0ZWVMc2dMY2ZfVndlcUZhWFRqS25fbk5oNUZPRkZEU2FpVDZKTW5XVXVwTGhGdlRFbnpWR1NVQi1oRWVHdG02ZVhOc0FYS1JhNTl5QmJoN1FMOV85eERFZXJZekVLZTdEMjdvelNpeW84Q01WYzJlRUFjMmdvck9ja0dMMjVXeUFfbGZxOEZwMFVyRjcwaVI1NFdmWTBHQVNqaFJ6RA?oc=5",
+          "pubDate": "Sun, 23 Aug 2026 18:07:00 GMT",
           "source": "AP News"
         },
         {
@@ -143,28 +161,10 @@
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNT2VNOGxYc2gtaDQwcXU1VE1lRWZ3QjNCN19GOFBpb2h6OVhTT1FmYTZxaHlHV0tha1dZeWJ1WTMxVktzYjBub3VkRFBUYTI1eWJlODdOSlh0d1Jfek9SOGFaZkdZWk1fRldMNEl5T19wWmxNYlFMZ2FGTFZQeS1DWWhFbVlzSjFKQjFvX3NxM3Fmb3VEYTBoQ0RiVUNNdw?oc=5",
           "pubDate": "Sun, 23 Aug 2026 16:44:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "IndyCar comes to the nation’s Capital, in photos - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWnpMbE1pbTZkRkZlc3pqRjZGN250cTJzcHczQnVkenpoSjVaeExldEwtaklRcTZqbnJKazluMzVpaFgtOEZaVkJUZFowTjRkMmdsRTJmN1lEVVkwOFU0dTFqMzBUMHF3NzhYLUVxYjAxZFVXTTZ3VGM1ZFVJT3FtNGcyOG5qVjF1Y3NaNTFCZjBnOEpQZllnUW55d2hWeXROLVRTYTlB?oc=5",
-          "pubDate": "Sun, 23 Aug 2026 16:39:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "At least 22 people killed in a landslide in capital of Guinea, officials say - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQM0pXVm1oUkllY1YtOXY4MGZjMzBQWFg2V0wwU3V1YVFyalZ1V3BEbGRvckdhYlFSUVRIb3p5WFJHQTdmZ3l6dnBIWlg4OEtnOVRvaU05R3VVWlAwNm9jSnNIS0RydXlFTVBfWkZWaG1vdDFkcHRtaUNINmlLMjFSUjVRc1dGLVd0dkVDWlJsVDRSbEZGcGZZNFR1X0FoMkxDOEE?oc=5",
-          "pubDate": "Sun, 23 Aug 2026 16:37:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Iran’s president says US memorandum is best path out of stalled war, and other Middle East news - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaHdQUFYyOHpTM3RqRFRpLVhoaDJZNVdRZFhqS3pDRHpkSlJ2VUxPaG0wUVN0WWpwQWphNzFGUFM0SHpHZTh4QW04cllJRTJsRWRCMWpSLTFpUS1TR0Q0elNabDVMcC1Iek1hZHFEN3hUeG5Rc2xHYTM5RnVzdGFDUDR1ME5KYWNYX08zcTNpa0stN0E5R2FpY09sSXdvV1FkV0kxa3I4LWQwT0gy?oc=5",
-          "pubDate": "Sun, 23 Aug 2026 16:26:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T19:26:02.381Z"
+      "updatedAt": "2026-08-23T19:47:51.139Z"
     },
     {
       "name": "Reuters",
@@ -219,7 +219,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T19:26:02.859Z"
+      "updatedAt": "2026-08-23T19:47:51.554Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T19:26:03.233Z"
+      "updatedAt": "2026-08-23T19:47:51.673Z"
     }
   ]
 }
