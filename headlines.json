@@ -1,9 +1,15 @@
 {
-  "generatedAt": "2026-08-23T14:54:12.530Z",
+  "generatedAt": "2026-08-23T15:27:51.952Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "France links rise in drownings to heatwaves",
+          "link": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 23 Aug 2026 15:00:17 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Kejelcha breaks men's half marathon world record by 29 seconds",
           "link": "https://www.bbc.co.uk/sport/athletics/articles/c9989lm0vkro?at_medium=RSS&at_campaign=rss",
@@ -45,16 +51,10 @@
           "link": "https://www.bbc.co.uk/sport/golf/articles/cx2j2g42xq9o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 23 Aug 2026 12:25:40 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Dozens of co-ordinated arson attacks hit southern Thailand",
-          "link": "https://www.bbc.co.uk/news/articles/c8enegx4xy3o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 23 Aug 2026 11:50:59 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T14:54:11.946Z"
+      "updatedAt": "2026-08-23T15:27:50.612Z"
     },
     {
       "name": "NPR",
@@ -109,7 +109,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T14:54:12.006Z"
+      "updatedAt": "2026-08-23T15:27:50.817Z"
     },
     {
       "name": "AP News",
@@ -124,6 +124,18 @@
           "title": "Haaland’s haircut: Man City star chops off his locks for the new season - AP News",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWmtYQjVYMWVseV9xSXlVZURoZGU1V2NjdF9KOHhXbXA4NG9Cc29XME55QmUzMmh3VEN1V256M1d0VFlrTF9MQ2JmOFhQR2w0SjNVRXBpdkpZSF81a0FJWFFQSnhNRWJTT3Q1WDZQb3FtY2RKZzdsZjVhUHhPU2RQSHg3SGZNY3QxVndSNmFHaGdZODk3Ullv?oc=5",
           "pubDate": "Sun, 23 Aug 2026 12:58:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Iran’s president says US memorandum is best path out of stalled war, and other Middle East news - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaHdQUFYyOHpTM3RqRFRpLVhoaDJZNVdRZFhqS3pDRHpkSlJ2VUxPaG0wUVN0WWpwQWphNzFGUFM0SHpHZTh4QW04cllJRTJsRWRCMWpSLTFpUS1TR0Q0elNabDVMcC1Iek1hZHFEN3hUeG5Rc2xHYTM5RnVzdGFDUDR1ME5KYWNYX08zcTNpa0stN0E5R2FpY09sSXdvV1FkV0kxa3I4LWQwT0gy?oc=5",
+          "pubDate": "Sun, 23 Aug 2026 12:14:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "As the Clancy case highlights postpartum psychosis, a mom stricken by it shares her story of hope - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTW1Bbm0wbm1uS1JMQ2UyQ1VkV0ZJX2lnRENrbEZFNGhEZy0tX25HSi1IQW5IaHhJakpCZlBwVWQwOXZXRkgzMnlTbDA0QlJLamNwMUFJcU9XMy14ZGQ1ajJiVGZjZW9NOWtDcWw5cVBfMDQ0RzJkYlhhMzhfeHh4Ymk3bEFZQTVvTy02YzIza3pjcHJlNnRYUkptVUZvYmNkQmljY05NeFZjdw?oc=5",
+          "pubDate": "Sun, 23 Aug 2026 12:12:00 GMT",
           "source": "AP News"
         },
         {
@@ -149,22 +161,10 @@
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQY3MzRm0zV0hWcTRnNVM0LTN6UE9zVXpUQVpaOXJBX1BDQWdGMVF2Mlh3Y1ZDS0I2eS1nV25jMTY2M3VhV3JjRDUwckNwbHg3MUV5UFhRUzNPb2VrWjZGOHdDcXpBVEdrQ3ZoZzdFZE9fb05YODhQLVQ5RHE3WFI2eHRXUHNJWnpCSlRB?oc=5",
           "pubDate": "Sun, 23 Aug 2026 05:51:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "A moderate earthquake shakes Japan, injuring more than 30 people in the Tokyo region - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbU1lTW5ZbUgyclJKQ3NSM0F0VVpydllLTnFSYnFxZ1FvYXF5TnF4LTJDWlBYWGFDTV9URlZ1OHozWE1OaUstMU5XU2R6aDlhVW5OVmtJTXUzN05vaU51MmZ3Wjd4RWZEcmNWNE05SG9XN3dvUkk3Vld1a1BEd2RlazFrV19KYXZQQmc?oc=5",
-          "pubDate": "Sun, 23 Aug 2026 04:15:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Trump will kick off the IndyCar race in the Beast before cars zoom through Washington's streets - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQU2QyTEtaWVBXY0JlWEwxLXJ6eHMzMGoyY2VzR2N0V0RpR21fUmw1WFJCSHluWUV2emk3TG9IejRQTHFzWU04TDhHS2N3NjkyZmFFY053ek9ibzA4UDhFdjJTYmRmdVpBalNYOGhuVVhKYWlnb1lmSTdBNWJSZ0RocmFGLVk0bU1XUjJmZ193?oc=5",
-          "pubDate": "Sun, 23 Aug 2026 04:01:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T14:54:12.445Z"
+      "updatedAt": "2026-08-23T15:27:51.348Z"
     },
     {
       "name": "Reuters",
@@ -173,6 +173,12 @@
           "title": "Iran says new sanctions threatened by 'desperate' US will fail - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOakhmOU5UanRITUhNTk4zZUU4c0F6allnbnZWMC1mY1FsamNsYkRKVFpnbW5DR3hNdHItZm53ZzBNM01GRHB1M0xrYW1BTDBScUhQeTZJb0VnbVQzX1BoeElyNGJURG9DWEhnaEhINERMZjBRd3NpQ2g0d1EwWm1oM2dqWXRxbDVxY1ZPemxPX3F5alJwMmtzR081cjFZNzMtVzZrYlowMHBlblE3UGoyRGJnZG1hQQ?oc=5",
           "pubDate": "Sun, 23 Aug 2026 13:29:43 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Israeli airstrikes in Gaza kill two people, including a 4-year-old boy, medics say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaFU5eGhHTHlWTGEwdF9hVzNLSFJMR2hZWTRFOGQ0aFNvVmFzaTFsRmRGa3JPZVhFcFFfeUs3YmRCYjBtNDZmYi15WF9xLUpjeDJXYThlaUFTNU5ISkMtTDl6MUo3N25rSmRWbXVpN1dhdzJ0QmpxZGFKRDMwcmlWaS1IOTVEM1NwY05Xdjd2ejZJcG13c2NjRmVrVHJZNEEwYTVmYW5fb0I3Zk01eGgzMjE0dHpDUjlrVFFzUVpKdlN4QjFoZVZ6dDBR?oc=5",
+          "pubDate": "Sun, 23 Aug 2026 13:15:43 GMT",
           "source": "Reuters"
         },
         {
@@ -210,16 +216,10 @@
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdmhTa18xSnJQQ3IwQTF6LTgwY3dvY2JzNGJfUGJzVjNXdEE1SWt3b0xxQW5MSktZUUZIVHcxY092NmJ4SlRBU0JPYlZIVWFzVE42VHBMeFo4ODJITGwxZWRCc0Z5NDdfcm1aeVFzRDdiYWtMWW9GSGVfcDVRRlJGTnpZeE1MNFhUdVlOMlR2NXVDZw?oc=5",
           "pubDate": "Sun, 23 Aug 2026 09:32:08 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Hungary Paks nuclear plant could operate at full capacity by Wednesday, PM Magyar says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZEJfVzdZd1FzS096TGhjb19XSF9hYnJfazRCOF8zeF9qMkJMOW5Bbm1ZSEwycjJiT1hXci05RFViS1haSDRObmdTb2dvdDVzZjY3SlNnQV80bjhrNEcyOVI5azhybnFpVlVrUmpDQTB4UHNrWURkdXQ3dklqZ2Vucm5ob3RiVTNSRGpqTVRxX0Z1R0gtTTJVb1BYYk8yajNBMFZ2N2FWOHdhYXYycFlsSHpuZzdnOEpPOVN3ckU1SWljVEp1bXdHSQ?oc=5",
-          "pubDate": "Sun, 23 Aug 2026 08:55:43 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T14:54:12.456Z"
+      "updatedAt": "2026-08-23T15:27:51.784Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T14:54:12.530Z"
+      "updatedAt": "2026-08-23T15:27:51.952Z"
     }
   ]
 }
