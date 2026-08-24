@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T20:36:41.152Z",
+  "generatedAt": "2026-08-24T21:35:01.033Z",
   "sources": [
     {
       "name": "BBC News",
@@ -54,11 +54,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-24T20:36:40.188Z"
+      "updatedAt": "2026-08-24T21:34:59.705Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Supreme Court pauses lower court ruling on Trump's mail voting order as hurdles loom",
+          "link": "https://www.npr.org/2026/08/24/nx-s1-5909592/trump-mail-voting-order-supreme-court",
+          "pubDate": "Mon, 24 Aug 2026 16:53:45 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Treasury Secretary Scott Bessent unveils new U.S. economic sanctions to isolate Iran",
           "link": "https://www.npr.org/2026/08/24/g-s1-139743/treasury-secretary-scott-bessent-to-unveil-new-economic-sanctions-on-iran",
@@ -100,75 +106,99 @@
           "link": "https://www.npr.org/2026/08/23/nx-s1-5939943/high-intensity-hiit-heart-health-exercise",
           "pubDate": "Mon, 24 Aug 2026 04:45:44 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Thousands forced to evacuate parts of Reno, Nevada, as new wildfire rages",
-          "link": "https://www.npr.org/2026/08/23/g-s1-139729/thousands-forced-to-evacuate-parts-of-reno-nevada-as-new-wildfire-rages",
-          "pubDate": "Sun, 23 Aug 2026 23:47:04 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-24T20:36:40.228Z"
+      "updatedAt": "2026-08-24T21:34:59.908Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "US Postal Service issues new rule for mail ballots, but its impact on the midterms is uncertain - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcGo2NXVCTXRIdTNmM2o3NmRQVU9PcFMzakxPNlZrVVNvZ05mMEpZYmhEU0dKakFVV1lTejUxRTJ6d2ZYSTRJOHh4a00tR3R4clpSLXRtUlpudzhjX1ZxUDE4M0NCUndNZ0dLQ0lQRTQ3WU1qM0VGWF9fZkRYa1BVc0pBTTI3dC10X1JTbTJ6eXFDMmduYnZsNHR3NTVpRlY5SGk0?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 21:32:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Trump tells Canada to ‘fall in line’ as Carney rejects subordination - AP News",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZE5jV3dUNWhXajlyc1J1cnhRNzZEQWR3cnV3dWNLTEdWZVlWYTZyakpWR1lPVzdUZE0tMWhMd1Z4c0J5OHpBbHh0cjhFNU1aTnlucERJSVlXMlR0Xzl1UW1zNlhVRzY0RFBaRVAwYzFkV2tBbk5ORUl2cTJnVHpjaE4xbFBtMlF5aFRITE1PVQ?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 20:18:00 GMT",
+          "pubDate": "Mon, 24 Aug 2026 21:28:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Iran warns of a harsh response as US announces new sanctions and other Middle East news - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM3VzOFY1UEwzVnN2d3pDQ0NFZWZQVEJNcGJ1VlVKbmczYjVBeDk5S3NTOGtIS3NKNDFUdXFDbjRUTURPd0c2YWxZelQ3NnFxVUtfM1NzSk8yQ2ZXYnlTZGpiZFBxTTZXUXN5czJ5VnJqWFprcG9NcTFnOUtmNU54cHIwRjEtblZINUs0bXlxTVZrRU9ZNkp1OUVyUTEyOUZzRXBaTnhhRQ?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 20:17:00 GMT",
+          "title": "Supreme Court clears the way for Trump mail voting order in advance of midterms - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUTFJYWp5U2FxQlpxYjVCb1p5dThHZmx4NGNwRnpybDZSMEVnZVpBMWZuaU9CSDlieHVYU3kzOUQ4TEl6RjlBZmxwd2dBQW9qclA0VG1RQnRBcUdkSDRfbE1RTmdib2tzRFUyTWwxTmVlZE1FVkt5QmR6M0ZVVUlyQ1pQN2E0S2pJUnJxb3RYZlZTT3BodVE?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 21:00:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Trump's 'economic D-Day' threats become warnings for countries to sever financial ties with Iran - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZlROSkFsYjg2RjA1RzJfY1VYTWNZZFhPcDVqSDJrRzFWR1pXQ29uS2NvaEhkVWo1d3dHeXF2QnlWTnNJY2RyVlJJWVQwcG15V0wtbEtwdUU0R05YWVhhbHpyZnZvT0tuMXM1RlJ3YVBxSlc4SGpHazJzSndyRkNqbXF6YVF5U1hqT2t0RmpCUnM3SDNXSkxtS2t6T3RnNGMtMnNiT1Q3X0VXNjg?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 20:16:00 GMT",
+          "title": "What to know about Trump's tariffs on Canadian goods and rising tensions between once-close allies - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVHl1OFdkU2VpRThnVkF0UE9lcXYyeERtOFZOMDNQTHZTR1VxU3pzVWc4WEs4TXFIcnNtYThhWmVzOHprcmNwbDBUT1RwekVBd003ZGw1YUZwTXlZa2E0d1pIUFdmWVd5enRtYW5tbjlzSmw1aFVhMF94Ni01TlJsTEtfVWdLR2FtclRPUWJYLUxSMDZCam1ESw?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 20:38:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 19:09:34 GMT",
+          "title": "Former world snooker champion Graeme Dott convicted of sexually abusing children - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRXlPQ05NYkljUmh4R0xQbjc1d1M1Y3ZzNzdORWZvMTBfaVlzNXlreEd5OVFKVmZ5b1RUcFRhWXlDOFptQXhZMXZLRDZmLVA4TzAtN1lqaFNkQ3dMWTZOVnhhT0pRRHh4RFp3b1NHYWRvbU9Td1lMeXpQUXRkSWNwQVFEWFR0bXhkX2h1eXdvMDVUcG1wb1dOZ3pvb3R0U0dQdmtoNjZVY2hoUHQtcmc?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 20:37:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "3-year college degrees grow more popular in the US, saving time and cash. But critics aren't sold - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNX29vM3hDWU4waTA0b1pQOGQ1UmRSempJWWxCNTItRlRpd09nTk9tT3NfUFNUSXBHaWQ2aGNkYjNRdlMtZjFGQ2tPNW5RX2s5UmNsa2ZKTlhHRVNucEhaOVhEc2MxbG12LUtPaEFoV25NbVBQVU5UaUlFMVJUdmo1VENmM05TdjFsQVpOSmxn?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 19:01:00 GMT",
+          "title": "US set for largest mass visa revocation in history targeting up to 200,000 foreigners, officials say - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQ0FQU2lNNmJpYkg3Z3hpVUdkQ3lWUXp0WFBtTUpFWmhmcWpoa2V1WmFpRXlTWEJod01kZUNtSUpLLUIteTh4WGpFN2pxV0hGcmFRSDNYZUNWSjhCRUhHcXl0OFZXNTI0Z2MtSlUzRTVyV051RHFGX180VGlvMl9LaGtOVnpWSEN1Tk9MUg?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 20:30:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "49ers owner Jed York pleads no contest to two misdemeanor charges in Ohio - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWXVFZ1BlaS05RFAxaHhRQWxjbDdsaGxDS2xCSzR5VWdpVDFkNHM0bmh5VTFtVkpkOVJ0cjJjVHFoMm0tNkRuNWZOSVI1aHc2S0oxTTVvUFhzbExIM3JzYXNpaXJWNjVEeC14WmdYTFdLY2F0VjZDall3VDY1Nk1oWGxvdHZ0TDdZZ2FZ?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 18:34:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Darline Graham, Ralph Norman wrap up a whirlwind South Carolina Senate primary campaign - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQamItZlRKUTR0azhhN2RjbktNQ2RLT25nQ1ByMTNZUWxCdkpCbXpRQXZqd3lJdTVCaE12NFNLZE5xd0I0dTB1NE9tQ05vSXRuUHBXUnZBTS1zNkhvYkozcFV3Yk1TcDZzRnktMHN2VFdvZUVUQkxZcVVzMzVmQmxNVlVUZi02dTR2OV83Wlc1VEpvc2NXdXZfWWdhRWd6ZlhVbHE1UA?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 18:34:00 GMT",
+          "title": "After a stop in the NFL, Dae’Quan Wright could be heading back to LSU thanks to court order - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZzVuS2Z6Y3RvZHVRRXVENU9HRkFhbWl1MlNlNUlzSG9fUGg0OU1KaDhfOUtkNGM1THJHOE42dUFJVUpjTEJ0c2dVVVB4VFlWTU1nQUM2SGFwZFN0RGY5VnJWVlNtM2N1SHlUM0JCVkNMN3BkWDNGcXFiaWk3bHVpeWJrSVRfTk1oR0VqY0J3?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 20:25:00 GMT",
           "source": "AP News"
         },
         {
           "title": "Gang coalition unleashes violent new attack on farming community in Haiti - AP News",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMnNxdGtKeEtRY1RrSVRMa0lLT0I1andkd2h1YzY3ajBfYmtZVnltM0xhUDBGUDdqNk9xQl9Xb2QyelR3YWZiWERybTVkZm05ODV1d0VDQWlFd1dkRVJQMXNuVVl2N2RWVFV1Y0hrWWlLUi1TYXdmVXBaVkRuZVJGNDJjd0VibExwT0R5c2ozYVk4T2lLNnBoV2FmNlN1dw?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 18:29:00 GMT",
+          "pubDate": "Mon, 24 Aug 2026 20:20:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-24T20:36:40.607Z"
+      "updatedAt": "2026-08-24T21:35:00.414Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "US Supreme Court lifts a judicial hurdle to Trump's mail-in ballot curbs - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSDlTTzEtMWJjdWlZbnV5THl6V3VzcE5rQ2VwN3VTaEJIa3l0bVU2dkdmQXU4LUZYX2psOEFwTTh6MEYzb1pCREJSQnhDRGxLaF9FTENEZlVTOHp0MnB6M2RScG1WOWlJdS1HM0d6aEZaT1lGaXdwQWNyM2p3YTc3UHdITGstQ3hHQzF2YUlUcDE3VkJZZnBqOUZreFpVX0FwWUllVTdUajZObi1n?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 21:19:16 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Britain, France pledge stronger support as Ukraine marks Independence Day - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaWgtWjF6MDRmYXZHWDBTMWRvdEFnR3RhTGNVQS1vWHM4Vi0xSlp0TmloMmtCTlZhbk5JTVZPWW4zcnU5U0Q2QkktUW5BYVlJVHVRN2Y4TGhGRWhEUlV2QndPYTF0MExqUUYxYW1mdkxVeDltX0hyLWdsVTI0MDQwdFVoeXV0Q2NwOWZVUF9kV3R0cFo2al80djV3MFl0VlVCVVlVN1ZB?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 20:54:25 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Target apologizes for children's clown Halloween costume after backlash - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQzUzNFU1WUZVbkRyRURTS0hXODdQc1BodmpLT2pNb1hvckQydmRXQ3A1c0RJbzNUY0xnenJvSlN2dzVoUkk0YnU0bk5Xams0ejB0aXBFVkpmUm85UDNHV1RXUExyUXRXeTE1NXotYmg3ZEM1MU5PZy00R2hidk9MNWtsX0I2YjdLVWd0RGV6Y1liNktXTm5mT2JZaVpPMURSdmpaRkRyZExxYXVRamZ3SVpudTVwc09CaE5zLVZwN3JOYlNaM3c?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 20:51:32 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "S&P 500, Nasdaq end down on tech stocks, investors weigh Iran moves - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZmVCQWYzaWpzTVpmVFJPV0xRdEtUcXg0N2JKZHB5Z2JFZWpWRHFwS0Q3R2NtVHp1c29rem5scXhwa0FZMFZJNGtqM3ZCRlVOa1doNGNtWEcxVVZCYXFDSXlEbmJwODhKbG5Kdk15RDJpbDFleUFpWkdmbWEtMkhGWnF0U1FWWVpmSnp4aXp4UzlPc2hzaFNTWllwSm5UVWlpNWtWQlkzX1dqOHJNbkg5ag?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 20:36:16 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Gang attack on hillside town near Haiti's capital leaves 30 dead - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLVd0VXhHMlRJWHJwYjhiQ2xJZ3hOaDk4eVdEeThNMWY0RXlucm9jM1d3Q05ld0VLdHpZLXRqMmZTd05iTEM5TnhId2dzLThTUHhBWDdsNGMxM2kycWVObEJ4U2tBVlpQTDA4SEttYmRqUFFDYi10NnIyZmVuM29EVjY3WXFDSUQycnNnTmlLajJCZmtJMmpIOHEzNXpsQQ?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 20:31:43 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "California cancels talks with Paramount over Warner Bros deal - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdkFvWDdMZkFmU0NiOXNmUHBEU3RFLVFmM0VmQnZpbEsyeUp3UmZhb0J4TTNyZUZvNzZiQUQybHBwRjcyMU1TQnl3VkE0OWMwX3N5MzlGU1daWTVaN3dIZmVHc0RsU09LVkRjRTlJZlVKbWhjNWZHVkxJeWlFaFg5aEFic18xTnhEenpQVUFKUDA1N1oxMVY5cGlhRXo5cTVkdWQ3NEpfMDM3OFNLaGRQUzFpUlBQQnVVblJYTER4WWtST3Z0UU00?oc=5",
@@ -186,40 +216,10 @@
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORlU2M1F3TVF0MDVWdXBQMUs3bTdBTTRnWHhRYU85b2IyU04tVTYySkFMVGhtNDBhQUZUdGRKQUNDRnFtRlRDRF9xZFlYaklWemxNNEo0WWNaZWpoQ1JuVWV5Rm94QzRKZzcyZVJIUGlzamtwRkVkcEdWeUxOZTVKZkRJRkJ1cTFwVElRUF9KN05zdEpRRjlKbTZJek40LUJaVzRubzFyRTJmZmM?oc=5",
           "pubDate": "Mon, 24 Aug 2026 19:35:45 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Trump's approval holds at record low as US support for Iran war falls, Reuters Ipsos poll finds - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYkRkNWJWcGl4bFZlUjZrZEpaMGJIMGljWUk3MTU4M2tuc1ZvcnZMMlNOMVM1NFlGUGp6eVRXbTBnSHVFVWV6YjJ1dmNGV1g3ajJJbWUzcGw4U0kyZDkzbjF5LTlxS1R2aUV0RkNKN1Z5QWVqY082ei1lMzFmSFZfVC1QLUUwbFY5SmlDdlZyZnhIRmN6Ul91cVhtbWRrdnl6S2ROc0JRMk9mdjZzaTBvMURfcXNMbE9OWnpkU0tMbw?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 19:35:39 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Target apologizes for children's clown Halloween costume after backlash - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQzUzNFU1WUZVbkRyRURTS0hXODdQc1BodmpLT2pNb1hvckQydmRXQ3A1c0RJbzNUY0xnenJvSlN2dzVoUkk0YnU0bk5Xams0ejB0aXBFVkpmUm85UDNHV1RXUExyUXRXeTE1NXotYmg3ZEM1MU5PZy00R2hidk9MNWtsX0I2YjdLVWd0RGV6Y1liNktXTm5mT2JZaVpPMURSdmpaRkRyZExxYXVRamZ3SVpudTVwc09CaE5zLVZwN3JOYlNaM3c?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 19:31:33 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "U.S. court orders Guardant to pay $245 million in DNA sequencing patent dispute - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNY2E4eXJkTHVab2hiUTNZTTV3Z3JCWEVkSlpRWHl1UVduckFhTU90SjB4TWljaVc4UDRMY3Z4b3NEUl9LWGRYenZ0WUtUdUhjMTNPdVlKZGZJbDdlWkRmZzl1anlVU2hHYmx0VjBFRUZkbnBxWlpyRlFkV2h6d2hYTmQtV1lSNTl1cWMtU1c1SHRrTDcyZ180Q0p5NE14M01QZmwwSXAyTkNEb2F5Ulc1SzdVVUpKYUtmWXJfQjVvMjI?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 19:06:54 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Trump bought shares in Elon Musk's SpaceX in June, financial disclosure shows - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZHBZd3V0b2sySFhUajY0b2NBeVcwZzFLdGpNMENHWGRyMHEtX0NqYi1fUXU2a1E4UGVqS25vS3hpTkd2MW5xLVRtTi1pSnZ3R1VpZDBxY1lLLW9WbEdKdzFZbTlzbjZMRlJGQmt1OS1kTlBpZkhkbVJXYWd4elhfRTV5SENBRG80WHlhbURPeGZRYWt5TmxoN0FlSHVZb2QweFJlQWtkemoyQnRhak5ncnl6S29SWHdadjRUamdRdw?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 18:57:27 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Israel's Netanyahu says Iran tried to kill one of his sons - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcndkRXBGZVdHbXo5ajBPN3B4UUZPV05GWVV1UWxYVmtaX0JOeXJiN0I2ZzYxQS1TbjRWa1BITmtxa1RWQ1FFOEczbFFaYWdud3dqdkdwU1lTazd3ekZtNXIyWnEtT3pSaXJMakR6WHo5ZFFMakIyMVlBSnFYM2Q1aS1ySExGSmpQcnpDZlpZRTFwMFlyeDVvMDJveHliVDZZemVZZ3UwWlE?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 18:54:22 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-24T20:36:41.081Z"
+      "updatedAt": "2026-08-24T21:35:00.819Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-24T20:36:41.152Z"
+      "updatedAt": "2026-08-24T21:35:01.033Z"
     }
   ]
 }
