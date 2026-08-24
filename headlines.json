@@ -1,9 +1,27 @@
 {
-  "generatedAt": "2026-08-24T07:39:15.120Z",
+  "generatedAt": "2026-08-24T08:54:54.035Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Nearly 90,000 told to evacuate as wildfire approaches Reno, Nevada",
+          "link": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 24 Aug 2026 08:34:26 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Four arrested over boxing champion's murder in South Africa",
+          "link": "https://www.bbc.co.uk/news/articles/cg7k9rmnzp7o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 24 Aug 2026 08:32:46 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "King of Norway's health has worsened, palace says",
+          "link": "https://www.bbc.co.uk/news/articles/c36lnekj659o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 24 Aug 2026 08:31:55 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Shein aims for almost $27bn valuation in stock market debut",
           "link": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss",
@@ -33,28 +51,10 @@
           "link": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 24 Aug 2026 05:01:17 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Divorce, smartphones and control - BBC sees how Taliban run Afghanistan",
-          "link": "https://www.bbc.co.uk/news/articles/ckgvk9p2n7ko?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 24 Aug 2026 05:00:22 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Ex-cricket captains urge 'proper medical care' for Imran Khan",
-          "link": "https://www.bbc.co.uk/news/articles/cx2z889l0dxo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 24 Aug 2026 03:55:35 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Trump waves green flag to start IndyCar race through Washington streets",
-          "link": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 23 Aug 2026 20:19:36 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-24T07:39:13.660Z"
+      "updatedAt": "2026-08-24T08:54:51.813Z"
     },
     {
       "name": "NPR",
@@ -109,33 +109,51 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-24T07:39:13.964Z"
+      "updatedAt": "2026-08-24T08:54:52.044Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Donald Trump - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wVk5Dek1LUTk3V2t2cml3Q0lRWEhETXdYUzNTaUtrYW9ZYU5ybFVkbFduc3ZvV3VVTDVXMkl1NktRX3l6OU56M0h2MA?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 07:34:23 GMT",
+          "title": "Middle East News | Latest News From The Middle East Today - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE05b1dqSlZ2X2tIcTFyZ0NfdEQzaGpTQzBhWUV5Rk5tZkowNU95RWd5ZkJqQWRINDFkSGhCM19BazF6VndzclpBNHhB?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 08:52:24 GMT",
           "source": "AP News"
         },
         {
-          "title": "Auto Racing - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9qekN5SGJkSzNLUkszajRtNDl4MTVkWWlqc3JqbTl6VmIwdTFuRUZxQ29xOVhJY3gtOUJxLVFQTm1RZVI2a3kyMVdn?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 07:22:22 GMT",
+          "title": "Donald Trump - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wVk5Dek1LUTk3V2t2cml3Q0lRWEhETXdYUzNTaUtrYW9ZYU5ybFVkbFduc3ZvV3VVTDVXMkl1NktRX3l6OU56M0h2MA?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 08:48:22 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "IndyCar - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFB3SFR5UHo3R0I2eWJBMWxLSkg0dHIybDlQYTV1Tm5PUzZ0bXMwcFpOaTN2dURIZWw1Vi1JM2FBUm5pSzh3?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 08:46:32 GMT",
           "source": "AP News"
         },
         {
           "title": "MLB | Latest News, Stats, and Scores - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 07:16:22 GMT",
+          "pubDate": "Mon, 24 Aug 2026 08:34:32 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Auto Racing - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9qekN5SGJkSzNLUkszajRtNDl4MTVkWWlqc3JqbTl6VmIwdTFuRUZxQ29xOVhJY3gtOUJxLVFQTm1RZVI2a3kyMVdn?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 08:22:17 GMT",
           "source": "AP News"
         },
         {
           "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 07:16:22 GMT",
+          "pubDate": "Mon, 24 Aug 2026 08:16:42 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Burnham and European leaders arrive in Kyiv as Ukraine marks Independence Day - AP News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRzFlRGlTVUtGOVc1TVV2TGQ4M3VicUJRbzBPV0VTY1hldnlvb000QWEtOXpVc2NnYlNJaVRnVDNhTjNqbTdkTDdXT0l2SXh5enNaRzZFVzRGVi1teUM0bUpDdzkyWTFNN1p4SHBNNVRxUVVzRGtfRnZ0amg0T2ZueVVtQTNSbV96Z0dBdjd0eHhJeWxrTE0zY1NfWWJzT2FG?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 07:15:00 GMT",
           "source": "AP News"
         },
         {
@@ -143,34 +161,34 @@
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVUpEM0MwOHJxRV9tR2NuUkV6NFFBSzFwRHM3dmp2Z2U1TlBaTVRWY1ZDNDg2U0NTX0V0dlJVSkVNZF9FV1dDY2F4ZFBaMkhuVjl1MHRVYXZPZm1SUlRCOEZoa1lTZ0toek0wYVJIN2d0eTEtSXFYLVdOVFNOdHZYM0pzZXNKb2NscjNFLThoX1hpZmgzcHJoTQ?oc=5",
           "pubDate": "Mon, 24 Aug 2026 06:42:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "IndyCar - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFB3SFR5UHo3R0I2eWJBMWxLSkg0dHIybDlQYTV1Tm5PUzZ0bXMwcFpOaTN2dURIZWw1Vi1JM2FBUm5pSzh3?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 06:33:29 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "A US envoy clarifies his comments on Golan Heights that contradicted Trump’s position - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaVVKdER4VWQxbUZYZWN4ZWlLZmVuUWVQTnNFeVU5LU9PM0FMYTE5Mjk5RjBPb1JsR0ZfR3l0Z2JDYkxzN0pUVmtBZWZxcU1WeERFWUtLaFFNVjVMZFV3LTlPUkQwaVBzY1p3XzhSSHp3Mm5jZi16OVBrcVNQeXV1ajlxQnhpSUJleWN4TWl5bXN6elV3RmFVZk1FaUs2WmM?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 06:25:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Workers in China worry over being replaced as they adapt to the growing impact of AI on jobs - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUmhEZTlRaWhWYU9QcmxqT1ZnODQ4dGhtbUFrSUNDelpOdzlsNEFhMnhhQ09PZXdHb3pLV3B3QW9qQ0Q4Y0RNOXA0UUVoWjlhY3k5MWl6eXV2MnhOb0pDdUY5dmxkLTc0VUZBOU9WUEJGcWlsdTM0S19aN2tlOVFZNmtHeTFOdTdFRlVoTGk2Z3JMbjhQZnhn?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 04:19:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-24T07:39:14.477Z"
+      "updatedAt": "2026-08-24T08:54:53.425Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Taiwan indicts 9 over alleged illegal export of AI servers to China - Reuters",
+          "title": "The Hormuz crude volume debate masks the real shortage of refined fuels - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdWt2QTd6U25aN2I3V1VZTmhVdVBPNTdYNUx5OXlNQWcxcFo4TEJwUEo3Z2R0MWRBRnVvT3FqMms2NURIQURVdWtZVlEtM1d3YlBEVDh4b0g1SmlFWVVGRDRJYVVvbUI5eFRGWmxDRXF6eWFVVXF5TktKWS11NFZhUkU4eVJNY2ljcThUQi1uZ21Zc0NhekVIMmxDcUhla0xPSFZlV0VlSTJJOTdQU1hXODZwMmxPM043dmV1SFdCSDRlZ3BNMXJLXw?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 07:40:18 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "PM Burnham says UK must be 'bolder' in seeking closer EU ties - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYXlHdVJNUC1ZczRYYXRMLVU1M3ItRHF1LXMyMkV1dTl3MHZlVlhPRjVlOWI1eVpQSDdhZFhtNXBvQThZZzZaVVQ4VHIxWlhFUnZmNGpoWjVoaGVPZDlpR3JBX1pjT08wOUNmbHREQlBpTExPajZ2OXM3UlpfdkpGcEVoNkRjc3dIQjhuTFQ1bGxCcXYtOURFd2VSN1YwS3J0bHFF?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 07:28:29 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Germany's Wadephul to urge Rubio to take more active role on Ukraine - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeE5XaGVhS0hDUkZEZE92aDZSQ2JCRkdkSHRkQTE0TVVtSE11djNiZjZVUzZqSTFTWkdFZEFoXzlXMFY2Vk5jOHByQkJwMVNvZWZrSFZpYTd6M3NjNHpFY2FqWEt0UURtYktEZHJQZ3A2Q1JSd1ZoLUltRDJwTW1rMEpzc1ZiVWZ1bnRyMDFURm1wZHFpbTNjZ2ZJZ3JKMzNSSkE?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 06:30:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Taiwan indicts nine over alleged illegal export of AI servers to China - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORUFqODhsNEhfOVR2RWdNdXd1LVI2REthVUgzaU4zdXNIa2RlZmdSTXVwemR6ODVzUm1mMmtOZ0FRR3FEbVp6YWlTbDZmcm1nLTdQcFFkcWhVTTBvMkJ4dDh2blB2NkswdzZTbEFGWEZ2c3Nwam9aWXREYmhVR0wzQzdSdVoxUThYa0VrcFI4R0VKaWk2SDVFNmJUaVFuZ1Z2Nmhha21pSWxaRm1rQklZWm83aUNhbjg?oc=5",
           "pubDate": "Mon, 24 Aug 2026 06:25:00 GMT",
           "source": "Reuters"
@@ -182,44 +200,26 @@
           "source": "Reuters"
         },
         {
+          "title": "Indian food safety officer shakes up Mumbai, one viral raid at a time - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYnhrZVlwZ0IyZ29SRzJTYl8zT01yT2VTSzFDMTFLSUhVeXlxeU5sV3FfVzg0bTB3WEg2YnNSWERXc3JxZHlscFRrWUVPT2hjeTFsTmtTU1VDMjl1Q3FKNlRKQWZIQWtPaWVwaHpPaXc2VE84OGlRdUtvTVB4MGc0M0N3blVvVzhMYW9JN0tVTG5WRXVEM3plbGRLUDl3TE5NM1JuYUdkckVjbmhoUXh6QQ?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 06:20:51 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "EU approves further €6.1 billion for Ukraine's defence - Reuters",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdlFwQlJNbFNTeGVPbThlNGJpY0pKM1lYNlZCQlhsbDRrWXJEVGxvXzlWemp6b0xvYXYzZzFqQm5ZM255VWdRWDZNZ09oOVVMOXo3MFB4LUN0RmR4d2FnNVdwMmUwZjRZUDZ4eWpobTJRWHItN205UFczU2hlaGtEeVRUcG9VdFFfUkNvanBKNzlxUlA1b0hYYXdrN3M?oc=5",
           "pubDate": "Mon, 24 Aug 2026 06:14:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "China's netizens rage against professor who said gig work was a type of 'welfare' - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObTRkMGJYTkNuWm9MM001SkIxcUV2VEFrM1JSRldWX084YlZrdm5hSnZUUW0zYXhsQ3c4LW5uZFhmX003NEd0Y1hxTjFNYVNFQmNuQnJSaE5oT3BZNVdLbHBFS3htWkh2ZTJqbkxIYnV3ZHdMZXllRlVIUWRRUGdkS2dncnI1ZFZsS2J1N19RY25CdmJweWpWX3UzeTNDMUxVNmRuQ0cxWUVWNUlxaFpGMUtmVDBqSmRIX29NTjNpTXdFck05S1BRZWJYc04?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 05:49:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Southeast Asia's budget airlines eye recovery but fuel scars linger - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeTEtcC10STI2OFlVT3B6TnZTX0pueU5DSnNhRmlWTjRoa1M0NHZIcVJ0a3ZtVEU1WEp5ZWpkNFEtZXJHc1pfUHdfbEMtbVhpVDJQME5SR0tORk04NDQ4VElSOFNQNlNCOEozckxuV0hvam1SOGpxSlpfVE02Njh3NURQSDZJdHIxYldtZmRRV3J4VF9xQVFfMkE3T2pLOVU4VGFkVk9ZczA2NVAtV3hlNzM3VE1KZUdJ?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 05:11:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Norway will drill in Arctic regardless of EU's position, says energy minister - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTE5nRnVOOFJXYXBSWklEZVhITWVHQTNaTllvYUxoclNydEZPMDFHcDd0SmNUUndjZFBrRWpLa2NVekRHbEh5SWFwbU5zb1I4emN0OUNuUTAwY3VtXzBoclEzbE1iQUoyOE1TTExrNnlwR0JxT0ZyS0ZoMkVYYUw3RWxuNnlFWHlUSDRYN3Z3Z1VlS01oTXBaNC00ZWtDZW9Ka1ZuUDZucTVyMDVoRHNCS2ZVbWxQY2RVLXg4c2hB?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 05:03:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Oman foreign minister to visit Tehran on Tuesday, Iranian foreign ministry says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObkJfZGxYQ3dRdFhQNi12SXNHbmhYcjV4UHlnM1RwSm1Lcmt0ejJWTUh6OUlQRnBLbWh3YlM5V2dKVkNPNXBiVGI3b2Z6WUFGeWdCa0wwc1RTX2NHX0FaSzBGOVQ4dk1SRzFvejI3SXRUZVNVWWMybXVpWEJrY0poNExaQ2lEZjBvSDM2UWNhZGxtb3RFRWxZaFlYTk5EQXVmNFNEb0MxSWhVRl9tT2RJcjd5OUo3WTN3QlVPTFdFbno3Nk0xNHc?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 04:42:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Gold hits over 3-month high ahead of US inflation data, Fed chair speech - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUkZtQVBPdjlyb21JaVBxeFRicDFEeHVNQ21pZzdGQnlSMUpFYV80MEl3RjJUbF9tYWxmdkZqY2NpaXh5S0NPd1lhbFZxUHZMVVFkTHNyNktCX2hrUU5KN3hjcWRUVTlaQ0hwcmVoMV9VZjBmUkFjMGtTUUY5MXBwRDRFWXBwQnhZTzU1dV81LThOaTNZR1BLVDRGU1JtbDczRjVweFByWkVQbWhhX3VwYTlJZ0VYblU?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 04:39:00 GMT",
+          "title": "US refiners face historic stress test as global crisis looms - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTGRpenYteU9WelNPejdMZzN5d1BEcHZSdHdNSExlX1V3UlRsWXR6N2NKRVc3V05xQXRQSVFSSnFvbW5pd05lZ3VGUW81U1NuNHFVREt3dWs3eDRwWUJ1dmdPeXFQWmNHYkpLWE9qVXNZbFU1NFdMQVJaZXlUOERHdENwS2Z6eDJQOEdnQUN5MHJ6T2dPMHNDcjhFX24tVlRWQkdrNlNzREdBZXhjalVfNDNTUGxMUmE0OUs3bjFYT3dtVkpQ?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 06:00:00 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-24T07:39:14.858Z"
+      "updatedAt": "2026-08-24T08:54:53.796Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-24T07:39:15.120Z"
+      "updatedAt": "2026-08-24T08:54:54.034Z"
     }
   ]
 }
