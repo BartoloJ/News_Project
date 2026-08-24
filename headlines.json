@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-08-24T05:19:42.978Z",
+  "generatedAt": "2026-08-24T06:04:55.417Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "China probes use of formaldehyde to keep cabbages fresh",
+          "link": "https://www.bbc.co.uk/news/articles/cy9ze48l2yeo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 24 Aug 2026 05:40:48 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Australian shark attack victim grateful for 'second chance at life'",
+          "link": "https://www.bbc.co.uk/news/articles/c87n792dnlno?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 24 Aug 2026 05:31:53 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Burnham to hand long-range missile blueprints to Zelensky as he visits Kyiv",
           "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
@@ -35,26 +47,14 @@
           "source": "BBC News"
         },
         {
-          "title": "Australian shark attack victim grateful for 'second chance at life'",
-          "link": "https://www.bbc.co.uk/news/articles/c87n792dnlno?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 24 Aug 2026 00:34:59 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "Trump waves green flag to start IndyCar race through Washington streets",
           "link": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 23 Aug 2026 20:19:36 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
-          "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 23 Aug 2026 19:11:30 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-24T05:19:41.575Z"
+      "updatedAt": "2026-08-24T06:04:54.455Z"
     },
     {
       "name": "NPR",
@@ -109,7 +109,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-24T05:19:41.903Z"
+      "updatedAt": "2026-08-24T06:04:54.509Z"
     },
     {
       "name": "AP News",
@@ -121,9 +121,15 @@
           "source": "AP News"
         },
         {
-          "title": "Caitlin Clark scores 37 points as the Fever beat the Sky 113-90 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeExSVnBQakc1TGdXUDhnWlM3VE5CajBVeFBTRnVyT180cE1sa3RCQ01rTW9LeHA0VVpNeXpVVHAzVWdvTWhYVVYtYVpsQW1Rd01CUDY5Y084aDlSNHNHNmRtTGhQaVluRzBOUEEyTHpzQWtrV1U2RzdxaUhnS1REN2hyREdzWU9vamhzRUozLTYzRWZIYVE?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 04:21:09 GMT",
+          "title": "Uganda and Burundi military officials visit Israel to discuss Gaza troop deployment - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNFl0Zm5zMUJxNjNoN3U1UDVDaGhDUy1ETU5Xcm5WSkJmVXJ5QjlQVlV2TVFYZlNud0R0cUdkVVZPR1l6MVNydDhPc2doV1ZrTkV2V1I0SW84UmVrQkhNU1BjaFY1bVpSSW0wTG55X1ktRlBydjZRRjhnVGNFVGJwZVNJbFlJMU9MamhreWhXaVdBenBnWWZva2JWUHd4SkY3QWl1bVUydi0xUQ?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 04:14:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "What to know about Iceland’s vote on whether to restart talks to join the EU - AP News",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUDhEZFNJT0E1UlRsRFVrbUNTaFU2bEFublpXNl9qWmpibzJfZkI3cHJ1eVJ6bFJYQkNFWi05dlR3TkFoWHRZa2pTOF9fZVIycGZOSmZQVzRFa09UOU44dWJYcWFKbEJVRVljX1lIeEZDUG8xZDlRNDNlWEc0WklaNUxJUlJJdGJlUnJCaFZVZEdkQzZhWUduck03YzZpVVNtOFVPSUJmVVpfcjZLam9wQndyUlpmdzlRMnZtOUZiYw?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 04:11:00 GMT",
           "source": "AP News"
         },
         {
@@ -145,30 +151,48 @@
           "source": "AP News"
         },
         {
-          "title": "Zelenskyy details rift with Ukraine’s dismissed Defense Minister Fedorov - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONV81OVhGQUZYeXc2ZU5aQUlwZWRCdGU5OGlqdllsZXVZbEtJQzVXQ05ZMlZVRlVua0xUdDRpVmg3b25KRnNUbEVPc1JhQks5OHlPYi13RDdleGNxM2tlWnV2TUxYMXRsenNSN3VmdEoycFVSaFNEVll5Um1fOUFxbUNac3lfM1pTbTg3WVpHd21IdnU3R1ZkS2dyai0?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 02:42:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "IndyCar comes to the nation’s Capital, in photos - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWnpMbE1pbTZkRkZlc3pqRjZGN250cTJzcHczQnVkenpoSjVaeExldEwtaklRcTZqbnJKazluMzVpaFgtOEZaVkJUZFowTjRkMmdsRTJmN1lEVVkwOFU0dTFqMzBUMHF3NzhYLUVxYjAxZFVXTTZ3VGM1ZFVJT3FtNGcyOG5qVjF1Y3NaNTFCZjBnOEpQZllnUW55d2hWeXROLVRTYTlB?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 02:14:00 GMT",
+          "title": "Caitlin Clark scores 37 points as the Fever beat the Sky 113-90 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeExSVnBQakc1TGdXUDhnWlM3VE5CajBVeFBTRnVyT180cE1sa3RCQ01rTW9LeHA0VVpNeXpVVHAzVWdvTWhYVVYtYVpsQW1Rd01CUDY5Y084aDlSNHNHNmRtTGhQaVluRzBOUEEyTHpzQWtrV1U2RzdxaUhnS1REN2hyREdzWU9vamhzRUozLTYzRWZIYVE?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 03:16:00 GMT",
           "source": "AP News"
         },
         {
           "title": "IndyCar - AP News",
           "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFB3SFR5UHo3R0I2eWJBMWxLSkg0dHIybDlQYTV1Tm5PUzZ0bXMwcFpOaTN2dURIZWw1Vi1JM2FBUm5pSzh3?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 02:03:39 GMT",
+          "pubDate": "Mon, 24 Aug 2026 03:03:14 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-24T05:19:42.361Z"
+      "updatedAt": "2026-08-24T06:04:54.956Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Norway will drill in Arctic regardless of EU's position, says energy minister - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTE5nRnVOOFJXYXBSWklEZVhITWVHQTNaTllvYUxoclNydEZPMDFHcDd0SmNUUndjZFBrRWpLa2NVekRHbEh5SWFwbU5zb1I4emN0OUNuUTAwY3VtXzBoclEzbE1iQUoyOE1TTExrNnlwR0JxT0ZyS0ZoMkVYYUw3RWxuNnlFWHlUSDRYN3Z3Z1VlS01oTXBaNC00ZWtDZW9Ka1ZuUDZucTVyMDVoRHNCS2ZVbWxQY2RVLXg4c2hB?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 05:03:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Gold hits over 3-month high ahead of US inflation data, Fed chair speech - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUkZtQVBPdjlyb21JaVBxeFRicDFEeHVNQ21pZzdGQnlSMUpFYV80MEl3RjJUbF9tYWxmdkZqY2NpaXh5S0NPd1lhbFZxUHZMVVFkTHNyNktCX2hrUU5KN3hjcWRUVTlaQ0hwcmVoMV9VZjBmUkFjMGtTUUY5MXBwRDRFWXBwQnhZTzU1dV81LThOaTNZR1BLVDRGU1JtbDczRjVweFByWkVQbWhhX3VwYTlJZ0VYblU?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 04:39:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Mixing economic wars, trade wars and actual wars - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zYlNwM05renFqUDNLaGZkdl9sa0cxLXJDTmhLcXYwRG1aYjlLR1c4QjlGbGtqY3pNaXhMR1E4cnJLLU1VcjNfR2h4anE4RTFqVDk2Y3AwWTY5TVZnZnFkRjZVR0tGaGQ0REJpZXljSElWQWFsRnZGY2NUT0t1M1k?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 04:34:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "High oil prices, subsidies and affordable models rev up European EV sales - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUG1HRklKbnhhOE4tN2NJRkF0SkgyS1d1aGg3UHVZVzJELXRibFRnUWFBN0dNWTJwVVkwOHBzakQ0Z3l3NVFRUWJyRDhLRnpBRUJmZ0pVMGM2NF9zU2RXS0NWa3ZRclplMGRKVUQzdlB3c0xBME5QVjFwQ0VVREdhVXNUTDdtU0xLdW1hMjR6Y1lUUjU3REFsTlpsME1jYkxWd05lelA0TjB2V0NLM0JFWlNRMTB3S3g5WUhVc1dpS1JQYVNmMmxEdDZoVjBkYkk?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 04:05:00 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Father of sailor aboard USS Abraham Lincoln taken into US immigration detention - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZHpyNnV2YVZvT29oWXgzZlZpalBjRnhaSHNWN1hxNVRXZ2tzenZqUmhFYUtJcW51MjR6VExsMWtwenlWOXFRTHFUcVJJZEJNRnVZSjNxZ1VNWk55ODNNTGRLcUp6RDhXcXlYX2tHakNSVEZLYTFEc2ZoeFVyRVhEMWJ4djVxMUJuTnUyeFZ4WGFudVFKZVM4Q1VtVnBobmJuNmIxenVaUHJlMmFGQzJFTXVnWHI1UlA5dlB0QkdfVVlJSVNnUDlKQw?oc=5",
@@ -188,38 +212,14 @@
           "source": "Reuters"
         },
         {
-          "title": "North Korea preparing further Russia troop deployments, no sign move imminent, Seoul says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTHFDVms1QXIwRVJKUlRKMWpPY2VvX3FMaVU1UGtlZjV2TVd4OHNkNXVmQ2dQV3Y0NzBwM21IUzN1NzFOYmhlVDBKS092bXB5NmxLeVNnd0VKWkN6TXRVWXAzZjJUNl8tY3R5eEdNQkd5akoyanpjaFpWYXJXbFNOMkFmSllJLXZzN1I5S0REcExyRlRNVHQycE5SaE5NTTBSYVprYTdvR0xBNENHbFJEUzJ1aXFCMWl2UlBXdHZHSXhuOVdqZFQtbWhnUFJJbFA4eklQTnJB?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 02:27:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Man suspected of murdering five in Oregon found dead - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcFhJQnlfZnhZbTFOdm9YMFhZRnQwNWRSSU1xSFlLZGR0NGpIcldaYVQzTGdfbm9XQkQwR1F1Wng1Slk5aDExRVFBRHNKUEdrZGlmZGJ5NzRocXFZQ3NQY1VsWEFVa0JBWnYwMUtIWWZzMGZ2NlVkQlh2OWNZUnJLaFRIYjRfcUpSMzliQ0VqeTFBWUhDSEpFdlNpbWQzcG81UWc?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 02:03:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Alibaba shares fall 8% after $10 billion Hong Kong share sale - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdzFnOVB5eF9UcW5SRkIzb1ZlenVJczBvb0RlVDd4S0VZOVQ3NEl1dlpmYnhwa09tU2VWS1J2X3d6WkNVOUFYVzM1RDE5eVlMZlc1bkZlOFV4ZWJYcC0wT2twNXhlaDFTWWJwakc4cmctU1ZiazRuZktIaGpvNDBjcHJNZ0xfMXZJVjEyYXBzTncyaFBNY1l2UVYwTkQ5M0NOSjIzWVFqNU9mOThncEJyaWdJcFdDNGZqYTRQXw?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 01:51:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Dollar trading near multi-month lows, restrained by debt nerves - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeWdQcUNEMGg5ZXdrRnBJRl9PLXZtbk9NYzdiZnEydGZBT21TOWRFaV9EQVBpYU9mcktFSV84c0JwcVBDdHVDSkkwUUpIWVM3ZVhYTWFrNFNWRlc3MUhMWVZ5V29JTXh5U01Ja0l3MzdGTTUweFo0Y0VVZjlfYXp5YjVfSU11NW5zdUtqM1l4cEtCV1JmU24xVmlBc1NtVkRHcnpxUFlxNkRZSUU?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 01:48:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Alibaba shares slide after $10.2 billion AI share sale offered at sharp discount - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbmJDLXh4Z1Q1TU1xaFVKallDYkY5TmdpYUlUTkpxZ1BGS09ReGNfSlJTd0F4OGNKYndTUndKRmRVaU9DUUNfWVc0b1FyV211dFQwRTdHZS1CNExRd3owLU93WEUtcWZ6YkQyOThYMmZlNDFJM01RbjhOenhvaFptLW44S2tmR2pPSjJOWlhnUHNhUy02Wm1Td0gyY3F1QzhyQk42YWhnNl9UUXBxY0Z3bzhUSm1tRjhTZ3YyM3dVU21ibERiRzMtQ3B6eTlfZw?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 01:32:00 GMT",
+          "title": "Shein to pay up to $3.5 billion to select pre-IPO investors around Hong Kong listing - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZUtTcXQ0cS1QOEpqQk10a0dPRnlmaU9SOGoyaEFBWHNHTHZRby03c3FoZzFCdmMyYlNhY0Y0V2FSQjhXNE5RYlBHTll3ekNoZm1sdzJ0VWtwOEZqdWQ4ZXd2VGVYZ3AwcnZiTkJNOHkzRTZ5UnZkZlZNajgtb2dmM3ZFYkUybkR1TTBEN0dZZTJzS3RhWEI5VVVlV19TQWYxYUdIVXk2algybmpLdVVzNHEyUUNCb0p6Ym85X1ZmRHFsM3VweGs5Mw?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 03:32:00 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-24T05:19:42.737Z"
+      "updatedAt": "2026-08-24T06:04:55.348Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-24T05:19:42.978Z"
+      "updatedAt": "2026-08-24T06:04:55.417Z"
     }
   ]
 }
