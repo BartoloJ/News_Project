@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T19:34:09.097Z",
+  "generatedAt": "2026-08-24T20:36:41.152Z",
   "sources": [
     {
       "name": "BBC News",
@@ -54,13 +54,13 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-24T19:34:08.012Z"
+      "updatedAt": "2026-08-24T20:36:40.188Z"
     },
     {
       "name": "NPR",
       "items": [
         {
-          "title": "Treasury Secretary Scott Bessent unveils new U.S. economic sanctions on Iran",
+          "title": "Treasury Secretary Scott Bessent unveils new U.S. economic sanctions to isolate Iran",
           "link": "https://www.npr.org/2026/08/24/g-s1-139743/treasury-secretary-scott-bessent-to-unveil-new-economic-sanctions-on-iran",
           "pubDate": "Mon, 24 Aug 2026 08:26:00 -0400",
           "source": "NPR"
@@ -109,15 +109,45 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-24T19:34:08.041Z"
+      "updatedAt": "2026-08-24T20:36:40.228Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Iran warns of a harsh as US announces new sanctions and other Middle East news - AP News",
+          "title": "Trump tells Canada to ‘fall in line’ as Carney rejects subordination - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZE5jV3dUNWhXajlyc1J1cnhRNzZEQWR3cnV3dWNLTEdWZVlWYTZyakpWR1lPVzdUZE0tMWhMd1Z4c0J5OHpBbHh0cjhFNU1aTnlucERJSVlXMlR0Xzl1UW1zNlhVRzY0RFBaRVAwYzFkV2tBbk5ORUl2cTJnVHpjaE4xbFBtMlF5aFRITE1PVQ?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 20:18:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Iran warns of a harsh response as US announces new sanctions and other Middle East news - AP News",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM3VzOFY1UEwzVnN2d3pDQ0NFZWZQVEJNcGJ1VlVKbmczYjVBeDk5S3NTOGtIS3NKNDFUdXFDbjRUTURPd0c2YWxZelQ3NnFxVUtfM1NzSk8yQ2ZXYnlTZGpiZFBxTTZXUXN5czJ5VnJqWFprcG9NcTFnOUtmNU54cHIwRjEtblZINUs0bXlxTVZrRU9ZNkp1OUVyUTEyOUZzRXBaTnhhRQ?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 19:22:00 GMT",
+          "pubDate": "Mon, 24 Aug 2026 20:17:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Trump's 'economic D-Day' threats become warnings for countries to sever financial ties with Iran - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZlROSkFsYjg2RjA1RzJfY1VYTWNZZFhPcDVqSDJrRzFWR1pXQ29uS2NvaEhkVWo1d3dHeXF2QnlWTnNJY2RyVlJJWVQwcG15V0wtbEtwdUU0R05YWVhhbHpyZnZvT0tuMXM1RlJ3YVBxSlc4SGpHazJzSndyRkNqbXF6YVF5U1hqT2t0RmpCUnM3SDNXSkxtS2t6T3RnNGMtMnNiT1Q3X0VXNjg?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 20:16:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 19:09:34 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "3-year college degrees grow more popular in the US, saving time and cash. But critics aren't sold - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNX29vM3hDWU4waTA0b1pQOGQ1UmRSempJWWxCNTItRlRpd09nTk9tT3NfUFNUSXBHaWQ2aGNkYjNRdlMtZjFGQ2tPNW5RX2s5UmNsa2ZKTlhHRVNucEhaOVhEc2MxbG12LUtPaEFoV25NbVBQVU5UaUlFMVJUdmo1VENmM05TdjFsQVpOSmxn?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 19:01:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "49ers owner Jed York pleads no contest to two misdemeanor charges in Ohio - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWXVFZ1BlaS05RFAxaHhRQWxjbDdsaGxDS2xCSzR5VWdpVDFkNHM0bmh5VTFtVkpkOVJ0cjJjVHFoMm0tNkRuNWZOSVI1aHc2S0oxTTVvUFhzbExIM3JzYXNpaXJWNjVEeC14WmdYTFdLY2F0VjZDall3VDY1Nk1oWGxvdHZ0TDdZZ2FZ?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 18:34:00 GMT",
           "source": "AP News"
         },
         {
@@ -127,99 +157,69 @@
           "source": "AP News"
         },
         {
-          "title": "Bessent says new US sanctions aim to block all potential sources of revenue for Iran - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZlROSkFsYjg2RjA1RzJfY1VYTWNZZFhPcDVqSDJrRzFWR1pXQ29uS2NvaEhkVWo1d3dHeXF2QnlWTnNJY2RyVlJJWVQwcG15V0wtbEtwdUU0R05YWVhhbHpyZnZvT0tuMXM1RlJ3YVBxSlc4SGpHazJzSndyRkNqbXF6YVF5U1hqT2t0RmpCUnM3SDNXSkxtS2t6T3RnNGMtMnNiT1Q3X0VXNjg?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 18:33:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Gang coalition unleashes violent new attack on farming community in Haiti - AP News",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMnNxdGtKeEtRY1RrSVRMa0lLT0I1andkd2h1YzY3ajBfYmtZVnltM0xhUDBGUDdqNk9xQl9Xb2QyelR3YWZiWERybTVkZm05ODV1d0VDQWlFd1dkRVJQMXNuVVl2N2RWVFV1Y0hrWWlLUi1TYXdmVXBaVkRuZVJGNDJjd0VibExwT0R5c2ozYVk4T2lLNnBoV2FmNlN1dw?oc=5",
           "pubDate": "Mon, 24 Aug 2026 18:29:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Carney says Trump’s demands would dismantle Canadian auto industry as Ford warns US could be cut off - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZE5jV3dUNWhXajlyc1J1cnhRNzZEQWR3cnV3dWNLTEdWZVlWYTZyakpWR1lPVzdUZE0tMWhMd1Z4c0J5OHpBbHh0cjhFNU1aTnlucERJSVlXMlR0Xzl1UW1zNlhVRzY0RFBaRVAwYzFkV2tBbk5ORUl2cTJnVHpjaE4xbFBtMlF5aFRITE1PVQ?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 18:15:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "US Postal Service issues new rule for mail ballots, but its impact on the midterms is uncertain - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcGo2NXVCTXRIdTNmM2o3NmRQVU9PcFMzakxPNlZrVVNvZ05mMEpZYmhEU0dKakFVV1lTejUxRTJ6d2ZYSTRJOHh4a00tR3R4clpSLXRtUlpudzhjX1ZxUDE4M0NCUndNZ0dLQ0lQRTQ3WU1qM0VGWF9fZkRYa1BVc0pBTTI3dC10X1JTbTJ6eXFDMmduYnZsNHR3NTVpRlY5SGk0?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 18:10:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Economists don't expect reopening the US to Mexican cattle imports to reduce high beef prices - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcTEyOWlfbmxwc2E0MHc5YkNUM3VxTURCblRwd2I3bE9MVUpZTUNYYjhjVzgxWGRIdVRRbERVQlU4OVRQYWdhRXRQWmVKSHV6eDBvSm1JSFRHUWQ0ajQ0S21Za09Fb2REbnBBbm5ETndSWXZXbm9IUF9Xd2VBeF9sM1ljX05wWDhsbVpDX0xZbGZGem1iY2tYeDhEQzY2Ums3MjMtSHY3RmhyQThC?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 18:04:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Women’s baseball league board member goes public with concerns about company's finances - AP News",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSzdFRXJaQU1GSUV6R3RoYmFHaU5haDdXeEQ0OUNyMDhPb1N5NFRMMFYwNzNrWks0eXBrNGtmZElsWmJpY0VDRVpLREJrRTc1SEE2VFhmZWU0OHo1TW96ZzFWRFNDc0Y4aW5KaE10SW8wS0YyemNDRG1XMFA0dVhUb0pzenFUSVU?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 17:58:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-24T19:34:08.573Z"
+      "updatedAt": "2026-08-24T20:36:40.607Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "US threatens countries doing business with Iran, but holds off on penalties for now - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOb0FZaGVaRDU5ZGhzbm1uaHBtUDIwNEhOUk96ZkxVNlRubGFIbHdXTmZhTU1YM2lrclBjNkpkNmlQWnIwUW9pS0xkazBKU2VTZXZMR2RlR0RWTTBnRUVKb2J1SzdyOGNGRjBBWFo4ZnRVQ1dLNG9KT2hTNU5SUGRNNDFERkctaW5oYlhjbTF6VjZNZmZBZHNjemVYZzZCZkFRRkE3MFlJMFlrTl9qT3VaZWQzQ3NnYlE?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 18:52:34 GMT",
+          "title": "California cancels talks with Paramount over Warner Bros deal - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdkFvWDdMZkFmU0NiOXNmUHBEU3RFLVFmM0VmQnZpbEsyeUp3UmZhb0J4TTNyZUZvNzZiQUQybHBwRjcyMU1TQnl3VkE0OWMwX3N5MzlGU1daWTVaN3dIZmVHc0RsU09LVkRjRTlJZlVKbWhjNWZHVkxJeWlFaFg5aEFic18xTnhEenpQVUFKUDA1N1oxMVY5cGlhRXo5cTVkdWQ3NEpfMDM3OFNLaGRQUzFpUlBQQnVVblJYTER4WWtST3Z0UU00?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 20:05:19 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Washington Post ordered to reinstate columnist Karen Attiah - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZXlxZUpBbGttc00xWFJ5QlQxLUh3X3JEQzV6WWtzQnFyTzJkVFZYM3ExaVY2N1l0dGs4Zy1tMFEtMzZxdFpTWGZ4TUxENHN6dDFES2Q5ZGRjcHZNcnF5ZVJGT01uMFNEeENkZjc4d2tnS0NmcjFFRHFETTNJa2RCdHpxZ19HTWhlNVA2TVN0c0JPSElqZ241ZEp2ZXNTTzU4Q3BuZWZMTExzMUtLYmRwNXg3VjFOZXY4bVR1X2xB?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 19:58:24 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US removes Syria from terrorism sponsor list, lifting major investment obstacle - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORlU2M1F3TVF0MDVWdXBQMUs3bTdBTTRnWHhRYU85b2IyU04tVTYySkFMVGhtNDBhQUZUdGRKQUNDRnFtRlRDRF9xZFlYaklWemxNNEo0WWNaZWpoQ1JuVWV5Rm94QzRKZzcyZVJIUGlzamtwRkVkcEdWeUxOZTVKZkRJRkJ1cTFwVElRUF9KN05zdEpRRjlKbTZJek40LUJaVzRubzFyRTJmZmM?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 19:35:45 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Trump's approval holds at record low as US support for Iran war falls, Reuters Ipsos poll finds - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYkRkNWJWcGl4bFZlUjZrZEpaMGJIMGljWUk3MTU4M2tuc1ZvcnZMMlNOMVM1NFlGUGp6eVRXbTBnSHVFVWV6YjJ1dmNGV1g3ajJJbWUzcGw4U0kyZDkzbjF5LTlxS1R2aUV0RkNKN1Z5QWVqY082ei1lMzFmSFZfVC1QLUUwbFY5SmlDdlZyZnhIRmN6Ul91cVhtbWRrdnl6S2ROc0JRMk9mdjZzaTBvMURfcXNMbE9OWnpkU0tMbw?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 19:35:39 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Target apologizes for children's clown Halloween costume after backlash - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQzUzNFU1WUZVbkRyRURTS0hXODdQc1BodmpLT2pNb1hvckQydmRXQ3A1c0RJbzNUY0xnenJvSlN2dzVoUkk0YnU0bk5Xams0ejB0aXBFVkpmUm85UDNHV1RXUExyUXRXeTE1NXotYmg3ZEM1MU5PZy00R2hidk9MNWtsX0I2YjdLVWd0RGV6Y1liNktXTm5mT2JZaVpPMURSdmpaRkRyZExxYXVRamZ3SVpudTVwc09CaE5zLVZwN3JOYlNaM3c?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 19:31:33 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "U.S. court orders Guardant to pay $245 million in DNA sequencing patent dispute - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNY2E4eXJkTHVab2hiUTNZTTV3Z3JCWEVkSlpRWHl1UVduckFhTU90SjB4TWljaVc4UDRMY3Z4b3NEUl9LWGRYenZ0WUtUdUhjMTNPdVlKZGZJbDdlWkRmZzl1anlVU2hHYmx0VjBFRUZkbnBxWlpyRlFkV2h6d2hYTmQtV1lSNTl1cWMtU1c1SHRrTDcyZ180Q0p5NE14M01QZmwwSXAyTkNEb2F5Ulc1SzdVVUpKYUtmWXJfQjVvMjI?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 19:06:54 GMT",
           "source": "Reuters"
         },
         {
           "title": "Trump bought shares in Elon Musk's SpaceX in June, financial disclosure shows - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZHBZd3V0b2sySFhUajY0b2NBeVcwZzFLdGpNMENHWGRyMHEtX0NqYi1fUXU2a1E4UGVqS25vS3hpTkd2MW5xLVRtTi1pSnZ3R1VpZDBxY1lLLW9WbEdKdzFZbTlzbjZMRlJGQmt1OS1kTlBpZkhkbVJXYWd4elhfRTV5SENBRG80WHlhbURPeGZRYWt5TmxoN0FlSHVZb2QweFJlQWtkemoyQnRhak5ncnl6S29SWHdadjRUamdRdw?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 18:49:51 GMT",
+          "pubDate": "Mon, 24 Aug 2026 18:57:27 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Tech drags S&P 500, Nasdaq lower as more Iran sanctions, Nvidia earnings loom - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZmVCQWYzaWpzTVpmVFJPV0xRdEtUcXg0N2JKZHB5Z2JFZWpWRHFwS0Q3R2NtVHp1c29rem5scXhwa0FZMFZJNGtqM3ZCRlVOa1doNGNtWEcxVVZCYXFDSXlEbmJwODhKbG5Kdk15RDJpbDFleUFpWkdmbWEtMkhGWnF0U1FWWVpmSnp4aXp4UzlPc2hzaFNTWllwSm5UVWlpNWtWQlkzX1dqOHJNbkg5ag?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 18:27:38 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Trump threatens 50% tariffs on all cars and trucks from Canada amid trade fight - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeHRsVm1PblBZVy1Kb0lNOVdrZ3E1dVItdjNHazBSVWFOc25tWHluRU81c3ZRNzB0Y2c4eUlmX2dzWE0yY2FNV0xqaG4zcDVRWVhvVGhleTFIVExKYVRqeVUxazBGNzBuSVBabzczRFpxdi1lVF9GdDZiQk55ZDJzMThwMEJIcGxrSTNncDg1aUU0TkxUTEc1a19rN0lnNFVFQ3F3V3g1UFlGcE1lNm9pOW84MVpDd3Y3VEFvYk9LOXVUUTN3Z2ZvX1FQR0RoemtwRUlvdWVoSQ?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 18:24:50 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Trump's Kim gambit deepens doubts over US reliability at a key moment for Asia - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeW1HQTBPVVZlZEhfMkNQekxGc3FZMHpTb1hFUF9Nb2EzLWJsU3NjZlpiNzh3N0xuVTRfZlRUX3Y3ODVPUjNkSE4zLVRNMzBTUWk2b1BJUlI5SXprSi1admNRVU5MbE1fR0hrRXJYNHJ6RjhPRHo2WWpyWWdoNEVEVnUtN1NtU1ByNlhjV0phdUtwWDh4QXFKVmRjcWxfYngwY3FlOXdHVE1MX2JqdDFjQVJjTllmQTU1X1N0UEpCQ28?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 18:20:43 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Gold rally gains momentum ahead of US inflation data, Jackson Hole event - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUkZtQVBPdjlyb21JaVBxeFRicDFEeHVNQ21pZzdGQnlSMUpFYV80MEl3RjJUbF9tYWxmdkZqY2NpaXh5S0NPd1lhbFZxUHZMVVFkTHNyNktCX2hrUU5KN3hjcWRUVTlaQ0hwcmVoMV9VZjBmUkFjMGtTUUY5MXBwRDRFWXBwQnhZTzU1dV81LThOaTNZR1BLVDRGU1JtbDczRjVweFByWkVQbWhhX3VwYTlJZ0VYblU?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 18:04:57 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Putin allows Russia to take control of infrastructure deemed vulnerable to drone attacks - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPM1hFRTE5MjZkRGZMb1FxQ29FWDIyYVNSQnVUb1AzRnhvRlV1OUN5U1dDQS12MklwSGJldTRya3ZSZzRxcnlNemtnMl9HajJFekJtZHRyekcweC1ubGhndHhaM29DZXdaUUFjUDY1VVJHaXJpb285NlRfNnoxQW51S2pEZFZOc1EtcDR0SEVMSmozNHFqRktLTV9LaWhnNUpVcFB5WVgyS3NxcXhmT1JGX01ZcWRRX1JqZTVFcm1sMzM4VTN5ZXRSb0NDZnBRVmM?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 18:01:43 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Video appears to show 600 people abducted in Nigeria mosque attack, residents say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQV0ZPclVCcjVMRjNYQ3g5M1gtdDJNdlp0MW81UG10SmlfTmY2U1RrcTRaYy15OTJ0R1J4Q2kzXzBCdTN0TlJRX1puQ2I5aWtfLTBncm1KOE1TR3lSd3dMckNneHVkaUV2cW85SGRacFd0OEhRX3ZIMFF0OXpOcmtXVkJ3Qk1UU0QtY3h6WmNNOEdieEhCV2RpZE1zME1BX1lWSHBmaHo5cFQxMTJpUUVDV2lMSDc2YzdYVlo0Zk9MaVc?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 17:59:43 GMT",
+          "title": "Israel's Netanyahu says Iran tried to kill one of his sons - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcndkRXBGZVdHbXo5ajBPN3B4UUZPV05GWVV1UWxYVmtaX0JOeXJiN0I2ZzYxQS1TbjRWa1BITmtxa1RWQ1FFOEczbFFaYWdud3dqdkdwU1lTazd3ekZtNXIyWnEtT3pSaXJMakR6WHo5ZFFMakIyMVlBSnFYM2Q1aS1ySExGSmpQcnpDZlpZRTFwMFlyeDVvMDJveHliVDZZemVZZ3UwWlE?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 18:54:22 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-24T19:34:08.981Z"
+      "updatedAt": "2026-08-24T20:36:41.081Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-24T19:34:09.097Z"
+      "updatedAt": "2026-08-24T20:36:41.152Z"
     }
   ]
 }
