@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T23:26:33.656Z",
+  "generatedAt": "2026-08-24T23:50:16.163Z",
   "sources": [
     {
       "name": "BBC News",
@@ -7,7 +7,7 @@
         {
           "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
           "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 24 Aug 2026 19:12:35 GMT",
+          "pubDate": "Mon, 24 Aug 2026 23:48:25 GMT",
           "source": "BBC News"
         },
         {
@@ -54,7 +54,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-24T23:26:31.852Z"
+      "updatedAt": "2026-08-24T23:50:14.730Z"
     },
     {
       "name": "NPR",
@@ -109,14 +109,32 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-24T23:26:32.087Z"
+      "updatedAt": "2026-08-24T23:50:15.095Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "Bills offer condolences, support to defensive tackle Ed Oliver following death of his 1-year-old son - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUlRoRlE2UHlLR1YxT2hkUzdPc2Ytbmc5RGFUcWd6VXBHNUU3X2hjRDRPMVBHdUV6Ykdlc19pdWpVRHVVekJTM3gtaDNYMEhxQkJGZGt0VVpobzdKM0EtNW5vR2NtY1NhVlVVWkkwemxtRVlZdHoyZ0s0MTFRZ2taamhpazF5LWxOT0dOMFhCV2dFeEVNbWVJdA?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 23:36:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 23:31:03 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Supreme Court sides with Trump administration on mail voting restrictions ahead of midterms - AP News",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUTFJYWp5U2FxQlpxYjVCb1p5dThHZmx4NGNwRnpybDZSMEVnZVpBMWZuaU9CSDlieHVYU3kzOUQ4TEl6RjlBZmxwd2dBQW9qclA0VG1RQnRBcUdkSDRfbE1RTmdib2tzRFUyTWwxTmVlZE1FVkt5QmR6M0ZVVUlyQ1pQN2E0S2pJUnJxb3RYZlZTT3BodVE?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 23:19:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "US set for largest mass visa revocation in history targeting up to 200,000 foreigners, officials say - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQ0FQU2lNNmJpYkg3Z3hpVUdkQ3lWUXp0WFBtTUpFWmhmcWpoa2V1WmFpRXlTWEJod01kZUNtSUpLLUIteTh4WGpFN2pxV0hGcmFRSDNYZUNWSjhCRUhHcXl0OFZXNTI0Z2MtSlUzRTVyV051RHFGX180VGlvMl9LaGtOVnpWSEN1Tk9MUg?oc=5",
           "pubDate": "Mon, 24 Aug 2026 23:19:00 GMT",
           "source": "AP News"
         },
@@ -127,9 +145,9 @@
           "source": "AP News"
         },
         {
-          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 23:04:28 GMT",
+          "title": "8-year-old Louisiana girl dies from a rare brain-eating amoeba found in warm freshwater - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMjViVS03S3N1Z2ZhbHBmQktTRHJLaEZhcXFhZkQzOEpFb2hIdTRBQkkxakRiVk13WVNlY2Q5SXdyRVRlMzNieUZnbDh5LWlBamZoTHVIM1FaQmdwRS1SWmhqYmNLTUZneWxEM3BxWHJra0hVNW91MDZIN2tkY29kaEMwdEdXYkF1Z3BNRjQ2QXRKQnNMb01hN0hGa2M?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 22:05:00 GMT",
           "source": "AP News"
         },
         {
@@ -143,36 +161,30 @@
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTlduTkxVVExlUnFuS012Y1VBYWRqSjVCd3ZRV3dVbGluUnZabGc4RXFqTllqN2FIYklXTjREallHNm5HYkR6dnVFSTVlLWl5UDFJMi1kUVowZzQ5UEF1NjNqcV9mZlMwOU81R3lsRFc5QXM3WkRXNTJtLXBqanVpanktUUs4N1V1UXJxb1hNQzZGd2o0WGRvaWp4UnF4bGUtSnFuUDhkS3pjNy00OVBsWS14QVRnZw?oc=5",
           "pubDate": "Mon, 24 Aug 2026 21:42:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Trump's 'economic D-Day' threats become warnings for countries to sever financial ties with Iran - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZlROSkFsYjg2RjA1RzJfY1VYTWNZZFhPcDVqSDJrRzFWR1pXQ29uS2NvaEhkVWo1d3dHeXF2QnlWTnNJY2RyVlJJWVQwcG15V0wtbEtwdUU0R05YWVhhbHpyZnZvT0tuMXM1RlJ3YVBxSlc4SGpHazJzSndyRkNqbXF6YVF5U1hqT2t0RmpCUnM3SDNXSkxtS2t6T3RnNGMtMnNiT1Q3X0VXNjg?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 21:41:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Firefighters make progress against a fast-moving Nevada wildfire that's destroyed more than 30 homes - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQb2E5WkZBS3F0am16QWJBTE5WbW1HclZNUU92OTFPVlFVemJCb2Uzb1pueERYOVZRdFVtYUJJbjlMM3RmSkJ5RTBza0hvVzNsb2w5NjFRSk5YUUVfOVN5ZVl4dEs1MDB2SzBBdlN2eHg5RXBaeVEwOVVxSW13djlLU0FYZkVnWjBPd1hyN09tRks3TFY3MmlpRQ?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 21:34:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "US Postal Service issues new rule for mail ballots, but its impact on the midterms is uncertain - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcGo2NXVCTXRIdTNmM2o3NmRQVU9PcFMzakxPNlZrVVNvZ05mMEpZYmhEU0dKakFVV1lTejUxRTJ6d2ZYSTRJOHh4a00tR3R4clpSLXRtUlpudzhjX1ZxUDE4M0NCUndNZ0dLQ0lQRTQ3WU1qM0VGWF9fZkRYa1BVc0pBTTI3dC10X1JTbTJ6eXFDMmduYnZsNHR3NTVpRlY5SGk0?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 21:32:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-24T23:26:32.788Z"
+      "updatedAt": "2026-08-24T23:50:15.508Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "Move over, Warsh. Treasury's Bessent also has a credibility problem - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYnpIYnF5aERab0NEQURhUm9aQ0k5dk1LdmpFSHpTVkhfUHdvTzhqb2swR2lseDczOUVqMGplQWl5NGFYUXJYVkVxemFydzFlQUtVSFR2cTNPZlg4U0FaNnJDMzJvWE04LTUtWkxxUUw1aW01Z0hiT0Q2U1MxV2pxc2lzckRVUlF6dkNiNmpZblcxRThoSlVvS2pwUmFLWDRLSlVBLWRiLURDZnpUbGhoN2pHNHpRVVRYUzkwc0lXdTIydm9langtZUstaw?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 23:30:32 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "EXCLUSIVE Japan eyes tax breaks for non-core business sales in governance reform push, sources say - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSVg0X2I4UXJDLS1kc2EwNjhtcTJvS3JSQXZTdVhqbl9UZVhVQms3XzZyMlQyVVNYUmN6NzJZWUJaREpsUmlKbEtIX01WSEltX0hBTHg0UzNPQXBOSXVkeGRSVHFFMDY2OGxNS2JNMEpKVTdGNC1OX3R2LVdTc2cxT095X3lYbkF6VndUaW5RUmpGNGNFRXFCUERCdVVIREpNaGE0bTdBQzh5eTRjOUdzQ1JrR1VuZ3IxWG5PYTlyZw?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 23:12:50 GMT",
+          "pubDate": "Mon, 24 Aug 2026 23:28:29 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Trump's approval holds at record low as US support for Iran war falls, Reuters Ipsos poll finds - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYkRkNWJWcGl4bFZlUjZrZEpaMGJIMGljWUk3MTU4M2tuc1ZvcnZMMlNOMVM1NFlGUGp6eVRXbTBnSHVFVWV6YjJ1dmNGV1g3ajJJbWUzcGw4U0kyZDkzbjF5LTlxS1R2aUV0RkNKN1Z5QWVqY082ei1lMzFmSFZfVC1QLUUwbFY5SmlDdlZyZnhIRmN6Ul91cVhtbWRrdnl6S2ROc0JRMk9mdjZzaTBvMURfcXNMbE9OWnpkU0tMbw?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 23:12:09 GMT",
           "source": "Reuters"
         },
         {
@@ -188,6 +200,12 @@
           "source": "Reuters"
         },
         {
+          "title": "India's TCS to buy Porsche's IT unit, bags 5-year deal worth $1.46 billion - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQi1WcUl5Q0FFRlRFVDN5TmtYV3dBUHpvYUhCRDJkSHdJNXotcnNMUjNMS1ljQ0VWMHJTbXQzRlZZUm91Q09oSXozRW5LZmc2V0dSdS01cVRMb3pseW0zNVUyc3RtMXJpckVVVV9yc1FDZngwV2tfaE83UWJKVnlnNHZxYVIzNG9yRzB2M0pfZ3dTa3BuWHc?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 22:24:44 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Haiti gang raid leaves 30 dead, as residents demand stronger protections - Reuters",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLVd0VXhHMlRJWHJwYjhiQ2xJZ3hOaDk4eVdEeThNMWY0RXlucm9jM1d3Q05ld0VLdHpZLXRqMmZTd05iTEM5TnhId2dzLThTUHhBWDdsNGMxM2kycWVObEJ4U2tBVlpQTDA4SEttYmRqUFFDYi10NnIyZmVuM29EVjY3WXFDSUQycnNnTmlLajJCZmtJMmpIOHEzNXpsQQ?oc=5",
           "pubDate": "Mon, 24 Aug 2026 22:24:11 GMT",
@@ -198,28 +216,10 @@
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVWRPbWFoWm1RU2pZZHJkVFhNUmV3M0huVGtTU2p2LVZ6am5TT01LVHFGVTkwRDBVQ0tNc0tGZ2JLU0VIamdhVUM5WE1YWkY1T1NmV3g0bDJkOTJ5b1pWTndVeUhIMk1IbV9QRjZrMFBDaU5FMW1kemZaNXhCS2ZYZjVSaGJTYmhzb2RkRkxlQVlqMlpVT2Z4cnB5VHF3RGlDNXRJ?oc=5",
           "pubDate": "Mon, 24 Aug 2026 22:18:23 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "California cancels talks with Paramount over Warner Bros deal - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdkFvWDdMZkFmU0NiOXNmUHBEU3RFLVFmM0VmQnZpbEsyeUp3UmZhb0J4TTNyZUZvNzZiQUQybHBwRjcyMU1TQnl3VkE0OWMwX3N5MzlGU1daWTVaN3dIZmVHc0RsU09LVkRjRTlJZlVKbWhjNWZHVkxJeWlFaFg5aEFic18xTnhEenpQVUFKUDA1N1oxMVY5cGlhRXo5cTVkdWQ3NEpfMDM3OFNLaGRQUzFpUlBQQnVVblJYTER4WWtST3Z0UU00?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 21:59:40 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US Supreme Court hands a win to Trump over mail-in ballot restrictions - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSDlTTzEtMWJjdWlZbnV5THl6V3VzcE5rQ2VwN3VTaEJIa3l0bVU2dkdmQXU4LUZYX2psOEFwTTh6MEYzb1pCREJSQnhDRGxLaF9FTENEZlVTOHp0MnB6M2RScG1WOWlJdS1HM0d6aEZaT1lGaXdwQWNyM2p3YTc3UHdITGstQ3hHQzF2YUlUcDE3VkJZZnBqOUZreFpVX0FwWUllVTdUajZObi1n?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 21:52:37 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "As US border reopens to Mexican cattle, concerns persist over screwworm spread - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQTA5UEk2VkxHSW9jWjd1bmdWUEdCOVJObFVfN3RHMmRZTnJIb3NvSTNUajltUl9iY3NGSmExZGJORDJ3T1N5MXN3Y29tcTZLUkFIeV85RGM5WEswdkpLVjBCa2tfSkVjenNuRkFINjlyQzQzV2FmbUdHOU0yeFR4Mlpqc1AtdjF4SVhfX0hMZ1FZZVVZRHNIcnlKbXJxdkxqZnE1TWhyZTNDOVRaSnJZ?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 21:08:56 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-24T23:26:33.273Z"
+      "updatedAt": "2026-08-24T23:50:15.922Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-24T23:26:33.656Z"
+      "updatedAt": "2026-08-24T23:50:16.163Z"
     }
   ]
 }
