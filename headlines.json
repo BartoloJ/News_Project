@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T16:05:00.582Z",
+  "generatedAt": "2026-08-24T17:06:14.955Z",
   "sources": [
     {
       "name": "BBC News",
@@ -54,13 +54,13 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-24T16:04:59.129Z"
+      "updatedAt": "2026-08-24T17:06:10.066Z"
     },
     {
       "name": "NPR",
       "items": [
         {
-          "title": "Treasury Secretary Scott Bessent to unveil new economic sanctions on Iran",
+          "title": "Treasury Secretary Scott Bessent is set to unveil new economic sanctions on Iran",
           "link": "https://www.npr.org/2026/08/24/g-s1-139743/treasury-secretary-scott-bessent-to-unveil-new-economic-sanctions-on-iran",
           "pubDate": "Mon, 24 Aug 2026 08:26:00 -0400",
           "source": "NPR"
@@ -109,15 +109,33 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-24T16:04:59.356Z"
+      "updatedAt": "2026-08-24T17:06:10.207Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "Iran’s rial currency hits new record low as US prepares to announce more sanctions - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZlROSkFsYjg2RjA1RzJfY1VYTWNZZFhPcDVqSDJrRzFWR1pXQ29uS2NvaEhkVWo1d3dHeXF2QnlWTnNJY2RyVlJJWVQwcG15V0wtbEtwdUU0R05YWVhhbHpyZnZvT0tuMXM1RlJ3YVBxSlc4SGpHazJzSndyRkNqbXF6YVF5U1hqT2t0RmpCUnM3SDNXSkxtS2t6T3RnNGMtMnNiT1Q3X0VXNjg?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 16:38:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Ontario's premier: Canada should be ready to cut electricity, critical minerals as trade woes worsen - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZE5jV3dUNWhXajlyc1J1cnhRNzZEQWR3cnV3dWNLTEdWZVlWYTZyakpWR1lPVzdUZE0tMWhMd1Z4c0J5OHpBbHh0cjhFNU1aTnlucERJSVlXMlR0Xzl1UW1zNlhVRzY0RFBaRVAwYzFkV2tBbk5ORUl2cTJnVHpjaE4xbFBtMlF5aFRITE1PVQ?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 16:17:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "What to Stream: Alabama Shakes, 'The Whisper Man,' 'Leanne' and 'Star Wars Zero Company' - AP News",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaktvODN2aktpVkRMZ1dtN04yYTVVM0g1M01rN054X2lCU0daS2RrVmxkOWFMV09vSHY4SzAwM1I3cmxMN2U1VXNWNGdvRVBhUnZJck9vYy0zc0tDMk5wcFhhSHB1ek5iYy1XZmpPRDVMa2xzeUJJOWtobGhzRlpPZi1LU0ZGbURLSmlEZTU2X0sxVk5IY0FMdVVEclBrUQ?oc=5",
           "pubDate": "Mon, 24 Aug 2026 15:47:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Washington Post ordered to reinstate Black opinion writer fired after Charlie Kirk posts - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNTNxWmRReXloNnFvUTd5NlgtTGZnSHdYZlhMNFk3ZWVFdi01eUdmY0pHYWRLUmVwVlBmUU1jeHgybEdGZXFZUUVyU0had0E0Yy13c21LRVBvVFhVNzk4aVJRNkQ3RGNLUFItbXJqYlBDcFBLN2RqSzV2YXNBSzZfQjY4bzc2S1ZUcEVvQVhDcHFLcC1Vb2lsY0VMRDl1NUFuQUs1NVVkSUVxZw?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 15:42:00 GMT",
           "source": "AP News"
         },
         {
@@ -139,32 +157,14 @@
           "source": "AP News"
         },
         {
-          "title": "Gang coalition unleashes violent new attack on farming community in Haiti - AP News",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMnNxdGtKeEtRY1RrSVRMa0lLT0I1andkd2h1YzY3ajBfYmtZVnltM0xhUDBGUDdqNk9xQl9Xb2QyelR3YWZiWERybTVkZm05ODV1d0VDQWlFd1dkRVJQMXNuVVl2N2RWVFV1Y0hrWWlLUi1TYXdmVXBaVkRuZVJGNDJjd0VibExwT0R5c2ozYVk4T2lLNnBoV2FmNlN1dw?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 14:53:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Iran warns of a harsh response to anticipated US sanctions and other Middle East news - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM3VzOFY1UEwzVnN2d3pDQ0NFZWZQVEJNcGJ1VlVKbmczYjVBeDk5S3NTOGtIS3NKNDFUdXFDbjRUTURPd0c2YWxZelQ3NnFxVUtfM1NzSk8yQ2ZXYnlTZGpiZFBxTTZXUXN5czJ5VnJqWFprcG9NcTFnOUtmNU54cHIwRjEtblZINUs0bXlxTVZrRU9ZNkp1OUVyUTEyOUZzRXBaTnhhRQ?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 14:45:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Ontario's premier: Canada should be ready to cut electricity, critical minerals as trade woes worsen - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZE5jV3dUNWhXajlyc1J1cnhRNzZEQWR3cnV3dWNLTEdWZVlWYTZyakpWR1lPVzdUZE0tMWhMd1Z4c0J5OHpBbHh0cjhFNU1aTnlucERJSVlXMlR0Xzl1UW1zNlhVRzY0RFBaRVAwYzFkV2tBbk5ORUl2cTJnVHpjaE4xbFBtMlF5aFRITE1PVQ?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 14:43:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Deshaun Watson named Cleveland Browns starting quarterback, AP source says - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRVRkZkhXT01waW1QYmdlSzR5VmZpLVVCZDB5N2h3RFlBVFZObEhJaGxPQVZBQ1hGUThjSkx5RERUT08tTURTMjVfYkhmZ3pFTVJHYmFqb0pZVTdqYkhkcFE0dkRjcTFnMXJwdV9hUHBlSUdWMlp4WXpMUktveW05YzBLNDk1U3g0Nnp2bUVOMk5jUQ?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 14:19:00 GMT",
+          "title": "Firefighters are trying to stop a fast-moving Nevada wildfire from spreading to homes in Reno - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQb2E5WkZBS3F0am16QWJBTE5WbW1HclZNUU92OTFPVlFVemJCb2Uzb1pueERYOVZRdFVtYUJJbjlMM3RmSkJ5RTBza0hvVzNsb2w5NjFRSk5YUUVfOVN5ZVl4dEs1MDB2SzBBdlN2eHg5RXBaeVEwOVVxSW13djlLU0FYZkVnWjBPd1hyN09tRks3TFY3MmlpRQ?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 15:07:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-24T16:04:59.830Z"
+      "updatedAt": "2026-08-24T17:06:10.654Z"
     },
     {
       "name": "Reuters",
@@ -218,7 +218,7 @@
           "source": "Reuters"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-08-24T16:05:00.345Z"
     },
     {
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-24T16:05:00.582Z"
+      "updatedAt": "2026-08-24T17:06:14.955Z"
     }
   ]
 }
