@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T21:35:01.033Z",
+  "generatedAt": "2026-08-24T22:32:08.936Z",
   "sources": [
     {
       "name": "BBC News",
@@ -54,11 +54,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-24T21:34:59.705Z"
+      "updatedAt": "2026-08-24T22:32:07.886Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Six months on, U.S. Navy families who evacauated Bahrain remain in limbo",
+          "link": "https://www.npr.org/2026/08/24/nx-s1-5943188/six-months-on-u-s-navy-families-who-evacauated-bahrain-remain-in-limbo",
+          "pubDate": "Mon, 24 Aug 2026 18:22:13 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Supreme Court pauses lower court ruling on Trump's mail voting order as hurdles loom",
           "link": "https://www.npr.org/2026/08/24/nx-s1-5909592/trump-mail-voting-order-supreme-court",
@@ -100,24 +106,36 @@
           "link": "https://www.npr.org/2026/08/24/nx-s1-5939834/morning-news-brief",
           "pubDate": "Mon, 24 Aug 2026 04:46:05 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "High-intensity sprints can trigger molecular changes in the bloodstream",
-          "link": "https://www.npr.org/2026/08/23/nx-s1-5939943/high-intensity-hiit-heart-health-exercise",
-          "pubDate": "Mon, 24 Aug 2026 04:45:44 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-24T21:34:59.908Z"
+      "updatedAt": "2026-08-24T22:32:07.950Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "Trump's 'economic D-Day' threats become warnings for countries to sever financial ties with Iran - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZlROSkFsYjg2RjA1RzJfY1VYTWNZZFhPcDVqSDJrRzFWR1pXQ29uS2NvaEhkVWo1d3dHeXF2QnlWTnNJY2RyVlJJWVQwcG15V0wtbEtwdUU0R05YWVhhbHpyZnZvT0tuMXM1RlJ3YVBxSlc4SGpHazJzSndyRkNqbXF6YVF5U1hqT2t0RmpCUnM3SDNXSkxtS2t6T3RnNGMtMnNiT1Q3X0VXNjg?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 21:41:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Firefighters make progress against a fast-moving Nevada wildfire that's destroyed more than 30 homes - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQb2E5WkZBS3F0am16QWJBTE5WbW1HclZNUU92OTFPVlFVemJCb2Uzb1pueERYOVZRdFVtYUJJbjlMM3RmSkJ5RTBza0hvVzNsb2w5NjFRSk5YUUVfOVN5ZVl4dEs1MDB2SzBBdlN2eHg5RXBaeVEwOVVxSW13djlLU0FYZkVnWjBPd1hyN09tRks3TFY3MmlpRQ?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 21:34:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "US Postal Service issues new rule for mail ballots, but its impact on the midterms is uncertain - AP News",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcGo2NXVCTXRIdTNmM2o3NmRQVU9PcFMzakxPNlZrVVNvZ05mMEpZYmhEU0dKakFVV1lTejUxRTJ6d2ZYSTRJOHh4a00tR3R4clpSLXRtUlpudzhjX1ZxUDE4M0NCUndNZ0dLQ0lQRTQ3WU1qM0VGWF9fZkRYa1BVc0pBTTI3dC10X1JTbTJ6eXFDMmduYnZsNHR3NTVpRlY5SGk0?oc=5",
           "pubDate": "Mon, 24 Aug 2026 21:32:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Supreme Court sides with Trump administration on mail voting restrictions ahead of midterms - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUTFJYWp5U2FxQlpxYjVCb1p5dThHZmx4NGNwRnpybDZSMEVnZVpBMWZuaU9CSDlieHVYU3kzOUQ4TEl6RjlBZmxwd2dBQW9qclA0VG1RQnRBcUdkSDRfbE1RTmdib2tzRFUyTWwxTmVlZE1FVkt5QmR6M0ZVVUlyQ1pQN2E0S2pJUnJxb3RYZlZTT3BodVE?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 21:30:00 GMT",
           "source": "AP News"
         },
         {
@@ -127,52 +145,46 @@
           "source": "AP News"
         },
         {
-          "title": "Supreme Court clears the way for Trump mail voting order in advance of midterms - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUTFJYWp5U2FxQlpxYjVCb1p5dThHZmx4NGNwRnpybDZSMEVnZVpBMWZuaU9CSDlieHVYU3kzOUQ4TEl6RjlBZmxwd2dBQW9qclA0VG1RQnRBcUdkSDRfbE1RTmdib2tzRFUyTWwxTmVlZE1FVkt5QmR6M0ZVVUlyQ1pQN2E0S2pJUnJxb3RYZlZTT3BodVE?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 21:00:00 GMT",
+          "title": "Lindsay Clancy didn't have acute psychosis when she killed her 3 children, psychologist says - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbWpiQnZjU2VSRnc2aEcwbzNQbTA2TU8zOHpLRU5EN2YwWDRncHpBTWlZc1FIUWI1M2FJZ09DaV8xQ2phV25UcXBzMHp0ZmhkNXNUdnN6dDdZbnhpaUp2cUFWdEd1YndqTFJYVzYzZGNCNzMtd01iSWJnWFJlSTBENlBMLXNxc2VIb3c3bWlqZGZZam1ScmgxUEd0bk9ManFURktR?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 21:10:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "What to know about Trump's tariffs on Canadian goods and rising tensions between once-close allies - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVHl1OFdkU2VpRThnVkF0UE9lcXYyeERtOFZOMDNQTHZTR1VxU3pzVWc4WEs4TXFIcnNtYThhWmVzOHprcmNwbDBUT1RwekVBd003ZGw1YUZwTXlZa2E0d1pIUFdmWVd5enRtYW5tbjlzSmw1aFVhMF94Ni01TlJsTEtfVWdLR2FtclRPUWJYLUxSMDZCam1ESw?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 20:38:00 GMT",
+          "title": "Wall Street drifts at the start of a week that could swing stocks and bonds - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQM1dReDZpZnhwWEQySC1XMWxPbjNmY2Zaa3pEbUJESmZHWkVJd21EelRubnpIY2d4Ulh0QTRRY05wQ1hGRkliWTdlbGVqSjlGMUFmRUgtZXY5ZnBXVVI3clJFcGZVQU5wclptaUlUTmdaNTJ5Q1p4bFB6V1hJVEtJZDRyZ1NmNjZRejdFNDNWQV9oMlhaRnNN?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 21:03:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Former world snooker champion Graeme Dott convicted of sexually abusing children - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRXlPQ05NYkljUmh4R0xQbjc1d1M1Y3ZzNzdORWZvMTBfaVlzNXlreEd5OVFKVmZ5b1RUcFRhWXlDOFptQXhZMXZLRDZmLVA4TzAtN1lqaFNkQ3dMWTZOVnhhT0pRRHh4RFp3b1NHYWRvbU9Td1lMeXpQUXRkSWNwQVFEWFR0bXhkX2h1eXdvMDVUcG1wb1dOZ3pvb3R0U0dQdmtoNjZVY2hoUHQtcmc?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 20:37:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "US set for largest mass visa revocation in history targeting up to 200,000 foreigners, officials say - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQ0FQU2lNNmJpYkg3Z3hpVUdkQ3lWUXp0WFBtTUpFWmhmcWpoa2V1WmFpRXlTWEJod01kZUNtSUpLLUIteTh4WGpFN2pxV0hGcmFRSDNYZUNWSjhCRUhHcXl0OFZXNTI0Z2MtSlUzRTVyV051RHFGX180VGlvMl9LaGtOVnpWSEN1Tk9MUg?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 20:30:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "After a stop in the NFL, Dae’Quan Wright could be heading back to LSU thanks to court order - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZzVuS2Z6Y3RvZHVRRXVENU9HRkFhbWl1MlNlNUlzSG9fUGg0OU1KaDhfOUtkNGM1THJHOE42dUFJVUpjTEJ0c2dVVVB4VFlWTU1nQUM2SGFwZFN0RGY5VnJWVlNtM2N1SHlUM0JCVkNMN3BkWDNGcXFiaWk3bHVpeWJrSVRfTk1oR0VqY0J3?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 20:25:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Gang coalition unleashes violent new attack on farming community in Haiti - AP News",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMnNxdGtKeEtRY1RrSVRMa0lLT0I1andkd2h1YzY3ajBfYmtZVnltM0xhUDBGUDdqNk9xQl9Xb2QyelR3YWZiWERybTVkZm05ODV1d0VDQWlFd1dkRVJQMXNuVVl2N2RWVFV1Y0hrWWlLUi1TYXdmVXBaVkRuZVJGNDJjd0VibExwT0R5c2ozYVk4T2lLNnBoV2FmNlN1dw?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 20:20:00 GMT",
+          "title": "MAGA Inc. spends $827,000 to back Darline Graham on final day of South Carolina GOP Senate runoff - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQamItZlRKUTR0azhhN2RjbktNQ2RLT25nQ1ByMTNZUWxCdkpCbXpRQXZqd3lJdTVCaE12NFNLZE5xd0I0dTB1NE9tQ05vSXRuUHBXUnZBTS1zNkhvYkozcFV3Yk1TcDZzRnktMHN2VFdvZUVUQkxZcVVzMzVmQmxNVlVUZi02dTR2OV83Wlc1VEpvc2NXdXZfWWdhRWd6ZlhVbHE1UA?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 20:55:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-24T21:35:00.414Z"
+      "updatedAt": "2026-08-24T22:32:08.389Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "US Supreme Court lifts a judicial hurdle to Trump's mail-in ballot curbs - Reuters",
+          "title": "US Supreme Court hands a win to Trump over mail-in ballot restrictions - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSDlTTzEtMWJjdWlZbnV5THl6V3VzcE5rQ2VwN3VTaEJIa3l0bVU2dkdmQXU4LUZYX2psOEFwTTh6MEYzb1pCREJSQnhDRGxLaF9FTENEZlVTOHp0MnB6M2RScG1WOWlJdS1HM0d6aEZaT1lGaXdwQWNyM2p3YTc3UHdITGstQ3hHQzF2YUlUcDE3VkJZZnBqOUZreFpVX0FwWUllVTdUajZObi1n?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 21:19:16 GMT",
+          "pubDate": "Mon, 24 Aug 2026 21:52:37 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Bond market anxiety raises stakes for Warsh's debut Jackson Hole speech - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcnNlclhfMG4yZE9OTExTUEQ4Zi1sUml5RFdoUVZiU2tXd3EtaTJSc0E4YlRBQUp4T1hvSzdmVHRBeFhobTMxV1hodmhsRl80Zm4zSldlTzBWTGJMeTNEd0RnekpmLV9RaVprUWp4SlBCQXJheXc1ZUt4NEx2T3pON0NQQTVlQTlldVA0SWRWdmN6OWVwc25jUlRBeGFTUFIzaC1YNlRQSzFrREtrQ3FXWQ?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 21:07:43 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Trump's approval holds at record low as US support for Iran war falls, Reuters Ipsos poll finds - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYkRkNWJWcGl4bFZlUjZrZEpaMGJIMGljWUk3MTU4M2tuc1ZvcnZMMlNOMVM1NFlGUGp6eVRXbTBnSHVFVWV6YjJ1dmNGV1g3ajJJbWUzcGw4U0kyZDkzbjF5LTlxS1R2aUV0RkNKN1Z5QWVqY082ei1lMzFmSFZfVC1QLUUwbFY5SmlDdlZyZnhIRmN6Ul91cVhtbWRrdnl6S2ROc0JRMk9mdjZzaTBvMURfcXNMbE9OWnpkU0tMbw?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 20:56:55 GMT",
           "source": "Reuters"
         },
         {
@@ -190,7 +202,7 @@
         {
           "title": "S&P 500, Nasdaq end down on tech stocks, investors weigh Iran moves - Reuters",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZmVCQWYzaWpzTVpmVFJPV0xRdEtUcXg0N2JKZHB5Z2JFZWpWRHFwS0Q3R2NtVHp1c29rem5scXhwa0FZMFZJNGtqM3ZCRlVOa1doNGNtWEcxVVZCYXFDSXlEbmJwODhKbG5Kdk15RDJpbDFleUFpWkdmbWEtMkhGWnF0U1FWWVpmSnp4aXp4UzlPc2hzaFNTWllwSm5UVWlpNWtWQlkzX1dqOHJNbkg5ag?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 20:36:16 GMT",
+          "pubDate": "Mon, 24 Aug 2026 20:50:09 GMT",
           "source": "Reuters"
         },
         {
@@ -204,22 +216,10 @@
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdkFvWDdMZkFmU0NiOXNmUHBEU3RFLVFmM0VmQnZpbEsyeUp3UmZhb0J4TTNyZUZvNzZiQUQybHBwRjcyMU1TQnl3VkE0OWMwX3N5MzlGU1daWTVaN3dIZmVHc0RsU09LVkRjRTlJZlVKbWhjNWZHVkxJeWlFaFg5aEFic18xTnhEenpQVUFKUDA1N1oxMVY5cGlhRXo5cTVkdWQ3NEpfMDM3OFNLaGRQUzFpUlBQQnVVblJYTER4WWtST3Z0UU00?oc=5",
           "pubDate": "Mon, 24 Aug 2026 20:05:19 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Washington Post ordered to reinstate columnist Karen Attiah - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZXlxZUpBbGttc00xWFJ5QlQxLUh3X3JEQzV6WWtzQnFyTzJkVFZYM3ExaVY2N1l0dGs4Zy1tMFEtMzZxdFpTWGZ4TUxENHN6dDFES2Q5ZGRjcHZNcnF5ZVJGT01uMFNEeENkZjc4d2tnS0NmcjFFRHFETTNJa2RCdHpxZ19HTWhlNVA2TVN0c0JPSElqZ241ZEp2ZXNTTzU4Q3BuZWZMTExzMUtLYmRwNXg3VjFOZXY4bVR1X2xB?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 19:58:24 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US removes Syria from terrorism sponsor list, lifting major investment obstacle - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORlU2M1F3TVF0MDVWdXBQMUs3bTdBTTRnWHhRYU85b2IyU04tVTYySkFMVGhtNDBhQUZUdGRKQUNDRnFtRlRDRF9xZFlYaklWemxNNEo0WWNaZWpoQ1JuVWV5Rm94QzRKZzcyZVJIUGlzamtwRkVkcEdWeUxOZTVKZkRJRkJ1cTFwVElRUF9KN05zdEpRRjlKbTZJek40LUJaVzRubzFyRTJmZmM?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 19:35:45 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-24T21:35:00.819Z"
+      "updatedAt": "2026-08-24T22:32:08.782Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-24T21:35:01.033Z"
+      "updatedAt": "2026-08-24T22:32:08.936Z"
     }
   ]
 }
