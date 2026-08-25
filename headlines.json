@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T23:29:11.259Z",
+  "generatedAt": "2026-08-25T23:53:50.432Z",
   "sources": [
     {
       "name": "BBC News",
@@ -54,7 +54,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-25T23:29:10.033Z"
+      "updatedAt": "2026-08-25T23:53:49.103Z"
     },
     {
       "name": "NPR",
@@ -66,7 +66,7 @@
           "source": "NPR"
         },
         {
-          "title": "South Carolina U.S. senate runoff election will test Trump's endorsement",
+          "title": "South Carolina U.S. Senate runoff election will test Trump's endorsement",
           "link": "https://www.npr.org/2026/08/25/nx-s1-5943041/south-carolina-senate-runoff-graham-norman-trump-endorsement",
           "pubDate": "Tue, 25 Aug 2026 16:47:54 -0400",
           "source": "NPR"
@@ -109,15 +109,15 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-25T23:29:10.149Z"
+      "updatedAt": "2026-08-25T23:53:49.299Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "South Carolina U.S. Senate Special Runoff Election Live Results 2026 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWjNkVmZSYy1PUUp2V1p2ZHJCVUx1NVdtOWFkMkNNT1EzcWs2ZXNvOVZnaGR3NDVqRkxBQjJxbkM5RzdlUDZvMzB6c2tKeGhLbGRKVEFWN01tQjFEWjA5NHFGTERnenNSa2Vfb2wyOGp2a0NCTEZEMFRpQ0JxaXZ1Z0V4Rlg0eG5PRTh2WURrc2dWVHRCNWRvZjVqbVpaT0Fn?oc=5",
-          "pubDate": "Tue, 25 Aug 2026 23:24:29 GMT",
+          "title": "US issues security alert in Mexican border city and suspends consular activities - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbk8xZ2tfYjA1Tml5Z3hqdG1tMXBvS25ZRGF5UVRaLVZfRml5SmhLcjVUN0dKUlVxTDljUGJlczJYNzdSMnJJdUJKNk90SEQ5Vk9VS2M4Ri0xSGZnNEpIQnZtRmJVdklKckt0ZEszNWktMUd6d0tCX09NU3BTRFFKY2hwRDRWOHN2YXY0WXBUMDdHeGNfeU5F?oc=5",
+          "pubDate": "Tue, 25 Aug 2026 22:50:00 GMT",
           "source": "AP News"
         },
         {
@@ -164,11 +164,47 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-25T23:29:10.686Z"
+      "updatedAt": "2026-08-25T23:53:49.750Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "World braces as Trump's Canada tariff stand-off escalates - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSHQzOTFqNEhOZUp2ZGJMT1J5d1pSaEUtQWFlZTZJdVZfT0ZlUmJPQy00dHFnekY5c05wNTNnSE56RDd2WFFwc28yTGptelZOcXJZMGtMSlcyZm5xLXRxWThaZTRXSkdieS1INUExMC1LVUduSXUzdGozS280U2JCOFRwTVVNbHhXZFVRcEcxSFlKZUdTRnlVYlJUZm1HUFctMDBkVmJhdGU5R19JbmlQOU84UktiVFRYZVdsRmZiVQ?oc=5",
+          "pubDate": "Tue, 25 Aug 2026 23:30:30 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Siemens Energy to divest industrial unit in bid to focus on gas turbines, grids - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQmh2eUxaTmhCX2pNWUpORFFOdmdLZnhwN2JVbDROSHQ3YU53U3U2V21LLW5ieGh5VTlpQmRfaW9wbE1KVHZHcnZkUTNTRWdDeFBZU0RJR25Ed1BCLVRKRkZ3WHRhZ2FrMzJObHVMR0xSeXNHUmhjR2RXRWpVbTNLYjdhTTJLbVhtNnlDaDN4bURvdEx4ZEJRRGVDTndxOEUtTXc?oc=5",
+          "pubDate": "Tue, 25 Aug 2026 23:28:08 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US spy chief visits Russia for meetings, media reports - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVjQyS1RmdG5WZnRTRFNaQ0o2WXM0MVY4VHdvZzQwZTZjS1hVX2ZTdC1ORzh5U2pfTEZQeG5mWF93aGZsNGxOcXluSGtBRnhiYnNGRXNGaVE1cWhMbmprTXk1ODQxQjFWMlM0czJFa3pqWjhZZVh3bXlBMVVGVTRpTFlBRHQxcGpmOXIyRXN3Tjc1VVFUUVE?oc=5",
+          "pubDate": "Tue, 25 Aug 2026 23:26:54 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Three killed, some 150 injured in fire at Russian gas chemical complex - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdGppMEJwaWlCdFdKbWJzNmdWcEVJWnVlNlBKd1dvVTdJU1RuM0xha3hHSVhpY1pfWE4wT3ZDV0QxWFZJWF9vVWJpYnpOWUhZSkRJRW9udzJ6d3BSRWZFdDZlRnBETTZCdUpreTY4N19la2k3M213STl2eGx4ZW1RdjJtT01hR1hzMEt6N1o2SjhibjJjMk9odHpMbjRzVUNSZkNhTVY1QXZuSVdyaFZoQlptT0FPTFdQaDdwWDAtQQ?oc=5",
+          "pubDate": "Tue, 25 Aug 2026 23:26:06 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Six months into Iran war, almost half of global oil flows from war zones - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPV0VHRE5tclJ6Z1NRR0l2S3JOMURfLUFMY2hVMkZOUTNSdWJsS2pXejZFbkFOX3YyVE9GTDdscFlpWUVMY3hBRExLS0dVUk1qWEFuZC0yb09zYW5UYVF2NVc0c2Y0OExPMWdXSHVsMzNLcy1sRmEwTW5ON3gxY0h1MXF2MGRtRExBTllHdnF5NncwTzNGXzh1QUtWMjg2MTBCWWFYZHczYWt1R2pKZzF4NFUzRkN1dw?oc=5",
+          "pubDate": "Tue, 25 Aug 2026 23:15:55 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Judge chides US Postal Service over mail-in voting rule but will not block it - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUm85OExla2w0MFlNZ3RMb2ZnbVhGRmhuVGRrV2pXdmVqdkNEOXRTRFUtUGNWVEhqNHRGakUxOGFCNy05aUJ0TnRCci1XYWxqWTRZcTU5MWxXb2NjU2lnZ0dPUjhBUEtEbFd5ajdvRmttRmJ5TTBGWGNhRkYxd3VrZ0JQS2JSUlJET2VjQkR4a2NzRW5Paldsb1hzWU5ZNFYxQ3drQy1GTDRfYkZXUWlhVA?oc=5",
+          "pubDate": "Tue, 25 Aug 2026 23:05:12 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Instagram head Mosseri, at children's addiction trial, says few teenagers knew of safety feature - Reuters",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPckVuOWk4bjYyQ3BuZG1hSnM5SDJaWHdoU1ZISnYtWlN4MWptNE5lUi1NOFNYcTR2WXg2NnRSbHhwaFFiLUpkMGNsYWsxMVlRUERra1pvWWZjOG1iUmZMRVkyaVRzTWYtZkh0bmI1VFNweEZsMnpfdk16Vkd3NmlUcVh6QnZJOXVreUo0RjNjdk5xV1hqU2c?oc=5",
@@ -176,50 +212,14 @@
           "source": "Reuters"
         },
         {
-          "title": "EXCLUSIVE: Gunvor in talks to buy Haynesville shale assets for over $1 billion, sources say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTEI5WW5NakZZRUxpX2c3Y1JTQ2pCT2t0WUk3djNNREh5WlhIbC1mNjRqX2NYNU1pUm9haDc0dnFqWDJmM0RTYVotYWNfTVE2Z0ZiSFBZVUdrYm5wbWJXNE1MMUJZNF81dkl6RnUxWkZld1VrQ3dPblhjb2lHb252ZS01Z2I2VlJ2VHlOQUdXWjBWci1pX3FXOEp3LU5IWVZkenVrclBiR2IwZGZxOFBETkI4SnpYVEFTYWJvWGtR?oc=5",
-          "pubDate": "Tue, 25 Aug 2026 22:51:19 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "EXCLUSIVE: Ukraine needs changes to avoid losing war, ousted defence minister says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRXBSRW9mODVnOWFna2E4UGc1bUdycm5wMXlLYlpGWlBzZ2NEUTJ1OFNOaDh4RHRLUG5nNk1JWXNhMDNVOGJ1N2gtcVV5bHdMUHJWS1FxVGRfTFV0WUl4UVRDR2tvbGZKWmpXRDhTbUtUMnlCY3FHQXVhamRSZXZOTjRPdG9rSWRvV0tQQ09fSmt5MHZJS3lMSWo5am0zZGFYVHU2aFRMLVgtR2QwQWVtU3o5NG5nSmhEeTVyVmJWa2NILVdMc3NEVlpR?oc=5",
-          "pubDate": "Tue, 25 Aug 2026 22:49:46 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US voters favor Democratic Party on cost of living, Reuters/Ipsos poll finds - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdGlCSnlHSWF1RnZEcDg1TmxuZlBxbnY4cWFyOHRLcktyMjRUSjRiQzF5aE02UWVVZUFPV0xZdHpXZ3RlRm5WYVNtLWh0T3NxNnFYVWpiejRXT0FxdDBEZi00RkpDaEUzY3MxV0o5aXJQZTRUUHptcHlNaVB4elk3dkhxVUs1RXg0eDhPNVd2NzctVlF2d2FpRkJuUzlTcTBlZDdpZzdGeTlQdUdfSTh2cnhsSQ?oc=5",
-          "pubDate": "Tue, 25 Aug 2026 22:48:27 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Pennsylvania reports first US measles deaths this year as outbreak grows - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQb1JWNEtvcUpQZmJnN0ZZWFVEa2VGc1g0X0dVNXdQWVhGeG44ZF9GZG1rV0R0V25NV1pGSjl4b3VpMEliUWdBRVJRTDlwNnhzV2pRQkRZUzhSWU5CXzZZT0VDVVZaYXNHNGhab3FJZE5kOGVBOWxjbXFvOGV0dUFPT0lUamxodjAzRWpVOEVSYl9ydDdOSVV4b09ldktMME9GNkVVdC1EQ2xYUU9aczJCNVFOdWh1UmJXci1zcGpNbEFWNFpfbGgyX2dsNjJOOGs?oc=5",
-          "pubDate": "Tue, 25 Aug 2026 22:25:15 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "SpaceX to build $100 billion Starship rocket complex in Louisiana - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORG1YdF9QNURIQTAzUGlMYjJjRDNEUTl5MUxDV0h6bEZvb042NXpHeW1ZbUtvRW9LbjZfWHM1cjdLSURFN0hZclBpOXFVSGV1N2lSQ0ZlQXEyUXZhU3RQR1gxa1JDNVRKZFFOUlpSaHFOVmk4TGt3UUlmTnViWlNqYVNnSDJKaGZpenpYVERzRTUzTWJybS10aE9CZlo4NHJNSGc?oc=5",
-          "pubDate": "Tue, 25 Aug 2026 21:59:03 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "U.S. military officer who called for Trump impeachment faces three charges - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNTc1dlhCWDRQSUcxRWdoZldkZDJSZzVTRXNMZmZkX2VUSEloWVdwQTN2ZjM0R0NvZF83dTBJY21aVmhvemZzUFNRUEgtal9iLW9zZFdXS3hyZmlwNnM0eHh6c3VSWDVjNnd0NzJXa25RRnRtZjhMNzJ6MDRYUnJHYWFOWk41OTVjVTA2RC13a0dRSHpNalh4azJhdnBWZ2xCQldROG1SaWw1aXhWN2pRNTg2cnEwR1Q5Qzl0djNB?oc=5",
-          "pubDate": "Tue, 25 Aug 2026 21:43:48 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Lake America? Trump mulls renaming Lake Ontario, expresses love for French Canadians amid trade war - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQkoxdV83WXpiYW1YUTFfYUZSVTU5SG9oc3FkZ1N2aGozRmNqNXRwbk1XaEVWZDIza0YwTFc0R1FEckd6ZWtRMG1QTkdCZE9jUURDcl9laXZRazFRTnZiZFJ5cEtBU2xhODhhenVhSTBtYkFPVDNnTEVPRjFudzVIUGoxRF9YZzBSa3B4QTlMTHJWaW1oODlITE9aYUd1SWhoV3BCUlZpTkU3LVZncVEyMmFPenFlMmpFS0hKR290UGlsMDcyVmdR?oc=5",
-          "pubDate": "Tue, 25 Aug 2026 21:31:34 GMT",
+          "title": "Syria's Kurdish-led SDF dissolves as part of integration with Damascus - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNDhnT2QxNFlGZ3MzTE56cmZZNzQ0XzhxUmZRVURPb3h6Z3BDNW5LdlhLLW5SeGVCZ0tFS054U0UyV0I2UTl6VDJEeXFCQ0Q5d253RkN6dlNDbHFZUDBBdGxpczJTYkEyenVTWHNYSEZWZ2d2OGRQTTNraXhQenlnVGFyVjhDUFFsR2Y5d1IzUEZ2UmFkSVF0YUZ1LUtMLUlsU2RDeERJSTRtbnRLanJPQlF0b3o0aTZi?oc=5",
+          "pubDate": "Tue, 25 Aug 2026 22:58:12 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-25T23:29:11.162Z"
+      "updatedAt": "2026-08-25T23:53:50.199Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-25T23:29:11.259Z"
+      "updatedAt": "2026-08-25T23:53:50.432Z"
     }
   ]
 }
