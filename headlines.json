@@ -1,13 +1,25 @@
 {
-  "generatedAt": "2026-08-25T04:10:03.633Z",
+  "generatedAt": "2026-08-25T05:07:05.699Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
+          "title": "Songs created by AI banned from Australia's music charts",
+          "link": "https://www.bbc.co.uk/news/articles/c20vl4vm2pno?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 25 Aug 2026 04:54:01 GMT",
+          "source": "BBC News"
+        },
+        {
           "title": "Iran says it is ready for what US calls 'greatest financial offensive ever'",
           "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 25 Aug 2026 03:50:06 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "NZ religious sect leader jailed over death of Chinese follower",
+          "link": "https://www.bbc.co.uk/news/articles/c3d79z4z953o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 25 Aug 2026 03:07:34 GMT",
           "source": "BBC News"
         },
         {
@@ -39,26 +51,20 @@
           "link": "https://www.bbc.co.uk/news/videos/ckg8wkd0j7do?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 25 Aug 2026 00:16:35 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Nearly three million Teslas recalled in China over hidden door handles",
-          "link": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 24 Aug 2026 23:53:32 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Caste divides make scorching summers harder in a parched corner of India",
-          "link": "https://www.bbc.co.uk/news/articles/cyvlzp2zn67o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 24 Aug 2026 23:36:58 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-25T04:10:02.185Z"
+      "updatedAt": "2026-08-25T05:07:04.509Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "US set for largest mass visa revocation in history targeting up to 200,000 foreigners, officials say",
+          "link": "https://www.npr.org/2026/08/25/nx-s1-5944058/us-largest-mass-visa-revocation-200-000-foreigners",
+          "pubDate": "Tue, 25 Aug 2026 00:56:29 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Six months on, U.S. Navy families who evacuated Bahrain remain in limbo",
           "link": "https://www.npr.org/2026/08/24/nx-s1-5943188/six-months-on-u-s-navy-families-who-evacauated-bahrain-remain-in-limbo",
@@ -100,16 +106,10 @@
           "link": "https://www.npr.org/2026/08/24/nx-s1-5939973/national-guard-members-washington-dc-deployment",
           "pubDate": "Mon, 24 Aug 2026 05:00:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Sean Grayson, former deputy convicted of killing Sonya Massey, dies in prison, lawyer says",
-          "link": "https://www.npr.org/2026/08/24/g-s1-139734/sonya-massey-convicted-deputy",
-          "pubDate": "Mon, 24 Aug 2026 04:53:36 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-25T04:10:02.403Z"
+      "updatedAt": "2026-08-25T05:07:04.612Z"
     },
     {
       "name": "AP News",
@@ -124,12 +124,6 @@
           "title": "2 bodies recovered and about 12 missing after migrant boat capsized off Tunisian coast - AP News",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVTQ4YXQyZDdTakQ3N3luZ2hycjlwZUVVQ3BfRHNwQWwwRU5hZWxUNnU2REVVSWtXS0pUdUtPSmE1VmRFVlBpb1JCSGhOUi12SEtkbUZiVEZBY2F2VGdQTVI2R0pIQ1pDVnZmSGZfTmhYVUt1akVPMFppcmVGMHdEU0IycnNWZDRWUDBpZERqRkg1NDA?oc=5",
           "pubDate": "Tue, 25 Aug 2026 03:18:24 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Tue, 25 Aug 2026 02:23:29 GMT",
           "source": "AP News"
         },
         {
@@ -161,14 +155,38 @@
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRzFlRGlTVUtGOVc1TVV2TGQ4M3VicUJRbzBPV0VTY1hldnlvb000QWEtOXpVc2NnYlNJaVRnVDNhTjNqbTdkTDdXT0l2SXh5enNaRzZFVzRGVi1teUM0bUpDdzkyWTFNN1p4SHBNNVRxUVVzRGtfRnZ0amg0T2ZueVVtQTNSbV96Z0dBdjd0eHhJeWxrTE0zY1NfWWJzT2FG?oc=5",
           "pubDate": "Tue, 25 Aug 2026 01:42:00 GMT",
           "source": "AP News"
+        },
+        {
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Tue, 25 Aug 2026 01:12:29 GMT",
+          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-25T04:10:02.893Z"
+      "updatedAt": "2026-08-25T05:07:05.053Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Oil steadies as investors weigh impact of latest US sanctions on Iran - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeWVpMEdoenRuUHdzUlpxOG1xdVdSMTItdmhxNk5MUGc3YmdGLXl0S2EwYkNYVDV6LUJtaE96QkVuUFhqQzdORlVFdmRJTDRFaTVtSlNTZlh6OE9rQ0ZqdzJOWmQzbjVtWHJxZjFZNmo0VVlzRDRnYzJ1UklrQ0lNOHNCZWdZRVgtdXFZVnZGNXdlQVd2TlN0UjFhS2NNYjByTHBnZTY1NVpXNExJeGdObFllQ2lSYjNzRGw3aGh1ZFBuNmFnaUE?oc=5",
+          "pubDate": "Tue, 25 Aug 2026 04:22:09 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Lockerbie bombing trial postponed by US judge days before start - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdnh4U0Q3anA0Vm9VM2M0WjdLc0IteUdvU3g4RUVTS1BBaElyUE16QS1xMFpTWElJXzU2OXBPd3dfQVd2VVlEMkRtX0FibFB0SW5CQjRsMlJoTVNfOFRFUGd0TTNHSF9JY2ZHdERGSDZwTHZxNHg3SVRjM1dYWFF4S2VaN2FBVmRsWGNsaGJpOUluQzA1U1czS3YyOTRWMzRKSVV0dVZScUUtOHlKQXhpbUhPX0dLT0k?oc=5",
+          "pubDate": "Tue, 25 Aug 2026 02:16:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Gold rises to highest since mid-May as buying momentum builds - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQa19NSUEzV2xqY0JpOW5BRUlWc1VQNHNxdFk1cjk2ZldBQnotS0VtRmo4MWRSdjdDMEhya0JXeURjRFVoRkpyeDVLSGxTcExWM0YxaDh4dFl5OGF6MmN3eU4zd0poVXRBMnlQRFFkUy1qQmNwck9nV01hd2RNSXlaR3lJMzFYRWt3TDFGVnJENVZEVXZDR1puXzV0dGtSdW8zZGFmYXFn?oc=5",
+          "pubDate": "Tue, 25 Aug 2026 02:10:00 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Dollar struggles for traction as markets weigh Iran sanctions, Treasury buybacks - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORld4THVaUUFJWlFtRmRFeTI5SlliZ2ladnZNa2htLS1yeXBwcGY2UjFSVE5heHlycC11ay1KR0pLRTJKVGk4bUp2cVVwcXZsUE5kR0JCM0hTRGlRZk5WT1pDWnhfd0JKcjFkbUhlNHVRd3lpWkV4bmtDUG9CSGJCWFhuTFFfY04yb2FIOGtNYkxhS1N0SlJVaXhFTVN1ak51Z1lvaDVSaEVsb2J0UEFjM2w4THk1SzdY?oc=5",
@@ -179,12 +197,6 @@
           "title": "Asia shares fall on tech nerves; oil prices slip - Reuters",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPREVmalQ3MXdwbVJUT3l4bktkT2xBLTVycVpRVkdzSUxPZ3lYdGZjTXpVWU5OckdENlF0R05kSm1CMUdPUDJwcXVxLWJaZ2VESzE1QTloUzdhTzZtMF9NM0FERmp3NWRJR3JudVN5UUttekdhTnV0UUExUFR2U0ZaS0J5TQ?oc=5",
           "pubDate": "Tue, 25 Aug 2026 01:26:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Oil prices steady as investors weigh impact of expanded US sanctions against Iran - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeWVpMEdoenRuUHdzUlpxOG1xdVdSMTItdmhxNk5MUGc3YmdGLXl0S2EwYkNYVDV6LUJtaE96QkVuUFhqQzdORlVFdmRJTDRFaTVtSlNTZlh6OE9rQ0ZqdzJOWmQzbjVtWHJxZjFZNmo0VVlzRDRnYzJ1UklrQ0lNOHNCZWdZRVgtdXFZVnZGNXdlQVd2TlN0UjFhS2NNYjByTHBnZTY1NVpXNExJeGdObFllQ2lSYjNzRGw3aGh1ZFBuNmFnaUE?oc=5",
-          "pubDate": "Tue, 25 Aug 2026 01:16:00 GMT",
           "source": "Reuters"
         },
         {
@@ -204,22 +216,10 @@
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMGcwQ3J4dGJOYk9BUXB3Ulc4ZzI4SmROcGgyWVRWQkxaQk1zNVQ4RVpVQmZMeUZuR2dlRmtWNHVDbnN2SHEyMWNCZWl2TVQxU0NPbjVjaTNXWFl6ZVZKNTZOZlFBTXB2cEFzU0c4czZJT0JuaVh0UG51clZTbnhtbFU3ZTE4cnZCcTE5Wm5CeUkxc2FHNkJlOVZJbkcwR2dJZ0FjU3RKSHhBazloNkp1clBwU3Vzakl3?oc=5",
           "pubDate": "Tue, 25 Aug 2026 00:34:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "US threatens countries doing business with Iran, but holds off on penalties for now - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOb0FZaGVaRDU5ZGhzbm1uaHBtUDIwNEhOUk96ZkxVNlRubGFIbHdXTmZhTU1YM2lrclBjNkpkNmlQWnIwUW9pS0xkazBKU2VTZXZMR2RlR0RWTTBnRUVKb2J1SzdyOGNGRjBBWFo4ZnRVQ1dLNG9KT2hTNU5SUGRNNDFERkctaW5oYlhjbTF6VjZNZmZBZHNjemVYZzZCZkFRRkE3MFlJMFlrTl9qT3VaZWQzQ3NnYlE?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 23:47:46 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Move over, Warsh. Treasury's Bessent also has a credibility problem - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYnpIYnF5aERab0NEQURhUm9aQ0k5dk1LdmpFSHpTVkhfUHdvTzhqb2swR2lseDczOUVqMGplQWl5NGFYUXJYVkVxemFydzFlQUtVSFR2cTNPZlg4U0FaNnJDMzJvWE04LTUtWkxxUUw1aW01Z0hiT0Q2U1MxV2pxc2lzckRVUlF6dkNiNmpZblcxRThoSlVvS2pwUmFLWDRLSlVBLWRiLURDZnpUbGhoN2pHNHpRVVRYUzkwc0lXdTIydm9langtZUstaw?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 23:30:32 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-25T04:10:03.336Z"
+      "updatedAt": "2026-08-25T05:07:05.465Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-25T04:10:03.633Z"
+      "updatedAt": "2026-08-25T05:07:05.699Z"
     }
   ]
 }
