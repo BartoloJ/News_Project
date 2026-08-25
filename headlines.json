@@ -1,9 +1,15 @@
 {
-  "generatedAt": "2026-08-25T03:04:18.860Z",
+  "generatedAt": "2026-08-25T04:10:03.633Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Iran says it is ready for what US calls 'greatest financial offensive ever'",
+          "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 25 Aug 2026 03:50:06 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "How Canada could hit back to hurt the US economy - and Trump",
           "link": "https://www.bbc.co.uk/news/articles/c05rj80ve56o?at_medium=RSS&at_campaign=rss",
@@ -41,12 +47,6 @@
           "source": "BBC News"
         },
         {
-          "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
-          "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 24 Aug 2026 23:48:25 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "Caste divides make scorching summers harder in a parched corner of India",
           "link": "https://www.bbc.co.uk/news/articles/cyvlzp2zn67o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 24 Aug 2026 23:36:58 GMT",
@@ -54,7 +54,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-25T03:04:17.495Z"
+      "updatedAt": "2026-08-25T04:10:02.185Z"
     },
     {
       "name": "NPR",
@@ -109,11 +109,29 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-25T03:04:17.617Z"
+      "updatedAt": "2026-08-25T04:10:02.403Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Supreme Court sides with Trump administration on mail voting restrictions ahead of midterms - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUTFJYWp5U2FxQlpxYjVCb1p5dThHZmx4NGNwRnpybDZSMEVnZVpBMWZuaU9CSDlieHVYU3kzOUQ4TEl6RjlBZmxwd2dBQW9qclA0VG1RQnRBcUdkSDRfbE1RTmdib2tzRFUyTWwxTmVlZE1FVkt5QmR6M0ZVVUlyQ1pQN2E0S2pJUnJxb3RYZlZTT3BodVE?oc=5",
+          "pubDate": "Tue, 25 Aug 2026 04:00:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "2 bodies recovered and about 12 missing after migrant boat capsized off Tunisian coast - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVTQ4YXQyZDdTakQ3N3luZ2hycjlwZUVVQ3BfRHNwQWwwRU5hZWxUNnU2REVVSWtXS0pUdUtPSmE1VmRFVlBpb1JCSGhOUi12SEtkbUZiVEZBY2F2VGdQTVI2R0pIQ1pDVnZmSGZfTmhYVUt1akVPMFppcmVGMHdEU0IycnNWZDRWUDBpZERqRkg1NDA?oc=5",
+          "pubDate": "Tue, 25 Aug 2026 03:18:24 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Tue, 25 Aug 2026 02:23:29 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Canada to announce retaliatory tariffs as Trump tells its leaders to ‘fall in line’ - AP News",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZE5jV3dUNWhXajlyc1J1cnhRNzZEQWR3cnV3dWNLTEdWZVlWYTZyakpWR1lPVzdUZE0tMWhMd1Z4c0J5OHpBbHh0cjhFNU1aTnlucERJSVlXMlR0Xzl1UW1zNlhVRzY0RFBaRVAwYzFkV2tBbk5ORUl2cTJnVHpjaE4xbFBtMlF5aFRITE1PVQ?oc=5",
@@ -143,28 +161,10 @@
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRzFlRGlTVUtGOVc1TVV2TGQ4M3VicUJRbzBPV0VTY1hldnlvb000QWEtOXpVc2NnYlNJaVRnVDNhTjNqbTdkTDdXT0l2SXh5enNaRzZFVzRGVi1teUM0bUpDdzkyWTFNN1p4SHBNNVRxUVVzRGtfRnZ0amg0T2ZueVVtQTNSbV96Z0dBdjd0eHhJeWxrTE0zY1NfWWJzT2FG?oc=5",
           "pubDate": "Tue, 25 Aug 2026 01:42:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "49ers owner Jed York pleads no contest to two misdemeanor charges in Ohio - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWXVFZ1BlaS05RFAxaHhRQWxjbDdsaGxDS2xCSzR5VWdpVDFkNHM0bmh5VTFtVkpkOVJ0cjJjVHFoMm0tNkRuNWZOSVI1aHc2S0oxTTVvUFhzbExIM3JzYXNpaXJWNjVEeC14WmdYTFdLY2F0VjZDall3VDY1Nk1oWGxvdHZ0TDdZZ2FZ?oc=5",
-          "pubDate": "Tue, 25 Aug 2026 01:10:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "California Supreme Court hears arguments over sheriff’s seizure of ballots - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOblpFTlR0TGpXSk0xX0JsbFMydE5yOWhNZ1ZTdThXdlJSeDNTbmFlUWhraUh3NDB2ZlBUMXI5Rjl3WWdjUm9mdTlicjJrc1N5VVM1bmpqcGpnU25PYnZmRVgwN1RiWVpLVHF3SVozVHVBclZFOVBBR2JfWlRZWjY3SUI2UlotU1BqUVUwb2F3QkVGS1JZTWNnZGVkOUNSVjBsSXdPZEROemlNdmc?oc=5",
-          "pubDate": "Tue, 25 Aug 2026 00:53:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Indonesia intensifies aerial firefighting as wildfire haze spreads to Malaysia - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTFdEeXpxc2ZXYTlsR2ZlR285QVJ0Z1BrNmdDMjViZWtjWi1rVGhJTm1WR0xyZkNTZS1qWW1fYTNjR2RmRk9lTEF6RU1pdHNyeV8xeHQ3MW1yNk9iVm5ud2tJTzcta0NGM0QxcW1TMWMwYVBoMHhzT05DQUw2RjBkVXYyYmNPTDh5LW5SaWRrd3N6OWNoWldTWTNveWNXUDd5OFo2U3pYVkhiRWJIekFZ?oc=5",
-          "pubDate": "Tue, 25 Aug 2026 00:39:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-25T03:04:18.122Z"
+      "updatedAt": "2026-08-25T04:10:02.893Z"
     },
     {
       "name": "Reuters",
@@ -194,6 +194,18 @@
           "source": "Reuters"
         },
         {
+          "title": "Alabama launches probe into OpenAI after Hugging Face breach - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbEpUUVNqdVEtZ2FQaGFZSnhRQ3BOa21DYlc3aEtLY2g1VFVINnR4MUFtTTlsdGUydkJsZllRQ3pJR3dNWnBjQlRrTjRVSWdVY2ZBdThOcXRlSkM1dTNYMlZlSF9MNnZ2M1dFc1BvNmVKTUZUYi1aR3RSeC1NWTk4d0F6aDNUbnlqZjNrMng2NFh2VVcwZk9UVkgwajFnOU9lOFRZSGJFRVF4MlBPUVhOSzF4UQ?oc=5",
+          "pubDate": "Tue, 25 Aug 2026 00:47:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "South Korea's SK Hynix union members reject wage agreement in vote - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMGcwQ3J4dGJOYk9BUXB3Ulc4ZzI4SmROcGgyWVRWQkxaQk1zNVQ4RVpVQmZMeUZuR2dlRmtWNHVDbnN2SHEyMWNCZWl2TVQxU0NPbjVjaTNXWFl6ZVZKNTZOZlFBTXB2cEFzU0c4czZJT0JuaVh0UG51clZTbnhtbFU3ZTE4cnZCcTE5Wm5CeUkxc2FHNkJlOVZJbkcwR2dJZ0FjU3RKSHhBazloNkp1clBwU3Vzakl3?oc=5",
+          "pubDate": "Tue, 25 Aug 2026 00:34:00 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "US threatens countries doing business with Iran, but holds off on penalties for now - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOb0FZaGVaRDU5ZGhzbm1uaHBtUDIwNEhOUk96ZkxVNlRubGFIbHdXTmZhTU1YM2lrclBjNkpkNmlQWnIwUW9pS0xkazBKU2VTZXZMR2RlR0RWTTBnRUVKb2J1SzdyOGNGRjBBWFo4ZnRVQ1dLNG9KT2hTNU5SUGRNNDFERkctaW5oYlhjbTF6VjZNZmZBZHNjemVYZzZCZkFRRkE3MFlJMFlrTl9qT3VaZWQzQ3NnYlE?oc=5",
           "pubDate": "Mon, 24 Aug 2026 23:47:46 GMT",
@@ -204,22 +216,10 @@
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYnpIYnF5aERab0NEQURhUm9aQ0k5dk1LdmpFSHpTVkhfUHdvTzhqb2swR2lseDczOUVqMGplQWl5NGFYUXJYVkVxemFydzFlQUtVSFR2cTNPZlg4U0FaNnJDMzJvWE04LTUtWkxxUUw1aW01Z0hiT0Q2U1MxV2pxc2lzckRVUlF6dkNiNmpZblcxRThoSlVvS2pwUmFLWDRLSlVBLWRiLURDZnpUbGhoN2pHNHpRVVRYUzkwc0lXdTIydm9langtZUstaw?oc=5",
           "pubDate": "Mon, 24 Aug 2026 23:30:32 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "EXCLUSIVE Japan eyes tax breaks for non-core business sales in governance reform push, sources say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSVg0X2I4UXJDLS1kc2EwNjhtcTJvS3JSQXZTdVhqbl9UZVhVQms3XzZyMlQyVVNYUmN6NzJZWUJaREpsUmlKbEtIX01WSEltX0hBTHg0UzNPQXBOSXVkeGRSVHFFMDY2OGxNS2JNMEpKVTdGNC1OX3R2LVdTc2cxT095X3lYbkF6VndUaW5RUmpGNGNFRXFCUERCdVVIREpNaGE0bTdBQzh5eTRjOUdzQ1JrR1VuZ3IxWG5PYTlyZw?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 23:28:29 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Haiti gang raid leaves 47 dead, as residents demand stronger protections - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLVd0VXhHMlRJWHJwYjhiQ2xJZ3hOaDk4eVdEeThNMWY0RXlucm9jM1d3Q05ld0VLdHpZLXRqMmZTd05iTEM5TnhId2dzLThTUHhBWDdsNGMxM2kycWVObEJ4U2tBVlpQTDA4SEttYmRqUFFDYi10NnIyZmVuM29EVjY3WXFDSUQycnNnTmlLajJCZmtJMmpIOHEzNXpsQQ?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 23:27:50 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-25T03:04:18.645Z"
+      "updatedAt": "2026-08-25T04:10:03.336Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-25T03:04:18.860Z"
+      "updatedAt": "2026-08-25T04:10:03.633Z"
     }
   ]
 }
