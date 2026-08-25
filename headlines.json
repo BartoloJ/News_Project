@@ -1,9 +1,15 @@
 {
-  "generatedAt": "2026-08-25T08:09:07.248Z",
+  "generatedAt": "2026-08-25T09:09:15.374Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Lockerbie bombing trial postponed days before it was due to start",
+          "link": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 25 Aug 2026 09:08:13 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
           "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
@@ -17,19 +23,13 @@
           "source": "BBC News"
         },
         {
-          "title": "Lockerbie bombing trial postponed days before it was due to start",
-          "link": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 25 Aug 2026 06:59:03 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "Songs created by AI banned from Australia's music charts",
           "link": "https://www.bbc.co.uk/news/articles/c20vl4vm2pno?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 25 Aug 2026 04:54:01 GMT",
           "source": "BBC News"
         },
         {
-          "title": "UK drone factories may face attacks from 'unknown sources', says Kremlin adviser",
+          "title": "UK drone factories may face attacks from 'unknown sources', says former Russian minister",
           "link": "https://www.bbc.co.uk/news/articles/cg598m3meeyo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 25 Aug 2026 04:06:34 GMT",
           "source": "BBC News"
@@ -54,11 +54,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-25T08:09:06.020Z"
+      "updatedAt": "2026-08-25T09:09:14.083Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Morning news brief",
+          "link": "https://www.npr.org/2026/08/25/nx-s1-5942903/morning-news-brief",
+          "pubDate": "Tue, 25 Aug 2026 04:44:36 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Indonesians brave choking smoke to pray for rain as country battles wildfires",
           "link": "https://www.npr.org/2026/08/25/nx-s1-5944062/indonesia-battles-wildfires",
@@ -100,16 +106,10 @@
           "link": "https://www.npr.org/2026/08/24/g-s1-139743/treasury-secretary-scott-bessent-to-unveil-new-economic-sanctions-on-iran",
           "pubDate": "Mon, 24 Aug 2026 08:26:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "U.S. to detail new economic pressures on Iran. And, Canada to impose tariffs on U.S.",
-          "link": "https://www.npr.org/2026/08/24/g-s1-139736/up-first-newsletter-iran-economic-pressures-canada-tariffs-trump-visa-ban",
-          "pubDate": "Mon, 24 Aug 2026 07:27:44 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-25T08:09:06.144Z"
+      "updatedAt": "2026-08-25T09:09:14.307Z"
     },
     {
       "name": "AP News",
@@ -117,19 +117,25 @@
         {
           "title": "IndyCar - AP News",
           "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFB3SFR5UHo3R0I2eWJBMWxLSkg0dHIybDlQYTV1Tm5PUzZ0bXMwcFpOaTN2dURIZWw1Vi1JM2FBUm5pSzh3?oc=5",
-          "pubDate": "Tue, 25 Aug 2026 07:47:36 GMT",
+          "pubDate": "Tue, 25 Aug 2026 09:07:48 GMT",
           "source": "AP News"
         },
         {
           "title": "MLB | Latest News, Stats, and Scores - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Tue, 25 Aug 2026 07:13:29 GMT",
+          "pubDate": "Tue, 25 Aug 2026 08:13:38 GMT",
           "source": "AP News"
         },
         {
           "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Tue, 25 Aug 2026 07:08:54 GMT",
+          "pubDate": "Tue, 25 Aug 2026 08:08:08 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "New details but no answers a year after an Israeli strike on a Gaza hospital killed journalists - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVURnQUFXanROYkZmLWtxTnpMZUxpRjB5b0pBVmZYalpuSEpjTlVoYlVya1hubUFzRDZ6eS1iYUN3X1BXcUVfUElnSHRwNE83TlEtanF6M0JyR3p6RmhCbE50SWV2TEhpd0hVamVWRl9mSzhEeE8wNXJ5T0dIdkQ5Rk91Qkxnd3o4a0pvdXdJMjhQZ1NkbHozaTlFc0Y0SlR0TElwTzBmNTgwVUVFNEE?oc=5",
+          "pubDate": "Tue, 25 Aug 2026 07:02:00 GMT",
           "source": "AP News"
         },
         {
@@ -155,24 +161,48 @@
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNb0hWTmNuS3NSc0hlZ19zemo0bTExVTNEVnFxM0sxdDJuNmFNYXlQbnBlWDhkbXo0NV9zX2JQdXBFWDNfWkFibHRTcHdVSkw3aklFbVFVZlBJZnRHLXJ0akREZkt5V3hRUEZzaTd1T0tpQnItX2hQSEczdmRwaE9PNU1oVkJvQmI2dFFwQlRmZTMwSVRJSDVKSzYzNlNoeVAwZWZuSnRicw?oc=5",
           "pubDate": "Tue, 25 Aug 2026 04:12:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Trump’s trade war with Canada could rattle economies in states with key Senate races - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUG40VWdpUHNfS0NDbFBSR1haNlhGYUtsdTk5TzlQcVhZV25BdmNjRlhBV3BiY3VRbzFNUDNwWlNxOXJlU0xXaHo2Wklvb0s2NnhqNFA5NHgwWXdQZlRKYkkxWkYtcnZNUFVDdWNkZmpvUlBhdGNPSVVadHp3Vmo0dzNzR0lSdmFrWXgzX21VME40NEM5dUtpREdWZVl2YTlIeFVB?oc=5",
-          "pubDate": "Tue, 25 Aug 2026 04:04:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-25T08:09:06.533Z"
+      "updatedAt": "2026-08-25T09:09:14.698Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "Stablecoin card spending forecast to hit $50 billion a year by 2028 - RedotPay - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNR0JteUREVzM1Vi1VaFlhRkxQSWlSenh0dUJQdHcyQ2JRZXNpWW5YX2dfR2FTbVdJZmVWVUoyOTFBQVNEUElVSGxhUy1HN1phQnNRdk9kbXp1aGZSaVhic1EyNWliNEV2MjBTNzRUSnAwVHR0ZnZNdmwzVTdnQXkyeVFZM1Nfb3hucXY0bFJ1WjRCdlZaRDJ6OGh4OUl5TGFhenFuVnZNYVRlY1AyTDR6eGgzRGtyZUwxLXFSUUpVYWk?oc=5",
+          "pubDate": "Tue, 25 Aug 2026 07:07:26 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Philippines seeking to expand military drone capabilities, says defence chief - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNGVjSVNQQUF5WmNDNktlbnRKLVl3czk1Y21qTF9vNzdpbmFpdnVfYmZLWi1faGdINFJtNlBTTGVQOHFaZEVpUmJIYTVpaXhzcFA2VU5GTy1QRS1NR0tpeFFILWZQRlZ3WWRBcHVlWjVpa090MGU1a3B2ZlhvakJZalRzVkkySFp6d3hUc2F4RGVHY09VWFNkX2wzcEhnRWZiZUFTVy1hdkJlclZOUlM1Q2dURFJxSHNTTFlxdG05Tm9kRzNwZGE4?oc=5",
+          "pubDate": "Tue, 25 Aug 2026 06:43:00 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "New Sinopec boss presses reset for world's biggest oil refiner - Reuters",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWEZoRHRfTWg5T0wwRm12dnRnamxoY19lbk1PSWRPQ2JDdFpGcHlUUWVnelU0QzFLaGdmN2t0Mm1GVTh1TTBfdFRTclBwM1N3d0RKUFBDeTMzWjdnVUVYZzdfbUxMRndZVEtuYmFleHFNaU5CQnBzaVVhUy05Mzd2aFR3b2taX1E1RWxOVldENUIzRmVoTXZ5Y0Y4blNld21xZ0I4YjdCV29CR0ZvaTRMUU53?oc=5",
           "pubDate": "Tue, 25 Aug 2026 06:31:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Iran vows to retaliate after US widens sanctions - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQV2NneVkxY2I3clNhUzloallHZTVKV2h5N2wxbGNwWVZlNEZMRzBwRnJXRGdmYjdHOVl0ZFZHYk1fR08xQmY4VnhEZjAxRURrUHRrLWV2NmlsMndTQ3UzN1VyR3luekZMUmUtUE9ON0FnMGxiektWdG9RUlBJOXVFQjVoa3JnUFp2MGlmamJuTDJEZF81Rkp3NA?oc=5",
+          "pubDate": "Tue, 25 Aug 2026 06:16:47 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Germany's Q2 economic growth surpasses initial estimate on exports - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNV0w3TmVtdXFPQU5RSE1UY0xsVHNoYk9UUUdPeFdoS3NmbzFIWktQNkpsSjhaMWxsWVVCcXJSWDFZUllCWU14MWh5THFLSGpMTnhUVDN1UUZXX0d4RmZZeUowZmdKaTJfOHNBdVQ5YU0zZmwzaFpQeUh0Ym1ZV3ZoV0MtNjgzQ0Q5UFNtUWdjTjRCUzdnUVUyNS1oUDE?oc=5",
+          "pubDate": "Tue, 25 Aug 2026 06:06:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "EssilorLuxottica founder's son quits management roles after reported rift with CEO - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQU2poYTBla0RwaUR2Ums4LTNxQWxCZkw5TWhGRWpob3NmZFA0TVF2d2hyTl9SdUdHc09sT0JYZS0zaW5XcC1lLTRFc0N3cWhmZnlSdldBYVo2MXEzRUtSeEVUcTA5cjFPQnhkS1hFVlZVMEhuZkwxVTY5aVBwSjFuZDlsa1gtRW13Q2xjMGhvZEdaX2RtYWZub3NYMXh6RWM3Yml1WDl6NnVGcU0ybi1XRC1PYmpDZ19fVVAybUE1WmRnQQ?oc=5",
+          "pubDate": "Tue, 25 Aug 2026 05:47:00 GMT",
           "source": "Reuters"
         },
         {
@@ -182,44 +212,14 @@
           "source": "Reuters"
         },
         {
-          "title": "Russia's Afipsky oil refinery on fire after drone attack, two dead, governor says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSXBPYUJVZTFRc255Ni15NlozTkpEZGpwN3pYSUVIcWlXWmdvQ2pxY1FwbVQyeEJoZl9VcXBVMFFncHJsWldYRXQzV05EdHpESmVhdzl6a01qejVsZHFGRzNJTFVTRm1GbUJEWXNBSkJ0aV9XeE5sb1FhVHZ3LW5NekktN0lNYlFIMVR1bE5talFoM2ZkekFSRTltMzFsM2pWdUtrNUI5SEVTXzdsRlZfTDB3LXpkaXp1?oc=5",
-          "pubDate": "Tue, 25 Aug 2026 05:26:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "German investigators find third drone, explosives after failed airport attack, media say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQ1BpRThDZHRjZkV3dTVxQWVibzBvVWIwT3M3b0Vaa0UyOFNLeVNiX2UweTFmR1hXMDJ1Zmo1UXVJelEyb3B3dUl1WUVjcHFHSkxGcDJjMjRuWGtHR0dybEZ2VGhoNGdwVEVnY1Q4a1lWN3BrbV9vYXNmWDVRYkhlS3hhbUZVU1NSckJNRHdRWGlnRHhSZk5UZE9BRmItamVINFhJZmRwWlNzXzItUGRRbUZqMnlVdkdrdlEwTWFjaFVEd2dMOHNqRE9Fb21iYmd0eExTRGd3?oc=5",
-          "pubDate": "Tue, 25 Aug 2026 05:23:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Bitcoin rises above $80,000 as soft dollar, debasement fears boost momentum - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOU1A3ZDBwNm85VE41dmUyZGMzWUdmTHJMb3JMYkl4V21XdG9PTHNOZnFnLXhPR2VpSWtsbDNla1pna3I2WHNSRzU2TkhERE9oMnRNZGluNDNHMlFOWnlmSUEtT1dwNGxqVnRrQ1pJemRCTzlDa3A3b3hJV0pNSGJPSFpYbktMemhOblpRZW1QekkwT3F0VEY5TkNQaFZhdlZjejFTU1JjTjVKZ01SNjZMQ195YWlZOVA2NG1fTVFMaw?oc=5",
-          "pubDate": "Tue, 25 Aug 2026 05:19:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Six months into Iran war, almost half of global oil flows from war zones - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPV0VHRE5tclJ6Z1NRR0l2S3JOMURfLUFMY2hVMkZOUTNSdWJsS2pXejZFbkFOX3YyVE9GTDdscFlpWUVMY3hBRExLS0dVUk1qWEFuZC0yb09zYW5UYVF2NVc0c2Y0OExPMWdXSHVsMzNLcy1sRmEwTW5ON3gxY0h1MXF2MGRtRExBTllHdnF5NncwTzNGXzh1QUtWMjg2MTBCWWFYZHczYWt1R2pKZzF4NFUzRkN1dw?oc=5",
-          "pubDate": "Tue, 25 Aug 2026 05:05:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Death of the consumer conglomerate? Unilever bets less is more - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUkRYRWpZWUE1b1VVQV9rcUFFT1dUWWl6cmNHdXBCSjNDMmx6T18wY2VobGhCei1Wb20xcmxNalRSYUpwWUx5Q05vVFUwUWgzT1ZTSnVvWS11bldlSEpsNm5zTHQ0WU5RMTZ0RmF4dGFoV0M5Y3BkZXBhOHRPMzg5VnZhUWZSN0w4a3YzZHNuMl8zdjVFRDZNdXdTRlE1VzY4NTMyTnJQT3RwNHNicnI0?oc=5",
-          "pubDate": "Tue, 25 Aug 2026 05:03:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Nvidia shares set for $280 billion price swing after earnings, options show - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPa182VERRNl9ULTg3MXh0Z004aGNnVW9HQW9TLTI3R01YZzRMeWZEMFhramsxeHVLNGE1ZXAwYTRZcWxMbGF5YTB5dkl6OHVyT2FrTks2ODRFdlNPSTNmUE1MM0ZhaF9LT1JRZEdVX1ZJU2NMNlZiQWlQZ0toUWk1WmVSbXdYTWJva3NxTG92LVJrczhfQzVnLTZ4aE1yYTAwVHVucFNQbHRxSDN6OGJZcjZNVHo?oc=5",
-          "pubDate": "Tue, 25 Aug 2026 05:01:00 GMT",
+          "title": "Tornado in southwestern France damages over 300 homes, injures dozens - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZ1d0ZzJUWGdYOVIySlE3WHZWMGxGSUU0dFZYcm5yRU9YY1dGTWpzRnQ1S3c4RlZrdDNwUUt6c29KeFJfX05zRDB4Vm1mcG5Wb3JwSGd5cXZGUV92a0x3dVFpYUZuWlUzR21ITW5qSHE4SEkycHlsMWdFbDNrdDFCM2FrNzUxNkFFNU5OOUR0aGdObkxyOWVQZXdoSVdzWEFMYnhwNjR3SjJ3WnhLY3ZYVA?oc=5",
+          "pubDate": "Tue, 25 Aug 2026 05:30:00 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-25T08:09:06.925Z"
+      "updatedAt": "2026-08-25T09:09:15.101Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-25T08:09:07.248Z"
+      "updatedAt": "2026-08-25T09:09:15.374Z"
     }
   ]
 }
