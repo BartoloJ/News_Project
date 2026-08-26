@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T08:10:55.893Z",
+  "generatedAt": "2026-08-26T09:20:07.532Z",
   "sources": [
     {
       "name": "BBC News",
@@ -54,11 +54,29 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-26T08:10:54.711Z"
+      "updatedAt": "2026-08-26T09:20:06.450Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "COMIC: 7 lifestyle habits that may boost your chances of getting pregnant",
+          "link": "https://www.npr.org/2026/08/26/nx-s1-5843276/lifestyle-habits-that-boost-fertility-pregnancy",
+          "pubDate": "Wed, 26 Aug 2026 05:02:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Soaring summer power bills spark protests -- and even disconnections",
+          "link": "https://www.npr.org/2026/08/26/nx-s1-5943289/electric-bills-summer-heat-oklahoma-power",
+          "pubDate": "Wed, 26 Aug 2026 05:01:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Hollywood's summer box office is glowing, but the numbers come with startling caveats",
+          "link": "https://www.npr.org/2026/08/26/nx-s1-5923629/movie-summer-box-office",
+          "pubDate": "Wed, 26 Aug 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Hospital nursery fire kills 14 newborns in Pakistan's capital, officials order immediate inquiry",
           "link": "https://www.npr.org/2026/08/26/nx-s1-5944808/hospital-nursery-fire-kills-14-newborns-pakistan",
@@ -88,32 +106,26 @@
           "link": "https://www.npr.org/2026/08/25/nx-s1-5944266/adam-mosseri-instagram-meta-child-safety-trial",
           "pubDate": "Tue, 25 Aug 2026 18:50:57 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Sen. Darline Graham wins GOP nomination for U.S. Senate in South Carolina",
-          "link": "https://www.npr.org/2026/08/25/nx-s1-5943041/south-carolina-senate-runoff-graham-norman-trump-endorsement",
-          "pubDate": "Tue, 25 Aug 2026 16:47:54 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Dolly Parton, one of country music's most singular performers, has died at age 80",
-          "link": "https://www.npr.org/2026/08/25/nx-s1-3650175/dolly-parton-obituary",
-          "pubDate": "Tue, 25 Aug 2026 14:17:32 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "DHS acknowledges the noncitizen numbers it touted on voter rolls were inflated",
-          "link": "https://www.npr.org/2026/08/25/nx-s1-5940807/noncitizen-voters-trump-nevada-call",
-          "pubDate": "Tue, 25 Aug 2026 14:15:23 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-26T08:10:54.817Z"
+      "updatedAt": "2026-08-26T09:20:06.551Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Hospital nursery fire kills 14 newborns in Pakistan’s capital while 1 baby is rescued - AP News",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMm5hSC1PNnBiNHV4QTJxemNPSE5YdVdTSTlRWVJhZnU2dU9kbTlZQmkwbHFPbGYyRGxQTEV5WHR1R2R2SDNNQ21ya0Z4bldkQ2dMMDBJT2c3Z3loaU1GV1l2SUV1MXFnMjNBeWFPSHBUaEl3UXBDNnJMVWlDSWIyMkYzenZHNEhQa2FjQXk3YU5FVVJWbnNmQ3ZaWk83VXYyRFRrV3dCOHhFZTllWi12OEVtSE9aQQ?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 08:26:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "WNBA Scores & Daily News | WNBA Stats, Scores & News Today - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RellkeWJkeDFvWUtHTHRPOURyM29ReE54N3hpa3NCRUxRQ01yVy1FTjRUS0RaVzNxZzlVakgxUkhZYW1hX0pWemVtcnI5U2s?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 07:51:59 GMT",
+          "source": "AP News"
+        },
         {
           "title": "MLB | Latest News, Stats, and Scores - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
@@ -127,9 +139,9 @@
           "source": "AP News"
         },
         {
-          "title": "Fire at hospital nursery in Pakistan’s capital kills 14 newborns, officials say - AP News",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMm5hSC1PNnBiNHV4QTJxemNPSE5YdVdTSTlRWVJhZnU2dU9kbTlZQmkwbHFPbGYyRGxQTEV5WHR1R2R2SDNNQ21ya0Z4bldkQ2dMMDBJT2c3Z3loaU1GV1l2SUV1MXFnMjNBeWFPSHBUaEl3UXBDNnJMVWlDSWIyMkYzenZHNEhQa2FjQXk3YU5FVVJWbnNmQ3ZaWk83VXYyRFRrV3dCOHhFZTllWi12OEVtSE9aQQ?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 05:15:00 GMT",
+          "title": "Former detective says Tupac murder suspect was gang 'shot caller' who had final say in shooting - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOWRMSWh0REJnZ1Uxc2RfVVdvcFpNUk1SWV8tWlJOQk10ZXRwNFRQX0pYR29qSHF1Z1liRHN3WFVMRWJEdTM2ak9rMFZpMWV3T1d3ZEJQaVV6UUtjTDFsTFRzWnRQVzloQVdkaWxQNWRqSXlmQ3dPLVFqaG5oWUNkN2hLZU5vZk5lNC0yRF9adzQyR19mdmlPMkd3?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 04:04:00 GMT",
           "source": "AP News"
         },
         {
@@ -145,34 +157,28 @@
           "source": "AP News"
         },
         {
-          "title": "Three Secret Service officials have been placed on administrative leave pending investigation - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaTJIZ2FxWHlyaEpic1dxMlJWaTlBNUZxVDNWUXJoRlNJcEhDMFBqYzZ0dGM1OE9OMEtHYlhKaGticE5JTm0wQ0RsYUVNQ3E3LWhWMXpmZThpZTFiZUg0b21CTHZKcEprYWhyck9TVVJiN25CQmN1bFRrQkVIYUdmTGVTR2ZmbXU2UmhQM3ZOT0ZaN0lWYllJOXhR?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 03:30:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Roger Federer celebrated upon his return to the US Open for an exhibition against Andy Roddick - AP News",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUXdJdUtCcnZVYlFqR2ZGM1hxZW9NYUZQQ20tWncySXZWUHJTZ2FpMl9VV3VONWwzaE9zUEpLa01QNTlwS3ZhWjhnd2FKRTVMbzN0bzB1aTlJM09hbkRXY0JVcFRuZzFXdTNpY3RCQ1U3eHVNY3FJbHFYa3FzWmI2T3VLcmp0d1lvMHJ0QmNPTzVUZV9oWkJmRU1B?oc=5",
           "pubDate": "Wed, 26 Aug 2026 03:05:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Darline Graham wins South Carolina GOP nomination to replace her late brother in US Senate - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPR3JfY3FOQ2VaYVhZd2JnaFdSZDAwNzhfc3hxbm5ibDR5dzRMcGwtNnZTX0tLY2R1U3RfNnRqd0V6eHVGX0hHNzVGdWJ4allUbzhnaU5sd3hHZzctZkwxS1dhS2N6QVFfcUtyRkd4WXdSYTdkWEVicWJObFMza2R5NEFaRWo4YnRWZURDbWZaa19VMGJRWEFualEyemFleVk?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 03:00:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-26T08:10:55.216Z"
+      "updatedAt": "2026-08-26T09:20:07.011Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Bill Gates, alarmed by AI, has policy ideas he wants to discuss with China's Xi Jinping - Reuters",
+          "title": "Bill Gates, alarmed by AI, has policy ideas he wants to discuss with China's Xi - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPU20ybks5N1I2aFFmNVhMWHZiRk1iMUU4dlphNHdZbEJQaVNiTFRYM1NuUjFCOUR2Y1ZsR0VJWnNRY20zVXZaQXBkbmZkNmhjOWNtLU01Zi11bHhvYnBPV2JPdTNVSkE0NldwYXJaS1FmRXUyZGZuU0tXRElwb1RUS3VSeHI4OVhnYnRSckZZd2NobnZyVE9aTGxlVkNRMkkxWGZWbFgxb2hkYWo4R0hJWUo1WU1CRUlDNHdpNHp3?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 07:11:27 GMT",
+          "pubDate": "Wed, 26 Aug 2026 08:26:52 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "EXCLUSIVE: China's Moonshot in talks with Microsoft, Amazon, Google over K3 revenue sharing, sources say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaWlQbDBkTjZOWlNxMFJUeDkxc0taQllySUkzRzJ4aHJrSzlVQTY5LVhqU2dfd2lUSGZSVjI2dVFPQnZ5X0FuRThHT0JDRkxJTTlLUVFETjM5Y0lGbzFwUkhGWFNVOUJQX1NWZ09SZDViVWNZTmI1TFY4ODUwZXl2UGh5VnRETVhhbDQ4NHh5bmU2YXZXdGZEbnlSUmVZVEZ2dUd3ampaeW94bkhBaEhhRkNKQ1E1QlJSZUFDUTZ5eGFERHlPZHo3TnFaQTJZVUdt?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 07:57:22 GMT",
           "source": "Reuters"
         },
         {
@@ -210,16 +216,10 @@
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWkp0YndfNmRJZEdMN2dnMFl4TXhSR2RMal9zTTA2NUtoOV83Um5ZNXB2LWEtSGNZZldsZl93V2RVQzNiZXFpMnN6Wlhzdy1CRFl1X1ZOSHU5eWVsTUpYV2N2R285LU5pS1ZsaTI4bUFuYTVsUC1VRzlqa2o1dVl1VC1BcE1OakRwMWtJNUxlWXBIMklmanZSeDY3M012QzlRVENLeDRkZjdmZjNJamFsazZOdFFrNFZRWnI1UUtR?oc=5",
           "pubDate": "Wed, 26 Aug 2026 05:03:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "German bank's brothel loan under scrutiny by regulators - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQemljZFU3cGNjZXpRbUVDaUE2cXdTYjZDWFBabnZBTm03VjIxN0NmV2oyT0pNV3RrTDVONXhfQWJVZzYxNzJmUUJYNjRqZ0lZUWNuUGxyemdod09OdGpvWWtOM3hhUWRtYWZna0ktV3V5VjVYek9nVWREM0o3QkNRVGY3UkZCcERlSnpMSWxlS2thSFFlcU95Zl9iVHBQX1BBUVhHbTVWby1vVUk?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 05:02:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-26T08:10:55.652Z"
+      "updatedAt": "2026-08-26T09:20:07.418Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-26T08:10:55.893Z"
+      "updatedAt": "2026-08-26T09:20:07.532Z"
     }
   ]
 }
