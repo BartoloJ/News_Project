@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T09:20:07.532Z",
+  "generatedAt": "2026-08-26T10:06:52.443Z",
   "sources": [
     {
       "name": "BBC News",
@@ -54,7 +54,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-26T09:20:06.450Z"
+      "updatedAt": "2026-08-26T10:06:51.157Z"
     },
     {
       "name": "NPR",
@@ -109,7 +109,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-26T09:20:06.551Z"
+      "updatedAt": "2026-08-26T10:06:51.353Z"
     },
     {
       "name": "AP News",
@@ -133,15 +133,9 @@
           "source": "AP News"
         },
         {
-          "title": "An AP reporter spends the night locked inside Jerusalem's holiest church with clergy and pilgrims - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQd1FVZGxTaHFmZWUzWEJJOFA1YlZyVy1tWjRIbGtocTFZcFNfZTNMeERySV9FM3BnNGxTVFFqNVhJQWV5d1E3UUpOU05yZ0JrNHlldWpId1pzcHhvN21KNTNyVk5RRGdqdTNTcjVqMlJmZzZ4eV84a2NoQUMzazlYVnAxRnBZN21FX2hoRm55UkxrR2hVc05JUHh5dVFLSWpCM2E0bGwzQQ?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 05:47:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Former detective says Tupac murder suspect was gang 'shot caller' who had final say in shooting - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOWRMSWh0REJnZ1Uxc2RfVVdvcFpNUk1SWV8tWlJOQk10ZXRwNFRQX0pYR29qSHF1Z1liRHN3WFVMRWJEdTM2ak9rMFZpMWV3T1d3ZEJQaVV6UUtjTDFsTFRzWnRQVzloQVdkaWxQNWRqSXlmQ3dPLVFqaG5oWUNkN2hLZU5vZk5lNC0yRF9adzQyR19mdmlPMkd3?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 04:04:00 GMT",
+          "title": "Sky owner says Enes Kanter Freedom is banned from home games, calling him 'a potential threat' - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSkU1bDNEWV9ubVBKbUdqeWRLVkZhX3NRYk1LcEEzVlJDZVdXRVNoa1dWa0JVV1VKMy1Sd2FUSVBHYmZGOGRfdzRocC1HUnZFWldHcG5zaFNYbloyeEpqWElKX3lWSmkwRUlGMGtkdmlDdFJJZGl3cUF6YVB0SmFqN2twbjUtQkhvWGluX1gzWVVHeFpDWDdOMUtsN0E?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 04:03:00 GMT",
           "source": "AP News"
         },
         {
@@ -161,14 +155,26 @@
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUXdJdUtCcnZVYlFqR2ZGM1hxZW9NYUZQQ20tWncySXZWUHJTZ2FpMl9VV3VONWwzaE9zUEpLa01QNTlwS3ZhWjhnd2FKRTVMbzN0bzB1aTlJM09hbkRXY0JVcFRuZzFXdTNpY3RCQ1U3eHVNY3FJbHFYa3FzWmI2T3VLcmp0d1lvMHJ0QmNPTzVUZV9oWkJmRU1B?oc=5",
           "pubDate": "Wed, 26 Aug 2026 03:05:00 GMT",
           "source": "AP News"
+        },
+        {
+          "title": "Darline Graham wins South Carolina GOP nomination to replace her late brother in US Senate - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPR3JfY3FOQ2VaYVhZd2JnaFdSZDAwNzhfc3hxbm5ibDR5dzRMcGwtNnZTX0tLY2R1U3RfNnRqd0V6eHVGX0hHNzVGdWJ4allUbzhnaU5sd3hHZzctZkwxS1dhS2N6QVFfcUtyRkd4WXdSYTdkWEVicWJObFMza2R5NEFaRWo4YnRWZURDbWZaa19VMGJRWEFualEyemFleVk?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 03:00:00 GMT",
+          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-26T09:20:07.011Z"
+      "updatedAt": "2026-08-26T10:06:51.755Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "US-Iran war spurs Europe, Asia to boost renewables - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTTVNd3JBNVpOVlFWcUlabjhLbU52TmV4WXNjbUwyVzVlWXFHMFBvenNoUVItMnhFbkh6VWM0dXBrVVpmbmhDTEROdlVlNG43OElCeVY3Uy1jQVNIRnljcUt6b1h2Uy1RZzN3c1lHbkhXeGlLTnhfc2g3WlRlTERCb2VON3NTQU1uTUtGTVpad2gyY3pnYUo1cU9pNlNRRVU?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 08:37:44 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Bill Gates, alarmed by AI, has policy ideas he wants to discuss with China's Xi - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPU20ybks5N1I2aFFmNVhMWHZiRk1iMUU4dlphNHdZbEJQaVNiTFRYM1NuUjFCOUR2Y1ZsR0VJWnNRY20zVXZaQXBkbmZkNmhjOWNtLU01Zi11bHhvYnBPV2JPdTNVSkE0NldwYXJaS1FmRXUyZGZuU0tXRElwb1RUS3VSeHI4OVhnYnRSckZZd2NobnZyVE9aTGxlVkNRMkkxWGZWbFgxb2hkYWo4R0hJWUo1WU1CRUlDNHdpNHp3?oc=5",
@@ -178,13 +184,25 @@
         {
           "title": "EXCLUSIVE: China's Moonshot in talks with Microsoft, Amazon, Google over K3 revenue sharing, sources say - Reuters",
           "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaWlQbDBkTjZOWlNxMFJUeDkxc0taQllySUkzRzJ4aHJrSzlVQTY5LVhqU2dfd2lUSGZSVjI2dVFPQnZ5X0FuRThHT0JDRkxJTTlLUVFETjM5Y0lGbzFwUkhGWFNVOUJQX1NWZ09SZDViVWNZTmI1TFY4ODUwZXl2UGh5VnRETVhhbDQ4NHh5bmU2YXZXdGZEbnlSUmVZVEZ2dUd3ampaeW94bkhBaEhhRkNKQ1E1QlJSZUFDUTZ5eGFERHlPZHo3TnFaQTJZVUdt?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 07:57:22 GMT",
+          "pubDate": "Wed, 26 Aug 2026 08:14:45 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Nepal flash flood washes away villages, damages roads, power projects - Reuters",
+          "title": "Some Chinese workers see an ally in Brussels as EU trade tensions mount - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcGRtUVpOeWFvQWFUbmNJeGxjYlRuaktxd1AtbUw2bFAtOWJCbjBfSmNfMlJYT2xMcThMOUQ4bXNQUzV2N19kNHBkWGtOZXd1aHRfZTV5WXNsZ2RyR1hhcFB5MGN2VTlCSGYzaGJUYUpnWWZQSHVzN3plaDY0V2VtNzlYMFV4WG9NR2JIalFfeFdkWG1pQ1hnSFdCMTdFVHJXNWdIeUQwUktVeUxHM0NRdTJjQQ?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 07:27:44 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Nepal flash flood kills eight; damages roads, power projects - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOTR0bUtpUHhsbWhHTTdiWFRWbnZFQk5GcEdFUXhVNWliYUVHOFdpNzdRaEN4ZmMxVE5UdGtDZnViV0dtOEJydjNROC14UE5KT09pVTg1QjdaajlvZzVsMGFiNk5HT2NodkpONnVYMThRNG1La0dBaW4zbnZFVzJUdVZoWXl5My1HSHh3UG1fWmtISDRBbDdVNkdwVk5DWmJOQUVzZ2JkYXlVbzV3M011RFlReWI5bFRlS2pzZ0h2RWszMXhka3c?oc=5",
           "pubDate": "Wed, 26 Aug 2026 06:12:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US-Iran war sinks into energy trench warfare six months on - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcUMxd0dzb1VHdVAxRERXaTE2RFhfaEE1M1pQY084QWJIU2ZLWEZ3VUpVbi1ORkpXMEJNRjUyS1dwUUdvYnROb1kwNXFpQm40V3VjellLTWdRYWQ1ZWxKY1dvc3ZLWXVzSVhJSmJqSXNGWmRieDJMQ2RlSktPeS1zSVFFTndmQ0NXaFcwTDFiUGRZU1VHdzlUdFdDWW04MEtMZ0dwT0JQamhjWU1RRkYxQlBWcUJFTlQzWnFZdGs2U0NIZw?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 06:00:00 GMT",
           "source": "Reuters"
         },
         {
@@ -198,28 +216,10 @@
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNGtwbkF3SGFBRng3VzVBaUNGR0RSVE04TENaM2RuV0VBMW1CeUZXNXJfM1JxRVY0T0ZmclNlUEsySDBoNDROQjIySnFnemZ6b3hLU1hGNlhmdE5DZmxCMjRSVVVQcG9ralh3TU1qcktudEtjRUlkSUhkTEVsS3RlanFwR1gyT0ljWUpJcFlMV0tyOFFmSy1DbkNhM29CUEdWckVQRGEzbndQTFpZYUw1Z3FncjdMTzQyLUt6MU50NDRKZ3djdHRtNHBucDZCaFpBZ1E?oc=5",
           "pubDate": "Wed, 26 Aug 2026 05:34:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Six Chinese nationals among seven killed in Russian gas plant fire - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSy1EQW5PVlpfSUNUNzNTekRBMFVoM0Rjamh3cXlLUVJfMmwxMHZwX1gwRE9fQnRVak40MGg2c1NWUFNiYVUyRWVBcThfSU5sVFVteXZ3SC0tQkt0MmVxenB5VlQ2bjJoTzI5c1o2ejVGYnQ3UGZqLVJjYmNzalp0X1JwNUdja3dQaGJfSmJaeEcxQlg1bDhEY1Z1TVBYMHBsaGt4eF8yWFFHREU2QWVGc3Vlbl9XRDVHUGkwT0JtWXR6RFE?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 05:19:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "EXCLUSIVE: BNP Paribas, KB Kookmin in talks for $2 billion Vietnam Techcombank stake, sources say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbVZBTGZZSTJJY1BacjlsSDZsZkFtZmlpOUxuQlJLaDNIcFhJTTI2cjBlZjJIcDJGVV9heHRrbG5ud3lMQ3NPbWcwTDlscXVDVEY0Yi1aWU1Rd0x4bEpENHQ4dVUzMlVsXzNsd1B1dFlqWGN1WTZ4bjZxUzR0eFRJc0VSaEViSTlPZHBDNWROT25kNzNLNG45ckhPVTk5amJQUS1OakNoRE9TdzBuSy1kQVpDU1pONXdXcFktTl9jTm1nTTNBYi1vSXRTMA?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 05:10:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "As war strands Qatari gas for 6 months, US sales rise and European stocks plummet - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWkp0YndfNmRJZEdMN2dnMFl4TXhSR2RMal9zTTA2NUtoOV83Um5ZNXB2LWEtSGNZZldsZl93V2RVQzNiZXFpMnN6Wlhzdy1CRFl1X1ZOSHU5eWVsTUpYV2N2R285LU5pS1ZsaTI4bUFuYTVsUC1VRzlqa2o1dVl1VC1BcE1OakRwMWtJNUxlWXBIMklmanZSeDY3M012QzlRVENLeDRkZjdmZjNJamFsazZOdFFrNFZRWnI1UUtR?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 05:03:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-26T09:20:07.418Z"
+      "updatedAt": "2026-08-26T10:06:52.178Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-26T09:20:07.532Z"
+      "updatedAt": "2026-08-26T10:06:52.443Z"
     }
   ]
 }
