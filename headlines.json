@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-08-26T11:57:43.927Z",
+  "generatedAt": "2026-08-26T13:09:08.341Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say",
+          "link": "https://www.bbc.co.uk/news/articles/czdz13elezlo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 26 Aug 2026 12:32:47 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "China advises its citizens to leave Taiwan ally Eswatini over 'security risks'",
+          "link": "https://www.bbc.co.uk/news/articles/c3rel9rgnx5o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 26 Aug 2026 12:17:12 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "The heart, hope and steely determination behind a musical legacy",
           "link": "https://www.bbc.co.uk/news/articles/c74k8zwvez0o?at_medium=RSS&at_campaign=rss",
@@ -14,12 +26,6 @@
           "title": "German airport worker dies of malaria after 'mosquito arrives on plane'",
           "link": "https://www.bbc.co.uk/news/articles/cz6zwgg9y8go?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 26 Aug 2026 11:02:22 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "At least 14 babies die in Pakistan hospital fire",
-          "link": "https://www.bbc.co.uk/news/articles/crk3dxj6zneo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 26 Aug 2026 10:42:00 GMT",
           "source": "BBC News"
         },
         {
@@ -45,20 +51,20 @@
           "link": "https://www.bbc.co.uk/news/articles/cy0zgx6wlz3o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 26 Aug 2026 08:01:56 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Indian jewellery ad pulled after backlash over actor's outfit",
-          "link": "https://www.bbc.co.uk/news/articles/cy9z4dwx172o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 26 Aug 2026 07:26:03 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-26T11:57:42.838Z"
+      "updatedAt": "2026-08-26T13:09:06.889Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "8 dead, hundreds missing as Nepal avalanche triggers flash floods",
+          "link": "https://www.npr.org/2026/08/26/g-s1-140211/8-dead-hundreds-missing-as-nepal-avalanche-triggers-flash-floods",
+          "pubDate": "Wed, 26 Aug 2026 08:27:19 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Canada to hit U.S. with retaliatory tariffs. And, remembering music legend Dolly Parton",
           "link": "https://www.npr.org/2026/08/26/g-s1-140207/up-first-newsletter-canada-tariffs-visa-revocations-dolly-parton-nevada-voters",
@@ -72,7 +78,7 @@
           "source": "NPR"
         },
         {
-          "title": "Soaring summer power bills spark protests — and even disconnections",
+          "title": "She got an electric bill for $1,373. She's not alone",
           "link": "https://www.npr.org/2026/08/26/nx-s1-5943289/electric-bills-summer-heat-oklahoma-power",
           "pubDate": "Wed, 26 Aug 2026 05:01:00 -0400",
           "source": "NPR"
@@ -100,30 +106,48 @@
           "link": "https://www.npr.org/2026/08/26/g-s1-140195/target-halloween-costume-backlash",
           "pubDate": "Wed, 26 Aug 2026 01:45:58 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "More than 50 kidnapped as violent gang attack in Haiti leaves 47 dead",
-          "link": "https://www.npr.org/2026/08/26/nx-s1-5944787/50-kidnapped-haiti-gang-attack-47-dead",
-          "pubDate": "Wed, 26 Aug 2026 01:45:34 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-26T11:57:42.878Z"
+      "updatedAt": "2026-08-26T13:09:07.037Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "The Dolly Parton you may not know, in her own words - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWjNtYThzMkZWXzdLSHJ2bEgtWGZXN1l4UEhyVXo5d1pnb1lMODByWUhFNklzYU5lQmdyb25WelNzS3dqMHBtZmJSSU4zMVdPZVZlMWltaWNneE83cVMtbC1raW56ek1oVDhiMmNqMVFsZkdpeVFGQ3dpTlNndi1VNEg5T0EyUHI2azJfWVZQZEQxcDJIYXNNdkppM1RreVdCS2p5TzRmMA?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 11:33:00 GMT",
+          "title": "Dolly Parton, music star, actor and beloved figure who spanned generations, dies at 80 of cancer - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONnlGNlNob0dBenVEaDd5Y2s4QmdjalN3QVNyMW9lLUg0ZnV3eEpva0VQc3g2MGd6cUVVT0dpR0hSTThYSVRHV2daNlUxbEowR0RkSXZuS0RBajQtNmY5RkxQbkhCYWJXY19qWnJidHR1UlNFQ1c5elNpcHJrZ09KWkJDZUl4NWJWRGoyeVYyM3NQQXFVYUE?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 12:50:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Hundreds missing and at least 8 killed after avalanche triggers deadly flash floods in Nepal - AP News",
+          "title": "The Dolly Parton you may not know, in her own words - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWjNtYThzMkZWXzdLSHJ2bEgtWGZXN1l4UEhyVXo5d1pnb1lMODByWUhFNklzYU5lQmdyb25WelNzS3dqMHBtZmJSSU4zMVdPZVZlMWltaWNneE83cVMtbC1raW56ek1oVDhiMmNqMVFsZkdpeVFGQ3dpTlNndi1VNEg5T0EyUHI2azJfWVZQZEQxcDJIYXNNdkppM1RreVdCS2p5TzRmMA?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 12:46:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "At least 8 killed and hundreds missing after avalanche triggers deadly flash floods in Nepal - AP News",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYWZwTFhBM1dBcUQ2WFBWazRIOXpBMHI5R3p1blpsYTdIV2tHQ25mOHo0RGNZNFJOM2hNTEFhbEdaSlNhX1FMRHk2V3lkQkdESmtkTXd0RDR3UUlVaWo5YmoydndfWkVmLW5uZW1ubm02MzZaVHpUTG1ocVF4cmxJZ2ZwUThuVHp5T1ZmTXY4eno0Y0xXbnlHTw?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 10:14:00 GMT",
+          "pubDate": "Wed, 26 Aug 2026 12:07:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "US futures slip ahead of newest read on inflation and quarterly earnings from Nvidia - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdWdQR1Nqb3FRVG95ZjdkaHVNek03MDg5QnRkWjhkdXBOOTNDdWhWRGV3Ti1xU2QzY1F6eU15Y3ZVVl9kUVgtLVVuSFFoOWpKXzMtMk5pc0pxUDlReHZlSnU1eGM5SE5YRnhONjAyTU1xUDZKWk9pbkl2MmstVWNsZW4xaVpubzlTQ2xNS2xiVHpQUQ?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 11:54:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "WNBA Scores & Daily News | WNBA Stats, Scores & News Today - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RellkeWJkeDFvWUtHTHRPOURyM29ReE54N3hpa3NCRUxRQ01yVy1FTjRUS0RaVzNxZzlVakgxUkhZYW1hX0pWemVtcnI5U2s?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 10:50:14 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 10:11:49 GMT",
           "source": "AP News"
         },
         {
@@ -133,46 +157,40 @@
           "source": "AP News"
         },
         {
-          "title": "WNBA Scores & Daily News | WNBA Stats, Scores & News Today - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RellkeWJkeDFvWUtHTHRPOURyM29ReE54N3hpa3NCRUxRQ01yVy1FTjRUS0RaVzNxZzlVakgxUkhZYW1hX0pWemVtcnI5U2s?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 09:49:55 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 08:02:03 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Dolly Parton built a better world, with rhinestones and songs - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVmtYZW1oaUN6dTRqWGlzRExuZVpYUU9SMUxLZElPMmswOUVIQ2dxWjJvcDNUbGVnMHdEaXhDUHA5V2RFcEVuN19SY3JtNEdYUlBtTzlmcFd0a3Z6QUVOX1VHWE12alZjWV9vVWlKV3JVSmNGY0dHWUlkWkhFRW5NeElsOUk4MVVlM2wxN0pyQUt5b21qc2dXZ3pRNA?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 04:44:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Sky owner says Enes Kanter Freedom is banned from home games, calling him 'a potential threat' - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSkU1bDNEWV9ubVBKbUdqeWRLVkZhX3NRYk1LcEEzVlJDZVdXRVNoa1dWa0JVV1VKMy1Sd2FUSVBHYmZGOGRfdzRocC1HUnZFWldHcG5zaFNYbloyeEpqWElKX3lWSmkwRUlGMGtkdmlDdFJJZGl3cUF6YVB0SmFqN2twbjUtQkhvWGluX1gzWVVHeFpDWDdOMUtsN0E?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 04:03:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "More than 50 kidnapped as violent gang attack in Haiti leaves 47 dead - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOHh2dmcyaWU3UlA2RXhCUnJKNTFucVk5Q0ZsQXMyMWowekZxbC1YOVViTk1uWnJKbXE1VHZ0UHk1c2JHMzNIRThYdU1fNzVOMEotcUZBRThDQ3NvNTRWTmRIQm9uZDJMbllocDBlOENVcjgwYjBCZDBzUkp1S0J5NThTT0RVR05jRnZWaDRNOG5jaHo1b21Gd3JGMVVCQ3dYWElpRFcwYw?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 03:48:00 GMT",
+          "title": "Republican with same name as incumbent Dan Sullivan advances from Alaska US Senate primary - AP News",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcDZFaTdpSWZyeEE4enZ6dXBXand2VjZua1ZvMUFKdl9HMVhTR1pFbjFlOVU5SGhvN1F3Ni1HWDV2VEk0LVJFUlI4YVNudTh5X2dtV2wtTDFZNWs1aGx2eTNpNzFWQTRGbUVuNkt4SmpSc1ZDQkdiTWhzTHF1cmI1X3JKUlhQZ3NOQnZtMFBub010V0loMWgtUmNuUDFzajhXMDZjeDhzWkdUX1VNTGpHcG53?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 04:47:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-26T11:57:43.406Z"
+      "updatedAt": "2026-08-26T13:09:07.530Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "What triggered the catastrophic flood on the Nepal-Tibet border? - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRUJvclZMWDVlbjg5WkZ0S0VIamNQb3V2LWpOMlRlT2t5TlJmZEQxWERNd2hTMnpQbWZVWVNnZjdWQWgxUHhBcldObmJKanFTRmNFbHpzTE54NzVnRzM4ckdEMUw3ZGdqc0hRZzRBNDhKdkZLTFZEQUhHZVFoZUFmbGx2eVktODJiNkdBcld3V0VNWVc2YWNucXUzRHdVMzNyLTF6dWVwUTlwOTgxS1E?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 12:34:00 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Wall St futures subdued as Nvidia results, inflation take center stage - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV3N4UlJubUVvNndNbHlFSTFtWlpoek1URGE5c3J4SDJEYlZ2aWYzaUNRWDluMnRua19BSENVRWdZZEFzZEh0VWFINF9Va3RPYVEtamhja1Rud3hVUFFWQUZBS1JlWE5wMk0yZUEyQ3lpV3pETVRMMnUxLWZ4Rm92OGZmVGpjY3BVZXl1dDBrR3RtX3RWZG9DOEFEMzFlV2NRSTVKYkxQb0hCZU0?oc=5",
           "pubDate": "Wed, 26 Aug 2026 11:33:17 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Eight South Koreans missing in Nepal flood, Yonhap News reports - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNc2pwNEpocUczbVJ2V3lnc0hSaWY4aVZfd19OQUU3UXF2WVVfQjkxeDVmMlA2a3czSWRoTUtwT1A5ZFZ6eC1YMWxaMmtickV4c0tDNElOY05zaFpiM1RiSzJVODFsaXBnVzAyQWNVZnZ2U3MtQ2dqMEg4QkhzR0dMZE9qX3htcHg5aWFnZTUycWM1b1A5RF9OVXVuM0pUVFdvWVJIODVfV3A4SDlXTTdPN0hfY0dlT2c?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 10:51:29 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Boston Scientific hit by cyberattack, global operations affected - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTFFMWThLS3BjbEN0SkJwaVNoRjBDS2VwSFJrRFpGNmZLV0U3Zm5tV2NWbXpaZkRGMURZbUpHbVdRYnNvU3lMMmUtLTFoRE84QWJZYUROWVYyOWtITlFEdVRFLXJTVHlRS3RXNVlYWmlWSF82T0JQZGhLOExkNXMzTmM0Zlh4QzNXSlFZb3VvLWxsb3hfbFFicElYTWdMVXI0QlNOTmpBUFNxREhBZk5faGY1aVh0M0k?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 10:49:43 GMT",
           "source": "Reuters"
         },
         {
@@ -188,38 +206,20 @@
           "source": "Reuters"
         },
         {
-          "title": "US Senate Democrats urge Israel to rein in West Bank violence - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbWVUSjVGbWtWNUFPZF9TdFJodk1wMzlMdlQ3NlgyOW96bmpqc0loUTRjcENmN3I2Y0lNbUhFdHlCTk8tNUlaQ3hPSU5ySTNaeHZncFAzcXJ6TTBkeG1KeXpXM1dMN0ZrZGFSTXRQanlFZUZNZVNsRWstZndMVW5JS3VoZDlnYXVjd0xGMEFXNVNKM21uejFrZ0FySktWVWtrU3c?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 10:31:36 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "Kremlin says US spy chief held talks with Russian counterparts during Moscow visit - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVmlRUk55MzlrOEpyYWZiR1VqYmh2UXhibi13SVRoS0dBWjBKbTk2eTBmeWtRd1R5R1owRXFZN1VLc1RpQk9KSDR4TjVqbWhQUmRKMGJNeFpMVFhmU3BXV3gtblc5US10ai01cEhKZUlhLVZ1cVJoSFMtTjF2TnRDUjd5eHZNN3JNRzNwRk02V3gtUTB3ZUo2UkZqbG05aC1wY3FnRlVMbHBweENaZ01UX2lsY3hOZ1dEaEE?oc=5",
           "pubDate": "Wed, 26 Aug 2026 10:29:43 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Mark Zuckerberg had a bold plan to replace Meta staff with AI. Here’s how it imploded. - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMVhpalVEX2c1eUE5LVNJX0QyX0oyRmlxOThJTm9TZXpKbnpUbWU1Z1ZuQjlvVWpMQzBaamtsZlRpS2daendQY1pDQ2ZRWG45VlJ0eVlXNFVzUC1DcUQ0eTlMZEhRUnBjSmo3MHB6X1JCT2RZY0YyOGFPdjF2c216MnBZR3RSaFplYTg0bmVuNk42amZERzB3NGM1NGJaMUQtSjZXdlJtZmlUTktDcVBKaXVWekdtOGdoRlQ2d09CRFM1LVN1MktkTg?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 10:07:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "PODCAST: Betting on Nvidia - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNY0k3VlNQSTBXNVRkSnFqT0JrRjROWm5Daks3MkZ1RHFxdEl0LWtQTGRTS2hveFB2VUVBODZyWkNkRmhuYy1MOUJZbGU1LUxkSTVma1ZYcnlJbURfanNGTEstSXEyTkJncC1nMndRaVNfcFFGV1BSMzUwU2pIVUVZclJmTVpIUQ?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 09:19:13 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "European shares flat ahead of Nvidia earnings - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNV1pZeWdGeTdjVWRoOE0zZi1zQzhRVTdhU3g3U3VPV2J4dHVRQWtiRF9CUHlWVGllbFpPYnIyUmc5TDZPVlJrX0lrNDZCME5rcWZEYmN2a1JFY1diVE5oeDk1WEFDNmhIeDZfUmdFMFBBVUh6M1ZibFFvdkNzSDRVc1NEcFdZZmVhRDVjTGtxQWZwd2JDd3hzS1lHalBGUmMwRkZDUTRidDZIQ3lM?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 08:46:36 GMT",
+          "title": "Volkswagen CEO tells factory staff cost-cutting journey 'is not over' - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZk05MG9VcUxLeUdXaV93YTUzTjUtM01YRF9QZloySWtDV3BqZkI5blNGaXdQOWNIMkhFcmZCOE9nemozbzUzbV82c2RiTUhMMmVXcWU3T3E1UDBQVU11by1kWFhVVUs1TlIydjdCTGFFa1Q1b053aVFWUHBqcmpuSkJHdGdOT3hmMXJmQUpid3pjeHZHX0xjN3gwX1YweTJIemlNbm1jUUEwMmdxaVdsQjlsRmFPZTc4U3c?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 10:26:05 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-26T11:57:43.868Z"
+      "updatedAt": "2026-08-26T13:09:08.047Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-26T11:57:43.926Z"
+      "updatedAt": "2026-08-26T13:09:08.341Z"
     }
   ]
 }
