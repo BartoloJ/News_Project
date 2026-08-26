@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T03:11:02.056Z",
+  "generatedAt": "2026-08-26T04:11:13.453Z",
   "sources": [
     {
       "name": "BBC News",
@@ -54,7 +54,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-26T03:11:00.699Z"
+      "updatedAt": "2026-08-26T04:11:12.297Z"
     },
     {
       "name": "NPR",
@@ -109,11 +109,29 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-26T03:11:00.768Z"
+      "updatedAt": "2026-08-26T04:11:12.429Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "The Dolly Parton you may not know, in her own words - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWjNtYThzMkZWXzdLSHJ2bEgtWGZXN1l4UEhyVXo5d1pnb1lMODByWUhFNklzYU5lQmdyb25WelNzS3dqMHBtZmJSSU4zMVdPZVZlMWltaWNneE83cVMtbC1raW56ek1oVDhiMmNqMVFsZkdpeVFGQ3dpTlNndi1VNEg5T0EyUHI2azJfWVZQZEQxcDJIYXNNdkppM1RreVdCS2p5TzRmMA?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 03:54:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Dolly Parton, music star, actor and beloved figure who spanned generations, dies at 80 of cancer - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONnlGNlNob0dBenVEaDd5Y2s4QmdjalN3QVNyMW9lLUg0ZnV3eEpva0VQc3g2MGd6cUVVT0dpR0hSTThYSVRHV2daNlUxbEowR0RkSXZuS0RBajQtNmY5RkxQbkhCYWJXY19qWnJidHR1UlNFQ1c5elNpcHJrZ09KWkJDZUl4NWJWRGoyeVYyM3NQQXFVYUE?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 03:40:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Prominent Sikh separatist says FBI has warned him of new threat on his life - AP News",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbGJrYTdlTVdZTkUyeTFzNGZ3UTR2TUhBQzc3OUlCXzV4Xzg1OXpvYW8yRFFjaFlzbDBxb01NSWJoV042OFNrTDd3bHBKSGJsMnZ4eVBVeGxzVmR4UUd1V29BTXE1UV84SGgtZWJVRURUeGcxTnlxLW05Z1FtbVE1c0tZb3l4ZlVtZ2c0ZXZzUDA4dUxsbXc5bEZqYWxpZw?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 02:37:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Iran and Oman hold talks on managing the Strait of Hormuz and other news from around the Middle East - AP News",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc2ZVY3Y2dXJDajgxb0R0RDNXVTQwWXFQLTltbDJVWUpaanVwZ0lHSzRzQ0VIekg0NkFNZG5UVHVCX0ZOWV9lWThtbnhyV3pSWUxmeEZqR1BTU1YtR2paS0hhajBWQ0tVdHU5Njg5aklzUG1xNDNsaU5VYkJNZlZIbzVXVmZyMmkyYVRBclRKZ1k0dnFrSXJMNzJfVkpfOWhTRTZIOTgwWDRPalBlM1R4LXZFWlU?oc=5",
@@ -121,54 +139,48 @@
           "source": "AP News"
         },
         {
-          "title": "Dolly Parton, music star, actor and beloved figure who spanned generations, dies at 80 of cancer - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONnlGNlNob0dBenVEaDd5Y2s4QmdjalN3QVNyMW9lLUg0ZnV3eEpva0VQc3g2MGd6cUVVT0dpR0hSTThYSVRHV2daNlUxbEowR0RkSXZuS0RBajQtNmY5RkxQbkhCYWJXY19qWnJidHR1UlNFQ1c5elNpcHJrZ09KWkJDZUl4NWJWRGoyeVYyM3NQQXFVYUE?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 02:32:00 GMT",
+          "title": "A Montana man killed 8 relatives, including 4 kids, at Sunday dinner, family says - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM1FSSm1tMWNPS2pzLUJuZGw1TlRFUy14eVhTeTVBT1VDQ216NHF1dlVFVjJVMXltcUxUNTZZbFNqWTlmZldrRFZhRDBDTDVoYmszRVUzd21OWHUxU3c1eElRdE1hTnRXaUI3eG1WWmY1eHE2Ml91WWloaUFZNm5zdVRkakpUWnhBX3VDWExHN05BY1lFWEJJM2lVTkRVRUNfUktWNXdR?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 02:19:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Sen. Darline Graham wins GOP primary runoff to replace her late brother in US Senate - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPR3JfY3FOQ2VaYVhZd2JnaFdSZDAwNzhfc3hxbm5ibDR5dzRMcGwtNnZTX0tLY2R1U3RfNnRqd0V6eHVGX0hHNzVGdWJ4allUbzhnaU5sd3hHZzctZkwxS1dhS2N6QVFfcUtyRkd4WXdSYTdkWEVicWJObFMza2R5NEFaRWo4YnRWZURDbWZaa19VMGJRWEFualEyemFleVk?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 01:37:00 GMT",
+          "title": "Three Secret Service officials have been placed on administrative leave pending investigation - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaTJIZ2FxWHlyaEpic1dxMlJWaTlBNUZxVDNWUXJoRlNJcEhDMFBqYzZ0dGM1OE9OMEtHYlhKaGticE5JTm0wQ0RsYUVNQ3E3LWhWMXpmZThpZTFiZUg0b21CTHZKcEprYWhyck9TVVJiN25CQmN1bFRrQkVIYUdmTGVTR2ZmbXU2UmhQM3ZOT0ZaN0lWYllJOXhR?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 02:09:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Quite a couple: Spouses Elina Svitolina and Gael Monfils reach US Open mixed doubles semifinals - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVjBBQlozTjBFb1RMNG03MWI2cVIzT3lGekZMdzJCd1VFM2VZeHNXY0pSZG50enVKUVJpeDd0Tlh0dElFSV9vdDh3VUk5S1IxTUhQbGlSa2c0MHdTc081RlhHZ1FQZDhTOHlCOHg3QVBXQW8xQUFtUVJUOWxaNGxyTTI0N2xYSmtv?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 00:49:00 GMT",
+          "title": "Golf Channel postpones 'Big Break' premiere after sponsor pulls out over Good Good Golf video - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRmxXVTlWZ2NyOERzd0duaVFSNnNMeXJBSU1nVWdSb2lzZThZV0pPWE11ZmRmeUp2X0M2SDUwUHlnLXk5X1FmMnJKTFczSjh0V0U0Ym83R2ZvYzVkbEMydjZHTUF6azE1VzlORTltZVZfb3ljUGhqWEUyS0gwajhubUFDWEdtYm5zeU1pdA?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 02:06:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Movie Review: A tender love story with postapocalyptic teeth in Ridley Scott’s 'The Dog Stars' - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOV2dORlZHdE9tNFcyRkhJazhkMXF2ekxFQkxjQXhCRTN1Wm9ORm5BX3VzTk1uRHNuRG41TG9NblR3VC1nSEl2OGZwZXVVQkFXZFhwTHNjWW5YRUsyYkVRXzlERXF3UWEwUDgtNHlhX2pBNmVBUlhlTmwyMERCX0otR2JJTkZGbzB2Unc?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 00:40:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "US issues security alert in Mexican border city and suspends consular activities - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbk8xZ2tfYjA1Tml5Z3hqdG1tMXBvS25ZRGF5UVRaLVZfRml5SmhLcjVUN0dKUlVxTDljUGJlczJYNzdSMnJJdUJKNk90SEQ5Vk9VS2M4Ri0xSGZnNEpIQnZtRmJVdklKckt0ZEszNWktMUd6d0tCX09NU3BTRFFKY2hwRDRWOHN2YXY0WXBUMDdHeGNfeU5F?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 00:32:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Texas wildfire mushrooms within hours, ripping through ranchlands - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSXdSdlFiakVvQjB2SzhmWFlya0NreVVMMURCSVdtZS1VLVZtaEcxanRSb3VfNEV0TmxQcnlkaUNnSlFscVZUblBtelJrZXBhMWtQQjBHallLMjJVX2JtaDZiQ3NWbUlTeVhCOWdEMTAwZkFpWFRaOEI0em13YjF2R3BCd091X0xhQjRtaTNkSXM2SkczaWJr?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 00:18:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Police arrest a California man after finding a guillotine near the US Capitol - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQVVKdWh5bjFfS0V1alNzZmw3c1pBS2RFVDJRSnlvcjR4WFg1TDRYNnYxa3BScmpUN1Nva1h1N0FIRVQtMnd0UU5IaV85el9IQllOMGhuNzd3WXBkTXFqOUs3eHQyRTdJSV9ScXM0MFZycUFKVmlLcTVSX0VJUVVCWl9WczdxWENucXlsdkRWUUlRaS1oUEQ5SmUtTkZHWGsxOEZrS0xR?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 00:12:00 GMT",
+          "title": "Nothing changes yet with the Supreme Court's order on elections. But it could open door to 'chaos' - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNb0hWTmNuS3NSc0hlZ19zemo0bTExVTNEVnFxM0sxdDJuNmFNYXlQbnBlWDhkbXo0NV9zX2JQdXBFWDNfWkFibHRTcHdVSkw3aklFbVFVZlBJZnRHLXJ0akREZkt5V3hRUEZzaTd1T0tpQnItX2hQSEczdmRwaE9PNU1oVkJvQmI2dFFwQlRmZTMwSVRJSDVKSzYzNlNoeVAwZWZuSnRicw?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 01:56:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-26T03:11:01.283Z"
+      "updatedAt": "2026-08-26T04:11:12.866Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "China flexes its auto-safety chops with huge recall of Tesla, other cars - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVGNjZVIwWmRiR21DbzZBMFVOUGZFTjVSODlMSm5oMjczN1pQNnhlb01sOVlGU0Z2VlhHa2hxWU04NFBpLUN3N0tYcGlJNGhLTkl2U3lfWTVHLUNQa2tXZThEWldBMmVocFVnX3RKR3E1ZVAzZWNSNUY4REhxQ2xULWlfTnd4Q19ycDI1ME9pVEktOVlHaXVPTU16WTBKVnJBTFRJZU1mUTl3THJFR2JxaEVHY2F0V1F5RTVMZ05BZGtNamVJYW1CM3JmUWZ2ZVk?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 02:42:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Three takeaways from Tuesday's South Carolina Republican Senate primary - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaVFaM1pheVpkcGhzT0drVnR6UGlqYlE0dVNvaFZNT1RZQkR0SWVnZ2tBTlEwZDhMZV8xdnVmRUFjeWFSY1Vkd2VHM0VhZ1U3UjR4eTVva0VpT2ZvTFNHbWNxeS1QNkV3b0Jjb1lFU0RHUmRBOTBuYlJJbzF3OHJySEVZaG5GeWdqbG5ZZngwWXBUSlRMcGJTMlg3bk9zbXNrdmRtWk1PY0RMc1dKbElZ?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 02:21:00 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Meta, US states have discussed settling teen social media harm case, Bloomberg News reports - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPR1ZPZV9UenJsdERuNmdZRnVtX2piMDJfOGZ5QWQ3c0U5Qy16SUUwQ2ZZNWNDZmEwMmdfVWNVT2J1Y3pkMUF2T3JhSVhiY0liaWtPM29LRW16OURXQ0VaOHJ2by1VN0Z3aGRFQ0NpV2ktekZXSVVnN0NRd1dnY29HQUxzYlVIRkFBQWtLaDJpa1JRLWxVSHZrc2Z6WmctdV9JYTNPYWJGV3d5Q3dKNEQxbDJvMHhZaEZZU2ZYdHJiUGx6QmtvMFlmVA?oc=5",
@@ -194,12 +206,6 @@
           "source": "Reuters"
         },
         {
-          "title": "What are H-1B visas for skilled workers and what changes loom? - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTEFfc295aHNqc1F2aF8wM1BSa1Q0Qk5MVGVrc25mS3hjRndPcURteXp4MkxIaGVhYm1OazFRVVMyVVA2SDRZRjBOVVlGUmF0UEtQcWlNeFpydVJ1a0Y4MUk4bnJPY0xFcjVKVGlRaDNsNmtTandldHhCeFgyRGlxVVV2TzV1S1RVYl93al9uNkQxenZSaC1rN0s4ckZTbUxoeVFfOXI2WmNXOTdCZFZUTlRn?oc=5",
-          "pubDate": "Tue, 25 Aug 2026 23:50:48 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "World braces as Trump's Canada tariff stand-off escalates - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSHQzOTFqNEhOZUp2ZGJMT1J5d1pSaEUtQWFlZTZJdVZfT0ZlUmJPQy00dHFnekY5c05wNTNnSE56RDd2WFFwc28yTGptelZOcXJZMGtMSlcyZm5xLXRxWThaZTRXSkdieS1INUExMC1LVUduSXUzdGozS280U2JCOFRwTVVNbHhXZFVRcEcxSFlKZUdTRnlVYlJUZm1HUFctMDBkVmJhdGU5R19JbmlQOU84UktiVFRYZVdsRmZiVQ?oc=5",
           "pubDate": "Tue, 25 Aug 2026 23:30:30 GMT",
@@ -210,16 +216,10 @@
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQmh2eUxaTmhCX2pNWUpORFFOdmdLZnhwN2JVbDROSHQ3YU53U3U2V21LLW5ieGh5VTlpQmRfaW9wbE1KVHZHcnZkUTNTRWdDeFBZU0RJR25Ed1BCLVRKRkZ3WHRhZ2FrMzJObHVMR0xSeXNHUmhjR2RXRWpVbTNLYjdhTTJLbVhtNnlDaDN4bURvdEx4ZEJRRGVDTndxOEUtTXc?oc=5",
           "pubDate": "Tue, 25 Aug 2026 23:28:08 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Three killed, some 150 injured in fire at Russian gas chemical complex - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdGppMEJwaWlCdFdKbWJzNmdWcEVJWnVlNlBKd1dvVTdJU1RuM0xha3hHSVhpY1pfWE4wT3ZDV0QxWFZJWF9vVWJpYnpOWUhZSkRJRW9udzJ6d3BSRWZFdDZlRnBETTZCdUpreTY4N19la2k3M213STl2eGx4ZW1RdjJtT01hR1hzMEt6N1o2SjhibjJjMk9odHpMbjRzVUNSZkNhTVY1QXZuSVdyaFZoQlptT0FPTFdQaDdwWDAtQQ?oc=5",
-          "pubDate": "Tue, 25 Aug 2026 23:26:06 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-26T03:11:01.682Z"
+      "updatedAt": "2026-08-26T04:11:13.252Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-26T03:11:02.055Z"
+      "updatedAt": "2026-08-26T04:11:13.453Z"
     }
   ]
 }
