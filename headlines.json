@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T05:06:37.267Z",
+  "generatedAt": "2026-08-26T06:01:19.919Z",
   "sources": [
     {
       "name": "BBC News",
@@ -54,11 +54,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-26T05:06:36.357Z"
+      "updatedAt": "2026-08-26T06:01:18.731Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Target faces renewed backlash for Halloween costume with 'minstrel show features'",
+          "link": "https://www.npr.org/2026/08/26/g-s1-140195/target-halloween-costume-backlash",
+          "pubDate": "Wed, 26 Aug 2026 01:45:58 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "More than 50 kidnapped as violent gang attack in Haiti leaves 47 dead",
+          "link": "https://www.npr.org/2026/08/26/nx-s1-5944787/50-kidnapped-haiti-gang-attack-47-dead",
+          "pubDate": "Wed, 26 Aug 2026 01:45:34 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Instagram head Adam Mosseri testifies in defense of Meta in child safety trial",
           "link": "https://www.npr.org/2026/08/25/nx-s1-5944266/adam-mosseri-instagram-meta-child-safety-trial",
@@ -94,26 +106,20 @@
           "link": "https://www.npr.org/2026/08/25/g-s1-140007/forget-about-going-back-9-years-on-rohingya-crisis-enters-dangerous-phase",
           "pubDate": "Tue, 25 Aug 2026 10:59:12 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Several states will decide voter ID ballot measures this year",
-          "link": "https://www.npr.org/2026/08/25/nx-s1-5940004/voter-id-citizenship-ballot-measures",
-          "pubDate": "Tue, 25 Aug 2026 10:40:36 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Trump calls leaders to isolate Iran. And, SCOTUS backs Trump for now on mail-in voting",
-          "link": "https://www.npr.org/2026/08/25/g-s1-140004/up-first-newsletter-iran-economic-war-scotus-mail-in-voting-dhs-privacy",
-          "pubDate": "Tue, 25 Aug 2026 07:09:01 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-26T05:06:36.417Z"
+      "updatedAt": "2026-08-26T06:01:18.842Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Dolly Parton tributes include Taylor Swift, Kacey Musgraves, Jane Fonda and Vince Gill - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRTREck5DaXBGTVEyTWEtbzZwb0gzd3VjeHZTMWV5QWxjbzBoTUJmd1lyWTZibFFscVh5clBkaFBRQzZ1RDFNS0UtTWM5eDFkOGw2TXd0Y2llSmhscW9zUjJXZXotalVZLWZpZUIySmUxTUZ1NS1aVXZZY3Exd1Z4VkJhZ3hlTVZPZ29NbGpTMW8?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 04:27:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "The Dolly Parton you may not know, in her own words - AP News",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWjNtYThzMkZWXzdLSHJ2bEgtWGZXN1l4UEhyVXo5d1pnb1lMODByWUhFNklzYU5lQmdyb25WelNzS3dqMHBtZmJSSU4zMVdPZVZlMWltaWNneE83cVMtbC1raW56ek1oVDhiMmNqMVFsZkdpeVFGQ3dpTlNndi1VNEg5T0EyUHI2azJfWVZQZEQxcDJIYXNNdkppM1RreVdCS2p5TzRmMA?oc=5",
@@ -133,6 +139,12 @@
           "source": "AP News"
         },
         {
+          "title": "Roger Federer celebrated upon his return to the US Open for an exhibition against Andy Roddick - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUXdJdUtCcnZVYlFqR2ZGM1hxZW9NYUZQQ20tWncySXZWUHJTZ2FpMl9VV3VONWwzaE9zUEpLa01QNTlwS3ZhWjhnd2FKRTVMbzN0bzB1aTlJM09hbkRXY0JVcFRuZzFXdTNpY3RCQ1U3eHVNY3FJbHFYa3FzWmI2T3VLcmp0d1lvMHJ0QmNPTzVUZV9oWkJmRU1B?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 03:05:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Darline Graham wins South Carolina GOP nomination to replace her late brother in US Senate - AP News",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPR3JfY3FOQ2VaYVhZd2JnaFdSZDAwNzhfc3hxbm5ibDR5dzRMcGwtNnZTX0tLY2R1U3RfNnRqd0V6eHVGX0hHNzVGdWJ4allUbzhnaU5sd3hHZzctZkwxS1dhS2N6QVFfcUtyRkd4WXdSYTdkWEVicWJObFMza2R5NEFaRWo4YnRWZURDbWZaa19VMGJRWEFualEyemFleVk?oc=5",
           "pubDate": "Wed, 26 Aug 2026 03:00:00 GMT",
@@ -149,28 +161,22 @@
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc2ZVY3Y2dXJDajgxb0R0RDNXVTQwWXFQLTltbDJVWUpaanVwZ0lHSzRzQ0VIekg0NkFNZG5UVHVCX0ZOWV9lWThtbnhyV3pSWUxmeEZqR1BTU1YtR2paS0hhajBWQ0tVdHU5Njg5aklzUG1xNDNsaU5VYkJNZlZIbzVXVmZyMmkyYVRBclRKZ1k0dnFrSXJMNzJfVkpfOWhTRTZIOTgwWDRPalBlM1R4LXZFWlU?oc=5",
           "pubDate": "Wed, 26 Aug 2026 02:35:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "A Montana man killed 8 relatives, including 4 kids, at Sunday dinner, family says - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM1FSSm1tMWNPS2pzLUJuZGw1TlRFUy14eVhTeTVBT1VDQ216NHF1dlVFVjJVMXltcUxUNTZZbFNqWTlmZldrRFZhRDBDTDVoYmszRVUzd21OWHUxU3c1eElRdE1hTnRXaUI3eG1WWmY1eHE2Ml91WWloaUFZNm5zdVRkakpUWnhBX3VDWExHN05BY1lFWEJJM2lVTkRVRUNfUktWNXdR?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 02:19:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Golf Channel postpones 'Big Break' premiere after sponsor pulls out over Good Good Golf video - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRmxXVTlWZ2NyOERzd0duaVFSNnNMeXJBSU1nVWdSb2lzZThZV0pPWE11ZmRmeUp2X0M2SDUwUHlnLXk5X1FmMnJKTFczSjh0V0U0Ym83R2ZvYzVkbEMydjZHTUF6azE1VzlORTltZVZfb3ljUGhqWEUyS0gwajhubUFDWEdtYm5zeU1pdA?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 02:06:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-26T05:06:36.811Z"
+      "updatedAt": "2026-08-26T06:01:19.291Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "At least 14 infants killed in Islamabad hospital fire, local TV reports - Reuters",
+          "title": "Morning Bid: Markets are waiting '9 to 5' - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11VlJWcU5TMUNaTHZTZEtqT1JBeDBweHVkQUFiY3ZWRVVzVTJ4UGlubzdQVjBMSXhjczRzTURFOUdmZ3FscHVkRl9fOVRnaTBhTVZ2VTkzSGdDalJTaU5JMGVZdmRnTldxLW9uc1FBc1ZFOU9ES28xa1JIQUlXdUE?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 04:53:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "At least 15 infants killed in Islamabad hospital fire, local TV reports - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbnRHbkV2OTZHSElFUUE3bmgtdGUwOGo0NUpaRk9RWURTaXFhcDlua0ItVEhrZFY0aWFNRS1ZTkx2SEt5WGh3TzNtZmpHYVNMRk9TZWg2MFBfY0N3M2F3YmM4TFg2TEZuaE9fUTRCSktOWVdBUjZEalpvbExrVDd3RXF5SVNyT2l5a2xueU1EUE1kbkg2RE1pdnJ0MGJtclNkbHVsT0cydy1lb1VMMkhoNUtNbzFYR3k4YnAw?oc=5",
           "pubDate": "Wed, 26 Aug 2026 03:43:00 GMT",
           "source": "Reuters"
@@ -190,36 +196,30 @@
         {
           "title": "China flexes its auto-safety chops with huge recall of Tesla, other cars - Reuters",
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVGNjZVIwWmRiR21DbzZBMFVOUGZFTjVSODlMSm5oMjczN1pQNnhlb01sOVlGU0Z2VlhHa2hxWU04NFBpLUN3N0tYcGlJNGhLTkl2U3lfWTVHLUNQa2tXZThEWldBMmVocFVnX3RKR3E1ZVAzZWNSNUY4REhxQ2xULWlfTnd4Q19ycDI1ME9pVEktOVlHaXVPTU16WTBKVnJBTFRJZU1mUTl3THJFR2JxaEVHY2F0V1F5RTVMZ05BZGtNamVJYW1CM3JmUWZ2ZVk?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 02:43:45 GMT",
+          "pubDate": "Wed, 26 Aug 2026 02:42:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Three takeaways from Tuesday's South Carolina Republican Senate primary - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaVFaM1pheVpkcGhzT0drVnR6UGlqYlE0dVNvaFZNT1RZQkR0SWVnZ2tBTlEwZDhMZV8xdnVmRUFjeWFSY1Vkd2VHM0VhZ1U3UjR4eTVva0VpT2ZvTFNHbWNxeS1QNkV3b0Jjb1lFU0RHUmRBOTBuYlJJbzF3OHJySEVZaG5GeWdqbG5ZZngwWXBUSlRMcGJTMlg3bk9zbXNrdmRtWk1PY0RMc1dKbElZ?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 02:21:00 GMT",
+          "title": "India's Tilaknagar open to another large deal after Imperial Blue buyout, chairman says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOU0xsMDBieklCOWp1R0Jvckp0MUtUWW0zaXhkUW5wYmJQaDFYR2x2RjhrNFloamRfZFNGWkdEVDBsRC1MTHFIemR4Q2tkTl9fY0Y4M01TWTBvZEd6d2tJZTdzUTFBSGZ0WkkzVWVlNjRLb3BoMXdwRUhMNW5ON25nQUpiZDVvUU9ZQ0NackJudGd4VUtlTWVkcUhmVnR3Z2Vjc1hMS1M1VHE4WFJ5ajVPV3NIX3RqVjVLODNtdUdQUm53a0k?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 02:33:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Asian stocks hesitant before Nvidia, oil slips on Hormuz hopes - Reuters",
+          "title": "Indian shares gain as oil slides on Strait of Hormuz reopening hopes - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVWRsRFlHSWlZWTlaRFNSdWlTbldWM2g1eTFCWHpLNWlZOHc2YVVfNFcwczVOX3ZjMmRxMjFkQXZRakR1SkhvMmpJYkF2ZTVRbTdKSHljWFJYZ25GeWdoQ2ZfWnByT3lEWjV6Q0tPVmRDMmZNVV8xS1ZyTnJMWDdPZWRQT1lCX3ZzZVdKZ09YT21pMHVhYXRvTjRQV0QwY3NuajB4VXI5NGI5WDNiMkUwOHc5amM?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 02:18:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Asian stocks gain before Nvidia, oil slips on Hormuz hopes - Reuters",
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE91T2JHeEdCeW1LQUVJbHFFd0lzWkxUXzZjUWZodDZET0tTdWZYbEtpWnpPNGRsNzRZSjF1dUs5ZWNDV0t0a3F6YlBCdWJWTlRKc2F6NVV3T3ltWWl6Um9tbFlvVWRIZDk1dHFpNU5aUFo0UGVibk10NFE5dw?oc=5",
           "pubDate": "Wed, 26 Aug 2026 02:17:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Meta, US states have discussed settling teen social media harm case, Bloomberg News reports - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPR1ZPZV9UenJsdERuNmdZRnVtX2piMDJfOGZ5QWQ3c0U5Qy16SUUwQ2ZZNWNDZmEwMmdfVWNVT2J1Y3pkMUF2T3JhSVhiY0liaWtPM29LRW16OURXQ0VaOHJ2by1VN0Z3aGRFQ0NpV2ktekZXSVVnN0NRd1dnY29HQUxzYlVIRkFBQWtLaDJpa1JRLWxVSHZrc2Z6WmctdV9JYTNPYWJGV3d5Q3dKNEQxbDJvMHhZaEZZU2ZYdHJiUGx6QmtvMFlmVA?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 01:37:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US military says it struck vessel in the Caribbean, killing four - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPa3RrZllkVjY4RnlxcDN2bXRrLWd5Nkx4NmdMVTMxS1EyVDFFUTk4X0JRVUNlTTlMdDRTRVZUSzFnRzNnVVZBeDByZExtYkM5TmpoT0d1WjFwMkpvbExRcS1tRGJxWUpGSEtrRHZYRm5XV3hIeFZHOVBZaVBFSzgySDZRelRORlZ0VV9lNDlnYUNMbDc0ZGZnODBkVG5nWlRsdWFJ?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 00:51:00 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-26T05:06:37.188Z"
+      "updatedAt": "2026-08-26T06:01:19.683Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-26T05:06:37.267Z"
+      "updatedAt": "2026-08-26T06:01:19.919Z"
     }
   ]
 }
