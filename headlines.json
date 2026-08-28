@@ -1,9 +1,45 @@
 {
-  "generatedAt": "2026-08-27T21:06:37.049Z",
+  "generatedAt": "2026-08-28T05:33:59.577Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Trump administration illegally retaliated against Anthropic, judge rules",
+          "link": "https://www.bbc.co.uk/news/articles/cm2q7z5mlrmo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 28 Aug 2026 03:41:59 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "'The flood took everything': Nepal survivors describe horror of loved ones being swept away",
+          "link": "https://www.bbc.co.uk/news/articles/cd08z840p8lo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 28 Aug 2026 03:23:21 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "What we know about deadly Nepal-Tibet floods",
+          "link": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 28 Aug 2026 03:15:35 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Tate brothers blast US jail conditions as they seek bail in UK extradition fight",
+          "link": "https://www.bbc.co.uk/news/articles/c9v9nndjznvo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 28 Aug 2026 01:43:41 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Trump signs order to rename Lake Ontario as Lake America",
+          "link": "https://www.bbc.co.uk/news/articles/ckgwdn1g58yo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 27 Aug 2026 23:14:43 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "What we know after the big Grand Theft Auto 6 preview",
+          "link": "https://www.bbc.co.uk/news/articles/c3d7exngd5no?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 27 Aug 2026 22:10:05 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Jury deliberating in trial of Lindsay Clancy, US woman accused of killing her children",
           "link": "https://www.bbc.co.uk/news/articles/c33keeyyv70o?at_medium=RSS&at_campaign=rss",
@@ -11,54 +47,36 @@
           "source": "BBC News"
         },
         {
-          "title": "What we know about deadly Nepal-Tibet floods",
-          "link": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 27 Aug 2026 20:38:48 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Trump signs order to rename Lake Ontario to Lake America",
-          "link": "https://www.bbc.co.uk/news/articles/ckgwdn1g58yo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 27 Aug 2026 20:11:40 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "Key moments in trial of Lindsay Clancy, the mother accused of murdering her three children",
           "link": "https://www.bbc.co.uk/news/articles/cg7mlmg475go?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 27 Aug 2026 18:13:52 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Allan Little: I met dangerously fanatical Mladić early in Bosnian war",
-          "link": "https://www.bbc.co.uk/news/articles/cgl744j0ww1o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 27 Aug 2026 18:12:01 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Norwegians lay flowers at palace as King Harald's condition worsens",
-          "link": "https://www.bbc.co.uk/news/articles/cqxvrnvrr5do?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 27 Aug 2026 17:42:04 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Two killed in 'domestic violence incident' at school near Berlin",
-          "link": "https://www.bbc.co.uk/news/articles/cgqdy8g2zlgo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 27 Aug 2026 17:07:32 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Convicted Bosnian Serb war criminal Mladić dies aged 84",
-          "link": "https://www.bbc.co.uk/news/articles/c5ywxpryj95o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 27 Aug 2026 17:05:22 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-27T21:06:35.828Z"
+      "updatedAt": "2026-08-28T05:33:58.350Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Judge says Pentagon's measures against Anthropic were 'illegal and baseless'",
+          "link": "https://www.npr.org/2026/08/28/nx-s1-5947761/judge-pentagon-anthropic-illegal",
+          "pubDate": "Fri, 28 Aug 2026 00:25:08 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "The role of climate change in the Nepal floods",
+          "link": "https://www.npr.org/2026/08/27/nx-s1-5946703/the-role-of-climate-change-in-the-nepal-floods",
+          "pubDate": "Thu, 27 Aug 2026 17:43:57 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Helicopter pilot describes what he's seen rescuing people in Nepal",
+          "link": "https://www.npr.org/2026/08/27/nx-s1-5946443/helicopter-pilot-describes-what-hes-seen-rescuing-people-in-nepal",
+          "pubDate": "Thu, 27 Aug 2026 16:01:44 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Trump directs federal government to rename Lake Ontario to Lake America",
           "link": "https://www.npr.org/2026/08/27/g-s1-140583/trump-lake-ontario-america",
@@ -88,138 +106,120 @@
           "link": "https://www.npr.org/2026/08/27/g-s1-140414/up-first-newsletter-meta-settlement-mail-in-voting-nrc-regulations-nepal-tibet-flooding",
           "pubDate": "Thu, 27 Aug 2026 07:02:41 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Rwandans love their milk bars. The health minister wishes they'd drink a little less",
-          "link": "https://www.npr.org/2026/08/27/g-s1-139914/milk-rwanda-milk-bar",
-          "pubDate": "Thu, 27 Aug 2026 06:54:44 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Floods kill nearly 400 people in Nepal and Tibet, with 90 Americans among the missing",
-          "link": "https://www.npr.org/2026/08/27/nx-s1-5946309/nepal-tibet-deadly-floods",
-          "pubDate": "Thu, 27 Aug 2026 06:50:35 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "School districts face a back-to-school math problem: The high price of diesel",
-          "link": "https://www.npr.org/2026/08/27/nx-s1-5944429/school-buses-fuel-diesel-prices",
-          "pubDate": "Thu, 27 Aug 2026 05:01:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-27T21:06:36.009Z"
+      "updatedAt": "2026-08-28T05:33:58.562Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Trump signs order renaming Lake Ontario as ‘Lake America’ in the United States - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPX0gxNnZkbVNqbFIwejlNc1h0V19Cb3pzWF9NcXM0d1RRRFduNU1xWU9BVEpscUMtcEZoSWgzVUxFR3E3WnFub3NYRkNZOFJzY3J0S3JfMkszWDNYUkdOd243SlQzZnVfbEdDbnhQRGdya0RWRUJrbm1nekVUU016NTVLNXI0LUJvb0xmODdHc2hPbDlmLUtZR2xIQWlZY3o3YVVqOXJR?oc=5",
-          "pubDate": "Thu, 27 Aug 2026 20:29:00 GMT",
+          "title": "People from more than 30 countries are missing after the flash floods in Nepal and China - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUnVybUZxUVVIOFRWdUZUVWlvUlRWdzMwUktBN1JNdkpJdWtZWjhnLVpEaDNPN1ZpLUdkbmdnaXo1LTM4OWpQejM2RDJsWkhvaV9SWEtsVXpDcGg1RFEzTnYwcDlVOWdDVXY0SEZ6QmR4cWRFVFYwU0hXNDVma0c0a204U3lPV21mU18wM2pDTmE5bUl0WXZr?oc=5",
+          "pubDate": "Fri, 28 Aug 2026 04:40:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Autopsy shows Tennessee National Guard fatally shot 20-year-old armed man in the back - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN3VWMTVPWkljWTd0Z3I5WkhONWxSMTZ3b1NzY2lUaDA0TjI5WV9XTGdTbVNoS2ExOTBtREcxUWRySElweFowcDFFTnRoa2tESGl0MzNoV2R0dTRfazZ0TElhRmhIbURvTmMwclRYVG9nd0gyRzVuWnJOM0I0VEJVRXBIaVc5eDE1WEkyU0Y5Z1ZCekh2LVR4ek5Wa00?oc=5",
+          "pubDate": "Fri, 28 Aug 2026 03:12:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Fri, 28 Aug 2026 02:58:46 GMT",
           "source": "AP News"
         },
         {
           "title": "Catastrophic floods kill over 390 in Nepal and Tibet, with more than 1,400 missing - AP News",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWTRiakhGUy1IMDZwSGk4Zld5ZmdZQUNmMzZWMVZ3cHo3TkF2alg4YjIybVZaN0lFV3plMUdWc285NU1GS0dXZ085M1hzcWdwZGZ2RV90dDZGSDF5b3dNZ0h6MHZMV3JEU1dqS1Y1WlpNelU2cXhCVm53U0ZyNUJkcl9mcnRBM1Z2ZHl3WGhFRUNnUHB3eURyc2c5QzVpelN1UFRyZGY0eF9WakdnbWtJ?oc=5",
-          "pubDate": "Thu, 27 Aug 2026 20:09:00 GMT",
+          "pubDate": "Fri, 28 Aug 2026 02:43:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Watchdog files bar complaint against Jeanine Pirro over bid to indict 6 Democratic lawmakers - AP News",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONmZjWEVoZFVJSUFjdTN0cDVfUk5zb1hjWmhBMUEyWUx6SWZDc2JxNFRxb1dST0oxVENTaFJla2wxa2gwbVlzRi12MEN0OXlYbl9ROC05R0dxYmw0SFBwMklKSGZCSG9wckpYNkw4WnU2bDJWeUtRNUJnWjNsVXlRdTdFSnNUajVlM29OdVRmbVN4TWVKLVBDaUZkT0toZw?oc=5",
-          "pubDate": "Thu, 27 Aug 2026 19:58:44 GMT",
+          "title": "Judge again blocks Trump mail ballot executive order in ruling that’s likely to be swiftly appealed - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQVVwYmk3SjBRQTIwOFM2SDBUcUJEUUd5UDhwOHlsX2ZLUTEyMkZwd3liMTlOWHFsU25lRkxMbUdQc2ktM1huX0dWZzU2ZDdCVkFsU0xJM29DZjlKdk5qck9Mbm5lajdsMlQtekRXeVV3b0JKWWxNVnR6NlNZR1BJOXJNbzBBaTRnSHlCVGdzaVlDemlWV0QzR0FXVUU2VWdLZlVQVmswQQ?oc=5",
+          "pubDate": "Fri, 28 Aug 2026 02:35:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Controllers warned Trump copter pilots about radio failures 1 week before they came close to jet - AP News",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSDhuZEEwWDVTTE5jZ2FDMEZ4UmotVVdXMFVtbEtURy1TelRIRzdjT0F5Q2pPUDVXTW56R1BUMUkxUDZBaW1qYkU4dWJpVjhJbXNxNjdlOVh4RTJnRnE2ZEdWVGdPSXhmeFhWR1hWclJwQjc3bS1xWGN5VGwzTGtYek41NjFabzRYQXNzQ1hkRnY4ZkZQbXlkREtPZWJjR2Rf?oc=5",
-          "pubDate": "Thu, 27 Aug 2026 19:12:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Shackled Tate brothers in court asking to be released from jail during extradition fight - AP News",
+          "title": "Shackled Tate brothers testify in bid to get out of jail, but judge delays decision - AP News",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMzlFLW9welZHOE5lTDFRRk8waW5YU1dPVXdsU2ZzSVd6MzdpbENKbTZHenpWbEg4NldyaVhiYlpzeFNoMHZScm4wNElGVHkwN1h4NGpqWUdSOTlLdTlqN242TFVtUU0wQWVDbUpDWHZnZDU2TV9YS2Z0SVZtdkJXelRBWUtJdkQwOUxrZVlrSklndjhucW5rZQ?oc=5",
-          "pubDate": "Thu, 27 Aug 2026 19:06:00 GMT",
+          "pubDate": "Fri, 28 Aug 2026 02:21:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Ratko Mladic, ex-Bosnian Serb warlord who oversaw atrocities, dies as a prisoner at 84 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUERKNVdUQ0FuTzY1UFJrY3ItTmxtZ29tR0pxUGMzNjBjMUNhZVB4X293dE0zM3hlSXlxbjZZOUJmV0dnODdwUUtvc296Z3VQNVhTMnU0TEJGWTJxSWtGRFFOLWRJZlhxRVdnZmxJa1pyekVKaEpqUWhqQUp2UjdCc2ZKRQ?oc=5",
+          "pubDate": "Fri, 28 Aug 2026 02:19:00 GMT",
           "source": "AP News"
         },
         {
           "title": "Regional powers seek off-ramp from Iran war, and other Middle East developments - AP News",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPblotQXR6VEctdkdvVUhZYUNsWXBPQTd2QjU4TTNZd0pFTnk2LWtXejlfMjBRRDJjamYzRWthTE96NmpCMmROV1B2eW1uLXI4aFcwQTRGczJXTS1HUm1YTUo0U0J5ZTJFQkJNUVVVcGJsc2xhZ1FYQkpIRm5Ba2N4RnV4eG44UHdQdWZIMHdWX09IMGI1RVl5YllOTkJRanlKcWFxalM0d0dsVmRl?oc=5",
-          "pubDate": "Thu, 27 Aug 2026 18:43:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "UEFA prepares criminal complaint in Swiss courts against FIFA's Infantino over World Cup sell-off - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTjItR3hvSWlHc2k1X2VOZUY4clVXNGlFMi1FanY0dC1wMGJtZXl0LTZxcFpxdVJDdVVVZzB6NmFkVmdUam1ESU1aelRkXzB2Sk1JVkQ1SFZ2QVdNWjV6M1RpcDZxQW5BUVpHWjNIUUJXSUt4dmtwSGwtVzNBcTh5MUs1QldNY21IMnFPWk1ablktU3VrYlJKbVRxWjdfMjhLNllnaE80bzhndw?oc=5",
-          "pubDate": "Thu, 27 Aug 2026 18:36:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Exclusive: RFK Jr. said a Samoa trip had nothing to do with vaccines. New documents refute that - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOemM5TVZQWjNQTUg2NjRMUEhXZG5mUTBIVnhsR2tpSFJPb0JMSzU2b25pUVFNUnJQNGIxYjFfTU9OamhIZmJBR2NySGdsRzhWT1FEMlJaaF82QUd4SS1BTVhCczJWX0p0MEZUNVVwWEh6X21qdzNqR3BoOEZmQjhYTlptcDRtUlVkWDFrMGJDSWIwYndDMlE1Uw?oc=5",
-          "pubDate": "Thu, 27 Aug 2026 18:29:00 GMT",
+          "pubDate": "Fri, 28 Aug 2026 02:17:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-27T21:06:36.425Z"
+      "updatedAt": "2026-08-28T05:33:58.965Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Reactions to death of Ratko Mladic, former general convicted of Bosnia genocide - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPenJ3b1dwdF9lbXBmWjNtVV9BZHc4TlMzOWthei1rTnlqRkRoVzgtWUpkME1pR1R1dUkzRlNqUWl5NVZqN2JMVnktN2I5blJuWF9DbWk3NWNUVE1pSGRMMFhTTzJNQnBaQXR6NE5NRm8yNkFwdXJZemVfRk1neEM3c1NSNzdmTEdYckZfRWRqSjcta3lwOE1HU3NWLWhYbGRtc1dBS0xyc1dOeWl2T01uNA?oc=5",
-          "pubDate": "Thu, 27 Aug 2026 20:39:45 GMT",
+          "title": "China rushes to minimise risk from lakes formed by glacier debris near Nepal border - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNT1hIS3RucjdoUFAtckVOa3l5N2tHQk5KZGRzU1JmRnpUTVdHbHFXZDktd3RjNllOWDZLRFE5YnYxdUxGaDF3dWliVGdMSWRBdmNHZUtvWlhrTExOX241cDFIdy1MZjZ0ZHFwUEZjWGs0WVdUZUx3SUg4U0JLT0xUdHZjSHlZMDhudDJSNDNqbW9nbGpHaTJobmVtYVhGUG9VQWY1b0JQaTNQWmgtVGszU2czMERicjVmNTNrNFN4R1o5eDA2WEZB?oc=5",
+          "pubDate": "Fri, 28 Aug 2026 03:21:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Ratko Mladic, former general convicted of Bosnia genocide, dies - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUlJLX2s2Zk05UlYzNlRsMzZ4Zml1QnBteXJmZFpBLUx1blNxYWNHZGN5RjFQdEw5M2tPdTJiZlg4R25IRWxJWVBSOHpnSGx2a0xWeVZlVEJid1Nqb2NkdUlpRUo1aVZrS0t4dG53M3FfeG5feU84WlVsVjhicFdCMkhua1h0VWlHcV9wcUxzTnZ5YUc5Z2ZHZmRZUXQwdGdpMVVteC1sMkFFeW4zWlBNYzFjYnFUbEJTYTZ0eg?oc=5",
-          "pubDate": "Thu, 27 Aug 2026 20:39:44 GMT",
+          "title": "Death toll in Nepal flood reaches 469, police say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNy1zaldKQmV1TEF2YTVkRHdoNmdXOWlGNllvNjZMV3czX1I5UnhWNTJuUDhybXl4UGNXbFVMMDJFSDQ5aG9BSmF1ei1TdG53d1ZVdTU0M3pCbUJuNkJIeENSRDhuMEtfb1JhLVFaSmdCN3NuOFk1SzJyR25KT1Z3YTEzTG0tS3FHYXJFVzIzaGZya3hQNmpHU1JhQWliWGQ1RkY3bQ?oc=5",
+          "pubDate": "Fri, 28 Aug 2026 03:04:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Meta settlement falls short on teen mental health protections, whistleblower says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaXRXcnhCSC1JdHRmdFc2bDloelBRSXJpdW5ZT0dEYTlCWnQwM1V2NEVrTUZ5RXlxRzNzdVNJWG95RVoyUzdmcXItZnJGNzhVQ3FFQjlyVHZsUFk2RjBSZEJHT0lMellxM2E2eHVTNXBBdS1Ob2M1OUl6NzIzSGRBWTNZMkJpa01seXJkc3NtT19JQnpqWWxpT3ZINnUtU29kQ2xfZEcwVjBPNFNIMVBtZFZEZHpaLUJMVVNhalFoS21ydGIxNE9INU1R?oc=5",
-          "pubDate": "Thu, 27 Aug 2026 19:58:33 GMT",
+          "title": "Trump administration seeks to restrict internships for international students - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWWFQejNhVHNBdHZSLTN1bkFpdDNwWnhCeGVaVGR3VTNrX1VMWU00ekxqdXlhQnp3cVlyYVRRRnhveDdqRXlzaW42ZkpaSGJJZ2tsbVF2bWY1Qm9fdEdtaGxiZmpQYUg0eGM2RElpcmdlNXF3ZU85LS13SVoyNUNpOHNxSXdta3gyWFd1ZFY3ZUlmLTNaaHJZSTdyU3ZyM0hCU3owRDZrMHpncUoyVWtzV3VJNGZfOEtBUGc?oc=5",
+          "pubDate": "Fri, 28 Aug 2026 02:48:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Iran's security chief denies report about a potential plot against Trump's son - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMmxfUzFLX1V3NWtDWmZFZ3dsUGIzWV9VZmNZVUo1NjV6dUxQM1VpRTNPS3UtQzg3TWtPaHBuUDJ5STJNSGFnZlMwT2w4UHlpWjMtejRnbUllbWtFeVpXWUJSVkMyeGZjU1hwc1ZSU0xTdHN2eFlMNXd2SEFIWG9EeFlxNkh4TjBOM0J0dUFFV1FrYmp4NVJXZXZjbWM2UGtrRWYyMFlJeEJOb3lBSXdoRm03bmZucjhUN05yejhTRWV6cUpsV1lHVHBDZWJWdw?oc=5",
-          "pubDate": "Thu, 27 Aug 2026 19:55:44 GMT",
+          "title": "US judge blocks Pentagon's Anthropic blacklisting - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPakdSUWs3QWRxY0paamF6djJFWGY3Z3YxUWVtWTlTdVBvcmxmU0Z4cDNtTU9ZVFdBUHhCOW9qSEptOHBYU3YxWGNKMjJ3VS1SbEU2aEwxTy1vRkNIS3gxXzVnOC16eDdjUWdkMmxFNENxR2hjRWYzaGVjdVV0M2o4SkhxdzNyNDdVa0FNSHhxN3Bid1JISkxfel9PUndsQWRGUGE4?oc=5",
+          "pubDate": "Fri, 28 Aug 2026 02:42:40 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Trump signs order to rename Lake Ontario as Lake America - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSDBsNDZLOG1YRlpTLTNmdXpEZkhpTzh4NHB5RGh1MzMtQm8tUGFROC02SXFmN2szQ3VIOW14MFV3aENsQ2JJdTNxTFFGNy1BRDljWkh6NTUxd2piM3NLWXdLR3JKQ2RLWVkwU3dzRlV1ME9DS1JPSGNFblppeG05Nl9jdDV5LUI1RWdET3VBUzB1eUdCM0F3RXoySQ?oc=5",
-          "pubDate": "Thu, 27 Aug 2026 19:38:10 GMT",
+          "title": "Dollar flat near one-week high as investors await Warsh's Jackson Hole debut - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZTRZaFZxX1ZxcFJfZUs5OTl0c3lTVDJDWm55NWlHVG9CUmloOU9DWF91QXV1MGxVbTlGSTM2Zmp5MHlyUkJ4YjBiRHVMZGZLemlRcTV4N1ZiZ2Y1V0ZYelpGd3lROUNQSXYxNGFMYWoyWVFVMDQtWmt0RDgyemVtNm5lTDlXUVI4WGxzRWVxbmEtMXptWC02dWllNF9wRFR0anFYbG55TFhXVjRGSlRuQ0xJNFNvMXVDaVdMd09hdGg3VFpsMFE?oc=5",
+          "pubDate": "Fri, 28 Aug 2026 02:36:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Rupert Murdoch considering re-merger of Fox Corp and News Corp, court documents and video show - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMUV2Y1lUR3BQelUtbjNRUTdhSFExZU13SGlhd09BRkx6eVZHUDZxeUpBVGlkSGI4VnMxSVVINEs1emdVQllLekpVTGtnbGNQQmRScEVERnZyTV91V211SGZxWWhEVTNiVEE5bWFQNElUZWRhYm1IOXBfR1g1OWNVQUlxbDVvc1dhejdqREFmX2gwUjhFdEZ5Wm5IcUxGSlM0R1ZRa2l5RmtCVE9kVE5DRlBYTmpFNzUyWGVV?oc=5",
-          "pubDate": "Thu, 27 Aug 2026 19:33:56 GMT",
+          "title": "Gold slips as Fed chief Warsh's Jackson Hole speech looms - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWlR0QXlieWo3eENkM0t6U1djSVl3MzVYWXhqNm0zZzQwdlM3YWo1UW5lNk12RGFfYmVxY2xIVzRsa2NGRnJTVVZ5bGNGSFdoYjl1clctVDQ2Sy1mbUIydVFudDl3VjRGbE1ST3d3VlpFUm9oZkk2X3dYTkV0NVRvNEZOWWtQOGhRUEJsWVc5dFRtalZDRW05Sk9NbHIyTGttOTIw?oc=5",
+          "pubDate": "Fri, 28 Aug 2026 02:20:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Meta settlement opens new front in global fight over social media harm - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVjVfZFlla20taFJNMHJacldOVjlwVFk4dTQzTkRsVWUyZ2E2bFpnaXkwM0hRMlNzN25hcVZIZmtXU1hnank5NVdodXRBeWR6c3ZxTDZ3NmoyNkFmYm45TnB4NkhHOFFFOHVYNkJrZktsLTAybk9sQ1J4UVpjbWRycXp5dnoybFpyY0FMTEFRa1l0RjB5eTRjVExkVDJKYzR3OEIyT25TZ2dXQzY2LUJiSHlJd3dtZw?oc=5",
-          "pubDate": "Thu, 27 Aug 2026 19:25:43 GMT",
+          "title": "Judge blocks rule implementing Trump plan to restrict mail-in voting - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaEpvSkd4T01zVUZwV2dVZWNkRU0tbVBQNms2bXJsTEk0LWEwd3c5Y0NWZjIzR3BhRGFDaTdndTdlYng3c3BiMW02Y19MaDhwZ21qd05leFlmLUt6S1FwR0JaN2tTdHVxaE0tMElZUnFweGU3dlRnQlFOamx3eFBSQ3dfWkZmUlp5NlIySHBLbVJmX3UxdHZucERDRXB6Skc3WEdLYU5WRXBvQVU?oc=5",
+          "pubDate": "Fri, 28 Aug 2026 01:59:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Tate brothers seek to persuade US judge they are playing characters online - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeHpTUXAzWXdHZ1FjcktWXzJEYW5ISGU3LW9DRE44ckVTdjcwdFNVLV9EeF8zMkhlVzFyTi10dC1zVFpFaGUzTGJwc1RVNFkwSGt2aGoxTkFmcGdORG9SRWxpZDJaS3BlR053T05xa3JSeXhCVTd5SDRwc0J0d3QzbUROQWJoVnhyRVVoLTVnSFZtd2FjRzU0TVhNYW5vWFlmWXB6aDJYYnEwdVphUl9KX2ZKTQ?oc=5",
-          "pubDate": "Thu, 27 Aug 2026 19:21:57 GMT",
+          "title": "Shares turn cautious ahead of Warsh speech; FX, bonds hold breath - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPd1RUYUM0TDhTNURUOVdtU1ZYc0p2YTZQZGhTREUtRkRNWms5UVN5LUVxelJjWVluQVJkQ0UteTAtMng0V2h1Z014d2xQZXBZUDZfSHdSM2ZXdWljRFBJT0lXR1VHVUo3N0djMVJmaHkzaVh4YWJpWlZtSFM3RjJLYUc0Zw?oc=5",
+          "pubDate": "Fri, 28 Aug 2026 01:56:00 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-27T21:06:36.890Z"
+      "updatedAt": "2026-08-28T05:33:59.325Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-27T21:06:37.049Z"
+      "updatedAt": "2026-08-28T05:33:59.576Z"
     }
   ]
 }
