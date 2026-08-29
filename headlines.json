@@ -1,25 +1,43 @@
 {
-  "generatedAt": "2026-08-29T17:49:55.969Z",
+  "generatedAt": "2026-08-29T20:46:16.235Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
+          "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+          "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 29 Aug 2026 20:13:16 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Former Ecuadorian president imprisoned for corruption",
+          "link": "https://www.bbc.co.uk/news/articles/cvgym9rz07zo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 29 Aug 2026 19:44:54 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Norway's new king remembers 'my dear father' in first speech",
+          "link": "https://www.bbc.co.uk/news/articles/cvgy79wmv4jo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 29 Aug 2026 19:06:28 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Australia usually hosts the world's biggest cuttlefish mating event - not this year",
+          "link": "https://www.bbc.co.uk/news/articles/c75gyw0nkzno?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 29 Aug 2026 18:30:32 GMT",
+          "source": "BBC News"
+        },
+        {
           "title": "Right-wing commentator Milo Yiannopoulos deported from US to UK",
           "link": "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 29 Aug 2026 17:38:31 GMT",
+          "pubDate": "Sat, 29 Aug 2026 17:52:42 GMT",
           "source": "BBC News"
         },
         {
           "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
           "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 29 Aug 2026 16:15:56 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
-          "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 29 Aug 2026 15:27:56 GMT",
           "source": "BBC News"
         },
         {
@@ -33,28 +51,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cy8z9084d00o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 29 Aug 2026 08:48:34 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Ex-White House teleprompter operator ordered to pay $172,000 for Trump speech bets",
-          "link": "https://www.bbc.co.uk/news/articles/c4gj2dl4x52o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 29 Aug 2026 07:11:04 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Forget Starbucks coffee - Gen Z like their drinks ice cold",
-          "link": "https://www.bbc.co.uk/news/articles/cm2r9n2mrp8o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 29 Aug 2026 04:30:27 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
-          "link": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 29 Aug 2026 03:54:11 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-29T17:49:54.907Z"
+      "updatedAt": "2026-08-29T20:46:14.980Z"
     },
     {
       "name": "NPR",
@@ -96,24 +96,60 @@
           "source": "NPR"
         },
         {
-          "title": "How America celebrated and mourned Dolly Parton, in Nashville and beyond",
-          "link": "https://www.npr.org/2026/08/29/g-s1-140345/dolly-parton-appreciation-remembrance-tribute",
+          "title": "Why is one WNBA team calling in national security experts?",
+          "link": "https://www.npr.org/2026/08/29/nx-s1-5947897/wnba-national-security",
           "pubDate": "Sat, 29 Aug 2026 05:00:00 -0400",
           "source": "NPR"
         },
         {
-          "title": "Why is one WNBA team calling in national security experts?",
-          "link": "https://www.npr.org/2026/08/29/nx-s1-5947897/wnba-national-security",
+          "title": "How America celebrated and mourned Dolly Parton, in Nashville and beyond",
+          "link": "https://www.npr.org/2026/08/29/g-s1-140345/dolly-parton-appreciation-remembrance-tribute",
           "pubDate": "Sat, 29 Aug 2026 05:00:00 -0400",
           "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-29T17:49:54.946Z"
+      "updatedAt": "2026-08-29T20:46:15.207Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Far-right British provocateur Milo Yiannopoulos has been deported after his immigration arrest in US - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNblJmQTNKSEFCRldlRERMSDFoTl9NNi1XUEtlN3BILTdiQ0dTX3drX0t5ZkdnT0s3TzA1SGhPWWRQaXJJOV9MaXlFUGJPb3B4S3g2SjJvZUdSLVVaaHJqR3c1MWVpY2RNZkQyYnVNd2xhQjZReXBpZl9fMmFnSFg3UU5IMXVDYlNHWllRcmZkaHNTb25KZHBwTXk1YVZLcmJ2YTBURnpadUNPM2VZ?oc=5",
+          "pubDate": "Sat, 29 Aug 2026 20:19:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Trump cannot deport students for criticizing Israel, judge rules - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQ0Y5ZFdHSVpUZDhZa2k4b1lNNG1TdUpKci00WklleGkzXzE1a2UtVDFlMUp0MUM5dldyanJwMEx2RVhmcFlTUkptNXhxcmxMN3ZRaXBNWjBGWmxSX2ZEbzR4R01Yc1UzQ1FoWEt5OEFaVTB1bnN1Zm11M3J3MG81cGM3bDhhR0lkNjg3WVdjaGNPR1FtWWRvRlhKaFVsNkdQMHc?oc=5",
+          "pubDate": "Sat, 29 Aug 2026 19:34:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Tom Cruise announces a follow-up film to ‘Days of Thunder’ to hit theaters in 2028 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYURKd2FSRjN1NFNuelVJSUk3dVNra1lUaG9aMm1qQlFwY2xQNFdGMGN4ZktFa2J2aFNZVlFjQmhLRWZLcFptMnU2T0NXSzZCdXBKR21rR0FKcHlBRFpoWTkySjJHSmRMYndjWExyNGZJbzNDR0dLOWozSUlkLWk3dGhCUG1fNVdCZ2hlVEM4SlpWa1BCOGtVNA?oc=5",
+          "pubDate": "Sat, 29 Aug 2026 19:28:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Trump's Greenland threats cast a shadow on Iceland's vote on whether to trigger EU membership talks - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNa2lwMjY3WmFVTVFkYXFBdm1Idl94YzhMUmJZOFV4Vk9maHpYaG5EM1FXN3laVzBzLVpqcll4V1NteDlOc2YxN01nX2VKdVdON0ZPV2ZLdDl5YVl0UEh4U240NDB0VE95MHNlVHNJNkIxakNPbjhpcUtNWDZWOERJVmlHSDd3TUprUk5abmJTVW14VmtybHc?oc=5",
+          "pubDate": "Sat, 29 Aug 2026 19:09:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Russian strike on a Ukrainian warehouse kills 37 in the war’s deadliest attack this year - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMDZoaHVmSENmSUJQcmlhVnY2R181UXpjdnZIQlJ1YXJsZzlGZGM5U1dxY0w5eERtLXQ5ajJwWF9ib3pKQlBNam5XU0dQamczNlhxcjdGU2RxbEthaGFQQnhKcXZ6TkQxdW5rWGZIZERoMTBPaFZzR01jeHFEMG05N2kzRTNnemVnQkJvRW1Ga3lET0k?oc=5",
+          "pubDate": "Sat, 29 Aug 2026 18:45:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Natasha Cloud dismisses Enes Kanter Freedom as Sky ban him from home games - AP News",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUGpmZ1dBRzJZRGpwUjFvdkhZeXllY1dQUjNvSGUyOWRDUUpVeFZzaHZsS1RrWV9ld0wxa2c3YWFfLS1Idm9XWWIwOUZUNVVTSnFoRFpLZVF2cnRYZl9FM1UzRHNfbHNQakdjdThjdTRxUmgwaDk0NGl4bWotbDMtVGRzQQ?oc=5",
+          "pubDate": "Sat, 29 Aug 2026 17:15:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "The Earth is sizzling, but climate isn’t a hot topic for Democrats in this year’s campaigns - AP News",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa0lNSnBPSHBtVW11eVZ6MzBMa1AzdVhrZm5wSXBrbFllRG0wX0c4RmFyX0psR2RRaU1KNVIxRGszd240bGpyMmY5U0p3b1BGclVUaUZmRVNLYjFpRTdDWnRHUTdqeGxESVQzSDBQTFRicVBQM3V6cWd2MlhwYTc0M0VXQVRoTl82aGV6YzBhNDc0cFJSSWNWZXVDRTRheUFFQnBZbTJ4aHl2ZUZHWkRlek55RmxXemNpMzgw?oc=5",
@@ -121,50 +157,14 @@
           "source": "AP News"
         },
         {
-          "title": "Nepal-China flood survivors reach safe areas as families await news of nearly 3,000 missing - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaGxpdW44Q2I3WGtJczYyMF9nS1Q2RHpQeWxySF9ZYW5yU3pDSHB3dC1DeTJUSU1fWDdlUjBqTXlXQVE1d0VPVlhCOXZ1RHVSb2hBRDg3SVJpVXZRZVp3S1ItcmpaNEFzRHp2X1dvVGd3TW90VjF5VXE5WmJlYmhtSzIyX1d6YkRfVzlKUQ?oc=5",
-          "pubDate": "Sat, 29 Aug 2026 16:27:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Russian strike on warehouse near Kyiv kills 37 in one of the war’s deadliest attacks this year - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMDZoaHVmSENmSUJQcmlhVnY2R181UXpjdnZIQlJ1YXJsZzlGZGM5U1dxY0w5eERtLXQ5ajJwWF9ib3pKQlBNam5XU0dQamczNlhxcjdGU2RxbEthaGFQQnhKcXZ6TkQxdW5rWGZIZERoMTBPaFZzR01jeHFEMG05N2kzRTNnemVnQkJvRW1Ga3lET0k?oc=5",
-          "pubDate": "Sat, 29 Aug 2026 15:47:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Niger’s security forces battle mutinous soldiers in the capital - AP News",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVzZFaFJKU2dpTXV0MkluVEthajhsY2tVSDFqM0poUXpBOTNuRGUxZXRKZEpBam1DQWNBdWFzUnlHM3hmM21ZWkh5REZBM0R3YnlKTTVMQnZacFhWQ1c4YUFuQjFqZ095QnliMGNxSEE1TzZqQ1JOVTJlVVRJRlBWLUoybVVSbDg5MzNNd0pkQ1lCREx5aS1pdFRzTUptMTZWTHJ2TklBV0RjYVVnYlU0Q3hicWN0eXRHVDUzb0FR?oc=5",
-          "pubDate": "Sat, 29 Aug 2026 15:03:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Untested in court, Trump’s new tariffs on Canada raise legal questions - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSU9SV2t0SXlGdXhMaVdZUXB5djhMR1FRR24xblZpWlFpUGNEbHhXejBhSlI5aUw2SUs1SkNyWFBhU0M0WFhGOGoxNzBjelE5YjRVMExjYWxzWXZNZUNXUUtET2tMQUIzdVBsYjdHdXotU0F1dXlISXdPS2ltTnBQZ0VMeVQ1VC1lME5oX05maU5EQ09DQ1dQbWduNWh4azJuQ3h1b2tRVQ?oc=5",
-          "pubDate": "Sat, 29 Aug 2026 12:39:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "FBI no longer treating an applicant's experience with prostitution as automatic bar against hiring - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTm1sblNHc3VTVVdaSlhSSlZmQ0xlc0ZfZTZkWHdyNlh6WVFiSHBTRmRBZm5UMG5GdGZJRUVqWFRyaTZvNWdjbFVTaHkzbjR3ZlZrSExSczR2TFVoaFVLN19xOG9uVkVRc0VlQnNScjF4Ukg5UlpKRUo5aG81TWFzNHBxYjJ3Z2RzS2pNYWI3ajZ2Zw?oc=5",
-          "pubDate": "Sat, 29 Aug 2026 12:25:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "MLB | Latest News, Stats, and Scores - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Sat, 29 Aug 2026 12:14:39 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Far-right British provocateur Milo Yiannopoulos arrested by US immigration enforcement - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQkFEZ0NjWENENktHN3hZRE92U1p6cDVLSFFaR0p2VllGZXhSWUtsYVI4b1V4S2NxTW96VGVUWFFXSzJLbzZGYVBMd2d3NUM0MVBwYjE2eVJDTjVlNi1UbDJjV0NsY1VYeWhqelNaelNkVGlXbGZqUThQaU84UjFpZ0FiSDQtdDB0M3RWbHlmOUZXdkZ0M3htRnFLQk5IamNmQmF4U3BvdFdPN3dvZW5VZXh3?oc=5",
-          "pubDate": "Sat, 29 Aug 2026 11:55:00 GMT",
+          "pubDate": "Sat, 29 Aug 2026 16:44:58 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-29T17:49:55.415Z"
+      "updatedAt": "2026-08-29T20:46:15.690Z"
     },
     {
       "name": "Reuters",
@@ -172,13 +172,37 @@
         {
           "title": "Tadej Pogacar forced to abandon the Vuelta after crash in stage eight, Enric Mas takes overall lead - Reuters",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYVU5RThXeTlES29neUxHbVNtejN5ZTQzaFZoOUZpYThtaGFvNHEybXMzUE5vSEVWX01DVU9Ma05YS3BzU2NsQnFMQ1o4WGVxTkY1aDBURVV6TkJ4VEcwWFMzYzdYS1dCQkg1YU05Zjh6OGJKSVdOMTBORHhmTF9PcF9oSE5iYVhIVVpjYVlkQUhSRkNtbGZkRUlVbVJ1Wk9uUmc1YVl3?oc=5",
-          "pubDate": "Sat, 29 Aug 2026 17:16:58 GMT",
+          "pubDate": "Sat, 29 Aug 2026 19:15:54 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Nepal resumes flood rescue, seeks technical help and billions of dollars - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNb1FVWFg4dHUzMWZmVXotWUoxNTE4MGQ1ZFhZdExvV2JlU0dwSmZMZ25FcjY5dzVKLTZETVBaQnZaLXFBS29EZ2Jfc0w0YWw1a2c1WHlHNXFoallfb1libC1LUFg3ekpySWp4M1A5OFJpVUFVWEtfempZODBNRDhtRmM2VVZJRHlhN29WakRHMFFVZGtZVGFEYy1yQ1k1Y3VGaTM1aTdkZ3Ntd0gtVDZia1pRZ3VaakNsWll0Vg?oc=5",
+          "pubDate": "Sat, 29 Aug 2026 18:43:05 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Far-right commentator Milo Yiannopoulos deported to UK - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObURVMERBQWV0QWJua3FzNktCUjV4dE1POXg4MTBpQi1CTFJzSlpaMnpZZHNnR3VHUXpCeDdmQVdTQXU4UlFFLUtRd3JCejdiUERFNzZHTnpmTHFLM2JxMENIY0xrSUN4NjZXbU9JeFpmVnppMmlWY1F2SkdOY0NORElUN3lIX1FwVGc0RkIwSkNHM3VBbE5pYm1QNng?oc=5",
+          "pubDate": "Sat, 29 Aug 2026 18:16:34 GMT",
           "source": "Reuters"
         },
         {
           "title": "Israeli settlers stage new attack on home in West Bank's Qusra, witnesses say - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaDJ3eXpHdUxRbndBaEJmblBpeC13Vk5sMF9lSGJOb3EwSzhDYXBWZnBjYWxqRWgyaGpKNDNsZWxacjRMWF8tQjNvQmNORXNEeVI0TG9nOVBSa2hhY2FFdklhVmVSNGxTalM0bWdtczdPWnd0d0FEeGNTRXdhN0I0eXBVRUFFRHpTX21wQUtJU1FqVmYyRTN2ZmZiNHEzV19OOWVmN3NPcE9SVjZzT29CY2U2bjRXdTAwVXIwcHU3Qjg?oc=5",
-          "pubDate": "Sat, 29 Aug 2026 17:11:05 GMT",
+          "pubDate": "Sat, 29 Aug 2026 17:58:32 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Storm leaves one dead, two injured in Cyprus - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWjJneWlPWFZzVUZpdk00MkpmZmZUb0J5b1pEaXdPdzMydEMzc1BPVk8wT0VvcGN6eGRDZmw2NGFXQldtblRnNzU1WGhBVzhOUUR4Y01kOG9qX1JEZ0FLWWRDVzZfeUdtNlpMU2JCdDYxU2dVUFRqVmp0QjlTY1JaWWRPMWVQNkN0OUhGVU9OSlozM0NCOVVENEoxRmZaQQ?oc=5",
+          "pubDate": "Sat, 29 Aug 2026 17:48:18 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Bear encounters are on the rise. Here's what to do if you meet one - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVk4yckpUNGlpM2tzUUNmVWxQV2hBZk1WZWpaVV9HYkU0a2tWLXdVZGFhUnNPVnNSSldVaEhaOFdBWmJqN1ZvRHNma0owUVBwcmJsa1BxejBmeTJqMjdubmRRMXZSaUxtOVN6bFRKQzE1VlJXZkVvZ0NOSi11ZERaYzBvRlRKQ3Y2THNWZjN5YTRoWFV6MDhNajNVQmtVb25JQzFnU0dGcXlwYkQ0RFNFRg?oc=5",
+          "pubDate": "Sat, 29 Aug 2026 17:48:01 GMT",
           "source": "Reuters"
         },
         {
@@ -188,38 +212,14 @@
           "source": "Reuters"
         },
         {
-          "title": "Nepal resumes flood rescue, seeks technical help and billions of dollars - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNb1FVWFg4dHUzMWZmVXotWUoxNTE4MGQ1ZFhZdExvV2JlU0dwSmZMZ25FcjY5dzVKLTZETVBaQnZaLXFBS29EZ2Jfc0w0YWw1a2c1WHlHNXFoallfb1libC1LUFg3ekpySWp4M1A5OFJpVUFVWEtfempZODBNRDhtRmM2VVZJRHlhN29WakRHMFFVZGtZVGFEYy1yQ1k1Y3VGaTM1aTdkZ3Ntd0gtVDZia1pRZ3VaakNsWll0Vg?oc=5",
-          "pubDate": "Sat, 29 Aug 2026 15:43:22 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Hungry bears wander into US West homes, shops in record numbers - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcU5IX3Yzc05iZ3RZa1NRb21rRnhCeEZ4akF5OHdHTE5rc0V2UEl6aWVZb21wcXg5cEx3Qjdib1BxYnJCQXFMa3JXbXYwRzE1NklZaU5WeXZZTTltZ2xMOWJDZ01ibndWR0k4c2gtQmdoUGJsdVBScDRkUjI5VzJnLWRLa1RyWndwTF9jR0hMWUFJUGRSaHdqUGVoZW1PVlFOU05Pa0lwdw?oc=5",
-          "pubDate": "Sat, 29 Aug 2026 14:31:20 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Bear encounters are on the rise. Here's what to do if you meet one - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVk4yckpUNGlpM2tzUUNmVWxQV2hBZk1WZWpaVV9HYkU0a2tWLXdVZGFhUnNPVnNSSldVaEhaOFdBWmJqN1ZvRHNma0owUVBwcmJsa1BxejBmeTJqMjdubmRRMXZSaUxtOVN6bFRKQzE1VlJXZkVvZ0NOSi11ZERaYzBvRlRKQ3Y2THNWZjN5YTRoWFV6MDhNajNVQmtVb25JQzFnU0dGcXlwYkQ0RFNFRg?oc=5",
-          "pubDate": "Sat, 29 Aug 2026 14:01:36 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Russia extends ban on diesel exports until September 30 - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbW4xY0FEZ1Q2eDNoQ05vdVE1VjNtNEF5cXUyaUcxNG9iekVocWJhb1JuclRRVnZvVEtvMFo4VmpQQzVtTTdLcVQtOFJQY28wb2JVaG9ZQWE2QTBrU01uTGdZcWVyLUtJd1ZpRm9TMVNZQlRVUHhsdG9fUWd3TExMQWNkbnk1UENEbm5zOThvWFdBRHRfMVlHNlhDQTFfa3dPZHZ1cG45OA?oc=5",
-          "pubDate": "Sat, 29 Aug 2026 13:54:09 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Italian state broadcaster RAI removes veteran journalist, sparking political storm - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeTd6a0dpVWh3dy1YdkZJYl82aTZKVjlmV2FIVHVtUnlZZ04yVUZGVTBtMHRYMUlBOUU4aFlnN2IxTEFqNTBrVUlGemJKWDk4ZV84QWVXYUJKTnJ4Mm1pWHp5Y01JZ1ZURE81ZHMyclRxcGszUDlsMV9nMFJhTmdmeF9Ha3h1WmtlMmpMV1c0Mno5X2V6QWlSSENVVFgzX2twb1hoUVlNQ2w4aUxxc25fY0NoU3ZfV1lpX1RvM1JHbENpS1NRSDNmY1Fwb2M5dU0?oc=5",
-          "pubDate": "Sat, 29 Aug 2026 13:12:13 GMT",
+          "title": "Bessent says disorderly yen moves can destabilize global markets - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZHBpa0Q1ZFFoeUswNkhnRWtLZEdNVmpSNU5Qd19FY2ZseVEtLTJNQ0J4SVNLUU83RDRWa0VyWWlhQlNUdXoxMldCa0VTXzlhZllsbnh6LXVPbDNSYW1rVmFyY0VNRHljVUlPZGR2MTFZTWotZ0drc2hoNHJJTDZzVEpUZW9ieEt2Ny15QmktV0l0MWx1Rnd4Y00xc2pIQ0FLZkxtdzlkUTZXMDYxOVBXX3lrMUtpN0d6?oc=5",
+          "pubDate": "Sat, 29 Aug 2026 16:47:43 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-29T17:49:55.863Z"
+      "updatedAt": "2026-08-29T20:46:16.105Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-29T17:49:55.969Z"
+      "updatedAt": "2026-08-29T20:46:16.235Z"
     }
   ]
 }
