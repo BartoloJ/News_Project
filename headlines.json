@@ -1,9 +1,15 @@
 {
-  "generatedAt": "2026-08-29T20:46:16.235Z",
+  "generatedAt": "2026-08-29T23:10:28.167Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+          "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 29 Aug 2026 22:40:51 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
           "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
@@ -35,12 +41,6 @@
           "source": "BBC News"
         },
         {
-          "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
-          "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 29 Aug 2026 16:15:56 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "Deadly strike on Kyiv warehouse prompts evacuations",
           "link": "https://www.bbc.co.uk/news/videos/cy8z979y9e4o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 29 Aug 2026 13:55:55 GMT",
@@ -54,11 +54,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-29T20:46:14.980Z"
+      "updatedAt": "2026-08-29T23:10:12.050Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Milo Yiannopoulos, far-right critic of U.S. immigration, is deported from U.S.",
+          "link": "https://www.npr.org/2026/08/29/nx-s1-5948731/milo-yiannopoulos-arrested-overstaying-us-visa",
+          "pubDate": "Sat, 29 Aug 2026 17:09:14 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Russian strike near Kyiv kills 37, in one of the year's deadliest attacks",
           "link": "https://www.npr.org/2026/08/29/nx-s1-5948714/russian-strike-kyiv",
@@ -90,7 +96,7 @@
           "source": "NPR"
         },
         {
-          "title": "Trump cuts to science advisory boards have long-lasting consequences, researchers say",
+          "title": "The U.S. relied on these science advisers. Then the Trump administration cut them",
           "link": "https://www.npr.org/2026/08/29/nx-s1-5945029/trump-cut-science-advisory-committees-consequences",
           "pubDate": "Sat, 29 Aug 2026 06:00:00 -0400",
           "source": "NPR"
@@ -100,16 +106,10 @@
           "link": "https://www.npr.org/2026/08/29/nx-s1-5947897/wnba-national-security",
           "pubDate": "Sat, 29 Aug 2026 05:00:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "How America celebrated and mourned Dolly Parton, in Nashville and beyond",
-          "link": "https://www.npr.org/2026/08/29/g-s1-140345/dolly-parton-appreciation-remembrance-tribute",
-          "pubDate": "Sat, 29 Aug 2026 05:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-29T20:46:15.207Z"
+      "updatedAt": "2026-08-29T23:10:12.196Z"
     },
     {
       "name": "AP News",
@@ -163,7 +163,7 @@
           "source": "AP News"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-08-29T20:46:15.690Z"
     },
     {
@@ -218,7 +218,7 @@
           "source": "Reuters"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-08-29T20:46:16.105Z"
     },
     {
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-29T20:46:16.235Z"
+      "updatedAt": "2026-08-29T23:10:28.166Z"
     }
   ]
 }
