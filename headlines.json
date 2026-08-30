@@ -1,9 +1,27 @@
 {
-  "generatedAt": "2026-08-30T18:01:33.422Z",
+  "generatedAt": "2026-08-30T21:25:45.570Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
+          "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 30 Aug 2026 21:15:42 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Eight killed and others missing after ferry capsizes off northern Cyprus",
+          "link": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 30 Aug 2026 20:02:43 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "'A giant leap forward': Nasa launches powerful new space telescope",
+          "link": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 30 Aug 2026 18:53:53 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
           "link": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
@@ -29,32 +47,14 @@
           "source": "BBC News"
         },
         {
-          "title": "Iceland votes against restarting EU membership talks",
-          "link": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 30 Aug 2026 16:11:44 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Canada installs large Lake Ontario sign in latest jab at US",
-          "link": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 30 Aug 2026 14:25:43 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "WhatsApp chat used to send cash for crime and extremism",
-          "link": "https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 30 Aug 2026 04:59:56 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
-          "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 30 Aug 2026 04:01:02 GMT",
+          "title": "British woman killed in stabbing at German railway station",
+          "link": "https://www.bbc.co.uk/news/articles/cx2zy118q7ko?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 30 Aug 2026 16:11:46 GMT",
           "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-30T18:01:32.252Z"
+      "updatedAt": "2026-08-30T21:25:42.402Z"
     },
     {
       "name": "NPR",
@@ -109,117 +109,117 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-30T18:01:32.361Z"
+      "updatedAt": "2026-08-30T21:25:42.948Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Meep, meep. ‘Coyote vs. Acme’ opens with $15.5 million, 'Spider-Man' stays No. 1 for fifth weekend - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNmdJaG1qQW56d0o2MlNmTkxHazRpb1B0Y1ZXUXdFcVpQanhlZFlTUjZhX1d5TFVOcFVVZ0QweG9iaDBueHFKc25sR2twMEpWWk5oOUVXaWNLakVLRGp1VjluSHQweXN5VjhhT29WRDdXRVdiWkRhYTJVSVdqYmhhOTJYRmc3YV9VRnNFYll0ODZKcmU4MWk1eGd3bw?oc=5",
-          "pubDate": "Sun, 30 Aug 2026 16:41:00 GMT",
+          "title": "US forces strike Iranian rocket launchers on the Strait of Hormuz in first military action in weeks - AP News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVGpkelhtWHpKQXVxRDdydU9CekxJS2FnYzFHcklqek5leUhjLUMwdGlJN2dIYzlrbG12UGY2QTNjd2ZMeW1IckUwYi14R0xabVpreXI4LUhLYnc3cHFWbG5ZWnp4bXJTdVdqWVRsbEJFNzFkcW41U3FEU3UycTVFcVlvUVZRVktJanBMWGl0d3otT2RLdnB0ZXUxR0xHMXM5?oc=5",
+          "pubDate": "Sun, 30 Aug 2026 20:44:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "At least 8 dead after ferry with nearly 270 passengers and crew capsizes off Cyprus' northern coast - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeGc5Y0Nzc3o4NnU5QkNEU3liU2pkb3g2MWUtenlvSXNiSU5JXzgzbWpjdk82b3ZPVksteS1FelpfOXYzWWlySkJIRGttTDhKcGxDUFdQLUhpOWtEUzVIWDlfSkdZbEFtazVXQXJrQkxNQXN3a0J6OTBEUU9KQWFPMC1CWHB3N3lFVEx3Rm5yeS1BWElOYjg3QXIycXYxa2FsdHFZR080dUVCZXU3Vnc?oc=5",
-          "pubDate": "Sun, 30 Aug 2026 16:09:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Nepal warns of more possible floods as communities grapple with devastation - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNa3NPeGkybU5zYk9oRUNteGFDbmJKcTlfZHh2Q2l4ZDU1OFZzdTJGRHNBSUJXcldlelVpRjlDRlFBVHBFUGg4bnpTWDFWTkxDaG1OYzdkcTFBT2o4aG11ZTlWYzNqN294THUxMjRqbVRzNTRnNUZKNUJuQWFxYnJUUk5SalRCUFFXTDMyZ1hDSldPZk1wSV81WA?oc=5",
-          "pubDate": "Sun, 30 Aug 2026 16:00:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Main draw play gets underway at the US Open, with Jessica Pegula playing early - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYTZXTld2ZkZXSXYyOEl0RERXNklTOE5jWUgxVDdTUUN4VWpuZUx4RlctQ2NyTllQSzluQUN4a1Z4cEl5X0llcnA0ZXBPOThCeHY2TjctYncwWjRfcFkyT0ViRjBxYWZIckF0YWMzUUw3bFlKV2xSZS15Z1MwbDJuZHZBbzBLRlZJX21j?oc=5",
-          "pubDate": "Sun, 30 Aug 2026 15:31:00 GMT",
+          "title": "Dozens evacuated from Grand Canyon after flash flood hits creek leading to the Colorado River - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQU0ZsenJBekRNWXdIZWdFcHdnYjZfXy1wZUZGSlZPMTlRNzF0TFhhTXVMMDBCT2pKUXBmVkJPNEtfdmFyMEdfcE5IUEQ1Ujl5cjFHS0xabU5HWVg1UGVQbXBib21faENqUGJOeHhfM1Y5Sjl0OVRBR2gxWjB5QXdCSGRPNDNMUWxvOE9TNEFvT3NibFFlRG9NbE5ROWIzczF3a3lBMGFEaXc?oc=5",
+          "pubDate": "Sun, 30 Aug 2026 20:30:00 GMT",
           "source": "AP News"
         },
         {
           "title": "What we know about Trump’s deal giving US access to vast oil reserves in Venezuela - AP News",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbXNxWElFTl8zZkM0SHliM3NOTGcxb0lEMDVjVUtmanZuOE16MEJScEtoajFwM0k4Qk5MQTM2dUtpc2psTVJMX2RyUjdncFNKTUtXMnRxejM1T2xTZi0tMUYxRkVUQnJKSThHMXJFb21PXzZNbGpXNGQ1aDlYa0tRV0E3Slp3bzNFM3hKc0cxY2Y1U3NMQkZBS1YtdmRoV0l5Z0w1WUN2N3l6bFVncGJYZQ?oc=5",
-          "pubDate": "Sun, 30 Aug 2026 14:29:00 GMT",
+          "pubDate": "Sun, 30 Aug 2026 19:53:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Olivia Rodrigo's festival is uniting women and girls behind nonprofits promoting their well-being - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOemtnTEtmOGF4aWV2U2EzSFhEdGR3V2Nib0s1ZzlTTzJaWVlmaTRhdURnazVHaWdnYWE5bWxpY3lweEJma2h5eDkycWxtTEJKUmJQQnZMaklGUHlSSmFfaWZpRmZNVGtkWlRHTEFQR0JTQ29jd1VUZkFTb2tUb0U3MDRIU1VwaUdvd1ZpaFBxVWNCV1VEX090dg?oc=5",
-          "pubDate": "Sun, 30 Aug 2026 14:22:00 GMT",
+          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
+          "pubDate": "Sun, 30 Aug 2026 19:26:34 GMT",
           "source": "AP News"
         },
         {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Sun, 30 Aug 2026 14:09:14 GMT",
+          "title": "An officer is dead and a second is injured in a shooting at South Carolina park, police chief says - AP News",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSTVDSXBqWmc5cHhaV1VlM0NuSmdWbTR3SEtLXzZEUDY1VGJLcU5FdGJqVWlMQjFNTXBYX0lTcVI3N1ctLVVkVlJBWC1heVBhQm1hcUlJdTYydnJRY2l2cllnLWFBUmxoc0hNQVNVQVlqanRabld1Y05XVmpzMG9EWFpxY0VVY0MzUS1aVFNLVS02MDBfbGpESmNZOWp6Zw?oc=5",
+          "pubDate": "Sun, 30 Aug 2026 19:25:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Moulton says Sen. Markey, 80, is too old for another term. Young Massachusetts Democrats are divided - AP News",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRVd2Zmhwel9UaXBSaEVGQWdtRDU1MkZBNEZCU1pBU3JvLVIxV3E4N2pRcmRTdnh3WGswekhTVlhMOUtXQXd5YmF4bjM1N0NWOFNCdUJOYjdhOGp4TC0tdE1fRWhhVHgwWDdQQjlOX1lGUzVaa1hlR1ZQSWFtU2dwTHAzdVB1VXJhbnlhN0JWT21lMDR3VU9kNzBUQU02UQ?oc=5",
-          "pubDate": "Sun, 30 Aug 2026 14:08:00 GMT",
+          "title": "Jessica Pegula shakes off nerves to win her opening match at the US Open vs. Elena-Gabriela Ruse - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYTZXTld2ZkZXSXYyOEl0RERXNklTOE5jWUgxVDdTUUN4VWpuZUx4RlctQ2NyTllQSzluQUN4a1Z4cEl5X0llcnA0ZXBPOThCeHY2TjctYncwWjRfcFkyT0ViRjBxYWZIckF0YWMzUUw3bFlKV2xSZS15Z1MwbDJuZHZBbzBLRlZJX21j?oc=5",
+          "pubDate": "Sun, 30 Aug 2026 19:19:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "1 dead and 5 wounded in a shooting at a rave in Switzerland - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRkU3bWltcTZvOERRdl9ndmFuTEVTbm1Zd0JMeHNULUxydUVQYm5CMGx1X0I4ZlRjT0FnZkxxZndlN0Vtc0wxZjlUQzZ5bjdibm9zNWUwbWpfM0lxNmpZNXpweW9SRDhxUXU4Q3JuWnVpVmZab1BUY3BxbVJwNWx1QnZXWE83dDljTnVXNlVobmE2M0lrVFUw?oc=5",
+          "pubDate": "Sun, 30 Aug 2026 18:34:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Nepal warns of more possible floods as communities grapple with devastation - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNa3NPeGkybU5zYk9oRUNteGFDbmJKcTlfZHh2Q2l4ZDU1OFZzdTJGRHNBSUJXcldlelVpRjlDRlFBVHBFUGg4bnpTWDFWTkxDaG1OYzdkcTFBT2o4aG11ZTlWYzNqN294THUxMjRqbVRzNTRnNUZKNUJuQWFxYnJUUk5SalRCUFFXTDMyZ1hDSldPZk1wSV81WA?oc=5",
+          "pubDate": "Sun, 30 Aug 2026 18:26:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-30T18:01:32.868Z"
+      "updatedAt": "2026-08-30T21:25:43.400Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "US forces strike two Iranian launchers on Iran's Larak island, US official says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTkpiVXljY0dfaG41QTlsRW1PXzVEMU9UUGRWYk41QzQ4UERCRnJ5TlVUSUloZXFTUF9ieVBhaGFxQi1iZ3NSOVRPODFnR3NQbnZxdWFJMnl6TmRwYnZqT3pOZFhWUEo5MzRVY2YtdEppVmNMSVQ2UVB0WW5zLThXNjIwdU9ZLUUyQVhWTENEQ3k0bGo2QUdNQVVHdWxSak91RkU5dGNlUFBOZjNqTDRuRGJRZHJHNWRuQTRiaDBSZFpjOTNGcGRV?oc=5",
+          "pubDate": "Sun, 30 Aug 2026 21:06:05 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Iran's Revolutionary Guards vow response to US attack on Larak island - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUmw0UHV3Nm1jZS02RVF5ZVY0aWw2S0JlUXI0bUttclN5NkNzem9tMnc1akVuUGd5MXZMdkhMSWxTRGtZa2x1a1dad3psVDI3aTJJQnVHcENXU0k3Zm1kdWw0T0NYek00T1lxSktzSmdHTnd0Q0tEZTJyQ3FrNGZReHhaSi1EeFNtLXlrc1hFd3J3UE5LRjh5N3pWUHRQQmhGekd4Qm9fVnVvZVB1eUM1bGdGQUpqNzQ?oc=5",
+          "pubDate": "Sun, 30 Aug 2026 20:08:40 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "At least eight die, 18 missing after ferry capsizes off North Cyprus - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNVlzWG1uLXVQZXVpTWtnajhCNzhhQV85eGNBTWc5V0NDYm91bWZHMFVSX2xUY19EU3RDRXF5d005RE8xUFZObEJsR2VqdUxGTWV3eUdVVm5ZLWxGLUtvMVNjWDFydlQxYUNudU5nOGMzNFo2SVVOZElxUk9OWDBWblNHMzloNEN6bnZJb3QzZU1wQXhET3BYeGQ4NERmT0VsYnQwQzVJVGc5SXk3YzJvWllBbw?oc=5",
+          "pubDate": "Sun, 30 Aug 2026 19:37:20 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Trump says NBC's Welker to be reported to FCC over characterization of his endorsement record - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOTRSM0lreVpORDBYVV9hYUZRdHhRVXRmaXhBVWNpRXJKdmRFdEFreUZ2TnliZm9xMTNzdVE5dFIzOGkwQ3N4TzJhX0c5LUNDdTFRS3p0MHU1Q2ZGRVM5M2xnZndlaklYTk9MaC1vb2JKOHJEWWsyM2ZOQ19OVEdGTExHY3p1Qk9yQ1lzUG5hMXRKTkM0UlV1QXdNSHh6RXhicE5qLQ?oc=5",
+          "pubDate": "Sun, 30 Aug 2026 19:34:15 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Ukraine defence chief to outline war plan as Kyiv seeks more funds - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX3pyLXRWVzhHRFhiUGpqQWNVbk1SV25DX2RuU1pYLTVfYnRDUzI1NzZiMjFIcjk3bEVSRF9weVhQVU9udXFpSUwwc1FHQVd1Sy0wNnpDeHVpTkVOMlF1cXc4cUNNakpuV3gwU3BDNGtISE5xWnk1QUxKZXdsSUgxNDR3NWcwRHFKNVpvQmZxUi1pdVBSOUQtTmJ3V0xIZzdDajFVVnNfZzJQY3NPRDNKS0JMeUhMMkU?oc=5",
+          "pubDate": "Sun, 30 Aug 2026 19:04:11 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Trump says US will refill Strategic Petroleum Reserve using Venezuelan oil - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeExELTZFbXpSSWtfaVM2N0VrcTR5VlR0OU1nSGw0SDlpc213OGFrbTBQNDVueWg4UlQ3aVd3QTdpQV83My04WDg3UG5zTWcyRGpKMy1ldjB3YU9WV3d6Sm0xb3NJV2I2am9BSldjOERGVS1Cbk51dlRobDZvdXUybkRYNUY1eFFpX3RiRmtEdjV5a0dvcm1jVEg0eFhqcFBZcHNjMTJaYWQ3c1hzOFJnVjExMUtVZkFaVTBfb0tvWko5eVh1?oc=5",
-          "pubDate": "Sun, 30 Aug 2026 17:41:21 GMT",
+          "pubDate": "Sun, 30 Aug 2026 18:01:33 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Iran's Khamenei urges Gulf rulers in written message to confront 'real enemy' - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTDhtblJ1TEhZZGpCTjZQVUNEc0lHMmoxXzJYVmoxUzh5V0I2MFVWMTl4SnBGTHN6bjFTd3VmNGh4ek5MdzIxdVI5OV9WNjZ1ZEhnQUFPNXVUWldFaDNDY0ZPX1JwQW4yQXJnaE9SMmRIbWU5bVlYOVE1QnhkVTAwcmRHNjZacUVGRkp3Q2pPczlOT01iLU9MUmRjN0dEN1hTTXdNUmtvUjc2aVZjS2tXZE5ES2IyV2l3WVVKdW00Zw?oc=5",
-          "pubDate": "Sun, 30 Aug 2026 17:39:12 GMT",
+          "title": "Alonso's vibrant Chelsea beat Brighton, Fernandes hits hat-trick for Man Utd - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSU1HeTB6cWpMel9sVzZleEVSdzB3UVZPUFBkQUFRa25iREVPemc5ckN3VG1VQnFsdXYxVVN3TEo3U25BRXRQVEdoN2N0T0dyRzBFTFlXOXpVZWQyQWE1dVhXSWtaaTRmdzJQS1djV0tkaEFqT2pJNDhkQTc3TVY0c3BHZzUzdklkV1dILWJieVZhcVN2NlZlcnE3MmFlaF9zOGtBampVVWRpdw?oc=5",
+          "pubDate": "Sun, 30 Aug 2026 18:01:19 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Niger says it regains control of airbase after soldiers mutiny - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdFhGUjNRU2FTZVljRzFkYmhEZnZXRHhZdDJhVng3eVdTSTZBLVRGc0hoSDBadTZ6TW1DUDhOTElKYzRQaTM0aWtqSGdNNnJfcFRxVm5kYU0tbzdjZjBFMTh2aktHdmdnUTZEcFJCaHlKRmVkSy0wRWRDeU9NOEpEVWM1Tml1X0k0WGplV2VWd3R3QzRvNlM3eEIyejF6cG9YdXRSQzE3VlRXZFZZ?oc=5",
-          "pubDate": "Sun, 30 Aug 2026 17:32:28 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US Treasury's Bessent faces G20 diplomacy test amid tariffs, Iran war, bond turmoil - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORVlaS1VmZVF5Rjh3RFkwVk40ZGpBSU1LLXM3XzQ1REFxbnl0aHREWXhieU9vUnU0aUdkTWgtNmJrYk9BRDE3aEllamozWFJVMHZ5QTJUS0pkckpwbjFVQ2dxaEhBaWZWZXg3a05ISG1Fb3k4aWV0QmRSbGFiOHdsQ0x6QWZjUUN6b3lsc2c5MEZOc2RCWXZXcERhdkN4NFJGVHBGejVxbTBZWDdvczdJamxDQ3Jib29xS1lzcURfX05MQ1BET25r?oc=5",
-          "pubDate": "Sun, 30 Aug 2026 17:16:27 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "At least eight die, 17 missing after ferry capsizes off North Cyprus - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNVlzWG1uLXVQZXVpTWtnajhCNzhhQV85eGNBTWc5V0NDYm91bWZHMFVSX2xUY19EU3RDRXF5d005RE8xUFZObEJsR2VqdUxGTWV3eUdVVm5ZLWxGLUtvMVNjWDFydlQxYUNudU5nOGMzNFo2SVVOZElxUk9OWDBWblNHMzloNEN6bnZJb3QzZU1wQXhET3BYeGQ4NERmT0VsYnQwQzVJVGc5SXk3YzJvWllBbw?oc=5",
-          "pubDate": "Sun, 30 Aug 2026 17:15:53 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Rescuers battle floods and debris as Himalayan disaster death toll nears 800 - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUlp4TDFMZW56NUZBeXVKc2t6UHFaX2xtekUxdGNnTU96YVJzczdybzFZNkpsUU9UQ3RUVFVfcmtGcGZXZ1cyTXRpRUE1NjlROFRkRFB4Q0hpLXgweFMtc1dIZl96Rk9Gb0N3bmpHWXVINm1qbW44SzJqQmVCalhCbjBsV081NTRvNFZTbi1GWVk5ZXdSblRyRmpfRldDTnJ2SnY4TFpSY0FEOUpkY3dqSTRyZTF2Yms?oc=5",
-          "pubDate": "Sun, 30 Aug 2026 17:09:10 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "'We're alive': Kyiv-area survivor recalls Russian strike that killed 38 - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONWoxSm1UNnk2MVVYY0YtM0FBamczZko1djdoZDBZdEtobFJWTC1EME1EemxLbUI3WVhwQTFDM3BFZGFEYXVWY2tHamUzcm1WZ0hUcVlsR1NwbEs3VDNqVUhYY3Q5emhmOHQ5ODIwUWE3Nm1mWEpHaWVTUE1XWGlKLVBZYzdENzlHcU9JdmZwTHFxTHlsRnpXdG9QMno1bzdEd09FUQ?oc=5",
-          "pubDate": "Sun, 30 Aug 2026 16:08:54 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "NASA launches powerful Roman Space Telescope, a spy satellite turned to the stars - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVUZyNnZKUzR6VV9kSG1yeEZhTkFNaF9rYUxvbGh1THRJMXBodUNMMmZIeV9xQzE3ZzNsZFdvWFFJZnAySDAwbDhFRklFc3VKR3Fuakk3MUo3cGFsVnYwbWFsZlpKaWFrR2F1dzNNVkREM1RibDY1cVkyeVlnVkppOFh1Q21ieFFVQnZPeTl5dXNQYVhYOXp2TEM2N2s5RHVibkE?oc=5",
-          "pubDate": "Sun, 30 Aug 2026 15:57:37 GMT",
+          "title": "Germany's Merz says victory for AfD in Saxony-Anhalt would deter foreign investors - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUFNSTUdGTkNaaDdiSkt1UF92eVZkSWRRRGV5YUJuUmtuam5Nc0s0N1RUYXdNZUZwUVZ1dW9pRkJPR0RLMnJuLVFqUGlYNXNPWjRKbEF2LU45clp1V29RUG5aQkJSRWp3MktNR3BJYXBWTEpTNGkxN0dPd0drcVd0WFMxaC00VEpTWGN0MEtKWF9WdTh1RlA2TGVVbnkxWmtONGtSNGJieTlCclNjTXFydkVfQW14Ync?oc=5",
+          "pubDate": "Sun, 30 Aug 2026 17:42:13 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-30T18:01:33.287Z"
+      "updatedAt": "2026-08-30T21:25:45.466Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-30T18:01:33.422Z"
+      "updatedAt": "2026-08-30T21:25:45.570Z"
     }
   ]
 }
