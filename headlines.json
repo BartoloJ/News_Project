@@ -1,19 +1,37 @@
 {
-  "generatedAt": "2026-08-30T01:32:52.956Z",
+  "generatedAt": "2026-08-30T08:08:50.943Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "Canada installs large Lake Ontario sign in latest jab at US",
-          "link": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 30 Aug 2026 00:17:25 GMT",
+          "title": "Iceland on track to reject EU referendum as counting nears end",
+          "link": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 30 Aug 2026 08:08:30 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Manhunt after one killed and five injured in Swiss shooting, police say",
+          "link": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 30 Aug 2026 08:06:13 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "WhatsApp chat used to send cash for crime and extremism",
+          "link": "https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 30 Aug 2026 04:59:56 GMT",
           "source": "BBC News"
         },
         {
           "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
           "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 29 Aug 2026 22:40:51 GMT",
+          "pubDate": "Sun, 30 Aug 2026 04:01:02 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Large Lake Ontario sign installed in Canada in latest jab at US",
+          "link": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 30 Aug 2026 00:17:25 GMT",
           "source": "BBC News"
         },
         {
@@ -33,32 +51,26 @@
           "link": "https://www.bbc.co.uk/news/articles/cvgy79wmv4jo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 29 Aug 2026 19:06:28 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Australia usually hosts the world's biggest cuttlefish mating event - not this year",
-          "link": "https://www.bbc.co.uk/news/articles/c75gyw0nkzno?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 29 Aug 2026 18:30:32 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Right-wing commentator Milo Yiannopoulos deported from US to UK",
-          "link": "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 29 Aug 2026 17:52:42 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Deadly strike on Kyiv warehouse prompts evacuations",
-          "link": "https://www.bbc.co.uk/news/videos/cy8z979y9e4o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 29 Aug 2026 13:55:55 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-30T01:32:51.807Z"
+      "updatedAt": "2026-08-30T08:08:49.726Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "AI chatbots may be better than search engines in guarding against foreign propaganda",
+          "link": "https://www.npr.org/2026/08/30/nx-s1-5876436/chatbots-search-propaganda",
+          "pubDate": "Sun, 30 Aug 2026 03:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Icelanders vote on whether they want to join the EU",
+          "link": "https://www.npr.org/2026/08/29/nx-s1-5948759/iceland-european-union-referendum-vote",
+          "pubDate": "Sat, 29 Aug 2026 21:47:44 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Milo Yiannopoulos, far-right critic of U.S. immigration, is deported from U.S.",
           "link": "https://www.npr.org/2026/08/29/nx-s1-5948731/milo-yiannopoulos-arrested-overstaying-us-visa",
@@ -94,132 +106,120 @@
           "link": "https://www.npr.org/2026/08/29/nx-s1-5947960/instagram-meta-social-media-teens",
           "pubDate": "Sat, 29 Aug 2026 07:00:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "The U.S. relied on these science advisers. Then the Trump administration cut them",
-          "link": "https://www.npr.org/2026/08/29/nx-s1-5945029/trump-cut-science-advisory-committees-consequences",
-          "pubDate": "Sat, 29 Aug 2026 06:00:00 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Why is one WNBA team calling in national security experts?",
-          "link": "https://www.npr.org/2026/08/29/nx-s1-5947897/wnba-national-security",
-          "pubDate": "Sat, 29 Aug 2026 05:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-30T01:32:52.020Z"
+      "updatedAt": "2026-08-30T08:08:49.958Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "Dolly Parton - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE91akh0RW4tMDVuaFZHSzVsTHBrTHdaelBId3RJa1E0ZFQ4V2ZXa1pjczYydXJpSGJzR2wyMEJUU0ZrMF83ODJoeFlYZw?oc=5",
+          "pubDate": "Sun, 30 Aug 2026 07:21:06 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Nepal warns of more possible floods as communities grapple with devastation - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNa3NPeGkybU5zYk9oRUNteGFDbmJKcTlfZHh2Q2l4ZDU1OFZzdTJGRHNBSUJXcldlelVpRjlDRlFBVHBFUGg4bnpTWDFWTkxDaG1OYzdkcTFBT2o4aG11ZTlWYzNqN294THUxMjRqbVRzNTRnNUZKNUJuQWFxYnJUUk5SalRCUFFXTDMyZ1hDSldPZk1wSV81WA?oc=5",
+          "pubDate": "Sun, 30 Aug 2026 06:52:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Olivia Rodrigo's festival is uniting women and girls behind nonprofits promoting their well-being - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOemtnTEtmOGF4aWV2U2EzSFhEdGR3V2Nib0s1ZzlTTzJaWVlmaTRhdURnazVHaWdnYWE5bWxpY3lweEJma2h5eDkycWxtTEJKUmJQQnZMaklGUHlSSmFfaWZpRmZNVGtkWlRHTEFQR0JTQ29jd1VUZkFTb2tUb0U3MDRIU1VwaUdvd1ZpaFBxVWNCV1VEX090dg?oc=5",
+          "pubDate": "Sun, 30 Aug 2026 05:25:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Sun, 30 Aug 2026 05:12:02 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "USS Abraham Lincoln sails past Singapore on its way home from Middle East - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWFFVWEFacy1QR1lRdDc2eW9LMUlXRS1hM1Nfang4YzZjN2tfakRVS3FadjZSeWFWeVA4WGxJTUZJVENEbElNXzVNV1RzaWxEanVsXzl2M0s4UU5pSzZNZmx4MWx4RzYxVVpienpTeVF4UmNNcW9SRjZvbzlZajF4eGlWRWUtc0dOT2lKRE85aWJMUUxXN3RMQWxPdEdGZkZnWjh2ZjRkQXlLZW8zeFJJbzNUNmVFRmdf?oc=5",
+          "pubDate": "Sun, 30 Aug 2026 05:00:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Spinning and dipping, Minnesota fairgoers delight in the classic Tilt-A-Whirl ride as it turns 100 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbWUxb0w5SURxTndDa2NmSEhXRmNhTjBjMjBFQTl2ZTdrc1ZBRWhES3FhNDNqQTBaR0t2ei16TVg5RVhWZlkwV2NFclNOYlFyemJPNTA1NGFrbG5sSUdjYlVjZVNEckk5NEJVOUJpSHZnRWNZVXpsdFFKMHI0b1FUNF9ObGpldzh0ZDg3M0VseUpxUzRkcXNOdW91VlV0QQ?oc=5",
+          "pubDate": "Sun, 30 Aug 2026 04:22:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Nepal-China flood survivors reach safe areas as families await news of nearly 3,000 missing - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaGxpdW44Q2I3WGtJczYyMF9nS1Q2RHpQeWxySF9ZYW5yU3pDSHB3dC1DeTJUSU1fWDdlUjBqTXlXQVE1d0VPVlhCOXZ1RHVSb2hBRDg3SVJpVXZRZVp3S1ItcmpaNEFzRHp2X1dvVGd3TW90VjF5VXE5WmJlYmhtSzIyX1d6YkRfVzlKUQ?oc=5",
+          "pubDate": "Sun, 30 Aug 2026 01:35:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Tom Cruise announces a follow-up film to ‘Days of Thunder’ to hit theaters in 2028 - AP News",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYURKd2FSRjN1NFNuelVJSUk3dVNra1lUaG9aMm1qQlFwY2xQNFdGMGN4ZktFa2J2aFNZVlFjQmhLRWZLcFptMnU2T0NXSzZCdXBKR21rR0FKcHlBRFpoWTkySjJHSmRMYndjWExyNGZJbzNDR0dLOWozSUlkLWk3dGhCUG1fNVdCZ2hlVEM4SlpWa1BCOGtVNA?oc=5",
           "pubDate": "Sun, 30 Aug 2026 00:32:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Dozens of soldiers killed or arrested after an apparent mutiny in Niger’s capital, state TV reports - AP News",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVzZFaFJKU2dpTXV0MkluVEthajhsY2tVSDFqM0poUXpBOTNuRGUxZXRKZEpBam1DQWNBdWFzUnlHM3hmM21ZWkh5REZBM0R3YnlKTTVMQnZacFhWQ1c4YUFuQjFqZ095QnliMGNxSEE1TzZqQ1JOVTJlVVRJRlBWLUoybVVSbDg5MzNNd0pkQ1lCREx5aS1pdFRzTUptMTZWTHJ2TklBV0RjYVVnYlU0Q3hicWN0eXRHVDUzb0FR?oc=5",
-          "pubDate": "Sun, 30 Aug 2026 00:13:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "An officer is dead and a second was injured in a shooting at South Carolina park, police chief says - AP News",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSTVDSXBqWmc5cHhaV1VlM0NuSmdWbTR3SEtLXzZEUDY1VGJLcU5FdGJqVWlMQjFNTXBYX0lTcVI3N1ctLVVkVlJBWC1heVBhQm1hcUlJdTYydnJRY2l2cllnLWFBUmxoc0hNQVNVQVlqanRabld1Y05XVmpzMG9EWFpxY0VVY0MzUS1aVFNLVS02MDBfbGpESmNZOWp6Zw?oc=5",
-          "pubDate": "Sat, 29 Aug 2026 23:15:05 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Russian strike on a Ukrainian warehouse kills 37 in the war’s deadliest attack this year - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMDZoaHVmSENmSUJQcmlhVnY2R181UXpjdnZIQlJ1YXJsZzlGZGM5U1dxY0w5eERtLXQ5ajJwWF9ib3pKQlBNam5XU0dQamczNlhxcjdGU2RxbEthaGFQQnhKcXZ6TkQxdW5rWGZIZERoMTBPaFZzR01jeHFEMG05N2kzRTNnemVnQkJvRW1Ga3lET0k?oc=5",
-          "pubDate": "Sat, 29 Aug 2026 23:12:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "El-Sayed apologizes for comments he made responding to an attack on a Michigan synagogue - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSnVLbXdYY0JCUk1NeXotZE1WUFNyNG5ITm5GVUpEQnplT1BFQ0d6SWxPTjlIdC1va2JHM0duRTRZUUpnWUxTSmo2cDZPY016d2l5OWZBcG1oUnNJekV0M3U2WW1LSjZBNl8xSjNlbktVT2NRdlNISHkxeXlqdWp1UXhUUHEtZzg1SmVYYlJUcmE5bzQzSGlwZkZMYVk5eWV4QUJUNFhYUlk?oc=5",
-          "pubDate": "Sat, 29 Aug 2026 22:02:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "What we know about Trump’s deal giving US access to vast oil reserves in Venezuela - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbXNxWElFTl8zZkM0SHliM3NOTGcxb0lEMDVjVUtmanZuOE16MEJScEtoajFwM0k4Qk5MQTM2dUtpc2psTVJMX2RyUjdncFNKTUtXMnRxejM1T2xTZi0tMUYxRkVUQnJKSThHMXJFb21PXzZNbGpXNGQ1aDlYa0tRV0E3Slp3bzNFM3hKc0cxY2Y1U3NMQkZBS1YtdmRoV0l5Z0w1WUN2N3l6bFVncGJYZQ?oc=5",
-          "pubDate": "Sat, 29 Aug 2026 21:08:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Tadej Pogacar requires surgery on broken clavicle after head-over-handlebars crash in Spanish Vuelta - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeVo4MjUzSmY1RVhJaGdTY1hhZERhallPTUFaNE9US1ZhNzRUcWtsSDhwMUFrNTNxSDRvZHN4TVFyRnFPTWlvcDRacjFhMEt1N01qdmZvVjVUTk9tVFRuMEFhUkRiOGQwNHhva29TYjZCdjZVNVd1NElRb1hxeXMzTzNVSHo5OFI1NWpLX2thWWlNdkJfbVNlZlpn?oc=5",
-          "pubDate": "Sat, 29 Aug 2026 20:59:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Natasha Cloud dismisses Enes Kanter Freedom as Sky ban him from home games - AP News",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUGpmZ1dBRzJZRGpwUjFvdkhZeXllY1dQUjNvSGUyOWRDUUpVeFZzaHZsS1RrWV9ld0wxa2c3YWFfLS1Idm9XWWIwOUZUNVVTSnFoRFpLZVF2cnRYZl9FM1UzRHNfbHNQakdjdThjdTRxUmgwaDk0NGl4bWotbDMtVGRzQQ?oc=5",
-          "pubDate": "Sat, 29 Aug 2026 19:58:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-30T01:32:52.477Z"
+      "updatedAt": "2026-08-30T08:08:50.340Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "GM union deal would invest C$1.1 bln in Canada auto factories amid US tariff pressure - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMDZ0M25LQzd4Y0NlQUxmUERXTE9tWkNiZjRvdUdORjJYcVdQX3VmWXJQdFFQV1dVaElRLXV6Vmo0X0taNGJEU0xQV1dyYmxsWFU3c3FUME5FcGI5N3JYc2prYnpYM2xzS1JjdHdGald0QXZsYUZ1ZEdtRGg3ZHdkTGpMT0ZaV2J2U0JQLVI4Qk9MZ2RmNmhPcHpPdUZCckI4LU96TWVxcnJUbW1ROGlfWjRrYXpDZVFIVjNraWlLeUtpbEd0TXBJVzZOZGY4a1pJakdOZjJTaS1jLWF4RFE?oc=5",
-          "pubDate": "Sat, 29 Aug 2026 21:15:25 GMT",
+          "title": "Zambian opposition leader Mundubile charged with treason, lawyer says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeEdPX2NEbXlCeW1idGs0dDItSHAtMDcxNTdBWVBUOVVYbnk3WkdUbkxHQ0VBeGl5aGFTTkpXcnUwejBrVk1xQjFmT3Z0eThIaVRXbHVtNy1ESXBETER0Sk9PVFJyM0RDcTZTamUxR1N0VlplaTFuVVdWcWFJZHZ2T1FFWWdTSU14MTNFT3o0dUF2Q0ZiSUQtUFgwaFhzMmRwWUVGRE82ZndKck9MankzUTlibzQxcGph?oc=5",
+          "pubDate": "Sun, 30 Aug 2026 06:40:39 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Tadej Pogacar forced to abandon the Vuelta after crash in stage eight, Enric Mas takes overall lead - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYVU5RThXeTlES29neUxHbVNtejN5ZTQzaFZoOUZpYThtaGFvNHEybXMzUE5vSEVWX01DVU9Ma05YS3BzU2NsQnFMQ1o4WGVxTkY1aDBURVV6TkJ4VEcwWFMzYzdYS1dCQkg1YU05Zjh6OGJKSVdOMTBORHhmTF9PcF9oSE5iYVhIVVpjYVlkQUhSRkNtbGZkRUlVbVJ1Wk9uUmc1YVl3?oc=5",
-          "pubDate": "Sat, 29 Aug 2026 19:15:54 GMT",
+          "title": "One dead, several injured, in Swiss shooting incident, police say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVExIWW1kRXlDMzJSRlNJRE1Id0pSTmJUUUxzc09oUmlxQVdhb3hHbWRZcTdkRFJPOFlCS1daejVwai1mWVBmTHRuMTlEU0tZTGp2UlRKWDFmTGYwYVNsTUZBMmxIdlEyQ2ZCcnJDSVBiMzBqLUo5bmt5MGhYeTFvd3pCSXNfdHhmUWVnaHRpZ3FLbGpZb3ZyUklmVVZkNXRxYWxPNlE1aw?oc=5",
+          "pubDate": "Sun, 30 Aug 2026 05:43:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Norway's King Haakon honours 'dear father' Harald in first speech as sovereign - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcEtEeDkxNXc0Zks1OENiT3RZTl9oLWpXNjZfZndzdk9RbHo5RVczY2xvSXB2MHJvVkRPV0dob2ZMamFld00ydUt4VEdqVnQ3QkVxMjBGYWZrSThscjJvOXpjdlBmekUtSzRCRXdGNWpqNnJDaTR0VHFzZ213eVZjZWxkR0lwbFN5TlNlUlZGb0xOUXcxYVdpSGpMY2pMZUdpa0pB?oc=5",
-          "pubDate": "Sat, 29 Aug 2026 18:51:43 GMT",
+          "title": "Europe's central bankers fear more turbulence in testy U.S. relations - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTFd1SEtUeS1UNHY5aUFHVk9FeS1NRzROLUZUQjlDVk9pOGdBcmtuNTB5ZUVmR1QyOWRkTm9HRXBmT3Q1M3ZvUEk3MDBRajJLNVhYb09tS2xNeGVhUFRVa3N1TkxmWHVVNWpyT1pGQU1xQU9lTlU2aVBtU05tUUpSVnZNZnIwT29idFNwcHhvTFMxSTJvOWdMSUt3MkhUNGhrM1JJb0ZtMFpnYjlNcFg3aFZOMy1aQWM?oc=5",
+          "pubDate": "Sun, 30 Aug 2026 05:06:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Far-right commentator Milo Yiannopoulos deported to UK - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObURVMERBQWV0QWJua3FzNktCUjV4dE1POXg4MTBpQi1CTFJzSlpaMnpZZHNnR3VHUXpCeDdmQVdTQXU4UlFFLUtRd3JCejdiUERFNzZHTnpmTHFLM2JxMENIY0xrSUN4NjZXbU9JeFpmVnppMmlWY1F2SkdOY0NORElUN3lIX1FwVGc0RkIwSkNHM3VBbE5pYm1QNng?oc=5",
-          "pubDate": "Sat, 29 Aug 2026 18:16:34 GMT",
+          "title": "Nepal-Tibet death toll 750 from Himalayan flood, 3,000 missing - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUlp4TDFMZW56NUZBeXVKc2t6UHFaX2xtekUxdGNnTU96YVJzczdybzFZNkpsUU9UQ3RUVFVfcmtGcGZXZ1cyTXRpRUE1NjlROFRkRFB4Q0hpLXgweFMtc1dIZl96Rk9Gb0N3bmpHWXVINm1qbW44SzJqQmVCalhCbjBsV081NTRvNFZTbi1GWVk5ZXdSblRyRmpfRldDTnJ2SnY4TFpSY0FEOUpkY3dqSTRyZTF2Yms?oc=5",
+          "pubDate": "Sun, 30 Aug 2026 03:45:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Israeli settlers stage new attack on home in West Bank's Qusra, witnesses say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaDJ3eXpHdUxRbndBaEJmblBpeC13Vk5sMF9lSGJOb3EwSzhDYXBWZnBjYWxqRWgyaGpKNDNsZWxacjRMWF8tQjNvQmNORXNEeVI0TG9nOVBSa2hhY2FFdklhVmVSNGxTalM0bWdtczdPWnd0d0FEeGNTRXdhN0I0eXBVRUFFRHpTX21wQUtJU1FqVmYyRTN2ZmZiNHEzV19OOWVmN3NPcE9SVjZzT29CY2U2bjRXdTAwVXIwcHU3Qjg?oc=5",
-          "pubDate": "Sat, 29 Aug 2026 17:58:32 GMT",
+          "title": "Australia's far-right party makes further gains, taking seat in western state - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNT1AtZ19CUEgwbW41N3JlTkc3Z3M0U1EyZ1RmLWx4ZGxqVXBTVjRhRmZZb21GeU5oMGlkMUY2OGlWVmcyeUtSbW03WW4yOHNkTWRVT2NILTVYNGpxcWtySXRwaDVUamFkZU5jTVRmaXlRMklic1cwVnRkYjAyUGJENlBmSHBMQzlLQVVpLTlMNDFGMDdkM1RHQ252TzZvdWcyQXNKQlVWRndHUUZIUUUtX3VYOVp0YVNMeUlWOElocVVKZjN2V0E?oc=5",
+          "pubDate": "Sun, 30 Aug 2026 02:52:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Storm leaves one dead, two injured in Cyprus - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWjJneWlPWFZzVUZpdk00MkpmZmZUb0J5b1pEaXdPdzMydEMzc1BPVk8wT0VvcGN6eGRDZmw2NGFXQldtblRnNzU1WGhBVzhOUUR4Y01kOG9qX1JEZ0FLWWRDVzZfeUdtNlpMU2JCdDYxU2dVUFRqVmp0QjlTY1JaWWRPMWVQNkN0OUhGVU9OSlozM0NCOVVENEoxRmZaQQ?oc=5",
-          "pubDate": "Sat, 29 Aug 2026 17:48:18 GMT",
+          "title": "South Korea names veteran technocrat Lee Hyoung-il as new finance chief in cabinet reshuffle - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVHRkTGtkeEdMVDNXUFBNVzM1MnExNlhHYmhEMHlvVEhkV2VBd0xCX0MyOXBmT3N5cER6aV9uS19Ub2tnUUg1clZmNEJnQUFmVzNHMDJwcVExeHBqdno5T1QzWEpHWUtnNFNTLUVid1k5OFdUQU9ESzA1M0J6c04tT0Rrbm1rY0hpZFhRQW1sNlFQMl95bmpyZEhOYVUzYV9oV1IxN0xVVG5xLVVqbTBBY21maHdhcTZNb0R4UFV6UXBMRG9lb01rRjdyaHk?oc=5",
+          "pubDate": "Sun, 30 Aug 2026 02:44:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Bear encounters are on the rise. Here's what to do if you meet one - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVk4yckpUNGlpM2tzUUNmVWxQV2hBZk1WZWpaVV9HYkU0a2tWLXdVZGFhUnNPVnNSSldVaEhaOFdBWmJqN1ZvRHNma0owUVBwcmJsa1BxejBmeTJqMjdubmRRMXZSaUxtOVN6bFRKQzE1VlJXZkVvZ0NOSi11ZERaYzBvRlRKQ3Y2THNWZjN5YTRoWFV6MDhNajNVQmtVb25JQzFnU0dGcXlwYkQ0RFNFRg?oc=5",
-          "pubDate": "Sat, 29 Aug 2026 17:48:01 GMT",
+          "title": "Venezuela's interim president says US energy deal will last 25 years - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdGx2YWRqWWZqT00zSkV3bVZVazJKdjVDbTlKUWM1ZVdKRDEtZGkxb1N2Vy10MURlOEE1dXZ4NkMwXzBvb0xDMGZITmJHT2JGUmh6TlRhaUV1YmpIZ0JmV2lSUk9YQVBSeFBwNlI2ZW1JanZvSS1pSUtNMzFnaFRTUy1SUkJKZXpvN3doOHM5aVpzTjM2UWdsSVhqM0xyTm9TbHhOOWZnUlVmWVNDVjhQNTJGeUVHcUZOSkg4?oc=5",
+          "pubDate": "Sun, 30 Aug 2026 02:29:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Russian strike on Kyiv-area ammunition depot triggers blast, killing 37 - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdk5FRC00VjkxVTRuVXJFam1IaTVqcmV6R2pXX2pJME1fYXkzSFc0NWoyQXpmdGxYeno1ejV0Rk9jZGd6bDliLUdqcm9fWF8ybFhNUmFHUnAxdkEzdnNSRFowYW1MTE1qSUxKTHJLQjZrak5tdkg0NEd4MkFhTDFGbmNYWlBFSlU3Sy0zRU9kM0FEMVpva3VoTy1Xbmd6NF9JZ04zRXROcUxyOVJEc0U1Q1hn?oc=5",
-          "pubDate": "Sat, 29 Aug 2026 16:58:30 GMT",
+          "title": "US to take 35% stake in Venezuelan mogul Betancourt's oil venture, WSJ reports - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQlNFejhFZ3hzSkp6dDhBa1RMMHdwUFY5YVc5Y3J6WXRVbmZyVmR4cFVrcEN6WXNKd1Q2cUVYdVZMM0hwT1JQZW0wNDdvNGt4Z1h4dG5VUE5zdlNLQWZEWUtBbUJodHR6TmhJS0VfbkhScUdBaUxMU2JhNk9QTDVVRFo1QTRTd0V1Q1RvMWVMRDBaNG1UOWxHR0FaSURoVFp1am9OeHowRWRRSmtjSkRvTHF4SXpRRzBBRURGeTV2bjRjYjA?oc=5",
+          "pubDate": "Sun, 30 Aug 2026 02:01:00 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-30T01:32:52.855Z"
+      "updatedAt": "2026-08-30T08:08:50.724Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-30T01:32:52.956Z"
+      "updatedAt": "2026-08-30T08:08:50.943Z"
     }
   ]
 }
