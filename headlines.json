@@ -1,31 +1,31 @@
 {
-  "generatedAt": "2026-08-30T23:44:58.332Z",
+  "generatedAt": "2026-08-31T04:55:40.247Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "15 hikers feared missing after 'terrifying' flash flooding hits Grand Canyon",
-          "link": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 30 Aug 2026 23:43:24 GMT",
+          "title": "Iran vows 'decisive response' to first US strikes in weeks",
+          "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 31 Aug 2026 04:54:32 GMT",
           "source": "BBC News"
         },
         {
-          "title": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
-          "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 30 Aug 2026 23:37:55 GMT",
+          "title": "Eight killed and 18 missing after ferry capsizes off northern Cyprus",
+          "link": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 31 Aug 2026 03:56:15 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "15 hikers feared missing after 'terrifying' flash flooding hits Grand Canyon",
+          "link": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 30 Aug 2026 23:52:27 GMT",
           "source": "BBC News"
         },
         {
           "title": "Nepal flood relief vehicles trapped as heavy rain turns roads to mud",
           "link": "https://www.bbc.co.uk/news/videos/c5ydwy004v0o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 30 Aug 2026 20:40:02 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Eight killed and others missing after ferry capsizes off northern Cyprus",
-          "link": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 30 Aug 2026 20:02:43 GMT",
           "source": "BBC News"
         },
         {
@@ -54,11 +54,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-30T23:44:57.048Z"
+      "updatedAt": "2026-08-31T04:55:39.199Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Arizona's taps won't run dry, but water bills will go up under federal plan for Colorado River",
+          "link": "https://www.npr.org/2026/08/31/nx-s1-5945480/arizonas-taps-wont-run-dry-but-water-bills-will-go-up-under-federal-plan-for-colorado-river",
+          "pubDate": "Mon, 31 Aug 2026 00:01:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "What Argentina gets right about youth soccer — and what the U.S. gets wrong",
+          "link": "https://www.npr.org/2026/08/30/nx-s1-5924666/what-argentina-gets-right-about-youth-soccer-and-what-the-u-s-gets-wrong",
+          "pubDate": "Sun, 30 Aug 2026 22:27:49 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Families of pilgrims likely caught in floods are desperate for news from Nepal",
           "link": "https://www.npr.org/2026/08/30/nx-s1-5949351/families-of-pilgrims-likely-caught-in-floods-are-desperate-for-news-from-nepal",
@@ -94,132 +106,120 @@
           "link": "https://www.npr.org/2026/08/30/nx-s1-5948814/launch-nancy-grace-roman-space-telescope-nasa",
           "pubDate": "Sun, 30 Aug 2026 06:30:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "How a comic book store got swept into the tariff storm",
-          "link": "https://www.npr.org/2026/08/30/nx-s1-5939521/tariff-refunds-canada-trade-war",
-          "pubDate": "Sun, 30 Aug 2026 06:00:00 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "From Appalachia to Africa: Why Dolly Parton was beloved across the continent",
-          "link": "https://www.npr.org/2026/08/30/nx-s1-5946399/africa-dolly-parton-fans",
-          "pubDate": "Sun, 30 Aug 2026 06:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-30T23:44:57.171Z"
+      "updatedAt": "2026-08-31T04:55:39.245Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Lake Ontario now called Lake America on Google Maps for US users after Trump ordered name change - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWnhMZUl2X0dLWlh1LVY5UWM3b2l2WXRSd3RtY082NjMwV05leTZNczRWN3U2d2NSMHhGblVXeTlsczlWWDVaN3FQMURMUHV2Z3NoZGZUZWpsbHo4eE1qdFdXRGw1QWozV25ibVB0SnA5NWtaOXV0Y3NMWXJsc0ZUX2NRcE4yd1lQRGF5TXRJcw?oc=5",
-          "pubDate": "Sun, 30 Aug 2026 22:39:00 GMT",
+          "title": "Body of 46-year-old man recovered after flash flooding in Grand Canyon, park service says - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQU0ZsenJBekRNWXdIZWdFcHdnYjZfXy1wZUZGSlZPMTlRNzF0TFhhTXVMMDBCT2pKUXBmVkJPNEtfdmFyMEdfcE5IUEQ1Ujl5cjFHS0xabU5HWVg1UGVQbXBib21faENqUGJOeHhfM1Y5Sjl0OVRBR2gxWjB5QXdCSGRPNDNMUWxvOE9TNEFvT3NibFFlRG9NbE5ROWIzczF3a3lBMGFEaXc?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 04:34:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "US Treasury blocks certain journalists from G20 meeting in North Carolina - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYjVPYXBuYXdIZUtXVkN4VzRJVlA3aU83Sjlrc3hpQXhvT1VtQ3p1Q3gzdWhETEJVUFgxNkJBeXB4c3ZpY2thanU3MkFmRHJqNEVxYjdfTzd1VVF4QjFLY3U0dHhmeTRwS19Ua1VEMDlOQkRCZDBKaG1tSVZHVkw2SHRLRjBwYmM5ZVpGWWxVTEVDM0c2SjlR?oc=5",
-          "pubDate": "Sun, 30 Aug 2026 22:16:00 GMT",
+          "title": "Novak Djokovic loses in opening round of US Open for first time, falling in 5 sets to Mariano Navone - AP News",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSzBQb1Y5ejFYU0pPZGFPdGllQlp1aG9GLThWbFk0RG12N3o2b3Y1eW1kNDZELWI3Uk9URVZaVEtPcnBMNzdwaGlxX2JHUWZreWVGcGx2cDNiQURZOUo1M1dzRHZBRjExMEJoVHBpZlp5S1hTSFF5YzhuRWY0Mnp3cVJXTVNJQkpfNWdDeHY1N1p4TXc4R0NYSGtjNnltQQ?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 04:01:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "What we know about Trump’s deal giving US access to vast oil reserves in Venezuela - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbXNxWElFTl8zZkM0SHliM3NOTGcxb0lEMDVjVUtmanZuOE16MEJScEtoajFwM0k4Qk5MQTM2dUtpc2psTVJMX2RyUjdncFNKTUtXMnRxejM1T2xTZi0tMUYxRkVUQnJKSThHMXJFb21PXzZNbGpXNGQ1aDlYa0tRV0E3Slp3bzNFM3hKc0cxY2Y1U3NMQkZBS1YtdmRoV0l5Z0w1WUN2N3l6bFVncGJYZQ?oc=5",
-          "pubDate": "Sun, 30 Aug 2026 21:54:00 GMT",
+          "title": "In one Nepal district, flood catastrophe is measured in bodies and burial trenches - AP News",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQakpPbkg3Mmdya0hGeFV3Z2JsdVBuSE9sb0Y5WVVXOEpmTUJPUE1mc3ZBeW8xb2ZpRlZqYWFTTTBTeTl5MDQ3VmJScmtDZkpzMDNtSFRvU01ENnhYcTZra0lKVGd3RmFjQUNsNkFWbFF5akE2LTk3Y2NGNWtVYXgzSU15bTVIM0JfOHQ4cmFNZVFOM0ZYZFdEcW1vUW9MZmdVYnVha0c4elFLTU52SW80Um9vSmo1QQ?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 03:06:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "US plans to sanction another bank in effort to clamp down on Iran transactions, Bessent tells AP - AP News",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdldWT1BUeFUxSlNnaU9rZTl5eDlWd0dSejRvTUg4YkhEZzNIWjVGc0x3VFVENkltZ2dKb3JleFc0YTRQX0M1NGVJcUhXd0l3endPSHFIZl90N0tHSW80S21ZVUhrOG1Yb1RrMTlBX2UydVFCMEV1MjQ1UDI5Z3RkTDQ1TjY3Z1BseXQyZ3Q5eVBENDYwQ2s5Rm9HMkhIQQ?oc=5",
-          "pubDate": "Sun, 30 Aug 2026 21:52:00 GMT",
+          "title": "Iran’s supreme leader calls for Muslim unity against US and Israel, and other Mideast news - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORXNXUlRyRVRBMTBUdkJPYjk4a1lyalIyS04tY0QzS0JxYjRFR1F4a2lDeEZteUhYNTJnMFYzLTVBc0N2Uk5uNVc2cElLOUVmd3VxRFRjOEpWYUNRTzdkTE9uMTNIcV9QdXhzTEhmXzN2NmgyYlkzczRYYTgtWGxsZlhDSVFwMWFKS2VyRHBzbHNnSU9HMlN0b1BhdExxWTcyTFpTQUFjb0xsRUE?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 02:43:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Hundreds attend funeral in Haiti for 4 victims of brutal gang attack that killed 47 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSi00WEMwa2RfWDZxYlVvYmxmdnpNTkZXeHBkaVMwME5lTGJlcDBNc2VjTkI4MU5LbnB3TXdEeER6VGFBaWs3c3VkemZheFJUNENjUGMtblVINm9GTkRWS0ZqUFBzaFB6X3MzMjFVRXlDazRsdEQtRXA5bHo0eHlycWNzcGxzZmpsX09PWVpFOXdqM3F1MUhLbUlR?oc=5",
-          "pubDate": "Sun, 30 Aug 2026 21:47:00 GMT",
+          "title": "Aaron Donald ends his 2 1/2-year retirement and returns to the Los Angeles Rams - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWU5hOTVHTUZkODdhQXpTRWpERWhMRl9zdk1iM2JBR3JJWGVfYXp5MTA1eUZjMnB1aGV4eUp6Rm9uc0tHX09MWmxBd3BBczY3SEtMWFlZcFQ5R1lnaHNDMmlXai1jY2JLazBxY25vN2Z6T29icTJnRmZnMGI3VmxMenZPVDVHS1prZjVyUlpFcw?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 02:31:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Sun, 30 Aug 2026 21:30:35 GMT",
+          "title": "Nepal warns of possible fresh flooding as communities grapple with devastation - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNa3NPeGkybU5zYk9oRUNteGFDbmJKcTlfZHh2Q2l4ZDU1OFZzdTJGRHNBSUJXcldlelVpRjlDRlFBVHBFUGg4bnpTWDFWTkxDaG1OYzdkcTFBT2o4aG11ZTlWYzNqN294THUxMjRqbVRzNTRnNUZKNUJuQWFxYnJUUk5SalRCUFFXTDMyZ1hDSldPZk1wSV81WA?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 01:32:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Hundreds show up to judge New York City Mayor Zohran Mamdani look-alike contest - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPelhRZ3NYWGFRUWtubURMamEtTFljX2ViMWJZc1MzS3hJdVF6dWRmdlpNWEdTSVZEWGltbmdKbEw4Z1B5UHFRWG5jaXRIeXF1dVJ0Mk1RRWx1VVZaWDNuSFY5SHY0OGxiRW1sVndPUU5LQ2J4azFDeXk3dzdGOU92ZHN5OWNGWjRfOXNoTHRmLWF4UEZUQ19iM3Jn?oc=5",
-          "pubDate": "Sun, 30 Aug 2026 21:00:00 GMT",
+          "title": "Saved by a lunch break: Nepal floods destroyed many schools, but students at this school survived - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORV9MOEpRdUZLVnVvMC1wUk40d2pDZ0MyZWZoMWI5MGlGUl8wcTFmLUdCdHc0aHA5YVNYNENHZTB6azVaQjkxdmZESlpKSFBpbmdWaG5rb3JsaHdaQnFRT2RQUG1TaW1zMDRKSzRleTlmUzdyVTBrWHlDb0ctNEczWFdrM204U05wOTZxdllYRk85UQ?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 01:31:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Karina becomes a Pacific hurricane well away from land and is forecast to become a major storm - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbTR4WTlCVnhET21UWUhNMHc1WUtsbjNHeXZpZ1dETFJjTjBuLUoyRnN0LWo3U3JETVhnQVJSZnBWam4xTEQ1Y0RvR2ZpUVZ6NEFad2YxS3VCRGJJeXREVmJjQldKekI5dGxvUG5XbXhJTFYxcUtyTS1FUkQ4UTloQl94QWFVaC1SdDdPczBKa294WmYwblpYZUpla1JPYWdxb0otcEtITlk?oc=5",
-          "pubDate": "Sun, 30 Aug 2026 20:53:00 GMT",
+          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 01:29:21 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-30T23:44:57.598Z"
+      "updatedAt": "2026-08-31T04:55:39.683Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "US Treasury's Bessent faces G20 diplomacy test amid tariffs, Iran war, bond turmoil - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORVlaS1VmZVF5Rjh3RFkwVk40ZGpBSU1LLXM3XzQ1REFxbnl0aHREWXhieU9vUnU0aUdkTWgtNmJrYk9BRDE3aEllamozWFJVMHZ5QTJUS0pkckpwbjFVQ2dxaEhBaWZWZXg3a05ISG1Fb3k4aWV0QmRSbGFiOHdsQ0x6QWZjUUN6b3lsc2c5MEZOc2RCWXZXcERhdkN4NFJGVHBGejVxbTBZWDdvczdJamxDQ3Jib29xS1lzcURfX05MQ1BET25r?oc=5",
-          "pubDate": "Sun, 30 Aug 2026 22:42:32 GMT",
+          "title": "Indian shares slip at open as higher oil prices weigh - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeHhzUmFDRUhTV200UmE3NjFXbDJXVXNKQVlWV2FaN2l1dzUxM1dNZUtZaDJNblc4Q295TWN3S3R5M0xvVXRMZ3oyQzBuWHJkZnczM2dTQy1kQXlLcWRUTG96b19CNm1YbEhvdjdoVk84bnVzV0k1ZGh1T3lJRnZOanlRNjZwVVNkQ282bC1hQkJXWXliUGJsQUVwcVY3SkIyb3dHTjhCSzZQNkk?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 03:58:12 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Oil jumps more than 2% after US attack on Iran's Larak island - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSGRJUGVDenVxZzdzdXZ4aTJudWV6LS1adkVVMmVUNnc1QnMyNVNsLThHcG44U2p6SWoxYm9LbjJnUGdkZDAzTENhSDR2OW90cWV2aDJNZWpKRllRNUhselE2djRhQlI3ejVmUUl6cFNnVDN1UmU4QXVadDNmQloya3daeWVHSmtGNDh4QWktSk1fenV3czlkbnhwNjJ3VzNXWEhZelFCRTIzaWpR?oc=5",
-          "pubDate": "Sun, 30 Aug 2026 22:12:20 GMT",
+          "title": "US-Taiwan ties 'never been stronger', top diplomat in Taipei says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMHRZUGhJcnlFM1hqV05wZlF5MXd1V2cwOFlOV2Y0YXBpV01FeUhCV0xGQXJpTEc0dWxSTE56X09TZE52Y3pzR285emd4MWtwNVg5b1d2OFdXLS01UmYySkk3WmNiOFFmUDBqWFFyR0IxMHQ1M1lSTkJKemZnRlRvcDM4Q3NSR3RQOHhQSXdfNHJVQW5RMlloUXkycVZINkVzd1U1SWpBNWNrOVE?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 03:19:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "US forces strike two Iranian launchers on Iran's Larak island, US official says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTkpiVXljY0dfaG41QTlsRW1PXzVEMU9UUGRWYk41QzQ4UERCRnJ5TlVUSUloZXFTUF9ieVBhaGFxQi1iZ3NSOVRPODFnR3NQbnZxdWFJMnl6TmRwYnZqT3pOZFhWUEo5MzRVY2YtdEppVmNMSVQ2UVB0WW5zLThXNjIwdU9ZLUUyQVhWTENEQ3k0bGo2QUdNQVVHdWxSak91RkU5dGNlUFBOZjNqTDRuRGJRZHJHNWRuQTRiaDBSZFpjOTNGcGRV?oc=5",
-          "pubDate": "Sun, 30 Aug 2026 21:06:05 GMT",
+          "title": "China's three biggest airlines post heavy first-half losses as fuel shock bites - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZXdPS1l4N3NDN29UV3B4Zlhickk3SGkyTXZmSmxuaEEyUnhSWjFhdW1oZTIxaEVaMHV5empoZUNkenAyTDVlMENDcnVSR18wYTVrSTJ5R2p2ZWhTTlZiWWpaa0xlY0JIMDlEWm1rMWYzV2o2WFZVOHItTGpiQ3J5ajFtY1dpMkFhNW51dVozZEp4MmJweUNwMWdrSnE5WHJZdFcwQWlDdl9HRnkwMjd5eEVQOThuaWhLdFVsT0otblR6OUx0ZWZCbjZxTVNOQ2lwNHhVYw?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 02:54:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Google Maps will show 'Lake America' in US, not 'Lake Ontario' - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOX3RKRnR5NHhzZERZZmNwYkVzSTZFVGdPZ0tlbjdGTUtxcjhMMWI1bGFTWVAtdy1Xd0tZdWpjOEoxN29BdnRsZE5UWl9oRXQzQ2QwNWFHaTRpaEJmdlFWOU9OR2lwZUNDdEpUQmZDaF9TZUhwR19CQk5RX05TdFdaT0I4VDlZeUlvQ0ZNelRxcWVRLVMtdjRkdzdCc0tfZFBI?oc=5",
-          "pubDate": "Sun, 30 Aug 2026 21:00:24 GMT",
+          "title": "India's new stock closing auction faces first major test in MSCI rejig - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa3ZHU3d0SmVMTkpGaURxYVJ5V2NEMzJDSFFBR3JMX0g5R2NMcnV5NUF1WW5sVHZYeGJoXzBzbzlNY2l6bHJESGhSRnJfc0FjTU9lVkRUUTBTMFRlQktmeDkybUhQWnBJY1NtVFVCSjZsX1FDQlVKR3F4aW41a08zN3FMNzZMWjNyckkya2FXbGpoS0dRa2JzZEIwN0V0XzVzY1QxUHhSdTFZSkVieVlsbjM5RlI?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 02:43:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Iran's Revolutionary Guards vow response to US attack on Larak island - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUmw0UHV3Nm1jZS02RVF5ZVY0aWw2S0JlUXI0bUttclN5NkNzem9tMnc1akVuUGd5MXZMdkhMSWxTRGtZa2x1a1dad3psVDI3aTJJQnVHcENXU0k3Zm1kdWw0T0NYek00T1lxSktzSmdHTnd0Q0tEZTJyQ3FrNGZReHhaSi1EeFNtLXlrc1hFd3J3UE5LRjh5N3pWUHRQQmhGekd4Qm9fVnVvZVB1eUM1bGdGQUpqNzQ?oc=5",
-          "pubDate": "Sun, 30 Aug 2026 20:08:40 GMT",
+          "title": "NATO's Arctic moves pose 'direct threat' to Russia, foreign minister Lavrov says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTTVSMGtMQjc2LVJlNXM3RUVQQ0hSSmtoSzhqUHc1VEREdVZaX0xPMFdwZ3lNc3B0MHp6Ui1jNi1wLUx5Y29zMHBDZDdQVWlWR3BCTVpMWE44ck1CWlBOdExSZUhrdEN3Wk5YdEJ3LUhkMENJSUVzek41VnRLbzN2RHdadHpUaXFOSlhEUmp1TnhXeVFCd3AxTHc0TW84cDhEU2NFbzZydnpPQkNONnRDc0haNDI4Q0xheW0zTElmSWJaNzBKYmNFckRENUQ5ZkJ5U0E?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 02:29:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Explosion heard near Iran's Larak Island, Fars news agency reports - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOEZiQmZKRnEwR0dLWDhRS3BJejh5REVwOVBSQlUtRW1FZHBFRmtPejlJcGFGMU1OT0E0NEhVMXIweFdTVmVsQVo3cGhUbWtDOVp3eWNLaVJ2cXNHTTRDdFBsWXpjRk14TlJHYVZhNXVPZ3VSRXpqZ05rQXdHNDZXdy1YeVNxVDBSMktqZ2VKeUtxRUstSEdaQ0FGMHFIdUF6S0l3NmQ3aUNaRDZNdEZzb0JMQ2ZYQi1YQ2c?oc=5",
-          "pubDate": "Sun, 30 Aug 2026 19:49:43 GMT",
+          "title": "Trump says Iran's Kharg is being 'blown to smithereens', but gives no details - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcG1feHdFUWRFMFNabndpLXB1STE5dmJNVlMyQ3A4djRaZE9UTzVzc2o5WkEtSlR5MWMxZFpfNFJqOUNtTlFpOW1ZVFRTcFhTVmRjTXI1YVhxbmhwYXotdTdibnRJYnpmWjdQejd6WFh3YTBmOGFMaVpqd1gwNFozeUVwSzFCNkdWTVVmQmtNS0ttVWl3YXVVNUhWWmF5RU1RdGRYaF9xMVJNdS1WSUJIbnM5S2Exdw?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 02:14:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "At least eight die, 18 missing after ferry capsizes off North Cyprus - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNVlzWG1uLXVQZXVpTWtnajhCNzhhQV85eGNBTWc5V0NDYm91bWZHMFVSX2xUY19EU3RDRXF5d005RE8xUFZObEJsR2VqdUxGTWV3eUdVVm5ZLWxGLUtvMVNjWDFydlQxYUNudU5nOGMzNFo2SVVOZElxUk9OWDBWblNHMzloNEN6bnZJb3QzZU1wQXhET3BYeGQ4NERmT0VsYnQwQzVJVGc5SXk3YzJvWllBbw?oc=5",
-          "pubDate": "Sun, 30 Aug 2026 19:37:20 GMT",
+          "title": "Dollar near two-week high as Warsh boosts rate-hike bets; yen slips past 160 - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTzZFV05UVTZLQjh4TGh6S2xxU0xMU0w3c2lXNUd0am8tak9EV3p6NV84cVV0NDM2aXFrUkFpQUpVZ3dmdGNkYS1OaXRQbGhybm9lcHBfU2lLaVRwVGxiaXJKNnFRZW9ndFppTmp1TlhxeDJ2emxQLU5YWnVraXJFYzFHbldSU0pmVEtjeHFLdHJlUERTWjlkMmp0d25FSE1Wa3Q3SHpKbG1uNXBGa3FDRTg1cGxFX2VQZUkydHoxaWdHZUxER2c?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 01:33:43 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Trump says NBC's Welker to be reported to FCC over characterization of his endorsement record - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOTRSM0lreVpORDBYVV9hYUZRdHhRVXRmaXhBVWNpRXJKdmRFdEFreUZ2TnliZm9xMTNzdVE5dFIzOGkwQ3N4TzJhX0c5LUNDdTFRS3p0MHU1Q2ZGRVM5M2xnZndlaklYTk9MaC1vb2JKOHJEWWsyM2ZOQ19OVEdGTExHY3p1Qk9yQ1lzUG5hMXRKTkM0UlV1QXdNSHh6RXhicE5qLQ?oc=5",
-          "pubDate": "Sun, 30 Aug 2026 19:34:15 GMT",
+          "title": "Indian rupee under pressure from Fed, oil; bonds at risk of further selloff - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNblJ2YTFRQ3gwdmJPd1FmLXZUSi16TlpBb0lENndWMkI5elBMMzBrejRDUkhVd3pqb0xjRy1ZdWZGZk9yZEFWSzVaZWtpdTJiWVJ6QkR6QVIzZ1JnQUZGak9RMnpGSzVYZVZXcXowV1VUS1RUTDQ3T0lJcnJMSFRHSUNIeEIyOEd5cmVIOW5sSVEzV1B4QUFYYnRRVFk0aWFUOGVza0hmU0VZUUp5dnNB?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 01:33:00 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-30T23:44:58.060Z"
+      "updatedAt": "2026-08-31T04:55:40.061Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-30T23:44:58.331Z"
+      "updatedAt": "2026-08-31T04:55:40.247Z"
     }
   ]
 }
