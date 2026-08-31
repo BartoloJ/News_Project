@@ -1,13 +1,37 @@
 {
-  "generatedAt": "2026-08-31T19:00:15.450Z",
+  "generatedAt": "2026-08-31T23:17:28.263Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
+          "title": "US Supreme Court clears way for Trump to keep building White House ballroom",
+          "link": "https://www.bbc.co.uk/news/articles/c9w457e7ydlo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 31 Aug 2026 22:38:24 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Orangutans in danger as wildfires blaze through Borneo",
+          "link": "https://www.bbc.co.uk/news/videos/c74emdn49kdo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 31 Aug 2026 22:05:43 GMT",
+          "source": "BBC News"
+        },
+        {
           "title": "Two dead and more than a dozen missing after 'terrifying' flash flood hits Grand Canyon",
           "link": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 31 Aug 2026 18:58:16 GMT",
+          "pubDate": "Mon, 31 Aug 2026 20:47:38 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Across Latin America, 'aura battles' burst onto the scene",
+          "link": "https://www.bbc.co.uk/news/videos/c158z7g23zqo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 31 Aug 2026 19:11:57 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Festival honouring Dolly Parton set for Nashville and London",
+          "link": "https://www.bbc.co.uk/news/articles/c5ywd9q3ywvo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 31 Aug 2026 18:58:35 GMT",
           "source": "BBC News"
         },
         {
@@ -27,38 +51,38 @@
           "link": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 31 Aug 2026 17:30:47 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "'I haven't lost my hope' - the search for missing loved ones",
-          "link": "https://www.bbc.co.uk/news/videos/c4g79v842xjo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 31 Aug 2026 16:42:17 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Company offering reward for safe return of truckload of beer",
-          "link": "https://www.bbc.co.uk/news/articles/c780wzj86pno?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 31 Aug 2026 16:32:59 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "John Galliano exhibition at New York Met cancelled after backlash",
-          "link": "https://www.bbc.co.uk/news/articles/c4gkp6pgy03o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 31 Aug 2026 15:30:05 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Messi retires from Argentina duty with 'nothing left to give'",
-          "link": "https://www.bbc.co.uk/sport/football/articles/ceq89y38elro?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 31 Aug 2026 15:18:39 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-31T19:00:13.551Z"
+      "updatedAt": "2026-08-31T23:17:27.037Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Trump officials cut political interference ban after unusual Census Bureau report",
+          "link": "https://www.npr.org/2026/08/31/nx-s1-5948057/department-commerce-census-bureau-scientific-integrity",
+          "pubDate": "Mon, 31 Aug 2026 18:24:12 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Whatever happened to the U.S. famine alert system that Trump shut down, then reopened",
+          "link": "https://www.npr.org/2026/09/01/nx-s1-5944472/famine-usaid-fews-net",
+          "pubDate": "Mon, 31 Aug 2026 16:42:17 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Kalshi bans former congressman George Santos for life after State of the Union trades",
+          "link": "https://www.npr.org/2026/08/31/nx-s1-5950432/george-santos-kalshi-ban-prediction-markets",
+          "pubDate": "Mon, 31 Aug 2026 16:21:47 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "The U.S. sues Amazon again",
+          "link": "https://www.npr.org/2026/08/31/nx-s1-5950482/ftc-amazon-advertising-lawsuit",
+          "pubDate": "Mon, 31 Aug 2026 16:17:03 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Paperwork, lines, hours on hold: There's a 'Time Tax' on Americans who need help most",
           "link": "https://www.npr.org/2026/08/31/nx-s1-5946449/time-tax-annie-lowrey-government-assistance-unemployment",
@@ -82,144 +106,120 @@
           "link": "https://www.npr.org/2026/08/31/g-s1-141187/up-first-newsletter-venezuela-oil-iran-war-house-government-funding-grand-canyon-flash-flooding",
           "pubDate": "Mon, 31 Aug 2026 07:20:15 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Russia's jet-powered drones bring empty Kyiv supermarket shelves and rattle Ukrainians",
-          "link": "https://www.npr.org/2026/08/31/g-s1-141181/russia-ukraine-war",
-          "pubDate": "Mon, 31 Aug 2026 06:24:25 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Attacks flare between the U.S. and Iran after a monthlong pause",
-          "link": "https://www.npr.org/2026/08/31/g-s1-141175/attacks-flare-us-iran",
-          "pubDate": "Mon, 31 Aug 2026 06:04:30 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "NPR spent 2 years tracking deaths from heat. We found a staggering hidden toll",
-          "link": "https://www.npr.org/2026/08/31/nx-s1-5724225/heat-wave-death-toll-tracker",
-          "pubDate": "Mon, 31 Aug 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Singapore is scrambling to stabilize birth rates. Experts see lessons for the U.S.",
-          "link": "https://www.npr.org/2026/08/31/nx-s1-5944260/singapore-initiative-declining-birthrates",
-          "pubDate": "Mon, 31 Aug 2026 05:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-31T19:00:13.874Z"
+      "updatedAt": "2026-08-31T23:17:27.092Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Kalshi bans ex-Congressman George Santos for life after concluding he likely was insider trading - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTVdJU1NFR2h5RnRyMWw3T2FSTWliZDV5T0d1ZEFFeXhDanJJd2RLZTFuam5BNUx4LXNQN0RTQVpWZXc1dmk2UWhXZU1zUFRGejZPU3ZsR0dkdU5wT1JsNl9sRGlvcU5vR0Y5VWdpX09URjdLRlBmZEpCLVJxb21leUU1NWczODJ0dVVjX1JMWFpnV3RjNmhDbA?oc=5",
-          "pubDate": "Mon, 31 Aug 2026 18:29:00 GMT",
+          "title": "Army Secretary Dan Driscoll is stepping down after 18 months on the job, White House says - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaFhIUEduWG53TnE0SXRHcHVyUS02QlJNVjRwRHVKOU54VWQ2anZnSnc3akpJVHpXTEJRWk4xcm1fUjJiNXlwR2VRYmpBamVFWXRubXh5MFllNlpNZ1c3S0dYa2hlMHpxaktSZFRYb1JHTUxIajlWMkpjREJ5QjNfY196alprQ2hJTk9BZnZPU0lQNjEtSG9kRkxzcktQMERINTVn?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 23:07:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "United Arab Emirates says it intercepted an Iranian drone over its territorial waters - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSkx5VllnSlpKbjRJSUM0S2ZmSWhlb0YyX2xyUElqbmt1X1RxMDhLb3lNeGVqRFprU3ZBcHppYkhSZUFOb0JGNkVjZFp1U2doYnFaWk9WVUEzUG1RN1JQVkF2VUtkQUliY09fcm5rNllyeDVaRG0yNnVqcFFXME0tNjFOVjRiODI2RTJJSjZ1eHRaSXRx?oc=5",
-          "pubDate": "Mon, 31 Aug 2026 18:26:00 GMT",
+          "title": "DA says a teen who recorded San Diego mosque shooting livestream has been charged with murder - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSWI5VlJLNTBPQ2lmM3RBdHM2amUwSXNqOHhPQ2dWbzRiWDVJZmd2YXpwLUIxT25FVFJHTVlDY3NwOWktRkkxXzhlMWpadmRDajdOSDFtYTFDSHY5M2xQUXg2a25qbDBZdFZMSy14ZG13dVVfZUJfRGlFWlA0UzdPcHp3OU56ajhRZE5wUlNn?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 22:48:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Argentina star Lionel Messi retires from international soccer with World Cup title and 125 goals - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNXZtRUlVU1MyWEl4VDRiMkVoSWpRcmRUV3B6dzBNdEJkNWxmYXhiQlpoN21QNGhGampZanY2SDh6eFVGYlN5dm5RYl9EQmtaYmxqLVFNZGV0eDJlcmZIMzhBNlRNczR4RzdmZGE4WnJQcGVGdW9tMzBuQXRfMjIzNTNERExxUnFWUE5j?oc=5",
-          "pubDate": "Mon, 31 Aug 2026 18:01:00 GMT",
+          "title": "Bessent huddles with G20 to try to rally allies on Iran as tariffs strain ties - AP News",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOHkyT3lETlVKQjljcFhmWFFPMC1NRmo4alY1REtpQl91VUVoYU1FNWg3MlpRTGtXRjhEbi01YU4xeWdPUlo2bncxby11UzBKclBXZjFqOWFhcXlvaTVNaVFCWjgtdkhlakdMM3NCRlhEY1JlZzZIR0p5UWp5TGdwYmNHMGpDNjNKOWZ6ZkVhZGlrNDEwWUo4SzBaUmpGbnRzOHRsdDJLLXM3ZXBrQ2Y0bw?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 21:49:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Israel to help Greece build an air defense shield in a landmark weapons deal - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOVRsTDYxbHY3RXdBbjMxWUdrRWNsR2hxLUI1THlkRHV2SXVsaGJMOXVpNGpoQUh4UmFLVVIwRHkyZlFObjFsVndNN2VxUE51ZlVjd0ZPV09IODdRelJSZzhiU2d0VjY4dVJxWW0xTGRaXzJ3VHpJZExZR0FKZmZRZEs2V1RkUTFBSzBSQ1hOQQ?oc=5",
-          "pubDate": "Mon, 31 Aug 2026 17:57:00 GMT",
+          "title": "No verdict after 3 days of deliberations in the Lindsay Clancy trial over the killing of her kids - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOa2J2VnRWUF85NXZLSFV0Z2t0NHdBS2Y4SjRaak1KV2Z2aTRMSnF0Y011cWlySGZhY2dTdVRhTElsTlZwaVNlRlpiSU9OQkxjbzg3WXN1dGJDNlpmQTlfYk9aaDNqMG4xZ0Y0bndaWmlxM2gyMlk4azN3TV9wMURPUm81UFRXamRiM3Q2QkhjMzR3MEZfM0VUUFNB?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 21:38:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Family identifies Texas man among those killed in Grand Canyon flood as rescuers search for missing - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONGw0ZGdSV3NYOC11dmpFaXB6dUZZVlZEbnpRRE1vU3U1cEx1SUd3MHgwV0RzaHMwa25uODR0ZHNvVFl2Yjl0SmtVNE5XVEFxM3Z1OXZ0SllScUp0aWNGTEZ4Y19aaWIyV05fR2wweWdpQVU3ZU9pTXQzVXVKd0NScDFFQk41OWlvcGxwQUd1c3ljM292NXh2bjQxWVYwRHBuRjR4eERXZVc?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 21:30:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Jury begins deliberations in trial of Duane ‘Keffe D’ Davis at Tupac Shakur murder trial - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOckladTlIUGxNTm1saG5fdHluYXFVOFM3UnZjdGVXUi05Ym9sRXR6blhqN3dIWHpEYUp0eHBOVDl5RTFxNkVtTXhyTlBQVUw2bjZyMVdEZFJoRDdpN0FtbWVuOWxKSUoyVG8wYVY3T0F4R2hzUzk2NUZkZ1U4WThpS3VJT2lPajJlU3ozRktuT1NsXzNlMDFyMXVuZWliOEY1dkE?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 21:04:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 20:53:18 GMT",
           "source": "AP News"
         },
         {
           "title": "Oil prices rise and stocks fall after US hits Iranian sites in the Strait of Hormuz - AP News",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTkxlME9kNGFRUWlyc1k0NW93dnBPbHRkWWtveTVWc19ybnNSV2J2SHZ1MUhZa2VrQWVRaWNWWUQ0ZnE5UmRHcjYtYXl1ZVp4OF9DU0VRdmFEVXJ4MUFnUWkzQkRsNThWbVVXcUVvUDBRYXpoeXpBcnZaX0tXTjd3V3QxNzRBMTAwY3dRSmticTlFQUtITmdqQmpRS1JyUDVS?oc=5",
-          "pubDate": "Mon, 31 Aug 2026 17:33:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Norway's Queen Mette-Marit joins procession to bring late King Harald V's coffin to royal chapel - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVEkycTRvYThUVjN1WHlMZXluWUxuWFB2eGxERC1fVmZuRGVNWFU5cHZpREYwNEhVRWZpb3BVenlpNjhCWFJFTWxfOTlfZm1yVXh5UW5lYVBtYWFNM21PRlYwVGYwODF5SlVvNHEwNnNZZVhVQUtiZHVoalBvXzg2eXI4Q01LUHdhSk9fNTRJYWJ4cGRmOHZuaVItaFd0VFpvV1FxQVlR?oc=5",
-          "pubDate": "Mon, 31 Aug 2026 17:28:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Russia cements its role as Africa junta protector after helping quell Niger’s mutiny - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcl9tZkZ1V2VyX3gzVENzVU1ZQnczZlE1SlA3VkxSTUVuVVBDWDkzOGhFWHN5MUtYaE03VGhvMTBPMGwzZ1UwZUJHNmNFbk4wdS1IN0JtTVdDeWg1d1pfZFUydnBrTnVkVkRVa1NhdUQyMEN1SEVuNzFjb0wybk9FaHZCZDVLbGtId1FqVDBRZ3VDTExrYWlIZ0owM1lzdVE?oc=5",
-          "pubDate": "Mon, 31 Aug 2026 17:08:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Hundreds feared stuck in hydropower tunnels as flood deaths surpass 950 in Nepal and China - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeF9fY0FGcDNINmhyYlJPWWM3LTJESnQ3dUZLVXVBSjJtQmR1V0l0aDdvN0J5aF9uOGxldDIwZy1TYlpWVnlFTUVYaGJmeW80dVR6MUYzZU5JSHFCTWJwZXhOaTBuN3EwS3pqeklVQzd4Q2xybXRmbjNWRnZVSjl4Zm52dFB4NDgwM0pvZ0I5cHI1Z3dM?oc=5",
-          "pubDate": "Mon, 31 Aug 2026 16:38:00 GMT",
+          "pubDate": "Mon, 31 Aug 2026 20:41:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-31T19:00:14.834Z"
+      "updatedAt": "2026-08-31T23:17:27.538Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Wall Street dips as spiking crude prices revive fears of inflation, rate hike - Reuters",
+          "title": "Wall Street closes lower as oil prices jump, indexes notch monthly gains - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSjdMVkl6Zld1cG16aFA3UUtRd2ozVHRERm1Sb1p0WGtVN2xsUEJVbnlaUWt6M2NiWERmaUo1d080c0hWeHFwVGY4UlpZMGJENG91NXJ4bzhMbXNjRVJRQlo1d0ppNlNPcjUtd2F1d2xheXhBaW5OYU43SDdkYk13R0Y0SGNzblZOOTFJcTM2SmJJV3VRbVNyWGZ1bVdzaGJSQ2lBMXZPOWdWb01VNmR1UGYxZGE?oc=5",
-          "pubDate": "Mon, 31 Aug 2026 18:29:35 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Argentina's Messi ends international career - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZUtqdnNIb08tN3Y4NTBJT2l5RTRXaEpDSmVacEVXSExtVjFJcnliTmVDQXc5SkRINWNaaGdmbFppTzgxMV9UaW1GTTRIaGxMcTRqd0VsOXFVWjhhMlRYcWpYX08tNjN6Qi1QWDVyRVA3clBTaUhYRmRmajJ5UDlLS2tDcFpvYXd0R0Mwc2s0Yk5zVGJ6Z0lIVk80ejFVZWNE?oc=5",
-          "pubDate": "Mon, 31 Aug 2026 17:39:45 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Singer D4vd, charged with murdering and dismembering teen, dismisses lawyer - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOY2NwR0hzYzdqUWstdHo1TDN0N3hwNEN3bU9wcFItU2N5VDNvalJYdU04d2h6WVJlUWFSV1RUenFGbGdiVVlST1NWX3F2akl3RXpBcnBKRkhzUEI3ek5nM3lGaEV3R2hIOVRLb3FNYm02WF9nTkFTVVVPZDVQckFqVWxYUEFaeW9lY1NnWUNmaXBpa01TSWljMWotd3hqNTItZ3JZODRoOTlEQVlkaDFiVlFYQXBZTGdvbkNQc1BmOA?oc=5",
-          "pubDate": "Mon, 31 Aug 2026 17:31:49 GMT",
+          "pubDate": "Mon, 31 Aug 2026 22:55:47 GMT",
           "source": "Reuters"
         },
         {
           "title": "No fairytale ending, but Messi leaves defining legacy for Argentina - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZjFyQU1qVzhRejFVNXloTTVqcDhBSm10VF91NUt3cWVmQWVnbk10bWFVSUFaZ19lMGptU3pWYThVU1RqZUVwc29faHNrWnh2X3NvbGhJbVcxZTQ3dnlmUG5DVk8tZURTOE9SNVBvZ1hpMHdIcXJQUF83WHloUWJQX1R2cTRMNk84dWFuQWlBLVNGWUxGd1pjdm9ZWjF2b2VHaWxRNm9zc1cyOWpf?oc=5",
-          "pubDate": "Mon, 31 Aug 2026 17:29:43 GMT",
+          "pubDate": "Mon, 31 Aug 2026 22:45:37 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Kalshi permanently bans George Santos over State of the Union bets - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOC1XV3BkUFBqTkhua2EwT05ZTDhVU1AxcEJBbmxpZnltZUtXZXRHS2JQeWtjcktzYlVmTkx3dFNjZW1HRENueUxEZjA4MkRLZDYzMjlvWndkNjZfQXN6SFgwenlJNVNhSEtITmc5RVNRTkdfY3FUTkxwR2pKS1MyRjdBdkZLSmhobk5PTHRfNHFlTG5ROTZjcFgwZnpjTlMyX1hiYnFjMWVzbXlKeU9zdkVR?oc=5",
-          "pubDate": "Mon, 31 Aug 2026 17:19:25 GMT",
+          "title": "Argentina's Messi ends international career - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZUtqdnNIb08tN3Y4NTBJT2l5RTRXaEpDSmVacEVXSExtVjFJcnliTmVDQXc5SkRINWNaaGdmbFppTzgxMV9UaW1GTTRIaGxMcTRqd0VsOXFVWjhhMlRYcWpYX08tNjN6Qi1QWDVyRVA3clBTaUhYRmRmajJ5UDlLS2tDcFpvYXd0R0Mwc2s0Yk5zVGJ6Z0lIVk80ejFVZWNE?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 22:42:27 GMT",
           "source": "Reuters"
         },
         {
-          "title": "India's Modi tells Russia's Putin that the war in Ukraine must end for humanity's sake - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPX1JRSVpMMVp5U0JZRXJRaXk3TTBZSjZqcXNTSTN4QjFBT1RTNGwyZ0hWa216TW94TjNkdE1XZ2lMWnVNMDhsSzczaHRpeWItSDNKREdvdTRSTlBDR3NrUFI5VUJKUnd0N2RyOVdHWmwwM3lFQXNiQnBLUHJTNFFBaGZRNEZ6a2M3Ymh2OEk2VFYzalRISUJCSTM0Y0c4QjNDR2tmU291UzdQWm91V0NpUFZzU0FGYnNZS3hKUEhB?oc=5",
-          "pubDate": "Mon, 31 Aug 2026 16:56:35 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Trump administration to announce drug pricing deals - Reuters",
+          "title": "Trump administration announces drug pricing deals with CSL, Astellas and others - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNalIwNDMyd05oMlg2cE1WSmNwRkpMdjhaWDJSdm9kZnVSUUF2R3hWWmE3RTU3eUhmTkNhenFEcExadkphQ0hFcFh5NFBPOW9pZ0NwV21SSU8tYmZ4cVc0N2NlMzJyOXNaakxRUVNRZFhiQjBJUDBtUjhWVzY2TnhCWVQzZGFNSnlGX0NvdUxnMlFiZlJ2aXZqS1RScGVrQm5ZZDNJ?oc=5",
-          "pubDate": "Mon, 31 Aug 2026 16:55:48 GMT",
+          "pubDate": "Mon, 31 Aug 2026 22:28:20 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Republican committees ask US Supreme Court to preserve access to cheaper ad rates - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUkJaeFpKX193M1NieXByZXduVkE5S2N3b3oxTUREaG1BVXdPdDNULTJDYzJ4ampvN3ozUzNQcTIzMF9iMDNrZGNSdWRsTXRCZVZ3N2JPYzZfTlZ2UDZQX3NUWklhVFZpUHN5UnhidGdlcjB6Ui0weW85eGNpb1FTMWxvQzBpZzNWRDhiMkpZZ2pxYkpSdC1XcXlOX25zUUFkSzRCekRPbGZyVFhSdHAtcUtVeTVBdVBtUng4a1Nicl96NTdvcUhn?oc=5",
-          "pubDate": "Mon, 31 Aug 2026 16:47:39 GMT",
+          "title": "US irks G20 ministers by inviting Russia, barring some journalists - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTDY4ZlJsY3c3S2d4bGo2T2FyVEVyNmY2UzltakRiUktLUnlSWUk4YlFQSXd4VnlQUWtrbDZaR1pYZEVLV2d1UEdZLW05N0xIdWZFSjRzN1VUaXlQQnNJY0hQMnl1cEw3ZWQzY3dVbmRXNTk2b21McGh5YW9OdWVRbDAwVi1aZWY2Z3g1a1BaVUxaRm9XaHo3czZJU0VCWU1ucDNETUV2eVFqMXM?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 22:14:41 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US to announce sharply lower vehicle fuel economy requirements - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ1htMVc1bmhkTjVTNFFVQjRDa0FzREFBR05JbVRrU2dYT3h4a3ZVUnQzYXlxRk9hcXRxY2szMXNNRmw2aHNRbktYVjF5Yk1Ha25qcHR5OWJ5RWNzOEdKNURrNnFwaVluX05iTC1nVWM0OUdmVEV3b2FoOUJFUFZTc0JONFVIaHhkQXJSSU10NmF2RHZlUWhsdVhGMkZXV3pUaTF3?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 22:06:42 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "EPA grants 1.76 billion biofuel exemptions, weighs shifting obligations to larger refiners - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOT01vc1lsWWw5b1FnYV8yZ3pRQ21ZQmRjOElKa3hQT2I4U0MtVkJKRk0ycFYxZzZlb2ZSLWxLWlgzN0JfZi13WjlFUjFTZVpLdHVrVjdNcU02VGJleTFZMEYzSjF5dElLS0JPSHRoQ0lHREs0emg5WmZBRVZfSHhNVE9RNU5iVXBJQU8tMUtzYU5NSlQxYUwwX2kzQjNjbndheklUYTVBczZTaWpCdWJnTWs0MlYtZW5nZXRyb3FBVQ?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 22:05:49 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Former French PM Balladur dies at 97 - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRzV4ekhGOFh5VlJKMjNnZ1U3NktoMGVjcVpaaWFJbHNxV1RyX1V6SGVOTkthLWhhaGEwdkZyT2xoejlWcU10Ml9KT1I2a05weHVDTml2eVc1TUtrYS1sVUdFZVQ2eS1tOW1mQkU5Zmc3QU9fRkRhV3pyRWF6ZHo3Rg?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 22:00:47 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-31T19:00:15.309Z"
+      "updatedAt": "2026-08-31T23:17:27.975Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-31T19:00:15.450Z"
+      "updatedAt": "2026-08-31T23:17:28.263Z"
     }
   ]
 }
