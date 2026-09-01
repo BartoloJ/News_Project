@@ -1,13 +1,37 @@
 {
-  "generatedAt": "2026-09-01T17:24:09.208Z",
+  "generatedAt": "2026-09-01T20:05:46.454Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
+          "title": "US launches more strikes on Iran as state media reports explosions",
+          "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 01 Sep 2026 19:50:05 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Jurors in Lindsay Clancy trial deadlocked but judge asks them to keep trying",
+          "link": "https://www.bbc.co.uk/news/articles/c9qr4gp8qy9o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 01 Sep 2026 19:20:21 GMT",
+          "source": "BBC News"
+        },
+        {
           "title": "Germany says Russia behind Leipzig airport drone attack",
           "link": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 01 Sep 2026 16:53:40 GMT",
+          "pubDate": "Tue, 01 Sep 2026 19:13:03 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Ex-gang boss guilty of orchestrating 1996 murder of rapper Tupac Shakur",
+          "link": "https://www.bbc.co.uk/news/articles/c24j5192j7jo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 01 Sep 2026 18:26:12 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "As Michigan Senate race heats up, Vance calls El-Sayed 'evil'",
+          "link": "https://www.bbc.co.uk/news/articles/cn9w39py48xo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 01 Sep 2026 18:06:58 GMT",
           "source": "BBC News"
         },
         {
@@ -27,38 +51,26 @@
           "link": "https://www.bbc.co.uk/news/articles/cg49590v6k1o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 01 Sep 2026 16:11:18 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "'I have fired 40 of my agents for being corrupt', says Nigeria's anti-corruption chief",
-          "link": "https://www.bbc.co.uk/news/articles/c9863817xzpo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 01 Sep 2026 15:57:18 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Vance calls Michigan Senate candidate El-Sayed 'evil' at campaign rally",
-          "link": "https://www.bbc.co.uk/news/articles/cn9w39py48xo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 01 Sep 2026 15:51:40 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Woman killed in Times Square stabbing, suspect shot dead by police",
-          "link": "https://www.bbc.co.uk/news/articles/ckgvrm5nxexo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 01 Sep 2026 15:48:38 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Sexual assaults happening almost every day in Ceuta, prosecutors say",
-          "link": "https://www.bbc.co.uk/news/articles/c3v4pgk7gweo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 01 Sep 2026 15:33:14 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-01T17:24:07.834Z"
+      "updatedAt": "2026-09-01T20:05:45.275Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Congress averts a government shutdown ahead of the midterms",
+          "link": "https://www.npr.org/2026/09/01/nx-s1-5951536/house-government-funding-vote-midterms",
+          "pubDate": "Tue, 01 Sep 2026 14:06:33 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "ICE says it has enough body cameras now, after series of deadly shootings",
+          "link": "https://www.npr.org/2026/09/01/g-s1-141408/ice-body-cameras-immigration",
+          "pubDate": "Tue, 01 Sep 2026 13:52:37 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Beloved writer and environmentalist Wendell Berry has died at age 92",
           "link": "https://www.npr.org/2026/09/01/1139228585/wendell-berry-obituary",
@@ -90,136 +102,124 @@
           "source": "NPR"
         },
         {
-          "title": "AI wealth is creating a 'mansion shortage' and upending San Francisco's housing market",
-          "link": "https://www.npr.org/2026/09/01/nx-s1-5930432/ai-san-francisco-housing-market-real-estate",
-          "pubDate": "Tue, 01 Sep 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
           "title": "A makeover for college: No gym, no meal plan and two years of work",
           "link": "https://www.npr.org/2026/09/01/nx-s1-5935431/college-reinvented-vermont-work-experience",
-          "pubDate": "Tue, 01 Sep 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "A NY hospital tried to close its birthing center. This city united to fight back",
-          "link": "https://www.npr.org/2026/09/01/nx-s1-5945612/baby-new-york-hospital-birth",
           "pubDate": "Tue, 01 Sep 2026 05:00:00 -0400",
           "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-01T17:24:07.962Z"
+      "updatedAt": "2026-09-01T20:05:45.338Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "US says it’s striking targets in Iran as hostilities flare again after month with no military action - AP News",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZEFCR3pYMFczek00TGhzVl9ram9qaUExZmVLWk05OGRzalVmc1J1dEcya2dON1I3TFRJNjZMRGxSeTVpZzVmMVdMVTFzMlFJWl9Vai01TVRFRWJ2eTlmU2ZuVW1QaHU4NzZneE5ndjRydTdRb2JrMWx6cnd4dUpwYg?oc=5",
-          "pubDate": "Tue, 01 Sep 2026 17:02:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Stocks slip on Wall Street under pressure from rising oil prices, bond sell-off - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbjFxdjAwdUlwU0xFYkdsbEF5RTVIX2Z2NkQ2Tnp4dkhZZ0JkTDlsYU96UVp4SWViaU5xejQzVkd4ZzZEUDU3RkIzLWdmaDBYb20zRHZ4SkFYa0RRenFpSEJtX1hSX241VDl3eVIxaEJzQnVXV082eVQ4dFl4X21NSHpnd2hFaERGSHktZw?oc=5",
-          "pubDate": "Tue, 01 Sep 2026 16:15:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Iran's president says Iran would return to ceasefire agreement if US does, and other Mideast news - AP News",
+          "title": "US and Iran trade strikes, and other Mideast news - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdlc2ODRWbzc4Ujc2bkpMYWU2dGtJU3JNdk1UeHhYbThocGhLbG9WdDVGd3JpdlIxLUNRZFhWZU80TXhRMWk2RFVaYmVwRXhVdG9fcUl3Zk5Pd0Q1SHpzT0w1aURMQVVxUURyR2lZYTZGbjNfT18yTlBMRml2bTZGM3dDaWNKNmNfelRuLXlsWmw1SlIwNHY0c3ljY2cwc0pma0tId2VtUjBpVWQ4OE5TeE90QVFrWFI5UTZ5eV9HeWhVQ09WUGc?oc=5",
-          "pubDate": "Tue, 01 Sep 2026 16:06:00 GMT",
+          "pubDate": "Tue, 01 Sep 2026 19:59:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Tropical Storm Edouard could reach hurricane strength as it approaches Texas and Louisiana - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeWhfenVoMUN6dnRmLWZVQ2c5bkZKQTBRRG9XRjEyOHZSTVp1MVlTMTh2bkRzdGRvZXRIbUJGeFhYbjBkcDZXNVgwa2lXZExTREI2VWJ4dzc4aHhIYkRzNFFrMVMzZGFhdTZqR29IVE04cURuM2xlQ1ZOR2NnMk5Hd09Bbk84SS1vWHY2bmo4QkZLc19rTnBQeUxDcUQ2TDlOTlBkLVVqbkZlVXZYbEJZ?oc=5",
-          "pubDate": "Tue, 01 Sep 2026 16:05:00 GMT",
+          "title": "Postal Service work to comply with Trump's executive order is rushed and sloppy, a whistleblower contends - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQkd4Zk5iSDQ5MEUwOWtZRm9aNlNmSTI5OUE1QnhxSmZvNE41MnJPUUtTWVcwbXVRbDZoSF9FaS1DTUJPbG8zZ1MxOFRuVlR3Z3dSWVFzZTVuWjk5dFRrNUJfVkdicUk1RUMyM29WSTVmSTNpZWlyZFNQWVVBOGJ0cHlVeE5YTDBlLUNwdk40OXQwVGtoV3FyWE93Q0gzbXZjWkJPb21LTQ?oc=5",
+          "pubDate": "Tue, 01 Sep 2026 19:50:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Judge tells Lindsay Clancy jury to keep deliberating after they can't get a unanimous decision - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY2hyTV91UmQ5SzY3WUwzRkV4cFRnNmN4OG43NVNHTm5DeVBQQl9tLV94RWRXTFUxUVpiRzUyRkJpNENVejk0dWxFR2RqZUI0d2N2Y0NEcU9KaE1ob19BaEtCVkp6X3ZRamhmc1hrazIzck5zcm4xNkhYQlJZRnNOUHdHM1Z2dE45US1WaU40aFpLX2Fhanc?oc=5",
-          "pubDate": "Tue, 01 Sep 2026 15:53:00 GMT",
+          "title": "Schools reopen across Cuba as fuel, water and power shortages persist - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQS3pXRkhoVm1kT0cxbnZYQk8xb08yRU41akpCbGk2aGNYQXphbEQyOGdoWjlfY3ZlaUszX2xoLWdlZGk5RTJVR0ZGRDRPdWdIOTZKWWpjZ1owZy1SbkhlNWI5ZVd3aDVwQUZlLWNmU0lSY3pqdURNbGRoSkcyREhkTExyV1VCZFVfSXlFQ3JnX2RPNzM5SGllMjR3?oc=5",
+          "pubDate": "Tue, 01 Sep 2026 19:48:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "China warns of ‘consequences’ for Taiwan after Taipei envoys attend Pacific leaders summit - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZjBKeDlOLWpVRXlmUk9tOW13cnFZUmQtOU5uT1VZSXJONXlPRFRqM3ZnMTRlSzF0MVFxLTY0NHJRNXR0SmNaUEVGV0ZoV0g2R1dRX2xjWWJLNk1QTU5YT0l2YXk2VlBCbU9hSlRfbFZwR3RJVE9lSHVDNU5tZWNiM0Y1cHAzTTZlcV8xSm43dUZ0ZDZUUUtEM3FuRENVN2tWcmQwNHZNWVdORmQ2b1E?oc=5",
-          "pubDate": "Tue, 01 Sep 2026 15:31:00 GMT",
+          "title": "Iranian official says two people were killed when a US strike hit a house hosting a wedding - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZEFCR3pYMFczek00TGhzVl9ram9qaUExZmVLWk05OGRzalVmc1J1dEcya2dON1I3TFRJNjZMRGxSeTVpZzVmMVdMVTFzMlFJWl9Vai01TVRFRWJ2eTlmU2ZuVW1QaHU4NzZneE5ndjRydTdRb2JrMWx6cnd4dUpwYg?oc=5",
+          "pubDate": "Tue, 01 Sep 2026 19:44:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "California Legislature to vote on wildfire reforms after blocking key parts of Newsom’s plan - AP News",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTWRnV2I2dWRlQTV2WTNBNWl0U3lSSlZXeWVtakpZRkN4UG9DdDFlNGo5dkZXczZqTGlhdmZDelhGRjZwYXZQVkxtbVZ2V053ZGlnQlh3V3hOMGFJTkVaU09rUXJjLUQ4VFFKbzRBc2dvUGl4NElLOXNjWl94cGNCRjZna0N2UERITDdUdTRXeXNDT05aakJOVXlRMDkweGJGdEx1ekJuM24tYWhNNjN3WGJ6aEFoejA?oc=5",
-          "pubDate": "Tue, 01 Sep 2026 14:54:00 GMT",
+          "title": "Stocks slip on Wall Street under pressure from rising oil prices, bond sell-off - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbjFxdjAwdUlwU0xFYkdsbEF5RTVIX2Z2NkQ2Tnp4dkhZZ0JkTDlsYU96UVp4SWViaU5xejQzVkd4ZzZEUDU3RkIzLWdmaDBYb20zRHZ4SkFYa0RRenFpSEJtX1hSX241VDl3eVIxaEJzQnVXV082eVQ4dFl4X21NSHpnd2hFaERGSHktZw?oc=5",
+          "pubDate": "Tue, 01 Sep 2026 19:08:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Associated Press News: Breaking News | Latest News Today - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
-          "pubDate": "Tue, 01 Sep 2026 14:31:11 GMT",
+          "title": "Oil giant Chevron is expected to announce it will expand operations in Venezuela, US official says - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZlF0bHhnQVdKb1g2RW5vdGNtYXhkR2Z4R2Z3U3hiQjBINWVyRWN3aU5Lcllzd18xR1Zhc0RyMTFSUEJGelhudk1UZTI1WGxBTENzblY3SkY1ZFo2Mnp3bHg2ZWY5XzB0NHhHNGFfd1FETVZNbXF1S2gwWlhNNEgyLWVqdXVLOU9QdERoN3RINlc?oc=5",
+          "pubDate": "Tue, 01 Sep 2026 19:01:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Photos show aftermath of flash floods in Nepal - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMWpWTko0Vkt0VHYxMXI3N1pxMV9XS3ZyZ0NhaExCTXB2b1gwT18wZndrZ2VkYkhTU2pqelZfdV9KRWxoV3NLcXpwTjU0dkhOQ0NsZExFUEh1dGN0RzYzelVxa25Dc0N3Z1V5ZzBfRUFFa3BsOFZIN2dDQTRGWHM2amtvRENVek50YU1iRXpGcElkalBQS2RkaTBhcWs3Wnh1eExPZWNJNmJQdw?oc=5",
+          "pubDate": "Tue, 01 Sep 2026 18:44:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Germany blames Russia for last month’s attempted drone attack at Leipzig airport - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTmlGSlctSEpyVzd1dDl0bElaeU04WDhBdEswNDFoQVoxWlpnZVBhOGl1T3l1U3NndGZ3alo3RmVLM1dlMGJkdl9fTlJKS1VLRnZJUzlnWkJyc3R5bERlbzR4aE5QZXhpNlE2WFhZOUhpcHJ2Z1lrVTFMVnpjZXZPaGpzR3Z2VUZOWk4xT1p4a3hLZXVkR29RQnBJcHg0S2MxWFQ1eEd2bmVvUXc?oc=5",
+          "pubDate": "Tue, 01 Sep 2026 18:25:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-01T17:24:08.482Z"
+      "updatedAt": "2026-09-01T20:05:45.779Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "US launches fresh strikes on Iran around Strait of Hormuz - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYWVYQlZISm1jT2ZUaUZ4bDJ2ZE10ZEpaeXo5MnBPQTJYS0ZJNDFjNmdBNGlPQjdyRTIxMVJWeDYzTlFEZi1wVm55eUJTUjkxSjB2WnVVU3NLaEtjTWlMTFFXZlZuTDYyNzREc3hxWnpxRzdUV2MtRUdhei12TE9TQ0Rrc1hTMEN4alFnS1VFcVRzSEM1dmVxR2FYbzZXb1B2a254Y2FlVXlNMFBhQVlFRTAyNzdoaE1FN2Q5dFF0LS1PZDR3bm1PS2JR?oc=5",
-          "pubDate": "Tue, 01 Sep 2026 17:09:21 GMT",
+          "title": "Oil prices settle up more than $4 a barrel on renewed US-Iran fighting - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNXzNva1pxcDRaVGJ0WkYwOFJ2Zm8wNFBiMmkxLUVIZVJZaUV4WlRGNVRZbk1JZHdpMUpXbXJ6VHZsVUtzS2haZ0M2bDd4d3RTa19vTHZTOWc3MFlGaW1jU3gwMG13cFhFY0hOR2tWSjM1cWQzd2pfUEZFRlpSRWdEcmJ3NHdlM3BydlNkQUgxY3lMYjBybFMwZ1Vxcjk2clc3cHZKdWxtMHlFWHBMNDREaEJoZlBIc2U5TGMyWF9GaEZhX0JlMlA4THpn?oc=5",
+          "pubDate": "Tue, 01 Sep 2026 19:33:53 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Canada's Carney says US needs to start being serious before trade talks can resume - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaUE0MzlFbFRZNDJYMU82QjkyekY5R2Nsa2IzMk5sWGFZV1RKUjFmQkh5MkoyRHduUVVHNkpqOFF5Zl95aHFhRVV6eTdncmVoN3lrZjdiTGlTSl9ITzZKYllnYmZPSmU4X0I3ampCV1JwVUh6OVFiU3I5QmoyU3dBSjUwTGhaS1lEVUJEa0MyZUdZaEdpd1N1Y1BFSDh4d0tMVUdoV2l3YnNPQk1CYTY3UWR3NnNwVUIzR01RMQ?oc=5",
-          "pubDate": "Tue, 01 Sep 2026 17:06:01 GMT",
+          "title": "Israeli special forces capture Hamas official in raid on Gaza City - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPS1dvY08wWUVmMGNwR3hXbVR4anpDeXoxcndHakhnUzRqNk9Ub3ZqcEhsUUdHTTM3dGxuODQ4bXpNRGkxQjhyTmR5QkVFR2FKVTVaOEhwUi1PTTVSal9xZjd2ME4yUjhleFFSMUFHc1RmNVBUSjBtNUhpRndqb25sVi1HaDBmYmpyR0xFY1lKTVgyd2pSdlBJMEYtb1lMTTVkU2Vya1FjSjR3ZjZnQmlEbnlHeW1ZSmc5eURPTHFNSndsVEk?oc=5",
+          "pubDate": "Tue, 01 Sep 2026 19:31:58 GMT",
           "source": "Reuters"
         },
         {
-          "title": "German minister says Brandenburg power grid target of sabotage attack - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNW1ldHZCdU9GenhqU1k3d0M5b2pYdml2MXl2UVZqNWpUUkhJN01hN1lTczFrZmItQXNnalE1RFN5a3c5YTZIdjBqMy01SU9PdW4zSzd5RHZTZk0ybmVlMzVRRVVvU3dSTC0wb2tUenJERXducXNiNGRIM2lCdWF5eTZTWDBhRXZTWmljRXV5VmFfck1WVzRETGg5VDNMYnZZQWxnbjg5LTdhMVNUTlVVd2pTcVhzWklSVk13?oc=5",
-          "pubDate": "Tue, 01 Sep 2026 17:03:47 GMT",
+          "title": "Texas' halt on powering data centers reflects US reckoning over 'ghost' demand - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNX0JFMjBfWUxIY3p0OFNoc09iVWtIcXJOWkI4M2tkVFVFdkZ6bHZMeTJJLWc1UDZCVXNhbWc3MDF4QVBmaEREeWpoOHRJZTlad19NcGxBRFlVRmVpTFdSNDdnOEszUG43dW1VSUhSb0g0ekxOcUZadzY5dEdxM2ZhRHdPbTdzRnVHdWNXZHVvX25RN0c4WDJnSDN0eGNlTXR0Rl9HZllhU0RzUzdyaXZ5dWVCVk9oQk9v?oc=5",
+          "pubDate": "Tue, 01 Sep 2026 19:29:59 GMT",
           "source": "Reuters"
         },
         {
-          "title": "US military says it is striking targets in Iran - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSmJWQVBFSWFYU0JWUGhaTDYzZEFhZmlaYXZHM21lT2dwc0tEQ0VHbU94UVVsdFE5bkFhSzVVME9XeEluek9Va1NVMVlra2M4RkRJLXZCSUFtLVdlcHdDR21ybkgycHRweGJpVVJaMHdnZXZWQmpmV2J0bExPS2Rmd1Bvb3A0bHdZMVQ2VUhWRlU5ZE40OWpvREY2TFBGZTFVWTBXSnlhdTBHcUl3ZFFMZkFqZUw5Zlk?oc=5",
-          "pubDate": "Tue, 01 Sep 2026 16:50:44 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Government borrowing costs rise again in fresh headache for global policymakers - Reuters",
+          "title": "Government borrowing costs rise anew, adding to pressure on global policymakers - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSl9GcExBdk5lb3U4c1NTalROY2NUNHE4SXdlbE5yemw4WkwteWNMdTZVTFdrcHhPUVF5Q181eTlxZ2xoUkV6Q3F4a19ldHJBdGFnaG9URjY3bXNTMDE0aV9mVDU1MUtxMTRXRl9pR2p2THVmc2JiWGlSb1prUElXTWtaNzBsb3Z5U2tCNXZlTlMtM3pHU3Y0dkVNWUhHWmVWUmJxbnZmVVFlNmVlMDR3?oc=5",
-          "pubDate": "Tue, 01 Sep 2026 16:47:36 GMT",
+          "pubDate": "Tue, 01 Sep 2026 19:27:02 GMT",
           "source": "Reuters"
         },
         {
-          "title": "China issues guidelines for automakers' overseas operations - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQM0JjV2dJemtkUGczTkVhdHhtNTZYM2FtUUNOd0Y3TTZIb3l4WEQtRGRqdkxHU09TVnE0VVJvTFYyQ3JYdGpkaDNLVUlkOXdiU1djZm1uYVBubmZxdE9SSDhxR1FrZGhiZzVUZUpCM0w0eFFJVlFFWGZGUTh4XzZCaElWeUNLVWtmQjNLYkxwWGhFT3ZmYi1qYUxRcTh3RWRteXZxOE9xOXFrWFV5Slp6V1NveGJRUnZ6Ul9nTzhvOEVjZW04d0Rodg?oc=5",
-          "pubDate": "Tue, 01 Sep 2026 16:29:02 GMT",
+          "title": "Utah judge to rule if Charlie Kirk murder suspect will stand trial - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaExwVjJ6SUlqY0dNOFdDbXdnaEpVdXA5NEdUeTNCNlVVcE8zek03TUx3c1NUcEdtSjZrTC1BY21jNGMycXNWTHVmeGV0UVA2V05OQlZXT0xIUWdOenJTM05IUUVxQmRNbkJoM05tXzAydnJDQm9RLWxHM0dSZFlYQUs0MWkxbzl3cWVFOXgzVTROLVZDUDZici1sTi1uN1gxOXZjeTdDc1d0bkhKV0ptSEVEaHRTY1B5cEZaM2JJbXBVZDhGRjF6MA?oc=5",
+          "pubDate": "Tue, 01 Sep 2026 19:12:46 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Black voters are the next big midterms test for democratic socialists - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYWtzY3RrRTdfaUVkcDZuQzhxRzZ4QUJPNm91V0JVOW9UZXhWVFphOVBkMkRWeGFBcnMwcW9IUEhzWVA5aXVHX2NweGNOMFR6aTg4OHBobjVHSDRiWmpxM2pRZFFWem04c1ZQdlJ4TV8wLXcyRFBYMk0xT3FJZDg2WU5TcGVOTnRnRWZWOUJ6NGMxTi1KNU5FaE1lQXQzYnhBdG0xcjU1TQ?oc=5",
-          "pubDate": "Tue, 01 Sep 2026 16:09:17 GMT",
+          "title": "Zelenskiy says Ukrainian drones have effectively closed Russian airspace - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMzJCRFJHQ2hzNDRvNFNhUU1Jd185Z1ZMbjdyUGRsTG9abEFBdENuWTBJcXlOUmZDdFJxbFVocGw0cGp4cWdJbUlVNXpacWtlWmRPUkFPSlpZWV8xRzJqbFRQX0x2aC1mQjZSbEgySW9yWVVpT3NfeG1vd2wzaG9zTGdsYkhkV0IxLUNEWVQ5cXM3N3pORkxCMDFXVU5zYjE4RjZGX193TDhnYnJLQ1lnT19oN1dpQWhua1NCRFJWc3FJV2VaSktYZ1VzR3FoV1dz?oc=5",
+          "pubDate": "Tue, 01 Sep 2026 19:00:38 GMT",
           "source": "Reuters"
         },
         {
-          "title": "What's behind the selloff in world bond markets? - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPN01sQ1RpX1dfMlY5bzVSbjc5RnMxb3I4RnZZQW1BZnJBM3R2S0Zkdk95dGNnWFNQOXo1Y0FqSlprVHZ5czZ5ZHdQMGtzM1FqUHpaUjV2bnBaVlYtdW9CRk9iT3hEYnFqc1VzbmFmZ3FUY2lXZnNoSFM2c0s3dGtOcXBmbnFfTUtULUk5WHhDbGY4THBfOVBZ?oc=5",
-          "pubDate": "Tue, 01 Sep 2026 16:09:04 GMT",
+          "title": "Venezuela's assembly backs oil deal announced with U.S. - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdXc4ZG9uTDdFNmdTRW00bHY3VDlpdVpOQXRtT09lQ1FmRlpZcDFJX1dKcmpxYWsxc2xCZ08wLXZWUEZsQjlmcF9vVk1zUVpnNGtHOElmdjBHOERQck1tOW5PUE9Ka0pyX2dXaDBzZ1lLT1liNVJOVFM3MHlXMmd1REtqUkhQQ0U3VHFyeW9JalY2dk5QUjd1TFJvQ2ZYbjlNY2JFV1NJdw?oc=5",
+          "pubDate": "Tue, 01 Sep 2026 18:57:55 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Keurig Dr Pepper to sell back Chobani stake, manufacturing site for $925 million - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOX3R1dXpldV9CbDRMYmlWS3RoM3hjenhxekNQc0VZSHBiVU85LXJXclA0Y1NYaS1TUjRVV2hiMzA2WFlfa3NscEdmVmo0Rnh6ZVBtVWlWOXlkcTkyZ2UyZUNtR1UxWXBYNS1NODE2X29DRjJEZGd5UUFmODZwdENza09IVklwSVVZNnlJaWh3OFhWSkU4SVN5OGtBLUhLbVNLZE9ESzJrWG8wOGJm?oc=5",
+          "pubDate": "Tue, 01 Sep 2026 18:55:03 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-01T17:24:08.896Z"
+      "updatedAt": "2026-09-01T20:05:46.263Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-01T17:24:09.208Z"
+      "updatedAt": "2026-09-01T20:05:46.454Z"
     }
   ]
 }
