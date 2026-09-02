@@ -1,13 +1,43 @@
 {
-  "generatedAt": "2026-09-02T18:53:42.492Z",
+  "generatedAt": "2026-09-02T21:40:08.238Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
+          "title": "South African airline behind daring stadium stunt cancels next flyby",
+          "link": "https://www.bbc.co.uk/news/articles/c2e0r4nwg30o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 02 Sep 2026 21:21:08 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Uber shuts operations in Nigeria and Uganda with immediate effect",
+          "link": "https://www.bbc.co.uk/news/articles/c86xpv8l9y9o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 02 Sep 2026 20:21:04 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Watch: Jury still unable to reach unanimous decision in Lindsay Clancy case",
+          "link": "https://www.bbc.co.uk/news/videos/cy8z32v7130o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 02 Sep 2026 20:12:32 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Maltese tycoon acquitted of orchestrating murder of renowned journalist",
+          "link": "https://www.bbc.co.uk/news/articles/c5ye295pxgxo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 02 Sep 2026 19:05:31 GMT",
+          "source": "BBC News"
+        },
+        {
           "title": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says",
           "link": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 02 Sep 2026 17:33:45 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Netherlands moves billions in gold to London in 'crisis preparedness' move",
+          "link": "https://www.bbc.co.uk/news/articles/cvgy51xlz39o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 02 Sep 2026 17:21:00 GMT",
           "source": "BBC News"
         },
         {
@@ -17,48 +47,30 @@
           "source": "BBC News"
         },
         {
-          "title": "South African airline behind daring  stadium stunt cancels next flyby, regulator says",
-          "link": "https://www.bbc.co.uk/news/articles/c2e0r4nwg30o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 02 Sep 2026 16:58:59 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
           "link": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 02 Sep 2026 16:49:00 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
-          "link": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 02 Sep 2026 16:12:43 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Nepal intensifies relief and recovery efforts after deadly floods, UN says",
-          "link": "https://www.bbc.co.uk/news/articles/c8xk45k9r1go?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 02 Sep 2026 15:57:13 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians",
-          "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 02 Sep 2026 15:33:19 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Lizzo 'grateful' after judge dismisses lawsuit against production company",
-          "link": "https://www.bbc.co.uk/news/articles/c8xk4rl904vo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 02 Sep 2026 15:20:19 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-02T18:53:41.243Z"
+      "updatedAt": "2026-09-02T21:40:06.623Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "The IRS slashed its staff. One result? More taxes going uncollected",
+          "link": "https://www.npr.org/2026/09/02/nx-s1-5954022/irs-tax-collection-job-reductions",
+          "pubDate": "Wed, 02 Sep 2026 15:56:58 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "A jury in Malta acquits a businessman in the killing of reporter Daphne Caruana Galizia",
+          "link": "https://www.npr.org/2026/09/02/nx-s1-5954420/daphne-caruana-galizia-case-yorgen-fenech-acquitted-malta",
+          "pubDate": "Wed, 02 Sep 2026 15:48:18 -0400",
+          "source": "NPR"
+        },
         {
           "title": "New Jersey asks Supreme Court to resolve fight over Kalshi's future",
           "link": "https://www.npr.org/2026/09/02/nx-s1-5954230/supreme-court-prediction-markets-kalshi-new-jersey",
@@ -94,132 +106,120 @@
           "link": "https://www.npr.org/2026/09/02/nx-s1-5952190/chevron-venezuela-oil-deal",
           "pubDate": "Wed, 02 Sep 2026 10:08:03 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Medical groups offer vaccine guidance to fill federal vacuum",
-          "link": "https://www.npr.org/2026/09/02/nx-s1-5947884/covid-flu-rsv-vaccine-recommendations",
-          "pubDate": "Wed, 02 Sep 2026 10:00:58 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "New lawsuits claim OpenAI execs put image ahead of safety in Canadian mass shooting",
-          "link": "https://www.npr.org/2026/09/02/nx-s1-5953021/openai-tumbler-ridge-mass-shooting",
-          "pubDate": "Wed, 02 Sep 2026 08:22:42 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-02T18:53:41.352Z"
+      "updatedAt": "2026-09-02T21:40:06.905Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Jury in Lindsay Clancy trial tells judge for a second time that it can’t agree on a verdict - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcDR2aHlEa1YxemttTW9SQzE4cmFFMDlJS3lVNWw0dFU0R0IyTmNJcHRjTE9HM2F2V1RrY19qamNtSUQxekNXc3BqWjZZanpHbTQ1S0hZbmdFTFhLUmNfd1hWRGpCTU10R1BEWXpOTmVsN2FOaTh4bE5fak53R25XUV9Jc3R4dURYWDduWHhybk9nQ1lDLTdYTQ?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 18:47:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Iran fires on its Gulf neighbors, retaliating for US strikes after a wedding was hit - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSTQ5RWEwemszN1g0ZGdybDJrd0d4MW9sTk43M05welQ3WGZmeWgycERkU0NFck5vMDc4eXBjbmdQSzc0OTNodV9tMXhpTFg1WF9SR2JXOXp3aEVGVjBHSUlwVFR5QWpVdnJodmNfV1FmdEZBeDlhUHNJZVZPeHliVlBQU3hZTXJhNGgzNGZoNURLUWtqOW53OUF2TTJpSEpsNGVBTDVyOUI?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 17:55:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Jury in Malta acquits businessman accused of masterminding slaying of journalist - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUlVmQUxKbFNXVXhYNWQwOEJkbVFZSnEtSk5RMkZfbUZacmd2UmNiSXpJdURkVlhOeDdHSER5R2tEYUIyYmxhck1xZ3dNeXROR1V1c0xSY2E1QmxuU3R3SDlSbTBnQk1BT21tWGduY2phVGxfMEswUDhQMEFWYzNTV29LVmZfSVlJdHdTX21PRy0yR1FqTmgtM25GTE56b0otM2YzclhVY0l0dGVRR0N5VlRaZw?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 17:45:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Postal Service work to comply with Trump's executive order is rushed and sloppy, a whistleblower contends - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQkd4Zk5iSDQ5MEUwOWtZRm9aNlNmSTI5OUE1QnhxSmZvNE41MnJPUUtTWVcwbXVRbDZoSF9FaS1DTUJPbG8zZ1MxOFRuVlR3Z3dSWVFzZTVuWjk5dFRrNUJfVkdicUk1RUMyM29WSTVmSTNpZWlyZFNQWVVBOGJ0cHlVeE5YTDBlLUNwdk40OXQwVGtoV3FyWE93Q0gzbXZjWkJPb21LTQ?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 17:38:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Stocks rise on Wall Street as oil prices, bond yields hold relatively steady - AP News",
+          "title": "Wall Street rises as tech stocks climb and oil prices, bond yields hold relatively steady - AP News",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZWpnZ3RKcXY5RDdJZlprM3VNZmtNemdGTVlvc2hhR2R4SmpFRTdMdy16bVd4TFEzTFlHdDc1emVDMVQ2cnpDcVRNZ1hlWUNLMzV0UG9DZ040TGlSclIwM1NsR2pkREdVYXJVVjZWc3Z2anJTaUQxYWxDYWhUOTRuc0pndl9mNTIxWW9HSzFTdlBHM1k?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 17:31:00 GMT",
+          "pubDate": "Wed, 02 Sep 2026 21:23:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Deadlocked jury in Lindsay Clancy trial goes home after a fifth day without a verdict - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcDR2aHlEa1YxemttTW9SQzE4cmFFMDlJS3lVNWw0dFU0R0IyTmNJcHRjTE9HM2F2V1RrY19qamNtSUQxekNXc3BqWjZZanpHbTQ1S0hZbmdFTFhLUmNfd1hWRGpCTU10R1BEWXpOTmVsN2FOaTh4bE5fak53R25XUV9Jc3R4dURYWDduWHhybk9nQ1lDLTdYTQ?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 21:17:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Jury in Malta acquits businessman in killing of investigative journalist - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUlVmQUxKbFNXVXhYNWQwOEJkbVFZSnEtSk5RMkZfbUZacmd2UmNiSXpJdURkVlhOeDdHSER5R2tEYUIyYmxhck1xZ3dNeXROR1V1c0xSY2E1QmxuU3R3SDlSbTBnQk1BT21tWGduY2phVGxfMEswUDhQMEFWYzNTV29LVmZfSVlJdHdTX21PRy0yR1FqTmgtM25GTE56b0otM2YzclhVY0l0dGVRR0N5VlRaZw?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 20:30:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "US oil giant Chevron confirms it will expand operations in Venezuela - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeUY5RDVMaG9WMTE1ZHVocE9lUWVQWXNiOFBGY3dUc3hOdTVIYzRtNkwyV0VJYTRPcnNSR2hoYkh6Q2JFQ3RYS2JQSTlVeXhrcF9XVzBVeVA5OEdxSVp1RHZ1QmhWX1FXM3lYVWdVeEF0T1V5TFh0cS1scmdZd2d2RVg2aE0wd3Z5T1gxRE5BbkI?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 20:25:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Heads or tails? $1 coin with Trump’s face and gold finish to go on sale - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOT2tTalBvaUh3dnZOMmRWVGczTHktWUlodUtrbHJMaXJsMjRhNC1uY0JXSVZHb1hDVjNNeHEtWXBJY2hfZ0pCQVZENlJPQkNNcHBtWUg3VmNQbi1zRzRzU1lGa2NzQU5wSVlaa00xV3hvblZGMTQzaXdsek92Z1lvYU5lc180ZWJRc0lLY3JpSE0?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 19:45:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Driscoll offers no reason for his exit as Army secretary but says Wednesday is his last full day - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM0hCZ3lyMDQxcjRSWjFmdHhFVW5hY2FzQURXZXBQdDB2dExhV1NXLUxRYmx2Qk5DYUR0aTZLNDVKYjBwMGI3S0ctYjFzYXVoTW5pQ1JWbklUZzFDRl9WQzlmZXhwTVpPOEhKUTFUakJEd0tYMVVzcVNISTRmNE0yUnNxTUhKejNDamFZcEtGQno3YmxPaUxOUUZnb0hpQlpUdzF4aFJFeTN3czFmYkE?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 19:23:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Judge orders changes to Google’s digital ads business but spares it from a breakup - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeGI5M1M3RW5USlFDS1R5bVRNQTlqN2lacnoxanBndFdzSnQ2SGIxQlZreURuX214RTA4Y1NNT2w2QnI4TTNweGtYZFVMa3psYlp1WUo0SlB3ZWtIRllzTXdwOUNuVXo0QmI3RHZ2YnFFNGxGQWdhZ294N0hEVW5WZWhKVHZRSTNydF9SMVN0ZlVMaWstNnNETS00a2tPQ1gteTdXYVp0Q3piUWs4?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 18:53:00 GMT",
           "source": "AP News"
         },
         {
           "title": "Scams in the US are at a record high. Yet most victims get no help and some end up losing even more - AP News",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQWZhZnRnTXhpbkxWLTVmOVZTbTVRVkJpaldTUE4ydWQtZTBwM0pFQzhLbGZJQnR1dF85QzY1YVl6bWg0anNwVzN3TmRVUDFvMUYzR2QtWllXNUVwM0M2UERaSDh5YjhNRzBINWYtbXZFMEpEVEdESVdmQS1wOEdKb0ZwZDQxYmJHTUsyb1pwdWx2M2pDQ1Z4bEYzQ05VZm52bm5rM2llSXVkei1ES2daSzV3?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 16:57:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Crew from USS Abraham Lincoln takes a break in Thailand after long months at sea - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORUJNV2ppcE5ETW9HNWR6bUhBd0NqekJEY05jRi04WExCX1JNNndaU00zakp3YVpDZ2xkR2VmZ25ULWhHQ0E3XzluX0dVUnJ3bWZzUHNrb1ZBZFhjLXBhUHN1RXpEbzNUVEQzRVNTWXJ6OE13UXBYcnI5QnVzbkNIS0tZMHZDMnlIQ0phbV9aRTdUbDgzVUhMSl9tejU?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 16:44:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Xi visits Egypt as China seeks deeper influence across the Mideast - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOS19jZzNyanZTMzZtcmtULXFoZ3o1S3YzTzNMcnRXVUt5Vlh1UUJ0LW5td1lQRkZTQlFld1VCbU5VS0FSTXdDV3JucGdUdnRFaWJneEVKLV9yMUZydmNOS3hDVFBjbHQ4VTM3TFhiNF84NVFOQTVJX1FKNGdMMFpGVFFqRzRvbjM2YnFvYmk5bjZ3RTc1RnlFNG4zaw?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 16:30:00 GMT",
+          "pubDate": "Wed, 02 Sep 2026 18:37:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-02T18:53:41.841Z"
+      "updatedAt": "2026-09-02T21:40:07.585Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "EU to hit back at Russia after drone attack as Germany probes new sabotage cases - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRzFCdE02NmRoUGVHUmVoUTMtbzRyV1VkSkN4OTR6U2pudFdXdlFqbFVmMldMX2RPZWxOSklmY2JCV0IwSmdOU3ktNjVVNXRubXlTWV9HcUI1OWNTMklxUDFSUlpXV3NOdEk0YUhFRlFjMUx6X3lmTHo3S29UR2hLSkVpNE1TeEQxY3ZvOS1KTkJpU3ZmY21nT2hydFBDeEJIV00yakNZc0R5NzFVbXN3a3R0cXdiU0JveHc?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 18:01:52 GMT",
+          "title": "Broadcom forecasts quarterly sales below estimates amid rising custom AI chip competition - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMHVNSmdqeHMyQ25WbzBIbEllY05mcWZaNG9DcGFPR216TGZlcURDU0k3U3VhRTJROS1VMnFEZVp0cG1vN1h2MkxJdDFCdlpfZ1pJcWs0QVhSNTUxMmxTR1FkZlJSNUduMTRqMV9faHJuemt3eWRUNW1oamNYWVRILVoyeGtPODg1VUNsSWk2aVlWNU4zQmpwRExHbUkxUQ?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 20:57:07 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Wall St set to snap three-day streak of losses despite Middle East clashes - reuters.com",
+          "title": "Norway seizes Russian ship over Naftogaz award - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbTlzanNraHp6Y1VsOVdIVWlHbjhVN1lXX1FuWm5taUpFOXNvQmQwLUxpWXI1b3pXcEFJOE16M3h0R3MzTEFhbEJrWFZ3cjlERjFWQ2xfMnZlRW1uWnVrTjdlS09IWHk0d0xYNlVucDlYamM1NGJQLU1ibU42bnp4ZTJFM2dLMmxlbmZFWVd1NHZYN1RUcDNzSmpqVmN4bVhlUDhR?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 20:23:32 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Jury in Lindsay Clancy's murder trial remains deadlocked, to resume deliberations Thursday - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNd3JhNTZoRlJiaVpQVS1VTl90MlFidGRMWW5NY2JtTnNwODZ2T3RwaTBYanU2V2J0RkNNb292Znp6Wnl1Mk8wMEhxZU14aHpiRk9yUTRrelZvX2J0Uko5Ym1LYUdab3BPQ2RyYm4zdXdsRWZSVVpTYmFNNXE5QlhIVmRCQlAyUnN3WXBzbVpJVWNxYWtmeHMwNFhxdWxGZEtqcGxlRFdGdEVSY2ZtczNURGR1Y0VvaVBOZzNRcWt5YU9Qd3hYTEE?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 20:23:21 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Wall St ends higher as stocks reclaim some shine - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUmZ3SUhHbXJYY2d1bWZHdjZ4MHIzLWdpTzFRWGdWU0pfZDhpV3ZoWVJnY194WF9PR0UxQjRES2NjOHBIbkpTcW9iY1l0Y05uYS1kd1Fha2lnYXNVS1VyZ0xlWGVPaF9Qamh6R2lLZDF5bDBLUFdaTU1RNmtoMVhhcEFCdWJvZWlxNUpYc2FuSG0zb2hFRW1IUW9OZWVOUFNwbWF3V1ZWS2xoaFQ5ZV9CdFpGVEo?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 17:47:58 GMT",
+          "pubDate": "Wed, 02 Sep 2026 20:19:34 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Malta court acquits businessman of car bomb murder of anti-corruption journalist - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOank3cmNIQnJLaUZHSlFTNnRIdnpObEh4MWs5TFg3Y2ljaVJlWk5vUXVtWkRxdHlKMmdmWHdPNkxsOWlLR3VjREppcUdJWGZYUjFNYVhOT2dpTWdneTdMa3BIVVZEVkxMZ1FmNGI0UmtzMkV1czJ3Nlc3eTMyQlo3QWM3b3NhdkQ1a2tySm0ybjF6VjhOT1JsVElpZ0pHTWhaTGpxeThhZy04d1dFaUR6OTFfbld5b2c?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 17:46:05 GMT",
+          "title": "Trump 'happy' Harry and Meghan left the United States: 'I was not a fan' - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYlhxN1RXSU5tSHBXLXdYSkppSHlrUnRwOHBZYUhVQnVPRW9qSHNMMUEtZWZvVWJIcFVJYXBDam1VcXJVREgtMUNISjdLbXZ4Qkc5TU12Q2dhRmRhWFJvcFFqMEtmSEUxTHdabEIyV3loQk9XaEpRTGhGYjNrZFNZNnVuMXZacTVwS1p0WlJxYlZnWVI3STNv?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 20:17:48 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Prediction market Kalshi to file for US crude oil 'perps', source says - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVHVHWUZFV2NwRnJRa3R6djZ0SE9RX3dENmp4OFZYaXh3OTRuYXdlUUl6MWgtX2Q3VmlxdFJSOWZrUW5MNFRoS1ZwME9UanA4dUpobUtJRlROZFhGLUprRGtvSVNnWF9wem9iZDFnRWJ4VnMtSXhqSGZpWVlNTFhETnd6ZWRFTVE3QW50QW42S0RQM2d1WnBxaHUxZE9zSGkyLUNIQXBRNTNTdWdnb1I5dl9R?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 17:20:06 GMT",
+          "title": "Trump says renewed US campaign against Iran won't last long - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZkprNWZWZmliWmh1WXZLMk5HVUY0VDVUWkE1dU15a2xyeVJkWDNsS25aQnRqUVo1Zmh4OUxCMkk1RkFHRThST0JZQlpHNGJnSjB2aGpoanJWWXNBakVMcEhMUzNsSW5iZUM2SEJ0VXZuclFLM0laLXlGdHdQRVNNZGdwdmZ6YmhzSDhWNFZWRFR4S0pIWWVIb2pxUG4yalQ5cXhTU1dR?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 20:11:01 GMT",
           "source": "Reuters"
         },
         {
-          "title": "US government backs OpenAI in New York Times copyright case - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOODVsb2JiWUlRc3pRYm51czFaekswTjZmUXNCc3N6R0FhVllZNTJ3OXp6dHBiamNYazFmdHNpTUswSUZ3U3AwbENheHhKbjJmN2hwaS0zZUlMcEp5cm9LWDlLUkZUZlBLc21NZk5IMkNtQ3JzVFdUcGhVaWJCemgxZGtRdkFpR0lpbzA4WUhEX0FqQjZVaklRdUVuU2o3SkxWVEpFRkZyNUt0cThiTVE?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 17:16:48 GMT",
+          "title": "Thousands protest in Ceuta as Spain rallies over enclave's migrant crisis - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWV9wVURlYzIzODM0ZEJTbUU2aWJwOVMtRE9GdU0xLWVuZGJlWHZCdzFRc1BYc25PRVBNTnUwRF9TYTNsUXNFa1JDLTJNX3hJeVd1cE81dEpFTlNJTWY0TG9qaFBWOHUyaVJ6eFZibGUzSndYRzFzdVRTeXFuRm5fOFZOaEd5Z0t5eEg0dG1DYVpjVjNFZS0xZlE0bTRQcFlTd1BxbXk2SFREcXprbFd0RWhPb3BNX1JF?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 20:08:09 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Chevron, ENI ink pacts for large oil project expansions in Venezuela - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbUpHN1lnRWV3ZmJ3dUhndFkwZXpBT2JlT0Z4S0gxU2VCT0pObVVjYVdQYmhjeGVDOVNCaG5qejRNUTE3ZTVnaTdsTEhETFFFZlpwVEpqR29DZTZNUUl4LUVlOWlaeWtCcDlzYUNRUVd0ZmtBX0RBWThudTJHSHJucVFLQXBiN0tPUy1yOVJRWmFiM0x5TVBzbHQ2SzFNRDN1STJqWXY1RUpQeEJRN3UzTnhnaE5HXzBaM190SzNxQmViNnplYUtiYWtB?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 17:16:10 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US Commerce chief says Anthropic back on 'right side' with Trump, Axios reports - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMHBQMU5YZUNBMjNSRS1VaGhzeHFWVVZhZDNpNjltUUNKVHN5TElMeVkyaVp0VU1XQVNsS0xzdGZTZUZnM3N2QTdVUGlJczNQYnE3MTFhYmU3OUJCOHJUZ2tCNWk5cWlheHQzY25Qc2x2RnJRWWhGU2VzbThNWElSWHM0WXlWeTZrbmc3MVVXRlNGWlNkN3RISE1lRGVZU2RjbFBVRE1GTUdON3FkNl9MTmlHOVdPU3ZzUDVpeA?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 17:15:34 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "From street names to supply chains, Canadians pull away from US as rift grows - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYl91c3ctMThSR18yUGRXLTlrdkpueHBUZHRHNTloRHdmWFlmZTZHLW5OeGVZWXZOTGhjQVdLeGZsYXhNd2J5Z2xIRjFLRlBzT3NCRFlqTFRxb0JkLWxaNzNOUmVuN0x4RWY5czV3a1hyNWdzX1MzR1lKb1g5QTIydVljbThpOWJOTE5mM2pTa18tZ1NINWZoVktVc21IZ3lVbFVNTUlwN00?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 17:14:00 GMT",
+          "title": "Moscow vows to avoid airspace disruption despite Zelenskiy's warning - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOXpKemhWZ2xURGtiWXd2cVVsRUxFX0NSZ1ZCSEZuUzFkemVyVk9XVU9Da0hVeng0SFhXYVJWNEJ0Vy12VFlkcXB5dFFMZ2NFZHAtUklxSzZ4SkdSNERyakRORXFCem82YXdmSVdGUE9sWmREcGZHUy1SX2tRTVdMNVQwTW1NYnRJRjZCdlhkTFZHcHRoX2Fhb1NjWGpzLVA2b3kyaXlnLTF6TWN2QmhWSl9hWU1BQVVCYjE1aW9OSQ?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 20:06:08 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-02T18:53:42.331Z"
+      "updatedAt": "2026-09-02T21:40:08.025Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-02T18:53:42.492Z"
+      "updatedAt": "2026-09-02T21:40:08.238Z"
     }
   ]
 }
