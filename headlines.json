@@ -1,19 +1,37 @@
 {
-  "generatedAt": "2026-09-03T13:48:28.402Z",
+  "generatedAt": "2026-09-03T17:44:00.351Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "Vance's Antichrist comments are a 'common belief', his friend tells BBC",
-          "link": "https://www.bbc.co.uk/news/articles/cn4kwzr8gd9o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 03 Sep 2026 13:07:02 GMT",
+          "title": "Trump $1 coin makes him first living president on US currency in a century",
+          "link": "https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 03 Sep 2026 15:35:47 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Palestinian teens killed during settler attack on West Bank village, officials say",
+          "link": "https://www.bbc.co.uk/news/articles/cj6482r6yl4o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 03 Sep 2026 15:05:57 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Anthony Joshua's driver attempted overtake before fatal crash, trial hears",
+          "link": "https://www.bbc.co.uk/news/articles/cd68jv9d21zo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 03 Sep 2026 13:54:49 GMT",
           "source": "BBC News"
         },
         {
           "title": "Feminist activist and journalist Gloria Steinem dies, aged 92",
           "link": "https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 03 Sep 2026 12:57:46 GMT",
+          "pubDate": "Thu, 03 Sep 2026 13:52:18 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Vance's Antichrist comments are a 'common belief', his friend tells BBC",
+          "link": "https://www.bbc.co.uk/news/articles/cn4kwzr8gd9o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 03 Sep 2026 13:07:02 GMT",
           "source": "BBC News"
         },
         {
@@ -33,32 +51,20 @@
           "link": "https://www.bbc.co.uk/news/articles/clyqw44w142o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 03 Sep 2026 11:35:52 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "US sailors go shopping before hitting the bars in Thailand after 250-day voyage",
-          "link": "https://www.bbc.co.uk/news/articles/cj9x2k8n3y1o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 03 Sep 2026 11:33:09 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Liechtenstein MPs vote to legalise abortion despite threat of veto",
-          "link": "https://www.bbc.co.uk/news/articles/c9dwedep38po?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 03 Sep 2026 11:30:38 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "How Gloria Steinem changed the lives of generations of women",
-          "link": "https://www.bbc.co.uk/news/articles/cqv5wxyp5xwo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 03 Sep 2026 11:26:07 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-03T13:48:26.528Z"
+      "updatedAt": "2026-09-03T17:44:00.078Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Kissing apes, anti-splash urinals: This year's Ig Nobels showcase surprising science",
+          "link": "https://www.npr.org/2026/09/03/nx-s1-5950370/ig-nobel-awards-kissing-urinals-move-switzerland",
+          "pubDate": "Thu, 03 Sep 2026 13:00:00 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Dems demand DHS fund election security. And, journalist Gloria Steinem has died",
           "link": "https://www.npr.org/2026/09/03/g-s1-141784/up-first-newsletter-election-security-venezuela-oil-lindsay-clancy-gloria-steinem",
@@ -78,14 +84,14 @@
           "source": "NPR"
         },
         {
-          "title": "As millions of kids lose SNAP food benefits, free school meals are also at risk",
-          "link": "https://www.npr.org/2026/09/03/nx-s1-5954205/snap-food-free-school-lunch-usda",
+          "title": "Democrats demand Homeland Security officials fund election security ahead of midterms",
+          "link": "https://www.npr.org/2026/09/03/nx-s1-5954541/election-security-midterms-dhs-democrats",
           "pubDate": "Thu, 03 Sep 2026 05:00:00 -0400",
           "source": "NPR"
         },
         {
-          "title": "Democrats demand Homeland Security officials fund election security ahead of midterms",
-          "link": "https://www.npr.org/2026/09/03/nx-s1-5954541/election-security-midterms-dhs-democrats",
+          "title": "As millions of kids lose SNAP food benefits, free school meals are also at risk",
+          "link": "https://www.npr.org/2026/09/03/nx-s1-5954205/snap-food-free-school-lunch-usda",
           "pubDate": "Thu, 03 Sep 2026 05:00:00 -0400",
           "source": "NPR"
         },
@@ -96,20 +102,14 @@
           "source": "NPR"
         },
         {
-          "title": "Morning News Brief",
-          "link": "https://www.npr.org/2026/09/03/nx-s1-5947221/morning-news-brief",
-          "pubDate": "Thu, 03 Sep 2026 04:03:57 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Xi visits Egypt as China seeks deeper influence across the Mideast",
-          "link": "https://www.npr.org/2026/09/03/nx-s1-5955295/xi-china-visit-egypt",
-          "pubDate": "Thu, 03 Sep 2026 03:04:25 -0400",
+          "title": "Veteran political journalist on division among Democrats over democratic socialism",
+          "link": "https://www.npr.org/2026/09/03/nx-s1-5910644/veteran-political-journalist-on-division-among-democrats-over-democratic-socialism",
+          "pubDate": "Thu, 03 Sep 2026 04:08:56 -0400",
           "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-03T13:48:26.847Z"
+      "updatedAt": "2026-09-03T17:44:00.106Z"
     },
     {
       "name": "AP News",
@@ -163,7 +163,7 @@
           "source": "AP News"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-09-03T13:48:27.785Z"
     },
     {
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-03T13:48:28.402Z"
+      "updatedAt": "2026-09-03T17:44:00.350Z"
     }
   ]
 }
