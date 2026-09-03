@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-09-03T17:44:00.351Z",
+  "generatedAt": "2026-09-03T20:49:52.602Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Data centres are booming in Australia - but at what cost?",
+          "link": "https://www.bbc.co.uk/news/articles/cgl3we7wdr3o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 03 Sep 2026 18:32:03 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Feminist activist and journalist Gloria Steinem dies, aged 92",
+          "link": "https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 03 Sep 2026 18:04:34 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Trump $1 coin makes him first living president on US currency in a century",
           "link": "https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&at_campaign=rss",
@@ -23,12 +35,6 @@
           "source": "BBC News"
         },
         {
-          "title": "Feminist activist and journalist Gloria Steinem dies, aged 92",
-          "link": "https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 03 Sep 2026 13:52:18 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "Vance's Antichrist comments are a 'common belief', his friend tells BBC",
           "link": "https://www.bbc.co.uk/news/articles/cn4kwzr8gd9o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 03 Sep 2026 13:07:02 GMT",
@@ -45,20 +51,44 @@
           "link": "https://www.bbc.co.uk/news/articles/c1mvll11ll5o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 03 Sep 2026 11:49:50 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Toxic wildfire haze spreads across South East Asia as 'super' El Niño intensifies",
-          "link": "https://www.bbc.co.uk/news/articles/clyqw44w142o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 03 Sep 2026 11:35:52 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-03T17:44:00.078Z"
+      "updatedAt": "2026-09-03T20:49:51.876Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Trump asks Supreme Court to lift block on USPS plan to restrict mail voting",
+          "link": "https://www.npr.org/2026/09/03/nx-s1-5955614/trump-mail-in-voting-ruling-court-usps",
+          "pubDate": "Thu, 03 Sep 2026 16:48:21 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Tributes to Gloria Steinem are flooding in, from Hollywood to Capitol Hill",
+          "link": "https://www.npr.org/2026/09/03/nx-s1-5955579/gloria-steinem-tributes",
+          "pubDate": "Thu, 03 Sep 2026 15:04:19 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Later in life, Gloria Steinem found herself free of the 'demands of gender'",
+          "link": "https://www.npr.org/2026/09/03/nx-s1-5955479/gloria-steinem-fresh-air",
+          "pubDate": "Thu, 03 Sep 2026 14:42:39 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "ICE officer faces federal charges for lying over shooting of Venezuelan immigrant",
+          "link": "https://www.npr.org/2026/09/03/nx-s1-5955654/justice-department-charges-castro-ice-officer",
+          "pubDate": "Thu, 03 Sep 2026 14:14:53 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Fox News star Maria Bartiromo is out at the network",
+          "link": "https://www.npr.org/2026/09/03/nx-s1-5955645/maria-bartiromo-fox-news",
+          "pubDate": "Thu, 03 Sep 2026 14:05:57 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Kissing apes, anti-splash urinals: This year's Ig Nobels showcase surprising science",
           "link": "https://www.npr.org/2026/09/03/nx-s1-5950370/ig-nobel-awards-kissing-urinals-move-switzerland",
@@ -76,150 +106,120 @@
           "link": "https://www.npr.org/2026/09/03/nx-s1-5718381/gloria-steinem-dies",
           "pubDate": "Thu, 03 Sep 2026 07:14:24 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "An epic train chase is turning 100 — and Buster Keaton fans are celebrating",
-          "link": "https://www.npr.org/2026/09/03/nx-s1-5921324/the-general-buster-keaton-anniversary",
-          "pubDate": "Thu, 03 Sep 2026 07:00:00 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Democrats demand Homeland Security officials fund election security ahead of midterms",
-          "link": "https://www.npr.org/2026/09/03/nx-s1-5954541/election-security-midterms-dhs-democrats",
-          "pubDate": "Thu, 03 Sep 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "As millions of kids lose SNAP food benefits, free school meals are also at risk",
-          "link": "https://www.npr.org/2026/09/03/nx-s1-5954205/snap-food-free-school-lunch-usda",
-          "pubDate": "Thu, 03 Sep 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Inside the failed mission to eliminate FEMA",
-          "link": "https://www.npr.org/2026/09/03/nx-s1-5943052/fema-trump-flood-wildfire-hurricane-disaster",
-          "pubDate": "Thu, 03 Sep 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Veteran political journalist on division among Democrats over democratic socialism",
-          "link": "https://www.npr.org/2026/09/03/nx-s1-5910644/veteran-political-journalist-on-division-among-democrats-over-democratic-socialism",
-          "pubDate": "Thu, 03 Sep 2026 04:08:56 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-03T17:44:00.106Z"
+      "updatedAt": "2026-09-03T20:49:51.934Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Lindsay Clancy jury is deliberating for a 6th day but there’s growing risk of a mistrial - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdldkSUJTdGNsQVE2NENrOFhmRGhxcTFCLWhqNmtWNUlIbUd1XzB1cTNya0hQeTNwUmt6SG1reTNiZnZwUWNyWE5rTERnTkY5bDZ2em16MjA0UDRCbER4dV95ZGFfdXN0MnhzRGR0MkNnVXJTOUN4blNhVjM1cHNQMzhSWVJ2V2VUaS03Ni1CdFVPU2FGQVE?oc=5",
-          "pubDate": "Thu, 03 Sep 2026 13:31:00 GMT",
+          "title": "Trump again appeals to Supreme Court on mail-voting restrictions with midterm elections looming - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNci1PNmVNOTJNZ0ZmeUxKYmtpVUF0dEYwRzRxYld3YUFvOTZXRngwdlpIY3EyWEJXTmY0Z3hXM0Z5LVFCUFg3bXZRZGUtT0NYZ1Q2U3d0eExoX0d1WFp0dzJLX215RTVtd2ZQSHFCUjBpdGlSZGo1SVUxYkdnR1ZfalRob3dPSmYzaTAyRzhXdTJMRXpJMUVlbVVvZU84YXV2M0cw?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 20:36:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Gloria Steinem, a potent voice of US feminism and co-founder of Ms. Magazine, dies at 92 - AP News",
+          "title": "Gloria Steinem, defining symbol of women’s movement and eloquent advocate for equality, dies at 92 - AP News",
           "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdHVwc0tqcEpmS0RrZjRoNTZ0M1NKdF8tb1Q2TjFUT1hrbHR6MGVfWVgwXzBSUFlpSkNDQ094MlEzdVNUYVNEN0dCT0VwYng5bG9RVU1mLVVUSWhBSzdNZW8tTDUxcXpxMUgyMngwemxoSVd1ckVFWnpHVkNvYmlaanVpbTFLdw?oc=5",
-          "pubDate": "Thu, 03 Sep 2026 13:27:00 GMT",
+          "pubDate": "Thu, 03 Sep 2026 20:19:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Judge sends deadlocked Lindsay Clancy jury back after defense seeks 1 juror’s removal - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdldkSUJTdGNsQVE2NENrOFhmRGhxcTFCLWhqNmtWNUlIbUd1XzB1cTNya0hQeTNwUmt6SG1reTNiZnZwUWNyWE5rTERnTkY5bDZ2em16MjA0UDRCbER4dV95ZGFfdXN0MnhzRGR0MkNnVXJTOUN4blNhVjM1cHNQMzhSWVJ2V2VUaS03Ni1CdFVPU2FGQVE?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 19:47:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "ICE officer charged with lying to investigators in the shooting of Venezuelan man, AP source says - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVUl0MEVpMy1GZG5val9mQ1dWaTBhcktHcjdZd1R1c2xBV2ZxbC13Z2QtRjNpQ0QydERQd3ZDUXpGMFh5bGRxZmFCY0VaeDBhX3R0a2F3ejdPcUhtQlotRnhvNFI5aEl1QTFqYndqNHVyYmdLaDRwUk9fYUp0NEV3M0xjZ3NCbk1fV3Eya1RB?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 19:38:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "SEC sues LSU, alleging a coordinated push to recruit ex-pro athletes in defiance of rules - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWmNsSWYxZ1BoMl9meVY5ZXpmY2djZnZzQkFoTThIX19ySGkyMGFtMWM5OG1mcGlVZ3lwTFV2ZjZJSUhTYVg5LTA3bU04QXV0ai1ZejBkM1k5eDQ4SnlncC04dUtqaWRyNEZNUDRSb3hmblV5TE9nNEwwU2Y1QUtfNXdwZnJHU1c5UFloNS1DMkdTRndkSHc?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 19:27:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Iran targets Kuwait in retaliation for US bombardments, and other Mideast news - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTWlHaHJsd0IyR0szVG5zUEU0Q2F3RUEzTkJWUlZXSEhQZlF2MkMzWmU5RVhrbmFyVG15T0RiSVdsOGt5V19TZDdnSW1DdVkyUjF4bmxZdjgwZWdBbUxXbWN2aXFiUzNmcTZDNEdiU28tdmk0VGVnbmQ0UDRhREpfUno5NExnR1RJQlhscWhTS2Mwa2tMTXpzZHVHbFQ1WE1GOUJRdzB5WU51emM?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 18:49:00 GMT",
           "source": "AP News"
         },
         {
           "title": "Supreme Court lets White House continue construction on Trump’s $400 million ballroom - AP News",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaV84YlJPVE9XY0Vqdzh3Q0h3dE9XRUdHRlh5aWFIX2RqeVFBWjg1Y2FjaDZPN0pRUzZ0dEtwVkRPWUVoanNZRjQ1RjZpOS1Bdk8ySjZ1eTNPM18tTWRzUkI2bWQ2TGpLeHQzSVRoWDRSUTRUR1J2VENKREtRXzcyTks3bWp3N0VPUkZvZTJjZUxhcEdKSHNHT1BFYjluR01BVFE?oc=5",
-          "pubDate": "Thu, 03 Sep 2026 13:17:29 GMT",
+          "pubDate": "Thu, 03 Sep 2026 18:48:04 GMT",
           "source": "AP News"
         },
         {
-          "title": "AP Exclusive: Lawyer for China's Zion Church seeks resettlement help while transiting through Taiwan - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaFNCOUVQdXhqNW9oZE9RUXAyWUxORDRyZmUzWXVsYU9kMkU1bW9ueDIwcEl4TVQ1Y0dOTXlQRWdPSGZGRDAzb1otQjJxN2FiU2RBSy1tdWhlUkhiWEFONDZxRzdmc2gyNXA5QzlWOFhONHlVNC0yVVJkaXpGZTVxMFdVWE83UVhISlJWNXNqWTBZYV8wTnlwbDR3?oc=5",
-          "pubDate": "Thu, 03 Sep 2026 12:28:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Russia will close German cultural centers as Moscow and Europe spar over Ukraine - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWE9yNnJUV1ROS1J3Q3ppSlQ2elJRSDI0Yk5PQXBYbnI5SXlJS2tiREdEQl9zTFRUMDFqUEV3eGF3Z0oyTE1pVlhUdzhmOTE5M3Q1cXZhYmRLVzkzZEJzS1c5dkR0LWh5WjNBd3U0SUtXS2doaEFMbDQ4UWJ0aXRlTFhZRUowdjhRLUkwVnctRW40cndHRElGeWdmUmlHUnpQR3VLWHZSellwTWNHQy13dQ?oc=5",
-          "pubDate": "Thu, 03 Sep 2026 11:35:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Federal judge considers whether to extend ban against US Postal Service mail voting changes - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNci1PNmVNOTJNZ0ZmeUxKYmtpVUF0dEYwRzRxYld3YUFvOTZXRngwdlpIY3EyWEJXTmY0Z3hXM0Z5LVFCUFg3bXZRZGUtT0NYZ1Q2U3d0eExoX0d1WFp0dzJLX215RTVtd2ZQSHFCUjBpdGlSZGo1SVUxYkdnR1ZfalRob3dPSmYzaTAyRzhXdTJMRXpJMUVlbVVvZU84YXV2M0cw?oc=5",
-          "pubDate": "Thu, 03 Sep 2026 10:25:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Finland runs Europe’s biggest civil defense exercise since the Cold War - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPLTdpNVR5R0JHdENSLVdzVjExUTE0SWRmTFVtb19BZW1nd3lzOVdCMklHeU1aZFlLZTdWbjhIc1kzY1FEbmZOZl9UWG1RSUxOWU1GemVBM01CVVBTWEtUVGtxMEFYVTdTdElfTXc4ZGp3NE5QN29pMzVZMUk4enRtVU1rLWZfSklJSWp3M1lqdHU3dUFGd3ZiMndYODVSV09PWHRHQl9YQmx6OEdRNWc?oc=5",
-          "pubDate": "Thu, 03 Sep 2026 10:11:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Italy weighs the results as Giorgia Meloni’s government sets a longevity record - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQa3Q0dk9qa29Ob0hQOE1PVlhkWjVWaXNMRmJYQ2hrbXhSaFRlMUZZbDY5cnpER0Q3OTQxc0hDX0ZnRDBhSG1ycHNaN3NKSDNYUWNBMWVsU0NrWnF1X3ZvZEc4ejYxMldIQnhRVE94dGtidEtpdEszRXdudlpzTmJBVXpqdHlVWlFXRnJjcWhpVnJFN1JtTDNwVHRsc01hRTBxZE04VHVnZHhfTXp6YXc?oc=5",
-          "pubDate": "Thu, 03 Sep 2026 10:02:00 GMT",
+          "title": "Stocks rise on Wall Street as bond yields ease some more, even while oil prices continue to climb - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRm1qUndzRGJ6NHpzRWZueGRlcTNFS0tCb2RQakc0ZWZnUlBjUkJJM2d5RGM3eEJOelBwc21LME4xazIxc1ktTzVPOVNjNWxrb3hYenFkemtuR1R2Q3Rvajk1Tmd1RDZLX2lnT1F2TGxldDBDXzFOM2plMmxPLWpUaVZJVEt6RHRYSGtVcVA1TGRqRjB3NWY0OA?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 18:05:00 GMT",
           "source": "AP News"
         }
       ],
-      "ok": false,
-      "updatedAt": "2026-09-03T13:48:27.785Z"
+      "ok": true,
+      "updatedAt": "2026-09-03T20:49:52.499Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Beijing accuses Pacific forum host Palau of 'hype' over its missile test - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPelc5UFA1VjR3eENZWHFoRGNoQXExUzNLQkxyVG8teENwdFBDNWhiT3A4dl9pYWRpXzdHWXJoMHdvZjZYM3pJdVJqenpWN1hCcmRtdmpQTTFMZE5PRzFxc0VxWjNTNzZOOHJOTlBTQnNVYXBGQU1zZ1gzRWYxQTBNR2VIUHBCSk9jRXNNSnhWRlJXY3dzT1BBemtIUjRhUUNKbDhiRFdJXzZ5aHQzaFdRQVZ5WEU1QQ?oc=5",
-          "pubDate": "Thu, 03 Sep 2026 08:59:05 GMT",
+          "title": "Germany probes suspected arson at defence firm as European sabotage concerns mount - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZUFlNjVwR3h5YnlMZDMybUpvMkJoZ1E5UzR5WkhSZDM1VmltYmpGTGlhblNYcXpGM0VRbVB3MFh4ajY3czFLcTRVcGxfNW9sVkVaU3cxXzdRQ2NKVnhLUHppeFY5QU4zZXlJZFdjaS1HdktzRlZra0o1NXIyd29iSTFPVG9RX3JpOEctRjhaZmdzd0d0NlFKS2V6M2ZqQ2la?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 20:33:15 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Russia recruits Danes for sabotage planning, Denmark says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWG92UXB4Yy0zWGtnZzhKVkpybmE2cklaUkhxSG1ueXBHWmpqV3lGLU94WDV4NjV6Sm1YZlFhWDBZVzRiVU1ENDJuZzN3dTdMT0hPRlpieS1ZZHVFYTR3WTlIbzFjNExwODhUR0lfSEQzTkdqeWlFelpYMUFIOURpRHQ1cHRPNmRJMXpRby1tVFAzc0ZyOUF6MzhR?oc=5",
-          "pubDate": "Thu, 03 Sep 2026 07:25:35 GMT",
+          "title": "Wall Street ends sharply higher as Waller remarks ease rate hike fears - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUzRxMTJxTk80aFlHOHU2WkVVbjhCeDhJVGNiVXFqSUg0cGhIUjY3d2hBTWQtUGVvMTJXMUVjaVJwc1lnTW9OMUp1ZjhiUjFfVlVTbk44Z1c2WTdqOVYwUUMzbVhVbHk5Tnk4V3ZoVWtvdHdBMDJDV1V2dEVRanc1UGc1ZlExN3VFTUpTTzBDcUVRZWN6Qlh0STQzb0ZqUmVlbWk4YWwzOA?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 20:21:18 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Iran warns US against Israeli attack on south Lebanon ridge held by Hezbollah, sources say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTXNYTGpEYldjZ00zSFctdU5VT1A3blcyNnhmalVSNEMwNVBEa09RWFF1Zk9ibGY2cmdmRVdid2dDbUJwaHhzcFVpVHVxUUQ1NFZRb3F2MkRHREtLZHNoSF9tZUdseGdQZ0hFdFk5eDNTT0VyQzRXLUVZYi1OanRIc3g3SE1RQUlRNGQ3TXBCbi1JZHNycUhXcHJSMXFMb21YZVNtb2cwZGVYWGQ1bGlmQTJtNHZPSi1HZU96S1QwTldxV2NLYllz?oc=5",
-          "pubDate": "Thu, 03 Sep 2026 07:17:33 GMT",
+          "title": "Bond selloff is likely amplified by obscure economic rate - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQd3hINFZzSVVjWVplYkpEeHgzVGxZSmxxTUlGQ2xYN3gzZXBneEkzN0Y1bjhIaUN3akRUcFQtcGpBODF5NUM3YWdkUkw1ZWRCcjMzQjNQN0pMbVZMRmtTZzRuU1lxZ3dJelZJcmw1TWtiZ2dTSVpDSmt6aXRhbGFUaXV6RXMzb1dJVEk2bm9RT2hFckFHb2hTRHhwRHBzU0tqQ3dVWU1xTEtLZVQycHZ4QmVhVFd2Rk1BUmc?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 20:16:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Chinese e-commerce moves to next phase after delivery price war changes shopping habits - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNR1drbGN3cGlMZTA4aTFsbExzSmc5X0cwM1lYdFFtdnQyckJqdHQzZUpvNkcxWHVBczM3c0xqN2RBOFc1NEc0WUhWVFlRcmVjeVBWYUNIaTYwZFZvN3UzT09yeGVNMlU2bWRxOGVFOTlDbk1JV3ozQ3FxOTR3Nld0MDkyLXI1bTNBNTlpREdNOW5ZcHJPRmRWWE1oR01YREpqVEdWYlQ2RjRFdHBDSThCcFFMUGI1TEozYTFPLXRGUDlFX3dsU2VkY2NzMVNzRUEzWXhVMg?oc=5",
-          "pubDate": "Thu, 03 Sep 2026 07:15:27 GMT",
+          "title": "Oil prices mixed as investors weigh Middle East escalation, chance of Russia-Ukraine peace deal - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUUpNcGxHMWt3cDdxdFVCZUNrdTBGRlZSUEpJOEg1ZENWVkRPN2lWbTZxMUU3WG56bkZScmlMM3hpOWtzOEtFcWJUaXNqUklwZU9KVlFxd2FxUEtVV2pwYnh3cXo2Y3dhZkJNUDBoSHcxN1dRM3ZCU25QdG02N1JCOHk2SjFzN2Z3UnhKc3hWbDNnWWFp?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 20:13:57 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Russia to close branches of Germany's Goethe-Institut after drone spat, foreign minister says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQT0hhbGxvSjRDQUxyRlFvQmM1VzE3VEIxdjFvM0ZELXB1RWRTZ1hEUXM1Rjl5T1NMRjlETGE1UFJFZFI5LWcyOUJzZ29lS09KeGJlaGVnUTJDS3pQMzFkOGxlakxDVGEtd3huUEM4ekRYUF91VXpEOGM4WDRaZC1SQmNJUTVva2o1YjJsbnh2TDhreEVrZ2VscGNlcEhzWlF3UFgxR25mYWtuZ3ZkRXJ5eDUyRmJNdw?oc=5",
-          "pubDate": "Thu, 03 Sep 2026 06:31:44 GMT",
+          "title": "Holdout juror preventing verdict in Lindsay Clancy's murder trial, lawyer says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOC1KS2JhV2pYLVdGZmowVEx6LU5rcVc1cE9TQWZVaTYwbkdBbVJrazlmb2Z1OHBkS05pZXV2R0U0UnBxdUNnaXNia3RxT1J0MEVQQ09FbU8wNm5nMUtTYTBGV01nVWhPczFpeHZFUUtXRl9Nc3cwaUxSd2NHYVhLVkdrMjRWY0RZX2dOV3A1YThxVGc1Z3RRSjV1V3lBNDhrSktmaGhTbDEyeTMwcmRHSERZdlBaeEw4MURXLVI2TXlnVnVDalU3UkcwMA?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 20:02:39 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Iran war escalation raises concern over civilian death toll - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZmJEcTdhQU9kcW41Z2J6enVZU2NHQ253eVV1VDJKOXBSTTJfbGhfVi1wbTQ0U1gzRllLb2xUUV9LRGRZaWpvaUlSWWRwQTdBaXdNY2x1Z3pxU1U1WjJSdzdKWGR6a2FLSXN6dnBPQ3NhM1hwUkxOZlIyd0dDX0ZycjdVSlpEUFN5N1NQbWR2UW1oRHNBU3BTZENPbGotQVFOSmdfUUFJNERYbEZTVzU3WDlrUQ?oc=5",
-          "pubDate": "Thu, 03 Sep 2026 05:42:52 GMT",
+          "title": "Volkswagen board approves turnaround plan, flags 50,000 possible job cuts across group - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONHJWZnhzWG5faWZEaUhXbDE4aUFUZ3JNWlp0SjB1RzRXS1JZT1hmSy10WDJFbE9kSVhUSE9YVzZ2NkRTY2REMEk3UHFadFp5UUgtVEdMcXowcnlmZGhjNTBVS01DQWJ4UUQ3OHhnakZjdm5IRzBaVlhQMzFaa0lVbW05X0RpRFZuV29SX0MyYVpkZGpCQ3psSlpuc0tLajZJTUIzc1hEdGdWV2swR2pQblJQZHQ2dkVmVkpkZWlFZVM?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 19:55:50 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Vietnam court sentences 11 to death in major drug trafficking case, state media reports - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNS3QtVHFjQXE3NzNLTTRmbU5OMXZsQTlGbVFNRi1FbEdpa2pVeVhGcURyUjBGZmNaNmxGOXp2WXhscUlVcUJWaGN3LUxOSkExSldvRHVfa25wV2h1ZGhKTEpGeDNiMmNKclpOVHctNU9hSVNMYWp1Tjd6NFBOdFdqa09tVG11VUhON3lidlVhR2N5RFpQS2V6a3RlcjNxOW9BWndNSDBWT29qSzZQMVA3cHp4VlV3VElPMkI0aFlYOUlyQ19rWjYwMk5ydWhPUzly?oc=5",
-          "pubDate": "Thu, 03 Sep 2026 05:37:26 GMT",
+          "title": "EXCLUSIVE: Pentagon temporarily rescinds guidance on testosterone screening for US troops - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcWVuWng3QUdzcFpucVVKYlBJbG05RWlZTGpGbFFmYV9jVDNmM2xhUlBmWFhkbktacWNiWGtBOXJXYWZScDhLcWQ1TU9wUFRTOERUVEF3MUM5enlJR0FzVHQ5MzB6ZEdkOTJsTkl5Tk12bGRadHUyeEkybDhmR1dqRXFlSjZRaE1tTGFkcGJ5MUM1UnBoUzkwd0tBc3hDVG5uVmQtczZwcGR1YzFjYnpybFZOUHdKZHBqS1B5QzlzTVNjYlFRVmJrRDFCQ1lWUV9fUU5fcjNvTDVCMnhXOVE?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 19:51:36 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Why a longer working week may not fix Volkswagen's woes - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeURBX21jZFhRR0cxRWxaekJXS29QQkhwUFlZaFpCY1JldjlINWZ6UDhKb2MyN05MSE1qaWw1ekdlcjY2d1BfajhmRElSakJlRzlvNGhndmFKY3ZLTFN4R2FFRGZDSTVLdFYzcWNXNlV1Y2NpWTQ2M2xmXzNtdXdEQS1XOUFGX1RORFlkRVNCdFM0TmZZbmM3TG1nWUhlQTlpbC1nNW9pMm1yUl9EbXdqSQ?oc=5",
-          "pubDate": "Thu, 03 Sep 2026 05:02:00 GMT",
+          "title": "Canada July trade surplus shrinks, US exports drop - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORFZzNm5ENTdxTDJpbzgybWtydi1xeFI1WnRmTXoyNlZDeTIyMFJUUEhVUVVsYnlacThKLXdqVWdIV015SlVVNThKYmJYV2M5cUtuUmVYUWNXdUJ2eG5fVXdSRnROb1ZaY3MxMFdrVk82Z0xtWTRDcmtibmg2T0FKX1k2WVNKcm5uMmdya2JIVTh6bjJJNG8zMjZNdXNKRVZuYnZBWjRBTFRhVjlHWXhtMVh3?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 19:45:10 GMT",
           "source": "Reuters"
         }
       ],
-      "ok": false,
-      "updatedAt": "2026-09-03T09:06:23.694Z"
+      "ok": true,
+      "updatedAt": "2026-09-03T20:49:52.508Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-03T17:44:00.350Z"
+      "updatedAt": "2026-09-03T20:49:52.602Z"
     }
   ]
 }
