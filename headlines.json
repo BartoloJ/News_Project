@@ -1,31 +1,37 @@
 {
-  "generatedAt": "2026-09-05T15:04:23.647Z",
+  "generatedAt": "2026-09-05T17:30:01.598Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "US envoys arrive in Moscow ahead of Ukraine talks",
+          "title": "US envoys meet Putin in Moscow for Ukraine talks",
           "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 05 Sep 2026 14:44:35 GMT",
+          "pubDate": "Sat, 05 Sep 2026 17:18:31 GMT",
           "source": "BBC News"
         },
         {
           "title": "US hits three Iranian oil tankers after saying its warships were targeted",
           "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 05 Sep 2026 14:40:53 GMT",
+          "pubDate": "Sat, 05 Sep 2026 17:15:05 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "What different world maps get right - and what they get wrong",
+          "link": "https://www.bbc.co.uk/news/articles/cly5r60v4mro?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 05 Sep 2026 16:14:24 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "At least two dead in blast at Bolivia military barracks",
+          "link": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 05 Sep 2026 15:22:41 GMT",
           "source": "BBC News"
         },
         {
           "title": "Nepal bet nearly everything on hydropower - the floods show why that's a problem",
           "link": "https://www.bbc.co.uk/news/articles/cy0zx368prno?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 05 Sep 2026 14:07:38 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "What different world maps get right - and what they get wrong",
-          "link": "https://www.bbc.co.uk/news/articles/cly5r60v4mro?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 05 Sep 2026 13:46:02 GMT",
           "source": "BBC News"
         },
         {
@@ -45,20 +51,20 @@
           "link": "https://www.bbc.co.uk/news/videos/cqlw6q0xv4zo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 05 Sep 2026 09:12:34 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "At least two dead in blast at Bolivia military barracks",
-          "link": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 05 Sep 2026 08:41:38 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-05T15:04:22.404Z"
+      "updatedAt": "2026-09-05T17:30:00.433Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "US military hits 3 Iranian oil tankers after saying Navy warships were targeted",
+          "link": "https://www.npr.org/2026/09/05/nx-s1-5959159/us-iran-warships-targeted",
+          "pubDate": "Sat, 05 Sep 2026 11:05:08 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Opinion: A sculpture in perpetual motion, removed",
           "link": "https://www.npr.org/2026/09/05/nx-s1-5948663/opinion-a-sculpture-in-perpetual-motion-removed",
@@ -100,126 +106,120 @@
           "link": "https://www.npr.org/2026/09/05/g-s1-142148/philippines-vice-president-posts-bail",
           "pubDate": "Sat, 05 Sep 2026 03:21:10 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "The U.N. backs a new world map showing Africa in its true relative size",
-          "link": "https://www.npr.org/2026/09/04/nx-s1-5958611/africa-world-map-un-vote",
-          "pubDate": "Fri, 04 Sep 2026 18:26:35 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-05T15:04:22.514Z"
+      "updatedAt": "2026-09-05T17:30:00.622Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Rescuers in Nepal pull 2 people alive from the debris 10 days after devastating floods - AP News",
+          "title": "Supreme Court lets White House continue construction on Trump’s $400 million ballroom - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaV84YlJPVE9XY0Vqdzh3Q0h3dE9XRUdHRlh5aWFIX2RqeVFBWjg1Y2FjaDZPN0pRUzZ0dEtwVkRPWUVoanNZRjQ1RjZpOS1Bdk8ySjZ1eTNPM18tTWRzUkI2bWQ2TGpLeHQzSVRoWDRSUTRUR1J2VENKREtRXzcyTks3bWp3N0VPUkZvZTJjZUxhcEdKSHNHT1BFYjluR01BVFE?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 16:59:30 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Putin and Zelenskyy agree to pause strikes on Kyiv and Moscow during talks with US envoys - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV2I3ZmdCUEl6RTJFZmRfdUdqNlNCVlBCVERfdEVTN2R3Rm9rQ0JKdHhQaW5lNHhWQndKSFF0a2JybmZ6V3AzNXRfWS1PRU5qQXRLSkUyVnQ0YjhBVUtYVVFHeE1maG4tazRPZS1NY0xCOW1faThuaDJ1VGhSUXVHdVJMakZWTzRSb1N2MGh5aXBxc1FVWlI4X0lkU1lrRGI5QWc?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 15:54:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "US military hits 3 Iranian oil tankers after saying Navy ships were targeted with missiles - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUEtPbThoMkY0OEVqRWdxUlA0eDRZYlhPTG5qbEt5V1RnazFIVzBuZHJyU2VMVHdHMzBCWmQxRDhmZ0RnOTZ2WGZPLVJTQjExWFo2amZiMmJFM3Jkb3plWnJOd0dkeEtHLXFqaFRseExIc00wUHRONXdVVWVWMWhJRmxRZFhPVTJuS3J3?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 15:38:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "A wedding party fire in Kinshasa leaves at least 22 dead, officials say - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRm1Rc0Eta3VEZlAwYVVGdXBvSklLbk51di1LMG9JQXZKdFpuaGl5akgySFBkaTVjbUhCaDVBZV9CTmZnNE9EUC1UUW9yNmluNk43Q1E4ZnRMZ3VDWlZjbGhubnNsMGxybWdHV2ladnUwWmRIRHJES28wM2pmdDNLeDhyNDE?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 14:51:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Rescuers in Nepal pull 2 people alive from the debris 10 days after devastating floods - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNX18zT1FRbXVDNm5HcEJ2WmxDRHplcmtJTEZnRjV5TXZ5YXJ6WDFYR1E5d3JBWHlwMzAtN3kwUU9OVTJLZ00yTnlPTE44UUljVF80NXdvYTRXYWlDcnhyMndOV3RhcWctQUxQb0RCMThzNHBhZWUzcjVuaFpEdzd0Tk5BR1RSYTNmaTJBeDR4NThUZzAzNFljZnc0Yw?oc=5",
           "pubDate": "Sat, 05 Sep 2026 14:37:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "US military hits 3 Iranian oil tankers after saying Navy warships were targeted with missiles - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUEtPbThoMkY0OEVqRWdxUlA0eDRZYlhPTG5qbEt5V1RnazFIVzBuZHJyU2VMVHdHMzBCWmQxRDhmZ0RnOTZ2WGZPLVJTQjExWFo2amZiMmJFM3Jkb3plWnJOd0dkeEtHLXFqaFRseExIc00wUHRONXdVVWVWMWhJRmxRZFhPVTJuS3J3?oc=5",
-          "pubDate": "Sat, 05 Sep 2026 14:03:00 GMT",
+          "title": "Greek air force jet crashes at annual aerial show, starts fire - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVmJIdGJzdkhLMUJybzF4SHU5U2VfMUpJSXRIMC1TdlozSUVnZlllX1dINEV0U1ZxUlFoUjFndkpGTGtzNWItSEp6OTFETGwxY3ZKY2l4enhVTXl6anpkbENFeVJhRkZqM3BfWk9EUk15S2hFcVdrUy13Skh4WmpaMWR3LTRhRzJWNVBkaDhkT25OM3RyNjE4?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 13:51:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Supreme Court lets White House continue construction on Trump’s $400 million ballroom - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaV84YlJPVE9XY0Vqdzh3Q0h3dE9XRUdHRlh5aWFIX2RqeVFBWjg1Y2FjaDZPN0pRUzZ0dEtwVkRPWUVoanNZRjQ1RjZpOS1Bdk8ySjZ1eTNPM18tTWRzUkI2bWQ2TGpLeHQzSVRoWDRSUTRUR1J2VENKREtRXzcyTks3bWp3N0VPUkZvZTJjZUxhcEdKSHNHT1BFYjluR01BVFE?oc=5",
-          "pubDate": "Sat, 05 Sep 2026 13:02:48 GMT",
+          "title": "UK government condemns masked anti-immigrant protesters who blocked Dover port - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcmMtejZocTNubWkybzRsekNqZlVLZHJXSHVQTG1JMWhzSGp1Rm9CZ25tbGNjTngtUmZtUVhWbzh4cGljQnJuRXJxRy1hZ0VuQ2dHV19LRno5c29Hb3FsY0ZJVTlLLTJtQlFEQXJvLXpKVmpYWmRzYXhOcF84S2VuaTRpbHBrS25uaFdoRHV6bm5fMi10NkpLNDFNc2FzNUJsRkE?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 13:00:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Iran accuses the US of targeting a tanker near Kharg Island, and other key Mideast developments - AP News",
+          "title": "Iran accuses the US of targeting a tanker near Kharg Island, and other key Mideast developments - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYVN4T1g5S1hSM09nX0hpMGNGZkx2WkFWUXdobTNjYnFlZVgxY1Y2VldMRnRLS1hHcGNrcjVZczkxVmxZaHQxTlFJR3Q0dzZFVlJGamQxSGVuMlpMRkxKeWlWZ2x3RkE5ckVCMU1EZ0VEamxqX1VXQlR1TVJtaFBEN1phTlcwd2p5WE04a2VERlBZZw?oc=5",
           "pubDate": "Sat, 05 Sep 2026 12:58:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Putin orders a 72-hour pause in strikes on Kyiv as US envoys visit Russia and Ukraine - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV2I3ZmdCUEl6RTJFZmRfdUdqNlNCVlBCVERfdEVTN2R3Rm9rQ0JKdHhQaW5lNHhWQndKSFF0a2JybmZ6V3AzNXRfWS1PRU5qQXRLSkUyVnQ0YjhBVUtYVVFHeE1maG4tazRPZS1NY0xCOW1faThuaDJ1VGhSUXVHdVJMakZWTzRSb1N2MGh5aXBxc1FVWlI4X0lkU1lrRGI5QWc?oc=5",
-          "pubDate": "Sat, 05 Sep 2026 12:51:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Endometriosis can elude diagnosis for years. What to know about the disease and new ways to find it - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNb3ZaXzNHbDIwckpUVzlrUjdaYVUyZHlYSnhSMmhueDhpRnQ0Q2pjYVBaRU9KcXdrbWpFOWRfdkVUZ3RtSVhHRGtVOVBfcWVfM3Q1Y05PdUJ2OWNlVmdNcU1xMWxJOHFERlprUzhSa2JERGJVSlZLb1JCbjJPZWcwd0YzSXlPMFpKSFJnVWxR?oc=5",
-          "pubDate": "Sat, 05 Sep 2026 12:01:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Masked men block traffic to UK’s port of Dover in apparent anti-immigrant protest - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcmMtejZocTNubWkybzRsekNqZlVLZHJXSHVQTG1JMWhzSGp1Rm9CZ25tbGNjTngtUmZtUVhWbzh4cGljQnJuRXJxRy1hZ0VuQ2dHV19LRno5c29Hb3FsY0ZJVTlLLTJtQlFEQXJvLXpKVmpYWmRzYXhOcF84S2VuaTRpbHBrS25uaFdoRHV6bm5fMi10NkpLNDFNc2FzNUJsRkE?oc=5",
-          "pubDate": "Sat, 05 Sep 2026 11:10:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Women gathered in a small Iranian town for a wedding. Then deadly strikes hit - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQY2xzWXdBZkx3dWN5b05TSjV4S210aU1qZ2hDR2JxYnVuTnNFY01sU2NKNjdoTW44bFp5SGhHQUEwc0VseHlvZ3dpUllBT0Y3RUo0bzZMWU9GbFlDWG1PNUFUN2xReGFfNVRJR25IMjRYa3pETEt2ZDJsVy1nN0djZndyMjM5MzUzUW0tTUZ5Q0M?oc=5",
-          "pubDate": "Sat, 05 Sep 2026 07:50:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-05T15:04:23.004Z"
+      "updatedAt": "2026-09-05T17:30:01.057Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "US strikes three Iranian oil tankers after IRGC attack on American naval ships, Central Command says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQc1hXR2o4Smo3UnZmTTJmM2V4bldFYkpPekNpM2NhUGozMnVKcWZWOHNyUDdmSm5YR2dWT3FRd0FHWnM1Nlc2c3pxSk1XNVdlM1VNb0VyOVRpRG9vMnMyenFVbFVNdERKVEpyeVAtQ0poemwzNTdkYkF4VENfUzhVd1pkQ2djaldJdUZFVThZVktLdXd3anlpZlBCVWpuMi1lTUw1TFA1anU1YWVEeEhIdTI1Q05zOVJqcUNnZkRTc1JxdU82RVRUSw?oc=5",
-          "pubDate": "Sat, 05 Sep 2026 14:42:01 GMT",
+          "title": "Fuel tanker explosion after traffic accident kills 10 in Western Iran, state media says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORW1OZWlZUzItUmdsYlhnaXMzU2djTWZBVERaNG4zbzhvZTcxaWtPaGJWamowRDgwTTZRX3Ftekl0bDgxMkJEdTZJbmVzei1ya245RGdiUEx4cHltelZzVTdZVlVhVUEza0dNZ0hqbFR1cTNYMHllLTAwRGdxVVVOazdEb1poa3lyTld2V0ZxR0VHZUNONVJlWFlGaXhKU0ZkamxkZ1N4Vkt4N0YzVmhDM3RYWnlmeE9FbVZzeWFZT0pLaFlwalpnQUVrRDk?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 16:19:53 GMT",
           "source": "Reuters"
         },
         {
-          "title": "The Venezuelan billionaire the US investigated for money laundering now has a Pentagon oil deal - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdU9CXzlJanVHV0E1X1VldkR1YURIamdnbTAweGxwYk1CSzdpWlJ0Y093MVg1MUlmV1d1SFF3RmVIeHlFT1dKYjdGdlo5em83Ym8zRVhMa1BZN1ZlWU9NZ2hWcWZuOUEwdFhJaGRTTmVfMDlUOTd2bzhaSDYxek9JcjZqNW9ERkhycGRtZ3pVc28xTjdScDFJbGF5TEhSNTBWQWVhNEV2R1NTbDVGZkdOU2hhWjhYN2V0SUNwSlF2OG5nd3NrcVh3?oc=5",
-          "pubDate": "Sat, 05 Sep 2026 14:36:39 GMT",
+          "title": "Greek F-4 crashes during air show near Athens, two pilots dead, sources say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWDhRUjlOUEk4X20tWWV0dzFUNXZGc0RyMzM2eEpqOS0xRnpfdXpxSUdWZXdoZkJZV3VpWlI1WEJCUFZiUWFvcEFMdmxFY1dDMkNDMDBBZmdzUmhXSlVxMndZdE5yUV9ST05BOHJjc3JvajRqVUlDYk1xTVdwX2d2bnBXRzVVVWg2TUxIUnpxTzUtZGpBUHp2OW1UTE5CbVlYS1lfTXNOVk9RSXotVjFSdDBnR3Jsa0MtSzlMbk44TnI?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 15:57:11 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Americans hit with record-high Labor Day Weekend gasoline prices - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTFRnN3lrWTZLMXNUSW1MWWwxemVSc1RuaDM1dnhkWlZpbDJZT2t5dGYxRWlMa1RiblhPN0ttUzRHUDcwUGRVVEsyb092RTAzR3lZeDN6dFpRVDN4SjhlYng0Y082RjJSVEVZWkg4SnZ2SGtaNW1DbExVTklPMXZHdnVWZTZqbUZ6QkRYMU1mLWhyeEF5VzQ2anpJaThuVmNxSF8xWTBDRkNJVzMybTV0Rlo5dlFiUFk?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 15:55:30 GMT",
           "source": "Reuters"
         },
         {
           "title": "US envoys Witkoff, Kushner arrive in Moscow for talks on peace in Ukraine - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUkQ0OXgwdkJCdnZWd0VsRWZIZThHY3FrWG8xYXhVZ3FMVmJrZ2VzN1MtQmw5T3RhNTFMTzNaWk9jQVpTcnlvY0hNQmNYdWN4ZmJ4OXlEZDUtTFI5elpNc3RublQ4MWFBVjV5aTFsQnZOYW4tWDBncXBWRUgyUWNPNFFlcFpRc2R5eDZ2eFZTaWlobWEwVnRuOEVscm5RWDg3THR3QlNVdFoyQkQ3LVUtSXVWLWduNmJ6UjFXRFFJV0tweUdWbGhSeA?oc=5",
-          "pubDate": "Sat, 05 Sep 2026 14:15:03 GMT",
+          "pubDate": "Sat, 05 Sep 2026 15:53:16 GMT",
           "source": "Reuters"
         },
         {
-          "title": "How escalating attacks are upending daily life in Kyiv - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTi1uWk5tUVg3Z0QyNUROOER0VE9HWU0yZ09IMHNGQmE4VnFxY2RqSnE2MlRqbHFpdExsT0x0dTE3N1JsZEZzUHZ3dnpGWmdrVTR3UFJDaEhxMGRBeFdUY21GZ3pmQWhBYW9UMU5zM1Q4ODdzR2xRMGpvZF8zTEZlS3hDRzZfS1VGWWVtRnlsR001TGtFMjRPVEZtNjdrNklSR2c?oc=5",
-          "pubDate": "Sat, 05 Sep 2026 14:13:02 GMT",
+          "title": "US strikes three Iranian oil tankers after IRGC attack on American naval ships, Central Command says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQc1hXR2o4Smo3UnZmTTJmM2V4bldFYkpPekNpM2NhUGozMnVKcWZWOHNyUDdmSm5YR2dWT3FRd0FHWnM1Nlc2c3pxSk1XNVdlM1VNb0VyOVRpRG9vMnMyenFVbFVNdERKVEpyeVAtQ0poemwzNTdkYkF4VENfUzhVd1pkQ2djaldJdUZFVThZVktLdXd3anlpZlBCVWpuMi1lTUw1TFA1anU1YWVEeEhIdTI1Q05zOVJqcUNnZkRTc1JxdU82RVRUSw?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 15:52:40 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Families of missing pilgrims in Tibet demand answers from China - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNDBlRm8zQ2xodG5JN1hKTF9GTXlSdFNSNnNya0JWcEFjVkRyb1RSdmVTVzZXSHFqNjV5ekJUbGZvMmlSc003RGR2MzJCUDFjMVBkRU90ZDdCMkptZDBHMWJiZ0FXRnNFOHpqdndodFBrdERwc2lXRTVBU05hQ3NfU3FtdUFFYXZTUURFSlkxVnhPQW04VXZiYjVzNjR6ZmxBRGc?oc=5",
-          "pubDate": "Sat, 05 Sep 2026 13:36:50 GMT",
+          "title": "OpenAI acknowledges 'wiki incident' and need for more transparency around unintended AI behavior - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPU0FtQktXNWY5eEpHaUxBVGI2YWpHWE9SUGUtb1BhUkxLQmJvODRPX01WMnFqeEI2RThKMi1IT0E1eDBSUngtQkIwTUtiQWFjSHpFbXY0Q1BFcjZuUnBkVEZFMnFtOWpLUHVOZ1lZZzIwT3NxSnJnNG5DdHBvWi1STnFWSk1reWZRVkpEQjlCT05fdm8tV3ItQU5kSThCSjZON3ZvNXJhNXB2dWV0Zmt6NlJ1UUxoUDY4ZjZERk1qWmNUNkIxaW01anhRSURSaGlPZkE?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 15:28:31 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Chinese national rescued from Nepal tunnel 10 days after flash flood - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaG1aeTdsTDc5NHp0U0J2UFV0eGtnY1k4TjBqT3FzS3hmM3o1Um1hRW1Xa0UtcmV3YlRFZTVROFVVRVBYY2t5MF9WekJzLXZMdWJLa1ZYeWpIZmpjcC1Vamt3bzJvd21WeWFnTjB2QWJqXzA5bWM5dHJhLTNwLXRDMnJ0SVNqUmo4cjBQYXNjWi15aURhVTE4NXhtVHJFcVJxeUlVZVRERUlXa1dZY01PVGpmclFnMkpldFZGQkdXdw?oc=5",
-          "pubDate": "Sat, 05 Sep 2026 13:35:26 GMT",
+          "title": "NATO will not tolerate hybrid actions against members, US envoy says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONmp2OVoyb1pVeGE3MTBrbjBIbXlFMHJKNFNGWGVvcldOZGNjTmt4cEI2V1IxMmduNF9Fc29NVmlMbjBLV2ExY2g2VzlBenY5aGt6Ri1QdTEtaDVUZC1vN2Nvbk9vX29UR0Zka2I3T0ZKSVpKeVhJNTRScWFRVl9XZmhHelpwMmVoNnRzY1NOcTNCSlJwcDNrNDY1ekNYTlRQMC1Gendnd1luUVF2WEE?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 15:16:10 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Tens of thousands rally in Zagreb over Croatia waste cleanup delays - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWU5mNklNMTV1TW8zNUtJbFZldzFiUURfTzN6alhRLWRpMm1fbnV0ckE3V0hodnJBRHo4bDJ4YzVyTENYQjdaQnlFMXg2ZGx5dk16R21YNkZBWmxQUU02QmprWFRVMzlXYjQyQTBnN3VpajNSWk1QbndFc0JEbzZIcldfb1hwejhCTkNGTDF1OW9VU05MYVNBZ0UtTDNrU2EwYWhEb0hxM3BqcFZFQnR5b3pmMzJndGR6eWc?oc=5",
-          "pubDate": "Sat, 05 Sep 2026 12:53:43 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Greek F-4 crashes during an air show near Athens - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWDhRUjlOUEk4X20tWWV0dzFUNXZGc0RyMzM2eEpqOS0xRnpfdXpxSUdWZXdoZkJZV3VpWlI1WEJCUFZiUWFvcEFMdmxFY1dDMkNDMDBBZmdzUmhXSlVxMndZdE5yUV9ST05BOHJjc3JvajRqVUlDYk1xTVdwX2d2bnBXRzVVVWg2TUxIUnpxTzUtZGpBUHp2OW1UTE5CbVlYS1lfTXNOVk9RSXotVjFSdDBnR3Jsa0MtSzlMbk44TnI?oc=5",
-          "pubDate": "Sat, 05 Sep 2026 12:45:11 GMT",
+          "title": "The Venezuelan billionaire the US investigated for money laundering now has a Pentagon oil deal - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdU9CXzlJanVHV0E1X1VldkR1YURIamdnbTAweGxwYk1CSzdpWlJ0Y093MVg1MUlmV1d1SFF3RmVIeHlFT1dKYjdGdlo5em83Ym8zRVhMa1BZN1ZlWU9NZ2hWcWZuOUEwdFhJaGRTTmVfMDlUOTd2bzhaSDYxek9JcjZqNW9ERkhycGRtZ3pVc28xTjdScDFJbGF5TEhSNTBWQWVhNEV2R1NTbDVGZkdOU2hhWjhYN2V0SUNwSlF2OG5nd3NrcVh3?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 15:08:05 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-05T15:04:23.523Z"
+      "updatedAt": "2026-09-05T17:30:01.483Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-05T15:04:23.646Z"
+      "updatedAt": "2026-09-05T17:30:01.598Z"
     }
   ]
 }
