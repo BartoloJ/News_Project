@@ -1,9 +1,45 @@
 {
-  "generatedAt": "2026-09-05T08:15:28.809Z",
+  "generatedAt": "2026-09-05T11:58:24.750Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "US envoys arrive in Moscow ahead of Ukraine talks",
+          "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 05 Sep 2026 11:07:08 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Lindsay Clancy murder trial has divided US on whether she's victim or criminal",
+          "link": "https://www.bbc.co.uk/news/articles/cx2z0xnw2d6o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 05 Sep 2026 10:02:29 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Trump signs order to remove endangered species protection for grey wolves",
+          "link": "https://www.bbc.co.uk/news/articles/c62k677d4lzo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 05 Sep 2026 09:12:48 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "How might Lindsay Clancy’s case have unfolded in another country?",
+          "link": "https://www.bbc.co.uk/news/videos/cqlw6q0xv4zo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 05 Sep 2026 09:12:34 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "At least two dead in blast at Bolivia military barracks",
+          "link": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 05 Sep 2026 08:41:38 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Tate brothers officially indicted with trafficking and sex crimes in Romania",
+          "link": "https://www.bbc.co.uk/news/articles/c7v4npv1m22o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 05 Sep 2026 07:20:17 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Why did USS Lincoln turn up in Thailand looking so rusty?",
           "link": "https://www.bbc.co.uk/news/videos/c4gr9y1ny3xo?at_medium=RSS&at_campaign=rss",
@@ -11,54 +47,42 @@
           "source": "BBC News"
         },
         {
-          "title": "Lindsay Clancy murder trial has divided US on whether she's victim or criminal",
-          "link": "https://www.bbc.co.uk/news/articles/cx2z0xnw2d6o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 05 Sep 2026 06:37:46 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "At least two dead in blast at Bolivia military barracks",
-          "link": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 05 Sep 2026 06:00:05 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
-          "link": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 05 Sep 2026 04:28:21 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "Is Russia proving better at protecting friends than fighting enemies in West Africa?",
           "link": "https://www.bbc.co.uk/news/articles/cx2z75keq58o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 05 Sep 2026 04:03:51 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "How much can Canada fight back in its trade war with the US?",
-          "link": "https://www.bbc.co.uk/news/videos/c74knp7y04eo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 05 Sep 2026 02:13:21 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Why are European countries moving their gold out of North America?",
-          "link": "https://www.bbc.co.uk/news/articles/cvgyn8q8gqxo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 05 Sep 2026 01:42:09 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "How the Lindsay Clancy trial gripped America - and ultimately fell apart",
-          "link": "https://www.bbc.co.uk/news/videos/cr7dzr2e789o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 05 Sep 2026 01:26:29 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-05T08:15:27.207Z"
+      "updatedAt": "2026-09-05T11:58:23.484Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Whatever happened to the floating schools of Bangladesh?",
+          "link": "https://www.npr.org/2026/09/05/g-s1-141464/climate-change-floating-schools-bangladesh",
+          "pubDate": "Sat, 05 Sep 2026 07:26:09 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "U.S. envoys in Moscow in new push for peace between Russia and Ukraine",
+          "link": "https://www.npr.org/2026/09/05/nx-s1-5959114/us-envoys-in-moscow-in-new-push-for-peace",
+          "pubDate": "Sat, 05 Sep 2026 07:08:57 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Voters are fed up with data centers. Both parties are trying to cash in for midterms",
+          "link": "https://www.npr.org/2026/09/05/nx-s1-5913671/ai-data-center-campaign-spending",
+          "pubDate": "Sat, 05 Sep 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Flock cameras draw opposition from across the political spectrum",
+          "link": "https://www.npr.org/2026/09/05/nx-s1-5955778/flock-surveillance-camera-opposition-politics",
+          "pubDate": "Sat, 05 Sep 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Philippines Vice President Sara Duterte posts bail after arrest",
           "link": "https://www.npr.org/2026/09/05/g-s1-142148/philippines-vice-president-posts-bail",
@@ -82,34 +106,10 @@
           "link": "https://www.npr.org/2026/09/04/g-s1-142042/immigration-court-hidden-tribunals",
           "pubDate": "Fri, 04 Sep 2026 17:11:56 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "'The health system in Nepal is not prepared for this'",
-          "link": "https://www.npr.org/2026/09/04/nx-s1-5954050/nepal-flood-waters-physical-mental-health",
-          "pubDate": "Fri, 04 Sep 2026 16:41:08 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Trump's arch may break ground without final approval. Veterans are trying to stop it",
-          "link": "https://www.npr.org/2026/09/04/nx-s1-5957459/trump-arch-excavation-lawsuit-veterans",
-          "pubDate": "Fri, 04 Sep 2026 16:15:05 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Whatever happened to the U.S. campaign to ban child marriage?",
-          "link": "https://www.npr.org/2026/09/04/g-s1-141468/child-marriage-united-states-india-global",
-          "pubDate": "Fri, 04 Sep 2026 13:01:24 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "With jury deadlocked, judge declares a mistrial in Lindsay Clancy's murder case",
-          "link": "https://www.npr.org/2026/09/04/nx-s1-5950421/lindsay-clancy-trial-verdict-mistrial",
-          "pubDate": "Fri, 04 Sep 2026 12:20:30 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-05T08:15:27.521Z"
+      "updatedAt": "2026-09-05T11:58:23.592Z"
     },
     {
       "name": "AP News",
@@ -117,7 +117,31 @@
         {
           "title": "Supreme Court lets White House continue construction on Trump’s $400 million ballroom - AP News",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaV84YlJPVE9XY0Vqdzh3Q0h3dE9XRUdHRlh5aWFIX2RqeVFBWjg1Y2FjaDZPN0pRUzZ0dEtwVkRPWUVoanNZRjQ1RjZpOS1Bdk8ySjZ1eTNPM18tTWRzUkI2bWQ2TGpLeHQzSVRoWDRSUTRUR1J2VENKREtRXzcyTks3bWp3N0VPUkZvZTJjZUxhcEdKSHNHT1BFYjluR01BVFE?oc=5",
-          "pubDate": "Sat, 05 Sep 2026 06:46:39 GMT",
+          "pubDate": "Sat, 05 Sep 2026 11:17:07 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Rescuers in Nepal pull 2 people alive from the debris 10 days after devastating floods - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNX18zT1FRbXVDNm5HcEJ2WmxDRHplcmtJTEZnRjV5TXZ5YXJ6WDFYR1E5d3JBWHlwMzAtN3kwUU9OVTJLZ00yTnlPTE44UUljVF80NXdvYTRXYWlDcnhyMndOV3RhcWctQUxQb0RCMThzNHBhZWUzcjVuaFpEdzd0Tk5BR1RSYTNmaTJBeDR4NThUZzAzNFljZnc0Yw?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 09:35:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Masked men block traffic to UK’s port of Dover, site of past anti-immigrant protests - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcmMtejZocTNubWkybzRsekNqZlVLZHJXSHVQTG1JMWhzSGp1Rm9CZ25tbGNjTngtUmZtUVhWbzh4cGljQnJuRXJxRy1hZ0VuQ2dHV19LRno5c29Hb3FsY0ZJVTlLLTJtQlFEQXJvLXpKVmpYWmRzYXhOcF84S2VuaTRpbHBrS25uaFdoRHV6bm5fMi10NkpLNDFNc2FzNUJsRkE?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 09:11:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Russian attacks kill 4 in Ukraine as Moscow and Kyiv prepare for visit by US envoys - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV2I3ZmdCUEl6RTJFZmRfdUdqNlNCVlBCVERfdEVTN2R3Rm9rQ0JKdHhQaW5lNHhWQndKSFF0a2JybmZ6V3AzNXRfWS1PRU5qQXRLSkUyVnQ0YjhBVUtYVVFHeE1maG4tazRPZS1NY0xCOW1faThuaDJ1VGhSUXVHdVJMakZWTzRSb1N2MGh5aXBxc1FVWlI4X0lkU1lrRGI5QWc?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 09:04:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Women gathered in a small Iranian town for a wedding. Then deadly strikes hit - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQY2xzWXdBZkx3dWN5b05TSjV4S210aU1qZ2hDR2JxYnVuTnNFY01sU2NKNjdoTW44bFp5SGhHQUEwc0VseHlvZ3dpUllBT0Y3RUo0bzZMWU9GbFlDWG1PNUFUN2xReGFfNVRJR25IMjRYa3pETEt2ZDJsVy1nN0djZndyMjM5MzUzUW0tTUZ5Q0M?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 07:50:00 GMT",
           "source": "AP News"
         },
         {
@@ -135,91 +159,67 @@
         {
           "title": "Missouri asks US Supreme Court to allow use of new Trump-backed congressional districts in midterms - AP News",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQzN1a3h6ald2bWFQamIzNEpCdnVBZE1WVjVsZnVKWms1MmtLUGRiVzRPSVVGcDd3a3hOQW1DbmU4MXU3TFYtYW9ReEdNckx3aFNmVkpFbjFMblV2Z3E2VDJkOUJINi02dnZQTVZNS1hfcFE5RGItVktseG85X013OGpRTzFEamxWYlI0dTJjOTlkLVFlMGtTQlhYdmZRdWpJQ1ZnTQ?oc=5",
-          "pubDate": "Sat, 05 Sep 2026 04:13:35 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Williams sisters reunite their iconic doubles team, losing narrowly but thrilling the New York crowd - AP News",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPd1k2d1B2NHdDczlpN1NjaTl2eXJCT0J3YmJ3cDdMekwwaGhMa1V2MnBHQ2N5ckVEZG54OHB5eUlRRHB2Z2U0TXJZS2tlV0tMMlI2emV5REdyZ3ZJajZtZW85WDNwR1RVcVh4WENPeDVCR0ZfRmNVZWdXTS16NDU1YVR3Skh1ajJkTV95cmUwVmtlUjlody0tYk9jSDRjZw?oc=5",
-          "pubDate": "Sat, 05 Sep 2026 03:42:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "ICE officer charged in Minnesota shooting released on bond - AP News",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNU2lMZm5uVndPZHpxOURLNFNaRjBGOWx1YjRYM1JHand0NDNaUHZsZ1JWcFhoTDc2OVJfb28ydzdkcW5OdjhsZGJpVnNUci1qbjl0aEVyZTl6NWg5T1YzcDE5dzh5eE96WW93bmduR2h3OHh3U3lHOXlIM1BKYkxmN3U2ci1fek0zQTFuR2trVHUtZ2tNRF9QelJPaWJSdlZZSWVoUWJrZkd1Q0x5WDF1TU1rWTU?oc=5",
-          "pubDate": "Sat, 05 Sep 2026 01:33:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Mistrial is declared in Lindsay Clancy child killings case after jury deadlocks - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcldjRVJhMFF6X3BoT1hoUW9JU1h3QzVuZzFKT19YM0dSQ0ZVdG5IbURjVXhCc1k1N3pkZkQydjdoS1N5Mnlid0M5YV9jdGV2U3NFMXI5Q2JUN1dXZ0NTY0wwTjVoeG5lRHRUSkZLS1pzemhNM2dOTXNxQkJ6SDBKY0dmRUpJZG1XNzVTcVVyUUZ0SkJXQUVVOEpuVTU5S0xtSnE1ejUwbE8?oc=5",
-          "pubDate": "Sat, 05 Sep 2026 00:46:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Midterm mail ballots start to go to voters as litigation over Trump’s order creates uncertainty - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZzVmckhKZThpMXNNRm9Tb1B2aFQ4Y1ppa2JaWGxGYTBrbnJPTVFRMTV5aUxYWmdIUF9BNFhpR1hXLVNqc3JkYmVIZEhOM1dtRndyZnZyRW5hZGl3amtYZ05Fc29XTkFxRHRNdUFWSXNQNTkzRXRqMU1xM29MV2NVeDlfbmpqMzRSSDdNd3MzcVBKdThKRUlPZlUzMFJxTVhTUVE?oc=5",
-          "pubDate": "Sat, 05 Sep 2026 00:04:00 GMT",
+          "pubDate": "Sat, 05 Sep 2026 04:03:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-05T08:15:28.154Z"
+      "updatedAt": "2026-09-05T11:58:24.057Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Philippine VP Duterte posts bail after arrest order for alleged grave threats - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVmJjQ2tlS0h6Q0ZqaVlqellyT0d1MlliVm1KY2l6bFNYS0o3c3JQR3NFS0VremNZZE9WVTFwaWhuSjJ2UDNQekFnS1pqVGxKdmt1TFdLbFgyR05keUE2SzNBRi0yeHd2Mi1yWTdoeHZyLUItbmZLUkR3RXk2dGowQ0JqeG1vWE9ac3hHeE1TRlJCdWJBTG4tenlQc3pzSTJQVi03cVJoZzZVcE5ITVM0V2lUOHg5dHh3TXNuTXR6eGVodEVvSzkw?oc=5",
-          "pubDate": "Sat, 05 Sep 2026 06:34:00 GMT",
+          "title": "US envoys Witkoff, Kushner arrive in Moscow for talks on peace in Ukraine, sources say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUkQ0OXgwdkJCdnZWd0VsRWZIZThHY3FrWG8xYXhVZ3FMVmJrZ2VzN1MtQmw5T3RhNTFMTzNaWk9jQVpTcnlvY0hNQmNYdWN4ZmJ4OXlEZDUtTFI5elpNc3RublQ4MWFBVjV5aTFsQnZOYW4tWDBncXBWRUgyUWNPNFFlcFpRc2R5eDZ2eFZTaWlobWEwVnRuOEVscm5RWDg3THR3QlNVdFoyQkQ3LVUtSXVWLWduNmJ6UjFXRFFJV0tweUdWbGhSeA?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 11:26:23 GMT",
           "source": "Reuters"
         },
         {
-          "title": "One dead, 11 people missing after mudslide in China's Jiangxi province - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRW9OSEsteUtpT2tXQzJ2U1RCbGVSNlNOQklnUWdpTmRWMXdZZlFDc19yWUFhQ3RWOC1aaDlab2ktSzRSQWxIV0RNR0JqcXVBbGJDa2NkZWI3UmY1NE1WcW5Welp4TU0zSDdsVkJiN0ZiYVIxTkg4Q2ZSMTkyOVFOUDQ5SlJuVTdIUm9rSy1hS0hCNGgyVy05YXBiaGVrYXAyUlhKaGpVWWItY3FaNmdRTEdTQUlVenM?oc=5",
-          "pubDate": "Sat, 05 Sep 2026 04:05:00 GMT",
+          "title": "The Venezuelan billionaire the US investigated for money laundering now has a Pentagon oil deal - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdU9CXzlJanVHV0E1X1VldkR1YURIamdnbTAweGxwYk1CSzdpWlJ0Y093MVg1MUlmV1d1SFF3RmVIeHlFT1dKYjdGdlo5em83Ym8zRVhMa1BZN1ZlWU9NZ2hWcWZuOUEwdFhJaGRTTmVfMDlUOTd2bzhaSDYxek9JcjZqNW9ERkhycGRtZ3pVc28xTjdScDFJbGF5TEhSNTBWQWVhNEV2R1NTbDVGZkdOU2hhWjhYN2V0SUNwSlF2OG5nd3NrcVh3?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 10:13:43 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Sydney sweats in spring hot spell, faces 'extreme' bushfire risk - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQjQzNmx1SGFvdFgtRWIxalFtQThELXZtck54UUFGRXFyT1plUTFDc05sMk5XdXdnZUNfRHhHY215TUxvX3VYbFdqSUJ6ZDgxNF85S21RRFM3aVhTa09uWHV1RHgzWGdDeUI2eVVYRF8xZGloRGN0VTU1aWhaMzFQLWZURVpYcll4QmpZVklSRm54MWxFdUpBckR0dHJZb1RIUUxRTmlwcWpxTmpxTmlyS21LVlc0dw?oc=5",
-          "pubDate": "Sat, 05 Sep 2026 03:19:00 GMT",
+          "title": "Chinese national rescued from Nepal tunnel 10 days after flash flood - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaG1aeTdsTDc5NHp0U0J2UFV0eGtnY1k4TjBqT3FzS3hmM3o1Um1hRW1Xa0UtcmV3YlRFZTVROFVVRVBYY2t5MF9WekJzLXZMdWJLa1ZYeWpIZmpjcC1Vamt3bzJvd21WeWFnTjB2QWJqXzA5bWM5dHJhLTNwLXRDMnJ0SVNqUmo4cjBQYXNjWi15aURhVTE4NXhtVHJFcVJxeUlVZVRERUlXa1dZY01PVGpmclFnMkpldFZGQkdXdw?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 09:47:32 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Seattle Times, Newsday sue OpenAI, Microsoft, alleging copyright infringement - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOE83d29ldlZFZGYwMXNLVWtXaUpMLS1xWmpDWjIzREhzTUk0cklteXNPX0ZnMlZ5M3JUcktaLUhlbVJGNHNnTTJwMy1DMFRTWWpFRy1VdmwwZVYtLTNTS0Q4WFZlLUgyd3VqSUxZX3VSTDVzeE1xOHhiclJFLVJGUjB6emhPNFVfWHgzbzBKQ0FiQ29wRmNEYkc4MjFIYjVuSW9Gc2VObDMwdjh4c0xiTFZmd3doU2NPV2I0eTJLZ0N3aDl5alE?oc=5",
-          "pubDate": "Sat, 05 Sep 2026 03:00:00 GMT",
+          "title": "US ambassador visits Palestinian town amid rise in West Bank settler violence - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcHpLU3NTaHlMWHZGRnJIYmY5RGkzZkNPbnJyVXJLSmN4M3NyMjhZaUlzbDFURzZ4VW1LOTc2SFhqc05SMURsMV84dHZhcHhLcUhlM1AyNHlyWmVlYmdSbWp0Vl9xbjBqSGllSjlCVGxySDJRMl95ZFI4V1FwVjAwT2tzWWNWdjJqWnpKMjA3V1c2QzkzWFphemhVdWRIRW53YWNjNFlkMGlMOTZMZTc5NXVtZ1NKblFMVUZObzYtSEpsODAxNDlr?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 09:17:46 GMT",
           "source": "Reuters"
         },
         {
-          "title": "US embassy issues health alert for Cuba amid oil blockade, sanctions - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMjdGUnJ6dk9oRnpIN3M3MTZuaXJQNUFDSnVDUE9OWGE0YnJIYXVLNUxBblFXUFY4RVYzclBwMFEyTmUtcFZiZWg5d1h5RWVBUGVsclZlWl9NdU42eTh2U1RZSVRCdWVCSE1KS1ZNajRGS3dtbFN2M3pJRTZVV1R0dFBQS0lkSDgxMzFxcFJpUm52dVo1Rzc0Q00zbjBYSWZmODlFWDNkamRLenJJNUFXOTFnRm5VMEk?oc=5",
-          "pubDate": "Sat, 05 Sep 2026 02:30:00 GMT",
+          "title": "Vietnam, Myanmar agree to deepen defence ties during Min Aung Hlaing visit - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOY0lORHNZUEgwYlMxYmhZcUZTalJXRVRycURMT3g2Y1cwRDJ0dGprQmlSVnQzRFJTMWs3YVFxbFJWeWw5RmxKVnpHUTdMdWdkNmtrQ3BWbE9NbF82MF9CeFpOSWJhUTdHUjIxY3Juck14elhDeFpQMV9wOUY5RFpQT2ZHb2lOVkZoNnExUEV4V2VKeDJweTZJSnVaeU9NeEU3amxVUGhRZFpjSzBjZHZzdEFQem8tRmkxTFpHX0dQOTRQMm8?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 09:11:49 GMT",
           "source": "Reuters"
         },
         {
-          "title": "EXCLUSIVE: White House reviews candidates to replace Hegseth deputy Feinberg, sources say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQS3JFN1d3eENpWkp4eGVwbGVBTm1FVTl1NWh6VzU1WGFWY1M4dFJUVDJfSnJtVUl6OG5zb1BSSmJPU1YwM0IwbHVudlMtY1ZZQXQ2SGlVSGRidlNjZmlKMXpVeWM4QkI0OTFlM1hEVko4emxMOVQycTEyUWVpanBGcXQtZlBOdUowQmhWa3JQUkdqMDV2UVV2aTVYMHBSSElYVy1RUmVxZHdWRmhXVko0amI4eld2TlU?oc=5",
-          "pubDate": "Sat, 05 Sep 2026 02:19:00 GMT",
+          "title": "Iranian tanker hit by US attack near Iran's Kharg Island, Tasnim says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQc1hXR2o4Smo3UnZmTTJmM2V4bldFYkpPekNpM2NhUGozMnVKcWZWOHNyUDdmSm5YR2dWT3FRd0FHWnM1Nlc2c3pxSk1XNVdlM1VNb0VyOVRpRG9vMnMyenFVbFVNdERKVEpyeVAtQ0poemwzNTdkYkF4VENfUzhVd1pkQ2djaldJdUZFVThZVktLdXd3anlpZlBCVWpuMi1lTUw1TFA1anU1YWVEeEhIdTI1Q05zOVJqcUNnZkRTc1JxdU82RVRUSw?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 08:51:49 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Explosion at Bolivia military base kills at least 2, 14 missing, ministry says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRklsd3Jrb19ZM2FUSmYyUW9kVUhwSEUyelBoak82R25hNi14SXF0OUUzdV95d0c1eF9hTTZBTnpnVlcyV0M3ZXFJWGhTUS1JbTZvR3FkU3lnWUdoRXRtcklybDlBclJDZ254WEpSc0FqZURXaFZ3SUtVdlplWmZCOWFRbDR1cG9zNUx2OUdhUVpHN293VWV4bEMwWS1kb25yQ2g1dlNzaThXUk1aM3B4Vg?oc=5",
-          "pubDate": "Sat, 05 Sep 2026 01:32:00 GMT",
+          "title": "Foxconn says third quarter to outperform market expectations on AI strength - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTjR3THpRX2ZqUllRY3pIRi1iYXlmM3RyUk5QSklqY3BUREVsbEdIM1RBZUt0Zy10MjZuVEV5SGprWmlsVTVxMExCYnVlNlRqTkh2SWFHQ05idUdMZXZkeXp6V1FFNzFfbmd1TFNUNWdaM0NLaTAxUURFOXR4d1pxMWJ1cXNnQk4yaVl0dV8wQzV5TFVLdEc3ZmhuajJCQ2Q4XzE0MU02azlzM0VZT09WYzZiUGM3Uy1WclZwdTBhbEx3dw?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 08:14:09 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Lindsay Clancy trial over killing her children ends in mistrial - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONElYU2NZblhTTVRRT1RRMUw3R2swWmRtY0x1WVJpUHRnbXZhNlBNb0JYMHJBaVZzdWY1ZlNlbWt4Z0RrUi1wVk1HZ3ZQMGRna3U2TXUwOGZNLTVEbklPbjUtXzZMMHhHZWg1OF9iOXJaTGU4dktFcU9IVEFMLVZ5TjMtZ3RoSHByR1dzcGpxWWQ2c1Z0VHliMnVKaE1oTERURFdyRkRnNnlJb3hGVDZTQ0FR?oc=5",
-          "pubDate": "Fri, 04 Sep 2026 23:43:26 GMT",
+          "title": "How escalating attacks are upending daily life in Kyiv - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTi1uWk5tUVg3Z0QyNUROOER0VE9HWU0yZ09IMHNGQmE4VnFxY2RqSnE2MlRqbHFpdExsT0x0dTE3N1JsZEZzUHZ3dnpGWmdrVTR3UFJDaEhxMGRBeFdUY21GZ3pmQWhBYW9UMU5zM1Q4ODdzR2xRMGpvZF8zTEZlS3hDRzZfS1VGWWVtRnlsR001TGtFMjRPVEZtNjdrNklSR2c?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 08:13:11 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-05T08:15:28.553Z"
+      "updatedAt": "2026-09-05T11:58:24.526Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-05T08:15:28.809Z"
+      "updatedAt": "2026-09-05T11:58:24.750Z"
     }
   ]
 }
