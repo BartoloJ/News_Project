@@ -1,9 +1,33 @@
 {
-  "generatedAt": "2026-09-05T23:41:45.049Z",
+  "generatedAt": "2026-09-06T04:00:54.420Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "US envoys set for Ukraine talks after meeting Putin in Moscow",
+          "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 06 Sep 2026 02:24:16 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Watch: Moment 64-year-old Nepali woman is found alive in mud-buried home",
+          "link": "https://www.bbc.co.uk/news/videos/c4gd24d1d0do?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 06 Sep 2026 01:54:29 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "'He was a lifeline' - Families at a loss after Haitian caregivers let go in US",
+          "link": "https://www.bbc.co.uk/news/articles/cg491zp13qqo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 06 Sep 2026 00:17:05 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Majority Russian-speaking city in Ukraine considers language ban in the arts",
+          "link": "https://www.bbc.co.uk/news/articles/c33kzvgn8pyo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 05 Sep 2026 23:54:07 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Aviation faces hotter, stormier skies – and passengers might have to accept more disruption",
           "link": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
@@ -17,12 +41,6 @@
           "source": "BBC News"
         },
         {
-          "title": "US envoys meet Putin in Moscow for Ukraine talks",
-          "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 05 Sep 2026 21:39:02 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "TV presenter among 11 sentenced to death in Egypt drugs case",
           "link": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 05 Sep 2026 21:29:38 GMT",
@@ -33,28 +51,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cp301rw6kvro?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 05 Sep 2026 21:00:02 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "What different world maps get right - and what they get wrong",
-          "link": "https://www.bbc.co.uk/news/articles/cly5r60v4mro?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 05 Sep 2026 16:14:24 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "At least two dead in blast at Bolivia military barracks",
-          "link": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 05 Sep 2026 15:22:41 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Nepal bet nearly everything on hydropower - the floods show why that's a problem",
-          "link": "https://www.bbc.co.uk/news/articles/cy0zx368prno?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 05 Sep 2026 14:07:38 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-05T23:41:43.804Z"
+      "updatedAt": "2026-09-06T04:00:53.033Z"
     },
     {
       "name": "NPR",
@@ -66,7 +66,7 @@
           "source": "NPR"
         },
         {
-          "title": "US military hits 3 Iranian oil tankers after saying Navy warships were targeted",
+          "title": "U.S. strikes Iranian oil tankers in retaliation for missile attacks on Navy ships",
           "link": "https://www.npr.org/2026/09/05/nx-s1-5959159/us-iran-warships-targeted",
           "pubDate": "Sat, 05 Sep 2026 11:05:08 -0400",
           "source": "NPR"
@@ -109,70 +109,88 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-05T23:41:43.954Z"
+      "updatedAt": "2026-09-06T04:00:53.355Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Oasis reunion tour documentary rocks Venice Film Festival - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWGxMSkNiay16Y1U1VmlXR2JZRFlHUm9aX0FCOVhaWko3SWstUkhEWDBmb3M2elZqOFpVX09yTlc5cEZRaDRFT0FuWVdVT0hHSDU2cFk4UDJleEJuT1lLR25hdlNHaHlUeTlOa3Z5aDAyZXhpdWNxOENMVGd6eHhNWThPSUdQLU00eDVHRGZsWQ?oc=5",
-          "pubDate": "Sat, 05 Sep 2026 21:39:00 GMT",
+          "title": "Zheng Qinwen makes big US Open comeback. Naomi Osaka joins her in the fourth round - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOT2NPWl83REZteDhYekllekJmMzFuT3hWUmRLeEwyYmpGU3FCVl9fZWtnLWpPWHdQTzJrWFhNSkdVUUNNU3Vvb0Z4SFkzNUtPSTVkYWd1NnY2VGFkYWUyRVEyWHk0X1ozQ2QtT21hWnI1VWZqRGlNb1RRTFl4Q1JGOG9oZU1CQUJGRVpUaEtR?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 02:14:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Rescuers in Nepal pull 2 people alive from the debris 10 days after devastating floods - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNX18zT1FRbXVDNm5HcEJ2WmxDRHplcmtJTEZnRjV5TXZ5YXJ6WDFYR1E5d3JBWHlwMzAtN3kwUU9OVTJLZ00yTnlPTE44UUljVF80NXdvYTRXYWlDcnhyMndOV3RhcWctQUxQb0RCMThzNHBhZWUzcjVuaFpEdzd0Tk5BR1RSYTNmaTJBeDR4NThUZzAzNFljZnc0Yw?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 01:59:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "College football | Latest News & Updates - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBscF9PZzh5MHFsTGlQMzFZMkRHaDdBbmdwSFhoMGhRb0pwZzB2b2FDNXZNcUlLVnl6WlpTWFVsRXNmQlphSFd1WTdPSWQ0VUlr?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 01:48:15 GMT",
           "source": "AP News"
         },
         {
           "title": "Supreme Court lets White House continue construction on Trump’s $400 million ballroom - AP News",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaV84YlJPVE9XY0Vqdzh3Q0h3dE9XRUdHRlh5aWFIX2RqeVFBWjg1Y2FjaDZPN0pRUzZ0dEtwVkRPWUVoanNZRjQ1RjZpOS1Bdk8ySjZ1eTNPM18tTWRzUkI2bWQ2TGpLeHQzSVRoWDRSUTRUR1J2VENKREtRXzcyTks3bWp3N0VPUkZvZTJjZUxhcEdKSHNHT1BFYjluR01BVFE?oc=5",
-          "pubDate": "Sat, 05 Sep 2026 21:20:14 GMT",
+          "pubDate": "Sun, 06 Sep 2026 01:27:32 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 00:09:48 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Ukraine - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBoLUFxWVlhd0NHcHV5UjVHdVQtVjc0LUx3V08zeVNpdE5IS2Jtc3BFOUJnRktJVDdzczRIN1ZZaTNTbjd4?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 00:07:45 GMT",
           "source": "AP News"
         },
         {
           "title": "Putin meets with US envoys at the Kremlin for renewed talks on ending the war in Ukraine - AP News",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV2I3ZmdCUEl6RTJFZmRfdUdqNlNCVlBCVERfdEVTN2R3Rm9rQ0JKdHhQaW5lNHhWQndKSFF0a2JybmZ6V3AzNXRfWS1PRU5qQXRLSkUyVnQ0YjhBVUtYVVFHeE1maG4tazRPZS1NY0xCOW1faThuaDJ1VGhSUXVHdVJMakZWTzRSb1N2MGh5aXBxc1FVWlI4X0lkU1lrRGI5QWc?oc=5",
-          "pubDate": "Sat, 05 Sep 2026 21:13:00 GMT",
+          "pubDate": "Sat, 05 Sep 2026 22:33:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "US strikes 3 Iranian oil tankers after saying warships were targeted with ballistic missiles - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUEtPbThoMkY0OEVqRWdxUlA0eDRZYlhPTG5qbEt5V1RnazFIVzBuZHJyU2VMVHdHMzBCWmQxRDhmZ0RnOTZ2WGZPLVJTQjExWFo2amZiMmJFM3Jkb3plWnJOd0dkeEtHLXFqaFRseExIc00wUHRONXdVVWVWMWhJRmxRZFhPVTJuS3J3?oc=5",
-          "pubDate": "Sat, 05 Sep 2026 21:00:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "US hits Iranian oil tankers, and other key Mideast developments - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYVN4T1g5S1hSM09nX0hpMGNGZkx2WkFWUXdobTNjYnFlZVgxY1Y2VldMRnRLS1hHcGNrcjVZczkxVmxZaHQxTlFJR3Q0dzZFVlJGamQxSGVuMlpMRkxKeWlWZ2x3RkE5ckVCMU1EZ0VEamxqX1VXQlR1TVJtaFBEN1phTlcwd2p5WE04a2VERlBZZw?oc=5",
-          "pubDate": "Sat, 05 Sep 2026 20:59:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Even snakes have to audition for the opera at the Met. Princess the boa constrictor got the part - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeWVKWDBkcHQxWEQxOHFnQjhDSmhtbENVTkZBdkdPai1RN09Bc2RTZURCbS1WOHlHU2kwWVJtalJ6Q2RPVlpXWk9lU0tGbWVBTVRFNU0yNEhoWDVtZWpzeGpuZGFjRl9PN2p6Q19vc0pZdEZkQ1lxVVgyQUExTzRVSkdobjBaNU9aYnFJN1hVQmRJV2hkc0pWUmlDNWtVUUt4TVppWEMydi1LOVJXNGc?oc=5",
-          "pubDate": "Sat, 05 Sep 2026 19:46:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Robin Morgan, poet and feminist whose allies included Jane Fonda and Gloria Steinem, dies at 85 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObU4xT0VWV3hRQ3BsazdTM2hOSmpsUWtkdXhPc05OVVQwOVlyN1J1SEt2QkFZNExlQmxFR2FVMFFvN1JkVkpXTjVDQ2RkTTZVN2d4RlB4S1YtNHdyb1NTdkpwQU5EdElLckJKM0lxVHdzMzZCNUR4bC1tZkVsUFcxa0NKSQ?oc=5",
-          "pubDate": "Sat, 05 Sep 2026 19:45:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "US ambassador calls violent Israeli settlers ‘terrorists’ after weeks of West Bank unrest - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdEtQeGdOOG0tWlByeVhITXFPWm02dzVPbG9Za1huS05sN0xJTldVT2h0d284R3JKMEUwMnd1ZUE5VkFTV2hQbTdlNlIzRzVIRDBNaDJ1QU9Ya1o3OW1hRWdsTUVEVlVCSzhKZDZOaDZHZUhvVnFoaTIwYWdFZURRQ1VsVG1lMUV4amFwSVdUQkpDMHZJSHZxb1NkcDQxWTR4UzlmOXY0U1hNaEtiUFE?oc=5",
-          "pubDate": "Sat, 05 Sep 2026 19:06:00 GMT",
+          "title": "Oasis reunion tour documentary rocks Venice Film Festival - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWGxMSkNiay16Y1U1VmlXR2JZRFlHUm9aX0FCOVhaWko3SWstUkhEWDBmb3M2elZqOFpVX09yTlc5cEZRaDRFT0FuWVdVT0hHSDU2cFk4UDJleEJuT1lLR25hdlNHaHlUeTlOa3Z5aDAyZXhpdWNxOENMVGd6eHhNWThPSUdQLU00eDVHRGZsWQ?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 21:39:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-05T23:41:44.398Z"
+      "updatedAt": "2026-09-06T04:00:53.816Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Kremlin says Ukraine talks with US envoys were useful; no sign of breakthrough - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUkQ0OXgwdkJCdnZWd0VsRWZIZThHY3FrWG8xYXhVZ3FMVmJrZ2VzN1MtQmw5T3RhNTFMTzNaWk9jQVpTcnlvY0hNQmNYdWN4ZmJ4OXlEZDUtTFI5elpNc3RublQ4MWFBVjV5aTFsQnZOYW4tWDBncXBWRUgyUWNPNFFlcFpRc2R5eDZ2eFZTaWlobWEwVnRuOEVscm5RWDg3THR3QlNVdFoyQkQ3LVUtSXVWLWduNmJ6UjFXRFFJV0tweUdWbGhSeA?oc=5",
-          "pubDate": "Sat, 05 Sep 2026 22:27:49 GMT",
+          "title": "Indonesia's Anak Krakatau eruption halts flights, schools, fishing - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNT3JKRkt1M2t6MVo4TnpsdXo2aWZiMzltZjR6bjhNTHdsOWkwNE1VWENrdHFoYkJQajB2dFRMZzkzVGlDRENhdlNoeVFfZW1idDNfR1c1b1ZrNEpuSnJjWDBmNVJaRGs3UFdtMmJvdV9rc2ZlblVwaEJBTENIRTVhdnREbGtIYXNXOUFvUDltLTRxZFMtZmpGRms1Q3F1d2pxM21GR0U1SUt6YmVPSGFDYXY0U3RoMnJ5Y1BKNWMyV21BbmNVLXI0?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 00:27:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Germany's far-right AfD seeks landmark state victory as Saxony-Anhalt votes - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTHlKLTRObzFSci1rMWZ6aTRzcFhXUGtKc0JQakJVb1FBUmdNTFowMHU4X0tiRkdFUkVnbWhremU0V05zSUtYVzBxUkZ0bHdPZjhadEF4T3lZLXdrajlidkQ2b05OVTdydG1va0NjbGp4TEVHXzJNUmI2dkF5ZEJneUtta19hT0tnTDE2OEZiS2V0SFh6VFE0YVpXOFhqS3pENV9idTd6V0lwd0lOcEdCV3J2UQ?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 00:06:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US, Iranian forces fire at vessels in waters near Iran - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQc1hXR2o4Smo3UnZmTTJmM2V4bldFYkpPekNpM2NhUGozMnVKcWZWOHNyUDdmSm5YR2dWT3FRd0FHWnM1Nlc2c3pxSk1XNVdlM1VNb0VyOVRpRG9vMnMyenFVbFVNdERKVEpyeVAtQ0poemwzNTdkYkF4VENfUzhVd1pkQ2djaldJdUZFVThZVktLdXd3anlpZlBCVWpuMi1lTUw1TFA1anU1YWVEeEhIdTI1Q05zOVJqcUNnZkRTc1JxdU82RVRUSw?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 23:09:21 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US ambassador visits Palestinian town amid rise in West Bank settler violence - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcHpLU3NTaHlMWHZGRnJIYmY5RGkzZkNPbnJyVXJLSmN4M3NyMjhZaUlzbDFURzZ4VW1LOTc2SFhqc05SMURsMV84dHZhcHhLcUhlM1AyNHlyWmVlYmdSbWp0Vl9xbjBqSGllSjlCVGxySDJRMl95ZFI4V1FwVjAwT2tzWWNWdjJqWnpKMjA3V1c2QzkzWFphemhVdWRIRW53YWNjNFlkMGlMOTZMZTc5NXVtZ1NKblFMVUZObzYtSEpsODAxNDlr?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 22:29:12 GMT",
           "source": "Reuters"
         },
         {
@@ -188,12 +206,6 @@
           "source": "Reuters"
         },
         {
-          "title": "US, Iranian forces fire at vessels in waters near Iran - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQc1hXR2o4Smo3UnZmTTJmM2V4bldFYkpPekNpM2NhUGozMnVKcWZWOHNyUDdmSm5YR2dWT3FRd0FHWnM1Nlc2c3pxSk1XNVdlM1VNb0VyOVRpRG9vMnMyenFVbFVNdERKVEpyeVAtQ0poemwzNTdkYkF4VENfUzhVd1pkQ2djaldJdUZFVThZVktLdXd3anlpZlBCVWpuMi1lTUw1TFA1anU1YWVEeEhIdTI1Q05zOVJqcUNnZkRTc1JxdU82RVRUSw?oc=5",
-          "pubDate": "Sat, 05 Sep 2026 21:37:37 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "OpenAI acknowledges 'wiki incident' and need for more transparency around unintended AI behavior - Reuters",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPU0FtQktXNWY5eEpHaUxBVGI2YWpHWE9SUGUtb1BhUkxLQmJvODRPX01WMnFqeEI2RThKMi1IT0E1eDBSUngtQkIwTUtiQWFjSHpFbXY0Q1BFcjZuUnBkVEZFMnFtOWpLUHVOZ1lZZzIwT3NxSnJnNG5DdHBvWi1STnFWSk1reWZRVkpEQjlCT05fdm8tV3ItQU5kSThCSjZON3ZvNXJhNXB2dWV0Zmt6NlJ1UUxoUDY4ZjZERk1qWmNUNkIxaW01anhRSURSaGlPZkE?oc=5",
           "pubDate": "Sat, 05 Sep 2026 21:23:43 GMT",
@@ -204,22 +216,10 @@
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPR1pvRU1PNnVEUUR3eDR1blBFelFzRWFBb3d3NVRlVXc0c1hHaDl2bWhMT1d0ZzZBSzBRN2QzMkRFRjJDUk9zTXVLVmtjOXd6NkphZVlVdlFxdEJ3TXNLeEY4emcwY0haanpndnl3bFMtUWgtZ3RWMFZoUmRDWXVfSHZhNW5od3VwQVY4c2Ntd3p4S1VSWDNNRGRuYTJFSGN0VGRFNzBrZTJxTVlfOEs5Tjh2UUJSUUhoY3FqM3VNand4bmdqZjdYWjRLRQ?oc=5",
           "pubDate": "Sat, 05 Sep 2026 21:22:51 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Putin says US-Russia contacts beneficial as talks begin with Witkoff and Kushner - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPM3NpSzg5T0lwZ2VwSkh6VjJtLUF5N0U2TWZoM2dhSW1sUDRsUk5nRWJpNkZPaXNhWkNQNFl3S25QVkRNcUxWRno0SU1uVU84NzczVzhWODl0UXZBWkoxNGlwbjU3eGxIV3R4MGhRS1d0ZVN1bDBFWTRDRmU5ZlZvQXM3a2gycDZ2cWoxR2ZtTUFkUWRBR1otODM1Z010SkY3NGMxRjVVakxINXdDT2VRLVdoN3NFSGxuUWowS1FaOA?oc=5",
-          "pubDate": "Sat, 05 Sep 2026 18:57:45 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Chinese national rescued from Nepal tunnel 10 days after flash flood - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaG1aeTdsTDc5NHp0U0J2UFV0eGtnY1k4TjBqT3FzS3hmM3o1Um1hRW1Xa0UtcmV3YlRFZTVROFVVRVBYY2t5MF9WekJzLXZMdWJLa1ZYeWpIZmpjcC1Vamt3bzJvd21WeWFnTjB2QWJqXzA5bWM5dHJhLTNwLXRDMnJ0SVNqUmo4cjBQYXNjWi15aURhVTE4NXhtVHJFcVJxeUlVZVRERUlXa1dZY01PVGpmclFnMkpldFZGQkdXdw?oc=5",
-          "pubDate": "Sat, 05 Sep 2026 18:56:16 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-05T23:41:44.790Z"
+      "updatedAt": "2026-09-06T04:00:54.188Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-05T23:41:45.049Z"
+      "updatedAt": "2026-09-06T04:00:54.420Z"
     }
   ]
 }
