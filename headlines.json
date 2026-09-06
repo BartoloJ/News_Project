@@ -1,13 +1,37 @@
 {
-  "generatedAt": "2026-09-06T18:33:43.354Z",
+  "generatedAt": "2026-09-06T21:09:45.987Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "German far-right set for big win in eastern state - projections",
+          "title": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
+          "link": "https://www.bbc.co.uk/news/articles/c980j5m8mpro?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 06 Sep 2026 20:52:12 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "German far-right set for big win in eastern state, projections show",
           "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 06 Sep 2026 18:15:11 GMT",
+          "pubDate": "Sun, 06 Sep 2026 20:45:11 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
+          "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 06 Sep 2026 20:41:58 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Video shows damaged Amazon cargo plane after crash",
+          "link": "https://www.bbc.co.uk/news/videos/c62k8dz8r4lo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 06 Sep 2026 20:41:48 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Germany's far-right AfD celebrate projected win in state election",
+          "link": "https://www.bbc.co.uk/news/videos/c5yegd6ldy6o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 06 Sep 2026 18:32:53 GMT",
           "source": "BBC News"
         },
         {
@@ -27,41 +51,23 @@
           "link": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 06 Sep 2026 16:00:21 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "US envoys hold talks with Zelensky in Kyiv after meeting Putin",
-          "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 06 Sep 2026 15:32:27 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "What different world maps get right - and what they get wrong",
-          "link": "https://www.bbc.co.uk/news/articles/cly5r60v4mro?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 06 Sep 2026 12:09:54 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "TV presenter among 12 sentenced to death in Egypt drugs case",
-          "link": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 06 Sep 2026 08:05:22 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Why a famous Montreal sandwich shop has been forced to swap its soda",
-          "link": "https://www.bbc.co.uk/news/videos/c99dpd083v9o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 06 Sep 2026 06:04:51 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-06T18:33:41.914Z"
+      "updatedAt": "2026-09-06T21:09:44.423Z"
     },
     {
       "name": "NPR",
       "items": [
         {
+          "title": "'Multiple patients' after Amazon cargo plane crashes at Miami airport",
+          "link": "https://www.npr.org/2026/09/06/nx-s1-5959749/amazon-cargo-plane-crashes-at-miami-airport",
+          "pubDate": "Sun, 06 Sep 2026 15:54:28 -0400",
+          "source": "NPR"
+        },
+        {
           "title": "German exit polls suggest far-right party has big lead in regional election",
-          "link": "https://www.npr.org/2026/09/06/nx-s1-5955677/german-exit-polls-suggest-far-right-party-big-lead-in-regional-election",
+          "link": "https://www.npr.org/2026/09/06/nx-s1-5955677/german-afd-far-right-exit",
           "pubDate": "Sun, 06 Sep 2026 12:36:48 -0400",
           "source": "NPR"
         },
@@ -100,16 +106,10 @@
           "link": "https://www.npr.org/2026/09/05/nx-s1-5959159/us-iran-warships-targeted",
           "pubDate": "Sat, 05 Sep 2026 11:05:08 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Opinion: A sculpture in perpetual motion, removed",
-          "link": "https://www.npr.org/2026/09/05/nx-s1-5948663/opinion-a-sculpture-in-perpetual-motion-removed",
-          "pubDate": "Sat, 05 Sep 2026 08:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-06T18:33:42.195Z"
+      "updatedAt": "2026-09-06T21:09:44.769Z"
     },
     {
       "name": "AP News",
@@ -117,109 +117,109 @@
         {
           "title": "Trump administration makes another appeal to the Supreme Court to allow mail ballot restrictions - AP News",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNU2h4QWg0bEhGZGEzdENsamhDdFR1ZzNxMU5jVlN0R19iRUkzUG13ZlYtMGFiZFFMa3ZmMXlqMm4zbUdKbXRzLXl5aVZSSlFSVHh0U3AwUkZDQzhlM3dJRmMyTFhVcXN2RE56WC1nOG9TczBBTUpNUDlNdXE2akFvYzZCS0cyelVpbEVEN0xoUkE3Um56NmZnWjFOaU9LT2lxNnNz?oc=5",
-          "pubDate": "Sun, 06 Sep 2026 17:28:00 GMT",
+          "pubDate": "Sun, 06 Sep 2026 20:30:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "'Spider-Man: Brand New Day' makes it 6 weeks in a row at No. 1 as Hollywood wraps a banner summer - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQd0lETFBSX3VoNjAxa002NU10SmVYTlAxb3RNYlBTVDQ4UmYycFZpM1hRWktSWHVSWmYyamw4MU5xcmJURUl2bTEwU1JyZHdjOWdrX3dlTlB0WlEtVEdxc0RhSVNIdVRMSEFwZDQ4aTJNMHNRU1E2aFVfT3Z5OGpnQ0JHdGpDTHhyNFFUVkhjTDI3dw?oc=5",
-          "pubDate": "Sun, 06 Sep 2026 17:26:00 GMT",
+          "title": "Amazon cargo plane sends up billowing cloud of smoke after overrunning runway at Miami airport - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZzhrenNJUmd1VHZoVl9jcTFRYUljSjNuWExOTjFlaTZ5WFhyVFpaYnI2dTVSa3NwSkc2RXlfWjdiN1g4TW9zeV9za1I4TnFhZG5IUWlLeG8wZHZsRFJKOVJrQnlxWEhzejZvUzVXUVRUNWRaZF9tTmd1UkZESFhMRUJfLXYzVU85U3VQdWp6akJpcDdxLXVB?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 19:37:38 GMT",
           "source": "AP News"
         },
         {
-          "title": "The Iranian school struck in the war’s earliest attacks is now a memorial for children - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZmVWR3VKRGlScmN6ZEtGUU5IelBhbmFENGJwd2VSMnV1bDBoTy02M1oydnBmQ2V4S20zbnRZeWM2NXY2TDJvbTFQU25DRThRSTlPREk1YmpPZTl2aWdEXzg5elpTenNMNEN0V0gxLU1sTFd1WDRhQUtXNXBWTzNLdDJEUUg3VnN0SXJBSVU0TG03MEJnN2NpLQ?oc=5",
-          "pubDate": "Sun, 06 Sep 2026 16:14:00 GMT",
+          "title": "German far-right party set for regional election triumph but uncertain of governing - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT0lvaTZsMkMxOVpwN0RmdnBiY2VWaGJPM0FZaG5rclBjajFLZWlCZmZ3d0hyRmdnWHA4cUt3OW5YOTNCZUZwMVF3d2pmR1g4bWhHdlg0OVdiMmg5X29YalRaRXp4OUdHQnM1bTBzZW9Yak1Ed1VaZUtjS2tmTllGSnRkMmpxcGxYUU5NMFFpTWV6NU1EeGxzYWZxSzFqRml0aUVRVHJFVQ?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 19:01:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "F1 leader Kimi Antonelli wins Italian GP after epic charge from the back - AP News",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNS2JFTzhuNzJSX1pYMC1KU0dCWTd5dnRXY3Q5VXVCbHdoaVhlaHJaYW11SmRUSDN5NG9ucl8xN1RxYTZYdFFYNkx1ZmZxX1c5YzJjVlY2U1Q4TnhHdHoyQzlobzhPVG1lTS1KTUlaelZ6YlBlV0V4RXc0c2ZlUWp5R0pMRllobkJSNXZFaHRLYUI1cjNkMlIwc3NsaFEwYXJL?oc=5",
-          "pubDate": "Sun, 06 Sep 2026 16:05:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "A whiplash election year enters its final stretch as Trump holds wild cards - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMnRIVTdVTmNLVDFTbUN2eUUyYzVfVFFmcU44UHlObXlqUlNfeFVXdG4xcEp4N3ROUEVHMXRBcVp6bldYWkJYNkV0WkRCMlk1Q2p4YWRGM2Nfb09rdEtFbGZqWTY3S2F3cTdNakFybkV2MGtoNW5iUUJLZHdEVEFPXy1yZGt5SVZtOGlMUk1DbEt5bzd1UExGRUhrOXBDR1F5OEE?oc=5",
-          "pubDate": "Sun, 06 Sep 2026 16:00:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Volcanic island in Indonesia erupts, forcing the cancellation of hundreds of flights - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYV9LY1JLSHlZeDl1dXA5cTJZeXFCdUdaREphR2NJNVBXLUE1NXlzRnV0d1JCVlVqSkF2LThqcFJZVVlNTzVFYV90N2RYQnh3QzFQVmNtOHkzVUktNUNiR2xIak9oYXhNNXlWQVNKdlNIUWltYW54NS00eXZQQ1hydVdaYjJpZG5wZmhDek1VTjhQVWhyU0JZTUVTQnBNeUdtVkE1b3dSMVRPeFBGSHc?oc=5",
-          "pubDate": "Sun, 06 Sep 2026 15:06:00 GMT",
+          "title": "US denies Iran’s claim to have struck an unmanned ship, and other Mideast news - AP News",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVktrNjVBTENONHRoZVB6OGRsQUxBSUdhZkFydmlOM3ZvVWRCRXVUUW85dGxNZ2VrMXkxZUpnVnpVMlNLZkpMWkRVTFJ2VVhSYXZCT1RmcEtYRTRjQmU5dTdCSzA4TDk4WkhJOWRiVUNxSFRKdHJmcTgxYWNEQy01eUVpY2Z5bHZpYl9sakVNcDBLal9BMkpCWWlKSEpMdw?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 18:47:00 GMT",
           "source": "AP News"
         },
         {
           "title": "Iran claims a strike on a US ship in the Strait of Hormuz but the US denies it - AP News",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeXpPTUJjVll0WEd0Wk90aXMyTzltVWQwNXk2Y0hXZ1JsWVZmeFpLMTN0VG9CdlVrdjFKRXlRWWpkczdkOVk4blJKOVZNYUYtbi1fLUpqOXBnN25hdFZDQWN1S3BtWGxJM3NRdHg2a3VPTUVYZzkzUjFTc1JGQkZPd0FwR3dRdUFXeV91UWJyZURPTFZwWXJTYjRXNS1hdw?oc=5",
-          "pubDate": "Sun, 06 Sep 2026 14:49:00 GMT",
+          "pubDate": "Sun, 06 Sep 2026 18:46:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Building collapse in New Delhi kills 1 and traps dozens of others - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPb2tMWjVfSl9oWEUwSUZPQThFdkNSY0R4NVNNS1F2X2w3NTA3NEwyS011eGk0VjRFcE1KZkN5dGg0d09idnhJMzVaM25BZTdNMjNJaEptWWI1UnQySU9PRWtvVFVLWi1EYlVuTEs2TWg1Xy1yNFNfUF93QXN3bVRQdzQ0aWRRQXpDajBjaTV1QmxkOF9odkhrWQ?oc=5",
-          "pubDate": "Sun, 06 Sep 2026 13:23:00 GMT",
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 17:55:12 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Photos show daily life in Iran on the beach along the Strait of Hormuz - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaGVEQm5iOGszX0R0bl92dEhieXBNblV2VjN5Z2oxSVVLM2lSb2RIV20tQjBveDQydFpjRzJCMnYtSEw0RDdYcXowUWZqRWRHSFF0cGlSVllOdTdmVUMycHFuZUZjN2NBZ0c2ZndSandsMGlacnROZDNCNmZEZHZTcTQwSEFBRUlUQWU0Wl9QX0kyUnE0SG1UYjBxNlpVZ2pYNXhfbktkSm5TMnpvT01YT1lHQ1lPbnhma3NV?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 17:54:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Two-time defending champ Aryna Sabalenka beats Taylor Townsend to reach the US Open quarterfinals - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNWEtNEs0NnpTWVBCNkRVcnpjcHFaNEpvRUp0N1VqMnMxZ3c1bnNPdmZfM2NwMF9aZS1DQkxQSkpNc0UxM2VqZkZqOHdnSk1SMTlIenhKRUhPMFVhdWFOemI4ei1ic1FRT2huWGxKNDhEeHdkcU5DeWFVQ2dLM09XUFVNM2pZcHhEbFNSbUVB?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 17:35:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-06T18:33:42.709Z"
+      "updatedAt": "2026-09-06T21:09:45.377Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Israel's Netanyahu orders West Bank settler outposts to be removed, sources say - reuters.com",
+          "title": "US envoys hope for new Ukraine-Russia talks soon after visits to both capitals - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONnlRblpUWUNHMjMteEdBa0JYZk5MeFJQRjlEa3dUdGtDY0xfZEs5Y2dCcV8yNEhSTHYzem9SVVVYS1NBZnc4U29BSEcydHp4cUx5bFZSUmZ1QXFsNHlFRGgtbGJ2WmZMRTZzdjhrTWY1b1BDMlFnQTlWXzRLU056OGV2TUlRdkdTdjRkMFpTNi02X1Y4MU5sMEF4WF8wcVpDNmNJUmFvXzRZeV91N2dKUDNJN1FWdkg3RHpReHVoNA?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 20:06:54 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Nepali woman found alive days after family began mourning rites - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbGJhTEdnY3M5SW14Zl9NREdqbGZZNzZnRVVfcFZ3UUVHQXBJZXFRMVBJd1NHQXZfR3RxYWxPSmtXdmJMSmJ4QnNmSFA2eU9Wd0s2TVhWZXB5bVc3aHgzVFRaUWVmQWkzWlRubjNHODRLdmhwZXFIZFd4N09vWTExVlRyLXprd1BULTJuT3J2UjB0OG94eGk5b3RYTkgzT3l4blkwemxkcW9PVVRYbFBzYQ?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 20:06:33 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Amazon Prime Air Boeing 767 overruns runway at Miami airport - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLUxSZmhjRHBaRS1KVTJfWmUyVXFzOGs3NENFMU4wZFprQWVkX19CMGxSWlh0cW1GZzhYMWpIaWFjVWpSTUl3alNMY0lHVmlQOXlHRGZmNVJ0NElhN2UyOUN1MnozaFp0amh0YzV3VnhDX1VENFdjMk1aNU1IXzM4dWJjaXBRSzIxd3ZhOEtPRlppR3VMR01YRm1ZMlE3aWpIN0xURFhLSVpqLUFfWi1SaWdiTzZ1YnRqZGtGOQ?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 19:37:43 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Iran to tackle economic issues, says further attacks will be 'more painful' - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNa2JCeUZJRmd5UEhfaFJjQ2U3UDRValp0Y0ZVOVBiWXE0YzBVZHhTd3RlR0FQMlZHMFRadXJvS01XOHBvb0p2Qzg0V1FYeDdUWC1uMDBFZU5JNnZCRVh1M1lLLWZCQ2Jhb1djdlJxTGEtNGNHWk96czEzUm13VE9wMVp1YjhEQ21WSVZwUlZOMEpBbkJVRm1tRV9wTy13Z0RaMXpvd29RMFdRUkg5ZjVUaTRuRkhCZ3doLTJtWnRoZFU?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 19:23:20 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Israeli strike kills a man and his daughter in Gaza, medics say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWXNmc1lpWkNYV0VUaVR4bDNpWTNMcTQ1VkFPYk5tZGFHbzk3Q3pOX0JtRW9Gc01kVnJ4RjRRVVl2aVpfSU1jN1JtelYxZUNIZV9Qb3M1U3J5Y0FMdkN6SV9sd3dPckdaWFFMWktOejFtUldxdUFDd0tMbjBzRzE5R0ZsQ1pPMG1ZNHJWTXQwNWVTT05PNmNFMElJbGVLenhLbEJ3?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 18:59:30 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Israel's Netanyahu orders West Bank settler outposts to be removed, sources say - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNN2c0azRZQ0hqbEdRWlhzYlBWRGxQUU9NUmdOUVVtSm1WemlRVnRXd05VT0U4MkcyQjJGWVpHV0hvZHdLb0dIc1FIVDZyYUZ6SjlTYlV0NUtGZnBWckhpaHVYX1JGd3ZNZ1pCRVF4Z213dXk4ZGFNNVZtV19nNDNQOHZVX21Kei16R3pOZzVwS2Y2Zng2eVloNTVmSUx3RnZ2U09Mc1pNTWJGVjFsZ2N5Tm1IVzdOWnU5WWNXOC11SEY1a0poMG53?oc=5",
           "pubDate": "Sun, 06 Sep 2026 17:39:39 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Antonelli takes sensational home Italian GP win from back of grid - reuters.com",
+          "title": "Antonelli takes sensational home Italian GP win from back of grid - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdTlKSVhMVEhIUTlaWUluWkprc2t3emw5c3pKLW5YS1JUQXRqUW1MalRBQzdxZ01vbUo0eFpYOU1ZZ280aEFQS1hBRlF4WTlwUWk2NGdkVDNybm53VGl3RGw3ckhhZ1dtTzJEWU9LRjVJRXpHZVJqQzhoSUs3NDA0MnFBbmxtcnoyQmVOUWJvWEdWZlBQZ1UyVXR4UlVMMzktbHktVHJ4M1R1MGRnNXc?oc=5",
           "pubDate": "Sun, 06 Sep 2026 17:16:56 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Nepali woman found alive days after family began mourning rites - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbGJhTEdnY3M5SW14Zl9NREdqbGZZNzZnRVVfcFZ3UUVHQXBJZXFRMVBJd1NHQXZfR3RxYWxPSmtXdmJMSmJ4QnNmSFA2eU9Wd0s2TVhWZXB5bVc3aHgzVFRaUWVmQWkzWlRubjNHODRLdmhwZXFIZFd4N09vWTExVlRyLXprd1BULTJuT3J2UjB0OG94eGk5b3RYTkgzT3l4blkwemxkcW9PVVRYbFBzYQ?oc=5",
-          "pubDate": "Sun, 06 Sep 2026 17:11:36 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Trump administration renews Supreme Court bid to limit mail-in voting - reuters.com",
+          "title": "Trump administration renews Supreme Court bid to limit mail-in voting - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLV9pS2hNUzZydVVnTkVQaW9VaGpkWGE0bjZDdzBLaWVzTkZHRW5yX0loS3VGTE5EaEpXSzZGQ1BJRG9aWGxPa1NTMkN6QUhXbGROU3FpV2xMNU02ZnAyWkhveU51R3R2ZGlFRFd1U0dtWjJLNEZVeXY0aDU3TXNxMXM0SmZQaHI5N2E4OERFajBrZ3Y3bjFPOVU2Wm01TFhBLTFnNGxBMVl4QXFtSDBVckxtbnlBZkdSbFJj?oc=5",
           "pubDate": "Sun, 06 Sep 2026 16:29:44 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Far-right AfD posts historic German state election win, exit polls show - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWkVzWDM5cENTaHhZNmdPZHRJUXd3NzRfQUs3RE1qUEU4UXlrTUJTaHR3VWEtbmVvS21PU0o3bTRuZ1ZiS1c1RU1NTm9EN2lKN1NCVklFRE5XMm9vZXVWWUotLWd5NjNCaUpEbVUtU2p4QkFjZDRNbW9LSmtKUEhyYmtxY3FaV0V6LXBOUDZYOTRpVTNNRC1qTXhaZzdIQ0x1ZXZKYXNBT1Y1U1J3ZlJ6QnJFSi1zVFhKOGRB?oc=5",
-          "pubDate": "Sun, 06 Sep 2026 16:09:43 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US envoys make first Kyiv visit amid Ukraine war peace push - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONnlRblpUWUNHMjMteEdBa0JYZk5MeFJQRjlEa3dUdGtDY0xfZEs5Y2dCcV8yNEhSTHYzem9SVVVYS1NBZnc4U29BSEcydHp4cUx5bFZSUmZ1QXFsNHlFRGgtbGJ2WmZMRTZzdjhrTWY1b1BDMlFnQTlWXzRLU056OGV2TUlRdkdTdjRkMFpTNi02X1Y4MU5sMEF4WF8wcVpDNmNJUmFvXzRZeV91N2dKUDNJN1FWdkg3RHpReHVoNA?oc=5",
-          "pubDate": "Sun, 06 Sep 2026 16:05:46 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Italian Grand Prix re-started after Leclerc crashes out - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNT2VGVDNuZElSX284cF9IRWJ0cnFVSHBuTGZEV2RCcXJXWEdhdU93UzlEWVdvdjN1cEFqVC00blJfWTlMNGRGbUx0X2lkNjdfWDNScjJUZDRDdFV5ZlhkaDBjblN6ZXl3Y00ySFRxSWJZMVdPSE1IekhqVXhQc0pCbndSbEF3U1VzNno2ckFkOEFsR3hjd2VGUXk2Qng4dzFCZXRIbmZB?oc=5",
-          "pubDate": "Sun, 06 Sep 2026 14:04:39 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Iran to tackle economic issues, says further attacks will be 'more painful' - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNa2JCeUZJRmd5UEhfaFJjQ2U3UDRValp0Y0ZVOVBiWXE0YzBVZHhTd3RlR0FQMlZHMFRadXJvS01XOHBvb0p2Qzg0V1FYeDdUWC1uMDBFZU5JNnZCRVh1M1lLLWZCQ2Jhb1djdlJxTGEtNGNHWk96czEzUm13VE9wMVp1YjhEQ21WSVZwUlZOMEpBbkJVRm1tRV9wTy13Z0RaMXpvd29RMFdRUkg5ZjVUaTRuRkhCZ3doLTJtWnRoZFU?oc=5",
-          "pubDate": "Sun, 06 Sep 2026 14:04:02 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-06T18:33:43.131Z"
+      "updatedAt": "2026-09-06T21:09:45.784Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-06T18:33:43.354Z"
+      "updatedAt": "2026-09-06T21:09:45.987Z"
     }
   ]
 }
