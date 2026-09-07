@@ -1,73 +1,103 @@
 {
-  "generatedAt": "2026-09-07T06:33:21.284Z",
+  "generatedAt": "2026-09-07T13:24:54.773Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "Germany's far-right AfD hails big victory in east, but falls short of majority",
-          "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 07 Sep 2026 06:17:08 GMT",
+          "title": "Kenya minister warns foreigners against 'misusing' visas to trade",
+          "link": "https://www.bbc.co.uk/news/articles/c158wwl22xko?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 07 Sep 2026 13:06:04 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
+          "link": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 07 Sep 2026 12:22:39 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Tanzanian President Samia's husband dies in hospital",
+          "link": "https://www.bbc.co.uk/news/articles/cgqd774wzpdo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 07 Sep 2026 12:03:56 GMT",
           "source": "BBC News"
         },
         {
           "title": "Indonesia volcano eruption leaves 270,000 stranded as airports extend closure",
           "link": "https://www.bbc.co.uk/news/articles/czezydp4l97o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 07 Sep 2026 06:13:17 GMT",
+          "pubDate": "Mon, 07 Sep 2026 11:50:43 GMT",
           "source": "BBC News"
         },
         {
-          "title": "Six dead and more feared trapped in collapsed building in Delhi",
+          "title": "Rescuers dig through debris as seven dead in building collapse in Delhi",
           "link": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 07 Sep 2026 05:10:18 GMT",
+          "pubDate": "Mon, 07 Sep 2026 10:31:01 GMT",
           "source": "BBC News"
         },
         {
-          "title": "Europe wrestles with impact of historic regional gains for Germany's AfD",
-          "link": "https://www.bbc.co.uk/news/articles/c986w38r4j5o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 07 Sep 2026 04:07:23 GMT",
+          "title": "Israeli strikes in southern Lebanese village kill nine",
+          "link": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 07 Sep 2026 10:16:56 GMT",
           "source": "BBC News"
         },
         {
-          "title": "Australians will be able to switch off social media algorithms under planned legislation",
-          "link": "https://www.bbc.co.uk/news/articles/cn9wyvxn95vo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 07 Sep 2026 03:40:09 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "China to pump $54bn into state banks and insurers to boost economy",
-          "link": "https://www.bbc.co.uk/news/articles/cx2z37qj4wno?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 07 Sep 2026 02:26:12 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Five dead after Amazon cargo plane crashes at Miami airport",
+          "title": "Probe begins into why cargo plane overran Miami runway",
           "link": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 07 Sep 2026 00:57:38 GMT",
+          "pubDate": "Mon, 07 Sep 2026 09:54:40 GMT",
           "source": "BBC News"
         },
         {
-          "title": "Austria's Islamic headscarf ban in force as under-14s go back to school",
-          "link": "https://www.bbc.co.uk/news/articles/cwyz74xn8q8o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 07 Sep 2026 00:01:32 GMT",
+          "title": "Nepal observes national day of mourning for victims of flash flood disaster",
+          "link": "https://www.bbc.co.uk/news/articles/c2kw1qek7gdo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 07 Sep 2026 09:31:26 GMT",
           "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-07T06:33:20.006Z"
+      "updatedAt": "2026-09-07T13:24:53.867Z"
     },
     {
       "name": "NPR",
       "items": [
         {
-          "title": "Five dead after Amazon cargo plane crashes at Miami airport",
+          "title": "5 dead after crash at Miami Airport. And, Germany's far-right wins state election",
+          "link": "https://www.npr.org/2026/09/07/g-s1-142210/up-first-newsletter-miami-plane-crash-ukraine-affirmative-for-germany",
+          "pubDate": "Mon, 07 Sep 2026 07:11:51 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "'Her body temperature was 106': How heat is killing Americans in their homes",
+          "link": "https://www.npr.org/2026/09/07/nx-s1-5644782/heat-deaths-manufactured-mobile-homes",
+          "pubDate": "Mon, 07 Sep 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "The first day of school: Bells, bikes, buses and big feelings",
+          "link": "https://www.npr.org/2026/09/07/nx-s1-5887297/new-school-year-starts",
+          "pubDate": "Mon, 07 Sep 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "The copper peptide trend has gone from creams to injections — ahead of the science",
+          "link": "https://www.npr.org/2026/09/07/nx-s1-5955552/copper-peptides-skin-aging-health-safe",
+          "pubDate": "Mon, 07 Sep 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Morning news brief",
+          "link": "https://www.npr.org/2026/09/07/nx-s1-5955374/morning-news-brief",
+          "pubDate": "Mon, 07 Sep 2026 04:44:02 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "At least five dead after Amazon cargo plane crashes at Miami airport",
           "link": "https://www.npr.org/2026/09/06/nx-s1-5959749/amazon-cargo-plane-crashes-at-miami-airport",
           "pubDate": "Sun, 06 Sep 2026 15:54:28 -0400",
           "source": "NPR"
         },
         {
-          "title": "German exit polls suggest far-right party has big lead in regional election",
-          "link": "https://www.npr.org/2026/09/06/nx-s1-5955677/german-afd-far-right-exit",
+          "title": "Germany's far-right achieves an electoral breakthrough in key state election",
+          "link": "https://www.npr.org/2026/09/06/nx-s1-5955677/german-afd-far-right",
           "pubDate": "Sun, 06 Sep 2026 12:36:48 -0400",
           "source": "NPR"
         },
@@ -76,150 +106,120 @@
           "link": "https://www.npr.org/2026/09/06/nx-s1-5927184/american-muslims-are-giving-texas-barbecue-a-halal-makeover",
           "pubDate": "Sun, 06 Sep 2026 06:00:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Witkoff and Kushner call Kyiv talks 'substantive' after Moscow Putin meeting",
-          "link": "https://www.npr.org/2026/09/06/nx-s1-5959657/us-envoys-witkoff-kushner-talks-in-kyiv-putin-moscow",
-          "pubDate": "Sun, 06 Sep 2026 05:51:04 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "QUIZ: Ugh, I'll do it later. How much do you know about procrastination?",
-          "link": "https://www.npr.org/2026/09/06/nx-s1-5957512/quiz-ugh-ill-do-it-later-how-much-do-you-know-about-procrastination",
-          "pubDate": "Sun, 06 Sep 2026 05:01:00 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Whatever happened to kindness? Spoiler alert: Our readers prove it's alive and well",
-          "link": "https://www.npr.org/2026/09/06/g-s1-141564/kindness-respect-feelings",
-          "pubDate": "Sun, 06 Sep 2026 04:44:48 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Jazz legend John Coltrane's Philadelphia house to become a cultural heritage site",
-          "link": "https://www.npr.org/2026/09/05/nx-s1-5955500/saxophone-legend-john-coltranes-philadelphia-house-to-become-a-cultural-heritage-site",
-          "pubDate": "Sat, 05 Sep 2026 17:01:10 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "U.S. and Iran trade attacks on ships as fighting flares up again",
-          "link": "https://www.npr.org/2026/09/05/nx-s1-5959159/us-iran-warships-targeted",
-          "pubDate": "Sat, 05 Sep 2026 11:05:08 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-07T06:33:20.311Z"
+      "updatedAt": "2026-09-07T13:24:53.901Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Supreme Court lets White House continue construction on Trump’s $400 million ballroom - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaV84YlJPVE9XY0Vqdzh3Q0h3dE9XRUdHRlh5aWFIX2RqeVFBWjg1Y2FjaDZPN0pRUzZ0dEtwVkRPWUVoanNZRjQ1RjZpOS1Bdk8ySjZ1eTNPM18tTWRzUkI2bWQ2TGpLeHQzSVRoWDRSUTRUR1J2VENKREtRXzcyTks3bWp3N0VPUkZvZTJjZUxhcEdKSHNHT1BFYjluR01BVFE?oc=5",
-          "pubDate": "Mon, 07 Sep 2026 06:17:01 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Germany fights Gaza genocide claims at the UN’s top court - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMUM4VTlUZ0owTGV1aDBLYzVqMzBQbnM3N1BTSTZ5SDlBQTZKOEo1RWxpX3RkeUpITExneXU1UmhkdGhIRndyRjFmN21DZm05UTFXYjZ4TlhseHVNa0F3UnZRQzJGbjRKcURBUlI1SjB4YUdPZGd5MHlSa0Jfc3BSM1FGVUt0RGpHdTVxWUJnRnRabTg2QkhyYlFmY3VBSzhVcGl1YzgySm9NYllqbm13?oc=5",
-          "pubDate": "Mon, 07 Sep 2026 05:06:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Documentarian Alex Gibney on the power and influence of Elon Musk - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZlQtV2NWN2pNUFFNejE3d3BBVjRJZmpGbzdOb0Q1LUU3S2Z6UENkbUVjMlgyQ1Z6LVZGSGVHUlF6dDc1MEVpY1BpMnY0OWZ3blp2SGxwZDh0WFVkMklwTFplVV9zbDN2SW1TRk5zZEJPVERhajJtUWx3TXBvTnlmODY1dV8tVlVCMkpRQVRYZkZBTzQ0cUk0eHM2WkhFR0diTGtkQQ?oc=5",
-          "pubDate": "Mon, 07 Sep 2026 04:13:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Investigators hunt for what went wrong after cargo plane crash in Miami kills at least 5 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM2hTN2IwMlRfYkcyMDZtMU9TQ3pIVDVoa1VLeTA5d2dSNDdYTG1UX0wzbmdJRkNhLV9Sa2pLVklsMGpRMi1zaFU1bFdzSVBTTkVXMURraFU1Nm81a0lKcUlsdGNRbHZ5ektFc3JKZDRLU3hoOGhhX1k1VjRrbE9fUWdVWWdGXzJ3VGtFbi1ON0pHdGQwb2VLZkNPM1hPNGwyOTBPZVlkVQ?oc=5",
-          "pubDate": "Mon, 07 Sep 2026 04:10:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Fuel prices at record Labor Day high in US thanks to Iran War and refinery issues - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOTRiRHBsTEFsQXpmU3VSSjg0N25rUC1NRzR2ZWlNc2RyallYN0xTX2U1NUJhTk9UZTdGM3NnYXJyZkV1dmx1VXpIdVpoS2dSVDJPMUZ5TzRka09pQklpWWtpVE5weTlFWDFYNmNadWw4UmdoY2NpTTFjS0plN1lGa1lDWF9LUWhsMUtyWjJ6QVA1WG5kNm1r?oc=5",
-          "pubDate": "Mon, 07 Sep 2026 04:03:00 GMT",
+          "title": "Former Philippine House speaker arrested for alleged kickbacks - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWUlCbDAyaWZmcVlVek5JcXNUOTd4NHJiLTI4NWRLeU9JUl95VGhxYWNZa2ZONWszQXVIQWVmR09SWkFkbVRCZUhGRWdYcHVkQ3pGc1hNTFNBVTZEVGtMVFdObGFDWDlPSHdUNE1uUlBXMzZzUlZhbWFsMkhzZFhKNFY2c2dLVWVFRWkyZVVxR2x1QjdiQ2prNXVpa0s?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 12:49:00 GMT",
           "source": "AP News"
         },
         {
           "title": "‘Widow’s Bay’ dominates with 8 Emmys at early ceremony and ‘The Pitt’ takes 4 - AP News",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSV9md0toZTJUNGt6b21uT205OU9mN05mYnVWQjB1bDZjVkgwZnprcEkxRV9GYm11YXJicG5KOUlScS1SOS1YcS1zRzNVcXJ0d1RsVkRtVDRQc2RqSFJua0psbktkZVB3MWk3WXNYZHJHUVdpQTBUcnlsSmp5Znl6d0tnQV9mRXNIRC1KTGJBMTZtTURuWUYtZjQzOHp4aG5jUmZUdjNn?oc=5",
-          "pubDate": "Mon, 07 Sep 2026 03:59:00 GMT",
+          "pubDate": "Mon, 07 Sep 2026 11:41:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Far-right Alternative for Germany party wins big in regional election but falls short of majority - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT0lvaTZsMkMxOVpwN0RmdnBiY2VWaGJPM0FZaG5rclBjajFLZWlCZmZ3d0hyRmdnWHA4cUt3OW5YOTNCZUZwMVF3d2pmR1g4bWhHdlg0OVdiMmg5X29YalRaRXp4OUdHQnM1bTBzZW9Yak1Ed1VaZUtjS2tmTllGSnRkMmpxcGxYUU5NMFFpTWV6NU1EeGxzYWZxSzFqRml0aUVRVHJFVQ?oc=5",
-          "pubDate": "Mon, 07 Sep 2026 03:56:00 GMT",
+          "title": "Supreme Court lets White House continue construction on Trump’s $400 million ballroom - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaV84YlJPVE9XY0Vqdzh3Q0h3dE9XRUdHRlh5aWFIX2RqeVFBWjg1Y2FjaDZPN0pRUzZ0dEtwVkRPWUVoanNZRjQ1RjZpOS1Bdk8ySjZ1eTNPM18tTWRzUkI2bWQ2TGpLeHQzSVRoWDRSUTRUR1J2VENKREtRXzcyTks3bWp3N0VPUkZvZTJjZUxhcEdKSHNHT1BFYjluR01BVFE?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 11:26:35 GMT",
           "source": "AP News"
         },
         {
-          "title": "North Korea adds its 2nd naval destroyer as US, South Korea and Japan hold military exercise - AP News",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVDVCS2Q3d3B1R2FBU0c5Umt6M2VMTUNZS0s4XzhkNHl4ZFoxeDVxOXdzeG9OQ0VsRXRJaTFoWXhQLXpKcXBYREd2dkNEV001cFBlLTZNSUszTVlmOWQ4YXh3Zy10N2V5bzYzVF9DQ2Z6ZXQ2d1BHYS1ZSWtkdG1HUFo4bHRJeFJuMWJSMVV6dXdpVmM0c3VRMW5MWFdjcWI3?oc=5",
-          "pubDate": "Mon, 07 Sep 2026 03:37:00 GMT",
+          "title": "Landslide victory for Germany's far-right AfD in state election piles pressure on Chancellor Merz - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQM29qLVk4UUFIa1hOSHdIWVd1VWxZb1JVNGpRSXhoalhNU1NYMDJCRTZKc2tnMVdaajktRm5xME9DX1BuWVplZXBGWExHWlJOYjhEeXV4SUdmeVBERHZFMlZnU0FocDRySk5FWVNpOS1LalpKb1dMWGNZeWZkS1NEZHpjYzdRR1ZvdHE4YnIwcE8yWExibUNLd0V3?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 11:13:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Nepal holds a day of mourning after floods kill at least 1,300 people - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZ0Rrc0pHNkZJeFFyX1lUZVVRdHpuN1VKR0dpTU9tNTI0QU1penRaT2s2SzVaYkhiRlNVeHk2Yjc4aUFZNTBmS3B2SkRNUFByc09uU1dtNmNZdzJRLTF1OVQwY2FYUVFiZWQ0MjBUQjcyNEtmTEJ1NkxaV2E0RDNWTk9UcGZYVVZTUGFzX1dFYXk?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 10:57:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Body of war criminal Mladic lies in state in Serbian capital ahead of funeral - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOTF0c19ZZUlPT1RaakxDV0hhTFoxQndCQmNreVU1OTBMTjdpTE1mams1bDdCdHAxOWVCRDJIbWJwMTFFYjdHXzktUmlsTWhPY3lKME5KYWpFMXBvUi1zN3R5WVpEVWlVOVNCT3lWVnhnNktnTFk5OXFsYUtYeGhMX29SVm9QMndjNTJSMHl6WjRrSTBMTS1weUE5bkxScUJGbS1mTkdvNGdrNGxl?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 10:52:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Jamaica takes its case for reparations for Britain’s role in slavery to King Charles III - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVTR4eW92Uk8wX3JVTTZjZk5RN01kQ1lEcVJGd0lUNFJweWJQLWIwMjNoREZQRGc4TDZXZmtfN29xTjlYSzg0Y1QyUllKWk11QTYtUk1ZYjdBMjdLemx5OGpWWHZrek0zZVZIbTUxU1Vub0hfUVJEcUR4RXczOGJOUXJ1RTdQaE9lTlNMSjF1MGJYR3lFRUQtaXYtd1g4UmNrVEE?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 10:49:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Rescuers look for survivors after New Delhi hostel collapse kills 7 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMVd6UWFMSUk5YUppcTdTYzJmV3NYeHNseWZZS1R0clRLS1NKUnJkTDRSeFFqSUplUTd3QjJPZkl1di1EWlBNdE9tdDlUTlpVYU1namd5bFEwSDBEVXRoWjJtSnN1Vkl6RE1uZUt1eVhmNVFiQk9sbGhtV0lfN1F2VzI1WTQxVXluTnowWkgtMVhlaUpMRjVZeg?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 10:35:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-07T06:33:20.730Z"
+      "updatedAt": "2026-09-07T13:24:54.307Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "China pauses approvals for battery storage manufacturing projects, Cailianshe reports - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUktHTlBXbS1YOE5lNFhESXgzVTFTQnFYd0tmNkY1N0dHSjBUTEtTMS1tM2NILXB6NWpwWXBycWt5RXFrSGhOdGh0UzB4aEQwcVZwTjVUM3NMTktCNGRISlItV2czRFNFcThpQmc1NU80UW1aZ1RUV2JsMkFmN3o2TVZHRExFdkZYdGtWU2huSUZrWGJoMVpmNGd5WjRIUGNYcFgxZXhrYVlHaGdYSno3OXJHR3BmSDBsWXJKUXZidWh2YWdmYTRNVjluZnc?oc=5",
-          "pubDate": "Mon, 07 Sep 2026 04:55:00 GMT",
+          "title": "Saxony-Anhalt election delivers a blow to Merz and a warning to Europe - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMmdkeWFmV2FTc2lKQlRsS3YxZ3Fkbjg1Q1VMY25hZ0ViWmdGUGRjSk45QU5Zbmg1aVk5UjZZVlVaTU9KX0pCRDVTSDdIZVhtM2d3ZEdJQ1RQVW9VSy1FUTNTT04yemtkaXFXMV9vUl80R0Rhend5bkM5UGZudkRGaWlQMGR4Z0duc0pXME4tUWF1NHkxQnhNbUZsMWp4cjg?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 13:11:34 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Morning Bid: Diesel the real spoiler for US inflation doves - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkVEpMZWxDcWdjVkVYRGdtakVZSGxsWVZfR2N5eFR4UTBRTzZWTmxMZXF3REFZeHBkelU2YXJQb21JZEtGNVNqQld1eTYxV3VpLXFzT1VEVEtQVUNxa3VQTW5mdE1OQ2JocmNrdW80bktWQWxfY2w2SmoxV2dfOWs?oc=5",
-          "pubDate": "Mon, 07 Sep 2026 04:34:00 GMT",
+          "title": "Tech explores Argentina's Patagonia for mega data centers - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRkVISjNZRzJIQ2xhRks4c21WN0ZvNE1LSHBjMDhldFdwN0ExVjcxem9JLVJkSUk1ODdYQ0RhT1hrMDctX19HSXFXUW40c1hINDh0VDh6cjdMNHMyWFFsYmFIU0NrRzFSNzBPekRGX3lHYkNKMDRCRHE2MkEyalBoekw1cXU3aWxuZTY3Q2dudWFKc0trTnJVOTFSd2hKZVFOLVZwWnRSOUFXRHlfaHRObExwN3Z6dDNyME9RekRnZFhYMFAyOTVveA?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 13:00:29 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Bitcoin-based Liquid Network says $320 million withdrawn in hack - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV1lpQVdhRENMSUQ3NnJWZkxyRlRjN0hHS2xsek1XbFo2ZEVCNnJ6RGRsNUZubmRCUURNbl9hbk5WSXJ4X0ZrTVJ3YW4wdHl5d05lOER2a1JZRUtkQmxKcy1DVjFGdFJfTGF5b1JtbE5BLVNoMGhGVEZKdm5ZZlcwQU9EQ2U4MWlmZEtNbEdxb1d1cWtSQzlLckJsdHRpWEM2TlJ2S0JYVnNySXM?oc=5",
-          "pubDate": "Mon, 07 Sep 2026 04:05:00 GMT",
+          "title": "AI could pose 'existential' risk to humanity, UN rights chief warns - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV3llNF9IYW5jOC1zYWZwY2hlYVR4RndlVWkxemtJNjlOSVhuZkhZR3d1TnE4c2sxcFlvSEd2YmJaQXBTeHpJV1NqQ0t6OGgtOGVRWXRTTDJmdHFFd0tvZ2VYZzJUU3BGTzVqZHJqRV9CUHN6VkpSWkZsdUZJV0p5ZDR0TlFSZ2dqNkRvdWMzSG44bTZFV3B4QW9pcmhmN1lmUlNtSmRvdWVuX2Fo?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 12:35:35 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Another rate hike, just for insurance: Five questions for the ECB - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUUFuUFh6VTdaUzh1amJOYk43S256U1ZCVzJ1aXhBTE9UdkN4TTJLTG1LcUZKYURQd0RLRThKNzBzQkFaOE5pdmRZbUpLRWEwa09lX2xDLTlGNlJvVk1PSDA3dG15SUg1Qk5aejlNSGp2dmxYemRzeFZFdXQ0WjIyakFRYkUzT2kwcHR2a3BBZXNCRzFKUFRVN2FybzVmSFB4bEI5VWJLcw?oc=5",
-          "pubDate": "Mon, 07 Sep 2026 04:03:00 GMT",
+          "title": "EU announces €200 million partnership deal with Greenland - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdjJXQTZHMFRyNVlzb2tiOXV2eDRZcmdYZ1pJVFBtZFktYXFpTldMWVJaQUJmYUFDUmlVUEt6b191R3ZQYlZud2J6dTY5XzBsN1lyaTl1ZXhLckFXZ0RoSUdKTG12eWZibVZ5aW51V28wNktGWmtscFNCTDNMMjYzSXlzaUFEc0ZLYURLS3dXbmpiTE9tM0tqM3U5aDV4dUtYbnAw?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 12:27:12 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Wildfires, heat waves threaten to undermine air quality, UN weather agency says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNmdsbHIzdVk0TWxDaGJjMnZvdkdUY3J0SExNNzE4THBud3N0ejFIelUyRTJNR3c3bERId3N0bTRuZ3YxRTE5RlRjN0tCR0o5QnM2d0dPVnh5X0Jwd3FuV0JOU1JFWkp0d0dNYVd6M3Q1VmVkS0pjNFZwUWNqS0FPVlFvUGlYYkRPaEdSOVRIZ0dzcjF2WnZJWXFCMWVVNnZGSFBEY3hxTEduRXlYX21YMVdNSzIxYUJzeEU5cXRkSzlPU2pDLW93eQ?oc=5",
-          "pubDate": "Mon, 07 Sep 2026 04:01:00 GMT",
+          "title": "Thousands gather in Belgrade for funeral of convicted war criminal Ratko Mladic - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRFVkdTNYM3p4bmY3d01KaElQRFk5aWowZXFRdHUyTDJQZHdlWlYyRmgzNDB3dElPVTNtVUhDTXhoYjNPTHVmSF9PLTJFang2cG02UzlXa1lyNHZob3pCMWN2dEtqRDRNLWd3VHREX24ydmNuS3RhakV3Ty15SHdfX0xWQmRQaEptR3N1SWJqR0RPSnRRNjA4N3h1Z0xaaFVxOW5rZXMzcmxhMTlES09zUQ?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 12:23:41 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Philippines' Teodoro says China could exploit cuts in US-South Korean exercises - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPblpmdXplOXBOQVExNG5JSkkta1E0VEJYNDRqRG1ncUNrQ1Q3eS1RQmQ5T05OUG1rbUVYakhHM0hzWUwyRHJIa1FmWmFCeXdRbF8xbmctNVpXZ3ZDaldhMjJNMEVZMXlLU1ZSandKQl96MzhXMTJEdUhOcXNUZGJ3RE15X01hYlE5NFMzaEFPbjY0REQ1Z2Q3Q0RFeWpFZnFiUHpKckNCcjE0SEptdXRyZVlJRVAydHJCQjVYdHktZ3U0T3ZrVmNr?oc=5",
-          "pubDate": "Mon, 07 Sep 2026 03:26:00 GMT",
+          "title": "Sweden to buy Lockheed Martin's Himars artillery rocket system in $729 mln deal - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNkUwazJZZE4xSlNLRHJ5ZFMyOW9RM1NQUkdrOGxHZFNxN25DaGRMRjhlcmV6MmpQYmVBUURwME5vLVhGQUdRTjJDTk43YUEwcGRnSElubmR5RFZyakVpdjUyWE5DU2N5LVM2ckhRTy1mNFp2eHJiakZLSjY4Zk13b1ZtOUJoaUg5aTZlbU1BSnEzWWJVckJjamVNZENDWmdyQVBOMTR5bGsweVFkbWlHLWVvdXV1QTBGaXZFa2pQaU5UVnp2WExYSWoxSmJPaGs?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 12:13:47 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Bangladesh dengue outbreak accelerates as hospitals come under strain - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeVV3ODhpd0FiYW11b19YbDA4Z1FFNU9zWnowNTNSUmdWN05WaXF3eEc1VjBodjZ2R0lYeGlGLWRxaGZOYmY5djNtX0Z6QTdFUHFxR1RnMGcxbTEtY2FQTmtuTzktYWtoOG4xRXdYY0l3SDlkai02RmFwMFEzbXZlMkljUU1QSEY5YVhYTFRHU1FhYURHVDJZWjNNbzFTNmVPRkxMNlVLeTJuVWpGeFRjdWkyNUxDbU1UYUpHRkxQRk9wbWcyV19kMDZpeHBRbEIydUhENg?oc=5",
-          "pubDate": "Mon, 07 Sep 2026 03:02:00 GMT",
+          "title": "Huawei launches new foldable smartphone; Xiaomi and Apple set to follow - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVS1jR3lPTW1TQVB1Y3owVjhXcWx1aTBvdzZIOTY1SnFLTVhSLVRwbEkyMUhIZXRaSWd4UjllLXV4alo1MjhRemwyUjZ4elQ5MGhNOEhTUHhZVnBPNXZGaHpfTkZPdkc3cEFtNXJ1ejBUbms0U1doa0tXVjJLQnViNE5xczgybk5yTi1zYk5sdmdBazQ3WnVvWDJJMHY1WmcwSmJmYmdmX1IxYjFCanhyY09hTXNSalB5SV9obHJydUYzcXM?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 12:11:44 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Breakingviews - COMMENTARY: China's AI dragons breathe fire on Nvidia's moat - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc2V3MzMyWDhGbmtOTkItcEdzR2dPdHNPelhqSG9sbEw1Mk0xTE85N29vZmtoTnZOa2NpOWFpNF9BSmd5N2EwMDVNOEFWWFlZR2l3SUlSNTdxR2wtT01Kc3RoUmh1bm9xTHBZNjItVXJ0dHZCeHNfX0pRTDBfdlh0QVV0N21fT2ZUZlF1WVFBWW5TejczdUE5MmRkaHpNeGZkTG1zVTlzbw?oc=5",
-          "pubDate": "Mon, 07 Sep 2026 02:53:00 GMT",
+          "title": "UAE says its energy exports will not be 'held hostage' by Iran war - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNX2k1aEFKNWUzaXRzZXlkTVZNb3MyOTZoSjBoa2N5Zmtpd1Z2VVRWbV9JcnNHN0hkS1ZPRXEyb1UxdGMzN1pFNUFCUmpPVTNvQndsa3c1TzBwNEVvVXNLVXZjNGVnbzF6TUdGS2N5SVdLT2k2Nlk1TmREb0ZlTVp1cGlLRzJTMWJqLTN4VVRiY2s1emV6YldrQnJHQWRmZFBKRUdDalJjb1lFM1NxaHI2eDdWWFN1R0tydFJYOUh3Z0phb0paZUNRMw?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 12:02:10 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-07T06:33:21.136Z"
+      "updatedAt": "2026-09-07T13:24:54.661Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-07T06:33:21.284Z"
+      "updatedAt": "2026-09-07T13:24:54.773Z"
     }
   ]
 }
