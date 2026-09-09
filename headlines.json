@@ -1,25 +1,43 @@
 {
-  "generatedAt": "2026-09-09T04:09:14.172Z",
+  "generatedAt": "2026-09-09T09:06:12.549Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "Hong Kong's first post-colonial leader dies aged 89",
-          "link": "https://www.bbc.co.uk/news/articles/cn457lq938jo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 09 Sep 2026 03:09:59 GMT",
+          "title": "Oil hits $100 a barrel for first time since July after flare in US-Iran conflict",
+          "link": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 09 Sep 2026 09:03:41 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Tycoon to pay ex-wife $1.87bn in record South Korea divorce settlement",
+          "link": "https://www.bbc.co.uk/news/articles/c05re9qg09ro?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 09 Sep 2026 08:21:39 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "'You're not alone in the darkness': Gambia president urges calm after violent blackout protests",
+          "link": "https://www.bbc.co.uk/news/articles/cgmr22kpd9yo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 09 Sep 2026 06:42:01 GMT",
           "source": "BBC News"
         },
         {
           "title": "US slaps import ban on Canadian alcohol, motorbikes and other goods",
           "link": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 09 Sep 2026 03:03:32 GMT",
+          "pubDate": "Wed, 09 Sep 2026 06:28:57 GMT",
           "source": "BBC News"
         },
         {
-          "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
-          "link": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 09 Sep 2026 01:45:15 GMT",
+          "title": "South Park creators rename show 'South America' in apparent dig at Trump",
+          "link": "https://www.bbc.co.uk/news/articles/cp9340rg7k8o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 09 Sep 2026 05:39:16 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Hong Kong's first leader after British handover dies",
+          "link": "https://www.bbc.co.uk/news/articles/cn457lq938jo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 09 Sep 2026 04:24:30 GMT",
           "source": "BBC News"
         },
         {
@@ -33,32 +51,32 @@
           "link": "https://www.bbc.co.uk/news/articles/cd94j8e9n12o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 08 Sep 2026 23:11:41 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "'Constantly on my mind' - 9/11 agony goes on for bereaved, 25 years on",
-          "link": "https://www.bbc.co.uk/news/articles/clyrjw1yj75o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 08 Sep 2026 23:11:32 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Paul Adams: British-Israeli relations at lowest ebb in decades",
-          "link": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 08 Sep 2026 21:46:31 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "LIV files for bankruptcy protection with over $45m owed to players",
-          "link": "https://www.bbc.co.uk/sport/golf/articles/ce8x39wj5p1o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 08 Sep 2026 21:20:22 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-09T04:09:12.902Z"
+      "updatedAt": "2026-09-09T09:06:11.097Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Morning news brief",
+          "link": "https://www.npr.org/2026/09/09/nx-s1-5955573/morning-news-brief",
+          "pubDate": "Wed, 09 Sep 2026 04:46:34 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "TSA brings back gate access for some people without plane tickets 25 years after 9/11",
+          "link": "https://www.npr.org/2026/09/09/g-s1-142480/tsa-gate-access-25-years-after-9-11",
+          "pubDate": "Wed, 09 Sep 2026 01:41:56 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "U.S. military says it destroyed 5 Iranian oil tankers after attacks on Navy warship",
+          "link": "https://www.npr.org/2026/09/09/nx-s1-5962641/us-destroy-iranian-oil-tankers",
+          "pubDate": "Wed, 09 Sep 2026 01:20:45 -0400",
+          "source": "NPR"
+        },
         {
           "title": "New report shows the economic toll of ICE raids",
           "link": "https://www.npr.org/2026/09/08/nx-s1-5955787/new-report-shows-the-economic-toll-of-ice-raids",
@@ -88,138 +106,120 @@
           "link": "https://www.npr.org/2026/09/08/g-s1-142038/taliban-afghanistan-public-flogging",
           "pubDate": "Tue, 08 Sep 2026 09:01:58 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "GOP to host unusual midterm convention. And, Canada's retaliatory tariffs take effect",
-          "link": "https://www.npr.org/2026/09/08/g-s1-142302/up-first-newsletter-trumpapalooza-amazon-cargo-plane-crash-canada-tariffs",
-          "pubDate": "Tue, 08 Sep 2026 07:20:05 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Chrystia Freeland negotiated with Trump. Now she's watching a trade war unfold",
-          "link": "https://www.npr.org/2026/09/08/nx-s1-5955613/chrystia-freeland-canada-us-trade-war-tariffs",
-          "pubDate": "Tue, 08 Sep 2026 06:46:03 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Has the economy gone C-shaped?",
-          "link": "https://www.npr.org/sections/planet-money/2026/09/08/g-s1-142029/has-the-economy-gone-c-shaped",
-          "pubDate": "Tue, 08 Sep 2026 06:30:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-09T04:09:13.090Z"
+      "updatedAt": "2026-09-09T09:06:11.383Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Cargo jet tried to abort unsteady landing before Miami crash that killed 5, flight data indicates - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRzhRUkhJNTh0V0lUSFlIMFVDVk9oeVdMUUJveE95Y2E2bGo3RW8tXzVXMTNiR3ptZ05XUmNwWVR5WklxMGNkamhORnRGQThOUENyR1NpbS03SUVvb2ZuLTk2ckFrQXRvSzN6X3A3RHprYnpQSmp3dnV5WGlNTHBubU9iNVczVVdXcVRiR0ZIRnBQdGJ3ZndBZEUyX2lpY2ItaE5ReThPTHVYZw?oc=5",
-          "pubDate": "Wed, 09 Sep 2026 03:58:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Southeastern Conference leaders to discuss expelling LSU, which backs off rostering pro players - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaFBkeExTRXJmUjhhUGVUZXFWa3FuSXJLc3FpQ05DWkpWMXZwUy1mY0puUF80cHQ3dWVRTlQ3dlR5aV9haDVqMzlxY3FEU0lXOGdxR2VpX2FycjByQmRGTVVPcU5ZcGw5VGxEbmZWWFhRTXVHSHhialoyaTBGTmhmdW42ZWVsd2JqV3E5dlc0QzREdkE?oc=5",
-          "pubDate": "Wed, 09 Sep 2026 03:57:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Competing court orders add confusion to Missouri congressional elections - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQU1ZDS3N5MDJQT0Jmbk54M0xueW14RkhNeDRBRzRVd2RKYXQwU2tnU3BiOC1hRmhBcFJYdEFDU1pIZVQta1Z6UTN2elVxQnFMVGVtM1FwendfZ3pxbTFIWG9jbGNwbjE3OXpRa2s1T3VlT1I3VmhxcEJKY0V0OFNYdFpBNmt1UmRWOFhTWFpEMGlNQTlfTUZUaVpZUFV3bUdIX3lJTDdlZEp5aHdGUFE?oc=5",
-          "pubDate": "Wed, 09 Sep 2026 03:54:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Trump gave $45,000 holiday gifts to Natalie Harp and two other White House aides - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYTVDb1U0YVQyc0JmOGhGcHdIWGxOU21aUGN5ZVJVS0JzU1NQVV96VEVsWDA2Y0NCbjBnMVNsOHRhZTFXUmloN1JiWVJnZlJRd2kwS2xjam83aHRsejIyeHpQU0JwTmViME1fQWlqazFULTJ4Q0dvYXNsRlJrdUhCblZBQ3RrNFZQalJLVm5RS3M4XzRrb0xsWldjdFFyc2lZVTg4WWUtYw?oc=5",
-          "pubDate": "Wed, 09 Sep 2026 03:20:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "NCAA says it can't overturn Michigan's win over Western Michigan after MAC appeals outcome - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPU19jOVJvYzdtdnBYd2Z3RVQ0UnUxbmNZdG9KMHVhOWhFc1RUUXlXRVBBOXNTSXQ3bmZmTk53c20tdXptaVZxN0liaHd1OVp2RTVFa1NPZTFjWVRDc3RDbjdvbHYxTnhkOGU5dWoyN3JMZklyd1pxYkNiUXpxejFVbzBzRU9Tc3dVeGhQandvSQ?oc=5",
-          "pubDate": "Wed, 09 Sep 2026 03:16:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Trump widens trade war with Canada beyond tariffs. Here’s what to know - AP News",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUHRWc2I4elJ6Ukh6TzhHcF9IUEFEbnZFUkRiYTQ5Nnh2cUUxU3pQYXR0eml3UFFNWGt2bHFBdzJXeEIxRV96dXdBOUY2VzFYZXhVY2hhRmlEcVF0Y0xGNVAwX0ZzZGloOURMTzZ4bERjbDlmWnBzRWoxbVRqYUt4OWJEanc2V3YyTlNGSURSQjlpblJIV2FIT3A3bzBhQQ?oc=5",
-          "pubDate": "Wed, 09 Sep 2026 02:57:00 GMT",
+          "title": "Shelton ends Alcaraz’s title reign in late-night marathon, will face Tiafoe in US Open semis - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdHZFU09TYnJLbTg4b09scUVlWTVKNElsM2lFekFmbHFRUElPUWVFLThqVUlZN19GQlBNZkZFN0hSZDhEUXk5dmVpdlpBNzc1SVdrVlZqTXAwbkViWThvUFZpZGpyeVVFa3dtUjN2U215TjExb1RsUlBvS3A0elZsVHEwOHpBdUxCU2FGRTZEVmtmUjF6NHBmalZ4SkphMjVSRU9TLWI3VWV6aDVWWmc?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 08:12:00 GMT",
           "source": "AP News"
         },
         {
           "title": "Associated Press News: Breaking News | Latest News Today - AP News",
           "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
-          "pubDate": "Wed, 09 Sep 2026 02:23:41 GMT",
+          "pubDate": "Wed, 09 Sep 2026 07:54:02 GMT",
           "source": "AP News"
         },
         {
-          "title": "US banning dairy products, most alcohol and motorcycles from Canada in growing trade war - AP News",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNc1BOQjh6RzR3NkhUTWNocHc3U2RzckMzVGdyMFVwR0JqS3JocTgtbFFwTkwtUU1pTURKNGNma3VpZmYtUExvaHZuYU8wZTlDSEFqemRLc0U0NzhyWUxtaDVxUUp1TW45TFU2MnY5WGhqNFVWd0RPWG1sV1J0N2x3LUFweTlPb0pjcm9YcW9oSS1uTk14cWVIWUJ2Z202Zw?oc=5",
-          "pubDate": "Wed, 09 Sep 2026 01:46:00 GMT",
+          "title": "Asian shares are mixed as Brent crude approaches $100 a barrel - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQU1FDWlZxem5yejRWekJjdmdOVW4tU2RQYWpQX2FDWmlHZ3lBOVlYNjdEb01mcUFvM2FhaV9fMG5kUno1VzRjY0F6WkhKbmgxTzUwZXdabXprUjdGbTBuVE5jR2s4QVJqdkt6cS1QTVcwMW82d29FYjBvMFoxdjVrdkxwS0wyY0toNWNYaUpqUkJ6ZkM0bFZHdDk4RU1qWm9Ga0VUQ1J3WQ?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 06:45:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Thieves steal 4 Renoirs from a French museum. 2 of the paintings are still missing - AP News",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQlpjeEJ2Q3FpMFpvbXlmSFFkLVMxOUlHS1hweTZTUjZUa0FjOG5aSXg2ajN5TnJ6Z0ZhalVTam43VTJxZy1ybHdrQVpvV3B2QTRyZkxHeEZhX2p6YlFQWGpsQ2E0cUVQaUt4cC1wd2RZNjB3M3cyTTV2Q0lzaERva1drZlZmVlFFdlcyNDdtTnZXcFBaNllUaHNGZ1lEUQ?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 06:03:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "World News: Top & Breaking World News Today - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1PRFY2SmRjOGtzcEdoNlUzaU5aR2c4MnhydnlTTm9ZR3lOaEFNbzVhZGd3Zmh2S0IySTVERXRBX3pfTjA?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 05:35:03 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "College football | Latest News & Updates - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBscF9PZzh5MHFsTGlQMzFZMkRHaDdBbmdwSFhoMGhRb0pwZzB2b2FDNXZNcUlLVnl6WlpTWFVsRXNmQlphSFd1WTdPSWQ0VUlr?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 05:34:54 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Nepal's flood disaster and the impact of climate change loom large in the icy shadow of Mont Blanc - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZXpicWZJS0J5LWw0QzJIcUxkeS1OS0dXOGlWTnlRNGtmRjhNMkhPSl9DTERJd1BVLUQzS0ExU1RjZ0xMNlE3bEFWdEtzSkVlaTRTT3ZVb1ZYT1hCNjZnWFVWLWNPWGwzUXRYVHdMNG5LVmo2b2twNkVKNGNFOXV2ckFfTnlSc1UwelJHQk45TVdxR3lyWG5OMTdoUUhuUWNkUU5oUzJ3?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 04:34:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Cargo jet tried to abort unsteady landing before Miami crash that killed 5, flight data indicates - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRzhRUkhJNTh0V0lUSFlIMFVDVk9oeVdMUUJveE95Y2E2bGo3RW8tXzVXMTNiR3ptZ05XUmNwWVR5WklxMGNkamhORnRGQThOUENyR1NpbS03SUVvb2ZuLTk2ckFrQXRvSzN6X3A3RHprYnpQSmp3dnV5WGlNTHBubU9iNVczVVdXcVRiR0ZIRnBQdGJ3ZndBZEUyX2lpY2ItaE5ReThPTHVYZw?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 03:58:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-09T04:09:13.558Z"
+      "updatedAt": "2026-09-09T09:06:11.917Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Oil heads for $100, Asia stocks subdued as Middle East tensions escalate - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNV3luYTZkUFBsUEhrV1ByVUg5eTcwT0c4ODVwXzJZTHNvVzlhR1hwNVpLSzJ5MmVCT3VqV2wzMTdXb0ZZM00wY194Z3VCV2R2TUNxcGpVNVJrSk9JSS1XMllpQ0hrbEtFTFhaazN6NzFEaGxELW1NUnFFUFVvR1NjWkRrbw?oc=5",
-          "pubDate": "Wed, 09 Sep 2026 02:27:00 GMT",
+          "title": "Google to invest $15 billion in AI infrastructure and buy nuclear power in Finland - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcGlWeGFlRDRYZVowU2Y0Y0FJTlRmQW5ubjJwNGcxb3NsQnRBUVo5eWtMdnhoSlAzM0FKdlJHWkpJR2lxZUZHcWg5cFBqb1NxNm9Ma0MwR3AweEZpUEFTZ1JRZ3pjSDN6V2VOdE1nUjhBQU1PdlJ5Z29xSDloZHZOOExRbHotYVlRUDd0X2tpa2JVR3U1NTBHc3VhZkYzMDN4ZE9KWl9lZnFBZzkwZEE?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 08:32:36 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Who are the Houthis, Iran’s allies in Yemen? - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQN212czZZNnNEYmF3UzlicUQwSG1haUt0SDZLd3pQeHJTWTVmWHZ6NjBFQ0FlYUxyLXU5ZmJiaGpMMHVONXJrcHM5SV9GZVJiY25xdkw0SVB6cElieWJfckgzTGhYOG5XYXFvcjlvWkhhaUU5a0l1TUotVkczc2FCRXkzNHRVaXZCNVcwd1A1dUUtSEY2RnZvTUc0ZmNMM2xTWHhHNmIzd21EbUY3?oc=5",
-          "pubDate": "Wed, 09 Sep 2026 02:18:00 GMT",
+          "title": "Brent crude rises above $100 a barrel as Middle East conflict escalates - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcV81aHB4Z3dteWpsZGxOM01KRFFXZ3hhZlBUUlJUb3Y0QXVXaWpfSXJxRGx0R2Z2LXRrb25jYWJBTUNxc3llTFNVdmRoQzkxRjlLc0czRUxKczdyYU8temtJbXJRUXNOUGpuRkdXenNZTFVLX3ZhUkFQZ191cjV3amlwZ0RocHBoUHNZYzVfZy1pSlFNNGlma0NMMFVvRFIxSXNUOTRyYnNDWU1qc0JxWmpDRHMyTmVj?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 08:25:54 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Oil nears $100 as fresh Middle East strikes raise supply risks - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUzVwcURFOW5QT2VTVW5YdFV2a2NPRGh1YkFoaTV2VUE0MXhES2gwR1ptSldNN29OZUZOLUQ2NlFUZUNpYjRFV25nTTR5cW03ZEFmX1BzMzViNGI5VXhWMWhtZHU1SDNxQ1Iyc2lDcEZOYnVpU3JMUVE4Uk9IUkVyYUdjd2ppV01LbDZESEQzWDBaZHZyOEpCem9yRkw0YUhnTVpuSVlzc01jVWszdVJSWg?oc=5",
-          "pubDate": "Wed, 09 Sep 2026 00:23:00 GMT",
+          "title": "Amazon starts selling first sterling bonds, lead managers say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdlZhMHZ0RkVhaWNCVWdOa3N1aXVYdXJ1LS1tUTFFWU5hMlJYYTJaQkQ3SWc5RGhMcklmZkxrQlNZV0ozd1lnWTdZbjFVT1hYYzFRTkJYZVZiTEFNRjBlNWkxVGprb29nRnVEeHBlZ3dkVl9HdkNhcUg1bjBpYlo0dFVDbTl4YXA2MEllSXo5bS16N3lzYUh0TThldUJhci1jYTJiWXFOdU1teDAxZmVhbTRBOA?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 08:03:45 GMT",
           "source": "Reuters"
         },
         {
-          "title": "US to ban Canadian dairy, alcohol, motor vehicle imports on September 29 - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWUYwWFIyd1Y1Y2FfSnVUSnNiVzFJSlV2Zzg0QjF2U2NJb2M5VDJRMkRCbG5BXzBmWVA3WkIydnNBNHdTZHQzbTRtT3hfcHZ6MW1oYjFMeWVDQmREUEdabDBsZFZMeHQtYU5sck1BbG5NNTFwemxyVmxOaEpWYXJIa0RZbkVWc1BHdTdyZXRtdDBaTDhYM3VtNUVrV3UwV1R6RlJzRXFxQ0xDRXVJQUE?oc=5",
-          "pubDate": "Tue, 08 Sep 2026 23:49:44 GMT",
+          "title": "UK flights resume after major air traffic outage but airports warn of more disruption - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQM0o5RXVuSUZRX2hEaDlpd1FEeXNWYkV6b2UxWkM5WkxnREFqS0VZZGZJbWlaMVo3UlFMeWpWNWdYU0Z2LUVFOWQ3N2h5akxZVDJOTGNFRmZDZU1neV9ZWlczN0hNWW1xLWV0QXdJeEZtd3NtOW5lWVN0RUhSNkROOWRRclBfQmxXSEVHR3pYT1dHYncxaHVpMEJzS0xuc3prMk1CXzRKeGlsc3NEdWhNcXB4a24?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 07:37:04 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Brazil court crisis deepens as justice orders federal police chief suspended - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV052b25VNFp5TFN1QTZ3QUFqMFQ2TU9KSFhQQzVsdm83NEU2Qmo5SjZBWDFVZGdWZFdESzlBbUhsZVVYRC15UzdvMFFOeGgzX1AzSGhHVEV5SXNZTmNaNG5JeEdKSU9aNGVDcFRuc0dhb3VRRzV1SXhoNEpVWE5iX3JsdXZmUndhbVJ4ZFV0WUZNSXdubVE3V3dWLXlIU19YSjYxbkk1MEZkUnFSRUM0dkxNWEJkNE5MZlFIdkd6SkdzZw?oc=5",
-          "pubDate": "Tue, 08 Sep 2026 23:39:44 GMT",
+          "title": "Russian drones kill two at Ukraine-Moldova border crossing, authorities say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNel9TelVvajNuRnZKSjZnck5pUmxRbzU5N1hPeTBUSUpEQ04tMEpTUENVMEc4bHRfbGFfZTlNYWpLZFE3allZSkFoX0NZZm1FT0owekhQZEViLTd0SHVZb2NneWFiS19xMnhtd1JCenkwelFKRV81LVU3R2lrT2tXMV93Y1NOeHJ1cU1XRFYtMThLZHBYUWYydjBVbDF1LUl4M1ZtYlI4QWxTeElZOHFLbEx4bmc?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 07:34:11 GMT",
           "source": "Reuters"
         },
         {
-          "title": "IRS under Trump unlawfully shared taxpayer info with immigration authorities, court rules - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPN1g1SUpoMkFKWXNsRU5udm9sM0NMRTRUdngtNXpzQkhrcDlDR1c1Q1N0YWt4TElWdXppaG94dEItRVBDcFlQZmpNcjVyVGg3dkRrWGFQSWVlQmdGTDhkV3oxTE1TWElSSllfZ2FsWFQweXdnSkFEZjJvSnFweTRKd3h5UFlxUFI2ZGRUOWhSRnJSZ2hlcG40clQtVDNOLThnMm1mVUtWOTZpXzI4WlhNX01VakF3dF9UNW1SRm5wN1BFLXBYS1oxXw?oc=5",
-          "pubDate": "Tue, 08 Sep 2026 23:34:00 GMT",
+          "title": "EXCLUSIVE: China's DeepSeek taps CITIC Securities for domestic IPO, sources say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNek1sMFNoNUdTTkFsT0lPdmU1dTIweFppQjJhZ2lBWDV4VTFkTmdDbGpmVDlCQW1pRkpIZWpzNC04S2tKNlZReGdKdzhlclc2dUZnelBTN0RxSmV5X1JXU3J6cU9WaWc3UHJRejVIc2ZxODRzVXByMk00LTE1WHg1SUZNSWstNU1Wazgzcjk4YjU5b3BWRGJGNnBYTFgwb0I1ZFJxR2U3Yw?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 06:41:05 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Chime to buy nationally chartered Stride Bank for $590 million, shares jump - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcXIxVTFQOUJmN3FqeU5HY0RxcTJvaDg4UmJ2V1ZNU0YzRWpheEhxRlRCLTdUYU5qZjRIWnlHNG96ZEV1SllyTWg0cUlPOXdlZktNT3BNZXVXTVBRWmQ0UHlGZXRJLU1jeFJjeVcyVWVRVVNJaV9vZ2xpb21XMHVqVnROOEdTVXdrWDV2ZXR3UDlYMWNWNUgxRUY4d0VPcDlha2RFVVpGc1U5cWRmcFdVWUkzOXZ6c050T0h0WnVwYw?oc=5",
-          "pubDate": "Tue, 08 Sep 2026 23:29:13 GMT",
+          "title": "Bangladesh fights world's worst measles outbreak as vaccination gaps fuel spread - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVzVQbDljaXVGc3FMQ192cjE5aGJrZjIzWGdLd0pjcUdSQVRkS3pLRGRPdk5veFUyQV9EWldST1lZUXNicGROYWFMYlg5RXdvbDE1UlZMLXNwWUJVVEJpTzZCN2F1RkNSeWw5SFJkWG42dHItblBXMWlhTU1qZGlQbmgzbFF5RTNWdk1iUUt1RGc5YTF5SEJWQWNIbF9Ybi1qS2RDNTlCOHlLZWsyRjRIaWxyV296dS1FQXFuRHltMkUydlZsWnVTcGQxWkFSQTR5NklmVl85RVpsZWpjRUhLejZR?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 06:05:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "US DOJ widens probe into Fox's Roku deal, Semafor reports - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNmlZUFhXOW05YWNRRVpUbGFOU0ljRFpBSWYwQk5mcTFzSXhSSldMcW9PeVRhWTFBM1RYRnp2ZG9OcDI2NHBWaU9lb05hOVFHT0lIVW5tMnp2TUJLdHNieEhmczJvd09PcW9zeWFydGpWQUVhLXJ1aGhPWDVublVYcFJiVGxxNzdvaGh0MG14cHRmU0lHLUZGMl9kdHUxcm9yT185VW5tSzJQUkdkaUlTa3dmSno3NHJOMG96TlNGVDk?oc=5",
-          "pubDate": "Tue, 08 Sep 2026 23:08:00 GMT",
+          "title": "Dangote's proposed Kenyan oil refinery faces hurdles, not least with crude supply - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWHNJdG45ZVVCTmhscEhFY25OY2czOHJuR0pfQVMzUG81UTdRY2RGbGtSUE9UaFBWRGI2WWlIOHZvcWRWNUJhZXNUb0tWMEY1Y3Npb1ZneTJ4ZWpBVVl1bGZ6d05yanVKUV9GNURjWkt1a1VUTlpRQzV1cXktSlozSGNXTzZKRWNkQnlVWHM2MHBiR3BGQk9VRjJ3RmxjU1hsRVhwemtobDc3dUNzY2FEdG5BcXBmaDFicWZsLVBWdHQ5R3NlVE1URWlhcw?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 06:02:00 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-09T04:09:14.000Z"
+      "updatedAt": "2026-09-09T09:06:12.351Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-09T04:09:14.172Z"
+      "updatedAt": "2026-09-09T09:06:12.549Z"
     }
   ]
 }
