@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T23:06:15.020Z",
+  "generatedAt": "2026-09-10T01:21:26.367Z",
   "sources": [
     {
       "name": "BBC News",
@@ -54,7 +54,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-09T23:06:13.801Z"
+      "updatedAt": "2026-09-10T01:21:24.785Z"
     },
     {
       "name": "NPR",
@@ -109,66 +109,96 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-09T23:06:13.843Z"
+      "updatedAt": "2026-09-10T01:21:25.051Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Republicans open highly unusual, midterm convention billed as a two days of 'Trump-a-Palooza' - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOd0ZpRE1lUUNOMTJHYzZ2UjRuVTlLbEgweXZ1bEV0Uk82QS12RzM3SGstLTd0dzNjcC16N1VIQnRoUndpcmF2RVFrLVYyQnBkS0JDZ1I5bGNLMDNsMTdWS2lrRGxoQ3VtV2lDNmNGZnBaZEFnNDJNUDFyOGt3MGdRT2VDS3VMdExFUS1kLWdaWFh6b2RUcHY5cG1rWkIzUHQ5cDZIRDNXYW14WVpSdkl6MTdTWTA?oc=5",
-          "pubDate": "Wed, 09 Sep 2026 22:31:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Rubio says US is working with allies to counter drugs but will ‘still blow up ships if need be’ - apnews.com",
+          "title": "Rubio says US is working with allies to counter drugs but will ‘still blow up ships if need be’ - AP News",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeU1kOWhWRnlwSlJDMTg0SWhDN0FiVG1LY29HdkNRb3AwUERZVWFXekpxRXREeHE5Y2xzRlN5dFA2cUhFZmRqbVJkaFBoZnp3Z1VGSWstZkVfc3NiSTlMSjRvQXdZc0xYQ0xLVHJCOTZHNmRuNW8xZXQ4ZzlLaWJEcTNLTHhaSFpkYjFfNHo1UkJUV2s1Y19QUkQyVnZDaGVKMnlfYg?oc=5",
-          "pubDate": "Wed, 09 Sep 2026 21:48:00 GMT",
+          "pubDate": "Thu, 10 Sep 2026 00:48:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Anthropic researcher resigns with warning about the dangers of AI development - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbmpkbnFlb1F3eEdNLTVkMjA0cEtGOTAzNGc4cVpoVnFsRGJKZGhuU3l4R1ViVDN2UExGLVVkUUZTRHNUNnltbkxKSmRPNjEtcXB5V0pyQV8xZUlMRHEzT1ZFX18zQmd2M25MX0lkRkV2Qkw3dzRqR3Jza1R6Q0dFSGtKYXEzM0lHd0ZNekZOckRpVzZHU2c?oc=5",
-          "pubDate": "Wed, 09 Sep 2026 21:22:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Oil surges above $100 a barrel as US and Iran launch new attacks, while gasoline prices also jump - apnews.com",
+          "title": "Oil surges above $100 a barrel as US and Iran launch new attacks, while gasoline prices also jump - AP News",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdGg1NEo3VVRGTDl0eEFZVkVVWjVUTGtmVC1haUp5c2kzb1NYcXMzNFlVZk9rQl92VTNFREZuSDlBTEhYQ19Lci1ZV2tCTk1tLVRDMEcydzk4ZEZOY3dEMUhhSlU5eXdOVnBLQWRxUlk1bXl3QjNQWklTYm9jdVZ6NHB6V0FkamhIUFJJYjhsMVk5XzlOWnZfbm1IVTVmR05TYmc?oc=5",
-          "pubDate": "Wed, 09 Sep 2026 21:18:00 GMT",
+          "pubDate": "Thu, 10 Sep 2026 00:35:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Yemen's Houthi rebels say Saudi-backed forces launched airstrikes, and other key Mideast news - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPczdJRnExQ1FLTzA5RlBFWnNlWmIwVFpfd0tWd1ZWT3dyd2FWSmp5NlRxd0lGVHhhdkE4SmNqMS0wQng1QjBBRV84ZThNdGRBekVuN09PeHhvNDJGSWlFX3JFMzFEVkZuYXg5WVdyOU16b1BqRkloVExfTi10M2JJMDJIZVpVa2FhWFdOR2JHeGVockIwY25qS243RE9UdTFIUHRMV05IeHdMdw?oc=5",
-          "pubDate": "Wed, 09 Sep 2026 20:45:00 GMT",
+          "title": "Republicans slam Democrats and declare devotion to Trump during unusual midterm convention - AP News",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOd0ZpRE1lUUNOMTJHYzZ2UjRuVTlLbEgweXZ1bEV0Uk82QS12RzM3SGstLTd0dzNjcC16N1VIQnRoUndpcmF2RVFrLVYyQnBkS0JDZ1I5bGNLMDNsMTdWS2lrRGxoQ3VtV2lDNmNGZnBaZEFnNDJNUDFyOGt3MGdRT2VDS3VMdExFUS1kLWdaWFh6b2RUcHY5cG1rWkIzUHQ5cDZIRDNXYW14WVpSdkl6MTdTWTA?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 00:26:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "It's 'Pitt' vs 'Pluribus' in drama and 'Hacks' vs 'Widow's Bay' in comedy at the upcoming Emmys - apnews.com",
+          "title": "Trump says oil prices that spiked because of Iran war likely won't come down until after midterms - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMXltZEtoQUhXVTQ1bWJMekROZWpIeXVtZmljZlVNejktRWE0TlZEdWY3X1hGMnNQRXVUUm9mTGN1RUFYOGh5SlF0LWRnWnZCaV9sYllTLVoyekU3TWlxNTYxenMteGVNSEw2d1ZmMnhOVXdoRGFmS2I5R2ljdTdkN3JwamRjbFJlb2JST2Q5YUgtXzRw?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 23:40:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Girl Scouts’ first cookies for dogs will go on sale in January - AP News",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOWtNcXB3OGVKYU5CY3FUUnBrUHozd2dEc2tUZXY0ZWJCTmxGTUtieEFXa0NKS3gzRTRRNzF1Z0pQRW1KY1Q1TzRhUjZkTVMxSDh2c2V4b1VVaTBtaTBkUWxYZ3R4YmZBSFZKRkxGeWVTM1hsVFBGXzl0NW5NbDUtMjZEMTZrUEQ3WExUSVBRelNQWGxzd1pnQmNsdkZ5eGQ4WjRfN1o1ZlNFOC1QYTZpQmFRU1lodw?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 22:18:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "It's 'Pitt' vs 'Pluribus' in drama and 'Hacks' vs 'Widow's Bay' in comedy at the upcoming Emmys - AP News",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUU0xWU5mWjdVcWdsYlQ2Tm5GUGJQck1jVW5qTW9FM1JTYlR4OEdoSG4xbFNENHZ1S2I5NWJadFNkX0plSUZTMVpMTF9seXg0SUNkOC1tX0ludUpfeUZTc3A1dFBIb3ExanlaSHpSeFhYWDR4aTJiaUdMOXV3SzJLUnFFV0RPdjV5Mjk4Z1Bkdmp1RHR6RHNOdi04bHp1MmJPWmRj?oc=5",
-          "pubDate": "Wed, 09 Sep 2026 20:38:00 GMT",
+          "pubDate": "Wed, 09 Sep 2026 21:51:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "MLB | Latest News, Stats, and Scores - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Wed, 09 Sep 2026 19:49:33 GMT",
+          "title": "Alcohol, whey and motorcycles are in the crosshairs of the US import ban on Canada products - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdUd1QUVKZnpkam94ekNMR0lzQkYyRkRHR2J3WGdqV1Z4TE5yNzM4b1ZMWDY2Si13N1EyWkFlcFRLMWFVaThzZE1YR0o5ZkM3Z1NlbGJIa2trTmo2dkNuRV8wQlppWkp1cVRvRlVORjl0OTR0eVZDYm83Ymx3WlIwT2NaZHdfT1E3aVNGZWQyRQ?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 21:43:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "New Apple CEO unveils latest iPhone lineup, including a foldable model called Duo - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZnNEUHIyS2lzSmJQbndlYkJTcnJtNEdnTlRVNU5rTGJUVU9zOTcxNU9keURpVE40eHgzSExCYzRxcTM4bDdzMVBLSmdtRVYwRWczZU4xbDEwN090dkhiMEF6OG1VMWtPcFdhX20xVTQ0QTBSLVJQZTNjVzN3dDRGTzlyeUlUV1JUMk9NOUhlZFFXUQ?oc=5",
-          "pubDate": "Wed, 09 Sep 2026 19:33:00 GMT",
+          "title": "The Tate brothers must stay locked up during their UK extradition fight, US judge says - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRUlEZVdVUDA1YkJNRGdfTmVidlVtWkJDRDdaY0tjQlVPY1hIMlVDUl9vRVJhbTJ6ZEVBQlhET1l4dzJFU21OaTZYTkxlVTNsd3BfUDlTNmFZODQySmRobU5JTkpmaFEweVhQeW1xSTQ5ZjlXVnJkaHFHTkk3eUJwZmJDNmdhVTlaZ0ZyYl9YanRSeW1HemRKSHc1el85YTVFX0E?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 21:25:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-09T23:06:14.485Z"
+      "updatedAt": "2026-09-10T01:21:25.605Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Nepal floods aftermath through the lens of Reuters photographers - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRHNDYU8yTjZCd2JfdE9FNHc5emtCd0xJX3NJTm1WVndoSm9mZUVQRGlTeVk3SkkxeGlLZ2ZXVUhmalc0LUYzVzZqeHdxQXZScjFCNmJxLTVBMkRIVTVKbkQ5LWl2ZFRIUkVXd2pFUkc1cUUxTEtxalg0YkNOanMwLVJYcjNCakFkNllTbHQ4VndoM2JxZ0Z6V3FSWWVscEN3X182ck9zN2RNRy1TdlFZR1F6aWM?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 23:41:29 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Want a leveraged ETF but short on time? This one lasts just an hour - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeDlsblVSanlRYXcwWFBKRVpNSHlLWFNFWDF2QXVUZ3JkRVlBWE9QZjdfTDlLMEpSYzRJb0FyZVkyQVFkckdwa3lyaXhBRlJjUkZnMzc4TVM0NHM2V1I0bWxEdWt1S0tKcjR6dVFxSm9YMGl1eUFuQUlMNVJBVGQwa1BiVVdzN3VmUENBbVZZX2pyUXA0THhxd1dQNUhmcHZ1WnlZM1ZHdFF5VGxl?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 23:40:53 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Republican lawmakers criticize Ford business ties to China - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNlBwY0xWY25vMW5KUmhIc3BjbVp0bUhyTnpXOGRuOXhKWVFVSlZrMWRXc2VsWHFRLWJ3UU14VmFrLWJTenNJa2NiNm52SWpTc2cyM0RrcG14el9TOVdFNkFDYkZKcGNPeWtqM19OYlZOTjFUaS1TYXJFZElMM0JHREo1SjhabVROTllGQzBnLXRuQml0cnZlWGRVOUFmX3IwN3lLNGpYSC11aEJmMFVqRWF3YUtDSHQ4amJueXhn?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 23:18:49 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "S&P 500 ends down as oil tops $100 per barrel - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZExkRWJ1dThFMjNOZWdHdkJuSFd4UENUUko1cUI2aWJNMkQzb3FtYm5kNWUza3hVRVQ2Qlk0WjFGRnlGZWRhbzVMckNacFc4NDRXbzRqTmdyWWxTdVZoQ3pYNjY2Nm9pNHJRTUo0dlhkNkFzN2NSZ3BYR2Rqb1dfYkFjWHI1eW5USFlQd200RzI1cVVYY0VsdEZMbDdNQnZrLThZ?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 23:06:18 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Five takeaways from Apple’s biggest product showcase of the year - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc2NHUUdXa0Z4cWZtOFdfWkdQLXcxZWcxMkJIblZpVkNwVnBJUENZdjNQWXprQnM5SkFXTFY1a3hqUUJFY2FCZk5TZFJhaWFtQVlqZ2F1ckhkTXlaRHl4TzFKazNTT2VYS0JPT2VROHFVNXZTV0d5TEE4N2ptR28teEdEMlp3aTNzVm5CYjZyTnRaSUdwbVd6Y0FLUlNRdERsa0JpMnh3RUJBcFY2Umt0Vm8wczBVRk51NkE?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 23:03:54 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "As Apple prepares to make a splash, a brief history of foldable phones - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONXFBSFBWSWRTZlJRS3RSU0p1RFo5MldCdzNVdG9JMjZOT0xFSllKMlRPLTVfZkZSM2xqRDlZYmRkUnEySWwwTmRmRHQyaF82eVNieTlPVjZ5OUkyOWJFVllfSExTd2NNamtSVmtGSWF2SGhoc0U2RzI4TmRhM3VGWGFnX2Y5VXlVb2xHM2NWOFBaaHRRU2ZTdmRSbjZTTldBaHpHRXNLZjJKVWh4aTg3RmFEeHhWcVZt?oc=5",
@@ -182,44 +212,14 @@
           "source": "Reuters"
         },
         {
-          "title": "Canada's Enbridge to buy Tallgrass crude oil business for $2.55 billion - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPN2FZanFEQlJ4cHVfUHdleUFIZzM3RFUwdmFvUG1NZnEwYkNYQ1pJSzdlRkpiMXpMM1BURkpCQW5JMlBYcUFab2VlbEswRmUwRmQ1dlk5dzlJRVlfSDZJcVlPWkVRRGRYTkZkbEJvMWZUdnZxNGJrX0xBUjV5UlhiYzJnZEJfN1EwaTZVeTFWT2g0UGVjaU82VlVxd3NUSnRQbjNBRVY1UnZGRkFCbmRhaVA5dzRjX09qUTB4bW1rQko0S3c0N01z?oc=5",
-          "pubDate": "Wed, 09 Sep 2026 22:05:03 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Trump departs DC on Qatar-gifted Air Force One after emergency slide deploys - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTDFmbU9kUFlkTGo3Qmg3SzFVajhJVVRYdnF4UWdWU3VId1c1TnJCZFpQZ1BTYzlMak94eFZ0WlhnMGxaVGEtWTctRUNmbV85cjhldmpSVDN4Y2hrbEJ1SWdaNzl2ODlZTE1vc0h5MlNDQ2xzbDRrNUc2RHRyMmRrQ1JsenFIUV9DQU1zUUk1TnlLOHh2QVoyajExU1I3ak1JZ2I3R21SeWtackpsYTgweEZR?oc=5",
-          "pubDate": "Wed, 09 Sep 2026 21:58:44 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Republicans tie midterm hopes to Trump at Dallas convention despite political risks - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTFVuRjI3ZmphcmFXSWxBWkNkYUtjc1FhVDB4RllGaUZfdlNCOTViQktDc1lieWRpQmhtMWkxZkZ6eTdYRE53eE1MSjI3M0tLNkpzZnRIUW9veERzNi1OTS0ycW0tUFFxUE8zV0ZRQ0gyRXExSFFwajlVUnJOd0dLemIyYnh6R3Q2TWx6MXhqc1NhX1BDbVZPX3JRLUhhTlRnal9naEdkYVpBYnpLcnRORHNhbmNVQ3Zrdkl5TXhndw?oc=5",
-          "pubDate": "Wed, 09 Sep 2026 21:56:39 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "Ash-covered shoes and a president in crisis: A Reuters reporter remembers 9/11 - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbnVwNUtycWN2VWRwUUVtZEFmVVMzRzVVc0tkY01JbWl0dVpnT2hWYzVrbGFzMFdwUGdtZVMzSkJqbzhkLTBwMEs3N0ZMWDdwSHdqN2FYS3lMU2drNF85Sl9GR3hQRlNGYnJYTWh0ajdUVkxva1V6VDRISFlPRDBzamN1YUszRTdwVlRNREd5emozM0xkNVZ5NlRtMEZBam0tVXpiY0RPNmh4RnVOYllZ?oc=5",
-          "pubDate": "Wed, 09 Sep 2026 21:40:39 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US states sue Trump administration for weakening endangered species protections - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOM01RdHFrNjZmQ3hTNFRpQ01rTkVhTmUySGdxVjNsMzhtdWxneVJXclVvU0NuVWszSWVadk10NF9CRmVHN0hDSF9ZSl8zbzdtUmdwYThyXzhEdFNsRVdjUDZRRzQxR242eEJ0RTZ3cXRyUnN5X2JGVlNDeWNuNWNlb19HbUt1UUEzX24yLWwtdGkzMGJBc3R4UzJrTXJqa1FjNVV5YzNRWUYyOHlGZ2phc1ZFMFd6X2Zw?oc=5",
-          "pubDate": "Wed, 09 Sep 2026 21:37:44 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Venezuela's opposition to soon lose oversight of US refiner Citgo, sources say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQkY3Uk9fbFBUV3ZaaEhLZEpDT3lxdjloVW9JaVZ1eDdHOEotbGRnaEI4LS1Vd3dTd01nMmlpQ0wwbk0wR01WaWZETVBManZNRDhnZmRjdExvcWloZEFvZmJqV2pwSlV4T0RIcmVRUmVQdm1BUTBhY0hCRUhXdkJpTnVqN0JhU1FJZFdicm45Q2Rob1k0UTFobHd0QnAwQkhjVDYyWkZ5YjR1SF90WTctYg?oc=5",
-          "pubDate": "Wed, 09 Sep 2026 21:33:42 GMT",
+          "pubDate": "Wed, 09 Sep 2026 22:24:42 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-09T23:06:14.942Z"
+      "updatedAt": "2026-09-10T01:21:26.071Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-09T23:06:15.020Z"
+      "updatedAt": "2026-09-10T01:21:26.367Z"
     }
   ]
 }
