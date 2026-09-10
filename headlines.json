@@ -1,31 +1,31 @@
 {
-  "generatedAt": "2026-09-10T12:09:01.282Z",
+  "generatedAt": "2026-09-10T16:37:05.512Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "At least 20 dead after fire on cargo ship in eastern China, state media report",
-          "link": "https://www.bbc.co.uk/news/articles/cj4jyv7l92eo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 10 Sep 2026 11:49:25 GMT",
+          "title": "Trump says every adult American will get $5,000 if Republicans win midterms",
+          "link": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 10 Sep 2026 13:23:37 GMT",
           "source": "BBC News"
         },
         {
           "title": "Royal family rift after popular TV news presenter chosen to succeed Ugandan king",
           "link": "https://www.bbc.co.uk/news/articles/c8jdpj4ydm2o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 10 Sep 2026 10:46:24 GMT",
+          "pubDate": "Thu, 10 Sep 2026 13:12:40 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Twenty-five dead after fire on cargo ship in eastern China",
+          "link": "https://www.bbc.co.uk/news/articles/cj4jyv7l92eo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 10 Sep 2026 12:24:54 GMT",
           "source": "BBC News"
         },
         {
           "title": "Iran war won't end until after crucial November elections, says Trump",
           "link": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 10 Sep 2026 10:43:53 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Trump says every adult American will get $5,000 if Republicans win midterms",
-          "link": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 10 Sep 2026 10:07:19 GMT",
           "source": "BBC News"
         },
         {
@@ -54,11 +54,29 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-10T12:08:59.844Z"
+      "updatedAt": "2026-09-10T16:37:03.849Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Barbara Keating died in the 9/11 attack. She's finally being laid to rest",
+          "link": "https://www.npr.org/2026/09/10/nx-s1-5962791/barbara-keating-9-11-victim-burial",
+          "pubDate": "Thu, 10 Sep 2026 11:44:12 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "'I've never seen anything like this' -- A U.S. doctor treats Ebola's youngest victims",
+          "link": "https://www.npr.org/2026/09/10/g-s1-142545/ebola-children-democratic-republic-congo",
+          "pubDate": "Thu, 10 Sep 2026 11:06:20 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "How did 9/11 reshape national security?",
+          "link": "https://www.npr.org/2026/09/10/nx-s1-5910729/how-did-9-11-reshape-national-security",
+          "pubDate": "Thu, 10 Sep 2026 10:53:37 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Trump promises Americans $5K if GOP wins. And, Kirk supporters reflect on his death",
           "link": "https://www.npr.org/2026/09/10/g-s1-142670/up-first-newsletter-trump-midterm-convention-missouri-denny-hoskins-apple-charlie-kirk",
@@ -66,14 +84,14 @@
           "source": "NPR"
         },
         {
-          "title": "After Trump promised to pay $5,000 if Republicans win, here's what to expect Thursday",
-          "link": "https://www.npr.org/2026/09/10/nx-s1-5963880/trump-republican-midterm-convention-vance",
+          "title": "One year after Charlie Kirk's death, Turning Point USA faces an uncertain future",
+          "link": "https://www.npr.org/2026/09/10/nx-s1-5928517/charlie-kirk-death-anniversary-turning-point",
           "pubDate": "Thu, 10 Sep 2026 05:00:00 -0400",
           "source": "NPR"
         },
         {
-          "title": "A year after Charlie Kirk was killed, young conservatives navigate a divided movement",
-          "link": "https://www.npr.org/2026/09/10/nx-s1-5928517/charlie-kirk-death-anniversary-turning-point",
+          "title": "After Trump promised to pay $5,000 if Republicans win, here's what to expect Thursday",
+          "link": "https://www.npr.org/2026/09/10/nx-s1-5963880/trump-republican-midterm-convention-vance",
           "pubDate": "Thu, 10 Sep 2026 05:00:00 -0400",
           "source": "NPR"
         },
@@ -88,138 +106,120 @@
           "link": "https://www.npr.org/2026/09/10/g-s1-142664/cargo-plane-miami-crash",
           "pubDate": "Thu, 10 Sep 2026 01:45:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Fetterman, already at odds with his party, makes surprise video for GOP convention",
-          "link": "https://www.npr.org/2026/09/09/nx-s1-5963916/john-fetterman-gop-midterm-convention-trump",
-          "pubDate": "Wed, 09 Sep 2026 21:17:28 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "A huge 11th-century tapestry of the Norman Conquest has (carefully) traveled to England",
-          "link": "https://www.npr.org/2026/09/09/nx-s1-5891555/a-huge-11th-century-tapestry-of-the-norman-conquest-has-carefully-traveled-to-engla",
-          "pubDate": "Wed, 09 Sep 2026 17:43:51 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Conductor Julian Wachner receives suspended sentence for possession of child sex abuse material",
-          "link": "https://www.npr.org/2026/09/09/nx-s1-5962805/conductor-julian-wachner-suspended-sentence-for-possession-of-child-sex-abuse-material",
-          "pubDate": "Wed, 09 Sep 2026 16:42:19 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-10T12:09:00.022Z"
+      "updatedAt": "2026-09-10T16:37:04.215Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 09:01:15 GMT",
+          "title": "US Supreme Court again rejects push to use Trump-backed congressional map in Missouri - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNGFJeS1xOXM1Mm5sSTdEVUwtb1VxNXE2WVZlRUdUd1RKSGNoVWowUldLTkVKYmhxY0djcFRlelpXc2lwbVROY1dfWmM1TTdCaFJfdHAxeWpVM05MUWJ1WVRleTAtVTlpbkhZOUdMZUhoTG90M0RpQkNNbEZKVGpxUks3N3hjMjhScTBHc29VU3lERE5SR3MzYjVuVS1CNzZuVWhLMGZyQ2FGQQ?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 16:03:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 08:58:14 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "World shares retreat and oil prices trade above $100 a barrel - AP News",
+          "title": "Oil prices climb back to where they were in May and drag Wall Street lower - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONUQ1VFl3RGVXQnFjNUhwZ3Q2R04wemM0dUdJel9sQjh6MzdGS1pFb2g0T1VtVFVuOWFyOGJnNkNBaHdhYmxYbGZOV0l4VG05RjIxdFNJa0VYXzNaSml2VzRhbDRpWTRUaEk5SG9XQ3pVLU8wNmFCQUpabG5WNENPT2pYeFVxLXZOcy1fMnlucE03bnhU?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 08:29:00 GMT",
+          "pubDate": "Thu, 10 Sep 2026 15:38:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "China’s car exports in first 8 months surpass 2025 total, as EV sales soar - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNXzRDZFRjV2lBVXg5YjVuMTJXZmZqaHgwcXB3SGE2NHFMMDNlejh6Wlg5ZExIdjNoRmlnUWlkTDR3T2ZkUG44OEtqWXJ5X3hhNlJrU2U2TndCSnYxSHhyZy14Vk5VakRVaHlEWTN0U1hrWU41ZVFlNjF6V3lmbTAwOEhtZV9XOWs5U29lOFRFcEU2dw?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 08:14:00 GMT",
+          "title": "NFL Scores, News & Stats | Latest Super Bowl News - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 14:57:15 GMT",
           "source": "AP News"
         },
         {
-          "title": "Trump, hoping to salvage midterms, makes dubious pledge to give every US adult $5,000 if GOP wins - AP News",
+          "title": "Hundreds rally at Israeli embassy in Bangkok to demand foreigners respect Thai laws - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSy1tSU94dU9CNFBDOVFKRkhQb1Q4Rl90VGY3TlRBOC01ZERJcXlDRG5jV3VsTDVVU0IzVF95YVVNQ0NUWGNIU3ZjX3QyZDBvR2tJbzBsa3M3aTVCNzZVTmV0b0kzc1pvZ19LMkhSVndveHBWYkRwYVdxNWlxSTlaUzM1SVV6RThWUUxXdTV3ZWRmZjhacklNMG1fZlVPaXVwdzctemxBc0ZJdGVtZEs0eExhM0RaQW8tNnJN?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 14:36:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Healthy Moms, Healthy Babies pledges $100M to cut US maternal mortality rate in half - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVEl4bDlCeHpDa2JjcWFPNXAwQ3R3Q2RlVDFkZU9uTFJrNkZJRjBWOFpXSTN4a1czd1Z2YV9HNktnV2V1QTl1azhRQXA5QWZxSDNmdU5WUEZoclNQMTBqcUJXQ19aV2kwY2M4UUNQLXZ0OC1ReDRWbkUtY3doLVQ0dEpad0FyWWg1ZGFoWEtuWQ?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 13:19:16 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "MLB | Latest News, Stats, and Scores - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 13:14:44 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "25 dead after cargo ship catches fire in China’s port, state media says - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORjdldnRvUmNNb3RqaEtnYWVMazltaHFkaTBrMTNROE4za3ZFOTVMQVV4Ry1WN1dueldhcXVMMG91amd4LVhjYXhmZE1sX3ZRdnFOZFJPZkdqMTk1VUhsQnNjU3NEMEZnYVFDTlYyYjZfVHNvNTEtNmxfMUh6V2pQeE1PVkVqdjJu?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 12:58:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Trump, hoping to salvage midterms, makes a dubious pledge to give every US adult $5,000 if GOP wins - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaFo2NjdHMEdacGhHTW9UOHZCaTNiQ0p5dTBuNDVjUFJNOWlibzNWRElyT0c1c1I4MjZNdWJVTGk4Z3pGbjBrOHNYaURqZlJTd3ZPbm14MXZWZ2FuUE0xek1sTWtYNW1ZalM2SjIzNjhYSGRVM0xCbkhKVWlfc1dWYmw1bThDbjctc0Q5VXgzTHhkNjc5akZFZkkxeGxIcjZKWGc?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 05:14:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Trump defends Iran war, slams Democrats and promises cash at Republicans' midterm convention - AP News",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOd0ZpRE1lUUNOMTJHYzZ2UjRuVTlLbEgweXZ1bEV0Uk82QS12RzM3SGstLTd0dzNjcC16N1VIQnRoUndpcmF2RVFrLVYyQnBkS0JDZ1I5bGNLMDNsMTdWS2lrRGxoQ3VtV2lDNmNGZnBaZEFnNDJNUDFyOGt3MGdRT2VDS3VMdExFUS1kLWdaWFh6b2RUcHY5cG1rWkIzUHQ5cDZIRDNXYW14WVpSdkl6MTdTWTA?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 04:23:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Trump says oil prices that spiked because of Iran war likely won't come down until after midterms - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMXltZEtoQUhXVTQ1bWJMekROZWpIeXVtZmljZlVNejktRWE0TlZEdWY3X1hGMnNQRXVUUm9mTGN1RUFYOGh5SlF0LWRnWnZCaV9sYllTLVoyekU3TWlxNTYxenMteGVNSEw2d1ZmMnhOVXdoRGFmS2I5R2ljdTdkN3JwamRjbFJlb2JST2Q5YUgtXzRw?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 02:27:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Yemen's Houthi rebels say Saudi-backed forces launched airstrikes, and other key Mideast news - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPczdJRnExQ1FLTzA5RlBFWnNlWmIwVFpfd0tWd1ZWT3dyd2FWSmp5NlRxd0lGVHhhdkE4SmNqMS0wQng1QjBBRV84ZThNdGRBekVuN09PeHhvNDJGSWlFX3JFMzFEVkZuYXg5WVdyOU16b1BqRkloVExfTi10M2JJMDJIZVpVa2FhWFdOR2JHeGVockIwY25qS243RE9UdTFIUHRMV05IeHdMdw?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 02:12:00 GMT",
+          "pubDate": "Thu, 10 Sep 2026 11:55:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-10T12:09:00.688Z"
+      "updatedAt": "2026-09-10T16:37:04.834Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Philippines deploys vessels as rescuers seek access to burned ferry - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOY2d4ekhwd2hlUTVSSHhxMFRsTzNXQjc4M0xjRzhHLXQzcjQtOF9XZHFLOExQNkhXQS13MHBoRkpqM2kzb2kyZ1JiYk1YQ2FwRUdxNEl4TUl3d1MzcW1QVXNiQlRSN0ZLenQ0NGk2MDIzTkZRMTd3V29VRVZuWm96cnlkd2wxNTViMS1mNE40T0k3V29GVVF2c2g3WnRsVkJSUXc?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 11:39:51 GMT",
+          "title": "White House copper tariff plan stalls amid affordability concerns, sources say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNURGbmRQdjJaanFqS0VBQUVyTjZCNkZyeTBrV2NVcWtGLVRQdk5jaG9pYU5FejR3REpqdHJSQWM0NlRUSVdnclJOR0RiWEpUNlV1ZXRUU1RPSTFlNF90elZIZWFxbFhDYm1nUlFjQ3l0UjRMbGstTmItU3BiOVZDYi0tRUxPelM0V1J6TmhVTnJJQkdxdUFBemtkdWxTdUNScndiZlNiQm1rQXRsMlh6ZFhxNnRmemFLN2ZfMnk2UQ?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 16:31:39 GMT",
           "source": "Reuters"
         },
         {
-          "title": "EXCLUSIVE: Major Novartis shareholder calls for board shake-up after drug trial setbacks - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRXkycUxwWU1iSXF2SUJuVWxOTHZ6ZDVlYW5aZS1wdlhDUzBlSHNqZkQtbFlvZ1dhYkRkNmpobW9pT0NPeE82MmJfdVFnaUlNZ1J3emlGc3dDdHhpUTBGTFhTdFg1R0hnRTR5a3FnUjI5Wnh5d2d0R0llaUNoNHJfMXpUSmVsc2VlM0swd1lpQU91T0pGanZGZ1gxSTBpY3B3NVpoSlppVk1Ob1ZqODRXNExtT01RQQ?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 11:39:30 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Algeria cuts diplomatic ties with the UAE - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaW5YdHFlZ2U0Sll2VTZQeGxweXUtTk8zSUt4UGdNQ2ljcTRzeG84SEdzcWlFOUpXNGFhekVfcXc3dEU0Y0UtQnBpRnZwWmVqVXl1TWpDQlhRRjZnbWRoT0JFaUdZcVkxdU9BU3NfSjNMeW5zR2I1M20wTHlvS3N0MXBIWWVLUTNIR0RFS2ctWWJJLS1nVXhyRnhIakpKd3ZUS1pmeld6MTVBNl9KVnVpaWFMTzI?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 11:09:37 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "COMMENTARY: Asia's oil industry wants Trump to leave the Gulf, but expects he won't - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMm1IdXZwdFBoY28xel9yZ3VNRGs3a0RTbDhTb3ZDWEw0VFZqZE5mNVJ6b2theVp3Q2p0emhIWmZwLXc4ako5eDl3UzVWZkRaQ3RHX05VbkNhVkVxbk9ISXhLMjVaLTRHc1FDdHAxb1QxN2hYSldJUzVGYVhmeWNiRVV0UjNtcHdubFpKWVFYWDZ4OVBJRFRSREhvcVlYVjV0YnFwUTNKeDBvU2hYMEE5SWFubFFCZlhSMTFaUnJMY19oYnI5?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 11:09:20 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Ryanair CEO says winter fares may rise after slight upturn - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOU3B1ZGVDZGxNLWNIc0dGelJCVGhWQlhDb1RJalRjNjczME03T3h3eUxJRWdrYjg2VW4zeE1vcGVTU0t0Q1lLVWczb3NTS0Fjb2JrYmpQclZQWHpOTmJXWlpBUnpqcFM2Vjc0aGMweVNRTWZIcG9Hb0tUbjN0eVhJdFF5MEhjSkxCbW80Yzk1SjZtYmh4NExlSXlfcU9QT0pKX2JXOWRIMkJrZlBDUXhycHdwdzAzS2syNG1VeWxpb19VWWpfRktFd0NpVW16QW04bUpGQUFfd28?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 10:57:22 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Volkswagen earmarks €16 bln for job cuts, plant closures, source says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYlItTVNOdkdyZ09EbmhrVE12enZrb2RSbTVSVjdvV3EwN1I4dk12VU9yMUc0SXBWVU8xbC0tb2pZMGt3LThsZV9CU1dZcGp1ZVBWSHJkNHdTZWt5amtrM0lDNjhfQmhoNmU4ajBOWk5wUkI0WTVzWkJYV0JyRmZ1SmgzVTJYN2duNEMxVkY1Uk52cUVVUWlxWEVwSnZIWUs1cFJPdU9hSDJ5VXJOOTdvaWdtN1NhTUNjWG9Jcl83MnhsMndwVHZVLUFTT3R6eUNS?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 10:50:31 GMT",
+          "title": "Wall St slips after hotter-than-expected producer inflation data - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVUNZS2ZwczJmM0x1aEM5ZFJMbUhWckRSOE54a1NyTFZjb1NaNFNCZDFwOFJiMk40b1RJelZsVnhKOVNObGNGenNkZzVhUWtZRlktVzhTWk9Qc1EybkRweDk4RFRRUjh2bk1TU0lJazBncUFnUlcwcTlPVWY3NjBzdWVUd3JGTDlLeF9EMU1aTnEzSDctTVcxZVdzT1RZclZjanRhbkl3?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 16:17:34 GMT",
           "source": "Reuters"
         },
         {
           "title": "Children of 9/11 to finally get a major health study - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRWpnZE9ETTFMeTRkSVREYVAzM1h2THd4Njd5SEtYb2dzOXRZMFJVbkZjZ0xqS3Z0T0pZcHE3c2RZemNvUmhZTmdlUTdMT0RIa2xaQ0QzM2cwb19IZm1QdHlPMFFhYWF2b2JpU2FoMHJLWi1nV3pPNXZvenRhQS1wNndNUTVuWDBLcnhOYkd4NW83WGVWdms5UkVtU1ppNHhOUEVlMjllb0wwNVJZdFN1Z1ZkdDJoQQ?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 10:36:20 GMT",
+          "pubDate": "Thu, 10 Sep 2026 16:03:22 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Xi's India visit to help diplomatic thaw, but business ties bound by suspicion - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTE5zWFZ4Z2JRY1VhbF94Z01fZFlvRDRvVFFjMHpwQnN3RnpUN1RHZW1kSFJiWDM2RnZadHhRVy0yOS1xcU85UEZucEN0ZHZ1YXdtYzE1WW9NQ2lQcEtZZEN0VW5qQTk1emRJT2hNSXV1SmRkdGVScHQwX1p2NkpiRlVpZ2kxYVJtbF96U2NjVC05Nmg0TEhBa1lJUVUyX3QyOWQzdVd0S1g5UjZibVNHODRyNDdLSGli?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 10:21:08 GMT",
+          "title": "US Supreme Court blocks Republican-drawn congressional map in Missouri - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVzhNVFBiOTdvaDJwUXAzX3JOem1PQ1RhNmF5R0sxTjZtRXZSc1E1NWZzbGpmMlp6TEhyVk9JWUtRY3UtZ3FTSk1ZY3RoX3VFMnB4ZnZBY0RrbjZkNEFuY1BEWldvMmpOSExaWE01ZVA2UzhGS2E5UlNLYWlpa2tiVEpVei04ZWlPZUVhbDRhT1J5d3dRNi04bDdaN0JYbjNvb3JRTGE2NjNndGtxSnc?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 15:59:55 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Trump administration proposes waiving grace period for H-1B holders after job loss - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdFExZGJsaERnTExDODNaTmptMEF4VkRlMXRjOUItcHkzOFhULXBxZ1pJOS01YWZyQXI4aHJDb0I5NG9PRkVEUXJlUkswZXJRakJSb1BRRlc2aEF5aWliaEpFNGN2akwzakR4R19yUWkxeDYyT2tkc09rVTJvZTBSSHYtcTk5bHYyYlExUFhSYXVIYnBGNUM0eTBpc1NBY05sZ1ZXVXJOVzZyTTJaWVQ4dzJENVZwdVpxcGpYNDRfTE9HeXFkQzRQSFdocw?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 15:48:24 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US lawmakers call for new AI rules after Anthropic researchers' safety warnings - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMWp5NmlTNEIxeThhRTdwR0VjTy1RYkFpUjh4LS05Y3l1UVhHa0tUOWhGM0s4emNhc20wR213OEZYY0JNTlhFY1lqRDRPMHlWdFF0Nm01UWt4YUpkR2ZvYnRVVXRNS19BSkt0dVdGc0hpZDFMWDQwLVU4elp1WGdlano1VFdQOTEyazN2UzJ1STBhcFBUd1JjQS1mSzdJdmhSYjVVOTI1TVdDb1ZnVXJwbQ?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 15:45:36 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Russia strikes petrol station in Kyiv, global agribusiness in Dnipro - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONEVtQVJxa3hqaktCVV9ValNCTzFSNGRORVhUcTRMcUxnLUh6RHZNeDkyWlNpbTFxRUxETVoyajVzZi1IaHQ1SGNldW5QWXZRLWRrTjZ6WC02ZndibmpqU0t4VXVXTmF1QUJVZ0pyV3dFVWh3Qm5oTU8zMWVUZGRzTVhzUXlYNUhHZ1FVa1hVcF9wUThDTjJmaGtzQ21sc3E2bXN3?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 15:44:10 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US to issue $500 Obamacare refunds to nearly a million Americans - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOXzF5MGFTdDhQYm1BcVVSODJISXc5b1FrV2dpWEZyTm54TlF4dWxXQzQ0M0VoSDBUYVRlVFFnRElHM2tWWFFoUGtmY0VIaFdhZVEzd0R5WmNSZEdtM2wtYkxXU3h0SnFQNU8zSG1fYnEyTXEzSE96akF5UUU5ekhJeUc1c1k1VXluaEhFQUxKX0doTkZnX3J4dndqTUw2QQ?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 15:42:13 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-10T12:09:01.106Z"
+      "updatedAt": "2026-09-10T16:37:05.291Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-10T12:09:01.282Z"
+      "updatedAt": "2026-09-10T16:37:05.512Z"
     }
   ]
 }
