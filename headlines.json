@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T23:54:01.807Z",
+  "generatedAt": "2026-09-11T04:05:12.580Z",
   "sources": [
     {
       "name": "BBC News",
@@ -7,7 +7,7 @@
         {
           "title": "Coach crash kills several people in Swiss Alps",
           "link": "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 10 Sep 2026 20:44:51 GMT",
+          "pubDate": "Fri, 11 Sep 2026 01:01:18 GMT",
           "source": "BBC News"
         },
         {
@@ -54,7 +54,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-10T23:54:00.110Z"
+      "updatedAt": "2026-09-11T04:04:58.902Z"
     },
     {
       "name": "NPR",
@@ -109,7 +109,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-10T23:54:00.490Z"
+      "updatedAt": "2026-09-11T04:04:59.053Z"
     },
     {
       "name": "AP News",
@@ -163,7 +163,7 @@
           "source": "AP News"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-09-10T23:54:01.129Z"
     },
     {
@@ -218,7 +218,7 @@
           "source": "Reuters"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-09-10T23:54:01.563Z"
     },
     {
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-10T23:54:01.807Z"
+      "updatedAt": "2026-09-11T04:05:12.580Z"
     }
   ]
 }
