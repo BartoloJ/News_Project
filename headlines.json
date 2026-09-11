@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T20:47:15.101Z",
+  "generatedAt": "2026-09-11T23:07:28.327Z",
   "sources": [
     {
       "name": "BBC News",
@@ -7,7 +7,13 @@
         {
           "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
           "link": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 11 Sep 2026 20:11:47 GMT",
+          "pubDate": "Fri, 11 Sep 2026 22:17:45 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Six Nigerians accused of romance scams to be extradited to the US",
+          "link": "https://www.bbc.co.uk/news/articles/cj3dy704l71o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 11 Sep 2026 21:07:19 GMT",
           "source": "BBC News"
         },
         {
@@ -45,20 +51,20 @@
           "link": "https://www.bbc.co.uk/news/articles/c0lrk7d7j0no?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 11 Sep 2026 12:04:46 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Buddhist monk arrested in suspected $3m embezzlement scandal",
-          "link": "https://www.bbc.co.uk/news/articles/c5yjkxlngjyo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 11 Sep 2026 10:50:04 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-11T20:47:13.715Z"
+      "updatedAt": "2026-09-11T23:07:27.071Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "How shofars became the spiritual soundtrack of Rosh Hashanah",
+          "link": "https://www.npr.org/2026/09/11/nx-s1-5957988/how-shofars-became-the-spiritual-soundtrack-of-rosh-hashanah",
+          "pubDate": "Fri, 11 Sep 2026 16:29:31 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Amid war and sanctions, many Iranians are losing their jobs and struggling to get by",
           "link": "https://www.npr.org/2026/09/11/g-s1-142935/iran-us-war-jobs-economy",
@@ -100,126 +106,120 @@
           "link": "https://www.npr.org/2026/09/11/g-s1-142842/us-diesel-6-a-gallon",
           "pubDate": "Fri, 11 Sep 2026 06:04:04 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Will you get $5,000 to do the news quiz? No. But will it be fun? Maybe",
-          "link": "https://www.npr.org/2026/09/11/g-s1-142657/will-you-get-5-000-to-do-the-news-quiz-no-but-will-it-be-fun-maybe",
-          "pubDate": "Fri, 11 Sep 2026 05:01:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-11T20:47:14.050Z"
+      "updatedAt": "2026-09-11T23:07:27.178Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Yemen's Iranian-backed Houthis seize an island in a key strait, opening a new front in the Iran war - AP News",
+          "title": "Saudi Arabia shuts down a pipeline as Houthis seize an island, opening a new front in the Iran war - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM0JXR25HRTJQajYwc0JCVkd0dnBQdXBiOVRMQjM2RVJYS0gzTmo5Ykg1RGJqYkpVSnBGajJfLWlCYmJWTG5fWlNxcXV3eGN2Z1Jud3VzanpiQ2ZrSzB0bDY3OW5FRzZELVlYMmJfbXpGUXBadWVyOU9Fa0YyYzBqZVByR3BFNnNBdTlGOXlKUGlHaDl0QkJxUmo5LW9SV1htNXlqRy1QNGV6Zw?oc=5",
-          "pubDate": "Fri, 11 Sep 2026 20:13:00 GMT",
+          "pubDate": "Fri, 11 Sep 2026 22:52:00 GMT",
           "source": "AP News"
         },
         {
           "title": "US marks 25 years since the Sept. 11 attacks - AP News",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWm9MbFdWc1lrNENJaU56cE8xMF9UdkRXdHIwZ0xkamZpM3BLRDkwVkFoeEFQX2M1cU1QcmdtU2VmYmtwYnhJVTY2bmt2OFY1TVYyR3UwdlJJaWhVbjJ2OWtyWFU2amdEdC1pdll0RGo3MEtVQmxQQWw1elFNZW93clRNbVdCXzFLQ1FtQUluR042T3VVbnRYZGZPSmM?oc=5",
-          "pubDate": "Fri, 11 Sep 2026 19:20:00 GMT",
+          "pubDate": "Fri, 11 Sep 2026 22:14:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "15-year-old rescued after clinging to capsized boat for days in Alaska’s Bering Sea - AP News",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNekpRT2pRT0lBdnpyVEpVNUlJOWU1X0x1czVfU1RkOVlTWHNNckZMSWpxLVpmVUNqNWlqSGN2YlpjNDJ6bFJ1emllaEVOZkVPRTdkWjFqVHBGVVUwdG9MNVNEVko5Zk1GeVFWdlpvVXJad3Z5MWtLb1UzX3VmREYyS1U3Y0VLR1U3SURWNWdMS1VzN2k1WTV0QWNHVFI0c0R6?oc=5",
-          "pubDate": "Fri, 11 Sep 2026 19:20:00 GMT",
+          "title": "Convicted sex offender offered opening prayer at rally for GOP Senate nominee in North Carolina - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONy1wSS1EUGRjS0RCdExUQlJVX1V0VkZhVHltNDNCclNoYkNxV2dMcC1Nc3RycndkX2NjOTc5d3JnNFZEUmtkbjdqVUVpMnNDZ0Q5cHlZWVhXUWo3RnhBcFduT2VSOGZLdXhNMTdCSklXZEZ6Z203dHdPcTd3NW1vbHJVWFFuLXNkNUNjd0lJb2J2SWhXSWs4MlJvakdoUFZ2dEE?oc=5",
+          "pubDate": "Fri, 11 Sep 2026 22:01:13 GMT",
           "source": "AP News"
         },
         {
           "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Fri, 11 Sep 2026 18:40:30 GMT",
+          "pubDate": "Fri, 11 Sep 2026 21:30:47 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "US stocks jump after oil prices ease and an inflation update comes in near expectations - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQy1VQVR5VnAyYTE3VGNkNVdQVElFYkliUUEwNW0wRHl3Y014Q2NyVE4tNDR5TE5MdDlsT3FTanBNbTNaelFWT3FZNTY3RUU4YkEzSnRlaGJOTmdFQ0s2ZngzaWFxQ1RaZ0Q0aVotVEdLU29mRmU3M2x4OUthX1l5c3p4LTAzUEY2bUVRRE4teko0SkFzdl9jT0hvekVDTy1leEgxbWx2dHFIU0dhUlE?oc=5",
+          "pubDate": "Fri, 11 Sep 2026 21:04:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "15-year-old rescued after clinging to capsized boat for days in Alaska’s Bering Sea - AP News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNekpRT2pRT0lBdnpyVEpVNUlJOWU1X0x1czVfU1RkOVlTWHNNckZMSWpxLVpmVUNqNWlqSGN2YlpjNDJ6bFJ1emllaEVOZkVPRTdkWjFqVHBGVVUwdG9MNVNEVko5Zk1GeVFWdlpvVXJad3Z5MWtLb1UzX3VmREYyS1U3Y0VLR1U3SURWNWdMS1VzN2k1WTV0QWNHVFI0c0R6?oc=5",
+          "pubDate": "Fri, 11 Sep 2026 21:04:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Yemen's Houthis capture a Red Sea island in a threat to shipping, and other Mideast developments - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTVVrTHdGZGh4a2VWNHlfeWxkdlQtVkVJQzNaMUFpTTJwTWtfZlpUeVktX3g3NVBsYVFlbjdHOHZsaUZHTWhwQXo1eE9RaUowWnJYVlBJYXJWOTBYSHhCd0dJSWM5T2xJV0hJRWw5b0ZBZy1OSlcxY2VkTkszMUxGMl9fOS1MVldRajgtMFF1V0dYNTJJWHVN?oc=5",
+          "pubDate": "Fri, 11 Sep 2026 20:23:00 GMT",
           "source": "AP News"
         },
         {
           "title": "U.S. News: Top U.S. News Today - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBlSV95cW15dzRMN3BweVV5a2ZVclpfUE5TYWRCWGtHX1VOX1JuNklpQVZ0NnQ1Q3diNDlUbmNPYw?oc=5",
-          "pubDate": "Fri, 11 Sep 2026 18:10:10 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "US stocks jump after oil prices ease and inflation update comes in near expectations - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQy1VQVR5VnAyYTE3VGNkNVdQVElFYkliUUEwNW0wRHl3Y014Q2NyVE4tNDR5TE5MdDlsT3FTanBNbTNaelFWT3FZNTY3RUU4YkEzSnRlaGJOTmdFQ0s2ZngzaWFxQ1RaZ0Q0aVotVEdLU29mRmU3M2x4OUthX1l5c3p4LTAzUEY2bUVRRE4teko0SkFzdl9jT0hvekVDTy1leEgxbWx2dHFIU0dhUlE?oc=5",
-          "pubDate": "Fri, 11 Sep 2026 18:01:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Ebola outbreak in Congo spreads to a 7th province - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOR2pqczFpS3lxb0czam90bVFGUTBiQUdjTEoxS09JalpvV3MtUklXSDlDRUJ4TFVsUTZ1OHdibmxkSVV4azAwUUQyUkEzVUgyNUwxdy1PUUV3dWh4OWZUa2Y2WmI4eldXMXNYWEdyc3NqX3dlTG1SR0tNMHpXUHQ2cFZYc2lDTlVvMU5PRUFvTjR1Ni1feXc?oc=5",
-          "pubDate": "Fri, 11 Sep 2026 17:47:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Emma Bonino, leader of the abortion battle that changed Italy, dies at 78 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbGJNNnUzLU91WTE1ZG9iQ0V0bHd5NV90Ymg5SFRpQ3U1MWZDRjZFcG9tWndpWnllb1R5b25QX1Q3UUtnYkVTNU92Sk1TUG1zcnEyeDB6X1lXUll3ZWVCTlcyZFY2OGdNMW52Qm1MWnBtMGRRUVdkaWJNaHFZWF9lWVB6a1ZiNlVhUVNUQzAyZmFRaXh4Z0k1ZE5rVUxPTjhLWlF1emV3?oc=5",
-          "pubDate": "Fri, 11 Sep 2026 17:38:00 GMT",
+          "pubDate": "Fri, 11 Sep 2026 20:06:27 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-11T20:47:14.502Z"
+      "updatedAt": "2026-09-11T23:07:27.762Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "Scholar Rock gets first FDA nod for rare muscle-wasting disease - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVU5NMExYODNrTUtaUGJWeGhmcDI4UmVHaWZEU2M4Tkc5Mkd1MHVSMmJhOXlDeEdQZE1JTW0xa0lyV1A4U2gwMmEzMzl6TW5lb25zaGlWTXAwc3g5S2Q0U2Y0NG01bzk3Z2kyRE5UcENFSmUyVlFwcHo3Y2JYYks0S29nRkpsakIxSDZfdV9xeHJITlVGUkU4cE9IeHpIU2FnOFc2b1p1RUdibS1OakFBMEQ2bUZDakhRQmhXRXJVdw?oc=5",
+          "pubDate": "Fri, 11 Sep 2026 22:59:18 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Iraqi military commander dismissed after drone attacks against Saudi Arabia, prime minister's office says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOX2R4RE5oY1k0NjdIODFzRjJQRk9WdC1jazVkWWs4UnMxQWdfaS1JSnVNbXRiUHdDUkxFRjhMZ05GMXdoRVgzYXExUW1kUElyeG5ZaUNaRnF0UUE5ejA1aDZ4MURaRHhpWDZNM1AxN3VXX1FZRjd3WVdXbEFVOHhKeXNaZFNIcDdSaW4zbWtXd2xxSGdrb2dEMURrUWtpd1ZYQWJTQUhzVHNRb3RrQ2otM0tmSDh4dkVYaXNKUkZLMjIyOS1XUlN5ag?oc=5",
+          "pubDate": "Fri, 11 Sep 2026 22:07:39 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "South Africa extradites to US six suspected members of Black Axe gang - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVnFvUDM4TVhBZ2JtMUIzYjRKZnhMVW8wTEdiZUU2cTNiS0tZMHFKdEp3b0NFYzloSm8zOUZKZnhlWmZNeEZOM3BSWnV6QzdrS2Q2THZ6RE4zRXFRX2pZWjJNc1FVaXhhUVZBc0ZMWHpKS0Fad2ZmLXE1b3Z1VGI4YXROUmswaWE2UDZmdmJTNGdhR0dpXzB0TDRKZFdmZGNUcXBoRUZobkdWS2RYRFBuVHloUGJkdmM?oc=5",
+          "pubDate": "Fri, 11 Sep 2026 22:00:09 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Trump and Musk super PACs unleash millions to boost Republicans in battleground races - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaUpSMUhkUE9ueEljSXNXNVFySGxLOUJocm85WnVQOU8wTTJZY3RJOU5fV0hiNFJWMnNLMHNyLW5KLW9HUWhhSEFaTm5WVms3YThKUlJubThuWWE0Njc0NkkxUzZBQ2FhWVdpSjNaU3pVOGxOUldrYkZ4Vkt2bl9WYWFYZ2N5RnlBQ3c1bEFnNldDeVk4Y0RxNjVYYmtQRm01UERCTUI0UEE3QWRTV29zM3BUbVFtbGFVSzhyNVpPS0tiZVdfVC1F?oc=5",
-          "pubDate": "Fri, 11 Sep 2026 20:30:59 GMT",
+          "pubDate": "Fri, 11 Sep 2026 21:52:18 GMT",
           "source": "Reuters"
         },
         {
-          "title": "S&P 500 ends higher as strong inflation data cements rate-hike bets - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOTZpMXRyVmxGMjJTRmVVOV91TnZIWlJsZS1BNlE3bENxRlRlVnh2RFZKQmdwUVNydUJQd1RvZlZLam1KbnR2ZS1Vd2VNaWhrN3lNZ3hETUtvcTVxYTFEOENQQ292eWk0YXJYYjBrekoycE5sU0FqdloxRXNZcTcyd1dnYkFEdGpmMV9Pd0lwemdYWmd0aHZaYmpkWmlLOFgxdnc?oc=5",
-          "pubDate": "Fri, 11 Sep 2026 20:17:45 GMT",
+          "title": "Oracle rises as AI-fueled backlog growth deflects spending worries - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdWJSSTdqOGtkTkZWLU1xNDNtZEtldTd2QnU0Vy1iR0w1dGl1bVJEdXBDbWNxeWVZR1ZnemZRSEFVT1B0UVhqVEF1dEl4cUN1MkQ1U1N2SFFSRUpKeW5FT2pNUXF6ZUgtRmFBTDExR0MzVW85S1k1OWpzYmNhNHM3d2pwREVQOGVMWlAwZXFPcW1HOERNZzIydFhseWEyUFNWUUthSXdHaWlReVMtbU1LMDJB?oc=5",
+          "pubDate": "Fri, 11 Sep 2026 21:44:25 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Germany's AfD says arms production could aid deportation drive in Saxony-Anhalt - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOajdBTDIyZEN5aDZPVXRudjFLSXdEOHFSbGlBQk14ZlRYTllHTFlYTUdrLUFLTHYxNm1CTVhtQmhQeTBkcTdyRF80WGNrYVR0dkhoczV0T01sN2dteHhKX09GbG0wejhqdk9HTXpnMDdkbV9VazkyNlkzY1FpU1pmd2lHRk5FMEJkU19Fd2luOVo2aGRNbTJ1bjF5OHZEaVZObFo4OXNPOHdPdEtXTGpjck1NOG9NWGZiVXdhSXRzWS01SmE3Y21fQjJnSzdud2k4cnd4NA?oc=5",
-          "pubDate": "Fri, 11 Sep 2026 20:12:17 GMT",
+          "title": "Gulf oil threatened anew as Houthis reach key island and pipeline is shut down - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUk9oUjNYejhGeW1YblJUVWdfQ0JaZU52dHNPZUZVdnpMSkxYS3pKTWhLdjU0REdNUGdubUhnRl9KUXZabHRfbEQyOUJZeXUxQzZfcGFlbFV5V1BlSTVmRkhzdGJaNkpQa3p3OG9LZUt3Q3VXYkdrc2ZRWW9fcWQ4TkYxNFgxNFI0dlhIV0UyUU5Dbk44blJMempZVFVqVm5XbUlfV2dqSlN3YXBNUDlUQmVxS3JQMUxQ?oc=5",
+          "pubDate": "Fri, 11 Sep 2026 21:28:55 GMT",
           "source": "Reuters"
         },
         {
-          "title": "US consumer prices accelerate in August, push Fed closer to rate hike - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdW10dVZWcHQ3MkdPRy1fRGN2VVUzeV8tV2tRSnRfVHdBbllhS0hfTzlWUy1tM0pHZWxmTl84b3loTVFqRHdUX3I2REFQQ1h5ZTZIcHBJTy1Jcmd1VUpPdDRtdVhvbVpHMEVCQmJkbnNqYXBCUGZiTjVmcTM5NUpEbFgwb08wQU92TFE?oc=5",
-          "pubDate": "Fri, 11 Sep 2026 20:08:57 GMT",
+          "title": "Train derails in northern France, injuring 44 people - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRnJJYUZBT2xTV19JSy1IbWc1dG8xSlliS2FDQjFDUnExTklKWmI4bllmaWVjRGhjNzhQUTFuMTNBbXd1NUl0UWZnSXl4MjZ3VzZkSnFJMXdseERhNkpCc0xWVy1PNlcyeDdKWnp5aXJfQkhjLUpXa2J3eWM1bzdRV1VOY3BMSTktV0VDOU0yY1lvaG1tWV84QUg0cGRRQQ?oc=5",
+          "pubDate": "Fri, 11 Sep 2026 21:24:54 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Russian official to attend G20 energy meeting in Houston next week, White House official says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQN1JqMXQ1djJYbW1KbWhkVmRJYUgxMnlKaENmcmlHdjYwRWRnYjZrYzJyQk92bWhGekMtUnQweG9lVkpoMm55dHZlc09NSnhyRW5uNldTNUxBb3d0bUZ3a05hWUpvaTNkM1MzOWNRc0RxQW41cmRrOHVWR1pDb3RNMUxMNDRwTWg3ZVA4TkV4cldGUUMyS2FLek80blRQdjdfZ0pjTnl0ZlVqWlpCNGhPdW9IWUxqNmFEQmZFUkxsN1E5dw?oc=5",
-          "pubDate": "Fri, 11 Sep 2026 19:57:51 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Afghan woman deported from US in first use of secretive terrorism court - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMTRaZFNNc281SnBUaER0WFg5cGFreW9tbU54QlNaSXhwczgzXzQyZUZxeENyTFlUa2JVUXNkd05BWk9MY1gxWEUxenVYMThmQlBkcXNOeDlsZ1ZrR0JQdmlXZlQ2WWg0ZElnY2R1TlBrclV5b0MzaExRV3FTOGVpelpOcV9YQnlHLTN4ZTJRRXlscF9RUkxzcGxacjB5NnRHa1hEMjFMUENsUUp3QlFmTEtXaw?oc=5",
-          "pubDate": "Fri, 11 Sep 2026 19:45:43 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US House to vote on Russia sanctions backed by late Senator Graham - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYXo0TE8tLVZ2VzF0TjRlTFJBbEZIRDVqWndXMTNMb0VlT1lxd1JBMEdpNGJmaVE2a2Q2emtmTUZ2NVdvOUloVEdrdnVrOVRnSTRWbmd4MGNSUzFXR3JUR0o5ZHloaU5JRzd5TVNtenpjd3ZBNk5aZU9ubVE5aTRlTUtFM0M1dWFCUGVZcEp0b01SejVmS0p4Z2RHV2YyRm1PQUR0UzUxeUtJM2NmQzJVdTVsRQ?oc=5",
-          "pubDate": "Fri, 11 Sep 2026 19:43:18 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Arizona accuses L'Oreal of concealing cancer risks linked to hair relaxers - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVzE0WHI0cVN3UDNUcXgxM0RLVVFjb2pLaGtCd2E0eGNXTFFOZ1UtTC1UV1Eta0RRQWd5dl83aF83ZzZpdFZra2lsOGhjenV5aE4tWnd6OFJtRHo2aFNDNlV4RjV4LWJUWXJoRzdodm5HZEdJQWJ1eEFtdTE0R2d4cG5fbTJzenBVNlU2UGZwck9neHIzdHRJUThKRVFPbUtMdnBnQ0hFN2pjdjFJRzJqSVQ2MS11YlBDZUlYbg?oc=5",
-          "pubDate": "Fri, 11 Sep 2026 19:40:02 GMT",
+          "title": "Ebola infections top 7,000 in Congo as virus spreads to new province - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQekp2Sm9XTHh0RXBjaHc2XzBLMVJkUVlMdkhmNm0zVm5hSmJkZWdJdDR0S1QtX0RFcXI2cU04ZVUwQ3dpWEkyYnRsVDh1bDlxU2hNYlVqWEd6TmlMT2FHZHBDWmJvVGotdExVdjYtMzFhb1UyLWFCSzNzUnMyYTZpSTZEUEpveEZSUEt6OGNjYUJDOVVIV09vUVVtOTJWeUR4WHpNTzFlZ0RCUERpVkVBZE9SdUhxTm9yNXNtNU53SzhZWTc0VWI5VXJn?oc=5",
+          "pubDate": "Fri, 11 Sep 2026 21:13:44 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-11T20:47:14.899Z"
+      "updatedAt": "2026-09-11T23:07:28.174Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-11T20:47:15.101Z"
+      "updatedAt": "2026-09-11T23:07:28.327Z"
     }
   ]
 }
