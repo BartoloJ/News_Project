@@ -1,64 +1,82 @@
 {
-  "generatedAt": "2026-09-11T04:05:12.580Z",
+  "generatedAt": "2026-09-11T09:03:04.400Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "Coach crash kills several people in Swiss Alps",
+          "title": "Five dead and dozens injured in coach crash in Swiss Alps",
           "link": "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 11 Sep 2026 01:01:18 GMT",
+          "pubDate": "Fri, 11 Sep 2026 08:54:20 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
+          "link": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 11 Sep 2026 08:15:25 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Man loses case to claw back $369,000 he spent on lavish gifts for ex-girlfriend",
+          "link": "https://www.bbc.co.uk/news/articles/clyqxgzynk7o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 11 Sep 2026 07:59:26 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Princess Diana's 'revenge dress' goes up for auction",
+          "link": "https://www.bbc.co.uk/news/articles/c0lrk7d7j0no?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 11 Sep 2026 06:54:46 GMT",
           "source": "BBC News"
         },
         {
           "title": "Man jailed after threatening to kill son's teacher in French village",
           "link": "https://www.bbc.co.uk/news/articles/c62jln7n2vvo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 10 Sep 2026 20:10:51 GMT",
+          "pubDate": "Fri, 11 Sep 2026 06:28:42 GMT",
           "source": "BBC News"
         },
         {
-          "title": "More than 20 children killed in DR Congo school fire",
-          "link": "https://www.bbc.co.uk/news/articles/cgjq15j7318o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 10 Sep 2026 19:16:24 GMT",
+          "title": "Has Trump won over voters with his midterm convention?",
+          "link": "https://www.bbc.co.uk/news/videos/cn9w5e7wl9ro?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 11 Sep 2026 06:16:54 GMT",
           "source": "BBC News"
         },
         {
-          "title": "Yemen's Houthis reportedly seize strategic Red Sea port of Mokha",
-          "link": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 10 Sep 2026 18:15:47 GMT",
+          "title": "Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt",
+          "link": "https://www.bbc.co.uk/news/articles/c1l68gmqq24o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 11 Sep 2026 05:53:06 GMT",
           "source": "BBC News"
         },
         {
-          "title": "'We never recovered him': Quest to identify remains from Ground Zero continues",
-          "link": "https://www.bbc.co.uk/news/articles/c8d37gq1jnlo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 10 Sep 2026 17:13:53 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Can Trump really pay $5,000 to every American adult?",
-          "link": "https://www.bbc.co.uk/news/articles/c8r6vj7r8rko?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 10 Sep 2026 16:48:37 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Pilot warned Amazon cargo plane going too fast before deadly crash, data shows",
-          "link": "https://www.bbc.co.uk/news/articles/cj4jynv59ddo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 10 Sep 2026 16:31:30 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Israel's Netanyahu to sue newspaper over claim UAE warned him of 7 October attack",
-          "link": "https://www.bbc.co.uk/news/articles/c1kxwm870g1o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 10 Sep 2026 15:54:17 GMT",
+          "title": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
+          "link": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 11 Sep 2026 05:41:54 GMT",
           "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-11T04:04:58.902Z"
+      "updatedAt": "2026-09-11T09:03:03.165Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Why Houthi military gains in Yemen may further increase gas prices",
+          "link": "https://www.npr.org/2026/09/11/nx-s1-5966379/houthi-gains-gas-prices",
+          "pubDate": "Fri, 11 Sep 2026 03:32:27 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Hong Kong court sentences 3 Tiananmen vigil organizers to prison",
+          "link": "https://www.npr.org/2026/09/11/g-s1-142832/hong-kong-court-sentences-vigil-organizers",
+          "pubDate": "Fri, 11 Sep 2026 02:42:04 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Iran-backed Houthi rebels seize strategic Red Sea port in Yemen",
+          "link": "https://www.npr.org/2026/09/11/g-s1-142822/houthis-red-sea-port",
+          "pubDate": "Fri, 11 Sep 2026 01:40:21 -0400",
+          "source": "NPR"
+        },
         {
           "title": "This summer was hot. August shattered global heat records",
           "link": "https://www.npr.org/2026/09/10/nx-s1-5963899/august-heat-summer-hottest",
@@ -88,138 +106,120 @@
           "link": "https://www.npr.org/2026/09/10/nx-s1-5962791/barbara-keating-9-11-victim-burial",
           "pubDate": "Thu, 10 Sep 2026 11:44:12 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Elon Musk threatens to sue over Gibney documentary's \"space lasers\" claim",
-          "link": "https://www.npr.org/2026/09/10/g-s1-142713/musk-trump-2024-lasers-space",
-          "pubDate": "Thu, 10 Sep 2026 11:13:09 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "'I've never seen anything like this' -- A U.S. doctor treats Ebola's youngest victims",
-          "link": "https://www.npr.org/2026/09/10/g-s1-142545/ebola-children-democratic-republic-congo",
-          "pubDate": "Thu, 10 Sep 2026 11:06:20 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "How did 9/11 reshape national security?",
-          "link": "https://www.npr.org/2026/09/10/nx-s1-5910729/how-did-9-11-reshape-national-security",
-          "pubDate": "Thu, 10 Sep 2026 10:53:37 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-11T04:04:59.053Z"
+      "updatedAt": "2026-09-11T09:03:03.314Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Missouri is poised to revert to former congressional districts after court rejects Trump-backed map - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNGFJeS1xOXM1Mm5sSTdEVUwtb1VxNXE2WVZlRUdUd1RKSGNoVWowUldLTkVKYmhxY0djcFRlelpXc2lwbVROY1dfWmM1TTdCaFJfdHAxeWpVM05MUWJ1WVRleTAtVTlpbkhZOUdMZUhoTG90M0RpQkNNbEZKVGpxUks3N3hjMjhScTBHc29VU3lERE5SR3MzYjVuVS1CNzZuVWhLMGZyQ2FGQQ?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 23:51:00 GMT",
+          "title": "Dutch tour bus overturns in Switzerland, leaving several people dead, police say - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOekZMUTh0Q1RldW0weVhXeXJGM2R4OG95UU1hOVh4MHlkNGVoR21WSE81VkR6el9wcWVfOXpyMkNvX0tLUFlvNTBJZ2EyLVpsVmJPQmloV245cm5lS0tiRFFPXzdVNDJVdTVKUHN2V28yLVg2dG5kaUI3OTlWUkhLSnNvV3JUdlVRby1fTXMxekdhSXQwcXowSHRYN2w?oc=5",
+          "pubDate": "Fri, 11 Sep 2026 06:05:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Republican midterm convention provides Vance center stage moment as party faces midterm risks - AP News",
+          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
+          "pubDate": "Fri, 11 Sep 2026 06:01:59 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Oil prices stay above $108 and Asian shares decline, tracking Wall Street losses - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQy1VQVR5VnAyYTE3VGNkNVdQVElFYkliUUEwNW0wRHl3Y014Q2NyVE4tNDR5TE5MdDlsT3FTanBNbTNaelFWT3FZNTY3RUU4YkEzSnRlaGJOTmdFQ0s2ZngzaWFxQ1RaZ0Q0aVotVEdLU29mRmU3M2x4OUthX1l5c3p4LTAzUEY2bUVRRE4teko0SkFzdl9jT0hvekVDTy1leEgxbWx2dHFIU0dhUlE?oc=5",
+          "pubDate": "Fri, 11 Sep 2026 04:59:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Houthis seize strategic Red Sea port in Yemen, and other Mideast developments - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMi1lNm91a2VNZ2pET3pySXpRdExjT01OZ2dTbmxRblk4ME5ZZko0aElVbFdrV1gyY2VWcmJPUkREbWZBdGNJYmZyQmIwOVVJWmdyT3J1cHhhTzNCTFlTZzN5UEk1bE5DVVl5bDhaVkh6Q0xDcEtkVWM5SEtGb05XcUc3dGh6dUZEOWQ3czNqWndFelg3ZEJtSXZlcXNPalFCSF9LbWtR?oc=5",
+          "pubDate": "Fri, 11 Sep 2026 04:22:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Trump and Vance team up at GOP convention as party faces midterm risks, and eyes what's next - AP News",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONjVQOUJSUU5LbHFrTVNpY1pmVktmWGxod3hSYjI4dTlXV0FRUklwZy15ZkNRRFllUXJuLVhYSG9CUTVJWTVXb0MwRW5hWGo4Vm1EQVlXd2dXUTNleEo3cld6cVY0U2kzZXpfdDR5R0Zma29iT01MWHRCV0I5aWM0ZUczMkNvNUQwdWRUOXNwakdmejBfQkR2X3Z4TWdWZDZfNkRWa1Z3?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 23:22:00 GMT",
+          "pubDate": "Fri, 11 Sep 2026 04:03:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Little Mercury may be shrinking faster than scientists expected - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONUxaSjhVRjFfWThjLURDTGdPeHFPV0g4amZYd2UyV2doUDZzMGptOEpmN1A2bGFqejBzcHhuNklHLUdmcnlDempnTjl3X0RXWTJLQ1RXTXEzSnYzZHF4c2NxVENsVWY3cDFHb3NER1hleUF5bDNFSUNzNThpVUdvdzNJdFdQa3ZxZ0lLMg?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 22:20:00 GMT",
+          "title": "Anthropic says it blocked misuse of its AI that could have supported biological weapons - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYTFnN2RUWHlyTzFPeHktZVhTUEhuMGRLUHFZd05XMnFGUDNvVk9RNUw1QkVEbUtMYnlrR24telBNblRMTmcyOFJSZ1NYak4tV3FzWklLNVNvaGF4eGcxa2hCOG9pZHdWU3hvcTdEcjFCSEZMRk1kSERCa3pHdlRiTXRaSmR2a1dBcWNSWkdkQ0JyM0V2YlR5OGpwdXQ?oc=5",
+          "pubDate": "Fri, 11 Sep 2026 03:59:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Packers running back Josh Jacobs pleads no contest to 2 misdemeanor charges, including battery - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVWw1MnBmamlKelE2bW1KTzAyeUNteURzUmRSN0llMVgtal8xcHlqeEdjbnI3bGowbnRsS3BYNm5VMXFlOTU4dE0zem1relBSTkt5VDFKZjNKaFJseUJMSFRWcHdMYUdoUGVJVVp5enJWM3VjU0xncHVqeGJCem5aU3d6enVfN2NDSWxxZ00zUlc?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 21:48:00 GMT",
+          "title": "Fans pack Melbourne for the Rams-49ers season opener, the first regular-season NFL game in Australia - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZThMamlsSWhzRlJXRGxmaWZKWWtGT1F4ZEdsbUhYb3ZfSldZV254dHZDMU04X2RNUWlmOEhTekdBRHZwcHJ1ZzZHQ3QyWmQ5WGVmeUxfcE1ocm04WFhqZFAxX3hEdml3dUFkQWJsUVp2SlhwalpWcFpzcHNQdmlKZ201X2syeW56NWdYaw?oc=5",
+          "pubDate": "Fri, 11 Sep 2026 03:59:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Prosecutor brought in to lead investigation of Trump foes tells AP that he has resigned his position - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPblhSSnlVZVdRYVZCV3F6Qi1aTkQ1Q3lYMDYxZ3ZSUmNMZUJfV3B5OXZ1RE4wSDg0VElqN3JFckh6Mml3aGZLUC1JdE9JX1BULW5sTlBWTFg5RHYwOS0xYTY3RWRPUFdNVzhlMHd5OU0yeG43MGlmSGJyd0xXdUt2ME5WT3Zpekc4MU0tSEUySQ?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 21:40:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Oil prices leap to their highest since May and drag Wall Street lower - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONUQ1VFl3RGVXQnFjNUhwZ3Q2R04wemM0dUdJel9sQjh6MzdGS1pFb2g0T1VtVFVuOWFyOGJnNkNBaHdhYmxYbGZOV0l4VG05RjIxdFNJa0VYXzNaSml2VzRhbDRpWTRUaEk5SG9XQ3pVLU8wNmFCQUpabG5WNENPT2pYeFVxLXZOcy1fMnlucE03bnhU?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 20:46:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Trump administration silence has 200,000 Salvadoran immigrants hoping they’re protected - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZW5iMVdUY2k3QldGeFFOM3hnbWg4NnVlbFcxMml2aWZuUDZ0ZmY2clJlR2tEdHZybmhib3l4Qkt3dENZMGUwamxpSEVTVlhlZF92WXNvNUEwNDlFU2xlVDRhQW40YTM5QnlLUjRuQ1JzUHNzWjlNVGNzejI2dGdsM0ZuaTRCc29pYlFVci16MnRlQU1RSUtNNl9zbTJkZzBxMFBPVG9vZHlGcDAtNnc?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 20:33:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Zelenskyy visits Canada to seek further military support for Ukraine - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaHJoci1DWE1jNkFQTUprejJCTGR1cWxtMjB0TVprVnN4VmRqZHpOZGV2LTlzUjI2dzVOaGxIOHY4enEzVV96QWc3aUliYnB4TkNLWW9FMXpORGwySmlJMnlZZWtWMmpYeFk0QzZXNXEweXRDVUNxTGw1bzB0MW5DX3N1d3VJaG1yYl9JRC1Sc0ZBd2Q0UWpqblpNbw?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 20:32:00 GMT",
+          "title": "Vance? Rubio? DeSantis? Cruz? Republicans at Dallas convention ponder options for post-Trump leader - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbDFOOW5haFcyQ1ZsR0VqVHhFR3kwZ0ZGb1FxN1hyY1dsM0xGSHVjcW85OEVFODVhQ1BTeFpNNzVWdnRqUl9fMzFuVHBtR1E4TWo5MzhkQVQyTU93X3AtVXNtUy1GOWxQYU9yc2VNNGx2c3hQREV1NGVvQVVsZkIwVm9zekpLaUhPdTM3OGZsdFU5WEVaWUtTUG1vY0M?oc=5",
+          "pubDate": "Fri, 11 Sep 2026 03:46:00 GMT",
           "source": "AP News"
         }
       ],
-      "ok": false,
-      "updatedAt": "2026-09-10T23:54:01.129Z"
+      "ok": true,
+      "updatedAt": "2026-09-11T09:03:03.824Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "US average diesel price passes $6 a gallon for the first time, GasBuddy says - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNS3FTSU5adzBIaU92QmVKNkt0UUVCV1FtbTZiN0Vqd0tseU1QeUxPal9NU1NLVVE4VnJDS1NkQUR6Y1NBaFp6RGVLSWg3Y0RjdFlHRnMzdFVFM0F6R2ZCSGdNZ0pLcExYYXh0dHdZRGl2Wkkwb2l4WWFiYUtxU2FnRjJ2OUh0QXlPcXlGcFhDRUEtdzNRRnZ4eS1hV3dRZlRHMGxhU09lZWZJU3RkX0Npei1xLWpkRFU?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 23:38:37 GMT",
+          "title": "Swedish PM Kristersson seeks new term and backing for partnership with far right - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOazNiUFJiY3psQ1Y1cFROSzh3SEV3dUFyVndkbmVUby1fMXRNQWdIZ3RJOGI2aUt3cnpQZUpKYUJvNDZnb3J0WW84eXdZV0hBNUZmOGJrQUFUTmRqTmtzeWRVN0dNSmRnaE4tdXdoQmNrRjJCc2FqVUE5UzNPU1FNRDRNb1FmRkF0bW5YZmpZUFgwNldfY3NGRENabF95amlSc3ozTl9nYWlIR3ZMbHBkSC1YV1c?oc=5",
+          "pubDate": "Fri, 11 Sep 2026 07:10:53 GMT",
           "source": "Reuters"
         },
         {
-          "title": "COMMENTARY: US CPI, where the significant and the silly collide - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSmhLc3dLcnJOclBhYjVoYmZrWG5RRHBzQ1VramVqZmxoczVpUXBIQndSRWIzTGhBUW5lV3d5eGhrTEZRZTB6WkhpcDAyaEtRaHVIRXdXOW9SVFVnN2NoMThjN2I4NWtVYU9obGo4elJHZTRLbzdYUlhWZGV1TUNyTTU3VDJrUlRmRTRkNndKREdoSzBBVnFVV2pzejUwMXdvU21aOUtKaUQ?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 23:31:43 GMT",
+          "title": "Behind the killer robots of Ukraine's new warfare 'revolution' - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaW1nSnhZc3pjdUh3XzE1QkZvVU11YTZPa3hhbndTNkExa2Z1cnhKbXBNZlR0VlVFdGplNks4a1dILWswa2QyNUNfQjJVUFV1UmdSbmwyR1pzVFlOSmxQdV9ZczROOTA4aWhRQUFzc2tocS15czZ6RmpZbF9UbG9kbUMtYlFDVHBlY1dzUzBLWTc2UGt1eGZjRXp1NFFIck83Yk01RmRSTjQ5cGs2NFdYdC1mQ256QQ?oc=5",
+          "pubDate": "Fri, 11 Sep 2026 06:04:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Oracle tops estimates as AI demand tempers cash-burn fears - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYzUyN0FuOGI1QWEwbUFheXRzLW1aTlZvVVBxWkRzSmpBZjhQQmRJMnlkenRiYldtT1VSRnh3c0FnYW9RaVY0ZGtJVmVIWGU0aW9saEV0TUdaWmNXUlhidUQ4SEY2VHpNVUJPVEpVYWFZc1dLUmJlbGZ6Q2pua1F0aVUyU2hMQU4wS0U3cUpJT0J1ckMydVVvMTRtU2VnTmg0VVNYNWRUcVNpd1lWVWRUNTVNRjBZYWs?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 23:28:23 GMT",
+          "title": "UK economy grows at fastest pace since February 2025 on possible AI boost - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5XSDFBSllVM3pZWVBqSlo3UGhUaVB2VXpyTXJMMUVpTmQ0U3NrMjVFblZDZHJnY3pKbHJ3S0l1aWRFMmJGYWR3eTBidlU3aksybDVpMWJxaXk5anI3OXYtREoxbXh3R0ZTZUJ2cklkQVlmNi1YX0Rz?oc=5",
+          "pubDate": "Fri, 11 Sep 2026 06:03:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Adobe beats third-quarter revenue estimates on AI product demand - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSGZzUEp3UWwzR0pGdnp1Xy13dEZxaC15NmJkRHRpaTNLV3VZT3VOQ3kyel90YU5KbEplZ0NFQ0VvOE1DSlRzSlNmS2UtT3UtR1RLSDZxaWRkeUNrTWFiLW5RaXZJZ2phMUdzSHVYTndGcjRvNV9SWWdBMVRGTk5pbGJCTFgxc3UzNmhHRkhsemtLQQ?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 23:17:12 GMT",
+          "title": "Parents of Indonesian children sickened by free school meals file police complaint - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNXhvLTJ3WVQtd1BQNEZrXzZwTUxpdVcwQTBpc20ybWVlRTJ5c1NMZHU1WmdaSGdXVEVpQ3BSbW0xYlQ5bXVycC1oUEJrNWRSRmo2dXBLLXlsc0pnSmJPNXZuR1g1NXBaX0MtLXJMaDJOUGo5eS1tbkVMLVBsZ25wRTBxMXVmUm9QdkNqWEVva2xkZmRvRTdkWm0tWEQzRkUzTjgyVTl5dGk1cmowVjJYQWRQbnhBcm9zalFaNFVXbmlkejFDVC0wODQ1d2RBams?oc=5",
+          "pubDate": "Fri, 11 Sep 2026 06:02:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Trump's $5,000 dividend plan draws some Republican skepticism - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQU3hSaXcyODlUWTloWG5HNGFVcDd2MWxsYjFaM0pQLTFSbFBIZVJhMU8yaVh6eHlGSHFkaGtMaGYtMkU2cUlTQWc1UjRFOXZpaFNYUWxnU1BlT2NaZV9KQ0tsZXJlblRYbUdkRDNBdEIwQk5FU2hhS2xEZVZodEhOdWJKUjdvQVFad1VnZm95ZmdiRTIzSTNDVjRsNHMyZkxXcVc3OXlObVpUMXBxV0ZZSA?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 23:05:44 GMT",
+          "title": "Global bond selloff pushes 10-year US yield toward 5% on oil, rate-hike fears - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUXdFU1JwNmpyVFVfRzltQlQwcVJDUmFOWHVzNGdjWlZfZmJSd2FFQ2VpbFdOVTFQRHJtMlhremRVa2JSeWc5Smptc2J4Mmp0QnZoMTQ4NGdLaVBiekNRYlNqdWRtOTV2TUdIbmFkaTdCNmlRams2emVUc2Nsb244bW1hNHIwSHdDRm93M25LZGJlT3p0LTNaTE1kSTk5SHRSVFVkdXNuQjhHQ29UZm4yeHNqeEg2RkVwYVA3clpR?oc=5",
+          "pubDate": "Fri, 11 Sep 2026 05:54:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "S&P 500 ends down as Treasury yields rise and traders fret about inflation - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVUNZS2ZwczJmM0x1aEM5ZFJMbUhWckRSOE54a1NyTFZjb1NaNFNCZDFwOFJiMk40b1RJelZsVnhKOVNObGNGenNkZzVhUWtZRlktVzhTWk9Qc1EybkRweDk4RFRRUjh2bk1TU0lJazBncUFnUlcwcTlPVWY3NjBzdWVUd3JGTDlLeF9EMU1aTnEzSDctTVcxZVdzT1RZclZjanRhbkl3?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 22:55:15 GMT",
+          "title": "South Korea's Lee to host Central Asia summit in Seoul next week - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNclM3Q3owRXQ4cjgxX0tHNjBoMmhDTHlNUEhwUlpCTHd1T0RibmY4Q1ozSzdXVHJYVDhtZ1JBREVBWTU3Z0hFd0ZlYm5jYzNRc0x6OEg1Q3loU0xhSmtva3VSSXJ2c1B2NVBDM1hQMXVvVTY3dVJkRldMaTQ2T0ZCd3AzQUlYMmZMR1B3WG5iMTdqQ2xob2FFbDhVVTFrTGpEbUhfV21QWWVfTGJqMWhCYm1jRjFiR3ZjSXJxOHo3RDM3V1Vk?oc=5",
+          "pubDate": "Fri, 11 Sep 2026 05:07:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Explainer: Is Trump's $5,000 'dividend' legal and how would it work? - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeU13MnNSZkJSaUhJNGZYY3o3ckVBZm5JYUR2Z0lHUzRBV1FTZWs3WmFzX2I5aS1xTDF6aDFyalVwQkEtbmNMOV94UzctaDlMcU0yVmVTYWpNNnNsbl83ZzVibi1lVlNCVDRlSklZT0NPVkRUaFJDWTdsLWduYlVzOXJ6UmpPZ21kQWRYMk1VdU1BRUdtYk1VZ3lHbGZ2SmMzUEE?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 22:24:02 GMT",
+          "title": "Germany pushes for Commerzbank stock listing as UniCredit aims for deal, sources say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdHczT0NHUjNITVhBY0FLeUEzT01kM3JDMU9aQ0VqcDBtNFNBT2Y0YXhoSjZxQTFZYWN2aGtRNlhPOWpIeHA5cXFSTGtHMXBSU00zX3pCelNrd2MxQ2FsZHpDREhpV2cyQUhIRFdIa0FmYTBrdEg1anR4VlFWRERrV0dCa01nLWVoZVpDRWFmTjF4YjhBbmRCcmNfaklnOXJBeWtLenFpdVhSekZYdHJQN1EyRkdFZjRFX0cxTWtVTUpjVEk?oc=5",
+          "pubDate": "Fri, 11 Sep 2026 05:04:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Vance takes convention spotlight as Republicans debate a post-Trump future - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObTBDWU8wZ01YSnowWGVWbUFZQ0ozZlZaSzRYWFhuaUdxajB6T05JS29iX180anZIUWdKUUE4SjZGdzN1cmc3Tmx2bjMtT0Z4TE55bGQ1NjYxUThlU21OTnZvbVJxeTNXVjZZcXJrdG1pQzRMTnVqeGUzcVY5aGluV1V0YTh0UlN1eVBScUZTajd4S0tCaFNEWGltbE9jRHk5eS1rTFVkRHg?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 22:12:37 GMT",
+          "title": "Trump declines Saudi crown prince's call for US strikes on Houthis, Axios reports - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZnRRY3VzRTctZXFzVUl1VUg5NHlqeTFwdUR2NXJZcmNNTzdmSFBrbWJseno3d1hVUElZQ1ozUUYwVXJwX0paZmdFUk4tZGdyb0gzUzhRTzFiTXAxT3VMM0tLTTBiUHUtOXBTeUVmZzdyYWhtdWlHNmdLOGtMX3dUbTdwUTRadllYaVFhRFpZakpfWnJtNFFOLWdlY1JaY3U5YjQxMlhVcUktd3hHRms1MlFKWWY?oc=5",
+          "pubDate": "Fri, 11 Sep 2026 04:50:00 GMT",
           "source": "Reuters"
         }
       ],
-      "ok": false,
-      "updatedAt": "2026-09-10T23:54:01.563Z"
+      "ok": true,
+      "updatedAt": "2026-09-11T09:03:04.222Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-11T04:05:12.580Z"
+      "updatedAt": "2026-09-11T09:03:04.400Z"
     }
   ]
 }
