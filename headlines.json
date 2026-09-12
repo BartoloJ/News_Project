@@ -1,13 +1,37 @@
 {
-  "generatedAt": "2026-09-12T06:22:04.878Z",
+  "generatedAt": "2026-09-12T11:09:36.054Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
+          "title": "A united Ireland would be 'fantastic' says Trump during Irish visit",
+          "link": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 12 Sep 2026 11:03:58 GMT",
+          "source": "BBC News"
+        },
+        {
           "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
           "link": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 12 Sep 2026 04:43:10 GMT",
+          "pubDate": "Sat, 12 Sep 2026 11:00:34 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "'It's like a dog set loose on us' - fear over Kenya's crackdown on foreign traders",
+          "link": "https://www.bbc.co.uk/news/articles/c4g5kxw4wd7o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 12 Sep 2026 10:00:05 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Grammy-winning US rapper Lil Durk acquitted in murder-for-hire trial",
+          "link": "https://www.bbc.co.uk/news/articles/c1kx0jje18wo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 12 Sep 2026 08:04:16 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC",
+          "link": "https://www.bbc.co.uk/news/articles/cwyz59yyqk4o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 12 Sep 2026 05:55:15 GMT",
           "source": "BBC News"
         },
         {
@@ -23,152 +47,158 @@
           "source": "BBC News"
         },
         {
-          "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
-          "link": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 11 Sep 2026 22:17:45 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Passenger train derails in France leaving at least 44 injured",
-          "link": "https://www.bbc.co.uk/news/articles/c8d37dm8d8mo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 11 Sep 2026 21:25:32 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Six Nigerians accused of romance scams to be extradited to the US",
-          "link": "https://www.bbc.co.uk/news/articles/cj3dy704l71o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 11 Sep 2026 21:07:19 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Tragic death of woman who testified against father in notorious mafia murder of mother",
-          "link": "https://www.bbc.co.uk/news/articles/c39mr81j2j1o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 11 Sep 2026 20:34:29 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
-          "link": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 11 Sep 2026 19:44:58 GMT",
+          "title": "Firefighters say this antioxidant helped them - their union warns it could be risky",
+          "link": "https://www.bbc.co.uk/news/articles/crk3n5z60pvo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 12 Sep 2026 01:04:49 GMT",
           "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-12T06:22:03.574Z"
+      "updatedAt": "2026-09-12T11:09:34.831Z"
     },
     {
       "name": "NPR",
       "items": [
         {
+          "title": "A cancer survivor hoped to work — then she lost her Medicaid disability coverage",
+          "link": "https://www.npr.org/2026/09/12/nx-s1-5966884/insurance-coverage-cancer-disability-medicaid",
+          "pubDate": "Sat, 12 Sep 2026 07:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Trump meets Ireland's leaders before heading to his golf club in Doonbeg",
+          "link": "https://www.npr.org/2026/09/12/g-s1-143076/trump-meets-irelands-leaders",
+          "pubDate": "Sat, 12 Sep 2026 06:55:14 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "The secret quest to preserve Palestinian writer Raja Shehadeh's diaries",
+          "link": "https://www.npr.org/2026/09/12/g-s1-142760/palestinian-writer-archive-scotland-israel-shehadeh",
+          "pubDate": "Sat, 12 Sep 2026 06:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Why are the people building the most powerful AI so worried about what it could do?",
+          "link": "https://www.npr.org/2026/09/12/nx-s1-5950588/openai-anthropic-ai-safety-researchers-hacks",
+          "pubDate": "Sat, 12 Sep 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Neighbor turned on neighbor after Charlie Kirk's killing. Is the divide here to stay?",
+          "link": "https://www.npr.org/2026/09/12/nx-s1-5952234/charlie-kirk-death-doxing",
+          "pubDate": "Sat, 12 Sep 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Miami crash raises concerns about the jet's operator, and why it's flying for Amazon",
+          "link": "https://www.npr.org/2026/09/12/nx-s1-5964931/miami-airport-amazon-cargo-crash",
+          "pubDate": "Sat, 12 Sep 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "BRICS leaders meet in India as wars and US tensions test the bloc",
+          "link": "https://www.npr.org/2026/09/12/g-s1-143054/brics-leaders-meet-in-india",
+          "pubDate": "Sat, 12 Sep 2026 03:18:55 -0400",
+          "source": "NPR"
+        },
+        {
           "title": "Yemen's Houthis capture a Red Sea island in threat to shipping",
           "link": "https://www.npr.org/2026/09/12/g-s1-143044/yemens-houthis-capture-red-sea-island",
           "pubDate": "Sat, 12 Sep 2026 01:57:08 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "How shofars became the spiritual soundtrack of Rosh Hashanah",
-          "link": "https://www.npr.org/2026/09/11/nx-s1-5957988/how-shofars-became-the-spiritual-soundtrack-of-rosh-hashanah",
-          "pubDate": "Fri, 11 Sep 2026 16:29:31 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Amid war and sanctions, many Iranians are losing their jobs and struggling to get by",
-          "link": "https://www.npr.org/2026/09/11/g-s1-142935/iran-us-war-jobs-economy",
-          "pubDate": "Fri, 11 Sep 2026 15:39:35 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "In photos: Remembering the Sept. 11 attacks, 25 years later",
-          "link": "https://www.npr.org/sections/the-picture-show/2026/09/11/g-s1-142913/in-photos-remembering-the-sept-11-attacks-25-years-later",
-          "pubDate": "Fri, 11 Sep 2026 15:05:00 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "As diseases loom, CDC's response to measles deaths stirs fears about agency's reliability",
-          "link": "https://www.npr.org/2026/09/11/nx-s1-5950002/as-diseases-loom-cdcs-response-to-measles-deaths-stirs-fears-about-agencys-reliability",
-          "pubDate": "Fri, 11 Sep 2026 11:34:51 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Is Patagonia the new data center hub? + Harley-Davidson's role in the trade war",
-          "link": "https://www.npr.org/2026/09/11/nx-s1-5966498/is-patagonia-the-new-data-center-hub-harley-davidsons-role-in-the-trade-war",
-          "pubDate": "Fri, 11 Sep 2026 10:16:35 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "The voices of Sept. 11: 'My first thought was ... I can't believe that I survived'",
-          "link": "https://www.npr.org/2026/09/11/nx-s1-5965794/the-voices-of-sept-11-my-first-thought-was-i-cant-believe-that-i-survived",
-          "pubDate": "Fri, 11 Sep 2026 09:37:18 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Remembering 9/11. And, Vance, Trump urge voters to back Republicans in the midterms",
-          "link": "https://www.npr.org/2026/09/11/g-s1-142846/up-first-newsletter-september-11-remembrance-republican-midterm-convention-scotus-missouri-redistricting",
-          "pubDate": "Fri, 11 Sep 2026 07:55:49 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-12T06:22:03.692Z"
+      "updatedAt": "2026-09-12T11:09:35.008Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Yemen's Houthis capture a Red Sea island in a threat to shipping, and other Mideast developments - apnews.com",
+          "title": "BRICS leaders meet in India as wars and US tensions test the bloc - AP News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPREdaZmR6TnMxUGFHT280OUlwV1VleHUzc0MzSDc0X2Z6Y3hEdF9aLUZRaVpYNmIwYmtOSGdjWWltTjkyanJhM2NWRUZnMVdnMFJMSVlRMjRuWVZMajVpQ2lOck5McHRYNzJLYmR4R2hkc3M2YzRBTTM2NjlOaHVhcFB0YTZhWkVDVUNpMEZxZDViTjhWWXZGVVhqbFpkR045?oc=5",
+          "pubDate": "Sat, 12 Sep 2026 10:46:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "For the US news industry, a tough summer draws to a close with McClatchy chain’s cuts - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOG9uRk9KanVFWGhCTW5YU29mNWJtaW13NFJ1ZGFndElBbU9JenhIMVU3Q1BCeXotNl9GOEtNYUo3ZDBCOWFFU25wXzFTSG54WmFDbW93aHFDbVFVdkpGeVFmT2VyRUc1c0tDUDhVTDNtTjkwMl9Tc1NJYkFsUndqTl9KNWJIRDVXRFJkTkZ4M2dYZ2JR?oc=5",
+          "pubDate": "Sat, 12 Sep 2026 04:00:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Venice Film Festival ends with Golden Lion at stake after ‘NAZA’ draws record ovation - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNU0Y0NTRUVGpySE9LZ2NEVGZXM1lGWDdsZ1NocGNsaFpzaWk3NU9FTVlubDYyWnd0U3BValJkSlpiSkM0S045SEdzYkhjNW9vUVI5R0ZwcGVtNmlKbGF4SVRVRl9vNUNleHcydmU4Y1E0aFExT1pYUGV0U1M0VUFOQzNJNUlJb09xT3IzS3A0aTE?oc=5",
+          "pubDate": "Sat, 12 Sep 2026 04:00:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Yemen's Houthis capture a Red Sea island in a threat to shipping, and other Mideast developments - AP News",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTVVrTHdGZGh4a2VWNHlfeWxkdlQtVkVJQzNaMUFpTTJwTWtfZlpUeVktX3g3NVBsYVFlbjdHOHZsaUZHTWhwQXo1eE9RaUowWnJYVlBJYXJWOTBYSHhCd0dJSWM5T2xJV0hJRWw5b0ZBZy1OSlcxY2VkTkszMUxGMl9fOS1MVldRajgtMFF1V0dYNTJJWHVN?oc=5",
           "pubDate": "Sat, 12 Sep 2026 03:29:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Saudi Arabia shuts down a pipeline as Houthis seize an island, opening a new front in the Iran war - apnews.com",
+          "title": "Saudi Arabia shuts down a pipeline as Houthis seize an island, opening a new front in the Iran war - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM0JXR25HRTJQajYwc0JCVkd0dnBQdXBiOVRMQjM2RVJYS0gzTmo5Ykg1RGJqYkpVSnBGajJfLWlCYmJWTG5fWlNxcXV3eGN2Z1Jud3VzanpiQ2ZrSzB0bDY3OW5FRzZELVlYMmJfbXpGUXBadWVyOU9Fa0YyYzBqZVByR3BFNnNBdTlGOXlKUGlHaDl0QkJxUmo5LW9SV1htNXlqRy1QNGV6Zw?oc=5",
           "pubDate": "Sat, 12 Sep 2026 03:21:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Mississippi police arrest a man in the death of Tasia Fortune - apnews.com",
+          "title": "Mississippi police arrest a man in the death of Tasia Fortune - AP News",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbVd0aDl5d0xqRWJxeHppODBCN2ZPSzZ1bFpLRVFfMFF1NUpTVXF3VU5KT1hhY2VzSG9yYmZSNlJmYlhHcWl5OFRwWTJycWluN3pheWhZWWRLcnVVN3ZZN0tNbmtYNzdZZUs4M19ZdXJ2VjZlUWt0QWRjXzZ4aGo1NU8wcGxBdk5DYk9STmdiYTZpWUNKcS15RzQyRW1GZm1WVEE?oc=5",
           "pubDate": "Sat, 12 Sep 2026 01:43:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "North Korea fires ballistic missiles toward sea after rivals’ military drill it sees as provocation - apnews.com",
+          "title": "North Korea fires ballistic missiles toward sea after rivals’ military drill it sees as provocation - AP News",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMGxfVEtRZ0lZUlBsS19yN1BQVTdfMTBGTm5EMHRQQS1pdEQ3NG1ubzdTS3F2Q3RmbjdwUXJWaXY3aTl4ZEw2YXZCem1PQldXdzR5SDZaSldZY3dCdWthTnFYTk1UeC00MjlNYzVKWlloQ3dMT0pJMjBEekl1WWpMOWllQVRqVUVYbkhIYjhOd25KV2RpMGRIZk13?oc=5",
           "pubDate": "Sat, 12 Sep 2026 01:36:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Federal court rejects Trump order keeping Michigan coal plant open - apnews.com",
+          "title": "Federal court rejects Trump order keeping Michigan coal plant open - AP News",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOX1V6ZTB5Y2FWZnU1VTVKYnRwQnBGUE12VjlRYVNmMGxoNm1Od0R3TDVSSk4zT1pnei1udGhwSnp0VkFBdDEyTEI4YW93cFVMS094OUNvTjZBcWZiX2ZENEp0alBuU2JIcGFqaFRpTlo5QVlsSTdTaTFUSG92bjg1R1l4QlJoX3BXa3VaZWNqWVBwS0FPUFdnaVh2TEstaE9UM2c?oc=5",
           "pubDate": "Sat, 12 Sep 2026 00:57:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Republicans made El-Sayed a top midterm target. The Democrat wants to talk about Michigan voters - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYmhnMzk0R0g4VkRWMXJ0S2JCQi02WU5naEFaYzg0eVU1QkJBTWJzdTBSUGNPTjRqRlRWZ19SbHZwRllGd0dGdV9fdUtCb29WaTdRcVo0MVNSZ0FocjBzdXFhNG03MW4zdzFXNDNibmFtUFRpV3pkeU11U0E5c2Yya2NaZENweDFhNC1mTWhRWXlsaUdIMHVnRUhtODBVbm9IdUhkSENn?oc=5",
-          "pubDate": "Fri, 11 Sep 2026 22:44:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "US marks 25 years since the Sept. 11 attacks - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWm9MbFdWc1lrNENJaU56cE8xMF9UdkRXdHIwZ0xkamZpM3BLRDkwVkFoeEFQX2M1cU1QcmdtU2VmYmtwYnhJVTY2bmt2OFY1TVYyR3UwdlJJaWhVbjJ2OWtyWFU2amdEdC1pdll0RGo3MEtVQmxQQWw1elFNZW93clRNbVdCXzFLQ1FtQUluR042T3VVbnRYZGZPSmM?oc=5",
-          "pubDate": "Fri, 11 Sep 2026 22:14:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Ebola outbreak in Congo spreads to a 7th province - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOR2pqczFpS3lxb0czam90bVFGUTBiQUdjTEoxS09JalpvV3MtUklXSDlDRUJ4TFVsUTZ1OHdibmxkSVV4azAwUUQyUkEzVUgyNUwxdy1PUUV3dWh4OWZUa2Y2WmI4eldXMXNYWEdyc3NqX3dlTG1SR0tNMHpXUHQ2cFZYc2lDTlVvMU5PRUFvTjR1Ni1feXc?oc=5",
-          "pubDate": "Fri, 11 Sep 2026 22:02:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-12T06:22:04.141Z"
+      "updatedAt": "2026-09-12T11:09:35.385Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Trump says Iran probably responsible for attack on Saudi pipeline - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMGtZdldMOGgyY3hFdEVnWklzR3dhREVBZTdDeEhPQjlmaUw1QUlGVUZDdUZoaDZWZzBUTXhUb09ieU4zTVZvYkplLVJ1Z1RscUp6TXMtX2RpdFIxY1ctbVo5d1dtMTJpSFVleW8waDhfREEzNGZlUmpuYVlVSEtWeUctYVJpWEVxNjdUNVE5WUpTV2xQYk5ENGRpaXZQZEtrc0NySnNDdzViU1MyampB?oc=5",
+          "pubDate": "Sat, 12 Sep 2026 10:19:56 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "BRICS agrees on joint declaration before New Delhi summit, sources say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNb0hxYi1hRXRlN01ldlJFSmk4ZDVnS1c0NE8xMm5PWXJFT3Vpd2prTWI4TGl5UTd6c1JKS24xVXpvOGpRY1VsYUUxQVk0TDVmNElEMUxLYnB4c2NfUWxmQWN0N21LWUY1TkZNc1pQWHczRUdhYTVJbEpiZXZPVi16SnZCdVN5eWotZ2dJaGt3UkNFdGF2NzUtTTFMU1dsR2EzcEpiQVRvRFFmaE1HdWZXSko1bVl3d2YyTGZPRUpGTEE5MW92SjJJNA?oc=5",
+          "pubDate": "Sat, 12 Sep 2026 09:12:21 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "BRICS bloc agrees on joint declaration, sources say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWFQ4VWFaM29FM1FGODZYdVdaM0VpUzdadFhVWnpvcWwtQk94SWFyLWhFYlo0aHJsdkVyUU5KMW9hcEZsMzh4Z182YnQ5RHI4aTBIdUV3c2JLMUwyc1lTbHp3dVNRUFVDYmdXdWhXSURJWTVPLVlPbHJOX2oyU1FwNUZvVGlUUENQV1RUa20yS3hlNHplSDZ1TlBkVQ?oc=5",
+          "pubDate": "Sat, 12 Sep 2026 08:02:40 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "China's Xi lands in Delhi for BRICS summit and talks with Modi - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaFlybEpEZWtDbThQdk9OMFR0bFA0dmZtcUZLSEo2a0djT2xmanVSRlFRWVBRelg3dEUxTUJ1VW5zSWpFZDhGVzJHQWtxS2JkNm9XQUFFSUVTZjRDVTZ4RWd2YzZZZmZYNVAzOGdLWE9ZUzFBb0VKMXRTVXVtdjIyRFlORkZvaUc0ODBxcWRuVDhOTjc0WmdWamtZcmRPQmZoUi1jTmYxa0o4UUtD?oc=5",
+          "pubDate": "Sat, 12 Sep 2026 06:15:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Explosion hits another weapons site in Bulgaria - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRW5TNjNTcmZYblVha2ZGQmNCREdQSERKcEhzWkFFQ2JCLTUtWU14a2gwU1RoTXhIeHJBQkZLUHAxNEFsZ2M2NDZodnNHVi1DbDlPNE5taU9Cb3J3NzNkTmFEMnc3Q2NYazE5NU5LblJyZGhXckNDMmIycHAyUWRCZEQwdVJ2cmgwcU5raGp6MA?oc=5",
+          "pubDate": "Sat, 12 Sep 2026 05:35:00 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Syrian private airport plans spark outcry over mass graves, land rights - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOS1FmZGJEblBGQkx6eGwxV05zcWtpRXRVUlFTY2FHOGowNTdMLU5BazN1dVFIM0lhbzRtbTFyVmZndFExWmRUUFN1bE5Fdm5CZjZmZkxVVVRaNi1zVTdRcS1sNFU1NTd6OHhkZHBXNlFKdWVfMnN4R2JndDVXWXdiNzFNQmNic1c0SjNBNW10Y0RDWjM4Z0pNM2xlRnVsSkg3RDhmZkFpd0o5TjhOckRXcW16dkMyYTJoSEd0UzFvN21vQQ?oc=5",
@@ -176,50 +206,20 @@
           "source": "Reuters"
         },
         {
+          "title": "Trump says he would 'love' to see a united Ireland - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdmRVSmpKQ0dXUHlzSlpIUXNaU1FXR1B2ZGU0TU5BWHlqckFuYmR5ckdHYm1EYjRweG5RdHRNUXZWZFZENmdkTHItNmlXQWw4aUdpM2JjR1M2OWpBQ05VRXpzNDUxQmJaY1JGazdTVDk0M0hleWVGX0NFM19ORUtRbW41cUNGTFJiTVhrXzl1OUxoUURfYU1zcDZmZ2ZkTlh3ZmNnUWNB?oc=5",
+          "pubDate": "Sat, 12 Sep 2026 05:04:00 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "India-China relations, from conflict to cautious thaw - Reuters",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNV0cwRFNoWnlxeG5pdXIwcHhITjVqVTZmX0JYalhJYkQyd3FGVkQ5SUJqakhjMXlpT3RsSXBCN3A5YnNtZGdOZWMyRDl2ZzVNODlFODBfWkZJbkROYWExWHJfUzVOZXlpS1c4dTFwMVJVV1E0Mk5vNTI3YmRkaU9vTjJXQmpCVjVWNXp0aWNlS01MRTJOMGNB?oc=5",
           "pubDate": "Sat, 12 Sep 2026 03:03:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "VinFast names founder's eldest son as its global chief executive - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcV9IMW9iel9LMkF6c05pS3ZzMU1lZjJnSXluRlZnM1ZFeGd0a2pDYzl2YUtweFVhY2lzSnkxdEpIZkhMRDgwQzRUeVhBZUw2cXhDQnkycTdDNUhjaUlWWmhWQ3NHWHhXS2ZCNUZiT3BzTEotNVEwVURCdDhsNUQydGNoNXg2QmxmWjJtakp3TVA3cU9jalJzNXNlM2xYQ2RaU3NWajRMNy1xLVhfMEJVako0Mi1Ydw?oc=5",
-          "pubDate": "Sat, 12 Sep 2026 01:45:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Saudis shut down oil pipeline as Houthis tighten grip on Red Sea shipping - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQczRVMDVmcFFkMWs3TDRSemk1SnA1SW1NSTRmaGU3VXRmbDlvUnlGTll6VHRRYWxjOTl1N3QzcFhIYWs5RjJaRGRmclRQYmpLdW8tNHNXWExZTnpmSklXaFU4YWJvOC1EcEpvcDdQVnpfWnBYT3l6X1pCRW9Bc19YQzNmYnFrbHBNQXd4aE1nVkpKWktoTjFoM2dSa1BGMnlSb3dVMnJhOFVTRHRrXzlHSFVXTDFvZVNzQ19r?oc=5",
-          "pubDate": "Sat, 12 Sep 2026 00:55:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Trump says he would be OK with China building cars in US - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdjhVd0d5RXllWXU0eVIyWEpPOURjZjlFTmRxVlJDRjIxZk9qY1Jzbkh2VVNJd3NOb1puR3dhdDNZMFVSVEJBa1lsWTFOQ085ZXZhZ25hRk95dkE2WTJwU3BfajlIZzd6TjV5T0lBdFFxcmVHUnBEb2lnQWhRUW5GcXVrRHNQZzBjUE1pckp0akVNbVZuMWpnaG9SQ0RlTTQ?oc=5",
-          "pubDate": "Sat, 12 Sep 2026 00:50:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US judge blocks Trump administration's 'loyalty' question for job applicants - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUk5YQmhqNXdXVlktNlMwV0JDN3JYWFJxOEJDVHR3NUdVRVhQMEtRbWN1OE5LWU5SNjM3a2NRNzlDbjJZN3J1WHQwdUFnMG4wUnNvYjJEdEtBejZjZ3pvME9hMThWeWFQVDQzY2hBTW14cDV5Mkh1SXlrcmFNU05taU4tZHM1VEFBVF9nVDh2eWxtZmgxYnR5QmhhQnJ6c0hpWmg0Qzh6ZGNZM29fRENQaHA5alJoVkJOMDBZS2pvcw?oc=5",
-          "pubDate": "Sat, 12 Sep 2026 00:08:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Boeing and engineers' union reach tentative contract agreement - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTWh3OUYycjN3QnMzRkZxT0taMm9IalN2SHoxNnpyWE1HWTJabnVCYng1VWpnZXVoQ1ZnT2xqTmlsdm96TFVMYVpNVXFyeS1ueUkyNjhhU3F4ZnZyQTY2b1h1cGw0MENlb1RQS09pZ0x1SDhXYXBwOVZSSGpWN0hlYmhvRTk1ZHpBYjFieEhnUF9ybkRPR1JaYThhWlhTUE5ZMlNvZE9lcWlnajFrc1dhZnNWWUtEZUE?oc=5",
-          "pubDate": "Fri, 11 Sep 2026 23:57:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Iraq orders closure of Shalamcheh border crossing with Iran, two sources say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQanJwS2FjWG5ndlNzMFpMQkZTdXRUYXJEVnFXQUV0LUUxYy1lbGZFbzA3MFRxWTZVcFBXY2kyVmkxZHE1Y1hKTlVEV2p2V0VMSWNkLUtSTF9xdVVJeDAzT21rdGVEYnpDa1RTNzhXbHpQVEVQV0lBX20tMHlBOXotRHRldFppSGdGUGFIbVhWV3EwN2JZV28tM0ZEb04wYmdzVVAzcGh0MFc3SEE0SEx3YUhEb0psUGNFZVJyYTMtUjVveGZI?oc=5",
-          "pubDate": "Fri, 11 Sep 2026 23:48:54 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-12T06:22:04.516Z"
+      "updatedAt": "2026-09-12T11:09:35.770Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-12T06:22:04.878Z"
+      "updatedAt": "2026-09-12T11:09:36.054Z"
     }
   ]
 }
