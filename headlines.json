@@ -1,19 +1,43 @@
 {
-  "generatedAt": "2026-09-12T14:18:44.502Z",
+  "generatedAt": "2026-09-12T17:23:01.417Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "A united Ireland would be 'fantastic' says Trump during Irish visit",
-          "link": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 12 Sep 2026 13:56:20 GMT",
+          "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+          "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 12 Sep 2026 17:05:34 GMT",
           "source": "BBC News"
         },
         {
-          "title": "Passenger train derails in France leaving at least 44 injured",
-          "link": "https://www.bbc.co.uk/news/articles/c8d37dm8d8mo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 12 Sep 2026 13:02:55 GMT",
+          "title": "Uganda's King Oyo buried amid calls for unity over his successor",
+          "link": "https://www.bbc.co.uk/news/articles/c0lr7k4k4zyo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 12 Sep 2026 16:55:31 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Death toll from Philippines ferry fire rises to 76, with more still missing",
+          "link": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 12 Sep 2026 15:09:55 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "French officials investigate if malicious act caused train derailment",
+          "link": "https://www.bbc.co.uk/news/articles/c33kp533nn6o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 12 Sep 2026 15:05:53 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Teen boy rescued after days adrift in Alaskan waters",
+          "link": "https://www.bbc.co.uk/news/articles/c7907l5nyddo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 12 Sep 2026 15:03:14 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "A united Ireland would be 'fantastic' says Trump during Irish visit",
+          "link": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 12 Sep 2026 13:56:20 GMT",
           "source": "BBC News"
         },
         {
@@ -27,34 +51,10 @@
           "link": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 12 Sep 2026 12:15:50 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "'It's like a dog set loose on us' - fear over Kenya's crackdown on foreign traders",
-          "link": "https://www.bbc.co.uk/news/articles/c4g5kxw4wd7o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 12 Sep 2026 10:00:05 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Grammy-winning US rapper Lil Durk acquitted in murder-for-hire trial",
-          "link": "https://www.bbc.co.uk/news/articles/c1kx0jje18wo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 12 Sep 2026 08:04:16 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC",
-          "link": "https://www.bbc.co.uk/news/articles/cwyz59yyqk4o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 12 Sep 2026 05:55:15 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Death toll from Philippines ferry fire climbs to 35, with dozens still missing",
-          "link": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 12 Sep 2026 03:02:28 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-12T14:18:43.348Z"
+      "updatedAt": "2026-09-12T17:23:00.069Z"
     },
     {
       "name": "NPR",
@@ -90,8 +90,8 @@
           "source": "NPR"
         },
         {
-          "title": "Why are the people building the most powerful AI so worried about what it could do?",
-          "link": "https://www.npr.org/2026/09/12/nx-s1-5950588/openai-anthropic-ai-safety-researchers-hacks",
+          "title": "Miami crash raises concerns about the jet's operator, and why it's flying for Amazon",
+          "link": "https://www.npr.org/2026/09/12/nx-s1-5964931/miami-airport-amazon-cargo-crash",
           "pubDate": "Sat, 12 Sep 2026 05:00:00 -0400",
           "source": "NPR"
         },
@@ -102,22 +102,58 @@
           "source": "NPR"
         },
         {
-          "title": "Miami crash raises concerns about the jet's operator, and why it's flying for Amazon",
-          "link": "https://www.npr.org/2026/09/12/nx-s1-5964931/miami-airport-amazon-cargo-crash",
+          "title": "Why are the people building the most powerful AI so worried about what it could do?",
+          "link": "https://www.npr.org/2026/09/12/nx-s1-5950588/openai-anthropic-ai-safety-researchers-hacks",
           "pubDate": "Sat, 12 Sep 2026 05:00:00 -0400",
           "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-12T14:18:43.462Z"
+      "updatedAt": "2026-09-12T17:23:00.284Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "Trump wants the Smithsonian Institution to install George Washington statues and exhibit - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSUpYUUlad1c2MWpiMUZxZjdhOVhtSEhBRVFyWG03a3Vfd2ZQRnlxLWtaT0FuVUwyWm5oT2NiMWlUM0FjRlYyUi1PZ29xbEJzZWZDLXQyZ043UG5raVJqSV9Rd25OMS1CbjJXcE1oM1FIMXd3WGNETms1bkdsQVVOSktlWU03YklGVVNDQnd6WHNaZ1JJSlFpOWs5bXkzTGExMFByRXdaN3U1QUlEV2c?oc=5",
+          "pubDate": "Sat, 12 Sep 2026 16:46:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Attack that closed key Saudi pipeline is blamed on Iran-backed militias in Iraq - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPY0hKblZsWDdXODVsQUN2V2V6c3dSODhwQm9pVHlwTmxpX3dQRnEyM3BLNTdBYy1OV2ZqNTE3M2pfQ1pKLWI2ZEdxZXE5QU1vWUR5WnI5bkdDalpxeVRtU3l6Zmp3UnVCUFFMbVdLQUR3RlFqQThBOUQ0UWZDYWozV1RSLWhWWUdTcEgyV2g5dUs3QQ?oc=5",
+          "pubDate": "Sat, 12 Sep 2026 16:26:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Trump touches a nerve while in Ireland by saying reunification would be ‘fantastic’ - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ3hLMTAtQkxDU19GS1NxaHlZWDlyOUhodmM5emszYWc3TXBKU29UcHpQcEpWMGF2M0tsSkd6STJoV0l6MGtZUDBZTlUxVWpYRGt5RUtCcHltYWdGYjNvRU41Y29OQzhTNTRhY003OHFkS1hFR3hJZC1KcHhTbC1TNHNVczM3YXpkM2IyM0NDRQ?oc=5",
+          "pubDate": "Sat, 12 Sep 2026 16:06:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Photos show President Trump’s two-day visit to Ireland that combines work and pleasure - AP News",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPT2tWU204M2x3M1RkRTU4U3VueEZJQ2FjdnpIMzBEMUttNVpNR2hCSXBnbENMSHRVNVFVek5DanpWQVJPbGI0TnJJTnVadi1qT2R6Q3JoRGE1ay1VNkg5bkt5YlhIQVEyaE5jY2ZlNWs2TGVZUG1GaE1QVXRvMFJnc2JpVkg4Y3IycWJsOERJVUVCRTh1U2FwbUJoT1c4WktUQndtdEtwMHlVMzFNenM2Tjl1dTdBZ3JISHBKT2d3Y3kwTEkzS0NKaEd2d0VlNEd2T2dZMW5CWkN0WVQ0VWc?oc=5",
+          "pubDate": "Sat, 12 Sep 2026 16:05:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Where have all the Atlantic hurricanes gone? El Nino might bring record slow storm season - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOM3lrZmticlFqRjA0aTBYNHMyT1JRRWpnejdYZ1ZqV2hkemZCdUVaWkpJVXlVNUJETEtWS3Z1RnkzMGkzd1FqeFJhZkVkaDBUVzA5NEh2NU8xNTZaUklTUEdLWDFJS29fSnc5VFlBSV91eFgxUkxMQksyRUFnWl9aMVpYNlNuNDBFRXpaMzQ3VlUyMXgtZEtIWURIeFdSMlB5U0x4NQ?oc=5",
+          "pubDate": "Sat, 12 Sep 2026 15:39:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Saudi Arabia has few options as it faces mounting threats from Iran and its allies - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOUJiN1dOV3FIZXZvbVNWRXlnYXhiT01xMGV4VERWd095cldKWVR6MzBvWEtoVno3S214Y0VDSTVUZ0FXTHl2RjhkTzh4aHRBdktkOEJRd0Rhc2d2MFdwdUFJWDVoY215MTEyTk13d3FOd0laTThYM00yUkhHdG1YLTR0N0VoUWk0Tm9vMHNLeVlhU2gwb214ZklSQQ?oc=5",
+          "pubDate": "Sat, 12 Sep 2026 14:55:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Crypto billionaires give $97 million to Reform UK, fueling concerns about money in politics - AP News",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeFRzcjEybkJFb1lhT1Rod1NHa2NXNWtURkNzTHJYQ19SblNUU0xFOVhxVUpnZVE1Y3hzM0t0cTQxZjRKbWRLdVFlSW43a254QzE0N2VmTzhIV09ZRGhCaTlCNzRGMUJwM2RGT3M5TjBuT3IzZ2VPUnRsTDFNMm40X1JzYl9VX1hORUpfcVpfQTVlZWNtQmFuWXB1Zw?oc=5",
-          "pubDate": "Sat, 12 Sep 2026 12:59:00 GMT",
+          "pubDate": "Sat, 12 Sep 2026 14:45:00 GMT",
           "source": "AP News"
         },
         {
@@ -125,54 +161,48 @@
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPREdaZmR6TnMxUGFHT280OUlwV1VleHUzc0MzSDc0X2Z6Y3hEdF9aLUZRaVpYNmIwYmtOSGdjWWltTjkyanJhM2NWRUZnMVdnMFJMSVlRMjRuWVZMajVpQ2lOck5McHRYNzJLYmR4R2hkc3M2YzRBTTM2NjlOaHVhcFB0YTZhWkVDVUNpMEZxZDViTjhWWXZGVVhqbFpkR045?oc=5",
           "pubDate": "Sat, 12 Sep 2026 12:45:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Iraq races to contain fallout after local Iran-backed militias accused of attacking Saudi pipeline - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPY0hKblZsWDdXODVsQUN2V2V6c3dSODhwQm9pVHlwTmxpX3dQRnEyM3BLNTdBYy1OV2ZqNTE3M2pfQ1pKLWI2ZEdxZXE5QU1vWUR5WnI5bkdDalpxeVRtU3l6Zmp3UnVCUFFMbVdLQUR3RlFqQThBOUQ0UWZDYWozV1RSLWhWWUdTcEgyV2g5dUs3QQ?oc=5",
-          "pubDate": "Sat, 12 Sep 2026 12:02:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Trump says he’d like to see a unified Ireland as he visits for golf at his Doonbeg course - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ3hLMTAtQkxDU19GS1NxaHlZWDlyOUhodmM5emszYWc3TXBKU29UcHpQcEpWMGF2M0tsSkd6STJoV0l6MGtZUDBZTlUxVWpYRGt5RUtCcHltYWdGYjNvRU41Y29OQzhTNTRhY003OHFkS1hFR3hJZC1KcHhTbC1TNHNVczM3YXpkM2IyM0NDRQ?oc=5",
-          "pubDate": "Sat, 12 Sep 2026 11:53:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Photos show President Trump’s two-day visit to Ireland that combines work and pleasure. - AP News",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPT2tWU204M2x3M1RkRTU4U3VueEZJQ2FjdnpIMzBEMUttNVpNR2hCSXBnbENMSHRVNVFVek5DanpWQVJPbGI0TnJJTnVadi1qT2R6Q3JoRGE1ay1VNkg5bkt5YlhIQVEyaE5jY2ZlNWs2TGVZUG1GaE1QVXRvMFJnc2JpVkg4Y3IycWJsOERJVUVCRTh1U2FwbUJoT1c4WktUQndtdEtwMHlVMzFNenM2Tjl1dTdBZ3JISHBKT2d3Y3kwTEkzS0NKaEd2d0VlNEd2T2dZMW5CWkN0WVQ0VWc?oc=5",
-          "pubDate": "Sat, 12 Sep 2026 10:13:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "French military jets launch a 40-day global flight to project power and strengthen alliances - AP News",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNckZ2MkhKOFJzbDhDVzE2WVVMdVRYY3RIZG1iTDJQYmN4dmdESS1fR243X25jZ2RxcjFuc0dFNjRXZzRGMUYyNEl4SXRocDdfVHlOWWc5Tl90WVRQRXNLUDBqLUplNi1aVGJSNDJQd1RfdzBGNHZBYVRZdmdyd3NiMTFYYzVRbDlPNUlXdUJZd2l1a3M5Q1NMbS00eGd1N0d5Mk5HSkFjdW56RV9GeUtnVnlEem0?oc=5",
-          "pubDate": "Sat, 12 Sep 2026 09:33:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Bodies from charred Philippine ferry arrive at port after fire that killed at least 35 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQazJXYmR0Y0VnSTJfVUdoOEUxX211NFMtYmFiT19NOEVnV1lGMkU3UjRBSzI2ZTZwMWNodm9KdTRicm51ZnE2WHdUU2lnZTVBX3BoZndvQktFOHpaWmRfWUhOMXZtTWg5UGh6UV9TTWV5TERobUJpUVB5Wnd4WHpFeGFLMURXWG45NFRXTmM1SGVCeFVrdkpQQ254WnRkV3NSQURHelN1TQ?oc=5",
-          "pubDate": "Sat, 12 Sep 2026 06:24:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Trump asks Smithsonian to install George Washington statues and exhibit - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSUpYUUlad1c2MWpiMUZxZjdhOVhtSEhBRVFyWG03a3Vfd2ZQRnlxLWtaT0FuVUwyWm5oT2NiMWlUM0FjRlYyUi1PZ29xbEJzZWZDLXQyZ043UG5raVJqSV9Rd25OMS1CbjJXcE1oM1FIMXd3WGNETms1bkdsQVVOSktlWU03YklGVVNDQnd6WHNaZ1JJSlFpOWs5bXkzTGExMFByRXdaN3U1QUlEV2c?oc=5",
-          "pubDate": "Sat, 12 Sep 2026 04:14:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-12T14:18:43.877Z"
+      "updatedAt": "2026-09-12T17:23:00.792Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "Hungary PM Magyar says to scrap Orban-era restriction on gay adoption - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbnNNQmo4TzJxd3p0NTF6alU4ZmI5NmpMOFprZEhCQzJTdkhsWjdtdzFWNnR0TTNsWGZKRmQ5YUR5cGh5V00wQ2FvNERYWTE2QzVUall1T3EtUHBxZzM4ZmdxQUlMR2dmSTJvWERuTzhrc1JwU2wtY1E4UjR2ejQ5WFpCVDl0bDdSWWhCQ2wyMTdSRDN6ckJ2Sk5YWllBM1RRNVhFUkp3NHU?oc=5",
+          "pubDate": "Sat, 12 Sep 2026 16:15:57 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Canadian boycott of US products pushes grocers to adapt, explore new supply sources - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYWtMYlBMQkZoRHN1bzl5cmZvZE1fd1ZIMzZiUFlVYU02SFFlSC05dlNCNDlJc29kOEpZU2gyT2lsWkdxb2R2eXdhWFNqRkg4MU1BZWpCYWlOSTMyTmtsRUdPWDJ6TEpuYUI0RmFRZzlwMGp4V0FYbFZRdGU2QUtaQ0JxcE5rZkVjNllYanEyZEsxZ2hsWFVHTHgyOEVOdWp0U2xuYlc5ZXhSdm80bExTZnByaHBER1JHNnhYS2dvMUtHSDVkYjNiUTVoMi05bUpqU21N?oc=5",
+          "pubDate": "Sat, 12 Sep 2026 16:03:07 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Anthropic CEO urges AI companies to slow model development amid fears over misuse - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObV9NUVhESy1GWXRLaWhTYlM1UUNSU0kweVg1N2YxNTRXUVdORW5EWHQ2MXNpYlo3SHNlLWZVZ2N1ZEZYZlNnUDY4TUZBMVFvcU1BaDBIWm94TkhqQUVXVzRZQlBUX3JOZUJYNnVVcVV3dlhTMDRFMmVXVGpNOU1RUEhnV254NWV0clJhc0NEOVFPWGFYSEtiY2R3U0JqM0NVc3c?oc=5",
+          "pubDate": "Sat, 12 Sep 2026 15:32:35 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Houthi advance in Yemen puts U.S. in a new bind - Reuters",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNkd2T3JFYkQtX1BpRFMwdUY5V0tXY0xuX1JpY3cwa2hEZmxKRWVSdGtNQkR5dFBIT2JPanlxM0N3WjA5YVVpZExUOFJIWG1MZTNLUXNrTXZaZDRLRnFac2Vkclp3eWhkaTFUNEZrdGk4RzBYTmVVV1kwMHRJWHdXbGs3Z3U5VlZ1eldGOGJXLTU5d3B2NUE?oc=5",
-          "pubDate": "Sat, 12 Sep 2026 14:02:25 GMT",
+          "pubDate": "Sat, 12 Sep 2026 15:22:51 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Iran and UAE back joint BRICS statement urging restraint in war - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNb0hxYi1hRXRlN01ldlJFSmk4ZDVnS1c0NE8xMm5PWXJFT3Vpd2prTWI4TGl5UTd6c1JKS24xVXpvOGpRY1VsYUUxQVk0TDVmNElEMUxLYnB4c2NfUWxmQWN0N21LWUY1TkZNc1pQWHczRUdhYTVJbEpiZXZPVi16SnZCdVN5eWotZ2dJaGt3UkNFdGF2NzUtTTFMU1dsR2EzcEpiQVRvRFFmaE1HdWZXSko1bVl3d2YyTGZPRUpGTEE5MW92SjJJNA?oc=5",
+          "pubDate": "Sat, 12 Sep 2026 15:08:58 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Death toll in Philippine ferry fire rises to 76 as rescuers recover more remains - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSGNNcUNqS2lYaWJSM0pnc1RXQVZIQW1VbnBzQ1BXOW1mZml2cGdvRVBnUHA2LXRmbmEyS01Ga3dtWkZGel9KVEVUZ21GRkIwVzhITkI4QTRWc0ZCbmJtU1BMazMtSEtRZTNjZWRhcVI2OFRsX0UxbGZfZ1AyR2dfRmt6MTFBclczV18yT04xbjJuUHJvX0NZVktMMURhOW1zLTBfQVAzVTRINS1LbEhoTkgwUUc4dmZ0M1dsbDd3cG9vWXc?oc=5",
+          "pubDate": "Sat, 12 Sep 2026 14:08:53 GMT",
           "source": "Reuters"
         },
         {
@@ -182,44 +212,14 @@
           "source": "Reuters"
         },
         {
-          "title": "Hidden crypto farm in Mexican mountains puts spotlight on cartel funding - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNU3JWY0h1VnVaSWl6MW5nYnlmcktHNS1uTVM0WHNnYnVPREdhalFjSnRNWUpsV3pXdGVCWjltLUttTW5qbXZLZjZQaDZwVENpY3JkbjhRSEZCRXZjOHpURjdsVmZLbEZoaHVLYXdXemE1QlpCWG5kc0lDWWVNem84ZjRWOVM4ZEZaeHRfMFFCeDVlWjhSN185U0ZaR2N6cVBxb0tiT0swU0xBRDczU2x2cWR2R0poQjRi?oc=5",
-          "pubDate": "Sat, 12 Sep 2026 12:20:22 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "BRICS adopts joint declaration, urges 'maximum restraint' in Mideast - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZERlSkNRYWwycnZ4Y1Nwc1RXSXU3WTFLbmFLVnJGOWhfWjdvTzZiTGJVWVpSWHFWWXB1TTh0STE5QkM2VUlabV9DaENCYXJ2djY1OUhfVjUzbTZWdVVHbjRLTlBNLURPYnNlQU1WSzdYZWxzSk51b0ZQS0Y2N0hndGJPMnF3bW9MUjJSWk80cFkxZVUyXzRFVTdwVGtIQVF0S2Z6RkdqQWFOSGdWZnVV?oc=5",
-          "pubDate": "Sat, 12 Sep 2026 12:13:53 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Canadian boycott of US products pushes grocers to adapt, explore new supply sources - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYWtMYlBMQkZoRHN1bzl5cmZvZE1fd1ZIMzZiUFlVYU02SFFlSC05dlNCNDlJc29kOEpZU2gyT2lsWkdxb2R2eXdhWFNqRkg4MU1BZWpCYWlOSTMyTmtsRUdPWDJ6TEpuYUI0RmFRZzlwMGp4V0FYbFZRdGU2QUtaQ0JxcE5rZkVjNllYanEyZEsxZ2hsWFVHTHgyOEVOdWp0U2xuYlc5ZXhSdm80bExTZnByaHBER1JHNnhYS2dvMUtHSDVkYjNiUTVoMi05bUpqU21N?oc=5",
-          "pubDate": "Sat, 12 Sep 2026 12:13:05 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "India's HDFC Bank submits two candidates to RBI for next CEO - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNjdMbW15NHlUVGNJZHhBaUJxWFZRUi1aSVNsYTBCb1p4T2VyRzdEZWYzZUhGZ0tCQUo0eXNBRkt1RE43T1RKSWg3R2xRX1ljTkpzandKaG9JVzJ3QlhtTk04cll5QXVLd0M0V3MwWU9ycnZIalZzOU10NGxQUjFwTTN3M3BHbzBMWXpadmRmYkxlVWZxTkJzdmNlU08yb3RMTEE?oc=5",
-          "pubDate": "Sat, 12 Sep 2026 11:59:43 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Jay Rayner on the responsibility of restaurant criticism - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMFZDQWZVZmMyRFpzRFhLZ3dRR1h5djJIY2dveDZNU2lmR2l2dlh6V29sTnNGVTlWVW0yMzlDU0xMaGt3V19zOC1GRUtnZ3E0N1dyUmZ1WkdYSWtMbmZlci14d2xWNHNNeEx1X3huME9mczJ0c1IyamROYlM1cHQ1M1dDNEFwMk41RlRJVHJVYnczNUdTSTU2RnZfanZjZ1NNM0JOaWlPRUd4QlFJ?oc=5",
-          "pubDate": "Sat, 12 Sep 2026 11:58:18 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "BRICS agrees to joint declaration in test of unity despite Mideast tensions - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNb0hxYi1hRXRlN01ldlJFSmk4ZDVnS1c0NE8xMm5PWXJFT3Vpd2prTWI4TGl5UTd6c1JKS24xVXpvOGpRY1VsYUUxQVk0TDVmNElEMUxLYnB4c2NfUWxmQWN0N21LWUY1TkZNc1pQWHczRUdhYTVJbEpiZXZPVi16SnZCdVN5eWotZ2dJaGt3UkNFdGF2NzUtTTFMU1dsR2EzcEpiQVRvRFFmaE1HdWZXSko1bVl3d2YyTGZPRUpGTEE5MW92SjJJNA?oc=5",
-          "pubDate": "Sat, 12 Sep 2026 11:58:12 GMT",
+          "title": "No signed Hormuz deal expected yet from Oman meeting on Monday, Iranian official says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeXF6bE9PTlU2N3Q2TTc1VEkzbUdNRXlDNVJTVTNhX2ZHRmJuSEx2OHI5MEhGVUs1Mjc4TElRZXdFRlplRlF3WDBoMjhSQXdHN3RYOWpvb25SRE14OUEtMXhTOVhVMWJLeTdpNmNsT0NIR0pPOGxFZnVwMEFMQ2tubTJxUTdpQXdaVkNna2JrLWFCODA2cGxhaktEOUtVQ1lxVXM1YnFnUjhxUFFKbGVYV3h3WVlIVHZlZVBxcnoyVTVUSFR0bTIwd193?oc=5",
+          "pubDate": "Sat, 12 Sep 2026 13:44:20 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-12T14:18:44.271Z"
+      "updatedAt": "2026-09-12T17:23:01.201Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-12T14:18:44.501Z"
+      "updatedAt": "2026-09-12T17:23:01.417Z"
     }
   ]
 }
