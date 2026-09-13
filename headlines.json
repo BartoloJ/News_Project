@@ -1,25 +1,31 @@
 {
-  "generatedAt": "2026-09-13T18:01:30.752Z",
+  "generatedAt": "2026-09-13T21:03:37.580Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "Trump doubles down on united Ireland comments on day two of visit",
+          "title": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
           "link": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 13 Sep 2026 17:55:51 GMT",
+          "pubDate": "Sun, 13 Sep 2026 19:34:36 GMT",
           "source": "BBC News"
         },
         {
           "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
           "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 13 Sep 2026 17:38:29 GMT",
+          "pubDate": "Sun, 13 Sep 2026 19:14:21 GMT",
           "source": "BBC News"
         },
         {
-          "title": "Trump downplays AI risks after dire expert warnings and calls to slow development down",
+          "title": "Trump downplays warnings of AI risks, citing rivalry with China",
           "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 13 Sep 2026 16:29:27 GMT",
+          "pubDate": "Sun, 13 Sep 2026 18:49:37 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Questions mount over what an AI 'slowdown' would look like",
+          "link": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 13 Sep 2026 18:20:22 GMT",
           "source": "BBC News"
         },
         {
@@ -45,16 +51,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 13 Sep 2026 13:30:38 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Iran war reshapes Brics ties but also exposes divisions",
-          "link": "https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 13 Sep 2026 11:23:42 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-13T18:01:29.278Z"
+      "updatedAt": "2026-09-13T21:03:36.128Z"
     },
     {
       "name": "NPR",
@@ -109,117 +109,117 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-13T18:01:29.504Z"
+      "updatedAt": "2026-09-13T21:03:36.464Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Oklahoma State stuns No. 6 Oregon 39-31, ending 21-game skid against FBS opponents - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUU95V3hwVVZQV2NrQWh3VHJnNkZkejRVZkpKbHFxZ1k1QzJnWnpCNENsSlYxaG1BT01vZmRoa2k2MnJpTkxkRWcyMjdudl9rN3Z3UzZocXc0SUp5and2U1ZJclVHX3lXWlk0UmFvRHJNSkJ2bFI4bmtSSS11UjFXeGxRRFRjWHliaS1WVWxLYmM?oc=5",
-          "pubDate": "Sun, 13 Sep 2026 17:42:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Fighting in Yemen intensifies, and Houthis launch more attacks on Saudi Arabia - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYmtucHBpX1JrQVh4ZVl5UDVCMER5bjYtb2NPcUVPZzFrZlZSZERNTjN3YTVKTDhxc3BzbkdMRS05YllDZ3VJeW03c2pRSHNmYkxKTnBWNE1IVm9VYndFdjZlQS0zck1zeUM0QTA4S0p5cUM5MTYxRjNxX052S2xOaXE1Ql9zYXBpc19SZThRR1VwVWpEbkFoNE1YMA?oc=5",
-          "pubDate": "Sun, 13 Sep 2026 17:08:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Trump calls on Ukraine to halt strikes on Russian diesel fuel, saying attacks causing a shortage - AP News",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLS1ZV0kyb2w5c2szWC15SGgxZGVsMXM4dDNiVkdTdmRPcV9kQ001dnpkODMya0xkTWQtLWhoYzZsdlFUVFV5SnJaVGpUbUNaaW4xNEN0VTVGdDlRempoRzhMYV9PcGo0UWhjUkhlZnJMRHVVVzB6WDBybXVMY1dfM181b3JYXzZIclJpU0xHbjRPdVpmUUJpbHFvdTYwdHFOWUVVYmp2M3hsN1hhcGJSbGRSV1Vqak0?oc=5",
-          "pubDate": "Sun, 13 Sep 2026 17:04:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Strike on Iranian cargo ship in the Strait of Hormuz kills 1, Iranian media say - AP News",
+          "title": "Iranian cargo ship is struck, and talks between Tehran and its neighbors are postponed - AP News",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMG04XzJlaFg3N0hjVGVucURCODFNSFJKYkdZaHY0aWZxMWJCXzlPY1pGOUNrWHRhWkc3NnJXQms3X1ZxaHBxOTBHTUZVNUFWWXBJV0hLcG9PaEg0Nm9VaTQxbVNfallyV0ZhVzlfMGpqaWMwLTV2ZmYwRGZYNm9EUzFLMnMzZkREbzRlR1JqR0tBd1Fs?oc=5",
-          "pubDate": "Sun, 13 Sep 2026 17:02:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Olympic rematch: US and France to meet for women’s FIBA World Cup title - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVXNPenNfdFpMalNUZEJJZ0Q3U3BtOFhnQmE3RVc4b190eFdheTd1aEZxbnBSYXNMb3BrN0ZkVXRLRk00RTRkZHB4MF9kZDN4YWdYX2NydTRlaVFsU04xY2dOSFBZR1d6QkRyWjlZSXR3M2JkYTlMbUxoanVoOUFEMnBtekFKTzBfZ3BtYncxWTQ?oc=5",
-          "pubDate": "Sun, 13 Sep 2026 17:00:00 GMT",
+          "pubDate": "Sun, 13 Sep 2026 20:36:00 GMT",
           "source": "AP News"
         },
         {
           "title": "GOP congressman from Wisconsin swims to safety after plane makes emergency landing in a lake - AP News",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSi1MWjIxVEdEOGRaalhNcXVWN1gzUVdZai1HX1BiQzJLeVFvYjd1RC1xZlU4SHJjOFpFUDE0aDE5eU5INWFpRzFLWjQxLXIwN3V0ZVhYSDgxZkIzdjRTN3BVNDZaQkxFTVhtYUJvSEhXeTVTWVZQVVE2bkJNZXo1RlRQeTZmMEt1TXNvdlBIUVdNcUEyQnBaejd4bXVXOUpjbmdn?oc=5",
-          "pubDate": "Sun, 13 Sep 2026 15:51:00 GMT",
+          "pubDate": "Sun, 13 Sep 2026 19:28:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Nigeria says 2 of its nationals killed in South Africa as anti-migrant tensions flare - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeHJkd2ZIZUtoZGMwOWhxNjBpb1BmanRrQXZtX0lJRWpOTkY5SXdnTXVwV3FMdnhaZGRtWUw5RkFfck41S1pscFlvTkpZNnVUQ3ZSNzZxSUlsOUUzNGdiOXRnUzB3b3hZUlZEZ0hMbWRzRnVqby1lc3VkcGhINmN1a1E4LVZLdG9vMGExR3JfcENSV3NnN3lWMjdZNkJUaE9pU0xn?oc=5",
-          "pubDate": "Sun, 13 Sep 2026 15:43:28 GMT",
+          "title": "Fighting in Yemen intensifies, and Houthis launch more attacks on Saudi Arabia - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYmtucHBpX1JrQVh4ZVl5UDVCMER5bjYtb2NPcUVPZzFrZlZSZERNTjN3YTVKTDhxc3BzbkdMRS05YllDZ3VJeW03c2pRSHNmYkxKTnBWNE1IVm9VYndFdjZlQS0zck1zeUM0QTA4S0p5cUM5MTYxRjNxX052S2xOaXE1Ql9zYXBpc19SZThRR1VwVWpEbkFoNE1YMA?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 19:10:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Indonesia continues search for at least 129 missing after ferry capsizes, 6 bodies recovered - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUHc5VVA1ZE8yZnB0VWlLbS1MdlM3UEhHaDhzYWJuZG11eW82eDRpdjVNYWF5aE1hQzVmZ21WMG5LZl95Y3BxTFc1OW5maGdCNHJTOEFrZHBVNkplV3R6UXM2T2RLYnFnSDZ3R0VsVjQzUXhDaDR1U1JLbG9mTHg2TmVCMElDNzFYUGx0WkdZcTJCV3l3UUVjWA?oc=5",
-          "pubDate": "Sun, 13 Sep 2026 14:53:00 GMT",
+          "title": "Exit polls show left-wing opposition ahead in Swedish vote, projected to win majority - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOanNaU2dOb0c3MzZHbjdEeTc5ODdNOWhXOXJzNU5aNm56elRKSlo5UmRwdndlaTdKSkkySmxDVmdtaXJ3cmNzYzNIX0xrOHRNVmRwWHI0ZmM2SFlVMWQ1UVFkTVNjeUpEVnBMaXVuV1BMSDh3ZWxyTzBIRndTUDJmSlFOa0F1Y2RrbWtmc1ppWU9qSDZ3ZkRtX2dUWWdzcF9tTEJoVXp2TQ?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 19:02:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Trump says he plans to remove a 10% tariff on Irish whiskey - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbGxnLXB4NGxDZEpHdHRsSGVZaTlqTTJZYkRJc3NSLVFkQmJRNUxDTmxfSC1lR2FIWW5RRUlkckN1OExobThVWkdxLVZGU3FwblBxci1qWFVyR3NxOHFBZVJxbFRZVjcwSGx4MjJla0VySTlPWmVWdkNLbkdGUkYwTmNIMk0wX2VvWDl5dGwtdUk?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 18:53:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Trump downplays the need to check AI development and says he doesn't want to cede edge to China - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOamh3ZzlxNlU2NTItT2hQNnladG9CS1I0QlZHMm9YcnE1X2RPTERiMS1oME9wc1UzUHloY3JDNDFLa3VQSEcybzlMUG1xVG5xV1BGS0V2Ym1ScGoyd1BaVlZwdGl4c1lzNDUxZkpzaXFOSDl5ZHhoUklLQ3drWG5QenVlRUk5amRfWjBPRHVfSUNxaUJ2aUwxS25CZ3JUQ1RxNkEzN3VYdThBX1RsdEpTa3d1N2JwUFZwblpjajFCOEpvQQ?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 18:48:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Arch Manning and Texas made history with late rally to beat Ohio State: How they did it - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ21KT1F1Vks1bmp4ZDFJa3hDeDN4QXhIV1NqRS1iNlc2eW9GWUdPMzltSE9ITEI4OVk5QVE0ZFRoSVVRbEJnTUw1UWlWZVFMWU1jYldSQ0FNSG93ZXNyY1JOQ0NpQWhWZklmclcwUXVuTl80ZXN2ZzBQeVZRQ1Q1d3ZCOXdrMHdKbWNYRjIxa3ZzdDQ?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 18:33:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Photos show President Trump’s visit to Ireland that combines work and pleasure - AP News",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPT2tWU204M2x3M1RkRTU4U3VueEZJQ2FjdnpIMzBEMUttNVpNR2hCSXBnbENMSHRVNVFVek5DanpWQVJPbGI0TnJJTnVadi1qT2R6Q3JoRGE1ay1VNkg5bkt5YlhIQVEyaE5jY2ZlNWs2TGVZUG1GaE1QVXRvMFJnc2JpVkg4Y3IycWJsOERJVUVCRTh1U2FwbUJoT1c4WktUQndtdEtwMHlVMzFNenM2Tjl1dTdBZ3JISHBKT2d3Y3kwTEkzS0NKaEd2d0VlNEd2T2dZMW5CWkN0WVQ0VWc?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 18:07:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-13T18:01:30.117Z"
+      "updatedAt": "2026-09-13T21:03:36.959Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Russian nuclear head says Ukraine attacked fuel trucks, endangered Zaporizhzhia plant - Reuters",
+          "title": "Trump says he will consider request to release more 9/11 records - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYVpvSjF5YkNleDZJaTA3TkVFZ2gtSUQ2TEVWWnBqOE5iUjRwRzNtSTdTbFBYUnR6YkhqdU0wQV9aZUNrSXAzTG1GTnM1dnNUZHRxbTdTZ0lWd1BROEo4Rjg4d3NvREJUTDloQUJzLVJmU3NzUHBnMjFtU0NlNTQtQ19XMkhLc0ZDRU5QS2dmSWRXNlBudjdtVXRHUWtNaDhGVlhrMQ?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 20:32:56 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "VAR in focus as Haaland goal gives Man City controversial derby win - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYnE3Rnd6Y0c3c3VNa0pQUzRNd01UQ2p5T1lqSDg3d0o1SFltc0dfZnllckxHQVZCYUpMQjE5b25HeXNGY01ZSTgzcElnem1NblExV2MzWHFlQWJPTENGU1FQTVI3d0hUWFBSQ1NHMDdCY0RPZXc5TURQeU5naVhYcXd5LXdocmR5bGp3OW5BaXdkbDJQU3E1Z1JvQUlsYXdrMVlqOUNiRFBYOF9IZTBpRA?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 19:42:06 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Trump calls $5,000 payouts 'easy' to fit into federal budget - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMXRfMWRzLWtaTEtyejBKWURMbDZyVFI3Mm5Ud1BucVVDVkctM0pHQmtFWjVYUnVNeVAxWW95dlJ1eDAzU1pON0ZNNmg2SnczT0R3ZHRfOWhLYXp4NmFxR21CWEtaVGNLYkRmOW9ObHoyTVA4cndXREZNOHpOaDZqb1Rjazh3MGJEdlk4RlllV1FvUlBqZVRsR1cwaThQYVk?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 19:22:01 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Oman meeting between Gulf states and Iran postponed, Omani foreign minister says - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPT01mN2pHSkgtLWNGSFhGWm9vSDBvNjlLVVB5N2lFRnczZ012SW1pZDdxTXRmY2NZWmw2MmRiOEJPZ1ZNdklvMkgxbXlEQXd6a3ozbWNrLTNaLWlMekNhalBBQjZTSXhEZEItM0s5WUM2cGN5akN6SXRVZVJseUR1M2Q1X2RoM2VBMEFMZHNrdVU0VUZyU2k5eWEtalNvbGVjQk5sS1NkbUV1QThfaUxocWV5NkVmRDBLQmdrNXJBQmp1ckhHTDBOdQ?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 19:14:32 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Trump says he is lifting tariffs on Irish whiskey - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYklDSUc1YlRDQTRiWXR1SV9lMzFqenBWQ2tSV3ozeDJlbGYzT0lTU09pWHVSUDZQSWZMRVpnal9KTHhuLUNuandYaDBuMUlvaU9pa0l5dmg3S3JXRmVxc3c3NWR6MXlGVkpmNnJrUE90bU5GcmU0SDM3NUV0RTEwWXZlZ2hVQ2RBUTFETkl1QlgzSHJKcWc?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 19:06:51 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Haaland strike gives 10-man Man City contentious 1-0 derby win over Man United - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWUZwU1lRVnQtMEpmcXlLYTJpM054OUtxcUd5RFliTnFKSXNFZHc1Sy1Xdy1YT2E0T0xGMHozc1RGXzlZVU1Ha2xnOFpIa0t1ek1SLU90X0gwR0YwVFVvVU9obU5UX1FxeWJjTEhnMnFJTk80S29YWGFmSEJ0UjlxSTdlTU9MYTFoellHalN3b0ZxZGR6YlNlNmJCdWJhdmFoRFFUeHc4NHRrR1dlbG12cklFbF9YQnpiNlRWZERMZGg1dw?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 18:33:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Ukraine's Zelenskiy imposes sanctions on former press secretary - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQd1VBMmEzZldmZWJscDBPb3hwTERGU2hNYVhFOUh1b0Q1NjhDYXlMRWlRUDFZNXdWdjR6bmZkR0UxTGs0MFlvcXViM1F1aTdzSjdpUEFGMldoRHhvRE5PYkVad19FLU15RHNUdHhpYy1KUHp6d3hiX0w3T2puNnRtNlNNNzlVb0x5cWs2eHZHLW5yckJJV2p0cnlLTDFxWTZpTGx3?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 18:27:43 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Russian nuclear head says Ukraine attacked fuel trucks, endangered Zaporizhzhia plant - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSFYySWw1NWJ0UTM5Nk9pckRNeE5Ka3JIcHVuN0JFZEtmTUJKekZyT2NXSlBVdTJPeUZrc1Q5R0o3V0hPS3dlbkZHNUpxckFJZEQ3VWVQNFVnMVYwN0dXR0lBNXpkcEdJTlVoZG9yVi1aUmoyUDdrN3VDWmxkRnF6TDZNdm9TLUhha3d3R1cySFpWd0lBMmlPcTAxZktuZFVOc1cxZExwUFBLVHNRaG1YLWZkS0JWalU0V0JJWkE1T2xDOXR4Z3p4LTR3?oc=5",
           "pubDate": "Sun, 13 Sep 2026 17:26:28 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Ahead of Fed meeting, Trump says US should have world's lowest interest rate - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbGlUbF9PYnU0Q05JZW03V3BDSW1EcUp2djVmYXZjdWxXcmsyUWREY2M5MHpSNkU4ZERvQWlmV0d3bThhdmx2RUQtU3VockNIRTVmWGltUmllOUJuTHdrYUJqRU02cHdBUlNlb1dwSGZhWWtKejlDakkxUWhqR3RJRFc5TWRFdDFabTNUbEJfNU9aZlMzUkI0S0dqNkZYSXFYMndoNlR4c2R2SzdxZVEycDlIMHBaXzg?oc=5",
-          "pubDate": "Sun, 13 Sep 2026 17:24:54 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Trump tells Ukraine's Zelenskiy to stop hitting Russian diesel - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPN1o5cTJrWHRkQWxRa1JJbWp5SXc1bENTNS1MU3JJMHlGOWhtUnlaZEhqcG5MNE5MZHBhaE56OW9aNm81SWpYcmVaaFY4QS1Dc25OZXdrS3VYdnRiTnFLN05NTUFoemdCQjFxZ1NaUWlzQ3A5bmhWbzdTWGpJXzRSdFMyTGYzeTBuc21pS0kzbldZQ1plNDRsNDlPYjBGN01La0xwc0I2Z1lBU1lILUJv?oc=5",
-          "pubDate": "Sun, 13 Sep 2026 17:12:06 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Russia hits passenger train on Ukraine's border with Poland, just misses 'diplomatic train' - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMndlVi15QURjTkwwbUI2ZDhyMG5kcDZaV0I2OWh2ekl3eFdkbXpUa1cwSzRSZW4zRGE5Qk1EQzBKUG1KZHpDMmJEVXI4dUFVd2tzQUV3eUZSUXVhUXBPd3F5Z0F6MkFQZG5fbVVqYzFfeHBSSkJnUzY5Wk44UER2MmstalY3d3V6VklDMUlOWDd6dl85WS1pUF84NTRQQzVHV29nWk93algxckVB?oc=5",
-          "pubDate": "Sun, 13 Sep 2026 16:59:20 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Trump says 'very negative forces' raising exaggerated concerns over AI - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObThfSFpBRlQ0d1ZsVDV4SnZQdlJkYWZnRTlQRlpKWmRud283dWJQclhHQUUxM1dHSzVJakIxVnVBc2pYU0R2TmdUT01PSkJiY3I3WFRHUGNZNUh5RVdtRGk4QUppT1hVV0dHbDdwdGQzc0ZyZlRxeTUzNjg1UUY3RHpiR0JUOUpCdlV4b2xNd01FaEluMXhZZTA4eV9Gd0gxYW02eWprV05hRUREYWVGZUZLcHZWZWpa?oc=5",
-          "pubDate": "Sun, 13 Sep 2026 16:58:17 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Nepal tunnel survivor finds solace in village homecoming - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVDZuclpMMzNmZmhVZDN0M09SOFF0UDAzMVNDMG9NcTdsQjcyLW5LSEx4RFFaQkxXMTI0ZTBoSWFOX0MzbV9MNTM1dVJuN0doQi1MMVZZX1Q1alFnd1VUWlNXajFMSEV3NTRraW5MczVDU3d1cVg3X0VIX1FiaUI0YTJqZy15bzdaSDRzTHBGNTU5S3Z0WTVMVWtPZ2E0bjB0ZVFv?oc=5",
-          "pubDate": "Sun, 13 Sep 2026 16:38:11 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Carney pushes idea of making Canada 'associate member' of EU, WSJ reports - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQY1Y5U2xFbGpBM1ppYU9rcmhrdVk5b2hKTkNNZHdyakV6Y0UzS2lJenNKS0s2SjFZdVY0cDBDUm42MnNib1BlYzZLWENheHpobzhOanc1LXVnblVHNFo1MDNtUEFjcE93T0ZIOW85VmcwWk1zOEMtcGh4NXpOSk94dVowaVlya1IzWkJxX2NOcDhtZWhVRURzeGRCWUhHV1FuNGRzSUI0bS1ERVZ3TUdhbUZGOWpwZw?oc=5",
-          "pubDate": "Sun, 13 Sep 2026 16:22:21 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Lithuania says drone sighting turns out to be flock of birds, after NATO summons jets - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaFhfNEJ3cEZwOURCeW84SEFKRXM3Y0VlWUFlTVJxbDg5NVNCNDhESXViQnkwOC1vN3Z3dEhieU15VWY5bms1ZWJ1U0pkemREcm1pTU1DbzF0eVBEUW1HYkZBUnp5QkJ5U3ktNWoybGxGUWpqNm5BdktlYkFnWlNKd2FZNUJJV2JBRGxzSzdxWUhObXAxVlpfQjFSZlhJQUNUeUdqcU01Sm4wUEQyeUN4ZXFxdlNGak8zd0RKTU5fd2t6RzdldTIweWtBcWd3WWJyamhJ?oc=5",
-          "pubDate": "Sun, 13 Sep 2026 15:46:02 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-13T18:01:30.575Z"
+      "updatedAt": "2026-09-13T21:03:37.495Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-13T18:01:30.751Z"
+      "updatedAt": "2026-09-13T21:03:37.580Z"
     }
   ]
 }
