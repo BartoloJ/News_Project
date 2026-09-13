@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T22:05:52.470Z",
+  "generatedAt": "2026-09-13T00:10:01.412Z",
   "sources": [
     {
       "name": "BBC News",
@@ -54,11 +54,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-12T22:05:51.256Z"
+      "updatedAt": "2026-09-13T00:10:00.359Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Celine Dion returns to the stage after battling rare illness",
+          "link": "https://www.npr.org/2026/09/12/nx-s1-5967534/celine-dion-performance-paris",
+          "pubDate": "Sat, 12 Sep 2026 19:54:06 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Alien Terrorist Removal Court deports legal US resident to Afghanistan in first-ever case",
           "link": "https://www.npr.org/2026/09/12/nx-s1-5967476/alien-removal-court-deportation-afganistan",
@@ -100,91 +106,91 @@
           "link": "https://www.npr.org/2026/09/12/nx-s1-5964931/miami-airport-amazon-cargo-crash",
           "pubDate": "Sat, 12 Sep 2026 05:00:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Neighbor turned on neighbor after Charlie Kirk's killing. Is the divide here to stay?",
-          "link": "https://www.npr.org/2026/09/12/nx-s1-5952234/charlie-kirk-death-doxing",
-          "pubDate": "Sat, 12 Sep 2026 05:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-12T22:05:51.342Z"
+      "updatedAt": "2026-09-13T00:10:00.407Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "People fleeing Iran-backed rebels’ advance in Yemen describe a ‘hysterical panic’ - apnews.com",
+          "title": "Anthropic CEO Dario Amodei says AI industry needs to give safety measures time to catch up - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUFdaU1djaC1FZjNRY0hrTVpVcWNmU0h0WXZjaTJNaEtZLTlMUDc1M3ZaRnVNcExhc3lVWEx4MXhqV2FuTElDTkN1SnFIUlB1QUdmdFJFbTlKYlY3S2xqZEtvb0Y4SmdYVDV2LWJIN2NOdEtWOWZscXowQmtzbVZENDVxTjdXZC03ZDVmNWJn?oc=5",
+          "pubDate": "Sat, 12 Sep 2026 21:50:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Oklahoma State stuns No. 6 Oregon 39-31, ending 21-game skid against FBS opponents - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUU95V3hwVVZQV2NrQWh3VHJnNkZkejRVZkpKbHFxZ1k1QzJnWnpCNENsSlYxaG1BT01vZmRoa2k2MnJpTkxkRWcyMjdudl9rN3Z3UzZocXc0SUp5and2U1ZJclVHX3lXWlk0UmFvRHJNSkJ2bFI4bmtSSS11UjFXeGxRRFRjWHliaS1WVWxLYmM?oc=5",
+          "pubDate": "Sat, 12 Sep 2026 21:49:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Iraq says Saudi pipeline attack originated from its territory, and other Mideast news - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONEdJUjhTN0ZoaHN2R1U0eEZvV2pOb2tOTGVjX2NxbjF6RTg5SDFyLXRhVlF2enBCV2ctSXFjVEZaeXdqTjNSeXVjcEszem9kUTRxaFR1T0pUQ3M4aEVaT2NwMjl3WC1mbi01bTVIZmRMWXJSUml4X3QyM0tYamRXbDc2T3h3dG9JbGtZZHVyZVBRMTVvaHFSdGhCci1jLXBMTnRnYWlZNHRnTzRjTGMw?oc=5",
+          "pubDate": "Sat, 12 Sep 2026 21:47:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Alaska drops voter misconduct cases against American Samoans who wrongly checked 'US citizen' box - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPS0RmYTdpc1I0aXVDZEI5aVMzZnpxR0lWcElSYzJybV9WcU9yZWQ0QVd3ZGNsNEYwLTJ4V3drekRFbi0wZjRyczR0OE90eGlWdDMtOWVRODEtN2NrWTB2ZUlFbGprMnJFTjJHNHNYX216N0RMY0lqYVI2a0ZvclZpaEFFYUFtUnpoT0EteTI1dzJJak91b2VES1RZSFZmTHFLM25tSno0NmU?oc=5",
+          "pubDate": "Sat, 12 Sep 2026 21:39:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "People fleeing Iran-backed rebels’ advance in Yemen describe a ‘hysterical panic’ - AP News",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPY0hKblZsWDdXODVsQUN2V2V6c3dSODhwQm9pVHlwTmxpX3dQRnEyM3BLNTdBYy1OV2ZqNTE3M2pfQ1pKLWI2ZEdxZXE5QU1vWUR5WnI5bkdDalpxeVRtU3l6Zmp3UnVCUFFMbVdLQUR3RlFqQThBOUQ0UWZDYWozV1RSLWhWWUdTcEgyV2g5dUs3QQ?oc=5",
           "pubDate": "Sat, 12 Sep 2026 21:27:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Saudi Arabia has few options as it faces mounting threats from Iran and its allies - apnews.com",
+          "title": "Former CIA official found with gold bars reaches tentative plea deal after charge of salary theft - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdER5YVZTSndZNFYtV1V1QWZZT1ZtT0QzYTNRTFFzVDlfaWdrTzlnSVMwczJBUW9sLXdjQnFWSTV2QVNURHpnQ2tUNVl5T3NhZ05Jd0dpRmkwd1ZvUTloZ0NDWng0QThWSzBuQWRVcjdSWm93TVZVQldGZkFMcmlHWHc4bFdxRUlHeW9lNTVuRE5uTGR1ckE?oc=5",
+          "pubDate": "Sat, 12 Sep 2026 21:16:26 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Saudi Arabia has few options as it faces mounting threats from Iran and its allies - AP News",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOUJiN1dOV3FIZXZvbVNWRXlnYXhiT01xMGV4VERWd095cldKWVR6MzBvWEtoVno3S214Y0VDSTVUZ0FXTHl2RjhkTzh4aHRBdktkOEJRd0Rhc2d2MFdwdUFJWDVoY215MTEyTk13d3FOd0laTThYM00yUkhHdG1YLTR0N0VoUWk0Tm9vMHNLeVlhU2gwb214ZklSQQ?oc=5",
           "pubDate": "Sat, 12 Sep 2026 19:46:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Where have all the Atlantic hurricanes gone? El Nino might bring record slow storm season - apnews.com",
+          "title": "Where have all the Atlantic hurricanes gone? El Nino might bring record slow storm season - AP News",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOM3lrZmticlFqRjA0aTBYNHMyT1JRRWpnejdYZ1ZqV2hkemZCdUVaWkpJVXlVNUJETEtWS3Z1RnkzMGkzd1FqeFJhZkVkaDBUVzA5NEh2NU8xNTZaUklTUEdLWDFJS29fSnc5VFlBSV91eFgxUkxMQksyRUFnWl9aMVpYNlNuNDBFRXpaMzQ3VlUyMXgtZEtIWURIeFdSMlB5U0x4NQ?oc=5",
           "pubDate": "Sat, 12 Sep 2026 19:09:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "President Donald Trump’s childhood home sells for $2 million - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdlV6OW5kWlJLcUI0WjVtbDRBQV9VUzEtVkVZMFBhbmhXd0E0Yzc2RFhGQkp5RzJ3SVdsYVZmUG41RE51ZVRvSzlNTEVZQnFNNlVCT25hT3Q3Q0xRd3cycG1lX2lfUGsyQjhxdUt4LVdueHpUamd2eDhNNXJpd0pFaDk2ZnQ4dGwzVmd6Rldqa1p2ckpMVEFR?oc=5",
-          "pubDate": "Sat, 12 Sep 2026 19:08:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Anthropic CEO Dario Amodei says AI industry needs to give safety measures time to catch up - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUFdaU1djaC1FZjNRY0hrTVpVcWNmU0h0WXZjaTJNaEtZLTlMUDc1M3ZaRnVNcExhc3lVWEx4MXhqV2FuTElDTkN1SnFIUlB1QUdmdFJFbTlKYlY3S2xqZEtvb0Y4SmdYVDV2LWJIN2NOdEtWOWZscXowQmtzbVZENDVxTjdXZC03ZDVmNWJn?oc=5",
-          "pubDate": "Sat, 12 Sep 2026 18:26:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Iraq says Saudi pipeline attack originated from its territory, and other Mideast news - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONEdJUjhTN0ZoaHN2R1U0eEZvV2pOb2tOTGVjX2NxbjF6RTg5SDFyLXRhVlF2enBCV2ctSXFjVEZaeXdqTjNSeXVjcEszem9kUTRxaFR1T0pUQ3M4aEVaT2NwMjl3WC1mbi01bTVIZmRMWXJSUml4X3QyM0tYamRXbDc2T3h3dG9JbGtZZHVyZVBRMTVvaHFSdGhCci1jLXBMTnRnYWlZNHRnTzRjTGMw?oc=5",
-          "pubDate": "Sat, 12 Sep 2026 18:10:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Trump touches a nerve while in Ireland by saying reunification would be ‘fantastic’ - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ3hLMTAtQkxDU19GS1NxaHlZWDlyOUhodmM5emszYWc3TXBKU29UcHpQcEpWMGF2M0tsSkd6STJoV0l6MGtZUDBZTlUxVWpYRGt5RUtCcHltYWdGYjNvRU41Y29OQzhTNTRhY003OHFkS1hFR3hJZC1KcHhTbC1TNHNVczM3YXpkM2IyM0NDRQ?oc=5",
-          "pubDate": "Sat, 12 Sep 2026 17:34:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "India’s Modi and China’s Xi seek to reset ties on BRICS sidelines - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUHJRZ08yZnluclFkNUNTNHNWUjc2TkNBdTAwaXFlemFuSDFvbk4xbmxaQ2JtVGhUMWsyZUxFMG10UTdRTUhfQXMyM3hDdk80UUhsdjQtS09QZ3g0Nm9raXE1NTdVTWxRaHRFcjF0am9KQVdEUGdRdFZEdkNNbXVUY1cxSQ?oc=5",
-          "pubDate": "Sat, 12 Sep 2026 17:18:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-12T22:05:51.844Z"
+      "updatedAt": "2026-09-13T00:10:00.887Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Russian attacks kill nine, injure dozens in Ukraine; Russia says it hits ships, plants - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcjF5NXdIeXlKQWY5RXRJTmlfVjFfWlNwZm9TOVNOREUxcmUwTk9MRmFUbWZzQnhNZTY1V3d2R2hBZGhlU1ZOT1licGJRdzUwcXhEbmJGTEdkNi1xRUlQUGJ0VnN0MjFLMWJGem1Ta0hGZ21ILXQybi1nS0xuUGo0Wjkta0dzZjhNOUVGTFZNcWJqTURPRzI2bngtdjg1dnZSVUZ4WjZLeF9DWU91M1ZlQjRUZ1FaMjNBc0pEMUhTMnR2Mnh1b0dZ?oc=5",
-          "pubDate": "Sat, 12 Sep 2026 20:53:14 GMT",
+          "title": "Anthropic CEO urges AI companies to slow model development amid fears over misuse - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObV9NUVhESy1GWXRLaWhTYlM1UUNSU0kweVg1N2YxNTRXUVdORW5EWHQ2MXNpYlo3SHNlLWZVZ2N1ZEZYZlNnUDY4TUZBMVFvcU1BaDBIWm94TkhqQUVXVzRZQlBUX3JOZUJYNnVVcVV3dlhTMDRFMmVXVGpNOU1RUEhnV254NWV0clJhc0NEOVFPWGFYSEtiY2R3U0JqM0NVc3c?oc=5",
+          "pubDate": "Sat, 12 Sep 2026 23:13:41 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Anthropic CEO urges AI companies to slow model development amid fears over misuse - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObV9NUVhESy1GWXRLaWhTYlM1UUNSU0kweVg1N2YxNTRXUVdORW5EWHQ2MXNpYlo3SHNlLWZVZ2N1ZEZYZlNnUDY4TUZBMVFvcU1BaDBIWm94TkhqQUVXVzRZQlBUX3JOZUJYNnVVcVV3dlhTMDRFMmVXVGpNOU1RUEhnV254NWV0clJhc0NEOVFPWGFYSEtiY2R3U0JqM0NVc3c?oc=5",
-          "pubDate": "Sat, 12 Sep 2026 20:48:55 GMT",
+          "title": "Russian attacks kill 10, injure dozens in Ukraine; Russia says it hits ships, plants - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcjF5NXdIeXlKQWY5RXRJTmlfVjFfWlNwZm9TOVNOREUxcmUwTk9MRmFUbWZzQnhNZTY1V3d2R2hBZGhlU1ZOT1licGJRdzUwcXhEbmJGTEdkNi1xRUlQUGJ0VnN0MjFLMWJGem1Ta0hGZ21ILXQybi1nS0xuUGo0Wjkta0dzZjhNOUVGTFZNcWJqTURPRzI2bngtdjg1dnZSVUZ4WjZLeF9DWU91M1ZlQjRUZ1FaMjNBc0pEMUhTMnR2Mnh1b0dZ?oc=5",
+          "pubDate": "Sat, 12 Sep 2026 22:09:58 GMT",
           "source": "Reuters"
         },
         {
           "title": "OpenAI IPO will not happen in 2026 amid AI safety fears, Altman says - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSkNHUFFrUlZCVWVKZ2dpVVkxSzBmcy16aFFHVTJDV25PZ0YzMjBLVlFQZ0pJcU5EVWJlUW13azNiV1BwOENLcTFVOFpZYVVlT0haaXI2ZkFaOUZxTGp2eE1kaGZCb2pXV1dBQy1XcjQ2NmNXMFA3Nnk5ZnA3MU5wWGZCV0ktTWZad2o0LVBmeW1BclBndWRfWEJScFduQklEZUFEX0NteFBhNDYxRG5keUdiUml3dVYz?oc=5",
           "pubDate": "Sat, 12 Sep 2026 20:46:43 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "List of winners at the 2026 Venice Film Festival - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWDhkb1RjR0JvRlUxMTQ5TFVFcURFNVdRMDNwTjZSNWw4Tmk1aVdwMHVhN3U0U0hsUUtnV1E2MnI5d01sd1hEWXZaT1ZOdGtYdWktSi01Sm1ZaUJFelB2ZU12ZnVVT0tSUDJpcktsNWxfVWx2WHJRUGZIVHhtckVmMDdHR3ZpM2RnZk04a2pHUEsxQXp4Zmh5Y01MNXo1dw?oc=5",
+          "pubDate": "Sat, 12 Sep 2026 20:35:57 GMT",
           "source": "Reuters"
         },
         {
@@ -210,16 +216,10 @@
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb2hwaW9IeTRsWlZUMXI0TnRSYUhSM0ZNZVRXUHpQM0NKMHJIMlhJaFZZUUJYRE5PbEpvSjg4bDFxT0FVQUp1X0hHSUhOcXJjOFZpaDY3RmRMeFpFT0VaZVlQWG12ZlZJQ3BjdF9MMVJXYUxHV0xwQjVJWGstZWpJYWxlM2pmMzBCdFc5d1NCeE5IWENOUC1Id1ZfZGJDMkMwckY5Y082T2NLOEk?oc=5",
           "pubDate": "Sat, 12 Sep 2026 19:16:35 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "US judge rules that Trump plan to halve FEMA workforce violated law - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeWdsd2ZWR24waE95b3NaLUtKbTQzOTJOSm91NjdBY3hnOUExLXpvZVBTWGw1eXFxTFVYOTdjd3Q2UXkycEZEMTI5elFuSDZOSmotdWJoX254Um9JckVrbWFNQm05VHhUcVU4bWlONlExMzNBeTgtLWwzWldmNjdmRGRNeUpJbllyczJSX1dmaE1CeUhxUWRhOVBNNEUyRWJKNDJXLUE3RUdEaDBQOUY5M2RhY19WalAx?oc=5",
-          "pubDate": "Sat, 12 Sep 2026 19:16:27 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-12T22:05:52.250Z"
+      "updatedAt": "2026-09-13T00:10:01.333Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-12T22:05:52.470Z"
+      "updatedAt": "2026-09-13T00:10:01.411Z"
     }
   ]
 }
