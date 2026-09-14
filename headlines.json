@@ -1,9 +1,39 @@
 {
-  "generatedAt": "2026-09-14T13:52:18.819Z",
+  "generatedAt": "2026-09-14T19:09:33.787Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Immigrants held in small outdoor cages at 'Alligator Alcatraz' in Florida, investigators find",
+          "link": "https://www.bbc.co.uk/news/articles/cqrk37rrpk23o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 14 Sep 2026 16:48:10 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Africa's richest man launches continent's biggest share sale",
+          "link": "https://www.bbc.co.uk/news/articles/cxly50gzldz9o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 14 Sep 2026 16:23:42 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Flash flooding interrupts half-marathon, submerges cars",
+          "link": "https://www.bbc.co.uk/news/articles/cx1l6rzj86vgo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 14 Sep 2026 15:01:28 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Body of missing runner found in South Africa",
+          "link": "https://www.bbc.co.uk/news/articles/cxyvzggzd5jgo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 14 Sep 2026 14:58:48 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Wild dogs record 2,500-mile trek across Zambia in search of a mate",
+          "link": "https://www.bbc.co.uk/news/articles/cy459y5y9yxo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 14 Sep 2026 14:08:12 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
           "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
@@ -21,44 +51,32 @@
           "link": "https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 14 Sep 2026 11:31:39 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Thousands demand end to violence in Mexican cartel hotspot",
-          "link": "https://www.bbc.co.uk/news/articles/cde06rxw5g6o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 14 Sep 2026 11:28:36 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Hyrox apologises for allowing race to continue after athlete soils herself",
-          "link": "https://www.bbc.co.uk/news/articles/cx2z5y37p90o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 14 Sep 2026 11:20:07 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Malaysian boy acquitted for murder of schoolgirl on grounds of insanity",
-          "link": "https://www.bbc.co.uk/news/articles/ce87qzrz7p8o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 14 Sep 2026 08:58:27 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Swedish left-wing bloc narrowly ahead with election too close to call",
-          "link": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 14 Sep 2026 08:36:09 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Bali police investigate after Australian man and children found dead in home",
-          "link": "https://www.bbc.co.uk/news/articles/ckgwzlwglldo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 14 Sep 2026 07:15:35 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-14T13:52:17.506Z"
+      "updatedAt": "2026-09-14T19:09:31.498Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "10 years after taking a knee, Colin Kaepernick is still waging a 'Perilous Fight'",
+          "link": "https://www.npr.org/2026/09/14/nx-s1-5965828/colin-kaepernick-football-the-perilous-fight",
+          "pubDate": "Mon, 14 Sep 2026 14:45:21 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Kennedy Center says it's on the brink of bankruptcy, might close as early as Tuesday",
+          "link": "https://www.npr.org/2026/09/14/nx-s1-5968690/kennedy-center-financial-physical-state",
+          "pubDate": "Mon, 14 Sep 2026 14:25:04 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "The producer of Fleabag and Baby Reindeer's tip for finding a hit? Don't look for one",
+          "link": "https://www.npr.org/2026/09/14/nx-s1-5968566/francesca-moody-fleabag-producer-hits-edinburgh",
+          "pubDate": "Mon, 14 Sep 2026 10:03:14 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Key leaders sound the alarm on AI. And, Iran-Gulf diplomacy hits a setback",
           "link": "https://www.npr.org/2026/09/14/g-s1-143148/up-first-newsletter-ai-anthropic-openai-midterms-trump-oman-iran-talks",
@@ -88,138 +106,120 @@
           "link": "https://www.npr.org/2026/09/14/nx-s1-5968442/on-the-equality-of-all-things-physics-carlo-rovelli",
           "pubDate": "Mon, 14 Sep 2026 05:44:44 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "NPR looked for ChatGPT's new crisis feature. It's hard to find",
-          "link": "https://www.npr.org/2026/09/14/nx-s1-5943118/chatgpt-has-a-feature-to-help-those-in-crisis-but-where-can-you-find-it",
-          "pubDate": "Mon, 14 Sep 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Indonesia searches for 129 people missing after ferry capsizes in the Java Sea",
-          "link": "https://www.npr.org/2026/09/14/nx-s1-5968417/indonesia-search-missing-ferry",
-          "pubDate": "Mon, 14 Sep 2026 02:20:28 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Russian drone hits train near Ukraine-Poland border soon after dignitaries passed through",
-          "link": "https://www.npr.org/2026/09/14/g-s1-143140/russian-drone-ukrainian-train",
-          "pubDate": "Mon, 14 Sep 2026 01:46:26 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-14T13:52:17.722Z"
+      "updatedAt": "2026-09-14T19:09:31.592Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Saudi oil pipeline hit in strikes will be mostly out of service for several weeks for repair - AP News",
+          "title": "Saudi pipeline hit by drones will be out of service for weeks, further restricting oil flow - AP News",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOTlTdWlFZF9mNl9uX3pCWHd0QXVWb0dEaXlGaXhLa3l4ek9PbWFhRG02VXJDMW1BT3FxUkp3MzZtdEd2ZHQ4cUswbkpfX1ZnVkxuQ3pValFrY1BTRHlyZjdaLXJqTW1VcXhzajBuSUFIbXdxamdqOTcxeFp2MERjcU9lQWVXaHhETnJweXZRdWp6UWNHQUxjdWc2NA?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 12:56:00 GMT",
+          "pubDate": "Mon, 14 Sep 2026 18:39:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Oprah Winfrey wants you to reach your ‘AHA’ moment at the Sphere - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVDFuUDFZYXg4Z0EybGhiNWFTTkRKU2IwNEFBdE1fcTlqNUlaWm52RTkxUkVoR1RZdXlxQkx0ajhla0pQRWdTZnJ2MnhtemtSMFlod0pjbWhOdGJqeC1HOVRNaFdJb0pndWRtNmZ6eXZnd29pZVpxZlplWFdzdGtVRko1aU9uQjJOUW1NVW0ySGZ0cDZBODQwcDYzaw?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 12:45:00 GMT",
+          "title": "EPA eliminates rule that limits planet-warming greenhouse gas emissions from power plants - AP News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPODQ5dWRzamlZYU0ydVJCdVZpd1M0QjNFWVpIYm5Za0JxT2thaDByZU1LZnhhdm1PaU9lMVdkYU9BOEoxcEVPSXJGTUhGSHRsTDExY3gycHVIOG1RdEd1Y2R3TlBzV1kyRFJ2ZmZ2bVRvMHlOZkVnMlRQUk10bDJnT2lRVkVrSnBITUNzeUd0RFdxVTY2aVR3TjdZd1ZSZFRv?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 18:04:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Amazon suspends use of 21 Air, the cargo carrier whose plane careened off Miami runway and killed 5 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQR3BvakNYQ19LeGNaeEk0WTRkLVRMWDAwdnZNcjRIYWZyV1ZpNXFaV0NRVXBqckI1bVVfZ0RlN3pQbktRVVUtUVNKNVhJSGFHT0lGbGRGbGJqcVJlTXlyN3JEaVFocy10QlFoYjJ5bmtvMVVVQjhsbzRXb0l4MmpqdzVhaURaM0w0U1hBcExOQWViUnRaQ0Rr?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 12:29:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "New warnings about the risks of AI to humanity revive a long-running debate - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQT3RtcEE3SVFlTXAycXRkTkFmUjBzN0MtWGQwajY2ZjhpZjFLelF2TzFhN2Z4T25fanRuZ01aQ05MY3dzQzUycjc1eG5Vc0EzMmNfZ21FTU9nT2xnSzVHQW56eE9Rdl90Wk9DcGpCNWtoUFE5TGhWelFma01rOFZJT0hlTFdzd0dTQ2FSMWNBTUE3NGkzd0Rkc3ZtRGhOZ0xmRTVuX0FXUGQydkp4V1MzOUludm5KdXpz?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 12:22:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "US futures slide on AI blowback; oil and gas jump after Houthis intensify campaign - AP News",
+          "title": "AI stocks drop on calls for a slowdown as rising oil prices push the 10-year yield to 5% - AP News",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRFpLbXVrOWE4Ri1ZaUsxT0FWc1VvZHc0bU04NWdORHpjcm5XdFc1YXlOMUE3VXNrbmppdlJOMVBYMkhYS3MtYjl1d3gtbG5mMFNGLU5fdUNWOHo4V2kxcDdDOTE4cW1CRDFkTDNBMXI1ZDdxeGNFSHhldGhSY3NyYTVIQVdrMloxalNiZGJLbkI?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 12:18:00 GMT",
+          "pubDate": "Mon, 14 Sep 2026 17:12:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 11:51:36 GMT",
+          "title": "Indonesia intensifies search effort for 129 people missing after ferry capsized in Java Sea - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcWNnZFhMa2h2T1NjYy00WThJeGl4VjlhRmtrSU12MEtyQTRYRnF1a1BQQks5SGNwS2xSTlNidzVzLVJWVUJtSG4yMTdkRERKcVNsWlk1Q3gtN2tEZUo5UzFvQW5TbkVHMW9EUmt5dnlCZUJ1WndQZGlXUkhRc2ZnTHVWUGR4MHBzbUQxMWZ6VDJYMHZkRDREYl9xR3VqU0JJX0duZWs5Uzg?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 17:04:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Africa's biggest oil refinery opens to public ownership, sparking excitement among retail investors - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTWZMcnJidWlQN3NjYlh3TWtDN1RYVS1GbmxaMGExRUpXMG9KV1l0clVSbk9YQS0yMktOemtkakxvNmZlTjktQ3hheDBCRWhkMHNDbWtJT0c1M09BblduNlRraTRObEF3a0lZY3pVLVRoM0dwSGx0SFdVUXRsWEFpd1lmUWdvSktMbDNMdQ?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 11:35:00 GMT",
+          "title": "Trump dismisses new AI guardrails, says there is a 'SICK conspiracy' against AI and data centers - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeFRySlBKNy1PVjJIYndUZHZKcTB4ZVFhOU1JN0t2QzlrbWtYaTZBRjctQWFKaWJBbjdnWFFzN2JJejJKZkZlOG5fN2s5U01fRE9JVGgxemxPUUhiV3VIcGpLdzFFc2w5ZjRoWEt3MTZ4dlJobnBNaDhNbXZFZ2JVamFlTnY2b3JnNjJPTWFudmJ6azh3bnVn?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 17:04:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Iran denounces Austria for blocking its nuclear chief from a meeting in Vienna - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbENBOFRuNGZxZ1hDbVJweTBSZUhLS3NyZVhUeExqczVwVmM4TWowZnBpWEZDUVVqY1ByMWFMeUNVeVFkcHJWWk51NHV4X0RHOVJvVy1mRU9mNWx4MG5PZFU5Tm9qaU1XajlPallLOVl0SjBqaUhua1Q0Smt6QmVwamIzVlFnUWdwR19IN3gxV2djY0RmVVp6TXFyMnMxRm01V2wxb2ZB?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 11:34:00 GMT",
+          "title": "China bristles at Anthropic CEO’s ‘fearmongering’ about its AI development - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOR1hUdWtVT3RlWE4yUGZLeE52YXpQczNrR012eHJGcVlfd0xhWU5UTTVHeUx2aU1UVjBaSlRIUW10TGh1cE1TbVMzVnNENVBfN0hncjF3bXVFOUJBc3d6MWpxWlFxWnBiSE1kTDNoNjBkZ1JSLUZyWXlqbU5PVk9veDJOd21iZGRIREQtRlBBeU1HZw?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 17:01:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Democrats and activist groups plan to push back if Trump tries to interfere in midterm elections - AP News",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMmpnZDNuY1NGY3RsRmNPOFllZlNuMnlLaVRYRVlVZC1vZGNwcTlIbEVRMlRHalAyUy1XeDQtYkV3eko0MXZxcGdXZ2RZbmNQZm44YXYzWnIxdjJvTFJXY1l3d3BxZldSSFYtaFhNNnM2OUxXUFhPcmFEYVBwOEdQMllnQnl0SWNMaEhIWVo0NEtzT3RhNGlWVWlKajdDRWY1OGtNWVJKaUc0NDBoRkVyNkpWa2I?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 17:01:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Bob Mackie, designer to the stars who dressed Cher and Marilyn and defined '70s glamour, dies at 87 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQVhSZjRndTNhWWdzUEFETUZoN1RnanFZVzl6Z3JYcHF0Rkt1X2kxQzlNc3BjR2liS2dyVWpudkRHd29ZbEhCcFd0ZHBWdzVldXE2bHF0enN5bjZ5Q3hQaDN0c3B4MnJwTFJnZDlxU0ZkQk9NRGxENTNYVHZPa1JseWtTM1dIQjNFNGs1cHkwR0UtX2NmWWZJ?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 16:58:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-14T13:52:18.250Z"
+      "updatedAt": "2026-09-14T19:09:32.641Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "S&P 500 and Nasdaq open lower as AI jitters hit Nvidia, chipmakers - Reuters",
+          "title": "EU is set to propose ban on social media and AI chatbots for under-15s - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX2c3UFlUVUZxUm9MVUZMeGxuSURsX0RsNC1KSDVCZTZURnNWZVAwbUcwWk5sNUdTbGdzTEZ6MWRoV1RtRVF3eDF2bnp3aF9MNF9mR0dqd0NkTThNdVFQSzBqUGZfRFlJYkY1ZFh0VEF4NkN2QVFKMlUtUXo4eUFxUVBpUTBzbi1WN1pJWTcyZFBSY1dIcXROcjhiQ0d5TFJleUdZc0dwUmVnTlBPWHc?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 18:25:10 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Wall Street drops as AI worries pummel chipmakers - Reuters",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYVB5TUc4VTc5MGdNMjVWcVYxUUszYjdXU3hrVnZXbVRCRm40Z3JBX3BhTElKaXVFQmU4SW82WWRwLVdxcGFTVVhPclllM25kSzR0MWdqUmU5YjQydl9MZDhLZ1MzQmF0b01UY3MxaWx0VkxOMjJUQzhmbHJPQjQzdXJMWkJ2OGs5R0ZQc2FjeVpEdjZkM2VqMC1aeGhXSm8?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 13:37:37 GMT",
+          "pubDate": "Mon, 14 Sep 2026 18:23:21 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US Senate Republicans release new crypto bill text ahead of critical vote - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTUd0QXl4cFJlZFQ1SXRIdkhVMFVOZEZpNXpfNDgwbGU3ZTZlTV9vU0UyT0o1RUdsQm5HLTdsYm1hYmJSUVk3dURLSWFzTkY3QVkxX3hRWXpHYVhUeHUzWmRZNTJIWnRjRWo1RjYtT093aEQ5SmVRMmo1aldpcWk3Yk5DUG5TX2szYWlyUlpoVUlPeXNPQXNYRUFocld1NTZGNXc1OFFpV3FLem5sNU44YlB2RUtsNDBU?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 17:59:15 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Trump dismisses AI safety alarm, says US already has tools to police industry - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaUtaZjljMHRad2I0OEcxUUxHTlhNM1laeGo1TlFPb08yVWdWYnRuLWQwMXhzWTc2N3hBdkwyTmtqSmsyaFBMVjZPdnl5eGtKNnJFdzdBaGQ2cThlckVEOHloT2dDODRDTzlMakFqY3NGblFxbUZXMkVXclJ5ZGlmT2ZNYkx3M3A1ZmxsUnI2TElVTExPaTRxQ3o5cDdramw0SS1F?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 17:57:45 GMT",
           "source": "Reuters"
         },
         {
           "title": "How China is preparing for the risk of AI escaping human control - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM1FUWERnbmM3dlBucFJQMmJmSEp5UVlXUVp0UEI0eU9aV1VzSnVoX3pNZUtWcFZsXzAtNUVXQmdOakFVNUYzZWVwSm9laXBTU2pvRXVaendNSFU3XzJmeGxrdDlKN0N3OUwxd1VSSEhfcWVTQTRNMV9hRnZkVk9WaUowMmtPdC1HTmhIOG9BRHpucDZHTk1KTnVLdXRfU1NVclVibTlCU1hjQQ?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 13:27:53 GMT",
+          "pubDate": "Mon, 14 Sep 2026 17:54:02 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Microsoft drafts code of conduct to keep its AI under human control - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeHh5QVYwWDZ2bUR1V20yb0ZhQ1lzdjVST1hheU9DODdUNjRWN2Y4aUt1NG0zMElMSnRfYjJ5Yi1ncnMyRUlWTWhIUnNHYlZHel9LMXYxcWE2MEp0UTYtR0U4SWhkTHM3ZjQ2ODcwUUg1Vk9zNGtWZzNmVEh6QU9mNUZTU244MTRDaG1ETUh6bDRtWl9WczJTZm9iYmZuWkpESW5PWUhRSGg0WU53NEp0OXgyS2U?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 13:05:22 GMT",
+          "title": "Ukraine wants specifics from partners on halting strikes, Zelenskiy says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOVNFQ1g2OHVHZ2dKdEVraENQbDVtV0xnTDBmUzNqaEd6YmJiSG9EWE43V2ZCWEdzUlBOVjVPTGRmdi1uajU1c1VrdXNuQlVPS2c1am9TNzJzMEo4bERnUnlfMEdUNjZjaWc0QmRsR1E1TEotekZyUWZuZ052QXowT2tuUFlOcWE1dzVNMDhVOERueXZ5ZG9RNVFLdVN2N3N5dVVGRXlsV3NrQmwwM1V0MTlR?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 17:50:36 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Billionaire Dangote launches oil refinery 'people's IPO', Africa's biggest - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNm15SzdOekVDNV9rUTlPanJOckRvYlVjbzNtRU1BVFlWLV9DUVFBRHIxQWwzbzZJNHNuUWt4VXpyM0piZVZCTjRXelNxMUN3ZHB4WXNuZmdoeTJvZkI5Mmp5azBwVGxRNU1qdEEwelJ4c3lCUGxORXRGUFkxckEwZFkwMjRIR3pUbnZhQnllUXp6ZVN2QllZeEg5LUhuVm9tdDhHZmhlTEt5RV8temxtSTJqb0RYWENfckZLTVV1RmlzNjQwdjBj?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 13:01:43 GMT",
+          "title": "Drone strike on train is calculated escalation by Putin, German minister says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSlFpU29qaEEtX2JOVTNyM19aY3VuN2NYQmtPUHRqS1hvOEZ5NG9MajZOcWxBbEtIVmkweXZjMkNwNWhKcjNucHBiZVNUanNwZjdUNWctOFdNXzZYVTdkcENKcVlxdnN1eElDbEVfUk1tN3hwUDg2bjN3Z3o2Vm1wUVFxTjdHYW5qSGZjeGRRd1hOMDd2cWMtZ0d4aXN4djVtSnJjZGFCMjVlNWpKVGd1ZVZ4c0N6OV82SXdjVlhLUDgzVFVKdEdoVHM2YzZZVjUtTEE?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 17:43:36 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Fed rate hike on Wednesday now likely, say economists, and at least one more to follow: Reuters Poll - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYmtGdWt3WFV1bmpCR2REM0NZMkZIOEE2c3BRdFhrc21CcUpVUEx6QTdOdDZOQ3dGV2pmYmxOVDA3WjJoclVnZlB2cXl5R3NfSDh6cy0zWGRoUFU1UjA4LTVFckZHWkVBUkJpdWtFaTFvTWNjM1IzVi1sSGhZNmNETzdJcUhOOF9MN2pGSXNyelRkSFlIUktUT1ZjX1VIY2MxQV80NWNLVi1hS0s0bEpaR2FGbzRzeVE?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 12:32:28 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Italy's Catania airport shuts again as Etna ash halts flights - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWHNMTXFOVUhsb3lrcVFMeU9tMnhxTzg4WTV1OHdxQ3pSLTA2NnNMMC1jOVNDQkcwaTBVZ1JnU1ZfNk5OWmpvNGxqZFN4aW9CT0J5eXExcEF2RFREbk5qcW03OGVkYlJiY3B6bFdKbXczNTFFTEp0Y3FHajVHVXAwSTlnb2xLQkJRRkNCM013WTFWdjFKTTlTNC1CaWo4RURkWDdWNzlFRlduZklRZzZweXMwWlM?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 12:02:35 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Defense, space firms turn to SPACs as investor appetite soars - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdm51RlJNMmgyQnpCNG5oNzRYZDZ1YjNEN3hRM0s1cHVjSWRzXzRIODlnZHB5ZXZEWFA4VV9mZkRVNkdkdnEtcEdKMVNqQUFCTTVlOXJNOE9fN1d5TnJ4NmxIMjlSM2lGWjN3eVo5VG5qZVdsanhiRFJKdGJzemlkSFliMEtrdzRxZFFjSUpBYnYxS0tJWnEzQ3h6dEVyUHFMaXQzRGtZUHJaRS1lSUlN?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 11:44:17 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Germany says halting AI development not viable, calls for US, China involvement - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMUxwdHN5dDgxNEpDZFYzNVJtZFFrSHhmRkYweEpkUVd5N3BuY0UxQ0gtYkl4bGZIRWVQLUhlbG5PVE9vT0FBSlZBWFplM3RVLUhxbkoxaUtjcC1xdXdEam1IZHFPbUlDUVB5Y2VXNVRRX2tEY05sRDYtbVFlY0hycG9NRXgtZ2FGd1NIZ1dTekhYN3VwUE0yUkpDZHVYbmdvNXEwZDJkLW5KLUNDODBaZWU5VHk4OThNZi05MEVsN1RFMmJP?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 11:38:39 GMT",
+          "title": "Carney, locked in US trade war, pitches Canada to global investment titans - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZ3JPQXNDM2tRbmo0bHhxcE5yaHVkZ2txeVd5T2IzUFpYWkFYZTNsWmloNEUybWhxa3ZPVDdlZ0F0VnBnTmRzM09TekhtRHV3WGRQc0QwSmZuTy10R3BGbUdUc2dkOW5PRGpfRWdpblRtRHZYcnFHMy1HOGljNVFzcW8yOEY5VXg1d3BQY3d5ZWZJRU1JZEQtNTl2bW85NEhCckZpeWRPYlNrY09FckpjbA?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 17:25:35 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-14T13:52:18.656Z"
+      "updatedAt": "2026-09-14T19:09:33.665Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-14T13:52:18.819Z"
+      "updatedAt": "2026-09-14T19:09:33.787Z"
     }
   ]
 }
