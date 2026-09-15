@@ -1,64 +1,94 @@
 {
-  "generatedAt": "2026-09-15T17:35:29.070Z",
+  "generatedAt": "2026-09-15T21:06:09.527Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "Suspected sabotage causes major Netherlands rail disruption",
-          "link": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 15 Sep 2026 16:55:04 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says",
-          "link": "https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 15 Sep 2026 16:13:41 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Ed Sheeran says it was 'not my decision' to drop Macklemore from tour",
+          "title": "Support acts quit Ed Sheeran tour in support of Macklemore",
           "link": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 15 Sep 2026 16:01:54 GMT",
+          "pubDate": "Tue, 15 Sep 2026 20:57:30 GMT",
           "source": "BBC News"
         },
         {
           "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
           "link": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 15 Sep 2026 15:31:34 GMT",
+          "pubDate": "Tue, 15 Sep 2026 20:34:12 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Nigeria arrests alleged Mexican drug kingpin at international airport",
+          "link": "https://www.bbc.co.uk/news/articles/crq8j4k99w39o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 15 Sep 2026 18:49:45 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "South African president vows justice as more women's bodies found near Johannesburg",
+          "link": "https://www.bbc.co.uk/news/articles/crgqde1nex2vo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 15 Sep 2026 18:01:51 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Canada is a 'safe harbour' for global finance, Carney says",
+          "link": "https://www.bbc.co.uk/news/articles/cmq8jdgel128o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 15 Sep 2026 17:54:46 GMT",
           "source": "BBC News"
         },
         {
           "title": "British woman abducted in Malawi, police say",
           "link": "https://www.bbc.co.uk/news/articles/c60qx40xnkedo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 15 Sep 2026 15:03:27 GMT",
+          "pubDate": "Tue, 15 Sep 2026 17:44:45 GMT",
           "source": "BBC News"
         },
         {
-          "title": "Ash from Mount Etna grounds flights at Sicily airport",
-          "link": "https://www.bbc.co.uk/news/articles/cq5ym3rdmkzjo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 15 Sep 2026 14:35:04 GMT",
+          "title": "Warning of space arms race as US confirms weapons in Earth's orbit",
+          "link": "https://www.bbc.co.uk/news/videos/cmn07yjqg5rwo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 15 Sep 2026 17:35:02 GMT",
           "source": "BBC News"
         },
         {
-          "title": "What weapon could the US have put into space?",
-          "link": "https://www.bbc.co.uk/news/articles/cmy4zqgk97wlo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 15 Sep 2026 14:23:14 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Satellite image reveals major damage that shut crucial Saudi oil pipeline",
-          "link": "https://www.bbc.co.uk/news/articles/c65yw2gq2nrno?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 15 Sep 2026 14:21:14 GMT",
+          "title": "Suspected sabotage causes major Netherlands rail disruption",
+          "link": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 15 Sep 2026 16:55:04 GMT",
           "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-15T17:35:27.804Z"
+      "updatedAt": "2026-09-15T21:06:08.346Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "State of U.S. democracy reaches new low, report finds",
+          "link": "https://www.npr.org/2026/09/15/nx-s1-5969741/state-of-u-s-democracy-reaches-new-low-report-finds",
+          "pubDate": "Tue, 15 Sep 2026 14:57:42 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Family income rose and poverty fell in 2025 — but safety net cuts could erase gains",
+          "link": "https://www.npr.org/2026/09/15/nx-s1-5968648/census-poverty-income-health-insurance-report",
+          "pubDate": "Tue, 15 Sep 2026 14:29:49 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Judge blocks plan to return Trump's name to the Kennedy Center",
+          "link": "https://www.npr.org/2026/09/15/nx-s1-5969905/kennedy-center-trump-name",
+          "pubDate": "Tue, 15 Sep 2026 13:49:07 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Prosecutors won't seek the death penalty for Nick Reiner",
+          "link": "https://www.npr.org/2026/09/15/nx-s1-5969890/nick-reiner-rob-reiner-murder-charges-death-penalty",
+          "pubDate": "Tue, 15 Sep 2026 13:36:49 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Republican Rep. Massie moves to impeach Defense Secretary Hegseth over Iran war",
+          "link": "https://www.npr.org/2026/09/15/g-s1-143407/massie-impeach-hegseth-iran",
+          "pubDate": "Tue, 15 Sep 2026 13:35:14 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Tiny krill are turning up in deep-sea hydrothermal vents. Scientists want to know why",
           "link": "https://www.npr.org/2026/09/15/nx-s1-5968643/antarctic-krill-hydrothermal-vent-south-pole",
@@ -76,150 +106,120 @@
           "link": "https://www.npr.org/2026/09/15/g-s1-143294/up-first-newsletter-bernie-sanders-steve-bannon-ai-mail-in-ballots-kennedy-center-emmys",
           "pubDate": "Tue, 15 Sep 2026 07:35:49 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Air pollution spiked after the Trump administration stopped embassy monitoring",
-          "link": "https://www.npr.org/2026/09/15/nx-s1-5966503/air-pollution-spiked-after-the-trump-administration-stopped-embassy-monitoring",
-          "pubDate": "Tue, 15 Sep 2026 06:26:08 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "NATO jets shoot down a drone in Lithuanian airspace",
-          "link": "https://www.npr.org/2026/09/15/g-s1-143284/nato-jets-down-drone-in-lithuanian-airspace",
-          "pubDate": "Tue, 15 Sep 2026 05:06:30 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Get ready for yet another cost when buying a home: Junk fees",
-          "link": "https://www.npr.org/2026/09/15/nx-s1-5968763/housing-home-buying-junk-fees",
-          "pubDate": "Tue, 15 Sep 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "NASA rushed engineers out of their labs. They say it risks future space missions",
-          "link": "https://www.npr.org/2026/09/15/nx-s1-5964919/nasa-employee-relocations-equipment-impacts-missions",
-          "pubDate": "Tue, 15 Sep 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "This  bill could reshape crypto in America -- and it's sparking a major battle",
-          "link": "https://www.npr.org/2026/09/15/nx-s1-5968711/clarity-act-crypto-senate-vote",
-          "pubDate": "Tue, 15 Sep 2026 05:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-15T17:35:27.893Z"
+      "updatedAt": "2026-09-15T21:06:08.404Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Judge blocks Kennedy Center board from putting Trump's name on the building or grounds in any way - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTGZJbllUN3pmOEVmZFpoeG1ZQndmVWZXYkhwZGsxTkVRa295dG5jcm9pakR5d2lEbkxLZXVvYTNHODZYa09iQXdnNUFfam11SnZiRDlkN1BjdzYzSlpEWTJ1aEFsbkJNXzRpY2JXa2lqdzljc19SMDFQTXF5Qnh5RTJsYTRneFhfYVpGWkVONA?oc=5",
-          "pubDate": "Tue, 15 Sep 2026 16:36:00 GMT",
+          "title": "Kennedy Center will close for renovations after judge blocks returning Trump's name to building - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWEljNzZHRXBiT0xvOGtWcjJlUVg3WkJGVXRleUhVb0FQLXYzYi1vV2Jvb3ppaWJETk9EZ2FJNmJaamVWMEhIaGRKVXY3dGl2YXJOTUxfZ24taDRmRHhNSDd6R29UXzFqTnZFbEFmYTZjUFp0WGo0WVJGMGxHWnlUNTEwZHFuSzVsYTYyOVpEVV81N2dER0p0a1BwU3pIUVlTbmZ3?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 20:51:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Federal Reserve is expected to raise its benchmark rate, defying Trump’s demands - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcEg4dFhUa0hYYzZsdXJhRTVFZ09rQUl5ems3Z0JuTE8zdlZJb3Z4bC1QUjZ3d0MzZG1KazlSenRUT20wSGFCMm9ya3AzQjJQeFBVZXB1enM4SDd5akRpNmgwT3RuOXRhSWZvVDYtZ3BOdkx1OWVkWmRCd292c1ItVDVVcmZKV1VPMWtjSU9IVF8tWEpUYm1pRnJacE1JbE5DbHJLbQ?oc=5",
-          "pubDate": "Tue, 15 Sep 2026 16:32:00 GMT",
+          "title": "FBI chief Kash Patel defends hiring policy changes on prostitution, bestiality at fiery hearing - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNV1diM0piQ1BnZkF1dW9mM0w3ZnQ5eDBoV3BKLXFvLXA4Si1wT0pYLU91RDF1X2lEZ0JvcnZ1SzJLYXc4eVhhVUVSdE1jYjBvZktkQkRwd0FYUWxFRXFkMWtDaGthRjRQLUJzNnVFdTJGMlpHY2NjRzBiUDdTSGlUeE1EMnVjY2NTbkE3SG1MdnBPX3o5VG40?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 20:43:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Carney heads to Europe for high-stakes speech and deeper EU ties as Canada clashes with Trump - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWE1ROHI4c3BZTndaaTJZeDE5WnVkc0FPU0pNUUo1MldJRlNZbWhsVU51Y2NkMHM0bGM1OVVmYXFGb2w2Z1MzUnFZZVNETHdfYnN0UVM5aFJWWXdHWnZxYkJreUpScXB6ZFpmbTJ3MUJPbjYxZWJfdWowZVAxREktOUJmbHRHQ2NnM1JBekhpNG4wLWM?oc=5",
-          "pubDate": "Tue, 15 Sep 2026 16:24:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Prosecutors won’t pursue death penalty for Rob Reiner’s son Nick in killing of his parents - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQak1QUHVSeENKNGhfYkczM3VxSFcxQ043NURtWDJNX0hvRFlGQWtaSDl6b2FhR0c4c3VuVzF3aVFNNXRlbU1HQWhJLUdmaTBlZllscm5GRndCOFk2VTdpXzc1UG5UVjVxdERvbjFyQkREOXdOWUVtQlpncGFSaE1XQ29lMFZldkh1a0FSWkZvTEs2bzdMdjRlZkN3UU1CVkRBYlFiTFNhRQ?oc=5",
-          "pubDate": "Tue, 15 Sep 2026 16:03:00 GMT",
+          "title": "4 supporting acts quit Ed Sheeran's tour after Macklemore is dropped over pro-Palestinian comments - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOc0VZLU5QYjdHVUd4UW5OQUNTV1V3YlQ1YkMyTG1ldExKVktqcEtpX0JLbzk3bFVfdVpvTlI5UGhDMEstbWFOVlFZbVQ2WWgyaTR6THFob1NaLV91ZW1jZllqNmRvVzg2bmMxWFgzMlFZUTFtblFiYjR1UzNMbTJVX0NQY0F2dHBOYV95VlZ5ZDJKTWFrRVVEUmpTYw?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 20:16:00 GMT",
           "source": "AP News"
         },
         {
           "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Tue, 15 Sep 2026 15:26:41 GMT",
+          "pubDate": "Tue, 15 Sep 2026 19:23:37 GMT",
           "source": "AP News"
         },
         {
-          "title": "Houthi official says Saudi airstrikes leave 3 dead, and other Mideast developments - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNmhBTVJCOWN1MkF2Z1pLRDEybEtVcm5fbnRWVl9ERF9NQ1VqZnltZmp5dVU5RnFvbjV6TmxuMkFEb3FMTXBsay15VlRjVGxBVnpheHJjbE1qSnFqa1FNU2NRcnlNMHpkaDVxNTZwZGtqTVZFQXhOS0E4bnJyYW9tMVdLWFVNb09FdHgyRGNrMjNlRl9iSDEzVHNhTWZxN3JzVjVDOVQ3Znl2X1VWalE?oc=5",
-          "pubDate": "Tue, 15 Sep 2026 15:14:00 GMT",
+          "title": "Senate blocks cryptocurrency regulation as Democrats push back on Trump investments - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeXdoSFh5N1BoSHFEVHJRVUVnRXpXV1ZaMG1aMHJnT3lFczVCZHU1Y2tuclFOVWtQangxbVVXZEpLc3p3MWZYc2ROZnpiaFlvcFhkbGI5dzhrMG44UUF0bnQ5am1GXzFwVkJFeUo3Qm5kNGcwM05tbGdpVi15QUtHSW9vXy1uTjgyLWpjVEEtaTA3Uml3VGJ2R2xmbzhqWlExMHc?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 19:12:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "FBI chief Kash Patel defends loosening of employment standards on bestiality, prostitution - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNV1diM0piQ1BnZkF1dW9mM0w3ZnQ5eDBoV3BKLXFvLXA4Si1wT0pYLU91RDF1X2lEZ0JvcnZ1SzJLYXc4eVhhVUVSdE1jYjBvZktkQkRwd0FYUWxFRXFkMWtDaGthRjRQLUJzNnVFdTJGMlpHY2NjRzBiUDdTSGlUeE1EMnVjY2NTbkE3SG1MdnBPX3o5VG40?oc=5",
-          "pubDate": "Tue, 15 Sep 2026 15:14:00 GMT",
+          "title": "Nick Reiner avoids death penalty over his parents’ killings but still faces life in prison - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQak1QUHVSeENKNGhfYkczM3VxSFcxQ043NURtWDJNX0hvRFlGQWtaSDl6b2FhR0c4c3VuVzF3aVFNNXRlbU1HQWhJLUdmaTBlZllscm5GRndCOFk2VTdpXzc1UG5UVjVxdERvbjFyQkREOXdOWUVtQlpncGFSaE1XQ29lMFZldkh1a0FSWkZvTEs2bzdMdjRlZkN3UU1CVkRBYlFiTFNhRQ?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 19:03:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "NATO jets shoot down drone over Lithuania and Russian ship fires flares at Danish helicopter - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTG9fSlBNMF83anJ5cU1odGllV2JVS3BENUxkaTZrSlo5MF9HLW5KaTF0UWxnM2REYWRSX21NaklvVGMxVER2aTJBZ3BuRmNzdGg4STFTOVhpQ1VCMjMycUl0elRnaHlmSEJzRXFKSTljSDE2YWxzajZEY1dxdWUxalppNktfVXNfMFc5cGRaeTJOclVobDJFS3FuMzRQOGNyN3JTQXdDeFJOQQ?oc=5",
-          "pubDate": "Tue, 15 Sep 2026 14:51:00 GMT",
+          "title": "Iran war has cost the US more than $38B, budget office says - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSlVudVlJaVNXS1VsYmhrcERoX0RMS3hueWJDektSZXlfVW5YRUdUSm5HUS1WVElHUEc1SjgyOUhyQm5MSVpxOXFOVnFhUEVnZkdkenE0bDAtV29OS1lFNG5iZl9wTENjQUZkOURzeHV3LXRRejYySEZVM1pxcVI0WkcwTDIwTThK?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 18:57:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Trump slams the Supreme Court for rejecting his push to restrict mail ballots - AP News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQY0NGR0RicUtTb0ExUGROZVNyajF2eGh6cGhqTlF4bGVGa05SMGF4anloa0pwS3FxWHhIM1NwU1dFV1VneExKeHNhcGtQdDg5UkMtSm5sRkh2M0RVWG1HOURuRzd5d3VMaUYxSzhDLWxvVFV4UTlsODRRbTBhRE5kdU55ZU96Y3g3aDZtNHJIMnBXRUM0TWJubEVOSEZqZUE5?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 18:55:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-15T17:35:28.484Z"
+      "updatedAt": "2026-09-15T21:06:08.911Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Trump lashes out at Supreme Court justices after ballots ruling - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTldnMGVzZVl5ZGRaNW9EU2E2Z08tOUJVNEdqa05iSnNNNm54MFVHU0o4aUhZRUJjTDV1UENNN0dvaHQ2S09oX0RGb2lWYTlxNTBRaThsZ3pySW9SN2dBS0FZUm9pR181OUVwbEZ2TmVBY3g1bWwtN05FeFFZd0RjSGhBT2xHMndqVEJSX1NBTWRuQjFsWWhIdWxkaEFSM3NoUkdub3phWQ?oc=5",
-          "pubDate": "Tue, 15 Sep 2026 16:50:42 GMT",
+          "title": "Wall Street ends lower as oil spikes and the benchmark Treasury yield breaches 5% - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQM1BPdzlzdEkxaTg2MURwV0psdFNmbUZ0ZnZreDZEZkFfT0JXSGUxcU9lZ0JGc09LMkRZYTMxYVNwU2hVYjdfcnl1UzhnS0M5eHF1bVdwWFh2Rmp6SmlZMUo2MjlaODdFRHBBVGQ2OHVtcjBQVTFIekZjdkdKbkh5dVhTRUVtOEE1cjRwM21UVXNlV25LUzhiMFNEeWd4a3hGMExiczlZNC1pN2tpQmhPTFJn?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 20:34:42 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Saudi cancels some oil cargoes after pipeline hit, top buyer chasing alternatives - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSzFDc2FCc0FfZmtWMnByQ3RVclRnWXlXOUdlSWJlVFdrOUZ0VFU2MHMtZXFRck9JdXZqTUs1VTlNRGVYdk1CQnZmQVRhaEh6UzlDbmQxMlZrSGdQTnBidmVibG10MnhiVDhZMC03Mi01VWRZdnNvT1R6M2tzMlI2RTFVNzJLdy1LbWtGY1A3Vm5Ka3VKRUpRRzU3U1BZTHdTU0c0T0RiM0tINDFoWE84UFUtdFBqa2lUcE5v?oc=5",
-          "pubDate": "Tue, 15 Sep 2026 16:46:42 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Judge rejects adding Trump name to Kennedy Center as board weighs venue's future - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaDJyQ1NEc2ljdldCNFQ2NGlmZ1hKTWRGTG9UcldVaXRYUjR3QkgtQ0xNRUZ3eFJyZndkcDJVTkt2SGNQY2FONDlyRk1rbFBmOGZWSGZhS2RjZkhVSHRmcDJ3YTNidVZ5NmZsZkZna2VabEZDTXBFTFBLZVZkdkFVODI0M2JBbDd1ZFduZGNUdWMtUXAwdjRMTDUtWmNLb2lJMHkwZGlRd3Z1WmRkSjB3aUhvbUN0WG5xTkE?oc=5",
-          "pubDate": "Tue, 15 Sep 2026 16:37:13 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US orbital weapons acknowledgment a landmark moment, US Space Command official says - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMExKc2lMT2dKSTQtc04tcGJoQ2FCa2dTelRkelJzaHRJdG1yQ1Z5ZFhjb2hLZ2VSQ2pBSVdodDZvemtvUDV0d2NZY2NURW1kanJpWHhERWl6eTF0QWhxZ0F5MFZpOTlnUG80SENfQUN4YXlURmgwZzRjamR5VzdtMXdCZEJXMEVfLXRTdXVwODd0b21rNUNqYjhreFQtbGtjX3laOG1CYjEyaFhCZmdCT0ZLZERHbTctdkpUUFBWS3pKS0NNclM4MTlfYjVTeTNwWEFPYk1Rdl9IZw?oc=5",
-          "pubDate": "Tue, 15 Sep 2026 16:28:27 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Britain upgrades diplomatic relations with Venezuela - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPU2FCMnhvbWtJbVpjci16Z3V0OC1HVmJQNlhaQlZjaFYyb25sSEViUWJwZ0VaUW9PWTFHdncxelAtSHpLenU4YjFlQXJCb1FLNDMwYnZ0ZUNVRDZtbWx6R2oyZU5xMDB2RXc1em1JOTFwTHNHZEJtYi10RFh6bEUwODlXdktrUGV0SEFMdzZlNHpKNEdWQldjZzdxUkw2UQ?oc=5",
-          "pubDate": "Tue, 15 Sep 2026 16:24:29 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Global bond yields hit fresh highs, raising stakes for big borrowers - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeThNUUotQTJlelBLMUoySDNIZnR5dlBReWhadGo3VWF6YTBDMG9aYW5JREJhMG9OdXFmMC1OQ1F1VGs5bkxxeXAwY0gweVFkZmpkMHYxelhsbVAta1AyUEk0bEluNWc0UnVTQ0JIZVVuTS1oQVZQdjNqazFKREV2b2RRU3dQanl0N2JvY052QTVSczVVck1YZW1uY1RVem1iNDJzQ1FEbXZwc3UzamZmTA?oc=5",
-          "pubDate": "Tue, 15 Sep 2026 15:52:59 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US Senate to vote on advancing sweeping cryptocurrency bill - reuters.com",
+          "title": "US Senate fails to advance sweeping cryptocurrency bill in blow for industry - Reuters",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUUU1MGZBRTU0UUZMWkhzdWlzbVNvV2tSeFBVVnFSczhrM0VSdHd6cFhBRFY0UWxZcmxXZU81MGprbzBvUlFpV2E3TXUxSFExRXFxYnhXSkN0ZHVOb28tVmdKTm0xTGNlNWZLOWV3UGpKSFlnbTI5QnBuRmZKNnNsUF9KMXdHY2FMS3lhdU5vTUFsQVo0ZFUzV0ZoSGVZWmc?oc=5",
-          "pubDate": "Tue, 15 Sep 2026 15:41:43 GMT",
+          "pubDate": "Tue, 15 Sep 2026 20:26:44 GMT",
           "source": "Reuters"
         },
         {
-          "title": "India's UPI ends free era with fee on large merchant payments - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQY2tEdUtZclJBdVBxelU0S0UwRWc3NUtTaVpJRVM1UjY1a2VkYnI4c24wT3ppWmotaUNScndBNlUzVFp4d0JsMEszMHRWMnRQbDd0czJtVFRCcHFucjQ2b3Btd1pKTEJGb1dfMDZaLU1nTHNERDdpcWRJZXVfQkxRbjA5VlVmekZhNnNmOW5aemJsclRRVXlTYWFmQlY2RzlZaDA5RlZzQTg4RG1HMml6bEp3R01YRS1uSWVBbHZCUFByUQ?oc=5",
-          "pubDate": "Tue, 15 Sep 2026 15:24:21 GMT",
+          "title": "Libya NOC chief says production not greatly affected after protests hit oil facilities - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYXRYcW9RcHZ0dFhuVkt5NHc1QTFUOFd2RFNHck80emxPZ3ByeGx6OGdRcjJUSGxsbWpvcXNncENtZFY0ay1QNHQxVVRCMy1CQmdfTDBpTnJkUTRxdjFNV2ppemM4akNyVFF3VWxuRFdnR1lZbWgwMUhjZ0JwRUpMT0IwN1o2WHFrMG4xeVgyYXVBcTR3VWJHdGRLSGo3MEl3MkRSbGFLWEg2Y3liOEtLSmRHcTE5THdZUHAybG5ReVphMGRKRDdkblB3?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 20:14:41 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Kennedy Center board votes to close for renovations after judge blocks Trump's name from facade - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaDJyQ1NEc2ljdldCNFQ2NGlmZ1hKTWRGTG9UcldVaXRYUjR3QkgtQ0xNRUZ3eFJyZndkcDJVTkt2SGNQY2FONDlyRk1rbFBmOGZWSGZhS2RjZkhVSHRmcDJ3YTNidVZ5NmZsZkZna2VabEZDTXBFTFBLZVZkdkFVODI0M2JBbDd1ZFduZGNUdWMtUXAwdjRMTDUtWmNLb2lJMHkwZGlRd3Z1WmRkSjB3aUhvbUN0WG5xTkE?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 20:05:45 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Prosecutors rule out death penalty for son of slain filmmaker Rob Reiner - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOXpFZ08xTkRRUE9zNVRFRVZrVUhVRkdxU0JaOG1iYVByMDlqSGpmRDcybG9TX0lLeWVqaDJCRV9qODFjaGoyTmZldVBldmxScDc1TWt4STJSeGJUcUVSSVRLbmp0VkpDaURfQ3gwX0hsQV9qaUdTX3Y2M0ViZmFNYlRtdzJacG1HZFBxN1hwMkpGbVRGcno1V1JFVFlLSTBJNU5WaVN5UQ?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 20:01:02 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Trump lashes out at Supreme Court justices after ballots ruling - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTldnMGVzZVl5ZGRaNW9EU2E2Z08tOUJVNEdqa05iSnNNNm54MFVHU0o4aUhZRUJjTDV1UENNN0dvaHQ2S09oX0RGb2lWYTlxNTBRaThsZ3pySW9SN2dBS0FZUm9pR181OUVwbEZ2TmVBY3g1bWwtN05FeFFZd0RjSGhBT2xHMndqVEJSX1NBTWRuQjFsWWhIdWxkaEFSM3NoUkdub3phWQ?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 19:54:34 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Turkey jails 31 in LGBTQ+ crackdown, detains 126 protesters - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZnMzdkQ5WHZuc2tZVjhvcHJBbVl4RGJPNTRuelZFN3o4b0pLejJreV9zcDRFU3dDaTBOcVAyRTlzaF9FV3YxT3pvZXdPcWhCLTBiZk5TdzhPY3loZmRESm5ndC1BX2Y0dE9WMGtnVHFzc0hPbHZqT0ZKdDQ4d3Y4WmZxWFNlN2dEbTlMd2U0UmhYcUc5ZHpJbFI4bE82azd3bG0yZlJiYjg?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 19:44:19 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Congo police break up protests against proposed constitutional changes - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZVZUVlJSWTh3MlpWUHVaaEhPZkstMGFBalVlUUhjdjc4bWNsMTNuSV9qZHNhVTRRT2RkTnFLZWJzbGVxaWtKWmM5SjV4Z2x0M3dlUHFKR3VlSnlKT0M4dTNsU1A1VjRtUE1tUFpuTkFNNUljVVJBLVNDcW1maFlaallCVTRUal9nVThPcTFmOWNnaTVyRjE1bFJMeE4yQWZtWFZYX0hQYjJSYWpUNzE5bzFtNlhqRE1DNnZZ?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 19:37:44 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-15T17:35:28.968Z"
+      "updatedAt": "2026-09-15T21:06:09.444Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-15T17:35:29.070Z"
+      "updatedAt": "2026-09-15T21:06:09.527Z"
     }
   ]
 }
