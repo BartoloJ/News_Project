@@ -1,13 +1,49 @@
 {
-  "generatedAt": "2026-09-15T06:34:12.100Z",
+  "generatedAt": "2026-09-15T12:34:05.359Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
+          "title": "Suspected sabotage causes major Netherlands rail disruption",
+          "link": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 15 Sep 2026 12:32:30 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Supreme Court blocks Trump's plan to restrict mail-in ballots",
+          "link": "https://www.bbc.co.uk/news/articles/c5yjpdy4gjlo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 15 Sep 2026 11:49:33 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Denmark says Russian warship fired flares at military helicopter",
+          "link": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 15 Sep 2026 11:40:00 GMT",
+          "source": "BBC News"
+        },
+        {
           "title": "Nato jets down drone that entered Lithuanian airspace",
           "link": "https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 15 Sep 2026 06:29:17 GMT",
+          "pubDate": "Tue, 15 Sep 2026 09:07:35 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
+          "link": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 15 Sep 2026 08:49:31 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "US confirms for first time it has deployed space weapons",
+          "link": "https://www.bbc.co.uk/news/articles/ck790xg41ygro?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 15 Sep 2026 08:48:28 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "China tightens travel restrictions for citizens",
+          "link": "https://www.bbc.co.uk/news/articles/cqe8x6gkk250o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 15 Sep 2026 06:43:09 GMT",
           "source": "BBC News"
         },
         {
@@ -15,105 +51,99 @@
           "link": "https://www.bbc.co.uk/news/videos/c6j9xym8zjy3o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 15 Sep 2026 05:14:24 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Ukraine's postal workers deliver lifeline under Russian fire",
-          "link": "https://www.bbc.co.uk/news/articles/c33kmred368o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 15 Sep 2026 05:01:46 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Welsh actor Matthew Rhys makes Emmy Awards history with double win",
-          "link": "https://www.bbc.co.uk/news/articles/cqlykdx48xrpo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 15 Sep 2026 03:50:06 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
-          "link": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 15 Sep 2026 03:47:27 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "China tightens travel restrictions for citizens",
-          "link": "https://www.bbc.co.uk/news/articles/cqe8x6gkk250o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 15 Sep 2026 03:25:41 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "AI regulation faces political deadlock as calls grow for Congress to act",
-          "link": "https://www.bbc.co.uk/news/articles/ck20989806e9o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 15 Sep 2026 02:50:36 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "US confirms for first time it has deployed space weapons",
-          "link": "https://www.bbc.co.uk/news/articles/ck790xg41ygro?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 15 Sep 2026 01:52:02 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-15T06:34:10.705Z"
+      "updatedAt": "2026-09-15T12:34:03.712Z"
     },
     {
       "name": "NPR",
       "items": [
         {
-          "title": "Emmys 2026: Here's the list of winners",
-          "link": "https://www.npr.org/2026/09/14/nx-s1-5957565/emmys-2026-winners",
-          "pubDate": "Mon, 14 Sep 2026 19:55:49 -0400",
+          "title": "SCOTUS rejects Trump's mail voting limits. And, the Kennedy Center financial crisis",
+          "link": "https://www.npr.org/2026/09/15/g-s1-143294/up-first-newsletter-bernie-sanders-steve-bannon-ai-mail-in-ballots-kennedy-center-emmys",
+          "pubDate": "Tue, 15 Sep 2026 07:35:49 -0400",
           "source": "NPR"
         },
         {
-          "title": "The Supreme Court rejects Trump's mail voting restrictions for this year's midterms",
-          "link": "https://www.npr.org/2026/09/14/nx-s1-5962190/supreme-court-mail-in-voting-trump",
-          "pubDate": "Mon, 14 Sep 2026 19:38:40 -0400",
+          "title": "Air pollution spiked after the Trump administration stopped embassy monitoring",
+          "link": "https://www.npr.org/2026/09/15/nx-s1-5966503/air-pollution-spiked-after-the-trump-administration-stopped-embassy-monitoring",
+          "pubDate": "Tue, 15 Sep 2026 06:26:08 -0400",
           "source": "NPR"
         },
         {
-          "title": "Mitch McConnell returns to Senate after fall that led to an extended medical absence",
-          "link": "https://www.npr.org/2026/09/14/nx-s1-5968909/mitch-mcconnell-senate-return",
-          "pubDate": "Mon, 14 Sep 2026 18:36:33 -0400",
+          "title": "NATO jets down drone in Lithuanian airspace",
+          "link": "https://www.npr.org/2026/09/15/g-s1-143284/nato-jets-down-drone-in-lithuanian-airspace",
+          "pubDate": "Tue, 15 Sep 2026 05:06:30 -0400",
           "source": "NPR"
         },
         {
-          "title": "Federal agents may have broken state laws in voter fraud hunt, whistleblower claims",
-          "link": "https://www.npr.org/2026/09/14/nx-s1-5968892/dhs-whistleblower-voter-fraud",
-          "pubDate": "Mon, 14 Sep 2026 18:05:06 -0400",
+          "title": "Get ready for yet another cost when buying a home: Junk fees",
+          "link": "https://www.npr.org/2026/09/15/nx-s1-5968763/housing-home-buying-junk-fees",
+          "pubDate": "Tue, 15 Sep 2026 05:00:00 -0400",
           "source": "NPR"
         },
         {
-          "title": "Trump's EPA repeals pollution limits on fossil fuel power plants",
-          "link": "https://www.npr.org/2026/09/14/nx-s1-5968785/epa-repeals-pollution-limits-on-power-plants",
-          "pubDate": "Mon, 14 Sep 2026 16:34:28 -0400",
+          "title": "NASA rushed engineers out of their labs. They say it risks future space missions",
+          "link": "https://www.npr.org/2026/09/15/nx-s1-5964919/nasa-employee-relocations-equipment-impacts-missions",
+          "pubDate": "Tue, 15 Sep 2026 05:00:00 -0400",
           "source": "NPR"
         },
         {
-          "title": "Israel is 'dismantling Palestinian life' says Israeli human rights group",
-          "link": "https://www.npr.org/2026/09/14/nx-s1-5964897/israel-is-systematically-dismantling-palestinian-life-says-human-rights-group",
-          "pubDate": "Mon, 14 Sep 2026 16:34:20 -0400",
+          "title": "Bernie Sanders and Steve Bannon to share a stage to promote curbs on AI",
+          "link": "https://www.npr.org/2026/09/15/nx-s1-5968678/bernie-sanders-and-steve-bannon-to-share-a-stage-to-promote-curbs-on-ai",
+          "pubDate": "Tue, 15 Sep 2026 05:00:00 -0400",
           "source": "NPR"
         },
         {
-          "title": "10 years after taking a knee, Colin Kaepernick is still waging a 'Perilous Fight'",
-          "link": "https://www.npr.org/2026/09/14/nx-s1-5965828/colin-kaepernick-football-the-perilous-fight",
-          "pubDate": "Mon, 14 Sep 2026 14:45:21 -0400",
+          "title": "This  bill could reshape crypto in America -- and it's sparking a major battle",
+          "link": "https://www.npr.org/2026/09/15/nx-s1-5968711/clarity-act-crypto-senate-vote",
+          "pubDate": "Tue, 15 Sep 2026 05:00:00 -0400",
           "source": "NPR"
         },
         {
-          "title": "Kennedy Center says it's on the brink of bankruptcy, might close as early as Tuesday",
-          "link": "https://www.npr.org/2026/09/14/nx-s1-5968690/kennedy-center-financial-physical-state",
-          "pubDate": "Mon, 14 Sep 2026 14:25:04 -0400",
+          "title": "For thousands of Haitians in the U.S., end of protected status brings fear, grief and defiance",
+          "link": "https://www.npr.org/2026/09/15/nx-s1-5961154/for-thousands-of-haitians-in-the-u-s-end-of-protected-status-brings-fear-grief-and-defiance",
+          "pubDate": "Tue, 15 Sep 2026 05:00:00 -0400",
           "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-15T06:34:10.865Z"
+      "updatedAt": "2026-09-15T12:34:04.018Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "‘Widow’s Bay’ breaks Emmys record with 14 wins including best comedy series, 'Pitt' wins best drama - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQ2hDMVN1X1ppSUl5T2EtcDNuSWxQaWtBUjFLeVlCY0toTklUcXQwV1lqQ0g5V1hFVjNWWkxhQVhYV21YYjBUQUxOSW1rOHJUdFpKOWlReGdDM1pJQ0Jxa01ZdHRubEk0NTkwMnI0SnhKV25Wa00tV3hHbkFNM2lWSWFR?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 11:44:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "NATO jets down drone over Lithuania after alliance warns strikes will drive support for Ukraine - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTG9fSlBNMF83anJ5cU1odGllV2JVS3BENUxkaTZrSlo5MF9HLW5KaTF0UWxnM2REYWRSX21NaklvVGMxVER2aTJBZ3BuRmNzdGg4STFTOVhpQ1VCMjMycUl0elRnaHlmSEJzRXFKSTljSDE2YWxzajZEY1dxdWUxalppNktfVXNfMFc5cGRaeTJOclVobDJFS3FuMzRQOGNyN3JTQXdDeFJOQQ?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 11:42:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 10:20:08 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Suspected sabotage triggers a major Dutch rail outage during the morning rush hour - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQM1lmY1J6LUwzRVdITkttdl9JYW8yLTZIZExhZUEySG1sNkJpRmEzMmFmUU9qbjU3MGI5UTFtTFRzem16LU1UcXpZa1JRZFNZTzhqMzZRQXRhY3RHdTF0RmJyNGlOZ1otRllWbVpOMWs1Nl9qeXZnM0g1b2RuRm9oZFg1eTRLa3B1RzdEczM0M1pMd21TUlFvSTBCVUtVTE5vb3BN?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 08:48:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Supreme Court rejects Trump mail ballot restrictions ahead of midterms - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMXZkb09iUnM3WFdTT1BXbXB1OGw1ZUlBTV9jZld2eGZiVHBvVHAzMHpTYTlURjZCUEktNnRtUjJiSUp0ZzZ6UDVHU1lXV182ZFJtRnppc1ltY1RBX2ZJUHN3WnhmNl9XRXlMM3Jtal9CRXVsQWRRaDhTWFFUdXpRQ3ZzOVRvRFFFLTB4QUhsSGpJdFZuV0RYNFlySndacGZ5MFRZ?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 07:13:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Zelenskyy says Ukraine will pause strikes on Russia if Kremlin spares critical infrastructure - AP News",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMzZwZE9udlVENVNDT3VzamJfbVRIS2lDM2RzcVVVRlUzUkVOb19rNVhQRWRiTjJ1aDFtSkl3MlpGa0ZFTTJyTjg4UFBRZUVuSm9CelRON0dXWk53Mi1yblpLVkkxVzd5SERRRFlZV1VTTUROUHNKWVpaYWJUWU9ZLUc0R2xRdmNJWWxNU1NLMlpEMXExeEcyQ0tFQUZ0dw?oc=5",
@@ -121,105 +151,75 @@
           "source": "AP News"
         },
         {
-          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Tue, 15 Sep 2026 04:34:00 GMT",
+          "title": "Muslim region in southern Philippines holds first elections - AP News",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdVg1VV94cFVFWXpPYXpiWTlYaHhrYnh5b1RYUDR2SXpRTE5wNThrQlZYcUw1X0ozOGpySk5MaExtZE45Y0RVOGxBaDZtX0pHZnZTUk9fZHFmWjFRQkFMY0Z4c0FZUFE2RldPRUJlaTFhbEtCNC1JdEU5TnNjOTVVekNwVUx2cGo5QklnVnp4NWM5ZTIxZUhsb3RPSXZfQQ?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 05:36:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "‘Widow’s Bay’ breaks Emmys record with 14 wins including best comedy series, 'Pitt' wins best drama - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQ2hDMVN1X1ppSUl5T2EtcDNuSWxQaWtBUjFLeVlCY0toTklUcXQwV1lqQ0g5V1hFVjNWWkxhQVhYV21YYjBUQUxOSW1rOHJUdFpKOWlReGdDM1pJQ0Jxa01ZdHRubEk0NTkwMnI0SnhKV25Wa00tV3hHbkFNM2lWSWFR?oc=5",
+          "title": "A crisis is shaking Brazil’s Supreme Court. Here’s what to know - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSnhiNkVYX09MQWl5SmM2ZjBITllaOUUtdEFLRDlYZlkxREFDVk80RmI2eC0xSTFES2tMdkdadHdxNXRnSzBRR2daemNpbVY5REEzemU3TnoxYU5jel9QS1lBeUUyR1hnN0JLZ3lwQ0JZVXFBVzZUXzRXTDNHX2xVTkVFTlFKUlppcklEbHdwaDhkS3MzYlZTOUFxNA?oc=5",
           "pubDate": "Tue, 15 Sep 2026 04:30:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Walker runs all over Denver, Mahomes looks healthy as Chiefs beat up Broncos 31-10 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORGVWRWVLbGhTS2lQQzJYRVBYNDQwTWpxeF9fOTJYODU0SXBoamIwNUZfOUhudlE5eDhHOXc2QlpDZTZuWVJSNjZjLWZzcVZqeVlCdUhFTXFYZl9pMlJKblFBMTNqZHZBbFhoWk04QUQ1Z3lQLWZzYWJRbGpMc1RvTFRSSEZVckU?oc=5",
-          "pubDate": "Tue, 15 Sep 2026 04:25:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "NFL offenses provide one of the highest-scoring opening weeks in history - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbWhnYjJkNnVxSGJHM0ZBTkIwcklkdFYyN1lHZTlfVmxPXzQ4OWtVbnlvV1BYTUY2b2VpRjdRd0JlT01USDRwcENBMGJZNng1eTAweml3THdzdDZrOUFnVFlOeDYwRmNXZ016UnJEeWJOUk9Qa0RhNWx3TXFLZkpETW5UU1didVR6Z0pfRXhZU0x5M1BrUjMyNFFmNmJqUVk?oc=5",
-          "pubDate": "Tue, 15 Sep 2026 03:49:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Emmy Awards highlights: Mariska Hargitay sings, Taylor Swift jokes in a skit and 'Buffy' alum unite - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVWlsQTBYYkZkVnF5bF9FVUVMTG1iY1ZnV1VqQi1uTlBsSTFFWXdOaG9WYjEzdmxhdnhpbHJaLV9MYVJQVGhDemNHZ1YwU3pEcmcwNWxfUXdlLXdMUnFBd0wtWThFUFJ5MU9WbEdPd1BKQWp6V25OdGZWdFFGVG9LN0hLeGp3R1V6UzJpcEN2amk?oc=5",
-          "pubDate": "Tue, 15 Sep 2026 03:49:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Complete list of winners at the 2026 Primetime Emmy Awards - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPalkxQTRndWd3Tzh0THhjMXRvWmZmNE5fZUhLZl9GamdRbVc1U0QzakV4Q2pNNzU5WWswNFNoYXpKd3NVdEFrX092ZnNkalNKeXdjZ2NYVTN2aHFLaDc4MEZtem9hWXJFM25FRUxIRXdRLTcxNUEwdWtuNlFDeDg2bjVNOXN5S0pqdXlr?oc=5",
-          "pubDate": "Tue, 15 Sep 2026 03:44:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "McConnell returns to the Senate for the first time since his June hospitalization - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPR1E1RkR0MDJhRUZZeHRxeFNYTXlTRjhUbEVDZWNOelk2bVdZZHMyQTRuVExEM1NRLTB5NUZmRDJxZ1BHY2Vza3lqX3YwYTVaeUEzOFdNY2c4OU8teGhYeFF2VUV2MUJJS0d2WlJ2RFRHZWduSEVqNGllSEw2NWFFTGRJUDZBaVRzUW85TzV0TUE5Zjg?oc=5",
-          "pubDate": "Tue, 15 Sep 2026 03:21:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-15T06:34:11.297Z"
+      "updatedAt": "2026-09-15T12:34:04.585Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "All the styles from the Emmys blue carpet - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1iLXdvNXJqclI3M0xmUjdFSW9nTVN3UldWODRnNVE5d1IzMFFoakdEcEx4Ml9nRFhXS09aY2NwbFVHa2xDaER0UFhXaXhmSUFCakFpNU9QNzdJMFNGME1kRS15V1NHWEpNcnVZWnV1NV9qemlibnlCWWY2Mkg?oc=5",
-          "pubDate": "Tue, 15 Sep 2026 05:34:58 GMT",
+          "title": "Global bond yields hit 2008 highs, raising stakes for big borrowers - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeThNUUotQTJlelBLMUoySDNIZnR5dlBReWhadGo3VWF6YTBDMG9aYW5JREJhMG9OdXFmMC1OQ1F1VGs5bkxxeXAwY0gweVFkZmpkMHYxelhsbVAta1AyUEk0bEluNWc0UnVTQ0JIZVVuTS1oQVZQdjNqazFKREV2b2RRU3dQanl0N2JvY052QTVSczVVck1YZW1uY1RVem1iNDJzQ1FEbXZwc3UzamZmTA?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 11:47:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Morning Bid: Trump says hit that brake; no, not that one - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOWszOHhxYkNLWGFQTm5ta3VvRThobVlJYnIzekdWMC1raTFFbEoxSEdXMkFibnlJQkY1eUYtb0V1Wkdaak9IZ2RTWHdwLXFwQXVMUC02bm96VVZnbWk5bnJmaXpZb3lPdXVRY1ZIZVZHcUpnRWgwNk5BOEZLcjlqejdDOA?oc=5",
-          "pubDate": "Tue, 15 Sep 2026 04:38:11 GMT",
+          "title": "EXCLUSIVE: Indian consumer regulator escalates probe into Apple's software warranty terms - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeV9td1BqUmJJSFdwVDdma3pvNkZjOU00ZEUydXdzMjk3bWdEZjg1WHpqSUZCb0I1MzJYRGpNc3VvRXd1MTdtYUIwSlFEWDd4cjYtdk5RSTMzektucFYwV2hDY2tLQnJvZmw0YWRSOHZySlY4TC1ncjBZQnlhT3NvMXFOdU8wOFVSalNOcTlIZDJET2tJQ0ZTSzB5ZHFqMDZJTjVNQklsMWFnSlhUWlVKZzhCeWp3Mkt2R3JQZW9tR3lnQzlXelFRVWNEdHJEVlM0QWh0OA?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 11:42:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Oil climbs as Saudi pipeline outage, fresh attacks heighten supply concerns - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVGZNVlpqdGZqMGlsa1lSR2IyWU0tbmd2R1ZkY2o5VDNlb0VsMEdhbWlZVzJBLXJ0WU9MTm13WnN2R0M0Slg4TzFkb1VSYVRxQXE5ejQ5eTNRbGcxdUVSNTFKYlk2WmxYbkdPMTJIUEZJRVdBUmFKVHVCamlsUzB2NFJLbkNGbkJFSjR3TTlhNF9vT2g4MXk0MjlzOHhVaWNGX3U3RGlUS0JzekpCb0VBbU8zMGdUbFpIaGlCVHlwcEtoR0U?oc=5",
-          "pubDate": "Tue, 15 Sep 2026 04:25:54 GMT",
+          "title": "US Senate to vote on advancing landmark crypto bill - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUUU1MGZBRTU0UUZMWkhzdWlzbVNvV2tSeFBVVnFSczhrM0VSdHd6cFhBRFY0UWxZcmxXZU81MGprbzBvUlFpV2E3TXUxSFExRXFxYnhXSkN0ZHVOb28tVmdKTm0xTGNlNWZLOWV3UGpKSFlnbTI5QnBuRmZKNnNsUF9KMXdHY2FMS3lhdU5vTUFsQVo0ZFUzV0ZoSGVZWmc?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 11:26:14 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Governments worldwide are way behind on AI, says Bill Gates - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNnE4S3JkY1VydWx3RkhxYnhhWG12dFA4Yy1aZVBLVDB6cWdQYWtzckhvZWVHc053YVg2Q3pLR0hFOGFYeVBlMTdQSlR1R1o5OGxTZWp4cUw3OG0wWEtJbWE4V1d4djBvcE5jb3lCb3FqbGNNcjh1MjAzSE44YVdNRW85YnhQRWRnZ0ZIaU1tOGF5UlhNalg5TkNYSTRlRTVwVmw2UUh0LWwyVGVsNzFR?oc=5",
-          "pubDate": "Tue, 15 Sep 2026 04:05:00 GMT",
+          "title": "Kremlin welcomes Trump's idea of energy truce with Ukraine, calls for sanctions removal - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRUtpMWMtMTdEMzVkQTRQOFZCX3k5MVA0Vnc2bXh5ZlJxeE9NaHdGbkZzckxVakNiWDRQaF9sb2lMZ3luQ1NRWldaNm53RVdvTGpXUkdoclVzZ0dZX2hTZVFjRm1fT2M2MkRiLVBwbm56QlZWdFgxazhDU2lsNl85azRwbGdNcTZPMFdtazdRS0k0NEY3cV9mbFBkdjZFdjFfTzlIdzY3b3BUVWgxX3hmbzYxZ3U2STN6ZXNvSU54RnR3QmZRM1RjM25B?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 11:24:50 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Russia hits petrol station, warehouse facilities in Kyiv, mayor says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNXZWZkxjRTRuRlgyd3VCTEVHeE53UjBhdDB0NUtVdEdlSTdiSGhjQ1F1NHhhZDBhN3NYWWp1QmVzaS05Ukw1TS1xR3VWWWFqdnJUYzNnRzBaT285eGRGSHBVUnJOdDdQdjRoNEdhMGtMMUx4Y0c1YXpScWlzZ3NMRkhZV2NwazNJR0pleG43aTgzWlZuakU1U3Vpb1FmSTcxNENIQ0F0eUhjMzA4QUsta1Nn?oc=5",
-          "pubDate": "Tue, 15 Sep 2026 03:36:00 GMT",
+          "title": "Sabotage disrupts Dutch train services ahead of state opening of parliament - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOXU1WXNmWXJZWXg5d3JwSGUyZFpRM3U0YmNhSWpmMzJiZ2kwYUlFRjkySFp0RVhac1hWamFVS3V4MXNnUGZEdlk4T3REQV9RZVFvTVgxejhNRk13YlVUdXRyRTY0MWMwV1ZZTlFQeUpvelRINmJQSjZqeGp1eExEVk5wM2ptNm03NjhOUENQenNiV29BajhBVW1HSGphUHc?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 10:59:46 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Hormuz traffic dwindles after Middle East attacks intensify - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUTFPRnZDMlUxdmU3RmpseHVGS2laWk4tZU0ySUhOSUdDMGlfQ3loQTBQZktUdW96ck0yNlctUWxVV2NYSHpDclc2YnI4cVFISWZXbjdlM1BDSC1vejJmR2Qtc0NjTTlxLVpxRmZXck5nQU9US1JUalB2cTNZd1Z4Y1Q1QkVQUkEySXNqZUxYV1VWLV8wbVJYTU85X3U0bmk3SXFnNm1uMDQ4TkYwMjV3a3ItZw?oc=5",
-          "pubDate": "Tue, 15 Sep 2026 02:59:00 GMT",
+          "title": "UN sees some progress in Congo Ebola fight, but too early to call peak - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcl9WUGtRM3lWQzhKVWpHV2FjSVZkUXpFcUpxVGR6V3pzQjYyc2F3MG5yYlVMV2VKMG16U0MwWUVNNDhweFhNb0E2MDFRdEZyT3pPcXZXN0JjclR6YUxmZzRRWjlYZjBGVmpZUzAxN1IzdnRhZi02VlA4T3l1OWZiMFBJZzVIa3pJZVpsbW56SUZmTFM0TnNOWHlLOXpOMFFDY0gzQnRpWmxLWV9aengzY2ROSQ?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 10:58:23 GMT",
           "source": "Reuters"
         },
         {
-          "title": "China's new tech, national security exit rules take effect - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUU9BOGpkbUk0UVhJRjlsRVNXdUZtNUw4ZGR4RGxqWW94OEF1T184SWh4bmhCX2hMTmJCa2dNZGpsSWlSOEhwaUtrUlVpUm5Nd3g1blU1UkxOZkU3MDhYQ2MyRUVMR1EyMXdPbzVFLW5SQ2pKcktpMmpLcl9PcDIyXzdhMERQcjd5X3gzUjFPcEdvandGSlg2aXFLZnZEcTBOV3ZWNVNZMA?oc=5",
-          "pubDate": "Tue, 15 Sep 2026 02:43:00 GMT",
+          "title": "Amazon's AWS is unable to restore access to Bahrain, one UAE cloud data zone after war damage - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcGhFMHZVNGthdVl1bjYza3ZOWVpRY3ZMS1JmZkgxVnJTWGRhZFdFS3JfYk1nX2Y1Nzl3RlZDN21lWFA3b0xUU1E3UkdZR0hPQXNXdG5seEhsQ0hUR1gxVnZCWHFpTXdQdGhGQkFKTFd0cW80QUNBdnpXYzdOX25zZEJpN2lkOW1IWVlnc0RZNDk0cGgzSTlNYXFaMS1EcUJTM0ZUUjlhS0FLV0NrbGtsM3BKOVlFOWdFUi1sbGQtWmRqX3ZsODdPczRYRUw?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 10:47:44 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Indian shares ease as elevated oil, bond yields weigh - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPN2s4aTJpYklfMHNQSW1pWWtPcGhCajI1eGE1RU5RRm0yWTJvNmkzZ2VZQURjbVBnZHlOSVJJdG1BanlVc1FXV2tYNUpCMXVVZ2g5dlVxYjdaQlViZXk2c1pMVEx3WEc2bHhOMjl3a0hUcXBjX0FXUGVSV3FpM0E5Y2dkRkRZTGtxOU81djBYYVY4Y1NvUlFmdW9BVWViQQ?oc=5",
-          "pubDate": "Tue, 15 Sep 2026 02:35:00 GMT",
+          "title": "COMMENTARY: Morning Bid: \"The house\" visits the House - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVGlZc1ZDa0x5OV92eFFzNjU2ZEg1SHJTcjMtQ2ZmNGs4TkJqSVpaNTZLcjhEOGRibHNiTGprVENTXzVYaHczM25nbTFKWnRycHl0M3Z2ZXJ0RVloemdtR1B6RS0wNFdyeHVaeWw2aTZHY1Zzd2tIdnJWX3FQMVQ1bk0wTFlDX253QmVIX1ZRUnRyU1QtM2E4?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 10:40:13 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-15T06:34:11.695Z"
+      "updatedAt": "2026-09-15T12:34:05.122Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-15T06:34:12.100Z"
+      "updatedAt": "2026-09-15T12:34:05.359Z"
     }
   ]
 }
