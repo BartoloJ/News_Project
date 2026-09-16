@@ -1,9 +1,33 @@
 {
-  "generatedAt": "2026-09-16T14:19:39.727Z",
+  "generatedAt": "2026-09-16T18:21:09.760Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
+          "link": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 16 Sep 2026 17:16:47 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Photos show widespread damage at US sites from Iranian attacks",
+          "link": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 16 Sep 2026 16:33:56 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Charlie Kirk's family alleges 'stunning failures' by Utah officials led to his shooting",
+          "link": "https://www.bbc.co.uk/news/articles/cwzrz4xmknjgo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 16 Sep 2026 15:33:19 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Eight German state premiers back Merz amid speculation over future",
+          "link": "https://www.bbc.co.uk/news/articles/c6dj4nn0n97ro?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 16 Sep 2026 14:50:26 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "US limits visas for South African officials over alleged anti-white discrimination",
           "link": "https://www.bbc.co.uk/news/articles/cqy0z5y7wnp2o?at_medium=RSS&at_campaign=rss",
@@ -23,42 +47,48 @@
           "source": "BBC News"
         },
         {
-          "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
-          "link": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 16 Sep 2026 13:28:46 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "EU chief backs plan for Canada to become 'associate member'",
           "link": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 16 Sep 2026 12:36:51 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Philippines' Duterte seen in person at International Criminal Court for first time",
-          "link": "https://www.bbc.co.uk/news/articles/cq986j7x1nd3o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 16 Sep 2026 11:50:09 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Colombia and Brazil deadliest countries for environmental activists, report says",
-          "link": "https://www.bbc.co.uk/news/articles/c6kgxjl35822o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 16 Sep 2026 11:02:54 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "South African president vows justice as more women's bodies found near Johannesburg",
-          "link": "https://www.bbc.co.uk/news/articles/crgqde1nex2vo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 16 Sep 2026 10:44:02 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-16T14:19:38.626Z"
+      "updatedAt": "2026-09-16T18:21:08.410Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Congress is under pressure to act on AI — here's what that could look like",
+          "link": "https://www.npr.org/2026/09/16/nx-s1-5969933/congress-ai-regulation",
+          "pubDate": "Wed, 16 Sep 2026 13:32:44 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "DOJ charges Russian agents with plotting attacks, including in US",
+          "link": "https://www.npr.org/2026/09/16/g-s1-143590/us-justice-department-russian-operatives-attacks",
+          "pubDate": "Wed, 16 Sep 2026 13:19:49 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "A tumultuous congressional primary season closes with record departures and defeats",
+          "link": "https://www.npr.org/2026/09/16/nx-s1-5971264/congress-retirement-2026-house-senate-primary-defeat",
+          "pubDate": "Wed, 16 Sep 2026 13:05:41 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "How Jared Kushner is mixing U.S. diplomacy with his billion-dollar business",
+          "link": "https://www.npr.org/2026/09/16/nx-s1-5971125/how-jared-kushner-is-mixing-u-s-diplomacy-with-his-billion-dollar-business",
+          "pubDate": "Wed, 16 Sep 2026 12:14:19 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Mice with human brain cells offer a tool to study disease. Ethicists ask: What's next?",
+          "link": "https://www.npr.org/2026/09/16/nx-s1-5968873/lab-mouse-human-brain-cells-organoid-disease-ethics",
+          "pubDate": "Wed, 16 Sep 2026 11:00:16 -0400",
+          "source": "NPR"
+        },
         {
           "title": "How are rising prices affecting you? NPR wants to know",
           "link": "https://www.npr.org/2026/09/16/nx-s1-5969965/cost-of-living-expenses-prices-midterms",
@@ -76,150 +106,120 @@
           "link": "https://www.npr.org/2026/09/16/g-s1-143569/up-first-newsletter-fed-reserve-interest-rates-iran-war-kennedy-center-contraception",
           "pubDate": "Wed, 16 Sep 2026 07:19:46 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "EU's Ursula von der Leyen says she wants Canada to become an associate member",
-          "link": "https://www.npr.org/2026/09/16/nx-s1-5970985/canada-become-eu-associate-member",
-          "pubDate": "Wed, 16 Sep 2026 06:48:22 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Senators question Trump's picks for top health positions, including surgeon general",
-          "link": "https://www.npr.org/2026/09/16/nx-s1-5968780/trump-rfk-jr-health-nomination-surgeon-general",
-          "pubDate": "Wed, 16 Sep 2026 06:00:00 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Kosovo's ex-President Thaci convicted of war crimes, sentenced to 25 years in prison",
-          "link": "https://www.npr.org/2026/09/16/g-s1-143560/kosovo-former-president-war-crimes",
-          "pubDate": "Wed, 16 Sep 2026 05:57:03 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Saudi Arabia calls an attempted Mecca attack a 'red line' as Houthis deny they did it",
-          "link": "https://www.npr.org/2026/09/16/g-s1-143554/saudi-arabia-attempted-mecca-attack",
-          "pubDate": "Wed, 16 Sep 2026 05:04:27 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "As campaign season gears up, AI-generated ads are everywhere",
-          "link": "https://www.npr.org/2026/09/16/nx-s1-5953990/ai-political-ads-2026-midterms",
-          "pubDate": "Wed, 16 Sep 2026 05:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-16T14:19:38.698Z"
+      "updatedAt": "2026-09-16T18:21:08.722Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "The future of Germany’s leader is uncertain as his party faces 2 difficult regional elections - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUXhWWjJOV1pOZWZtek52bE05clJIRGU1Q1JJcGRyOEhjeFZFV2g3bEw1VW44TV9iWEtxYkJ0X0RLcUlhSUhmaC1NTzlabU5GamxEYzhGMWRVMGJMN1NUWkNSOWpFamJ4a2lNRVpjTUlNTUhVcTkxeUNic0QzM1lwelFDd1BGSzdLTVI1b0pLZ0h6VkJ4bGVzMHFVWDFDdmNoZmduYXlQdVVtZw?oc=5",
-          "pubDate": "Wed, 16 Sep 2026 13:11:00 GMT",
+          "title": "Federal Reserve hikes key rate for 1st time in 3 years, defying Trump demands for a cut - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVlB2TmNqY1dILUtfRTFBQ0JPSk53elRnU1QzdmhIQ3VvTWlkelRTd3haWHJ4bmxiY2ZOcGhvd09wMTllVkVLQzk5NkdKZzNPeHpaZTRHQ242Ynd2Q1ZIUU50cUp1N2JYd1lCQndZQlhMUTZFekFZWWNueUxNbmRiUHdBZ2dWbDgzNlhmejZneHptaFhGbDI1M0JPbk8zZw?oc=5",
+          "pubDate": "Wed, 16 Sep 2026 18:04:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "EU chief Ursula von der Leyen says she wants Canada to become the bloc's 1st associate member - AP News",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSWR4THFwSEZWZWEzV1RCLWh1bFZieGlkR0VGMmNKNm15RE8zMnI1YzlqQmFFYjhvWWU5UDJIWVFWOXU3RF9zZEFIUUZUWnRqQTJUQkRBdWx2NWl2c2pOS3hSYkw5aFlMUVhkSHNtdzA0ZE9reFd6RGVDQ1Z3QUN1cTFFREJFWnFsT2V2Skw4WDEyRFpHTzEyRWxsZjZOUQ?oc=5",
-          "pubDate": "Wed, 16 Sep 2026 12:53:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "A Hague court convicts Kosovo’s former President Thaci of war crimes and sentences him to 25 years - AP News",
+          "title": "A Hague court convicts Kosovo’s former President Thaci of war crimes and sentences him to 25 years - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcG5kUDZnVlhBR21QQ0hMeU41Rjc2d01aZDByenE0TzJiUmhwblNId1dHLU80U3ItSXcxSUVXSG1FZ2NOUmJWX3BaUUZnU0RLVHN3LWhhZ19PWXlRMGlvNzhNOUh4bkNUOGxkVE9wdWF5V2tkMjkxY3BkVF84LWdUbGRkclNJWWlXRkg2VkdzRjNtc1VM?oc=5",
-          "pubDate": "Wed, 16 Sep 2026 11:22:00 GMT",
+          "pubDate": "Wed, 16 Sep 2026 17:41:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Former Philippine President Rodrigo Duterte appears in court in The Hague - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTW5OVGkyaUJyQ3ZpODNKNU9ISGtEazRWS29fak1XdkdSbzJzQlVaU25uZThCQjVJV2xIS3BaOXFtZVQ0TFdFLWN6WHkzQ0RrMkRZa1gtUGZHRXA5cHZpb0JZM2xpeDVlalRzdGFHZHBwbGVJT2ZQemRmZXJIMkN6X29QTG9aREtzOVRrdElfb05jNUItbnJHc2kyNA?oc=5",
-          "pubDate": "Wed, 16 Sep 2026 11:03:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Wed, 16 Sep 2026 10:54:28 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "A gold mine collapse has killed at least 67 people in a remote area in Sudan - AP News",
+          "title": "Sudan gold mine collapse kills at least 82 people with many more missing - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUmE3YmJpVWNXOTVtQmJ0ak9CNVE1MkM1NWJJMF9USVh6RGJLUDZnZXpHNFg1ZmtfYnRTaU9qdExKRTRBMmk3VE9zSjlYbzVsa1VySTFZRTBJMzJhOTRUNXNOMlRnM0xXZHhzOF82VEVLWmlJRUxva29lVEpiN2tSX2wweWt4eDQ3MTRjYg?oc=5",
-          "pubDate": "Wed, 16 Sep 2026 10:29:00 GMT",
+          "pubDate": "Wed, 16 Sep 2026 17:24:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "EU chief proposes bloc-wide social media ban for kids under 13 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPX0ZKTkNJVWdFUGNSRFNpeUFDdDhzbWIyc00zc3RjZ0JCMUEwaFItN0J4eHBLSnE0UHJDd1BZVk9WQ29pV1dzamVEZ0JqOV9zblQycXdYN2Q4RmRXTVd4dVZYdVI3R3hLS3ZSWkVsMlVNUEpiZ1dFQVptWEg4MlpoYkxLeHRlSFpHSHFpSk1DUGJjRjlaeWhMeDRn?oc=5",
-          "pubDate": "Wed, 16 Sep 2026 10:23:00 GMT",
+          "title": "Saudi Arabia calls attempted attack on Mecca a 'red line' as Iran-backed Houthis deny they did it - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNkFPWXV5ejJIcnZYZEdJUHRDSVRIZk5Tbzd6SWlNSS1IOGc3MGVCMkNhdFZXU3RlcWxLa3ljMkt6M0hJWlpXSmlFQjU5cDV2S284bVN6ZXd3X2dEOWVhclRLVW5YT2tQRXFiMV96Q19HRDM1bGZhNzlJc0Rxak00eVVTRnN3SVU0aXY1Wm93QWtwN0dBdzU4V1RRZnlkczRva2NrYg?oc=5",
+          "pubDate": "Wed, 16 Sep 2026 17:18:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Charlie Kirk’s family says security failures by Utah officials led to his assassination - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUXRIc1oxV0o3dk1UeEs5U2ZBeFg3enVrYkt5bE1ocnlFQWdCVnlyclg5eFJmNHJjX1pvMHhHaHh4d1ZRUXFNWHRsR3hLeTZVM3JQODNLN083anhBLXljZHdOeVV5SnBkNjY5TGNYQU92cG5jT3V0ZHM3TzdmQ1RMMEY5RkR6dlJWTjJSZjZWTXlvOVBlT09sTDBtVnUzN2RueDZzUFQ5dENfQmJUcWJST3N6VlpYNGIwWXRB?oc=5",
-          "pubDate": "Wed, 16 Sep 2026 10:13:00 GMT",
+          "title": "Fencing goes up around the main Kennedy Center building after Trump-aligned board votes to close it - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObC10Q2xCdEtYZzZHVElOamk3X19QVGtfYi1LS3BlanhOT1hMWmJ2REZBZWtQYWlmaXFfRUF4ZzdzU3dDalFFbHpxZ3E4M1BLakRsT0dZWS1zRTFDRWdGbFlNZ0hlc0o4RTBEbHU1clpSYy1TLV82YmgxSTZ5eGRuaGJZVmRmQkh1eS1IMkNYaEotNDU4ZTZCR0ttQnVfQ1V1RkZ0YQ?oc=5",
+          "pubDate": "Wed, 16 Sep 2026 17:11:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Paralyzed A's minor leaguer Ryan Lasko leaves hospital more than two months after spinal-cord injury - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSUtCTmtaUDk1bDJTbFFFNW1SWDVZZ0VFMkQxdkxQRkM2Wlp1dDNCQWU2emRKd2VoUUlnS2Z6eDdlaTlNVmE0Tl9pcUktRHNkSTlCS29OTjBRZnd3NnhxbW9OR0FsQnhMNmNnWG9sOWZmUHlmN1pwWmZldXlSdnNYMkRWX21vb0FIcUgwSVctb2xLZm16TDhIbEZfTVZ0Zw?oc=5",
+          "pubDate": "Wed, 16 Sep 2026 15:53:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Trump administration has cut or frozen $177 billion in grants across every state, analysis shows - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcmNNbXJYYWRjUWZURkVwLUhrZ2FRVUZpaXJhc2syZjQ3N1Q3RVZBWXJLOGlqaHVmSFZ3OC1jV0kwQ004WVVVRy1Ha3FoOEZhcHJXVTdfeDgzNWJPQy1qUm0tRlRaU0tmVmZ1TlJVdWVXWDU0NUhzSTdiVTR5QmdyeE1CXzBfZjNpaEJ1OWpQeEtoc0NteTBlY0FSZkxCM2t2MXc?oc=5",
+          "pubDate": "Wed, 16 Sep 2026 15:40:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Building damaged by strikes collapses in Gaza, killing 21 as perilous living conditions persist - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQV3lqZkMxREp6UW9yYVJuODAxQW96LXRiejVPakNpNXFxc2ZTWmItNEVhQW5UeWdaWTNlN19QaVRqOXh5T1hETXp3cW0td3Q4QU96UEIwQjNuSjE4ZkZLcDVFQmxTMDZLVVlMWHlqSmFIWjdBeE5BbHdUNWtIMS1Nemd5NzRJeWVuTzFTM2ZMRmpfaVhLWDVXbA?oc=5",
+          "pubDate": "Wed, 16 Sep 2026 15:23:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-16T14:19:39.194Z"
+      "updatedAt": "2026-09-16T18:21:09.209Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Wall St opens higher ahead of much-anticipated Fed decision - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSUtqeWNnZEJZT0IyaHpTajZTM3hWV0gwZUV1VkhQV21PUzJBQ0kzLWhxTk5iWUtNbTI1eUVWQnN1b2Y4T2RQSnhmc1pDcVVWYldOc19HSzRId2pZMHZFWHZrNHhnMVh3VGd4RkRSdDJGZ2ZJSzd6TWhiWWtUd1lWRkxzcklsRmJhOS1TcEZYMkRTQjhmakMyVDFtQQ?oc=5",
-          "pubDate": "Wed, 16 Sep 2026 13:34:42 GMT",
+          "title": "Yemen offensive elevates enigmatic Houthi commander's standing - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNa0FZY0J4cFN1dGZjZEsxUXc5aVlrd2ZJdHF5LWtEcWU2bnJ6aFZ4X1I5WHhRQ3pfZUNfVzJUYlEzbW9lSTdINmtnVFYyUXNBZW5LcXlYQS0zVUNlTllVTUhkR29xaWFhZFlsSTgzU1p5Z3FTSzJtMEpka0lHS0VoZHltRXMxME40Zldtb0xOcWxEekxIOGN5WG5vV2I5NHpZbGd6X21kTzMzT3hnWjVLUDZFejNYeEgzcEJnRFFuQlN5UQ?oc=5",
+          "pubDate": "Wed, 16 Sep 2026 18:04:31 GMT",
           "source": "Reuters"
         },
         {
-          "title": "China's top diplomat urges Iran, US to show restraint, revive talks - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeURxZkdzcC1ZX3IxSWM5TTBLc3dZYXZrYlZhcXc4LXVDU3BKeEx5Y0xRWi04dUk3TE9LN0VGbjNLRlN6UXExckR0b1BZZGh6cEFiOEE0VlExSHh6Q29lcFlYX01ZaWlOT1E4Wl9aYnhORHRZcHFKZkJSWDZSd0NtOVhtMnU5dUpROW1aTkdYMVFWQmFIWUlZQ0dPVlhIZzU0dkktSXVzelAzU1BfR3c?oc=5",
-          "pubDate": "Wed, 16 Sep 2026 13:34:05 GMT",
+          "title": "India, Pakistan summon diplomats after naval collision - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQlYtUV9TbjBCNm1SdkF0c1R1R2F6WGdOSmhMRkNQaWVXWFNpODc1LUZTQ2xhTjRzTFo4dlBIZW11bmh4R09WUUduUHhhQmN5VTRHVG1HbW9OX0VPNDFwbExEMU1tS0VwYU9mMzRGUWpfdnR6bHVOMDVESVNXMUJRUEhHZExoaDkwZmpYa1hndnpQaFJYS1IwTkVyNzBzSkg1OUwzQTMzZVlBTExobUE?oc=5",
+          "pubDate": "Wed, 16 Sep 2026 17:40:58 GMT",
           "source": "Reuters"
         },
         {
-          "title": "EU's von der Leyen wants Canada to become bloc's first associate member - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdDFWcUdmR2RJTzZXM3ZMQ2ZqVTI4Z2JBVmRfUnpuZEk4c2lfbU5iY3hCaHdwcTFZd0JEdDBaREdQSWlhUTVaTUFvaUxabjRpTFVjTjJEcl95Y1cwb01hOWZOUGpoWTE1NnJfU1RPZ2Z3SlRZSkg1eGwyaU9kMTd3UkpQNF9KT1lKRm81c0dHNC1YbjFUWjgwdXZpX2FkR0lXQTUxWFVCS1FSY01aZF9jVl9Md3FXUGxhM3NsYmRB?oc=5",
-          "pubDate": "Wed, 16 Sep 2026 13:29:58 GMT",
+          "title": "Sweden's centre-left opposition wins election, SVT says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOU1dDeUQ3Vl9LOW9OMDd6MG1TWFhnQ0IweFk5X0oxZXlzSVBORlF2QWhJbGJRMDRrTjlTRTBvOExiSjFpRlpIMUdsM1gxa2otWTVfcGpMa0dHTWRZRnljdVZQM0hpMTM0TWJQNGlKbzRBVVhSRXlvd2R1SFROU2ZKNWttU3Z2cUo3UWo3V1BaZ3hiN3MxM3RCeU9rR1lZdnViT0I4S3VvV0xpQVB4RG1wakdR?oc=5",
+          "pubDate": "Wed, 16 Sep 2026 17:32:35 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Texas abortion ban caused pregnant woman's death, lawsuit claims - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRjE1eGdGRGxfNXZoUl9sV2pqa3A5RDhEc3Z5cW5yQlB4d29aVGQ1djZvMXdZXzY4N09kTVk1SjE3TDRjSV91LURxTGh2N3M3cWdUM1FDVzNKa09BU2xHTWkzU1J3OHB5YlZBTHMybzJMT3JTNHgwNkFxVlpkMkNncUhtU3Z0SUxvaEVWQXEtSXJfMERfOEZqN005ckN4NmFyallTRFk1R1p2NUlFSjh0SmdqRzlfdw?oc=5",
+          "pubDate": "Wed, 16 Sep 2026 17:23:21 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "EXCLUSIVE: OpenAI's rogue agents probed Hugging Face for weaknesses two months before major hack - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQS2RNOFJnNVFtSUxoYTBUczVlemRjdHUtYndvcEc0MEF5QTRiRWxSOTFXU1ZqLUFKSjU1QXN2Tnh1TEhWQ195M0dUSTM3WEN3eTVxUlRja2liZmNyYXlrZGpOY2FTMUVzMmxZWkxISHZ1RFVTNUhGdUl6R3o3Y284b0l1VXZyVU9CMlIwLXVRTzVwUG8zSG1lOG4yTFJTQm9mLUFKQWREU08zVFI0VDY3NGNJNEtfQTcwdUtSa0Y5aS1OdUZQZ2czWi1nWFVhdw?oc=5",
+          "pubDate": "Wed, 16 Sep 2026 17:02:32 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Italy's Meloni says she aims to remain in office until end of term - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTXlzbnAyMkMyaTV0WDgzMnFKV0ptODBhUWZmM1F2YnFGVU9Sa2pPRm5hRkpjM1F5c3VqQ0FoRHUzdGRJTU9XTkxvX3hTSjVzc2hFVmw5bFBWTXRjdzR1a1RnNURnTWJ0YmEtaGstcHpKaUU0akpCVnhYazNia1BKODJMMzMyMkstLXNCT3o3R3FQVF9WdzZuVzdDT1hmbk0?oc=5",
+          "pubDate": "Wed, 16 Sep 2026 16:48:13 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Italy's Meloni scraps road tax for most cars as election approaches - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPa2t6dWdxN3FocnRRQjRfY0REUlZhMm1NdWw1WnRSTmRrVzJVU09uMUFCeXQ2QnBtRkM5Uy13QTRUSXU1R0xRbVlKY25PODczeVlZd2Z5QW03NXRQNGVwOWlEUUFNSDFORXl5YlEyVElBT1lqX0llRVlVQzVlQXdzdmRpdVA5V2plUGhMeE1vVWVGaGJKdUE?oc=5",
+          "pubDate": "Wed, 16 Sep 2026 16:47:11 GMT",
           "source": "Reuters"
         },
         {
           "title": "Warsh's words may matter more than the anticipated Fed rate hike - Reuters",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd0VZMTZPMGRVWVVTY0lVRERxMHhQdlNnb2NBOHROMDJETXBLVmJFTW12SmFybUloWGRfYm1ueDhEZHJuOWNPQXh3RHpDVllhRVpSUVFVeDJmMGFNNTM2RTRqMkVFaXdwTmM1eG1UeVhqLXNuYW5LMjZGYUFCYUV0djFqUTUxRkF2Vk9NeTh5VU44bENZYi1kaTBnS1NuVngtX1dIeEVtaw?oc=5",
-          "pubDate": "Wed, 16 Sep 2026 13:24:20 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Ukrainian drone commander says his forces killed decorated Russian general - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPR2hzeXpBSUxBal9DaU82dDF0S1RVc3dYQ1dHODEzbm1IRzJCdlQtNXhMcURteGdjMzFrV2o4cTBkdE9sTC0yM1M3TjlFdkxjRzVLU2JRNDB0d0VTdC1DX2M2UzBJUDRSSmt2eXhjLXdrenVJNTRqRHBPWHdjR2ZuZTQ4aHhFTUVFRGRyckhqT1YzUHQ1TlA4WlgzMUtBUlNiNXJjT2RjRHM4ektlWG1UZUQwdTVTMnZTb3phLUlnWmo?oc=5",
-          "pubDate": "Wed, 16 Sep 2026 13:24:09 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Deep in Trump country, a revolt against corporate money could reshape political spending - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONm1zTi1iSndsdnl1UXVQem02SWpGN21qUWhiMFNuTGZNSUstZGVsUkNIbU5HNlVROVl1UEl1Q0xuNG9sdnRUaWRybWgxNU1jaWJWWk9SemQ3c21oMWlTbEZ0UWdCUDNTTk1EWTdQbW9kZ0JtbU9MTXJYS01QYXJIUS1nUFE2cFVzUkw0ZzRKaU15MTlUZ0pEVnZiSXJXM1VwVldSRk1rNUhSY04tWFNnZ2Jaa0JySmc0VVRua3YtZTVKT1Vj?oc=5",
-          "pubDate": "Wed, 16 Sep 2026 13:13:33 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "EXCLUSIVE: US envoy hopes Belarus will release hundreds more prisoners next month - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNakF5clFkUnhRWFc0OFJ6ZTQtU1pjTEhhNnpMc2VCSDZDanFuNjFwNkM1WVJXcERZNnJOUUZGdEprdmlsTE16SXdfVFhOWXhXQjBDRWV0RVBqQ3djbmh2elE0OEh4aUwwTVFYclFPbks4YWhUNVVXaUw1YVMwUkk5X3Bva2Yxd29VZXJJajQzRDRwRExrYTY4ZnZDTGhNYmF0MnYyOXQtT2l1eENXd2dtajdyTDI2N3lva2lualV5ZUg?oc=5",
-          "pubDate": "Wed, 16 Sep 2026 13:03:44 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US retail sales rebound sharply in August - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZVdndU5ZZ1lnT0pkMEZEVG4zTjdERHB1Z1Vwem1aUURBS3pxOUpDWXh3Tkd1NDFfWWp1eDJQNWdQanlhcHBJZTJJaWs3U1JXQTluNDV2dUp2QlFNZ1ZFU1Y5T295QXM1akRDdnM4UTBjR09XUjhYV0FUWUZCM3dldUJoTHloMWk1QlFzbjNxeWxRNktyOFVyb3AzYndmMGg1?oc=5",
-          "pubDate": "Wed, 16 Sep 2026 12:39:40 GMT",
+          "pubDate": "Wed, 16 Sep 2026 16:46:51 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-16T14:19:39.661Z"
+      "updatedAt": "2026-09-16T18:21:09.643Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-16T14:19:39.727Z"
+      "updatedAt": "2026-09-16T18:21:09.760Z"
     }
   ]
 }
