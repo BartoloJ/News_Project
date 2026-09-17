@@ -1,23 +1,47 @@
 {
-  "generatedAt": "2026-09-17T00:14:53.080Z",
+  "generatedAt": "2026-09-17T05:11:15.813Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "Snapchat 'willing to implement' daily time limits for teens, boss tells BBC",
-          "link": "https://www.bbc.co.uk/news/articles/cr3wjz3edd10o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 16 Sep 2026 23:41:57 GMT",
+          "title": "International students, 'visa hoppers' and backpackers targeted in Australia migration crackdown",
+          "link": "https://www.bbc.co.uk/news/articles/cm986j81ky55o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 17 Sep 2026 05:05:09 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Rosenberg: Russia's elections will have few surprises, but for the Kremlin they matter",
+          "link": "https://www.bbc.co.uk/news/articles/ck62m0r4r1y3o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 17 Sep 2026 05:00:36 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Assad regime planned US journalist's kidnap for weeks, BBC finds",
+          "link": "https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 17 Sep 2026 05:00:18 GMT",
           "source": "BBC News"
         },
         {
           "title": "US interest rates raised for first time in three years",
           "link": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 16 Sep 2026 22:16:51 GMT",
+          "pubDate": "Thu, 17 Sep 2026 00:40:17 GMT",
           "source": "BBC News"
         },
         {
-          "title": "Handbags, jewels, watches: Inside Singapore's dirty money auction",
+          "title": "EU chief backs plan for Canada to become 'associate member'",
+          "link": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 17 Sep 2026 00:32:05 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Snapchat open to putting time limits on teens, boss tells BBC",
+          "link": "https://www.bbc.co.uk/news/articles/cr3wjz3edd10o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 16 Sep 2026 23:41:57 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Inside Singapore's 'Fort Knox' for city's $2bn dirty money auction",
           "link": "https://www.bbc.co.uk/news/videos/cmew984dq92lo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 16 Sep 2026 22:13:36 GMT",
           "source": "BBC News"
@@ -27,34 +51,10 @@
           "link": "https://www.bbc.co.uk/news/videos/c9dr7e1lr265o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 16 Sep 2026 21:24:24 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "US House votes to hold billionaire Epstein associate Leon Black in contempt",
-          "link": "https://www.bbc.co.uk/news/articles/c62l8g8qlr0ko?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 16 Sep 2026 19:59:57 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Trump chief of staff Susie Wiles announces she's cancer-free",
-          "link": "https://www.bbc.co.uk/news/articles/c6j9xrx80ekro?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 16 Sep 2026 19:12:48 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Photos show widespread damage at US sites from Iranian attacks",
-          "link": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 16 Sep 2026 18:36:16 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
-          "link": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 16 Sep 2026 17:16:47 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-17T00:14:51.810Z"
+      "updatedAt": "2026-09-17T05:11:14.506Z"
     },
     {
       "name": "NPR",
@@ -96,7 +96,7 @@
           "source": "NPR"
         },
         {
-          "title": "EU rolls out red carpet to Canada to become its first 'associate member'",
+          "title": "EU offers Canada 'associate member' role; Trump calls it 'laughable'",
           "link": "https://www.npr.org/2026/09/16/nx-s1-5971043/eu-canada-carney-tariffs-trump",
           "pubDate": "Wed, 16 Sep 2026 16:08:27 -0400",
           "source": "NPR"
@@ -109,117 +109,117 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-17T00:14:51.909Z"
+      "updatedAt": "2026-09-17T05:11:14.740Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Federal Reserve hikes key rate for 1st time in 3 years, defying Trump demands for a cut - AP News",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVlB2TmNqY1dILUtfRTFBQ0JPSk53elRnU1QzdmhIQ3VvTWlkelRTd3haWHJ4bmxiY2ZOcGhvd09wMTllVkVLQzk5NkdKZzNPeHpaZTRHQ242Ynd2Q1ZIUU50cUp1N2JYd1lCQndZQlhMUTZFekFZWWNueUxNbmRiUHdBZ2dWbDgzNlhmejZneHptaFhGbDI1M0JPbk8zZw?oc=5",
-          "pubDate": "Wed, 16 Sep 2026 23:42:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "EU chief Ursula von der Leyen says she wants Canada to become the bloc's 1st associate member - AP News",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSWR4THFwSEZWZWEzV1RCLWh1bFZieGlkR0VGMmNKNm15RE8zMnI1YzlqQmFFYjhvWWU5UDJIWVFWOXU3RF9zZEFIUUZUWnRqQTJUQkRBdWx2NWl2c2pOS3hSYkw5aFlMUVhkSHNtdzA0ZE9reFd6RGVDQ1Z3QUN1cTFFREJFWnFsT2V2Skw4WDEyRFpHTzEyRWxsZjZOUQ?oc=5",
-          "pubDate": "Wed, 16 Sep 2026 23:21:00 GMT",
+          "pubDate": "Thu, 17 Sep 2026 01:55:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Wed, 16 Sep 2026 21:36:01 GMT",
+          "title": "Building damaged by strikes collapses in Gaza, killing 21 as perilous living conditions persist - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQV3lqZkMxREp6UW9yYVJuODAxQW96LXRiejVPakNpNXFxc2ZTWmItNEVhQW5UeWdaWTNlN19QaVRqOXh5T1hETXp3cW0td3Q4QU96UEIwQjNuSjE4ZkZLcDVFQmxTMDZLVVlMWHlqSmFIWjdBeE5BbHdUNWtIMS1Nemd5NzRJeWVuTzFTM2ZMRmpfaVhLWDVXbA?oc=5",
+          "pubDate": "Thu, 17 Sep 2026 01:50:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "US stocks slip after the Fed hikes interest rates and hints more increases may be on the way - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTW5lU3JQLXljZW5VaC1SY3Y4Y1IzVk9ncDBrUVFuZHFkZXRQSVQzTVI4Y0x0Z1NwazVzVkR5cmNxWkdPOXE0VGNTd1M1YWVwZVlNclRQOC1JMmdxWXZSVnpiYXpBNFExNlc5RGJfbldXNmlVY0RlTWdlSW1wc25HNHlTQjdfRjloQ3FEMnRMNWZPTGxpZnUzRGVLUWQ?oc=5",
-          "pubDate": "Wed, 16 Sep 2026 20:55:00 GMT",
+          "title": "Fencing goes up around the main Kennedy Center building after Trump-aligned board votes to close it - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObC10Q2xCdEtYZzZHVElOamk3X19QVGtfYi1LS3BlanhOT1hMWmJ2REZBZWtQYWlmaXFfRUF4ZzdzU3dDalFFbHpxZ3E4M1BLakRsT0dZWS1zRTFDRWdGbFlNZ0hlc0o4RTBEbHU1clpSYy1TLV82YmgxSTZ5eGRuaGJZVmRmQkh1eS1IMkNYaEotNDU4ZTZCR0ttQnVfQ1V1RkZ0YQ?oc=5",
+          "pubDate": "Thu, 17 Sep 2026 01:09:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Wed, 16 Sep 2026 20:51:06 GMT",
+          "title": "A Hague court convicts Kosovo’s former President Thaci of war crimes and sentences him to 25 years - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcG5kUDZnVlhBR21QQ0hMeU41Rjc2d01aZDByenE0TzJiUmhwblNId1dHLU80U3ItSXcxSUVXSG1FZ2NOUmJWX3BaUUZnU0RLVHN3LWhhZ19PWXlRMGlvNzhNOUh4bkNUOGxkVE9wdWF5V2tkMjkxY3BkVF84LWdUbGRkclNJWWlXRkg2VkdzRjNtc1VM?oc=5",
+          "pubDate": "Thu, 17 Sep 2026 00:54:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "US troops must prepare to fight around the moon, Trump’s top military adviser says - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZUtPSlhUMGRwX3RyZW5lbVpEUE52Q0lDVDJnM1NaZWlKTDY2dnZWRVZMdWpDbHk2STRNVzZLc0xiem9pcDdJVXRTaURhclRkWXNYak1WS1hVbTMyeVlKZG8ySFhCTENyVFloYkRPdHEtTEFTZU9kQU1IOGxwSENpZ1F2dmhGYzFFS1E3UzhobVBSZnlG?oc=5",
-          "pubDate": "Wed, 16 Sep 2026 20:42:00 GMT",
+          "title": "Speaker Johnson recesses the House early as Rep. Thomas Massie pushes Hegseth impeachment - AP News",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOT0ZnRDBfRTF4ZWMwT0J3U05MdzA5QUF5VTd2cHNaaU53dWd0MzBiN0Y2S3doRjh5QmFDV1ZXNml0Q2tyRVJLZDlKOHdDY0tDNVFZSkxxTWtleXdGb3B4LVpyZ2l5U2REWGQ0YzZaRndsZ3NLUHlFRTVXTFgtNmlGTjdQS2lwVld0ZmZTNFJ3NzB4MDNJU2ltTnZwMDdCbWp1VWZuX0F2LUFxWW50b2Y3OTdhZTZOQQ?oc=5",
+          "pubDate": "Thu, 17 Sep 2026 00:49:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "There's one issue where Republicans and Democrats are unified before the midterms, a new poll finds - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTXRuY2Jucy1oTW9YNF9ZaXEybXMtMENxZGQ3Y3ItU2JSTW5DNlJ5VzV4S0Fua2EzZ1dKLWtTS3JTQjdUaEozNGQ1U2E3cnpzSzllaE1oaVlIZW9rT1dMM1AtR2RyWFBqdjdWTk8tcmw4VVk1TmM3TUxYelV3bURteGwzX2tRSDFodC1kYURZeFVJaEFPbUV0QktQdUxDR2wteXo1NQ?oc=5",
-          "pubDate": "Wed, 16 Sep 2026 20:42:00 GMT",
+          "title": "Texas puts to death a man in killing of 3 during home robbery, the state’s fifth execution this year - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSW1fblRSVnk3aFRtRkkxYnRnbzJqbjZoaDN5OXNkcXprTmlEcmtrMkp3cDQza0NNQ1NCSmZRYUU2a1hqRjVkdjdfV2doYzZkbmpmQ1FmdDFNVnZYeV8tYlkwbEJQLTluVDFlQmxYNVZ1X0pLY3pacENtcGpVdl81czUxdVdRSHlLS1lMYUVUYkYtZzVWazFvNVhYakUzQ0hheFE?oc=5",
+          "pubDate": "Thu, 17 Sep 2026 00:29:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Saudis seek allies’ help as missile defenses run low in fight with Houthis, officials say - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNkFPWXV5ejJIcnZYZEdJUHRDSVRIZk5Tbzd6SWlNSS1IOGc3MGVCMkNhdFZXU3RlcWxLa3ljMkt6M0hJWlpXSmlFQjU5cDV2S284bVN6ZXd3X2dEOWVhclRLVW5YT2tQRXFiMV96Q19HRDM1bGZhNzlJc0Rxak00eVVTRnN3SVU0aXY1Wm93QWtwN0dBdzU4V1RRZnlkczRva2NrYg?oc=5",
-          "pubDate": "Wed, 16 Sep 2026 19:55:00 GMT",
+          "title": "What to know about Ed Sheeran's tour after Macklemore was cut and other artists dropped out - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOFdOUm9sRzQ1U1VOcW9vX0hWSHdudnp5NzNCa0t2T0lvb2RLeUVidVRhdEdYc1JPejhJeXhxWGE1QjcxbDVQS2EzOTR4R01xaC11V2IzWENQOVZVaWd1dUg3bm5tbWVwLVhhYVBWZThCZjB2N2JVaXFBc3oxbkFxVElIUVU1Q0tnQjNlYTVYcw?oc=5",
+          "pubDate": "Thu, 17 Sep 2026 00:19:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "The psychedelic pop artist Peter Max has died at 88, his son says - AP News",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRGtsNmJWMy0tNFBJWVUtUktydkdQblpxd0tHZEp1VW1tT1E3c21YRzkyd2dWWk15ZzNUMi1fVmhCQ1Vnc1RnM05XQkJkaHY3UUx6OHlod0N0SHl4ZlJPTWN0TXgzcGRaODBReFFMRkdDLWdRUWJqeTZ3Q2xrbU4yZ2VqR1A?oc=5",
+          "pubDate": "Thu, 17 Sep 2026 00:10:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-17T00:14:52.395Z"
+      "updatedAt": "2026-09-17T05:11:15.169Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "US officials met Iran-backed Houthis in Oman over the weekend, sources say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNVlvS0o5eGw3QnFsN1NoVTdWbElpWFhDLS14WFpCb0duUUJMYzVoS2VZSHpqQUxQWXVtN0VadTJHNnNhYlNCZmlhMDVJQVl3Y2pqTjQ2bmRuVEdDR3FKY0VGQ1Uxc1pwVzcteUNJSTB0Mm9wZHRIWUdTUmVLTUVsTEpYMFRmN21ENmtrbnZvTm9XZjZsOU5DN2JHWUYtdm5OcFJiUzJzZTVBeUJ3a3NmSEJROEFxekl5RGlMNw?oc=5",
-          "pubDate": "Wed, 16 Sep 2026 23:13:24 GMT",
+          "title": "Oil prices extend losses as fears of Middle East supply disruptions ease - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQem15UTRSMDAta3NrU2VpWTcxVllaeWVZT2wyc1gwQUs5aER1ZFFtaG8zNmI4UkZGV09BOHV6eGVHdy1RbTZWZXVkdklmSkVnMUtqbk9JZkdPb19FakhJc1RaUFRMUlNxR3F1VUx2TTZRcElaQk9ISmJsaWozRFNETDcxcjZxT0lJTm4zbV9CN1hETXB2SnYzQkhwZVpobENkRTBfYU5UbjZoUVhGXzZtM2xNUDFWdkJqUVE?oc=5",
+          "pubDate": "Thu, 17 Sep 2026 04:34:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Fed policymakers forecast one more rate hike this year - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQm5zRF9jbzFRTVF1RkwxbTBpNGJmeHhRR3RNZU9DMHk5c1pndDJveEhwd2RrZHhRMXBFMGV3cHR4OXlJZUJBdWtjRXhFVkUyYUpRd0F5QWs2Y1NtTllTQzJGdkM4UFBVSzRfa01FQjFuS1Ixc2E0NGJ6Q3Z3a2owYUowN21RM0QwWDBuQzJsZW13bVJzTkJqNGE5aklZWWwzbHBERGNBdWUxZE1BT1M4?oc=5",
-          "pubDate": "Wed, 16 Sep 2026 23:04:13 GMT",
+          "title": "China's Huawei sets 2027 launch for new AI chips as it targets Nvidia - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUUF2NV9DeFExYkFNQS1hQnZfTjFBY05sRjRmN3hMQkxoTmo0aEYtMnNyU3BnRUZPUzVtZGt6ZjE1ZWVsRldkWG1RMVUyaWpFWTg1Q3paeENVblNJUi1ITktZemVWRy1tbGc3OHd5QkFLT0Zya1UyOE13LW1XbTN4d002Zi1ReXJHRlZDNTZlUmh5cmFEcmhlNk9ET2JWZw?oc=5",
+          "pubDate": "Thu, 17 Sep 2026 02:40:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "US House passes Russia sanctions bill championed by late Senator Graham - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdGtKVXRwQXN1c3J1bnpHcXNvRzJEbE9DVEVqV3JOQWttNmNhbHR3ekdVNWhKY1VUSHVuUmZvLXJILXNXRWI1bWhpSnJNV1BqUGhESUl0dGFpUUJDVmtvTmZpeV9ZR3F3bUhJZGFfNllUdENsemJHd0xubFBzUy0yanFES0xxX0FPc1p4UHpNQnh6VU1NSmhwOHp1ZHdka0ItUGlKN0NlcE1Id2J1RjVpcUVZLVZlcFZ6bnd1R0FMVQ?oc=5",
-          "pubDate": "Wed, 16 Sep 2026 22:54:05 GMT",
+          "title": "Gold rises over 1% as investors digest Fed hike, oil rally stalls - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdmRrQzlscmZjQ08wVi1BSUZCTEU4d0xkdFpFelAzQURMS0VyS21Gb1VWUkV2OEIzRTVUWmJQTXkxRXJnTEltLXR6dWJiWW9UV1pzZWJQOEdJRGpkMnhXV0lIWUlHUEdHNVIzYmU2UTY3OHAwczNsVmpuRDNUVlpkeVl5emEtTlJoWFJrUnhWSUxFTkZqMGxSYUd5M05GVHA0bGZ6eWZ5YWpLWFMy?oc=5",
+          "pubDate": "Thu, 17 Sep 2026 02:27:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Fed raises rates in search of 'timelier' drop in inflation, sees more tightening ahead - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd0VZMTZPMGRVWVVTY0lVRERxMHhQdlNnb2NBOHROMDJETXBLVmJFTW12SmFybUloWGRfYm1ueDhEZHJuOWNPQXh3RHpDVllhRVpSUVFVeDJmMGFNNTM2RTRqMkVFaXdwTmM1eG1UeVhqLXNuYW5LMjZGYUFCYUV0djFqUTUxRkF2Vk9NeTh5VU44bENZYi1kaTBnS1NuVngtX1dIeEVtaw?oc=5",
-          "pubDate": "Wed, 16 Sep 2026 22:38:52 GMT",
+          "title": "Fiji declares HIV a national crisis as diagnoses surge - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcHhCOVBrYllORUh3bzdIS243Nk1WTFU1OEhjaFBlSmx4cTI3dGk0TDFMRHllZkdXcDlZZnkxUHo4S3lkbkVtRzNQUms1R1Y1Y2dBN3dpazRUOWN1aFM4dHJUVjNNT3dYRDZoSkVac083WXVKcGM4WC1MRHJYYnZoenN5WE9qSWd1NjdTYnFuZjhOWjA5SmpNSHdkWG1QX3ZJRGNvX1VOYkRNR2pQS3g5eFJrdkR3ZEx1eElnM05n?oc=5",
+          "pubDate": "Thu, 17 Sep 2026 02:15:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "US firm Heeney Capital to operate Venezuela gold mine, Continental seeks to enter oil project - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQX0Q2S2JRT3llcENjREtGM2t4eDlYa0VxdUEwT0Z0TTlSUjdadWdSZnNEUlRYWGI3M3hOZ0xXYU9xZEZqVjV1VFo1amtXVVZnejhnazk0TXpyUlY3QTlaeGFSRmd1Z0dXOVBsc2I2SV85aW9oejlMWjA1OFF5Vk1sbGRLRV92TlVLV3NuaGhWanVlbVBMQTdQUXNGd0RBWU5zRG9tV2RUMlpzb2ZZSG1idWl2ZHlCclVyVTdtYQ?oc=5",
-          "pubDate": "Wed, 16 Sep 2026 22:30:27 GMT",
+          "title": "Hawkish Fed lifts dollar to seven-week high as focus turn to BOJ - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTVZNWlJSb0NGaG9WNmRjR0U4YUM2anpuRFREdGRvRmRaRUhwbzVIb2JndlpsZ2g4a1hvbkdZWEl2YUV6WWRjYThBSGt2VGlzak44MmVyWkFPeTJfdlBreG1ERkhYbjVEaTVlLXpwOW9SeDRvbzZIYVJLTUdWcWc1Y2RFTFVPelhoaWNqWVpNd1YxWTR2ZWxaX2U5dzQwUUxNWWFyQXB5U2d4UFJTMXM4?oc=5",
+          "pubDate": "Thu, 17 Sep 2026 02:08:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "EXCLUSIVE: OpenAI's rogue agents probed Hugging Face for weaknesses two months before major hack - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQS2RNOFJnNVFtSUxoYTBUczVlemRjdHUtYndvcEc0MEF5QTRiRWxSOTFXU1ZqLUFKSjU1QXN2Tnh1TEhWQ195M0dUSTM3WEN3eTVxUlRja2liZmNyYXlrZGpOY2FTMUVzMmxZWkxISHZ1RFVTNUhGdUl6R3o3Y284b0l1VXZyVU9CMlIwLXVRTzVwUG8zSG1lOG4yTFJTQm9mLUFKQWREU08zVFI0VDY3NGNJNEtfQTcwdUtSa0Y5aS1OdUZQZ2czWi1nWFVhdw?oc=5",
-          "pubDate": "Wed, 16 Sep 2026 22:25:54 GMT",
+          "title": "Shares tick higher as Fed hikes rates, dollar jumps with short-term yields - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUnBManB6Nl9tbnMzaXhPbHh4RmJVX0xWNmdaeENoNW50NGxxanVfMHFMaWVENklmQ09OSzdDVnFtSFhiXzJ0YTE5RVgzSHYtekRVZHU2QXE0LVNWeS1nalgyNldtV3l1X3FUc3NudktmOWZJVVZORXFNbWloZzlOZkdRWQ?oc=5",
+          "pubDate": "Thu, 17 Sep 2026 02:05:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Banks provide $22 billion chip loan to Blackstone, Alphabet AI cloud venture, source says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQVBYUDM0azJaTVZjVHAzbUtkOVBWLWpZYnptZFZ4S0x0dHpkS1lXVFM2SnJtX0F0Ull5OXdJUkdiNXdUZTNQamM0S3NoeFRxdTdFVmFWWi00cVJ6YXQxTDFTQlBmc0FsS3l5SHJ5VnZpOVplcllLVk04dy1YS2cwUDdMWEY5RzZWN3JTU2luOXJ4NUt3NzkyREJSUVlMSFJBcFpMcHprUjVsM2J3WGg1NUI5NjZrZDBHUGZiNnJGZUtvZThlTk9jWmRSaVZpUQ?oc=5",
-          "pubDate": "Wed, 16 Sep 2026 22:02:53 GMT",
+          "title": "North Korea says US-led arms buildup justifies expanding nuclear force - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNU0zRU9hZ181OVZyTUp5OFNoY2NmUGlmZ2o0dGhXU3dKSG5oeC0wU1dpSEY3OHZtTkVDODNBUEhkcUl5XzVyWUlGNnlHdkV6VXBDSHV4QW8wbC0tZkxJV2xuS21QVjFmaGd6OHNhV0xhVTZTZHBmakdvTWQ1UjZpVXNqRGU4Z1ZtM3A4aHcyR25DTnNnOFgxZk94RjEybGVtQ1M0N20wamNYUFBHWnlNOTJCNU9QdDJQbndtcDkzbkVzQWhITjYtUW1TQkVQN2lYcnJR?oc=5",
+          "pubDate": "Thu, 17 Sep 2026 01:34:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Epstein survivors sue his estate over child pornography collection - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPc19iWTE4NTkxV1lTWDFXb3AyZm5WeTdNTWhpMDEzcEpFMUdyN2NqQlhfZ1U5TXZBOS13dXd4dUlnUjh3TGxjeDE2SVJrUnJjREc1bDFTbWVZZ1k0c1E0TmlRR0RjQkphcUFCbzVWNllxMDFzd1BsS0pLR0FVSml3Zng2NGhTYW5vWTBrTU9jUFhSTERnX2FFYXhrUEY2RzJELXRMNWZXVnJtZEtRZm03aVhjT2NsSEFzNE5j?oc=5",
-          "pubDate": "Wed, 16 Sep 2026 22:00:39 GMT",
+          "title": "Goldman Sachs sees October Fed hike after hawkish signal - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNnA4bVp0ZlNGeVVZRGJvNmIwcVdmSHN3N1I1WlpaYldOaDdGUEoxUkxJNjd3ZkFkNkxhN09iR0RJbzU0VnQxdHdqUHhhVHRsZ3B4cnl0dHE5VHh1WHFBbjRFNnhpQ2NtRjlNQXRtUUVHN0w3azFuS2VxMEJ1NHB3SG5MVWl0NzVDcGNNVmlwYXJsMzZoNWpr?oc=5",
+          "pubDate": "Thu, 17 Sep 2026 01:26:00 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-17T00:14:52.972Z"
+      "updatedAt": "2026-09-17T05:11:15.601Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-17T00:14:53.080Z"
+      "updatedAt": "2026-09-17T05:11:15.813Z"
     }
   ]
 }
