@@ -1,25 +1,43 @@
 {
-  "generatedAt": "2026-09-18T10:56:58.983Z",
+  "generatedAt": "2026-09-18T14:54:25.840Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "At least 16 killed in attack on mosque in Pakistan",
-          "link": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 18 Sep 2026 10:39:31 GMT",
+          "title": "Russian hybrid attacks against Europe intensifying, says Macron",
+          "link": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 18 Sep 2026 14:42:01 GMT",
           "source": "BBC News"
         },
         {
           "title": "Dozens of suspected illegal miners die in Nigerian custody",
           "link": "https://www.bbc.co.uk/news/articles/cw980qp2n3p4o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 18 Sep 2026 10:35:59 GMT",
+          "pubDate": "Fri, 18 Sep 2026 13:17:16 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Police begin operation to move migrants from Ceuta beaches",
+          "link": "https://www.bbc.co.uk/news/articles/c6vgy80ge1z7o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 18 Sep 2026 11:59:42 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Lindsay Clancy holdout juror says he had no doubt she deliberately killed her children",
+          "link": "https://www.bbc.co.uk/news/articles/c54g7jdmw032o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 18 Sep 2026 11:49:46 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "At least 16 killed after vehicle loaded with explosives rams into Pakistan mosque",
+          "link": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 18 Sep 2026 11:39:11 GMT",
           "source": "BBC News"
         },
         {
           "title": "Three dead and eight injured in Philippines school shooting",
           "link": "https://www.bbc.co.uk/news/articles/c6x2z4dlzyr0o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 18 Sep 2026 10:04:43 GMT",
+          "pubDate": "Fri, 18 Sep 2026 11:01:46 GMT",
           "source": "BBC News"
         },
         {
@@ -33,32 +51,32 @@
           "link": "https://www.bbc.co.uk/news/articles/c3x2zrn01pxko?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 18 Sep 2026 01:31:43 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Canadians dream of Europe as Carney floats longshot plan for living and working in EU",
-          "link": "https://www.bbc.co.uk/news/articles/cx980qj57r89o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 18 Sep 2026 01:23:10 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Zara Larsson criticises White House for using her song in deportation video",
-          "link": "https://www.bbc.co.uk/news/articles/cqr7d3l0y2zpo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 18 Sep 2026 01:20:33 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "This Olympic river has 500 crocodiles in it - but that's not the main concern",
-          "link": "https://www.bbc.co.uk/news/articles/c68xkypqyxw7o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 17 Sep 2026 23:29:17 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-18T10:56:57.687Z"
+      "updatedAt": "2026-09-18T14:54:24.573Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Judge says Trump can't demolish Kennedy Center. And, lawsuits target voter intimidation",
+          "link": "https://www.npr.org/2026/09/18/g-s1-143913/up-first-newsletter-kennedy-center-trump-voter-intimidation-lawsuit-poland-russia-ukraine",
+          "pubDate": "Fri, 18 Sep 2026 07:09:24 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Ms. Rachel has entered her album era, and she is so happy about it",
+          "link": "https://www.npr.org/2026/09/18/nx-s1-5938847/ms-rachel-mr-aron-new-album-im-so-happy",
+          "pubDate": "Fri, 18 Sep 2026 07:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Warren Buffett steps down as Berkshire Hathaway chairman",
+          "link": "https://www.npr.org/2026/09/18/nx-s1-5973852/warren-buffett-steps-down",
+          "pubDate": "Fri, 18 Sep 2026 06:58:49 -0400",
+          "source": "NPR"
+        },
         {
           "title": "South Africa 'feels like a prison' for women amid spate of femicides",
           "link": "https://www.npr.org/2026/09/18/nx-s1-5973822/south-africa-feels-like-a-prison-for-women-amid-spate-of-femicides",
@@ -72,20 +90,8 @@
           "source": "NPR"
         },
         {
-          "title": "A DHS email raises new questions about the Trump administration's election plans",
-          "link": "https://www.npr.org/2026/09/18/nx-s1-5973278/dhs-noncitizen-voting-english-language",
-          "pubDate": "Fri, 18 Sep 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
           "title": "Could trees developed with gene-editing technology protect Florida's citrus industry?",
           "link": "https://www.npr.org/2026/09/18/nx-s1-5966501/trees-gene-editing-florida-citrus-industry",
-          "pubDate": "Fri, 18 Sep 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Google is helping write AI chatbot safety laws — while pushing for loopholes",
-          "link": "https://www.npr.org/2026/09/18/nx-s1-5968878/ai-chatbots-safety-regulation-google",
           "pubDate": "Fri, 18 Sep 2026 05:00:00 -0400",
           "source": "NPR"
         },
@@ -96,40 +102,52 @@
           "source": "NPR"
         },
         {
-          "title": "Morning news brief",
-          "link": "https://www.npr.org/2026/09/18/nx-s1-5966388/morning-news-brief",
-          "pubDate": "Fri, 18 Sep 2026 04:46:02 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Couple shares how chance encounter brought them together after meeting online",
-          "link": "https://www.npr.org/2026/09/18/nx-s1-5971450/couple-shares-how-chance-encounter-brought-them-together-after-meeting-online",
-          "pubDate": "Fri, 18 Sep 2026 04:44:14 -0400",
+          "title": "A DHS email raises new questions about the Trump administration's election plans",
+          "link": "https://www.npr.org/2026/09/18/nx-s1-5973278/dhs-noncitizen-voting-english-language",
+          "pubDate": "Fri, 18 Sep 2026 05:00:00 -0400",
           "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-18T10:56:57.896Z"
+      "updatedAt": "2026-09-18T14:54:24.671Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "Early voting begins in US midterm elections that could flip control of Congress - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOc2VsMHJiektCOFpBYUVsRFBRYVlMamd4NVJkSlcyaEN4RkxxcE43a05zVkhhSS1YNGZraE1OVXY2Q0loUERISzVsRmRrd2tyZ2dLalhVRGpSMm5LN1c3TjlFbHpQYXU4Y3I1QXFPNkUxZHBwM1g4N3ZsMm0weEcxT2plQVQyNFZibVJQWHRZU1lQWGRz?oc=5",
+          "pubDate": "Fri, 18 Sep 2026 14:02:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Warren Buffett steps down as Berkshire Hathaway chairman, a post he has held since 1970 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcjE2N1ZNUEE5THNqMG5XQ2QxdlZVRlpqM29zWW9LUHJhXzNfWnRvbXBpd1NqVHVMQ2x2ZGQtTWNTNUFLcG9idkpzZnYyOXRmTDc0Ml9sa2dUWGRHYkprbHE5RXBGdW9yMnJNcjVISFR3NklQRU5pU3lZWE5qZjE4MTdWY0xBX2hJNUgyeHlURQ?oc=5",
+          "pubDate": "Fri, 18 Sep 2026 12:45:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Russians begin 3 days of voting in a parliamentary election set to cement the Kremlin's power - AP News",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYUFqYVVGeUo1RkFUYXVSZVNtWU5wU0ViN1c3eE90aEJ4dHduTjRhazI0VWpscUJzTXUwQkNzVzl0UC0xMnlVa0c3azRCTmtqbFc3bldOWjQxOWxkbDFMaTUxb1AyTVFRMm9wVGoxcFZ1RVJhSDYxX0FLYzFNNVF6VHY1NkR2WF82QmozeGFXaFh2cjdHSWJaY0tub3lybVJ4c1FfME41ZUdoSUFCeHc?oc=5",
-          "pubDate": "Fri, 18 Sep 2026 09:52:00 GMT",
+          "pubDate": "Fri, 18 Sep 2026 12:38:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Japan’s central bank raises benchmark interest rate to 1.25%, the highest in 31 years - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMFZVMzlCMTR3aWVFV2pMdW9NZHp0bFJqYnZDSHhOZVNFWlp4TFl0dHZRclFCd2V0UXY3UHptV2tzX3hRQTB5M2hYMkVMSFJOTDNSaHFmcTE3azZpbnhyMmU5bWl5Yl9RMmRKVXE3UGlQUXVmeUtwNURteENVOUxseGR0blp5bTdCM2d3Y0o5d0otd1BKZ25mZERvU05WWXc?oc=5",
-          "pubDate": "Fri, 18 Sep 2026 09:02:30 GMT",
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Fri, 18 Sep 2026 12:15:59 GMT",
           "source": "AP News"
         },
         {
-          "title": "Asian shares finish higher, cheered by easing oil prices, but European benchmarks are slipping - AP News",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOblR6c3AydHhyUC1oMVNJUWpVT0YwN2FJUHU0RF96U1JrNm5Xdk0zMmpuNjgycjBKMXBQR2JMWmtXRFo0ZVRhNFBHWWUwbXFWOFVQa3JQZUxMYlUxdDVqZ0hkQ09STUd2MDRxQnB2NE5BWnpwbkVxR1phMzRpZldUVlZJUFpOV3VOQ0hadDhtY1c2VVhlcy1YT0xCaWJ5UQ?oc=5",
-          "pubDate": "Fri, 18 Sep 2026 08:51:00 GMT",
+          "title": "Preparing to leave office, with world beset by problems, UN chief talks of a way forward - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWkVKM2xCRFdoak9Qbi1EMTQzeWhzNnMtaEd1bEMtbXpZZ3R5MjFTVmZad0J4dHdQXzBGZzF1Y3VKVTZvU096a0xfY0pzZEdfVUo1eWNmT3BxbkRwUTBOYmNNc1VHSWk0M2EzVzktYjFyLS0xZFVJZDBJZGl5NEwzamFsZmJRT0p5WXhZbGswWXlwWk1pZ3JMcHVtd3lOd3J2UVdDNUJoTVJzUQ?oc=5",
+          "pubDate": "Fri, 18 Sep 2026 11:08:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Shark kills swimmer off Western Australian city beach - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdkxKYUxna1gtVndZLTZjbE95U0g3MUhra0VMQXVpNmFndG15VkFXWUtEWnEzZ1c5T0RfSDdObjRVYzZnekZWWEhleDcxREp3SWFuSlFXWFlKeGZvUlMxY3kyUnp6TEdIT0NqcF9kemxVWHJ2MG8xRzJJUW9uMWgteERoN1FSakdINEE4UHkyUDVnZzVyc051bDB4cmE5ZjBvNS15OHFn?oc=5",
+          "pubDate": "Fri, 18 Sep 2026 10:21:00 GMT",
           "source": "AP News"
         },
         {
@@ -139,87 +157,69 @@
           "source": "AP News"
         },
         {
-          "title": "Centenarians living in Japan exceed 100,000 for the first time - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcFR3cy1GWllpc19xemxPbjFpTnhwd21YQ3V2c1Y1LUhVYl9SYTlvVzBHSHRWZHhMS3gtS0wxY3hpR1kyNVF1d1FNSjZVLUEtYnNKeUtKZ0xyNkg5SXJMNXppdi1Qd3luMVBtY3BSMFdGNFpxVDMxV1h6bWtaT2RYSlp1N0Y3aG5nOUJ4RWtoSm9TMV9scnpmcFJPUG84OEpOWWNRUEMtZVgzU21iSTdv?oc=5",
-          "pubDate": "Fri, 18 Sep 2026 06:31:42 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Fri, 18 Sep 2026 06:03:29 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Preparing to leave office, with world beset by problems, UN chief talks of a way forward - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWkVKM2xCRFdoak9Qbi1EMTQzeWhzNnMtaEd1bEMtbXpZZ3R5MjFTVmZad0J4dHdQXzBGZzF1Y3VKVTZvU096a0xfY0pzZEdfVUo1eWNmT3BxbkRwUTBOYmNNc1VHSWk0M2EzVzktYjFyLS0xZFVJZDBJZGl5NEwzamFsZmJRT0p5WXhZbGswWXlwWk1pZ3JMcHVtd3lOd3J2UVdDNUJoTVJzUQ?oc=5",
-          "pubDate": "Fri, 18 Sep 2026 02:50:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Virginia's attorney general says DHS may have violated state election law after whistleblower report - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZlBFRjIzVTNNR056S3dBck45UTFwS0ZxMEZtcEYxMG9BM0c4dE0yRVI2NHpqWWlHb2p2b2VVMVlscmR1YTZsWTVMdGRDS2dKeWNobktYaC1YNzNfQjgtT0tLTE5CQV9zc1BHM1ctRllxYUtRYktXcDQtN0xkZFNIQ1lPeDN0cjZqbllNWUhuZ1Uyb280U2JVbURDQnlsUnBYUkxJQjRsSnJTS09YMGl3bFhKbEdtVjYtek93UXR2ZlJNZw?oc=5",
-          "pubDate": "Fri, 18 Sep 2026 02:14:00 GMT",
+          "title": "They're not playing our song! North Korean anthem played at South Korean field hockey match - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORHNhOVpWTlRRQzVCbS1PZ0o0d1F5TU1OZGRydTBIU3FtWXhZYXhSTlhaMkVFa2NXQjZ1d2U4R0RnbkxOV1l3eFhFN2E2SGRyZmhNVWhDdkFDZ1o4d2tsS1NYVzE4dF83aV9TdlZPclVXLW5sdks4WGx2Q0RybW8wWHBONzlKR3Y1YTRVaTB3aXlUaHdL?oc=5",
+          "pubDate": "Fri, 18 Sep 2026 08:12:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-18T10:56:58.379Z"
+      "updatedAt": "2026-09-18T14:54:25.110Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "EXCLUSIVE: Anthropic quietly sets up biology lab as it ramps AI drug program - Reuters",
+          "title": "Tata's quiet man is staying amid 'all-out war' at Indian conglomerate - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQncxbDVMX2R3Yzhsbmk5dG1LeUFMR1Z5aklVTHFXTmFMNzllb1FPTjNFdTFwUjM3a0txY0Q3Nzljdjh3djMxeHVpWTlWWmkwN0ZuRG1yOXlqNWo0cEI1LUxMNGxhV1BiVE9Ed21aZjdhTDN2NERud2Q3WFFNYUx0amRKWmlfNnE4dmh0NFkzLW5CcVpGUURYVkNfUWhZNFRjLUlCb1FfQ0Foa1ZzTDNjWVJYWkdtQmhkQ1lj?oc=5",
+          "pubDate": "Fri, 18 Sep 2026 13:50:56 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Explainer: What we know about Russia's move to take control of Nestle, Auchan assets - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPU3dMRjFnaENKQVpUa0QzSWF0Z090LTdKZ1ZqMnpINTVxazFWaW9jZXVUaVlUeHBvcTFHUHdPTHYwTmxvcTNyR2ZLUG1fM0JlNktBZ0ZGN29UM1hlbUU3V01VQUJ1R0M1RENXckxnSWNyc3V1c2ZndkF2XzVoMmZ2VW9vUlNZNVhlTWd2RFc2UUZYVF8zYVR3UEtYbWZLbFl0eWJ6b2xtOTZ3WjVOYlRXckFkQmtId1VfN2wxQlk2Q3E0RXpS?oc=5",
+          "pubDate": "Fri, 18 Sep 2026 13:47:51 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Gold climbs to one-week high, heads for weekly gain on easing oil prices - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaEtrczJxeXh5VlUxY1VWWF9xVVdYX0xwZjU4UGlCU19tTV91TzlFdzVyeXJWS0JmNjBVVHo2VVVSa1FwN1RWODJXbko1MkxmQnlwVEZ6eHV5cV9RRno1VHl3Si1OZU51bEgtSV9SeUNOaERzMjdmQ0wwelFVR3lPTWhXV3VlamQwU09XZkFsTlRTb0cyQ0VaaThBWWxIRUwtOFAw?oc=5",
+          "pubDate": "Fri, 18 Sep 2026 13:40:27 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "S&P 500, Nasdaq open higher as oil prices fall - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZ2p6dkpCd0xfbVRBMnhySFRVbm5OSElMZXRXc0NpaGhoRmw2MzNfSUstaC1RVFFnUU1DNUM0MEpHTmxhbHJxOC1Ec2lMWU0xMFVaSVdsZGdVSi1JaWpDX093SHhBdlBkdFdGZnFpd05yYW9LRXk2NkdOMnRWSzJ2dkhuTFpDN01LM1JvNjhyamFZM2dLRFRzM24xSUZwRGVBakhwM3N3em1ycFBuWVg2UVB2OTQ?oc=5",
+          "pubDate": "Fri, 18 Sep 2026 13:37:44 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US envoy raps Czech Republic for lagging on defence spending - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSjRra2p4Mll1WENLMEpndmdmTk40Qm51OE8zN3VVdkUtS19fWmhfQXpWamJFZ2R6QTV4QzNlT0xPZnJqTzBlUzdJV2tlX0dUTGJ3UnZ2WUNYYkpjdHFlSUlYNDNrVC1SbkZROTBQbXdVckdrSWd3dWp4RlF2MHFXOHF4WHBkQWs0aTAxWVAtLTU4NkxNbUtUUEVkQQ?oc=5",
+          "pubDate": "Fri, 18 Sep 2026 13:33:42 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Mbappe leaves Nike, signs with On as it forays into soccer - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVEplMVM4YWswdDhOamVlXzZYS0d5dzFaVUZNSHJxdHE4cTd5c2s1Yjc0N2pkVkU5N0hhV2N4TGxFa0FiV3RHQUdVMG15NUFsRjFwRV9qSFFPcmtOVGpfM3ZkS2ZyUHJnMG8waHJ1NW9Qb0FNeDJXSDU5dnNRMURFcG1CazM3Y0FZZS1YVkowcllmZHdXRkFGNElsc2NoaDd2emc?oc=5",
+          "pubDate": "Fri, 18 Sep 2026 13:26:10 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Warren Buffett steps down as Berkshire chairman, son Howard succeeds - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVGNSTzVqLUNZQjdoWnZWMENFaUo1cGNMSkNwVC1DNVdYVUNFWnNIVV9MR2VKUllvTDcyaXVuSXdYT1hKZkdRbWZRTFJacFoyV0VNcXpQZWJ5dDZyUFY3OGdnQi0xVklKcGJOUllOSDNwakh5Ym02c29OUjd1VUFqam90TDhzM0hOdkR3WFREWUFzNHl6N0ljbDg3LWVEOUdnajdVdnVuQkNJbmV6akZUby15U2hwd0JSQnc?oc=5",
+          "pubDate": "Fri, 18 Sep 2026 13:08:09 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "EXCLUSIVE: Anthropic quietly sets up biology lab as it ramps AI drug program - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMnNocmF2MC1saXA1bW95QU5PcXUyNHZrZUdaZUFKNXVnYk1Yejg4UTlqa242RmJGMnBlZ1pkeC1KdERaazR1TGtSTHkwMFFLNTZQa3VBdHJzcWlWR0hldTYtVm5RQ3hQZDE2LXFfZ3gzeHVqQ3pNR1pEUmpHbnpUMlB1UkYtTHpfeURTVU9Kb082R3ZrbnA1VVZmcEJlcnZBUlEySmtkUQ?oc=5",
-          "pubDate": "Fri, 18 Sep 2026 10:09:18 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Protests erupt in Nigeria after 37 miners die in custody of paramilitary agency - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLTh5Ym5aOW4taU85VGpHcGlsV0p2N1FzUEo4bm1IZFZzaDAyNlA5aDh3NjZKek9uYVlhRHdRd2VVOGprSEZucjBvMmNIdjFfMHFZTGQwT3VXMVBTVTUxRHZXam9qSHVEeGZ0Uk9IbkJxWExLb3RpUXMxd1F0OWI1ZzhUNlF6eGFoZWI5UFV4bkZlU2w5MDBjdGV0Y0MzNUN3Q3JMT1Y3SG1tRFhSUVpHSGRIUFFoX205eUE4?oc=5",
-          "pubDate": "Fri, 18 Sep 2026 09:34:35 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "India finds Nestle baby food sample substandard, takes legal action - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbVY5c0JVeURVNG9wbm95eDNFT2p5Y3BUT1VOakJkbnVZRjJyM3RXTlZrazJCRWYxMkh5X0FORUlBRTMyQURrSjh6d2NtUVZhalR2T2hHVDdGWUkzZnBvUUhjSHZTdzRzQ1ByM2R5eVNvMmRaY1Njem9uemlBWENfb2oycTBXSjE1QjlkRU5yT1o0Si1qaTVlaXVFclJaTnJrcmhrWHN1a3RiZnc?oc=5",
-          "pubDate": "Fri, 18 Sep 2026 09:11:40 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Toyota estimates factory automation could cost $6.4 billion per year from 2028 - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPc0Y2aEI5NHpNZ2pXUTl4VmhvZUVoekVCUW5lNFR2RW90RXFLWGRPTTRGdUtBZFFTQTFreWgycll1MFBCTTA3UWliMHVJNGVVZ0xRRmlGLTJILWl6dk92cUMwUnJ1cU5YSE5lMmdJanFxVlVYVlplT3ZBVzEzR2tNLVVOSUFwcXA3YjdqWXZhcWN0NmluUERISko0ZEJnNzdkdHg1LXdJT2lRQi1lZXlGY2p3SXBZM21ZLXNvMk9idzlBYUFUa3RBN0VYd3VtRTZjampF?oc=5",
-          "pubDate": "Fri, 18 Sep 2026 08:03:31 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US pharmacy chain Walgreens plans tech centre in India's Chennai, expected to create 250 jobs - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNaHNHeG8yc0JoWS1sajBFbEl0bENKODdBRzVHMWdKdmZVQXRyZHZMdFZnQjN0bE83U2tZNHJ6TG11VTJuOTdjRnFJMFVURVJ4cDc1OHAzT25xa0FQNF9LX0RSQWFlUUJpMXZudVNhMkNUOHpjZ3Z6Wm9KSkxySTdzMDg4Vk9tZGUza0FEQUpGNlhXWXdQdllNNm9fUWUzSUV0aGxSc1J2ZjY2M1NsT250QVpyeUpmT2xrSC1mV0czMGVqOGpwYXBaREVudy1lbFNzTngyM3RXbjRBeXBVeFhTb2FfQnVDV1k?oc=5",
-          "pubDate": "Fri, 18 Sep 2026 07:55:54 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "BYD, CATL, Xiaomi executives may join Xi's US visit, sources say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWWVORmo3eC1SRjlfVnVWMWw5aXlPb01wMk5vSlI2NU1ZenFHdHRRXzhQQTJ2T2RhQkV4QlZQOGc0ajRhLXctMDNaRWZfaEk4bmhzSG9kdXpKcmR2NGI5M2Z1Wnl5alNjUnA0Ym1ZSlhxMU51alhzcGdaUS1fV3FZT1FDb1MxYlJtUWU5VnZ2S0FNU25WRzRlLWtlMlBCaEZVRHhZN0NqdzNGUUxKdTJIOVNmUFhMNlg0SC1sOW12eFNfakFl?oc=5",
-          "pubDate": "Fri, 18 Sep 2026 07:26:58 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "One killed, four injured in Philippines school shooting, provincial governor says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOb1FVZlFWOGJET1lKMlJiaHg5QnpEaE1rMWFMdVlqN005Wk1FdUt6TV82MEVfbUItZThtQmN5OGsxeG5MLTRPYno2eG5yUmlNTEZYMFpPRE5JUWViZmJfNXFzWDZ6MURHd2l2cTB0eFZGQlhhcE1hNG5seDhLU2RhNzYxbnV1aVA1dnhWNGtiQzZjTnV6ZXhpY2l4UzFtRG42T1FOZ1JJQTU1dFE3cE80NkRvRFo1b2swX0c4STBhU1B5YkkxMWxZWVlPTQ?oc=5",
-          "pubDate": "Fri, 18 Sep 2026 07:15:04 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Three students killed in Philippine school shooting, including gunman, officials say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWHZVaG9hVl9JY1dIVnlHWFplOFhfSnBJZVUyMkVKVkJzUklwNkRQY0tuODJFdUoyZy1QbHZmcjZEWlNhNXhlVS1YSmp3MklOWFBGVWRJX1BrdzZtdmdOaXVNemQ5aXFsVDFGd2dDM1lZNzI0NnEwWlFsN1BoNkw1cEJkOVlELUdnWEdtbG5ad3V5QWNjc0pIQ0RsMG1GVHVaVllBdy1UTjFlUmx4bnJUaw?oc=5",
-          "pubDate": "Fri, 18 Sep 2026 06:55:00 GMT",
+          "pubDate": "Fri, 18 Sep 2026 13:03:57 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-18T10:56:58.822Z"
+      "updatedAt": "2026-09-18T14:54:25.540Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-18T10:56:58.983Z"
+      "updatedAt": "2026-09-18T14:54:25.840Z"
     }
   ]
 }
