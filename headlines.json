@@ -1,9 +1,15 @@
 {
-  "generatedAt": "2026-09-18T00:42:05.923Z",
+  "generatedAt": "2026-09-18T05:43:16.723Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Canadians dream of Europe as Carney floats longshot plan for living and working in EU",
+          "link": "https://www.bbc.co.uk/news/articles/cx980qj57r89o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 18 Sep 2026 01:23:10 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "This Olympic river has 500 crocodiles in it - but that's not the main concern",
           "link": "https://www.bbc.co.uk/news/articles/c68xkypqyxw7o?at_medium=RSS&at_campaign=rss",
@@ -20,12 +26,6 @@
           "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
           "link": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 17 Sep 2026 20:34:30 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Canadians welcome closer ties with Europe as tensions simmer with US",
-          "link": "https://www.bbc.co.uk/news/articles/cx980qj57r89o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 17 Sep 2026 19:59:54 GMT",
           "source": "BBC News"
         },
         {
@@ -54,11 +54,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-18T00:42:04.132Z"
+      "updatedAt": "2026-09-18T05:43:15.621Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "The driver who slammed into an LA bus before helicopter crash is charged with murder",
+          "link": "https://www.npr.org/2026/09/18/g-s1-143900/helicopter-crash-los-angeles",
+          "pubDate": "Fri, 18 Sep 2026 01:16:29 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Trump withdraws Lance Schroyer, a former Oklahoma state trooper, as his nominee to lead ICE",
           "link": "https://www.npr.org/2026/09/17/nx-s1-5973271/trump-withdraws-lance-schroyer-a-former-oklahoma-state-trooper-as-his-nominee-to-lead-ice",
@@ -78,7 +84,7 @@
           "source": "NPR"
         },
         {
-          "title": "Can an AI chatbot save lives by answering texts about pregnancy?",
+          "title": "To prevent deaths in childbirth, Kenyan moms turn to an AI powered chatbot",
           "link": "https://www.npr.org/2026/09/17/nx-s1-5962840/artificial-intelligence-ai-chatbot-pregnancy-maternal-health",
           "pubDate": "Thu, 17 Sep 2026 15:33:30 -0400",
           "source": "NPR"
@@ -100,126 +106,120 @@
           "link": "https://www.npr.org/2026/09/17/g-s1-142416/china-beijing-buns-baozi",
           "pubDate": "Thu, 17 Sep 2026 09:59:17 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "U.N.-backed experts cite possible U.S. war crimes in Iran, including a school attack",
-          "link": "https://www.npr.org/2026/09/17/nx-s1-5972934/us-iran-war-un-report-alleged-war-crimes",
-          "pubDate": "Thu, 17 Sep 2026 08:33:36 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-18T00:42:04.525Z"
+      "updatedAt": "2026-09-18T05:43:15.663Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Tens of thousands flee as Iran-backed rebels draw Yemen into the wider war - AP News",
+          "title": "Military: An F-16 crashes during training in Michigan; pilot ejects safely - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTnBOOXlWVHlRR0F2Y1BlQ05nbWh4ODd0NEloQktkVi1lTURybmNoMHhaa1ZCbldPZE5sbEJhU3EtcE8wWUZxTEZWTUJfNDZYLXRKamJ4QmFNYXE1dFl6dTlvX05Jem15RmRpYXlhVWkzUmhpWlNPYURSeGJhQ0RvbW80RUw3cXFSVVJDSU0yeDJPQmlJTktndExPMWU3YlBYY2hr?oc=5",
+          "pubDate": "Fri, 18 Sep 2026 03:12:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "MLB | Latest News, Stats, and Scores - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Fri, 18 Sep 2026 02:16:10 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Carney embraces EU associate membership proposal as Trump pushes Canada closer to Europe - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObklwd2xpNktxT1dkcF9LZjhsUHhfOTQ1YVRBRWNIMXNDZGg2MWxnZUtVQTUxTFowcHI0TGRZM2RHUDE2SGhsYXRFZUlvR1lfZXY1NnhDb1p0R3h2QTA0STRndmQ0MHpoa1BhSXByOGdyWW5wa3IyVXhRc2YzMHhPc3FfQnRYWFV0QnNIWk1feFhMNTJJdUN0Rl94V2Q1emJPMWc?oc=5",
+          "pubDate": "Fri, 18 Sep 2026 01:58:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "The king and AI: UK monarch Charles meets artificial intelligence leaders as safety concerns swirl - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPa1pxWVhPQ09jRmt4Zjg5VFV6Yko5MEFRU1ZJUnhCdnVwRG1GOFFFQ3NuR1hLTEQ2N1FEZnJ1Q3hHQ2pUTl9xQlJyZmZFTS00RTRuQ05FLTltZ3pGdUFmQWJ4TUt4SHJzbnFXMGlJV3FZWmI1UEhTZGkzekxZcFVKZnhVZDRWem5oS3ZPdnhDMkNkU20t?oc=5",
+          "pubDate": "Fri, 18 Sep 2026 01:06:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Alabama carries out execution of Jeffery Lee for 1998 double murder at pawnshop - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSDVkSGw3V09RUnowQ29QSGJTZ09zZnJiZ3pjM0p4ZTdSRUdVTE43TDlUMGdZekJiNktkVWFOWnlHVTFEQWdNUEZaVUd1MV8tS0RSb2lldE5ma3Fsc2RsTEtiUWdqWElPSkZ2YWVLUnpteWFGampXMHdvTWNUSkpFM0RPU2lqR0ZyZXJWMjQ4SG9LdGlSSF90QzRESU0xcUdJLVdraw?oc=5",
+          "pubDate": "Fri, 18 Sep 2026 00:56:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Buckingham Palace hits back at claims in a book by Princess Diana’s brother - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaWxBR3ZrMmRyQVV6UnRVWWRNcHNyTkZweDFaajlvNGxMbndsYVV5SGl4N3dEQUZTMTdKdC1BWFNqX0dLN255dkpPR3lwaVpmSVVzOWhiaEttemJyWEd2R0VyaHl1NkUyT1M3b2J6eGJGbDI0dXNnanIwNXF2cTlFRTlTN2FtN2hRSFFsYnhVN1J3dFNGZkE3cWhYeEtINk5QdVE?oc=5",
+          "pubDate": "Fri, 18 Sep 2026 00:00:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "At least 48 dead in Nigeria after consuming drink suspected to contain methanol, authorities say - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbUlsSmRleTBkMVBILTJ6c2ZlY3NIVHdXTHg2dDdGbU9DaklMR0pGV2hZT2cwa3l0UGlqTE5LeWtwZEJtS3VFOW9KYncwamQ1M08zMS1vY0VtQmdPSEp1VjJCNHJFdUJHdXM0OXJOakhqVlVidEpaMklUdUJFbHMzMndOd3VhS0RLai1OSXNLWGNxQQ?oc=5",
+          "pubDate": "Thu, 17 Sep 2026 23:22:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Tens of thousands flee as Iran-backed rebels draw Yemen into the wider war - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSEJrazQ1WlJrelROX1NZTzZ5dTRvX0g5QXpRWEdZbWxwR1NLRnFQajctT2tDa3FibzhVTmE0LXJWRHVGZVhSM1Zna2VoR1FNdElZN2lyN0JVb09LcWJFSFpGNXE1ajg0QmtYaVF3MlNYQktseW5rX3FCN3VqdmdsbGplOE1XbXE3V3RocVJ5dW56T0VZY0xKUEQtSQ?oc=5",
           "pubDate": "Thu, 17 Sep 2026 23:21:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Postal Service chief says work stopped on computer system key to Trump effort to limit mail voting - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVTFMMGZlSlBKaGVMMENBOWlnRUJzdHd4amhrYklyek1YVzhpa1VybzZ5QmVVUDA5OXlyVUtRSmdWWWZRSW5BY1dsbVpNV2tlWXhzd1RPMzlWQWE5WWV0a2pvNXBDbnNYRzZqWUQzbXRmRm02RGxYaWhHQktUeUNrZEdYbk9TcUxoam9seGZRRHJnbm5mWnJxd1Jjbw?oc=5",
-          "pubDate": "Thu, 17 Sep 2026 23:15:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "OpenAI flags concerning new AI behavior and vows to track it more closely - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYzBMbjczYWt1SGJLdVUwYlppSnhRNGc2amRmbjZLQlBGS3ZzdTVXYUM5ZXViQXQ4clFkZXZ2cERxc3NmdENzRTRqRno0Q3pxM0ozTExsSXJGYmY0RkNzUFlFX21FOUtpODA2V0phX3k4OXZaZktpUy1WUjZKb3p5WV9DWUhzejBoazBKdmVuQQ?oc=5",
-          "pubDate": "Thu, 17 Sep 2026 22:54:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Military: An F-16 crashes during training in Michigan; pilot ejects safely - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTnBOOXlWVHlRR0F2Y1BlQ05nbWh4ODd0NEloQktkVi1lTURybmNoMHhaa1ZCbldPZE5sbEJhU3EtcE8wWUZxTEZWTUJfNDZYLXRKamJ4QmFNYXE1dFl6dTlvX05Jem15RmRpYXlhVWkzUmhpWlNPYURSeGJhQ0RvbW80RUw3cXFSVVJDSU0yeDJPQmlJTktndExPMWU3YlBYY2hr?oc=5",
-          "pubDate": "Thu, 17 Sep 2026 22:28:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Judge orders Kennedy Center to provide 30 days’ notice before making any major physical changes - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNkJMaWhkbmNOU0NQVEg3RGY5RmNSaE5zUkp2WWFUWU41LVRxcnlmLXFESGh6NlZUWnVQdlptczh6djVENjV2ckRZU2J6ZmhkdzgwVTg5bHlDTW83cEhTUzBJUFNMWjN2WnBuUkVoSlVySndZMkJmSm1XVnRiNEU3MkgyZENRSHNXNHVBTWFiNTJweG5uODNPb3ZER1JtTUdOYk5TM3BB?oc=5",
-          "pubDate": "Thu, 17 Sep 2026 21:45:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "US stocks rally to their best day in 6 weeks after oil prices and bond yields ease - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMEZ4eWpRcFQybzI4MUxVM2pCc1ZxNWRFajBQU2o3dWRSSnNZMmt6NEMxbjBmQXRqTzREdXlLOVZJVURwQmIyMzdfeXZkNUg1RlBRa1B3LWJqUkV2VjBtSTVpRDNlWTdRZzJndy1adEJkOHdVbERwU1liZmlwWEEyTEtBQTYwc29m?oc=5",
-          "pubDate": "Thu, 17 Sep 2026 20:59:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "US approves visas for top Iranian leaders to attend UN high-level meeting even with sides at war - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPc0dsd05iSHFWS0RCRTZrSk05V29SdDByNk41bXlZc2tXSWNLU3gwNTZhZ2x1RHgtaWFKR2h6NGxCRDZldWg4aUxfWU9QU1FBNUtUQlFFQ1lrMFIzMW5jSEVCeVpyMXpUVTdIZ1B2ZHdXSXMzbm1IYlFxamhOUVF0ZHVoSkk1RVhKWE00V0VkRDlJaVVySTdwQ29rcw?oc=5",
-          "pubDate": "Thu, 17 Sep 2026 20:59:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Man who sprayed Minnesota Rep. Omar with vinegar sentenced to 14 months in prison - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNV0YwdUk1N0U3UGRsZXFIXzNaYnhCTGJTX016SjI3WXM0RGtORzZxNUZDbkR0cjNtc3JRdG1YVFNQcnd4SlpiaFE5bzVmYVRLQ2hFNWQtd0V0MFdOa0xsOFNiMHZXTjl4eXo2djJuTEhhMXdJdGU4b3c2NEhTZzVFSmtoaG5xNnVlRklSZUtxZmRBaXZUMDRfZUJqSQ?oc=5",
-          "pubDate": "Thu, 17 Sep 2026 20:55:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-18T00:42:05.151Z"
+      "updatedAt": "2026-09-18T05:43:16.122Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "US FCC approves foreign investment in Paramount Warner merger - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQjM3QlBOWXB4QTVENzM0NmNfRV92bHM4Q2UwUlEwbHZTcnVKbEVEcWs5RkVYckcwb2pyT00xUHJQNE5lbVVCVGFNMXU1UVdVUWxFX0M5TVhmcW1PUFdBQ2pvbnd0WnFPTmZCZWNtdHRTSktCSEx1U21TNnpqYTB6QVFva3NkdUNPeXBQcmdaWWtLZnJ0Z0IzVno3U1VGOTEtSFNENmdkYmpTM0syX3dTeHFGYnVPS3ZCTW5hLVFhUQ?oc=5",
-          "pubDate": "Thu, 17 Sep 2026 23:49:29 GMT",
+          "title": "Malaysia king permits ex-PM Najib Razak to serve term under house arrest - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZmY5RC1LNzNwTUd4S0dOZWFCUUhOYVh4VC1hTkhXbXdLRzhFck9XUzV6eFBlUFQ1alpNYzJyUWZGaldiRkJSLWlMNE52SzMtdmFCSVhza29CSUxLNEVvRW5DTHRKQ0RhYlQwdk1QSG9rVmdzZjVNSzJGSXZYNms4azRZM3NEcC1WV3lBUXoxM0xGOW1SZUt6MW1JVXppSF9STUdCd2lNbDRkV1NtTV92WA?oc=5",
+          "pubDate": "Fri, 18 Sep 2026 04:25:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "US allies fret over how Trump might play his Taiwan hand with Xi - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQY3hVM1dFSVFMbUpibXh4OWtYdWFBRnNkN0JhREtSNFZ0R2hVMnN1T0lUTHlneVdReE1kd1YzSENaY2xpWXh5SGVjY09qSXNack9RQkN2VFBYQUxCcE5sUExGNzJxRDJzRXYzX0pZU3NTX3RNOTZ0WEZWZ01oSUp2dHh3SkNZSERMc0tFempuV3RSaXF6OXlGaUhCZGNUZlRvMEhaRWRKcUVMSVN6aVJRcmZ3?oc=5",
-          "pubDate": "Thu, 17 Sep 2026 23:44:28 GMT",
+          "title": "Indian shares open higher as oil eases; IPO rush limits gains - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaVRkSXFwRVNyZDNJMC1tdGE3bmhadGdUT21fOExqblBPZkdpVFVoa21kWmswNlVJdWw1Yk1xYlA5Z2k0Q3RKVVdXRWJHT3BLcHJMU2JGSE12QzFnTGhMWkZfUFByVWZTNzMyYVR5Y3M4bnFRM2RubXMtdkI4Qk5ldkx5NDcwWDAyek52R1I1bXhZQnQ0QTd5NTZpLUl6RDRwcmxLRGtKdTgyb00?oc=5",
+          "pubDate": "Fri, 18 Sep 2026 03:04:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Rising oil, rates and yields brew up stagflation cocktail for markets - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWmhlTzlKbEFSMGdBRGhpNGxzWDVGZzFsWHR5cXZXLVZwTjRZX0xtVjN4UW1LU3BVNW4wSGlod0VLSEhBbWRJNS0za2NIWWkxVlJqSzBsVU1rWHlIcXNUVmRDemNnbFBrV2J3eEhRSjM4NG9xaHl2ZXR0ZzAySFpOT0tFeWxnZw?oc=5",
-          "pubDate": "Thu, 17 Sep 2026 23:30:06 GMT",
+          "title": "BOJ raises interest rates to 31-year high in widely expected move - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNME52a2lPWjhiY0l0eFpoZmQxaVYwRzBNOWxFYk1JUjB2R0lJV2psVHRDdU52ajhBYjFnODByT1FvakVnNTRTNnJna1hFcC15VUxRMFJvU1BwV3ozU1NEOWsyNmk4MXJUcEo2Rnp3d1YwVjZfUlpjMTVldTJRaFNpeFJIRExJUDRYOUtTZWdVVnJPR05FaU5UQTF1blpvanliQ092Q3JnZVVEal9UcFlYV252YVc?oc=5",
+          "pubDate": "Fri, 18 Sep 2026 03:01:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "EXCLUSIVE: Pennsylvania asks for CDC measles help amid Kennedy dispute - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOR040WVpTSC1HTG5WV0IwMzRWb2VMQmdJT1k3Ui1rVWlqV08xYkgzRzhBQ3lfUk4tSGNHWU54VXdhZnVfb1Rta3BVMnM5VUxGbUpRRnB6RXN1MmFXb1NEU1hTeW1uSnhKR25jVEdkNmNCYVBvblBFaU9Wc1dCdDNiQS1Xcm5FWkRqcG4yQm9DVTFHRE5TWWNhQzVqZEEwZ1Vtd3p1bktPQmptYVNKRmVXQ0g4M1Q1SHE1TWc?oc=5",
-          "pubDate": "Thu, 17 Sep 2026 23:27:00 GMT",
+          "title": "South Korea's Lee says will not deploy military to get involved in Middle East conflict - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcHVWWW80X2pnalBXQzRpRlpIQnNiNGt0V1o3Q01OME0tSjg2X0ltaENaUjBXZ2NUWVFnLVRQUTNvRzBHdUh3am9SNExYc3RuQmtxdjkyeGNnMzRvOGdFeUxyTG83bUlEU2NJQ3FCb3ZhR1hjRFEzal84X0pDUW9KWUMtVElRYmI1VWljLTN3ZnNJNkNMLVVyR25DUWI0SmMwQkpqQzRGRUlnMFlSS0RObkRTaTBCRzVwZDN0QjJLUlNDTU96ZDhPb2RSWWtXNEcz?oc=5",
+          "pubDate": "Fri, 18 Sep 2026 02:26:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "EXCLUSIVE: China presses Iran to help rein in Houthis after Saudi appeal, sources say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUnJncHUxLTNvV25NTHFxQzVwcnljdzdsTkJCNFNjSlJybF95bFBhcW9DTWV1dnlYQ0prMkI0SmdnNjBrdXNLV0ZNM1pQNW1FcUxuaWpqd3NnRXJ6U2lkQWFqQlR0UVE2X3lYU0RXNXlBdno3QkRkSzB2SEwxUzdYV2NZWlc3SGhZdGRMbUFCVDJZeXZsTy0zOHF4R013c2xyMl8zNmVkaHlFOXM1MmtuZHJRREI3UQ?oc=5",
-          "pubDate": "Thu, 17 Sep 2026 22:45:37 GMT",
+          "title": "Malaysian king allows jailed ex-PM Najib Razak to serve term under house arrest - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOb2RRNlg5VGN4VEJsM2N4TlFrdTlNQ1R3ZUp3QnpILWVwR25EV2xNeTZyU2xNM0RubDh6NGFQSHVFanhYZTgxa1pETk5aeExvQ0NmZkVpQVRkNkVsNmcwRlhORkd3UWMxNXhvcW1kRUNwMlN5d3h4VmJKRUdXZHRRUXpic1RmeFhKV2Q0Q1JPTkxHb2w1MUFENjR0LTdweWVOZWJJRFc3bU5HQUJmRk1DTzdleHU5MUY5NlpMV0xsOU1McWtNM0F5LVBRRU0?oc=5",
+          "pubDate": "Fri, 18 Sep 2026 02:11:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Tech leads Wall St to higher close as oil eases, Treasury yields dip - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORkVra0Q0cjNkbjlDN0N2SENMZHYyeVVFSU1tcG5LOXhBTk5leFlZNjFNRGpad3NoWmhnaWZVd2I3N19oa2hQSERYZzBQWFcxaUJQNDZaSHMwVjFrNGlKbGRUNjg5TEt2WENpMUJiUFRVTjR6WlQyc0IzY2V2M05FanNlWExPdUZ2bTJFUlp4YW5HdTAwTExfNTI3MWkwVEVTMTRZUURlR01lVHA5?oc=5",
-          "pubDate": "Thu, 17 Sep 2026 22:43:46 GMT",
+          "title": "Waymo to bring autonomous ride-hailing to Singapore in 2028 - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQk9kUnJ0S2o2NnEtMFRWTmNmM3ZOTVNPWnVKQjBiYk5wa2MwMzNHYk93WGl3RlJJQkJkNXJ5VGJDcmcySTJqZmtiUW9zdVFsdlVja2dOU3pQS2w4djd0T0tESTZka0o3akc0WjcxSTA5dTdqaUNXZFlCdVJzVDNwMno4YmkyNWs4N1NaYUthWjcyQVZaZjlhWDl2LTE1YmRxdkRqTkl0MzM?oc=5",
+          "pubDate": "Fri, 18 Sep 2026 02:00:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "UN mission finds grounds to believe US committed war crimes in Iran, and Tehran crimes against humanity - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbmJVNS1uc3FDVDUwbUJ5bjJkZzRwbTdzNFZYUW00SEloak4wZl9yeXJhWlQ2bEExbjZBSzh6T2lRVjNjQ2VvR1lNZGNBc3BwLXZ6QXJCTmZ3M3BfQVdURWZaaUVOV2k0VkNOTFMwcnhsdXR1VU5IWFRWYlVYNDgzeGNwTDB6d3FURHV4YnZZdFpibE45Qm1tTVJxMi1QZG9lbFFqVW16M1ZzQzRLQW1PVkhud2RLeWtxUVV6OFJweE0wOXZuVG5RRg?oc=5",
-          "pubDate": "Thu, 17 Sep 2026 21:20:28 GMT",
+          "title": "Stocks rise as oil dips, yen weakens after BOJ hikes as expected - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE95V1cyTmJPMlg0ZTkwR1hnMEJBdGZYOGEwRnBqRS1pU0RMNFpJX3NFTjZ1eTRydDZDMGthN2NZdXZYREtKMnI4MHVPNFByOGlqbXFaX09scG5mNXdrX3MzUUtXVXFBaXk5M2tDS0lQQTZSa1hmOXctY1h4OA?oc=5",
+          "pubDate": "Fri, 18 Sep 2026 01:32:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Floodwater overwhelmed pump at Exxon Mobil's Joliet, Illinois refinery; facility remains offline following outage - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSzdPX2ViTG81M19sQUpjMS1xZUhzOGJJYWxnb0oxenVXcW1GWmd0QWtHV1JTX0tNd0NubUxSdXRHWnNud3MwT0FPYkp4OFRGbXFuTDFzTk5jNTlsc0xWVTExc2FPRDBtamJUeE9DWHpiM2FRLUt3SHRHQkJBRVZDRzBTNDFYNHg2X2xGcWEybmxYdTFVUktYQWZnZjVFdjQtSFVpMmxjZEd3aXUtbWtOTGt4cE9JX3FoYXFub2pqbHRRZw?oc=5",
-          "pubDate": "Thu, 17 Sep 2026 21:11:43 GMT",
+          "title": "Oil prices fall for third day on hopes of limited Saudi supply disruptions - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeDVrUGNRTzdTOG1wQ1ljY2w0Y002MjMxSVNvM2RrLTBhM3B1dEJVS1B6bnJWTjhydS1BUHpfTVFtbHh2QkdMdFU1ZVo3MDJtQ01kbldpa0lfWFM0QXFWbmVsN1RqcjcxMHczN3JGSHItelVZMzQtYklTN1kwVlJxLU5RVzAwc3BEQV9iVFI1N0xhRXluaGZxN0NrWkxFMDk5Q0pYZw?oc=5",
+          "pubDate": "Fri, 18 Sep 2026 01:01:00 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-18T00:42:05.629Z"
+      "updatedAt": "2026-09-18T05:43:16.566Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-18T00:42:05.923Z"
+      "updatedAt": "2026-09-18T05:43:16.723Z"
     }
   ]
 }
