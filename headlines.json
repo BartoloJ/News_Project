@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T21:09:19.155Z",
+  "generatedAt": "2026-09-18T23:31:11.304Z",
   "sources": [
     {
       "name": "BBC News",
@@ -7,7 +7,19 @@
         {
           "title": "Trump says he is banning CNN and Politico from White House",
           "link": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 18 Sep 2026 21:05:49 GMT",
+          "pubDate": "Fri, 18 Sep 2026 23:26:48 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
+          "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 18 Sep 2026 22:58:55 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Watch: Trump says ban on some news outlets is 'because they're fake news'",
+          "link": "https://www.bbc.co.uk/news/videos/cm93e7p1wkndo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 18 Sep 2026 20:35:03 GMT",
           "source": "BBC News"
         },
         {
@@ -39,26 +51,20 @@
           "link": "https://www.bbc.co.uk/sport/hockey/articles/cmx2zg85gq03o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 18 Sep 2026 17:18:09 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins'",
-          "link": "https://www.bbc.co.uk/news/articles/cvj64dl1w6yno?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 18 Sep 2026 17:15:02 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Ryanair boss Michael O'Leary apologises over 'high-fare rapists' remarks",
-          "link": "https://www.bbc.co.uk/news/articles/cm1j4kj57k08o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 18 Sep 2026 17:10:58 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-18T21:09:17.626Z"
+      "updatedAt": "2026-09-18T23:31:09.860Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Alaska's salmon-feasting bears face off in biggest Fat Bear Week ever",
+          "link": "https://www.npr.org/2026/09/18/nx-s1-5973938/fat-bear-week-2026-bracket",
+          "pubDate": "Fri, 18 Sep 2026 17:13:14 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Trump says he is banning CNN, MS NOW and Politico from the White House",
           "link": "https://www.npr.org/2026/09/18/g-s1-144112/trump-ban-cnn-msnow-politico-white-house-media",
@@ -100,20 +106,38 @@
           "link": "https://www.npr.org/2026/09/18/nx-s1-5938847/ms-rachel-mr-aron-new-album-im-so-happy",
           "pubDate": "Fri, 18 Sep 2026 07:00:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Warren Buffett steps down as Berkshire Hathaway chairman",
-          "link": "https://www.npr.org/2026/09/18/nx-s1-5973852/warren-buffett-steps-down",
-          "pubDate": "Fri, 18 Sep 2026 06:58:49 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-18T21:09:17.825Z"
+      "updatedAt": "2026-09-18T23:31:10.036Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Trump says he is banning CNN, MS NOW and Politico from the White House - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSmJvU3QxRHMzN3h2Umc4M3RyNFMtell5WGNTV1d2ampGY25aLUZjLVgxWlRmWS1JWVItZ3RoVXFtOUhlX01zdEhGbzhrN1VMUndiekJxOG1MZFNPTE1TZkJsZHRZb0doZUNid1NXVS1NTmtpV1FyQ3FGM0VLWDFnOWRjVXc5YnFsYTJiM3cwM21acFNYV3RieUYtcw?oc=5",
+          "pubDate": "Fri, 18 Sep 2026 23:07:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Trump says his son’s wedding party being bankrolled by a Russian oligarch is ‘totally allowed’ - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMDRJS19CQVB3QVhucmVfWHgxY3BxSGFRYVRMUmtFbTYzRXhwcDVMc3RtV2dvTmpvVVZKb0xkUnRfSUkxLWdSWnhtcTZyTHA4LWZMZG1VMGZUQ3hfY2xoWkt2VHRJcE15aWNtZEM3RVVVdllieTNxNXdUdjlXVV9ZUWFlY1IwOU9TaVBDOEVR?oc=5",
+          "pubDate": "Fri, 18 Sep 2026 22:28:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Trump says he has a deal with Denmark to bolster US military presence in Greenland - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOd3VpRkZyY3B5MENtdkZiUFFhRzBMd25SZU9kMFZia2JxTEM4bFNvUFY5aTVzU2RDeXFIcWVGTVl4bUJrVzRTYkgyRVVfeXlhR1lFekxFVGFvaW42eEMyUEE0d1BJMnlFbjRzOXRhbGdnaDhiTFFTMnZQSUM0TVp4RDB6aXpBNTVqNUZUbHZFUFlIaWltTmFR?oc=5",
+          "pubDate": "Fri, 18 Sep 2026 21:57:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Ban on selling handguns to young adults under 21 is unconstitutional, Justice Department says - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTFdGLUJaaG9ESUpUSWFWd2lBNl9fZ0pqMnk0R21qZVBzYXcySTRCOHFGdkV2R3llTkdFcDZueFFZUnhsZ3dZQkNHejdKRzVCT2VyblVkcl9sVkRnZlRrUW53aHd6aXBsVTh0RFB6dGlVcUR4SUNwb2w4T19HS2wwbExzTW5tVUNBdDhWSWp2cE9rWHJyck01WENOVG5ya083a1E?oc=5",
+          "pubDate": "Fri, 18 Sep 2026 21:50:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Early voting begins in US midterm elections that could flip control of Congress - AP News",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOc2VsMHJiektCOFpBYUVsRFBRYVlMamd4NVJkSlcyaEN4RkxxcE43a05zVkhhSS1YNGZraE1OVXY2Q0loUERISzVsRmRrd2tyZ2dLalhVRGpSMm5LN1c3TjlFbHpQYXU4Y3I1QXFPNkUxZHBwM1g4N3ZsMm0weEcxT2plQVQyNFZibVJQWHRZU1lQWGRz?oc=5",
@@ -127,99 +151,75 @@
           "source": "AP News"
         },
         {
-          "title": "Zelenskyy hosts leaders from 7 countries for a regional summit - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUDljTlNxUER2LThZME04UmQ0a3JKT3pfRk4zUXdQcXFIUlRQQWhGY1Fwbmc0a084QUtWZ1ZiNTQxR3pFdDdTbW9DLVJsU3R5QTlkWXhQbFpBY09SZ1l0YVF3MG15Zll4bmwtamtialJfT2tjZ08zaXJOWURFeEkyS3pycmw4R3RnRFNkLVRBUkVDRzNCaHFRQmt3Yw?oc=5",
-          "pubDate": "Fri, 18 Sep 2026 19:52:00 GMT",
+          "title": "UK air traffic controller blames a millisecond-software glitch for flight cancellations - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQenlNRjRLSWZxNlV4NlpUZUUyMmhBckhLbEVhTWVNYkZieDBkUjdFX3VCVTJyaTdGQ2Z4MVVTZkx5WVFLX2xoZG5jR3UxRzVFTlVYZGNPeFcwZ1RtWS0tUHpuQ0VjU09Ka2t0bXpEQzhsVzJFSllvNDFpYk1yZVZXcDg5RUk5bU1oWXJCblRUcFB1M2dYUnpVWXltaktxU3FqZTNfZHhB?oc=5",
+          "pubDate": "Fri, 18 Sep 2026 20:16:31 GMT",
           "source": "AP News"
         },
         {
-          "title": "Trump says he is banning CNN, MS NOW and Politico from the White House - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSmJvU3QxRHMzN3h2Umc4M3RyNFMtell5WGNTV1d2ampGY25aLUZjLVgxWlRmWS1JWVItZ3RoVXFtOUhlX01zdEhGbzhrN1VMUndiekJxOG1MZFNPTE1TZkJsZHRZb0doZUNid1NXVS1NTmtpV1FyQ3FGM0VLWDFnOWRjVXc5YnFsYTJiM3cwM21acFNYV3RieUYtcw?oc=5",
-          "pubDate": "Fri, 18 Sep 2026 19:44:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Fri, 18 Sep 2026 18:13:04 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Iran claims it struck an oil tanker in the Strait of Hormuz, and other Mideast developments - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeWdlRjU5QTRNU0tfUUpTVW1iYUNBQ3hWejBlMVBaWTFEbFh1MkVtM1QzamhsY240NFQ3aW1vTUdMb0JaVUk2QWY1WE9SZWNqLUpzWVI4OFpyWlN1b0pXTW5vZzNEc3ZqZV9wdVowMGpzeHJub1ZFTWtoZGRyRklIbnR2d19mOVhhWG5GdkxTdTB1bktBRHFMSlVGbEZ5Mk0?oc=5",
-          "pubDate": "Fri, 18 Sep 2026 17:48:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Macron orders protections for infrastructure, citing a growing Russian threat - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPX1R2OW1fMHUyRzRRV25saFk1WVdyY0ZaSFA0cjFZOE13bC1HYzJYbzgza2lvYzVYMV9KQnloMlA4YlhXOXlSMENaeVFsQnBYRUYtcnF2QjA0MmlCbEtFZjRpcm5TUURWMkFJN0ljNm1ZWVl5M1JIUWN5cUt3Y2JRZXVkQ09kN1VRTVJoMC11RjB6WWI0TTFfbw?oc=5",
-          "pubDate": "Fri, 18 Sep 2026 17:45:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "The Pentagon is moving forward with mandatory testosterone testing for most male troops - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVVZ0X044QUlNelFmaVRMdnR3V2tOb3BPQ0xIWmxaN3hubnM1OVJrYWxoUUhMTWo3QnItMUdLV0pKNlBWdHFVMTVwaFBlVUhIeHpTVElBQmY0TjdXWXBoLXMyY3hSLUZmZS15R3lYNktYcTEyWkFwX2hTSFI3ZnhzcUx4SHJPMVozVG9kLW9obEJYbENRdFMzckdralVmRGZzVnlMSnloTQ?oc=5",
-          "pubDate": "Fri, 18 Sep 2026 17:19:00 GMT",
+          "title": "Trump refers to Black man from racially offensive 1988 campaign ad while stumping in North Carolina - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMkJDZFVyT2pQamsydTlRb3RlcU5jZllJNDhadzVidjNpNmNxWktyU0ZmNFdjc0NiS2U2OVp2Q092ajFXalpuS1hUZjMwOFBpVk1vVU9Eckx0SUtZaXVySHItczRlWkh4SVR0S2RZZEJIRzg4cVNzaVhSSnJhYmd2ZnBGeFdORmlaaUxIOEJXQmlYZk90X0ExUXJVSUlxaGNpY3ZZ?oc=5",
+          "pubDate": "Fri, 18 Sep 2026 20:12:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-18T21:09:18.415Z"
+      "updatedAt": "2026-09-18T23:31:10.591Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "EXCLUSIVE: US and Denmark reach deal on Greenland, Trump says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYXUxU0wtWHlQT1lrMjB0b2Q5c080QTY4SmJDSkF3c1R1SUNkVVV5TmUxeVBaRk56ZTV4SWtqaXNBQzBfUnRiNWN5NmVQNGFTNGNGNFJqMjd5WTB3cGxhQ1p3UDdSemxwQXdYYkpjS1ktV2hkVzZRR1R4Tmw0M2VEZjQxZ0JWU0ptVlBha00tckVhSFBzclE?oc=5",
+          "pubDate": "Fri, 18 Sep 2026 22:32:19 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Trump says he is banning media outlets CNN, MS NOW, Politico from White House - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMlVWa0ZnX0VIQWsxTUVRTnRrSV9SLVFKd19wQ2FGRGx0QlNtSUZfd3JBbDRZZ2hNU2lXa1haT0dESVZoMWp4UnF5UDFTRllIQ19Ibno2QVVndW1yODN3VUdvV3RpN21Sd2R6dUZyLUFGSGtnd2hrS1FNVTNDajlVNG9TRDVxa0lyN2s3NTgtXzBTMktpU0dQcTFwdmlZX0dEcWc?oc=5",
-          "pubDate": "Fri, 18 Sep 2026 20:47:24 GMT",
+          "pubDate": "Fri, 18 Sep 2026 22:17:44 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Widespread sexual violence in Ukraine war, most cases tied to Russia, says UN report - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMUdJX3V6S181RmtJOEJLc0lXdW5GZEttaGJRWkliUkZ3b3FtRUhwdFNFSk4xSTEtMlpXSEZ4Uk1ialhKR1pvcS14MWdsc1BTenZOM0FDb29hc1JYdHBjUEN4bkV5cGkybDNyWHZJcUJlbGwxd2dDc1dBR1dKTV8wZm1kRXVvVGdCNjNiQnlrbktiU0pNakJMREVGd3VyVndscS1SN3NKaWVQTk5sMVRvYzhfaVE3UmJRdnc?oc=5",
-          "pubDate": "Fri, 18 Sep 2026 20:38:59 GMT",
+          "title": "US troop deaths during Iran war exceed Pentagon count by at least four, Washington Post reports - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWTJWTFE3dlFIRDVOVDZiY01XQXNxNDI0Z1RiWlFybTFpaEFEQUtpcVRnaEVNUUxPSkl3eFpLc1JzakdRWHNFQWZSUHhQMmQ0T0MtOHBrUjFYTGIzM0dMUmFwNGZPdWhkZUdUSmR1Q29mTHZXNDJuY2d6MllvMXNTM3pGM1BHQmVvQkstdEd2SDE2ZjJ4dXpxdmVSa25KcWJxaUV5eUFrNGFLSUJoT21wNDRieGxuQjFzTXNxU1dFZFlCT3R3aEJESmRR?oc=5",
+          "pubDate": "Fri, 18 Sep 2026 22:08:49 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Warren Buffett steps down as Berkshire chairman, replaced by his son Howard - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVGNSTzVqLUNZQjdoWnZWMENFaUo1cGNMSkNwVC1DNVdYVUNFWnNIVV9MR2VKUllvTDcyaXVuSXdYT1hKZkdRbWZRTFJacFoyV0VNcXpQZWJ5dDZyUFY3OGdnQi0xVklKcGJOUllOSDNwakh5Ym02c29OUjd1VUFqam90TDhzM0hOdkR3WFREWUFzNHl6N0ljbDg3LWVEOUdnajdVdnVuQkNJbmV6akZUby15U2hwd0JSQnc?oc=5",
-          "pubDate": "Fri, 18 Sep 2026 19:52:18 GMT",
+          "title": "Mbappe leaves Nike, signs with On as Swiss sportswear maker forays into soccer - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVEplMVM4YWswdDhOamVlXzZYS0d5dzFaVUZNSHJxdHE4cTd5c2s1Yjc0N2pkVkU5N0hhV2N4TGxFa0FiV3RHQUdVMG15NUFsRjFwRV9qSFFPcmtOVGpfM3ZkS2ZyUHJnMG8waHJ1NW9Qb0FNeDJXSDU5dnNRMURFcG1CazM3Y0FZZS1YVkowcllmZHdXRkFGNElsc2NoaDd2emc?oc=5",
+          "pubDate": "Fri, 18 Sep 2026 21:57:58 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Volkswagen to recall over 208,700 US vehicles over steering rack bolt defect, NHTSA says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQX1dLdnVpTGd0WmY3amd3Sng5cWV4OWlDUjlzOFRlaENuNHVXRUp0VXM4LVk2LUFfUlNDVGhyZkRmWVNGZl85Z0o3LVp4Sk1ycHVXMXh3NFA4UWVvNGxzU291QkMzTEN3c3ViaXF2WDZoaExYaG0zRXpDNnlleTlWNGxReWdrSWc3MjB2STFJbUhuNnk1Vy1XVnJTbzg0UkZwbE9YWEZNUXA4THRkR2NneW1XZWdrcVZlRHltT1hQZHhJeTdLSllUTWxZbw?oc=5",
-          "pubDate": "Fri, 18 Sep 2026 19:17:51 GMT",
+          "title": "Trump says his son told him he will repay Russian oligarch for wedding parties - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVzJueExPdDhxV0RJMlVDVVZQbnB5QkdGY2lJakhoNGNyUndGU0QwZ2owaVB2LURtUlVqZFRadWY3eVhwQmkxUnNfdk9KQWJXd0FweXgwN21HWlZ1a3BSOWRSRERXRTRjQTlmZkZWTmlDUmdTb1lObk9rMFhieUZadzVzcm5MQkw0NURRdDBHLVc2M3FFWUJLWTQ4dWNhbU5UdGg2MVg0VndTb2VKaVRKbWQtalg?oc=5",
+          "pubDate": "Fri, 18 Sep 2026 21:57:20 GMT",
           "source": "Reuters"
         },
         {
-          "title": "UK air traffic control outage caused by software defect, says operator - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNWZ1dFpTYVRsRkJiTDM2clcteEJ4eGpOcHNBOFdJbFBrNWRibGo1SnQ0X0tXdXl1UzlPbVBETlVfcDZhQlRRcGNfZG9iLXloS2pWX2trenFfWDh4SllHanVUcTRTYzFpdVFUTnZWeG9Jci1oSjB3eVFfY25Sb3UySjZsZXNTc0V3TVpzcWZkSWZGSTNLaTZOVUY4LTd5Q2JyaklIYUpJRlBVTGxSaE9MUVhwVXI?oc=5",
-          "pubDate": "Fri, 18 Sep 2026 19:11:01 GMT",
+          "title": "EXCLUSIVE: OpenAI's Sam Altman to brief UN Security Council next week - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTUFnSGpyQWtoZEdZY3IzTTEzZ2Npd2JTc0MtVUxfMW1LeWgwX0xBWXdXVmNHQ1p0NjF6Y1pPdFl6RnNtZTZjZEZfcW5FX2tWSE1ETHZxTmQyNWFIYzJGWHNoLVJxSFZ5SFFZdklHYWZvd0RMWk4tc3FuelVyck9LWDRzMUFmY2tpNDFlVmhIbVBGV2thR2N5UjlUM2pnMFlYT0FEOWhIVzRTaDRlZnc?oc=5",
+          "pubDate": "Fri, 18 Sep 2026 21:54:34 GMT",
           "source": "Reuters"
         },
         {
-          "title": "US removes sanctions on Eritrean Defense Forces, Treasury website shows - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQVNWSkxBR2ExRTZDVW43YWFBZV9CbmZ0TUlEdEtTaWNaTmpHOWhiMTZMbllxWXotZjdETnJJd3FxT2VpMXhjOHVWVHZiekhucThObVJsYUdCZVhpNzlUQmR5WllsTmlUdkt0dW9fWFB4UXo0MXZWajd3RlNDemgzVnB3cGFYWU84S3prR2xudl9oazVmaVhmTWQxWFdBaHBUQUxKeVd2clAtVWNvUm0xd0FWME10N3M?oc=5",
-          "pubDate": "Fri, 18 Sep 2026 19:06:36 GMT",
+          "title": "US appeals court rejects Trump policy allowing swift deportations to third countries - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOHZla3E5c3Z5TlJXUHhoRGEybF84bkRCb1lkT0pSaGswSmRuZWx2SXI1RUdCcy1Ba2Q1cVZYOHlOSjgwcjhpZU5uem95Umx4dFJTdzk1U21oZmtCVHlxeTFVazJtMGJVbEVZTHpSYkM2dUhNenl0Q0IyTU92VTZxZkdPWm5EemlqQzk4d3RsM2pzbWlUY3dfV19jQXIyTGRLMDFTcmFFTzZQR1FOV3RNTmdtYUh3ajdUbGRv?oc=5",
+          "pubDate": "Fri, 18 Sep 2026 21:49:59 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Record US diesel prices squeeze farmers; food prices may rise - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUXFFeEk2NVZjZU9WbTQ3QUZObDgyZ2JZdVlPRjd5dzNVdk13OFNCN2tiR0c1MElNMFFZVGdRelI5UnZkNnlMNmRQZXM1Um1sQUZQRkh2R3JvSHNkZnhtV2JzVFB4SDVoam0tZUE3WHljQWdSbXFPTEdOTkxSQXdvcTZQdXloOEpXMlVWUnprbS0ycUJ3aU1qRkVKZTc0UTFxa2h0bG43TlpCRnM5N1pVN09R?oc=5",
-          "pubDate": "Fri, 18 Sep 2026 19:02:31 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Volkswagen crisis worsens with $11.5 billion profit warning, largely due to Porsche struggles - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOE5LV2xQSHM0XzdrcDdhVGVXVkcwRkRGYno2YllaUlg0T0Y2Z3BDSHpheGhPSS1RcnJqOWN1YWpwbUljYWZqX1Q2RHoya1RJNEc3Yko0QTlsUUZsdXQ1ZUR0RlNudUllVi1SMTF0WXNyVWtuX3Fkb3ZvYzdYczBZX1hGdEg3WlZlck1RejlZWQ?oc=5",
-          "pubDate": "Fri, 18 Sep 2026 18:59:53 GMT",
+          "title": "Mural of rapper Macklemore painted in Gaza after Sheeran tour furore - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQR3llQ2FzaGFiSG5aNXd2SUpSS3JQYTF0c1dodmhsc01GNHhQSWUyZ2laVjBuMUVYQVRPc0ozMGh6WVhWTzZNM0MwLVVkQlBjZHhLVWhLbnlLbGJkdTk1Q2gwQ3hSc3A1czFrVkw0Mm5BN2hlN0ZZM0JzSUxZZGVtcm5KZ2lpQ0NPYlo4ZkJ4QW52N0FEbzUzUW5BVVlGOGE0cHBTWDNESzh6S0M5UEtiMTVveE05bUpIRzBkNG9n?oc=5",
+          "pubDate": "Fri, 18 Sep 2026 21:47:52 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-18T21:09:18.858Z"
+      "updatedAt": "2026-09-18T23:31:11.024Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-18T21:09:19.155Z"
+      "updatedAt": "2026-09-18T23:31:11.304Z"
     }
   ]
 }
