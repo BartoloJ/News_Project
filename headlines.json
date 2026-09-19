@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-09-19T19:15:21.930Z",
+  "generatedAt": "2026-09-19T21:38:45.523Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "Journalists denied White House access after Trump banned some media outlets",
-          "link": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 19 Sep 2026 19:13:49 GMT",
+          "title": "Houthis say they targeted Saudi capital with ballistic missiles",
+          "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 19 Sep 2026 20:16:07 GMT",
           "source": "BBC News"
         },
         {
-          "title": "Houthis claim attack on Saudi capital after smoke seen rising near Riyadh airport",
-          "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 19 Sep 2026 19:09:49 GMT",
+          "title": "Journalists denied White House access after Trump banned some media outlets",
+          "link": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 19 Sep 2026 19:13:49 GMT",
           "source": "BBC News"
         },
         {
@@ -54,7 +54,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-19T19:15:20.570Z"
+      "updatedAt": "2026-09-19T21:38:44.269Z"
     },
     {
       "name": "NPR",
@@ -109,15 +109,27 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-19T19:15:20.761Z"
+      "updatedAt": "2026-09-19T21:38:44.544Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "Saudi Arabia confirms Yemen’s Houthi rebels tried to attack its capital with a ballistic missile - AP News",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTl93X1pobmY4NGRuMlI4SHU5azdKQlZYbDRfQWJsUDBwcGIyZTdGOEIzY2g4Z29BLU9HUHFpbjdNbXNXdGxObzRGOVBoZC1acklPemZlRUhPeFdKaVMtcUFudWtIdmhHUVEya1M0R1NxakxsdUlpN05HNGtlSkFhRlFKTUs?oc=5",
+          "pubDate": "Sat, 19 Sep 2026 20:10:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "MS NOW, CNN and Politico say their journalists were denied access to White House after Trump ban - AP News",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcUUtVjNhMUdzOUo3alRhSVRGVF9aeFVBVUJlSjg0b1RvVnBJYjNXNzh5bWlnbEFjbDg0QWlVSlZueDZWYXltMW11ampFUHphekE1VVdDdlp5MFVhV0lWUUVySmNBT21TZGJNZGh0YlF6c0ZKbmMzMVhKLWlaQWx5Q0RwTUhPZ2dudWc?oc=5",
           "pubDate": "Sat, 19 Sep 2026 18:49:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown - AP News",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcGNIX0w3dGlsV1dsUUdPS1l6TXFWSm8yUVBkTlVhZl85V1hGNHVadW9LZFRHRl95Y2VBY0Nvc3FvbDBOcXpfdFlYc1dEckQtbk9BMVlEeHBIYkdBVjJmZDYxMFFpVlR6Mm1NeEZ3cEFvcmtLLXRTWDZjQjRtRWxuYnNQQ204Q0I0Z3haTXRSN0w3QnhSYXZDOG00eXhQd2ZyTVhZc09SR3lSb0ZSMU5mYktsNzNjWTdLVGV6dmZNVQ?oc=5",
+          "pubDate": "Sat, 19 Sep 2026 18:41:00 GMT",
           "source": "AP News"
         },
         {
@@ -129,7 +141,7 @@
         {
           "title": "Saudi Arabia issues first alert in the capital since escalation, and other Mideast developments - AP News",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNb3ZQdTJKbzNUNVFFeGV0NG0xYTlhTURSZ24wTGRxWUVsNFc3cUswUHpFWWFuM0piU1kxVmZlWURxbnZkT1Zvc0gxNHZPaVQ0di1hTmRoTDA1Z3Nib3phUjkycVIwN3czNlBDZl9tb2tpZ0liSVItaGVpQmpBUTEwSDl5UnZOTnhZdlh2UjcyRjAwSkFGN0N1UjBPcWp3NVE?oc=5",
-          "pubDate": "Sat, 19 Sep 2026 16:31:00 GMT",
+          "pubDate": "Sat, 19 Sep 2026 17:58:00 GMT",
           "source": "AP News"
         },
         {
@@ -139,40 +151,46 @@
           "source": "AP News"
         },
         {
+          "title": "A top-10 showdown with edge: Lane Kiffin gets a taste of what's to come before LSU-Ole Miss game - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQV9BWENnOVRZZEZJOTVVVWZkdTVqcmN3OGxFQ3VQSWlXdTBRRi1wQ0F0Ym4tUXRTUzhaWGlUTEtwVHhKMnJ2SWs0WFVJX1lZUWV1dUFEaDVFSDBCRVY0R1FkUERWMDR5cGZpOTluMXFVaFQzRkcyb21MN1BpYkpUMUZnbzljQjdzLTZYQg?oc=5",
+          "pubDate": "Sat, 19 Sep 2026 15:25:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "US lifts sanctions targeting Eritrea’s ruling party and the military - AP News",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWWNFN2x5cjMzOWxSTEZTUXE1UnpTcjd2QkRaZklURFc4UGdheVBxUFdKQlhXS2RRWHBGYkVibTU3Um5yTHgwVC16QjI5SGR6YlNzU2cwWUg2NTAwdTJGSG5rVjRqWjlTc2hpZlpaMWlrUDRNZExfN0hXU3dfQmFCeUhvR2YyN09ZTy1yY05ncE9PaHJoWkZCZ3k4b1d1LUtfekExWQ?oc=5",
           "pubDate": "Sat, 19 Sep 2026 12:01:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Italy sees mosquitos spread the West Nile virus farther and longer as Europe warms - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWHBOVnh4cHBGamN4LXlOY2FJY3dzN1lvSk94RnB4SG1CTzhzeWxhczc5MFFtX2oyX0E3YVk4NENIY2NFR0oxQ1dOQkJDSU02dHpCNS1mb3ZtXzMyMnhlTGlrblFYaWZlRVlHSGZjZHZJMDM3NTNEbmhwUEdUTUF5dTBPMlFIN1hHYUhld3hXNGNBTG4xdGJxdXFzZGd3UVh3b3BhUFhyTWRBd1BCaENvR2N3RGFHb0li?oc=5",
-          "pubDate": "Sat, 19 Sep 2026 09:52:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Oil prices are high but could be much worse. Trump has China’s Xi to thank for that - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZS1uVExKbkFEcHpfQ19mc3hFQVZVaEtDdWdZS2RzSWltbFNoMXVUTzhweDBURFBsQXJGYmE5a1MwWkctWG03SG5ZYTd0dDhKLWUxdElNRGgwTmVyTmhoMl9YOW1XVnU5TlJtV3lwU2lqUWcyeFlSNWFjUVhOY3VLVVZ0dk53MDJ6ejFF?oc=5",
-          "pubDate": "Sat, 19 Sep 2026 04:08:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Iran claims it struck an oil tanker in the Strait of Hormuz, and other Mideast developments - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeWdlRjU5QTRNU0tfUUpTVW1iYUNBQ3hWejBlMVBaWTFEbFh1MkVtM1QzamhsY240NFQ3aW1vTUdMb0JaVUk2QWY1WE9SZWNqLUpzWVI4OFpyWlN1b0pXTW5vZzNEc3ZqZV9wdVowMGpzeHJub1ZFTWtoZGRyRklIbnR2d19mOVhhWG5GdkxTdTB1bktBRHFMSlVGbEZ5Mk0?oc=5",
-          "pubDate": "Sat, 19 Sep 2026 02:09:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-19T19:15:21.258Z"
+      "updatedAt": "2026-09-19T21:38:45.044Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "Ten days that changed the course of AI - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxON2xmamNtUmNHeDRtbGtQS0FQWnJSZF9uWG1MVHNQRTBkMmt0Q3dkN1A1N1ZoSWo1MHBKQVhJZFB3aEhUQ3MtYmVfaTRPZ09DZzBKVWpUMjFTVktCNGxoSEFhbnhCb3lyclgxS2RfM3BpQjVCaVBPNzBOdkxEU1JCOWhpMnVjeE1MbXhRczNDNldCeXp2?oc=5",
+          "pubDate": "Sat, 19 Sep 2026 20:14:42 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Arsenal crash to defeat at Brighton, Tottenham gloom deepens - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSm1fblVwNG9kdW15NGlqRF96VGdFUFlXMDBYcF9sTE9yOWhJcHpSSzVMMHRUZlhrd3pGWTA3eDhDY0RZemN1OFJHbEZqZ3hCV05Ba0dKZmw0QUZ2dFlQZFZSSU5mWVlLOFZxenplZHpPUjYyZ3dHVHpFWHoyYzNWck5FaGhoQ1hTR21FbDFJejFUdkdNQmZsSDFpOE8wQkFpWUpLMzhXV1IxUDJTRXFBWXFkQUxSMk0tTHRrUjFFVmFJTm5xOVlKaUFB?oc=5",
-          "pubDate": "Sat, 19 Sep 2026 18:51:18 GMT",
+          "pubDate": "Sat, 19 Sep 2026 19:24:39 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Turkey says it could help meet Saudi military needs under defence pact - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcFRETlRnejhZT205SG1jcTdjVXczcElRSUxEam5NemVkeWdYaEdkU0hjSFlrMGkxd0JoV1YzMHlRUWl4TnJSSy14aFJUemp3bm55X0dqcXdEN0o4aUdScDE0M3ZsRzlEQ0lhWm4yX0NDVE02aUl6djZneTMxMWxsYnVlYTltMmVhMlVXdU5vZjY1Z3B3aVpCU0NVb1Y0ZmI1V3FJUi1EaGt1d1AwUV9JeTR0RWZVeFRZbUsyS2lTUUJUd1hfOFg4NEtMcWhUQQ?oc=5",
+          "pubDate": "Sat, 19 Sep 2026 19:21:47 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Slovak PM Fico says some in West seek war between Russia and NATO - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRHpGY0o4UF9tTDFQQm5xOGZGdzlRakc2UlNOMVNkbEF1TU1QeHRwREg4ZUNQMGo2M0FnSUlyUm0ycjlOZk41UDV4c3p5cDAxZXBxYTUyNUJUcnYzNVhEcmRBWFdsZ1Z4ZGFIcWNRNHFlUGZkVlVoRnlXTEpPY2J1T2JHTTVaMU0ya1FncEQ3YzJjb016UFBsM3NGZkljZl9SU0E?oc=5",
+          "pubDate": "Sat, 19 Sep 2026 19:11:45 GMT",
           "source": "Reuters"
         },
         {
@@ -182,44 +200,26 @@
           "source": "Reuters"
         },
         {
+          "title": "US Treasury's Bessent, China's He to meet on Sunday at JPMorgan headquarters - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQVRma05lOURVMXowWlB5cGxUakN3b09nZEgtbExsVUgxSml2dUE2Um9TVnZQa3JHSFU3WDZJMl85R183c2NyS0FFT1FZcXlFYUg2S0F3M2hTNk4yNnhwNlJhWGdYOV9fM3ludkZodlB0VVR6Z1VpQnBvb0pxME56TUU4VUlTMlFVS2tLWnhnMEg5VEZ4MFFzbnNsQ1lrSUt1clpCY3pXSF9uODJ5WXRaeU5heGQyR3Ns?oc=5",
+          "pubDate": "Sat, 19 Sep 2026 18:35:43 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Trump says he will appoint a new AI adviser, without providing details - Reuters",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeW9QS1RSUzNKWDluSVZQS0pJVDkyYjVWWjZPcWhEUHJkczdpZzhIN3N3THZ4Ylg1M2xLRTBzTDJyd1ktVDhOeHJVaHdqQWZXdVo4X2NqMllhVDNCQjZfUTJ0TV9fdEw5NW5OLTRDbzhEOG9UNjdGNUllQU15WGpuUncwMDd3OGhOY3Y2dTE0WEVoaXR6UzNV?oc=5",
           "pubDate": "Sat, 19 Sep 2026 18:34:17 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Canada optimistic about concluding trade talks with India by year-end, minister says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMl9oZE1jdTY1X182U1NIUDkxdEVqa3k5TUM0UGw2M0VRQnpURWlSRzRkakpzTUFQSFZKNF9iOWZZNkZUTFBsazlYSVBMZ1VGemM3SV9fRk9lMXpDbVljaF9tQy1hLWJVVXF6THktLS1hZjV3SFA3VTh3bEdGR2FxS013a1lKUWo1dlVab0lOczNYU0ZGV0RQdHZhdG1BRW5zX2ZWQkw4T285SDhjOUlocnVncDFHdkJnNlFjSEZhbnY2U0dkc3I4dzJ5cw?oc=5",
-          "pubDate": "Sat, 19 Sep 2026 17:24:05 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "After deaths of nine women, South Africans gather to run, mourn and demand change - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUEpTSXZWdWs5T0FDYlc3VTZnSjctUXdkdzd4MnRoclAxSWJLRTJhYWFBUWowQzdKbHRuZGhvSmRDMG1INEtVTEdsakprS1ZHRlBaNzdWWFVneUFJX0dsVE5nWVVJNnI0dkpQQzFIMDVOZkFjbW5vVC1KcnAtLXRSM0xSdTFXVGtzMjJ0SGRmV3BwSW1DdFpETk8yZkJJcHlYRHREOVF6bFA3aVRRcndYS1Q5M1I5aXFyOXc?oc=5",
-          "pubDate": "Sat, 19 Sep 2026 17:17:47 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "Greenland, Denmark say Trump deal won't compromise sovereignty - Reuters",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUUswdG5RR3A3czVTQV82SzUwWDh1ZDZrYjNXcld1cUQwOW9nZENwVlhQRVpfMXRQY2RXZ1pLcVlnal9jeGJxelREVVpWeTZyTTI2bnJKUXlIYUNtNklZQnkyWHNPX1NzZ1lIRVB2SVFfWkJTWkg4ZFM5WE5rdTVISldEczdQX1BIdkRyd21lYVhibzVLRkwwOGVIWXdfODNPRzloNWhEWQ?oc=5",
-          "pubDate": "Sat, 19 Sep 2026 15:47:37 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "German general Breuer elected to head top NATO military body - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRUN1Ympkb1FkbG0tcF9GUXFaSDVMV2I5ZGZUeEFVUUZMVElYVEQzWDlCVmlYT3RxeVVwQjRHY05zWEpfa0JoU3lyTExDWWdCWFlmQ3ZpeUJwYkNnc0h2QXd0M0d5dXdGdjBKMEd6Qkl0Rk95SkZmcE5zVHdCY01yNmlZS1R1dnplbUR0MF9QNWRkeW5tTXRWWmlqMGxCdUpvS1RraGp2bU5HckRtVUtuczdSei1YSTBZWTdXbw?oc=5",
-          "pubDate": "Sat, 19 Sep 2026 15:33:43 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "French finance ministry expects record debt in 2026, reaching nearly 120% of GDP - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRXpOR3pPZVEzWW1pNDFCanB6Z3QyWEFEQlBhZi0zaVN4U09RcWtTZEswa19EUW9TNUNqZ21kT01kSW42OXNJSmpmRE42UEJoRmtxUE1Ra1luUzRxRjJrbmhCbEpxMHBUNl9Hd21MV3RZd2RPM21lZzhNRlZEbG1rRFVLenV5QnhhSURwTmo2WTZzV3VaSG5HeU9vaFNZWFc3a2dxdHRYZklMSnpRU19idWp1dk9fSFoz?oc=5",
-          "pubDate": "Sat, 19 Sep 2026 15:06:47 GMT",
+          "pubDate": "Sat, 19 Sep 2026 18:33:10 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-19T19:15:21.725Z"
+      "updatedAt": "2026-09-19T21:38:45.453Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-19T19:15:21.930Z"
+      "updatedAt": "2026-09-19T21:38:45.523Z"
     }
   ]
 }
