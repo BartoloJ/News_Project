@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-09-19T13:00:57.782Z",
+  "generatedAt": "2026-09-19T16:42:48.269Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Google's Gemini AI hacked three companies in security test",
+          "link": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 19 Sep 2026 13:39:32 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "'Enough is enough': Women protest after string of murders near Johannesburg",
+          "link": "https://www.bbc.co.uk/news/videos/cm4gjxq1dx2eo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 19 Sep 2026 11:50:50 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Shark attack prompts rare kill order in Western Australia as victim named",
           "link": "https://www.bbc.co.uk/news/articles/cqwyzdnk442lo?at_medium=RSS&at_campaign=rss",
@@ -11,7 +23,7 @@
           "source": "BBC News"
         },
         {
-          "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
+          "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
           "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 19 Sep 2026 11:36:55 GMT",
           "source": "BBC News"
@@ -29,12 +41,6 @@
           "source": "BBC News"
         },
         {
-          "title": "Google's Gemini AI hacked three companies in security test",
-          "link": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 19 Sep 2026 04:27:11 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks",
           "link": "https://www.bbc.co.uk/news/articles/cmed7el18dxpo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 19 Sep 2026 04:20:47 GMT",
@@ -45,20 +51,20 @@
           "link": "https://www.bbc.co.uk/news/videos/cv8e3jw1kr4lo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 19 Sep 2026 00:03:53 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "I found love at an Irish matchmaking festival - and I want others to do the same",
-          "link": "https://www.bbc.co.uk/news/articles/cw5y4jz6k2p3o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 18 Sep 2026 23:18:02 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-19T13:00:56.296Z"
+      "updatedAt": "2026-09-19T16:42:33.630Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "CNN, MS NOW, Politico reporters denied access to White House following Trump ban",
+          "link": "https://www.npr.org/2026/09/19/nx-s1-5974854/trump-cnn-msnow-politico-ban",
+          "pubDate": "Sat, 19 Sep 2026 11:26:31 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Opinion: Remembering Annie Dillard, nature writer",
           "link": "https://www.npr.org/2026/09/19/nx-s1-5966624/opinion-remembering-annie-dillard-nature-writer",
@@ -66,13 +72,19 @@
           "source": "NPR"
         },
         {
-          "title": "Ancient teeth pose a mystery: What made those strange grooves?",
+          "title": "Life in Kabul 5 years after the Taliban's return",
+          "link": "https://www.npr.org/2026/09/19/nx-s1-5961263/life-in-kabul-5-years-after-the-talibans-return",
+          "pubDate": "Sat, 19 Sep 2026 07:40:40 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Betel nuts are a top mind-affecting substance. Now there's evidence of ancient use",
           "link": "https://www.npr.org/2026/09/19/g-s1-144054/ancient-teeth-betel-nuts-mind-altering-drugs",
           "pubDate": "Sat, 19 Sep 2026 07:21:56 -0400",
           "source": "NPR"
         },
         {
-          "title": "An Alaska storm scattered artifacts. Archaeologists are racing to save what's left",
+          "title": "Archaeologists are racing to save precious artifacts in Alaska after last year's storm",
           "link": "https://www.npr.org/2026/09/19/nx-s1-5966568/ex-typhoon-halong-nunallaq-artifacts-archaeological-dig-site-alaska-quinhagak",
           "pubDate": "Sat, 19 Sep 2026 05:01:00 -0400",
           "source": "NPR"
@@ -94,22 +106,10 @@
           "link": "https://www.npr.org/2026/09/19/g-s1-144162/as-europe-warms-italy-sees-west-nile-virus-spread",
           "pubDate": "Sat, 19 Sep 2026 01:13:18 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "U.S. and Denmark reach deal to build U.S. military presence in Greenland",
-          "link": "https://www.npr.org/2026/09/19/g-s1-144158/us-and-denmark-reach-deal",
-          "pubDate": "Sat, 19 Sep 2026 00:44:46 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Alaska's salmon-feasting bears face off in biggest Fat Bear Week ever",
-          "link": "https://www.npr.org/2026/09/18/nx-s1-5973938/fat-bear-week-2026-bracket",
-          "pubDate": "Fri, 18 Sep 2026 17:13:14 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-19T13:00:56.499Z"
+      "updatedAt": "2026-09-19T16:42:33.885Z"
     },
     {
       "name": "AP News",
@@ -163,7 +163,7 @@
           "source": "AP News"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-09-19T13:00:57.122Z"
     },
     {
@@ -218,7 +218,7 @@
           "source": "Reuters"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-09-19T13:00:57.553Z"
     },
     {
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-19T13:00:57.782Z"
+      "updatedAt": "2026-09-19T16:42:48.269Z"
     }
   ]
 }
