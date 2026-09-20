@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-09-19T23:59:25.307Z",
+  "generatedAt": "2026-09-20T04:45:53.521Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Watch: Concertgoers and pro-Palestinian activists arrive at Ed Sheeran concert",
+          "link": "https://www.bbc.co.uk/news/videos/ckd68l9g0gy5o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 20 Sep 2026 02:45:43 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy at Philadelphia show",
+          "link": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 20 Sep 2026 01:38:30 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Houthis say they targeted Saudi capital with ballistic missiles",
           "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
@@ -39,26 +51,26 @@
           "link": "https://www.bbc.co.uk/news/articles/cg4d9vly636o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 19 Sep 2026 23:01:38 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
-          "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 19 Sep 2026 23:00:27 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
-          "link": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 19 Sep 2026 21:01:56 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-19T23:59:23.831Z"
+      "updatedAt": "2026-09-20T04:45:52.565Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Saudi Arabia says Houthis tried to attack its capital",
+          "link": "https://www.npr.org/2026/09/19/nx-s1-5974980/saudi-arabia-houthis-attempted-attack-capital",
+          "pubDate": "Sat, 19 Sep 2026 23:57:23 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Ed Sheeran says situation in Gaza is 'catastrophic and unjustifiable' as he opens solo concert",
+          "link": "https://www.npr.org/2026/09/19/nx-s1-5974977/ed-sheeran-gaza-catastrophic-unjustifiable-opens-solo-concert",
+          "pubDate": "Sat, 19 Sep 2026 23:34:12 -0400",
+          "source": "NPR"
+        },
         {
           "title": "The new lines of southern Lebanon",
           "link": "https://www.npr.org/sections/the-picture-show/2026/09/19/g-s1-139752/the-new-lines-of-southern-lebanon",
@@ -94,81 +106,93 @@
           "link": "https://www.npr.org/2026/09/19/nx-s1-5966568/ex-typhoon-halong-nunallaq-artifacts-archaeological-dig-site-alaska-quinhagak",
           "pubDate": "Sat, 19 Sep 2026 05:01:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Ever wonder how the Fed's interest rate actually works? We've got answers",
-          "link": "https://www.npr.org/2026/09/19/nx-s1-5969816/federal-reserve-interest-rate-inflation-economy",
-          "pubDate": "Sat, 19 Sep 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Russia holds parliamentary vote in areas it seized from Ukraine in the war",
-          "link": "https://www.npr.org/2026/09/19/g-s1-144169/russia-holds-parliamentary-vote-in-areas-it-seized-from-ukraine",
-          "pubDate": "Sat, 19 Sep 2026 02:39:57 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-19T23:59:24.085Z"
+      "updatedAt": "2026-09-20T04:45:52.617Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Ed Sheeran is set to return to stage for 1st time since Macklemore was cut and other acts withdrew - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNR3o0V1lsZ2NpZEo4ZUFUYXJpSTRPWncyYktqOVVJQ09XblgydWdTdDY0V3AzazJlU1R6RmVHSFhvZlBKY2RYR1JOdWd3TG80em91NEdpMi1EQkNjN0lsdVJDaE9xVHc1ajgyMndpSFA0T1MzUDJJQWJDUjl3SjNyN1FhNVprS1MwODBjU0V5bFhkdHNJNTRObVAwQVBhSWFjbHlseA?oc=5",
-          "pubDate": "Sat, 19 Sep 2026 22:51:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Congo begins Ebola vaccinations for health workers in the epicenter of the outbreak - AP News",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdjVHQUFXN1Zmc2RXN2hsOURHY1R3MVIwcUp1RUlHSjBXQ3FyYnRYMlpQYkVuOUE1d2M3VVpKSTlVQmZlTFZfbUZ6NXFjVERFVVlRWWltVjE0dGlqWjVESndJV0hnS1ZIbWZoWlg3R2FYUWZQSHhTakxkYjFJejBGS1FDZjZSNkFyQmg4RjFvaWRRejFqaHlOSHgySkVSZw?oc=5",
-          "pubDate": "Sat, 19 Sep 2026 22:19:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown - AP News",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcGNIX0w3dGlsV1dsUUdPS1l6TXFWSm8yUVBkTlVhZl85V1hGNHVadW9LZFRHRl95Y2VBY0Nvc3FvbDBOcXpfdFlYc1dEckQtbk9BMVlEeHBIYkdBVjJmZDYxMFFpVlR6Mm1NeEZ3cEFvcmtLLXRTWDZjQjRtRWxuYnNQQ204Q0I0Z3haTXRSN0w3QnhSYXZDOG00eXhQd2ZyTVhZc09SR3lSb0ZSMU5mYktsNzNjWTdLVGV6dmZNVQ?oc=5",
-          "pubDate": "Sat, 19 Sep 2026 22:05:00 GMT",
+          "title": "Trinidad Chambliss leads No. 8 Mississippi past No. 7 LSU 32-24 in Lane Kiffin's return to Ole Miss - AP News",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZDJFUDFmd1ZuUnBjY1d6V01IVDV4M1pBT1lfQ21wTmNyNXZ5NVhaUUtlZXVLZ21UeWhIUm5KU2ZScEQ3aXpIYy1HNGtBdHBKUmVRTUs1Z1hXMXRzQ2xHVjRSV00xMWtmRVFQaUJTaXNXUGswNURoU0JyUU80RVBkZDBveEk?oc=5",
+          "pubDate": "Sun, 20 Sep 2026 03:36:00 GMT",
           "source": "AP News"
         },
         {
           "title": "Saudi Arabia says Houthis tried to attack its capital, and other Mideast developments - AP News",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNb3ZQdTJKbzNUNVFFeGV0NG0xYTlhTURSZ24wTGRxWUVsNFc3cUswUHpFWWFuM0piU1kxVmZlWURxbnZkT1Zvc0gxNHZPaVQ0di1hTmRoTDA1Z3Nib3phUjkycVIwN3czNlBDZl9tb2tpZ0liSVItaGVpQmpBUTEwSDl5UnZOTnhZdlh2UjcyRjAwSkFGN0N1UjBPcWp3NVE?oc=5",
-          "pubDate": "Sat, 19 Sep 2026 22:03:00 GMT",
+          "pubDate": "Sun, 20 Sep 2026 01:46:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Lowriding culture celebrated in San Francisco as it receives broader recognition - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTGtCdmd5Q1dPMDJ2UGc0Y3QzYTZyZ0hTSkVxQ2tLR1NKYVpsYTZOemwwTzh0Q2tHbUo3cDdkb3VpdUhRbTEyVW1nVzhISU0xNEhsWTNBN285Zi1ucUxWRFFvRW9FQzVmd3VmNU5BaDV1NHhaejBRM0d4UXRXRHltbFE5cXZaVnhRN1FOaVJEZ19JX1R6WFhoMGp3?oc=5",
-          "pubDate": "Sat, 19 Sep 2026 21:39:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Music City Miscue gives Vanderbilt a win against North Carolina State no one saw coming - AP News",
+          "title": "No. 9 Texas A&M loses at home to Kentucky, meaning SEC will have 2 top-10 teams tumble - AP News",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQV9BWENnOVRZZEZJOTVVVWZkdTVqcmN3OGxFQ3VQSWlXdTBRRi1wQ0F0Ym4tUXRTUzhaWGlUTEtwVHhKMnJ2SWs0WFVJX1lZUWV1dUFEaDVFSDBCRVY0R1FkUERWMDR5cGZpOTluMXFVaFQzRkcyb21MN1BpYkpUMUZnbzljQjdzLTZYQg?oc=5",
-          "pubDate": "Sat, 19 Sep 2026 21:21:00 GMT",
+          "pubDate": "Sun, 20 Sep 2026 01:36:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Saudi Arabia confirms Yemen’s Houthi rebels tried to attack its capital with a ballistic missile - AP News",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTl93X1pobmY4NGRuMlI4SHU5azdKQlZYbDRfQWJsUDBwcGIyZTdGOEIzY2g4Z29BLU9HUHFpbjdNbXNXdGxObzRGOVBoZC1acklPemZlRUhPeFdKaVMtcUFudWtIdmhHUVEya1M0R1NxakxsdUlpN05HNGtlSkFhRlFKTUs?oc=5",
-          "pubDate": "Sat, 19 Sep 2026 20:57:00 GMT",
+          "title": "Ed Sheeran says situation in Gaza is 'catastrophic and unjustifiable' as he opens solo concert - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNR3o0V1lsZ2NpZEo4ZUFUYXJpSTRPWncyYktqOVVJQ09XblgydWdTdDY0V3AzazJlU1R6RmVHSFhvZlBKY2RYR1JOdWd3TG80em91NEdpMi1EQkNjN0lsdVJDaE9xVHc1ajgyMndpSFA0T1MzUDJJQWJDUjl3SjNyN1FhNVprS1MwODBjU0V5bFhkdHNJNTRObVAwQVBhSWFjbHlseA?oc=5",
+          "pubDate": "Sun, 20 Sep 2026 01:26:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "MS NOW, CNN and Politico say their journalists were denied access to White House after Trump ban - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcUUtVjNhMUdzOUo3alRhSVRGVF9aeFVBVUJlSjg0b1RvVnBJYjNXNzh5bWlnbEFjbDg0QWlVSlZueDZWYXltMW11ampFUHphekE1VVdDdlp5MFVhV0lWUUVySmNBT21TZGJNZGh0YlF6c0ZKbmMzMVhKLWlaQWx5Q0RwTUhPZ2dudWc?oc=5",
-          "pubDate": "Sat, 19 Sep 2026 20:11:00 GMT",
+          "title": "Kentucky stuns No. 9 Texas A&M 31-21 in coach Will Stein’s first road game - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUmVfU0JKQi05SnViQ051ZjRISHpwREpjSERnSVh3S3pMcENYVGZ4NFN1TkR2RlZJNGtQQW80ZXp2dHUtdFROcDdXU01mQU9pMHVKRGdHek00N25KVU40bzRSSW1Hb21kaUZVQUhSNmo2YVVEbTBwdVdaS2s5bkN0VjZGVHJaQzZuUjdUQnVnVEFzZnBZ?oc=5",
+          "pubDate": "Sun, 20 Sep 2026 00:32:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Music City Miscue gives Vanderbilt a win over NC State no one saw coming - AP News",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPb1Rlbk81N09UWFZ1cmtuY1FZR1U1RElMSEQ2YXZJc1dSVEJOX2p0cDVhcmRLb1FnOTZrQ2twVnVoek1lTkJHNUQxU0xtZVJMNWlXZEs4RW5EV0QyY3FzZWRUb0xTY3ZlY2EwckNMRjNJTG9PRnRZNTZ2WElzSW5ldmdTLXd4bkZBenVzTWJZdUtOanI1Rl9najhyVl8tQQ?oc=5",
+          "pubDate": "Sun, 20 Sep 2026 00:28:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Fans in Ole Miss’ Grove mock Lane Kiffin but tout their ‘hospitality’ as he returns with LSU - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdmxtLWx1U2VhcElVMzBTanVFaFlwWUt3Uk00eW9tVEwzNzZySmpVcFBUazAxZ29VbVZzS095eHl0R2tid0w5TEVVZ19RZjc3QWlGR2pHTzROODM5cHF3SlhScmFWLXFRa1Z1TkkyUWtJQWpMdlI5Z3lPdWhQSkhhdEZfd2l5WE5Fd3BkRg?oc=5",
+          "pubDate": "Sun, 20 Sep 2026 00:24:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Vanderbilt stuns N.C. State with fumble recovery in end zone for improbable 35-31 win - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWGpKb1NiZmZBTFEwelppTGgxVWZrNzROMkdhUW9sdFNreUc5WHIzcnllelJhbnFiMmVRNk9sUUc0SGdCQW1vRFdLY0gyX3FXTF9PZHU5SjVTaFRXZk42ZXUxUGp4NjA2all1RjcyWV9BeEJTU0VzSXAzQmpsU0Rra3E5R08yNWg3LXBYbHV3?oc=5",
+          "pubDate": "Sat, 19 Sep 2026 22:55:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-19T23:59:24.621Z"
+      "updatedAt": "2026-09-20T04:45:53.064Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Ed Sheeran's fans back singer after controversy over Macklemore, Palestinians - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObjF0SWxoajFDdXhWT1U5M1QxbE9BXzJIT3dpVVhoUE51LUh2c3FBQ1IzQ3Y3Mm5mb25yWGZhbXRIUjhlZHNQUGUwdUE3OTRPSndaWk5SZ0tKY1d1Y08zNVZ1OWhnUTU1OXpuQnVyNkxBRVYyYTZQYkNsTTl5NzR6LWpsUWp0aEdUNnRfRTk2ZW82LUZia3VkRHJ5LVRqY3NXb3c0M29MM1VZZEVPNGt6cTFNNmY4Q3NMS0VlRjQ1NDZTT2NCTEl1Z1V4MW10Rmc?oc=5",
+          "pubDate": "Sun, 20 Sep 2026 01:37:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "China keeps benchmark lending rates unchanged for 16th month in September - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVDU1MlBxV3pIckRnemgzc1dvTlVHRUJOWkh4M2JQTElsR19PUW9FYVV4ME5ScDlyREdSOTI5QlRDSkNiMlRDTHBTaVJBOFRjblBzRnZfSHVYMFljYTRVQzJSMXFFWTEtU2xUNDVIV1NHclBwd0tWWjd0Vlk1RFdRZDVUVUFNS2pSRW55LTY2b0R0b1pBTkpEVm0yMllGYUlKVkQ0bmJZcVJYcUg0RGotdVJWTlB0NWJYTTdj?oc=5",
+          "pubDate": "Sun, 20 Sep 2026 01:34:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US says it killed four in strike on vessel in the Caribbean - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQd3ZDNjluUlBlYTVDbFpkamRIZUdhVUNsTk5XUFZ0UzU5MmpUZ0NtZGs0NFNuWXJ6aUx1dnNsN2VMd1RuNGlfZTZUNklVQXRUa2R5a19wUGc0SmJ0SzlsSW9aRGRGTnExYkRYZXp3TGE5eThhekFRTlFKejdhZGRmbzRrdDYyM2dkNEFDMTl2bDNlX1pRUlUwTVZXQQ?oc=5",
+          "pubDate": "Sun, 20 Sep 2026 00:19:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Venezuela leader Rodriguez signs agreement with French Oil Company Total Energies - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUHdDaFdZdk40NkZqOEtOeG1kTjI5dE5YUmY2ZjBXV25sWDh5cFNLZ3lReWxKMXZZQkxIRGI5MDJBOHRpSzdyY1RnMzdSRlNKTV9RZ2hZNnlYSFdaSUdRWmtNaUVRbS1ZdndyYlNxTjJONUw5SlFFdlVNVTNSbll4bFFRSE5HVlFyQkVTNy1Ja2UwZXVSc1lxa0tQUjRfd3pmMk12QllwVGhOZ2ttcEtKSzl3Tm11bHR0dF90eEh0ZHgtQQ?oc=5",
+          "pubDate": "Sat, 19 Sep 2026 23:23:41 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Hungarians and Slovaks share breakfast on Danube bridge that survived war and division - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOckNCakJvb1JpZnluMzdhMkY2ck95S0ZCMm04RElYWEEzSGNnbGFZWGFLS3dsYm1wVEtsWTBpUXVBczlObFVaaHJxZGduY0ZVam1uLUFHVzdvQVpVaEF0UHZIOFRkVENteXo5YzJ4NFkzVmItS2tFM3pPMFVxaFdOd2hKOUZMbmZHWkhtWkRiNl92cWNndVE1ZkNlTDR3azRjOHgtRmhkU253UjVBb2x0NmhwNDFLODAt?oc=5",
@@ -192,34 +216,10 @@
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSm1fblVwNG9kdW15NGlqRF96VGdFUFlXMDBYcF9sTE9yOWhJcHpSSzVMMHRUZlhrd3pGWTA3eDhDY0RZemN1OFJHbEZqZ3hCV05Ba0dKZmw0QUZ2dFlQZFZSSU5mWVlLOFZxenplZHpPUjYyZ3dHVHpFWHoyYzNWck5FaGhoQ1hTR21FbDFJejFUdkdNQmZsSDFpOE8wQkFpWUpLMzhXV1IxUDJTRXFBWXFkQUxSMk0tTHRrUjFFVmFJTm5xOVlKaUFB?oc=5",
           "pubDate": "Sat, 19 Sep 2026 19:24:39 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Turkey says it could help meet Saudi military needs under defence pact - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcFRETlRnejhZT205SG1jcTdjVXczcElRSUxEam5NemVkeWdYaEdkU0hjSFlrMGkxd0JoV1YzMHlRUWl4TnJSSy14aFJUemp3bm55X0dqcXdEN0o4aUdScDE0M3ZsRzlEQ0lhWm4yX0NDVE02aUl6djZneTMxMWxsYnVlYTltMmVhMlVXdU5vZjY1Z3B3aVpCU0NVb1Y0ZmI1V3FJUi1EaGt1d1AwUV9JeTR0RWZVeFRZbUsyS2lTUUJUd1hfOFg4NEtMcWhUQQ?oc=5",
-          "pubDate": "Sat, 19 Sep 2026 19:21:47 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Slovak PM Fico says some in West seek war between Russia and NATO - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRHpGY0o4UF9tTDFQQm5xOGZGdzlRakc2UlNOMVNkbEF1TU1QeHRwREg4ZUNQMGo2M0FnSUlyUm0ycjlOZk41UDV4c3p5cDAxZXBxYTUyNUJUcnYzNVhEcmRBWFdsZ1Z4ZGFIcWNRNHFlUGZkVlVoRnlXTEpPY2J1T2JHTTVaMU0ya1FncEQ3YzJjb016UFBsM3NGZkljZl9SU0E?oc=5",
-          "pubDate": "Sat, 19 Sep 2026 19:11:45 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "White House turns away CNN, MS NOW, Politico reporters after Trump's ban - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYlJsM3I5a1ZRT3VKVlJvVkNNNHo4Z29nLU5wN2tZTzItaTJRTW9ncmkyME1iM1hsMnpLWl9FN2lCdl96aHFvRXhxN0xxV082RVpoM2dwZS1icFI5ME13V0VPaW9DMlFKSm1wci0zMGlVYjV1UWxXd2dZRDRmb0RmWXJRbnk3ekhHQ0ZkMUc1U0U1bW1GN1Z4NV83VmlfNDBaTVB2OGhOdTN4SDVXcEF2czQ5bktSc1pVVWtQbA?oc=5",
-          "pubDate": "Sat, 19 Sep 2026 18:47:26 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US Treasury's Bessent, China's He to meet on Sunday at JPMorgan headquarters - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQVRma05lOURVMXowWlB5cGxUakN3b09nZEgtbExsVUgxSml2dUE2Um9TVnZQa3JHSFU3WDZJMl85R183c2NyS0FFT1FZcXlFYUg2S0F3M2hTNk4yNnhwNlJhWGdYOV9fM3ludkZodlB0VVR6Z1VpQnBvb0pxME56TUU4VUlTMlFVS2tLWnhnMEg5VEZ4MFFzbnNsQ1lrSUt1clpCY3pXSF9uODJ5WXRaeU5heGQyR3Ns?oc=5",
-          "pubDate": "Sat, 19 Sep 2026 18:35:43 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-19T23:59:25.086Z"
+      "updatedAt": "2026-09-20T04:45:53.491Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-19T23:59:25.307Z"
+      "updatedAt": "2026-09-20T04:45:53.521Z"
     }
   ]
 }
