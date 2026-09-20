@@ -1,9 +1,15 @@
 {
-  "generatedAt": "2026-09-20T20:36:13.678Z",
+  "generatedAt": "2026-09-20T23:06:04.389Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Man, 82, dies after beach fight with 76-year-old over sunlounger in Greece",
+          "link": "https://www.bbc.co.uk/news/articles/cqm27pnyd294o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 20 Sep 2026 21:17:22 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
           "link": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
@@ -45,20 +51,26 @@
           "link": "https://www.bbc.co.uk/news/videos/ckd68l9g0gy5o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 20 Sep 2026 02:45:43 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Houthis say they targeted Saudi capital with ballistic missiles",
-          "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 19 Sep 2026 23:49:26 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T20:36:12.369Z"
+      "updatedAt": "2026-09-20T23:06:02.740Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Federal immigration agent shoots and injures man in Austin, Texas",
+          "link": "https://www.npr.org/2026/09/20/nx-s1-5975517/ice-shooting-austin-texas",
+          "pubDate": "Sun, 20 Sep 2026 17:53:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Poison suspected in deaths of ten lions in game reserve in Tanzania",
+          "link": "https://www.npr.org/2026/09/20/nx-s1-5975478/poison-suspected-in-deaths-of-ten-lions-in-game-reserve-in-tanzania",
+          "pubDate": "Sun, 20 Sep 2026 17:39:24 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Germany's Merz vows to press ahead with reforms after historic state election defeat",
           "link": "https://www.npr.org/2026/09/20/g-s1-144211/germanys-merz-vows-to-press-ahead-with-reforms-after-historic-state-election-defeat",
@@ -94,132 +106,120 @@
           "link": "https://www.npr.org/2026/09/20/nx-s1-5963506/us-childcare-costs-astronomical-families-turning-to-grandparents",
           "pubDate": "Sun, 20 Sep 2026 06:00:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Ukraine fires over 1,000 drones at Russia, including hundreds launched at Moscow",
-          "link": "https://www.npr.org/2026/09/20/nx-s1-5975372/ukraine-fires-drones-at-russia-moscow",
-          "pubDate": "Sun, 20 Sep 2026 05:16:42 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "NPR's College Podcast Challenge is back for 2026",
-          "link": "https://www.npr.org/2026/09/20/nx-s1-5966588/nprs-college-podcast-challenge-is-back-for-2026",
-          "pubDate": "Sun, 20 Sep 2026 05:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T20:36:12.527Z"
+      "updatedAt": "2026-09-20T23:06:03.046Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Converse apologizes and pulls sneaker ad that critics said included racist imagery - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQW0tZ2EzcS15dFpDUEZsMDQ0MFhUTEpYS3Q1R3RPZnNpeHROMXJkNDhXc1JSczVCUEp3UnFPcWVEOE9maVBIdlE0N1JpSDdpVnhkNHpEQ2wtQ0tGS21PcHNteUdEWmZKbzc1aF9jT2pyaFRSYzE1R3R3UW1wb1JMRUU3c0ZJaU1uWEVPejB1dmM3UQ?oc=5",
-          "pubDate": "Sun, 20 Sep 2026 19:39:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Merz vows to press ahead with reforms after historic German state election defeat - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTHhpM0laRi15RUZNNHNvMnRlLUJzSWhpaWNIVWY3WkJ1b3NScV9ZaWtJbFRueUdhZUNwRDFYeXNDZnFpTElweEZ5V3RrM3l6TnRxQ0dVNGpuLTFfS2U0cm16cEF1eFlfV0tMZGZfdXYwci1oT3haQ0xra1JrZU9XNGVfS0h6STJ0VXlqaTVldEV1U1oyWllOVlJOSy1aYkVfdWtnQjJsQTRGM25GaVVmdw?oc=5",
-          "pubDate": "Sun, 20 Sep 2026 19:20:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Russia wraps up first wartime parliamentary election with Kremlin dominance all but assured - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVTdMN1ZGRTNNQy1IQUk3RXhDYklxaHlDV2ptNHZfMWFQaGpaQmd6QkpwVUxpSjlBc0ZGWV9fMkFWeGQ0UEpnWGZONEZLc214amFHX3BnWUwtRTBKQTlScWVWRmFsNkxucWNCOFpJWXg0dVNWOFNabG1ObWlkRS1nbUhFRlU4Wl9HRVN6SGxDU19JUlUyenlIUl9MRWpsbUs3NEZFRGpGU3Y?oc=5",
-          "pubDate": "Sun, 20 Sep 2026 19:06:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Ukraine fires over 1,000 drones at Russia, including ‘largest ever’ attack on Moscow - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVGlGcXh5MjVFY3ZkdEpja25rTGtoU3pfUHc4Qy14STl2bWtOWFE1bTM1TFJYRFppcHlzdm0xamotU2hzd0l5cTZzeFRILVpNMm9TR1p6MkRydkFWcXlOU3Z0T25SWFRaR2txZTlWZFVvVFUwY0xNb211TlJkSEgyazBQRTdIV1BndU9yaldocW1lZk1NMXN3?oc=5",
-          "pubDate": "Sun, 20 Sep 2026 19:00:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "An Israeli is shot dead in the occupied West Bank, and other Mideast developments - AP News",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeU81dDZnbW5CVWJaQTlBWXpfcGxXd2xJSlAyT3FwX182SDQxenhzdVI2cEpKMC1CbEVtUVJkN3UweGpCbHFTMHM2a0QyejJ3S1o3YVdOVVBMZm85SFpfZXBaOVVDMG9ZdlRhQ21KMXlsSlZOdXlnNUdCXzh2S0NBdm1WVWtITWxJTEhwM3E0TWU1SUhrSkVTRmNkNXRWelE?oc=5",
-          "pubDate": "Sun, 20 Sep 2026 18:51:00 GMT",
+          "pubDate": "Sun, 20 Sep 2026 22:32:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "ICE agent shoots and wounds man in Austin, Texas, officials say - AP News",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaV8xUmhlQWYzdm00cHB5S0xveXRhNml5eG85YlI4bXpyMEMyU3RCUVdQS25oUHRVQTNWd21rTTJ2a3ZZUlgzZUFwcENkcXE3QTh1b1JtcUc2Q1hoRHVWQWoyYXJGRklNUjNBODdDODFHdVE3UTFDWUdNOFh0b2dyRklQVHVXTmo0cHZkenpTejBQNXVjdnp1UVNpLUlOZw?oc=5",
+          "pubDate": "Sun, 20 Sep 2026 21:23:25 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Tropical Storm Fay forms far out in the Atlantic as Odalys strengthens in the Pacific - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTmhIcWRYajJUZG81Z3RranAtOHF3ZUFkSHVJbzFXa3JPMVZYTEdHbEpLWGhQMm9WTXJXZEtUWGlrbmc1QkNhakRFcDZ3SUlCQ2xzYm5rZ0dhX2Z3M0FNdmoxbGRBczNNU3B1OWVrelExTjdaM1hONmh1cEJZTjQ3Zm80TWtHYndDNWdDd0Nn?oc=5",
+          "pubDate": "Sun, 20 Sep 2026 21:05:00 GMT",
           "source": "AP News"
         },
         {
           "title": "18 suspects accused in the July 2021 killing of Haiti's president being extradited from Haiti to US - AP News",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQendtZ0hLeGJDOG5iOGl1Q3U2OXBkYjZoSXpPbHJqOW15cjFhRzdDNnVaOTJNQnowNERkWHNXbXFiM2FhN2x0TndfZkUzc0w1aV9iVWNMQldUVWJUWEMzQnJNVUt4WnpQTEp5ZWJNZjFsRkhUVGJ6MFpjOWdVSl9oc3BQbmVPSlRIcUx3aWkwVzBpUzBfbWtFMzZNenY2cVU?oc=5",
-          "pubDate": "Sun, 20 Sep 2026 18:48:00 GMT",
+          "pubDate": "Sun, 20 Sep 2026 20:55:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Trump and Mamdani plan to meet in New York during the president’s upcoming UN visit - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORlctYzNSTUltMjkyUFpkQzBza19IVjFJQjVBNElQV2E3d0l3NFMzMEdFTzRobjBfNGU1c0NRb1RROFpMMkloemp3Z0Z0OHB1eU9JbDE0U2xlMk4zMkVSMTl1c2VKdTNQalk0d0NPNGNGbzlUWndaWlJocGktUjBYT2JDVXRvRDRJVVUwT0wxR21TVVB3?oc=5",
-          "pubDate": "Sun, 20 Sep 2026 18:43:00 GMT",
+          "title": "Photos of the Bavarian tradition of Oktoberfest in Munich - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTFZwVDF6QkQtN2Vxck1ocTA0cDU3SjNacExRb2x5QXB4S25NMWNoQ1hsN1pOWnBTd2Qtc0pUamUteFpaRnA1Mm9JdHdtOHlRS2wtd2s4ZDhpVldQdGxvV2pNa0RZNmQxWnlGVDh6ZGI3Y0ZweVV4MHhaQk5ub0g4QThHX1pTcGhHWTlBd0xKZjZzQWFKamNaTzk0emp5SEF2QkRFV0pOSmZzQkx4akpj?oc=5",
+          "pubDate": "Sun, 20 Sep 2026 20:27:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Iran-backed Houthi rebels warn against joining Saudi Arabia in Yemen’s growing civil war - AP News",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMjZSU3pzSDBwWFJaUEUwdEg1YXEzemljdXpSQXk2bVN6cEtacEJYYTVKRU9xdUw1RFhYRm13b0lrZTgteFpLMVJDTWl5TFBKaTdCRldGc05RdVFPMkd4Q244c1cyTjlsZFNDR0RNTEsyQzlFa0FWUFZBazdnbG41MVhBb3B3Szh2RzI0N3dnZ1d6dlFIVlFxSHhzc0J1SHdW?oc=5",
-          "pubDate": "Sun, 20 Sep 2026 18:23:00 GMT",
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Sun, 20 Sep 2026 20:23:03 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Merz vows to press ahead with reforms after historic German state election defeat - AP News",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTHhpM0laRi15RUZNNHNvMnRlLUJzSWhpaWNIVWY3WkJ1b3NScV9ZaWtJbFRueUdhZUNwRDFYeXNDZnFpTElweEZ5V3RrM3l6TnRxQ0dVNGpuLTFfS2U0cm16cEF1eFlfV0tMZGZfdXYwci1oT3haQ0xra1JrZU9XNGVfS0h6STJ0VXlqaTVldEV1U1oyWllOVlJOSy1aYkVfdWtnQjJsQTRGM25GaVVmdw?oc=5",
+          "pubDate": "Sun, 20 Sep 2026 20:13:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Trump says his planned arch would become a 'military complex' able to host drones and snipers - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOakc1V2NPUmNYZkVvZ05DR3ZLWk1jeWczejNDRnhsMTl4bkZlUnNiUWx6VTZhcnhFS3BLQV9CNnRJSi1Cb2Y4Q1lwbDYyMkN0MnRSWV94cll0eGNXbkhxaWJfOXVBMjFjc2ozSGtSa0dlM3NlVHdQbENBUExJUFRBZUY2X0UxRGNFTlROWGI4dG95ODdTcUdzYm1CaFFGUG9SZmRlLUgxaw?oc=5",
+          "pubDate": "Sun, 20 Sep 2026 20:03:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T20:36:12.993Z"
+      "updatedAt": "2026-09-20T23:06:03.595Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Trump administration prepares to sanction the International Criminal Court, WSJ reports - Reuters",
+          "title": "Oil rises after Houthi attack on Saudi capital - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdEljbFotbFNVU2Nyb1oyaElIUXJJc1ltUmF5a1FrMl9xbEwyNG9LOWwyZ3F2dUZIUl9QYnd6OXU1cU10UGx0QzkxaVp6QkoxY3ZYSm1qc3FvbFprT29VcldJZ3V1Y1YtZ1A3MjEtTUo2dk9laHFBaWZBMFNOMmZDVC16aDBhYUdmdmZFdUJ4d0hoMW5hZTgxRk1ETQ?oc=5",
+          "pubDate": "Sun, 20 Sep 2026 22:12:27 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "AfD leads as Merz rues 'disaster' in worst state election result in postwar Germany - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZzV1OGZScHpSaFBvZVZuV2RwNFJzdV9GOVNuT0s1b1N0dlU5RXVQdGh5ZHpneWloTWNOU01GMVgxZjlVTVFtTG5Ock0xZWcwQ21iaWVObjNKeTdBY3MzcDU0RGNNanRHNG1LbWlkeUh1RUY0QW5TM2JfbkJ5bFFwcmMzdDZkQTd0STVXRGJkMjA5bkZWVGN6Q3kteHJMZTQ1dnc?oc=5",
+          "pubDate": "Sun, 20 Sep 2026 21:28:31 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Trump administration prepares sanctions against International Criminal Court, sources say - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbzVOcmJ4eEtjbkl2RklqSHpWQUVfbHJWTE9fbl95b0ZaajRqbXJYLWxmUExfYUpBcDNuSEVlWGN3djQtbXNCbENmMkJqaDgyWjMtaElIcXpxNkpTdElHZTVNSkUtU3ZYSUdJLVF3WUszZUlSSXJSU1JYS19ZM05HOEJyLWlTZk10bEhYTWRGUGR3ZFlld0tVR0EyYThkaTBOWHRtbFBZUnVaTXZ5WEVPTzVTTXlFYTBDUUx0M1ZB?oc=5",
-          "pubDate": "Sun, 20 Sep 2026 18:46:05 GMT",
+          "pubDate": "Sun, 20 Sep 2026 21:24:10 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Harry and Meghan need protection to avoid Diana's ordeal, her brother Spencer says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcHFKeUZSeUJjTk5kd1RVQ1pOZjg1dmJERV8wYUZvcjJXM3lMT0J6MGxvWlJQalR6U0ZMQzdyeXBOWFhOeFNsZ2REa1JpakIwRHJwRTR3c0NfeUUxRFVMcHB2bHBCTVJGLVJXd3laYklFYlhkcGRVTHV4UngtcFc4bWsyTTJPOXVhR2thZ3BmcWhtTERZRDJuLXhWNGxNbDRvS29sakVTc1ZXd0owX2gzSXFVdGFPdXVtLTNvT1Z6d3d4a1FyRjdVa1B4cUU?oc=5",
-          "pubDate": "Sun, 20 Sep 2026 18:20:05 GMT",
+          "title": "Germany's far-right AfD leads race in north-east state, exit poll shows - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbGtvQWVGZHl5UFp3Y29tTC1qMHZZR3dlV2otZTRWM2NYRVBKdElmY3JmMV9OdEQySWtRS3JoUk9CT0xPY05RS0FKRi1ydVJpUlRfVTdsV3lJRmJsVlpvNFhsMFRncXplbm9iSGo1N3gwRVBybzlRS0dmaUh5V0VzR0UwMXV3aDlsN2I1d0pQLVNEMzdrM3Q2Q0VHeEptdFo5LUlFUHcwQUhDRzVf?oc=5",
+          "pubDate": "Sun, 20 Sep 2026 20:41:37 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Trump wants to use Washington arch as military complex for drones and snipers - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS0NSWXh5Yk1oTE53RXhpcE14ZHRTUUl2Rzlhbkhhb0wyLXJYdkR4azJXbkxZRENxRTRTNkEyX2xHQTlTLUtTSFhZM0xqMlRJSTdvWUcyOTljYjUtY2tJYTRJcnpwMXNXSjU5VnRpN1JMMVRRS01ZTjZTUklacUQxSWZObk9FOG0xak9lazNlcFhTcFZyRjFxR1hVQQ?oc=5",
-          "pubDate": "Sun, 20 Sep 2026 18:05:52 GMT",
+          "title": "Lightning suspends Bucs-Browns at 2-minute warning - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORi1pYUc5d29iQmc5c3lld1U2VS03OG14RHZJMHlZT3V6aV9hTkVYWXJodTNFZFpUMVdLdHVTR25pLW5lSEp1aWYzY2xMMjcxOXRfT3dUTGhQNHJoeWZxdWoyTHMyVHBQaXI1cjdjbUR3bTdDWUJJVGlxZ0pXSi05a1JlbEc2V0JOOEZ1ZFZnNWRoT1JvNXVwNEdyQQ?oc=5",
+          "pubDate": "Sun, 20 Sep 2026 20:38:10 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Atletico ride derby storm to beat 10-man Real Madrid 2-1 - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRW51c2Njb1p0eEpuRnA2REVWblZzRzBlY2dPZWMtQjFTYno3RDVSLW9yWUh0OVJDNVJjX2gwQTFYUDFaY2FIRHhvaWllbVRXNUJBMkdEdnhGTzR6TlRZSFNFVnJVdFh4WDNMTGtYRmZSRGZ3bzlxS1NuXzhDaVFDYW15cUJWQXl2NlcyVi1XTU0wSUVxalZfWjhTbTBleVZQS2ZyS3RR?oc=5",
-          "pubDate": "Sun, 20 Sep 2026 17:59:34 GMT",
+          "title": "Suspects in 2021 killing of Haitian president flown to US to face trial - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdjNmWGJ2amxDcDIwdUFWX1FhQ1pwVndmV1A4RDJ0MTdkU2JUc3BlTTc2djV4MG5wNmJPYTZPLTh3ZFJHRHFFX01wM0dFVV9VUVh5cXV4OFFFTVVKNUdzb0lCZzF3V1l0Y29zWE1CWUtHQngtSm5sNzZ2S3NVcHRsNTRacG1xVXRkWHhIeE16a0psWW9fSWtNTmtQMjROdkdrb0JUaXB6ZzNremVxMlE0?oc=5",
+          "pubDate": "Sun, 20 Sep 2026 19:48:01 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Manchester City beat Sunderland in humdinger to maintain 100% start, Man Utd scrape draw - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcVJHR0xVdk9mSlZwZjlndTdNZWdBSVlIYTNWZ0UyTmRvSjhiM29zblFRZm8zaHh4eXpPbF9UeGM3ZXozc0taVWtjMXhnTzg1T1pQaklkeUNkU3JUdVNiaWVKTk1WQVRqdGN2WEtaTEpjekxCNUlXQmdEdnRqRlY2OTZxbU82OTBXS1Fzck42ZW1pSUh0VjI4NzMyakZLT3I0SFZCWnBOdHd0aTZVLXpBclhTSEFpaU1o?oc=5",
-          "pubDate": "Sun, 20 Sep 2026 17:58:39 GMT",
+          "title": "UBS CEO Ermotti warns against harsh capital rules ahead of vote - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSVlUcU5uX0dwYXlSZFc4Q19ENDFwdG1VRnV1VDczQ2tHb2tTRmRxVnlTU0Y3Ukh4ajh1YTNXOHNPU09jUThMdzYwSUhPVE1DVUpTUnhyVkQwX3F3bVhSeTBrRnhHNzJxSlhQMUhJbWVmUy1Fdi1fU08tVHBXZlZHSzE1RlhDa2hiQ0hhdzZESFRHaUEwMGF1TDlYNzVpVkhhSk5tblJrNUJFeXhVa2owX256eEVMWDA?oc=5",
+          "pubDate": "Sun, 20 Sep 2026 19:33:52 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Canada's Carney calls for stronger ties with France in face of new global threats - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPal9WbUM0MEFKck5MUGctck9iUzAxVzRRRW9PTnZINTdsalE1NjhnQXBYSkIweDdfTk5DZnd0TXpCYlc2ZkNMSXdrVUFoSWhaQnFxaGt3TC1qWTJ3cHA2MkxQUWNXcG13enJ1UTk0bVFjNWU5Z0ZoVTFiY0pXREJCeTNoZTlnN3lWT0c5dkRlNWpkNHc2cDVXRzduWFBhSmc4R0xwV2VyWTVyNGFnRFZTYzZoN2NraHNxQWJULWJR?oc=5",
-          "pubDate": "Sun, 20 Sep 2026 17:48:09 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Iran and US trade threats after Houthi attacks escalate regional conflict - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdWJkS01sRHBUcXZGZVVoTy1zVU04amJ0VUc3WnZ4UkVZd25TTTR6RGY1ZkV5OUtGZzFULVNDcEo4MzlZMmNkamt0VjR5VHg3YzRDaWhEOFAtZklDbFpGSXpCeE9BeGR3UWp3aFN1MVp2aUMyZE93ZnFUN0VTdzdkZGJnMDdrOFNtc1lhZC1UQlNDWFl3dGRWdjZwYkc2SHJGelBn?oc=5",
-          "pubDate": "Sun, 20 Sep 2026 17:46:57 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Mourinho fumes at referee, Simeone urges respect after fiery Madrid derby - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObUd2YnAzWDRtOVR5aHo0WjRFb0liN0F3TjFoRFpUWDg4SFFBM1Nqa0w5cWZ5VHZlMnJhN1JpQThNTkszbGFRQ0k3Y0lRZEs3ZXp1YmRLV25pTjFXenNDQk9PQlpPUWE1QVBIQ0JoRUhOc192eDZxRTNkUzVNMkF4VlhFZzYxRkhYVzM1WC1lWmY1b3RKeEwzOTRYLWZYVExuZjRMU1JnRUQ0RGU1N1B6a0xEU192eTlCX2g4?oc=5",
-          "pubDate": "Sun, 20 Sep 2026 17:39:43 GMT",
+          "title": "Ukraine's Zelenskiy says he and Trump agree to meet in New York - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSnpuUzhvbURvMlJhal83Q29DTVpxNHFLVzlHeWtvY21qTG0wakVyZVdoTHpNYXBkb3piRTRBajVaME1ZZDV1bUJ0SDQxZ1lEWjcwR2pnbkJFbEFNVGoyZW1DZG5kbHpWVlhBOGJrbFoxVkhRQ3JzLVRPM0EybFk4U3VDdXhHZmw5dXlHQmtvVHNuZzd2M3BXT2RvN2trQQ?oc=5",
+          "pubDate": "Sun, 20 Sep 2026 19:14:04 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T20:36:13.443Z"
+      "updatedAt": "2026-09-20T23:06:04.071Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T20:36:13.678Z"
+      "updatedAt": "2026-09-20T23:06:04.389Z"
     }
   ]
 }
