@@ -1,19 +1,25 @@
 {
-  "generatedAt": "2026-09-20T14:03:02.417Z",
+  "generatedAt": "2026-09-20T17:36:23.350Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
-          "link": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 20 Sep 2026 10:45:39 GMT",
+          "title": "German Chancellor Merz vows to stay on despite 'disaster' in state election",
+          "link": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 20 Sep 2026 16:50:21 GMT",
           "source": "BBC News"
         },
         {
-          "title": "German elections under way which could decide fate of Chancellor Merz",
-          "link": "https://www.bbc.co.uk/news/articles/cme8xj6g2ny7o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 20 Sep 2026 07:57:32 GMT",
+          "title": "Trump says triumphal arch will be military complex with drones and snipers",
+          "link": "https://www.bbc.co.uk/news/articles/cqdj4pez00dzo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 20 Sep 2026 16:36:43 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
+          "link": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 20 Sep 2026 10:45:39 GMT",
           "source": "BBC News"
         },
         {
@@ -45,20 +51,20 @@
           "link": "https://www.bbc.co.uk/news/articles/cvgy1q2k2z0o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 19 Sep 2026 23:18:18 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Mum's viral barefoot race sparks debate over India's education crisis",
-          "link": "https://www.bbc.co.uk/news/articles/cw62m6z7m7zjo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 19 Sep 2026 23:18:06 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T14:03:00.575Z"
+      "updatedAt": "2026-09-20T17:36:21.637Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Trump says his D.C. arch will serve as 'military complex' with snipers and drones",
+          "link": "https://www.npr.org/2026/09/20/nx-s1-5975449/trump-washington-dc-arch-military-complex-snipers-drones",
+          "pubDate": "Sun, 20 Sep 2026 11:05:47 -0400",
+          "source": "NPR"
+        },
         {
           "title": "PHOTOS: The precarious life of fisherfolk",
           "link": "https://www.npr.org/2026/09/20/g-s1-143447/photos-fishermen-sea-india",
@@ -90,136 +96,130 @@
           "source": "NPR"
         },
         {
-          "title": "How the NPR College Podcast Challenge changed lives",
-          "link": "https://www.npr.org/2026/09/20/nx-s1-5945292/college-podcast-challenge-five-years",
-          "pubDate": "Sun, 20 Sep 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
           "title": "NPR's College Podcast Challenge is back for 2026",
           "link": "https://www.npr.org/2026/09/20/nx-s1-5966588/nprs-college-podcast-challenge-is-back-for-2026",
           "pubDate": "Sun, 20 Sep 2026 05:00:00 -0400",
           "source": "NPR"
         },
         {
-          "title": "Thousands of planned launches, terms of deal, worry some near Louisiana SpaceX site",
-          "link": "https://www.npr.org/2026/09/20/nx-s1-5974180/spacex-musk-landry-louisiana-ndas",
+          "title": "How the NPR College Podcast Challenge changed lives",
+          "link": "https://www.npr.org/2026/09/20/nx-s1-5945292/college-podcast-challenge-five-years",
           "pubDate": "Sun, 20 Sep 2026 05:00:00 -0400",
           "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T14:03:00.864Z"
+      "updatedAt": "2026-09-20T17:36:21.940Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "This truth emerges as political situations change fast: Maps show us our world, but not neutrally - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR25VcTFzRzY5VVhxd0daMUZWZ2RsaUR1clpqdzJ0WlkxSUlqS3pyRzlKTUJuNmVUTlRTSGluNGpnRTdXNmwxbkpYWGFPYzNyVXRZdHZWTnlqT1k2Ylgxb09lajFpR3RNVWZmTi1jd2pRVEhuOVFyVVZ6WkRtRW90M255S2xVLVFHRkhBVU9lS0hKYmpS?oc=5",
-          "pubDate": "Sun, 20 Sep 2026 12:29:00 GMT",
+          "title": "Russia wraps up first wartime parliamentary election with Kremlin dominance all but assured - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVTdMN1ZGRTNNQy1IQUk3RXhDYklxaHlDV2ptNHZfMWFQaGpaQmd6QkpwVUxpSjlBc0ZGWV9fMkFWeGQ0UEpnWGZONEZLc214amFHX3BnWUwtRTBKQTlScWVWRmFsNkxucWNCOFpJWXg0dVNWOFNabG1ObWlkRS1nbUhFRlU4Wl9HRVN6SGxDU19JUlUyenlIUl9MRWpsbUs3NEZFRGpGU3Y?oc=5",
+          "pubDate": "Sun, 20 Sep 2026 17:19:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Trump used to slam China. Here’s why he’s now rolling out the red carpet for Xi - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNmY1N25RRnlzbndnTndEbFN0aU1iWXFGaXFhaXZ2R3lJZWFvcW9rTWViMWVFU1ZHLTk1UHI1eHNzeUFsTmFxckxVeklqOXNZWW5jMFZVeTdkdnEza0FPUzVIR0NKNWlZSVZrLXhhRENCRFRBRE1CVFI3TExiV0NDQUlwcldZTkN5dnpMMUJGUHlTRjVTWWVWUFdHQndRSUJHZjI3QVdn?oc=5",
-          "pubDate": "Sun, 20 Sep 2026 11:35:00 GMT",
+          "title": "Merz vows to press ahead with reforms after historic state election defeat - AP News",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTHhpM0laRi15RUZNNHNvMnRlLUJzSWhpaWNIVWY3WkJ1b3NScV9ZaWtJbFRueUdhZUNwRDFYeXNDZnFpTElweEZ5V3RrM3l6TnRxQ0dVNGpuLTFfS2U0cm16cEF1eFlfV0tMZGZfdXYwci1oT3haQ0xra1JrZU9XNGVfS0h6STJ0VXlqaTVldEV1U1oyWllOVlJOSy1aYkVfdWtnQjJsQTRGM25GaVVmdw?oc=5",
+          "pubDate": "Sun, 20 Sep 2026 16:53:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "North Korea launches 2 ballistic missiles toward the sea and dials up pressure on the US - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcVVYclhGeTgxaDh5T2dZVGJFbTRELUFsdGFvM1A1UGZFSkFIcnRkTTFxVUtvQy1lUmM1WlZxM0FEU3I3NHc3dXJaZDlaLWFqNktIRFZtcGZ5WUJxQWlsT3hQN1lwZFhoNFpGX0dVT3RXRng5TEhEVzg4OTF3cmo0R01yMVFFVGRoQmwwVA?oc=5",
-          "pubDate": "Sun, 20 Sep 2026 11:33:00 GMT",
+          "title": "Longtime AP Florida politics reporter Brendan Farrington dies at 60 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdlBDQTNLSHRNbmNCMHZIX1ItTGI0UW11a0dXUE9tZDU5dUNrWUdyUWc3UGY3bEw5U2RuZ0lnY3pQRFYtWDF6dTVIT0Ywc0QzMmh0UjFManJOWThzWGFBaEJQcjBSc0o1OEtGckhmRENNb0NaNWh6NkNiaUJlUFVsWEN4dlFfQkM4VjViZmoxeC1JZFlOWEh2ZVdpVXl5MmtrLUdsQThoUHpOUTdtSkIzbXR6XzFRV2FraHk4?oc=5",
+          "pubDate": "Sun, 20 Sep 2026 16:32:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Ukraine fires over 1,000 drones at Russia, including hundreds launched at Moscow - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVGlGcXh5MjVFY3ZkdEpja25rTGtoU3pfUHc4Qy14STl2bWtOWFE1bTM1TFJYRFppcHlzdm0xamotU2hzd0l5cTZzeFRILVpNMm9TR1p6MkRydkFWcXlOU3Z0T25SWFRaR2txZTlWZFVvVFUwY0xNb211TlJkSEgyazBQRTdIV1BndU9yaldocW1lZk1NMXN3?oc=5",
-          "pubDate": "Sun, 20 Sep 2026 10:40:00 GMT",
+          "title": "Far from shore, Tropical Storm Fay forms as Odalys eyes hurricane strength - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTmhIcWRYajJUZG81Z3RranAtOHF3ZUFkSHVJbzFXa3JPMVZYTEdHbEpLWGhQMm9WTXJXZEtUWGlrbmc1QkNhakRFcDZ3SUlCQ2xzYm5rZ0dhX2Z3M0FNdmoxbGRBczNNU3B1OWVrelExTjdaM1hONmh1cEJZTjQ3Zm80TWtHYndDNWdDd0Nn?oc=5",
+          "pubDate": "Sun, 20 Sep 2026 16:31:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Sun, 20 Sep 2026 10:23:40 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Sun, 20 Sep 2026 09:40:51 GMT",
+          "title": "Box Office: ‘Resident Evil’ tops box office with franchise best debut of $60 million - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSHB1V3V6aGc0MnVORXRYMGlndmRpdlplU3pTbmpSblFYLWF6U21tUzN1TVBKaFdNbWNRSExaa1hsbmxhcVVQSGxNNXpBZ1RCd0U1NjEyMFNRWW1DbTdQblYwUnBYZWpxcVd3VWptNDVMR0FoNHctV0JZaFlsTGxwRllCUVJVa1FvNEhRNA?oc=5",
+          "pubDate": "Sun, 20 Sep 2026 16:19:00 GMT",
           "source": "AP News"
         },
         {
           "title": "Ed Sheeran says situation in Gaza is ‘catastrophic and unjustifiable’ as he opens concert - AP News",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNR3o0V1lsZ2NpZEo4ZUFUYXJpSTRPWncyYktqOVVJQ09XblgydWdTdDY0V3AzazJlU1R6RmVHSFhvZlBKY2RYR1JOdWd3TG80em91NEdpMi1EQkNjN0lsdVJDaE9xVHc1ajgyMndpSFA0T1MzUDJJQWJDUjl3SjNyN1FhNVprS1MwODBjU0V5bFhkdHNJNTRObVAwQVBhSWFjbHlseA?oc=5",
-          "pubDate": "Sun, 20 Sep 2026 07:54:00 GMT",
+          "pubDate": "Sun, 20 Sep 2026 15:41:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Pakistani forces kill 5 militants and free 23 hostages in operation in the southwest - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOS2NoMWZZMURmVzNHdHZxdTYwVDlMSVFDTXlIMEVhcS0xWFJNS0s2MlhYeDIzSXozY25ILWdIdTI1LTRLTm9na2g1RFg3TTJNTXhFUmI2bHJ1bGNUbTF3RFh1eWhOUXpOdnZnTVlvQXFrUmZOdHBPM0Vmd1pOc1V0VFItTGhFenZnWFNiaWdBVFhKMzNMWjN0WnlBejFaRlRGRTRlSlgxTGRlWDVLcnBSNjdnNA?oc=5",
-          "pubDate": "Sun, 20 Sep 2026 07:28:00 GMT",
+          "title": "Ukraine fires over 1,000 drones at Russia, including ‘largest ever’ attack on Moscow - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVGlGcXh5MjVFY3ZkdEpja25rTGtoU3pfUHc4Qy14STl2bWtOWFE1bTM1TFJYRFppcHlzdm0xamotU2hzd0l5cTZzeFRILVpNMm9TR1p6MkRydkFWcXlOU3Z0T25SWFRaR2txZTlWZFVvVFUwY0xNb211TlJkSEgyazBQRTdIV1BndU9yaldocW1lZk1NMXN3?oc=5",
+          "pubDate": "Sun, 20 Sep 2026 15:38:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Trump says his planned arch would become a 'military complex' able to host drones and snipers - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOakc1V2NPUmNYZkVvZ05DR3ZLWk1jeWczejNDRnhsMTl4bkZlUnNiUWx6VTZhcnhFS3BLQV9CNnRJSi1Cb2Y4Q1lwbDYyMkN0MnRSWV94cll0eGNXbkhxaWJfOXVBMjFjc2ozSGtSa0dlM3NlVHdQbENBUExJUFRBZUY2X0UxRGNFTlROWGI4dG95ODdTcUdzYm1CaFFGUG9SZmRlLUgxaw?oc=5",
+          "pubDate": "Sun, 20 Sep 2026 15:09:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T14:03:01.427Z"
+      "updatedAt": "2026-09-20T17:36:22.652Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Trump to use Washington triumphal arch as military complex - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS0NSWXh5Yk1oTE53RXhpcE14ZHRTUUl2Rzlhbkhhb0wyLXJYdkR4azJXbkxZRENxRTRTNkEyX2xHQTlTLUtTSFhZM0xqMlRJSTdvWUcyOTljYjUtY2tJYTRJcnpwMXNXSjU5VnRpN1JMMVRRS01ZTjZTUklacUQxSWZObk9FOG0xak9lazNlcFhTcFZyRjFxR1hVQQ?oc=5",
-          "pubDate": "Sun, 20 Sep 2026 13:25:07 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "North Korea fires two ballistic missiles off east coast in three hours - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTDFuRjFrR3lVU05OakZFWFlOdWFSTGsyelUxZmZrMkZvamthRHNRVkx0ZG95NnRIdXlWUFVhX2pfaUo2M1haY1B5RXNzVjJTRDZ3bXN6MUpYWUxiZThYbE9FWHBUemMtbC1SMHRQeWdBdC00YmxUWEZkXzljNm9PTnBCNS14WGFUOUFQRVZEN25feWZLNkRmcFN4M0pyM3pBZDF2cktnVGF6OXM?oc=5",
-          "pubDate": "Sun, 20 Sep 2026 12:56:43 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Indonesia rescue agency recovers another victim from capsized ship, authorities say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSGRNX1RUUzViS3pqektQTlFyRjRVNURxb2lNUzBfaDc3aDlGUjZlQW9wRDZRLW5vUkJHQk84eU5rb0t2eGNDOEVJb1RCRFZVaVdsR093cDZkbTc5SGFSeERTUElOR1ZCTnpIOTFLODAzUTFvalllSWhVSmh2NktrQnJ4Wjc3aExmNFBOSkJUa2tOa2FVN09wd0JUTnROLXVwazhQVnRVYnlwYXZsMXFNTkp1V2dQYjhLQ0JVWlBwWkVvS1pKdDNDcFc2QQ?oc=5",
-          "pubDate": "Sun, 20 Sep 2026 12:55:43 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "Italy to ban veils in schools, limit foreign students per class, Meloni says - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVnJxcWRhcWRjZE9vWi1pTnBRdFpkTlE4NUNnekx2WkdBSXNxSjg2SzA1VnZwRDlieXJnTGR1dlB3UWJYbWRaV0dHVG02UW9JbTFpQUtxNHJLQWJuekN4b1FidWVCX0w2a1dZV0hDZnNkU1VXSnJyQnExTG1ZYnoyakg3QVI4NHhiVkE2clRBa21jd3BqN195YXBBUVJiNkpzNVBiSXA4ZS1OdGhOYkI4?oc=5",
-          "pubDate": "Sun, 20 Sep 2026 12:48:42 GMT",
+          "pubDate": "Sun, 20 Sep 2026 16:33:48 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Palestinian gunman shoots dead Israeli in the West Bank, soldiers kill motorist - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVE03eUJ3dTJkVEpVNXZXT3dXZVVBT2Nzel9PSVVRSHBSOTEyRDB1UmxGcUlyTDR2WHo2MjdoZGp0Z1ozOU9RSEdLQTZqNWw0R1VyanNvY1NEWFlVeEgwT00zcWtDTUMzU3Rud25ZbDlrMDdPakJIWnItVjNGWWR5b1ZIRTR5WjRoMlIyWDg5dmhiYnlRVzctR3VNNXQzQWZaVGZiNTBKTk9pNkJmMGF2Y2M4Nk5wTGZDRG9IV1ZsWTdvREE?oc=5",
-          "pubDate": "Sun, 20 Sep 2026 12:21:08 GMT",
+          "title": "Germany's far-right AfD leads race in north-east state, exit poll shows - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbGtvQWVGZHl5UFp3Y29tTC1qMHZZR3dlV2otZTRWM2NYRVBKdElmY3JmMV9OdEQySWtRS3JoUk9CT0xPY05RS0FKRi1ydVJpUlRfVTdsV3lJRmJsVlpvNFhsMFRncXplbm9iSGo1N3gwRVBybzlRS0dmaUh5V0VzR0UwMXV3aDlsN2I1d0pQLVNEMzdrM3Q2Q0VHeEptdFo5LUlFUHcwQUhDRzVf?oc=5",
+          "pubDate": "Sun, 20 Sep 2026 16:10:26 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Volvo Cars appoints Klaus Zellmer to succeed Samuelsson as CEO - Reuters",
+          "title": "Iran warns against new escalation by US and allies - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdWJkS01sRHBUcXZGZVVoTy1zVU04amJ0VUc3WnZ4UkVZd25TTTR6RGY1ZkV5OUtGZzFULVNDcEo4MzlZMmNkamt0VjR5VHg3YzRDaWhEOFAtZklDbFpGSXpCeE9BeGR3UWp3aFN1MVp2aUMyZE93ZnFUN0VTdzdkZGJnMDdrOFNtc1lhZC1UQlNDWFl3dGRWdjZwYkc2SHJGelBn?oc=5",
+          "pubDate": "Sun, 20 Sep 2026 15:54:06 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Russian exiles cast votes to voice dissent to Putin and Ukraine war - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdHN0dkVIZGRKZjYxeTMxV2RiY1JnSFh3WmtwTmZUR1Q4Y3dCd3htZkVLMG1BTkp1Z1ZqRzdqLUxFLTRHT01RX1g5TWlJSU8taXNMbTlNZUc5NjFTdGNWak4wN3E2Yjd0SnUtNGV5UjFwbjEyZG1RU3AycXdEZDFMcjFvS1NpSkRScU9ZWDRhSG85ZmdnbzVCd0lJTXR3M1lY?oc=5",
+          "pubDate": "Sun, 20 Sep 2026 15:51:55 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Trump to use Washington arch as military complex for drones and snipers - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS0NSWXh5Yk1oTE53RXhpcE14ZHRTUUl2Rzlhbkhhb0wyLXJYdkR4azJXbkxZRENxRTRTNkEyX2xHQTlTLUtTSFhZM0xqMlRJSTdvWUcyOTljYjUtY2tJYTRJcnpwMXNXSjU5VnRpN1JMMVRRS01ZTjZTUklacUQxSWZObk9FOG0xak9lazNlcFhTcFZyRjFxR1hVQQ?oc=5",
+          "pubDate": "Sun, 20 Sep 2026 15:48:15 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Chile's Bachelet withdraws from race to lead UN - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRzhZdGE4SFV2V2pRdXU1OGxhZXp6MGl6aHRNdVVna3VLcGgtbVNwRmdBUFhlaUxhblpwLTFRUDB3VmJGeDJ3QnFoWjR1MnZLby1hd1RkbVNYZkpxLXIyaTlwNm80eFdnclZydFhXTHdpenlHOHpxX01UdXh5QWlDNmhmMjNNVUR3Ym9IT1JyVkJIRnc?oc=5",
+          "pubDate": "Sun, 20 Sep 2026 15:39:50 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Fed's Kashkari says inflation is still too high across US economy, in Fox News interview - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQc1hVd3hZZmFPOEVudnRhdFpDczA0Qkg4TmxpeDFYN1NuWnFkYVNSLTdrRU42dGdXV21YcmlsM1RVREw1amRxQWV5aWVZZTRPRy1paTNiT2o3M0syblIxdkMtR2xKLVgzUEstZ01CcXRKd0dNbUpLZUxkV1hhS0cwcDZYRXdmYjJrTTc4RERBQWNyeXdHb0ZoVjhPMkQzVDJodDBoc3c0RTc4ckFJeGJ6WDlLTDVzM05rN3k5VWNXVVFlTWM?oc=5",
+          "pubDate": "Sun, 20 Sep 2026 15:33:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Volvo Cars appoints Skoda chief Klaus Zellmer as new CEO - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNEJfOVNKYWwzX3Z5cXN1bXVFNFBENVpGZ25Md0pGQnB0Y1k0RjQ5b3pXTVl1M2ZXZUg2MU1vY0ZyNW1La2pPMnFPMDJpbHd2REdTeFlvT3lWMzM3bjZCZ193b0duUXBoZ1lnOHRuZzREV2sxa1R3X2g1eFE5UnFGRWNmTDBtaC00YXc?oc=5",
-          "pubDate": "Sun, 20 Sep 2026 12:10:27 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Kenya's Ngetich breaks women-only half marathon world record by a second - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUGZZeGNXRUJhNlUzZkgzZEhPZFlKN2JTVjllamNJVl9pV1ZpU3JsdGVQS3F1aXJjc3hpTjlONFZFTktGXzF1S3hYSWhhd0hwZHpvYkJENC0wRUtMSUdMS1VEYXIzaFdSY3Y2OXdqa2tYRHRCcDFOLUtsN1dDT0lnRUE5eGp1eUFQLW5kdHRLeVpVZ3o0V2JKeU1FOC1lZHJMTXBtanJoLWV4VkpBanNrNlNzblpIdjQ?oc=5",
-          "pubDate": "Sun, 20 Sep 2026 11:08:06 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Ten lions found dead in suspected poisoning at Tanzania wildlife reserve - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdEkxYXMyV1VCY2lYSzZ3ZHR6eHlpOXhDdmtHSmliRVhLcWZ4UlVYdnhTTnRhdUJJYmY4UkpYLTQ1YjU2OUhvU1BSQjVZaHpBaGNPeVNuUE1mTW81SXk4aGFLUUlrRWRUTHhOUHdrVWtMTDJocEJabkdSbVRVYzh3akp5eDhlSWFCWF85b1FCRndDbUMyZzhIUXVnaHM0cjl1QlNNMm5Jb1FXSXVWbGhIdFFRQWE0Z2VxMkNwVnZUY0s?oc=5",
-          "pubDate": "Sun, 20 Sep 2026 10:36:12 GMT",
+          "pubDate": "Sun, 20 Sep 2026 15:15:21 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T14:03:01.866Z"
+      "updatedAt": "2026-09-20T17:36:23.118Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T14:03:02.417Z"
+      "updatedAt": "2026-09-20T17:36:23.350Z"
     }
   ]
 }
