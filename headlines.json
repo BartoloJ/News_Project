@@ -1,13 +1,25 @@
 {
-  "generatedAt": "2026-09-26T10:07:38.885Z",
+  "generatedAt": "2026-09-26T14:40:29.774Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "One dead and five missing after explosion destroys building close to Acropolis in Athens",
+          "title": "Huge crowds greet Pope in Paris for open-air Mass",
+          "link": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 26 Sep 2026 13:23:59 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "British national among six dead in building explosion close to Acropolis in Athens",
           "link": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 26 Sep 2026 09:33:03 GMT",
+          "pubDate": "Sat, 26 Sep 2026 12:47:25 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Republic of Ireland confirm rescheduled news conference before controversial Israel game",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c962jjl18g3ro?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 26 Sep 2026 10:44:37 GMT",
           "source": "BBC News"
         },
         {
@@ -39,26 +51,26 @@
           "link": "https://www.bbc.co.uk/news/articles/c914ddj21rzlo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 26 Sep 2026 03:22:17 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "OpenAI bots meddled with multiple US government agency sites",
-          "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 26 Sep 2026 02:50:56 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Black woman found hanging from tree was dead before body was 'staged', police say",
-          "link": "https://www.bbc.co.uk/news/articles/cwp933nzpp9ro?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 26 Sep 2026 01:24:31 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T10:07:37.750Z"
+      "updatedAt": "2026-09-26T14:40:28.464Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "OPINION: Trump's U.N. speech, a stark contrast with past presidents",
+          "link": "https://www.npr.org/2026/09/26/nx-s1-5974096/essay-09-26-26",
+          "pubDate": "Sat, 26 Sep 2026 08:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Meth is a key driver in Fiji's fast-growing HIV epidemic: 1 in 60 adults are affected",
+          "link": "https://www.npr.org/2026/09/26/g-s1-144667/hiv-crystal-meth-epidemic-fiji",
+          "pubDate": "Sat, 26 Sep 2026 07:31:18 -0400",
+          "source": "NPR"
+        },
         {
           "title": "The AI safety debate is confusing. Here's our guide to the different factions",
           "link": "https://www.npr.org/2026/09/26/nx-s1-5979085/the-ai-safety-debate-is-confusing-heres-our-guide-to-the-different-factions",
@@ -66,14 +78,14 @@
           "source": "NPR"
         },
         {
-          "title": "The U.S. has more thalidomide survivors than the government admits",
-          "link": "https://www.npr.org/2026/09/26/nx-s1-5979047/us-thalidomide-survivors-want-recognition-government",
+          "title": "Meal deliveries can save money and improve health. Will they survive Medicaid cuts?",
+          "link": "https://www.npr.org/2026/09/26/nx-s1-5946434/medically-tailored-meal-deliveries-medicaid-cuts",
           "pubDate": "Sat, 26 Sep 2026 05:00:00 -0400",
           "source": "NPR"
         },
         {
-          "title": "Meal deliveries can save money and improve health. Will they survive Medicaid cuts?",
-          "link": "https://www.npr.org/2026/09/26/nx-s1-5946434/medically-tailored-meal-deliveries-medicaid-cuts",
+          "title": "The U.S. has more thalidomide survivors than the government admits",
+          "link": "https://www.npr.org/2026/09/26/nx-s1-5979047/us-thalidomide-survivors-want-recognition-government",
           "pubDate": "Sat, 26 Sep 2026 05:00:00 -0400",
           "source": "NPR"
         },
@@ -94,132 +106,120 @@
           "link": "https://www.npr.org/2026/09/26/g-s1-145142/cnn-left-off-air-force-one",
           "pubDate": "Sat, 26 Sep 2026 00:42:17 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Supreme Court blocks Trump-backed Missouri congressional map",
-          "link": "https://www.npr.org/2026/09/25/nx-s1-5978875/midterms-redistricting-trump-missouri",
-          "pubDate": "Fri, 25 Sep 2026 18:06:16 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "The Pacific is churning with hurricanes. The Atlantic is quiet. Blame El Niño",
-          "link": "https://www.npr.org/2026/09/25/nx-s1-5980351/hurricane-nolo-pacific-el-nino",
-          "pubDate": "Fri, 25 Sep 2026 16:08:40 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T10:07:37.928Z"
+      "updatedAt": "2026-09-26T14:40:28.649Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Hurricanes in the Pacific threaten Hawaii and Mexico with floods and high surf - apnews.com",
+          "title": "Poland halted asylum claims at the Belarus border and now wants Europe to follow its example - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbEp1SVc0N1R2eWVWMHN4MWhNblBrVHpnWEVhNFY0ZFM3SEFiWDkyVVBOS1V0MVoteDdQR205YzhBMjhEM2EwV1JXUGxyRmpSbjVfYl90czc5Skl5ZExyeFdlY0dmVU90VTBKSHJXeEoteGNUQ2tfX0M5STJYbTVHdkZKeWdQc0VqNGhnbXlYYWdUekRiYU1fVzMtUklfUzNrU2habG94NUVicExSWS1WYXA4REhmeXdXVmc?oc=5",
+          "pubDate": "Sat, 26 Sep 2026 13:14:03 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Heavy rain and flooding in Bangkok disrupts traffic and prompts evacuations - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWXlKVUxEWGNGYktRN01VOE1CbVY4SDhlemprYWVZUmVkdy1BZTh4UGp1TEMwc2tRb2JJTHZtWkRreXliLTBQbDNnUlNleWNxbGZNMUlabEZXd29QUDI4aUduQ1MyVE1mLXNJcnQ1QS11UHpzYWxSdVNiWExGbG9OcFFiTEZRZldwaUduRWdlUWpDWHFSLVQtUTA0RENHNUdLUXNhVg?oc=5",
+          "pubDate": "Sat, 26 Sep 2026 12:19:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Roads flood in New Jersey, inundate some homes, as major signs of nor’easter take shape - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdGRqdGEzMGFJUjh3UDU4cDJaaGdaWnNMYVpJS1Fid19ueFRYeXRMTGtJODdIeGE4RlYwZnpzU2JWYTdaQnk5LW5KRGluRjVjX2U5cS11UzY4Q0FDQXdWRVJENnluUHBMT1hKa0NRUDlUNU9pVVR0MXN0MFRNLV94WjduYUVkODlBNTdoQUtHUDNvNHp1REV3NWZXQ2c?oc=5",
+          "pubDate": "Sat, 26 Sep 2026 12:11:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "China and the US agree to set up a new AI safety channel, and to keep talking on trade, military - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVDVpNXhQYUFNLTZHUVJkeGFXYnhyT0hFSm5CeEZxYi0wNTlxMjRxR3ZYdTNxa2I1bmVDZzRDWVRENFRkRTVmb2FxdDlweGpkOEJnODZpaXl1THFxcDQ5MDVNTWpBTVp1VEE4LU9NSjI4X0N5YjIzckFDU29HZktWWWlYWkMybTluQkZ0Mm5IY2NUSEEzeWp3OQ?oc=5",
+          "pubDate": "Sat, 26 Sep 2026 11:17:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "The EU moves closer to free trade deal with Philippines amid global tensions - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMzA3eFpxenhZSmdKNndLU2JNalZSZWNUWk9LMnAzaFFYZXItWWljSDE4VzZUb2NpLWozR2swQmhGNWtnVDBqYWN3VmdPZWEzSEJwTWJ4MHJaUlpKeGtoUWowMHBUYXA5QzhkdW10U2dUVy1BOXA5UVhtVFJnM1RJMUtVNzJaM0tXRVlPT0Q3NGpGUlg3ZG84Ty1kODRlMjh6dFVCb3F2dS0?oc=5",
+          "pubDate": "Sat, 26 Sep 2026 09:12:59 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Hurricanes in the Pacific threaten Hawaii and Mexico with floods and high surf - AP News",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeEhseWVSS3dZaTNWTkZoTE1jRUtRT0lvX1JfQ1V2TnlkTVJsVHdHZGc5Mi1OY2NldGJFUWhveUtPTGh1NkxwRmFPTENBYzhVczVKbnlaVXlfLXRSSjVPY21XbDRURm1KcUNUWVVoa3FpMEVPREowYTFWTXZ4NXhLSWtBOFJYVVVPUUJ5Y21iTHNaRHdWVVJaaQ?oc=5",
           "pubDate": "Sat, 26 Sep 2026 06:31:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Pope warns a ‘paradise of machines’ could undermine humanity as he opens France trip - apnews.com",
+          "title": "Pope warns a ‘paradise of machines’ could undermine humanity as he opens France trip - AP News",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY0JDWkxQellXWFhSUEQ1QnBGOXkyQ1pHTkptZlAtYzhWbXZtMjJPSzRvRGd6MU01NF9MRE9Ya08wRmlPZEFzdW50TGJUMU9XQ0JBZGNxVVZQVnItaGNIQXVJMld0anFha1M2Z3paWFF0OXVpX1lYSWY5WTRaV1FlREp1T3I?oc=5",
           "pubDate": "Sat, 26 Sep 2026 06:21:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Heavy rain and flooding in Bangkok disrupts traffic and prompts evacuations - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWXlKVUxEWGNGYktRN01VOE1CbVY4SDhlemprYWVZUmVkdy1BZTh4UGp1TEMwc2tRb2JJTHZtWkRreXliLTBQbDNnUlNleWNxbGZNMUlabEZXd29QUDI4aUduQ1MyVE1mLXNJcnQ1QS11UHpzYWxSdVNiWExGbG9OcFFiTEZRZldwaUduRWdlUWpDWHFSLVQtUTA0RENHNUdLUXNhVg?oc=5",
-          "pubDate": "Sat, 26 Sep 2026 06:06:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "CNN left off Air Force One for Trump's upcoming trip, White House signals in new media restriction - apnews.com",
+          "title": "CNN left off Air Force One for Trump's upcoming trip, White House signals in new media restriction - AP News",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWWdFdkVpT2tLTXhmMkNXSUlSZlBSak8xcU42NlRaMjdHU29VTkFVay10LWtTckN5WWtkMmJwWS1XUEZYOXBRZ3BxSzkxckk1ajZTb3VKTVlDQmd1QkdfSjIybXY3eFdEbGhZRDhmZkVYS2JNU0djLVR4aDFlNHk0SjRfbldwYUdBOGV2bUFEOGh6NEtMeVFsZS1lNlJnb0U?oc=5",
           "pubDate": "Sat, 26 Sep 2026 05:43:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Roads flood in New Jersey, inundate some homes, as first major signs of nor'easter take shape - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdGRqdGEzMGFJUjh3UDU4cDJaaGdaWnNMYVpJS1Fid19ueFRYeXRMTGtJODdIeGE4RlYwZnpzU2JWYTdaQnk5LW5KRGluRjVjX2U5cS11UzY4Q0FDQXdWRVJENnluUHBMT1hKa0NRUDlUNU9pVVR0MXN0MFRNLV94WjduYUVkODlBNTdoQUtHUDNvNHp1REV3NWZXQ2c?oc=5",
-          "pubDate": "Sat, 26 Sep 2026 05:15:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "OpenAI says its models engaged with US government websites in new model misbehavior disclosure - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTXotYUJaRDhtSE9salVqcGVWdUlOR1V4dnVMQzd0OXJKZEdnWWNUTG1TNXZIcG9Pb1RmSmxqeXlMajItSGZZQWpWSXRhajRuNVd0TzNsSjA4Y1FtQXhtekdlRmZsU1c2cTI1RDlXd2lBeTNIVml2Q045aF9OalZXTFgwaUpGbEM4Qm9PbDF2aTRkeGNNVTY4MkRB?oc=5",
-          "pubDate": "Sat, 26 Sep 2026 03:42:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "France working on UN resolution for Strait of Hormuz navigation, and other Mideast developments - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQ3pzZkZqVUUyd3JHN0pYYktoX0VWTjNnTEJ0OVlvMzlMVGVMdlVmYWFZR1ZPTVBfN2w1cmIyTFVGZHVZX2QzTWRab0JtbFZVeUxYaGdvTldWNUdxeXZhd3hDQmF4b0hFNUZvMk5hamxYSG91NXBWMXRWLVdXUS05aU1PUXZqZFdWdFJxR3BacVQ2d2NkRVF5aUw0WWE3VWRXVWNDOGhKcVBhWVlCOXZZcTBRRE4?oc=5",
-          "pubDate": "Sat, 26 Sep 2026 01:51:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Trump said he would campaign in midterm battlegrounds. He's starting in deep red states instead - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb0Zvc2VPMWZJQzlJNWlyZkVfNGI2b3ptSXhWZTUxaGV5U1BIQkpkRWhnVDZUUTloa3RFY0VjaFU0Q01RcU1UTG1YeTBnT0NCYTlGSTFlaElMeEx0YzFKS1FjLWRMaWRNd0JQZC05VTRsalVQWnJydVdrYVNKYWNNT05SMGtTLVlMcXBIVUwxN3pPUjRVRGppdlFrdWs2UVMza0MtdDF3a3JsMEJtcHc?oc=5",
-          "pubDate": "Sat, 26 Sep 2026 01:00:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T10:07:38.407Z"
+      "updatedAt": "2026-09-26T14:40:29.143Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "China, US agree to $30 billion tariff cut, AI dialogue during Xi visit - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT2FRVWRwSDZuWUZPYTRXcmNuNTFDR0hrQkVUZnpSdV9RdGhpUjV5R0hwN2V6MUNUS2hiTHpENFhwUFVDODBIeDhBSm5SdUJOeU1qSUhjekl2RzBDd0VBYi0tdmNDblQwV1RMTF9QMGFHdlFRcDRmalE3dWlhX0l6aUJjSGtsVjlsZXNnbmZWY3JzMEtwY3hxNEZHT3JjWXJEQlVRSFpSM0haSUROOUFRaWJB?oc=5",
-          "pubDate": "Sat, 26 Sep 2026 08:39:43 GMT",
+          "title": "Venezuela president returns from US visit with no deals, no firm election date - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQUxEZXdacXd6UjBYZ2luNzdKaGQzNXVXcm0yRXdfU095UmN2MXY4NEhoZ3B0Um9XUWI5RkZMYUdYajJrS1Etc1hjNi1oVUxoQU9mVlAzbnlYcWVKMnRBOTg4SWR4YXkyRVhfVUtoTzI4ZVUxWTkzNXVsZklSY3gzZnBSVXU1RjhsU1JJbDVhTURxZ3AtTWRGNk5CeVV2WEh6UXdfQVlfOWZpSWVXSzBwbTVGeUwySWlDWW9OaWhtY2I?oc=5",
+          "pubDate": "Sat, 26 Sep 2026 14:16:34 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Thai capital Bangkok declared disaster zone amid flooding - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdzRhalF6S2pIWVFyVjA1b3hpS1EtVVJ5Z1Y4R2dHbDJNVjdzTDYxMkJzeS0wNnRNQmpXNWgzZDBlUHZwa2s4cmhxM2hqR2l6NzU3a2NORUJmQVZTcEY1YWE1UE1CVWlOLWVicVBFWU1HVTRwOU5ablJFelpoNi1Vd0JTV0F2X0lwRURlSDFIdS1aWkxfS3BrSmk5c1RlZlI2T1ZMT1I0b2xRU0JWeWFtZldzNlQ?oc=5",
-          "pubDate": "Sat, 26 Sep 2026 08:16:04 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "One dead, 5 missing after explosion destroys building in Athens - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbTJpdXZYT3MyX1dFU1pNMW5raW40eUpoZWNKZFZnY3U1SFJiZjB4OVdhQ3JBN3R1eFFFaUFnUFFHZXh2R2J1ZldkVkotZW1ab1VEeFZNLVhHTnAxaXhmQnAxZ2ItOUc0U0l5TDE0ZW9OMTNUa0hGTjNWSTdoN2IxVGFINU0xVGlVdzBXSXVMYnozVHRhRWF2ZXlZMWxIN0NsSW04?oc=5",
-          "pubDate": "Sat, 26 Sep 2026 07:45:47 GMT",
+          "title": "Vast Paris crowd cheers Pope Leo in largest event of France tour - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTGRIQjdWZjBoYmtjQnVTTkN2Z3h3NWstMHRzYlJJaHY4THJVWlVYZ1prbURoS0VHQTd3ZERGMWxLZi1GR1ZJZ0dCLXlhcVNfeUctOHlJbDZQSEhpTHNHWjlRanFLdnA1N0pfUTlSNFJjQ1pocjZWVERDNThtZUFCUTZQNExrRm1ZdWZJZkxrbnpUXy1ubGFHLVkwWlo3Tm9yLUs5TjhNc3JJdw?oc=5",
+          "pubDate": "Sat, 26 Sep 2026 14:00:58 GMT",
           "source": "Reuters"
         },
         {
           "title": "Iran awaits US move after WSJ report says Trump rejects peace plan - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZTlYWmNvWG9uODA3NXdWTTQ0d1EtNnFKczBKYThkcFExSmZGWjlqb2xmc0ZsUDNsYWxUWjhLNm1ocTRCcmJDMGdhUmZ1NC1WdjVJdWFxNDRzLTA0Mk11dUN6WHkyUUVpcFMxV1A1d2RFUXljR0xlY293UldHb2ZoUDAzT294ZmVUWVdCZUEzUTlGSkp4cEhTLTVqTllkU3lDNDREeXFqVlQzSUU1VGpnXzZYZ1ZSMXZ3dmU0Tg?oc=5",
-          "pubDate": "Sat, 26 Sep 2026 07:27:15 GMT",
+          "pubDate": "Sat, 26 Sep 2026 13:17:45 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Six big takeaways from a turbulent week of UN diplomacy - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOFZoZDdKM2NZd3RrRFBLRGQ3VWoteUxkRFFtemw1RGVqbXdBWEdDR3FNazZ6MERQMWdCMThtVnJ5dnpmYjU0WWgzZW03OU5vWVZKLXRmS0s2c3BKV2lKbTlGLTJDRThYRW96eGJNVEhDZ3VEVVhPNGxpSkszTFc5WXNNQWh4dVRYWEJIZkhPTGN3ZDJXeW5FV2dYT3M?oc=5",
-          "pubDate": "Sat, 26 Sep 2026 05:09:00 GMT",
+          "title": "On Michigan doorsteps, Republicans sell Democrats-as-extremists message with mixed success - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeTJfNzN3Z3RrVUYyUHozd3Q0Z3JhRnp2aDU4aC02bjE5cGFxbFFDX0dDWTA3U3BzbVRFbVVnMEhXT3hVY19BXzJERkw3b2NEZThvX0RBVWdTZ0IxSVRVcnl2bXd1OGtGSXg0UTdmdVBmSUdqOU1iODVtZ2QtckZ3VHhyTU93TWFCYnpxME1kazc3djVQZWlMZTRXdnZ5S0RBZE1tcmFCU2V2VjVuVnlzanJzQ0t3RWd0VUFIYnJFZjU?oc=5",
+          "pubDate": "Sat, 26 Sep 2026 13:08:52 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Trump seeks to withhold $800 million in Congress-approved funds - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQV0NEM09wY1NMTncySWN2blBvTk9tZzhpb1FCVXMtWDdWSnFtQmpEbm5jN0dHaTA2cmxwamNuRzBRSG92Rzk2Q0tlaTV6dm1FZXV2MVhqVVhhMVlmTV9LelBGaGZ2WXZkRkZJWnJzMFVGMWdVcEdLUWh2VnEzX2dIZzBEZFpYTktfanhBZWhES0dCMFJ2LVlBZkxZUXN3b0lKMXNrS0dWZU80NHpMT0E?oc=5",
-          "pubDate": "Sat, 26 Sep 2026 03:19:43 GMT",
+          "title": "Six dead after explosion destroys building in Athens - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbTJpdXZYT3MyX1dFU1pNMW5raW40eUpoZWNKZFZnY3U1SFJiZjB4OVdhQ3JBN3R1eFFFaUFnUFFHZXh2R2J1ZldkVkotZW1ab1VEeFZNLVhHTnAxaXhmQnAxZ2ItOUc0U0l5TDE0ZW9OMTNUa0hGTjNWSTdoN2IxVGFINU0xVGlVdzBXSXVMYnozVHRhRWF2ZXlZMWxIN0NsSW04?oc=5",
+          "pubDate": "Sat, 26 Sep 2026 12:51:07 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Arming Taiwan an important US interest, Taipei official says after Trump-Xi summit - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSmxPT01ncFNMX1E2V2FuRWpFUk0tXzR6WWJVYUl6TlRHM3QxYndiMTAyWlN0bV9qRlJMdmxiem9OQzJUZHBlMnJuZzBTUjFxbVZpN1QtOThvRTZTMEZrRHJSNG4zbnNJRU9lVWdpQmdveV84NHo1R1R0WHJSRmhUdWdYWVJka2t4RWtSVld5TDV2SVpScE80UnJXdkdsOFQ2dlFxeHJMdEFvODlHdnVPVGMyMnhVWWl3cHZWRDN6Yw?oc=5",
-          "pubDate": "Sat, 26 Sep 2026 03:11:21 GMT",
+          "title": "How Europe’s intensifying marine heatwaves threaten its fisheries - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOazRBRDJfTmZvQW52RkYtOWpyLXhvYzcyVmdBSDk4aDlMUWJVNTBGcEdDM1l4ZjY2NzRlVFFSVHhQYlQzVWxySlVqc19wWVVoal9ySkdKUFIxX0d3MUc0d3FoMUt6ckxKakdaSWdyczctWFVMY3hYOWhZYWZ3SFF0Znk4SW5OT1VCMFltMVRjLUtydklCM25VUFhjMmtWdGV3b3VKSjQ3SXloU3hNSGh4T2FXSQ?oc=5",
+          "pubDate": "Sat, 26 Sep 2026 12:49:51 GMT",
           "source": "Reuters"
         },
         {
-          "title": "ShinyHunters hackers expanded attacks on Oracle's PeopleSoft, Google says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQc0kwNk9oLVg5bWdrdkJfUXVSNkFYT2o5ODZpU3RaMjJpM0pKb19QTnM0Zlk4d2xURlJZZVF6blp1ZEk5T1ZnMEM3RmN1STc1RnFTZXpDSGRuWWpBY2NwZGZUVzJET29UY0lLYzFxU0NOQjNTV25lRUpkSzRPQTgtQlVkMVRSLWJ1TkROb0ZqaU9sa0ZtSGJ4ZWNtak9pQTQ3dUtmZXdXdWpFSGZHNlpJdGQ4QU1SNm9mYlhwd2t3?oc=5",
-          "pubDate": "Sat, 26 Sep 2026 02:06:00 GMT",
+          "title": "China, US agree to $30 billion tariff cut, AI dialogue during Xi visit, Beijing says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT2FRVWRwSDZuWUZPYTRXcmNuNTFDR0hrQkVUZnpSdV9RdGhpUjV5R0hwN2V6MUNUS2hiTHpENFhwUFVDODBIeDhBSm5SdUJOeU1qSUhjekl2RzBDd0VBYi0tdmNDblQwV1RMTF9QMGFHdlFRcDRmalE3dWlhX0l6aUJjSGtsVjlsZXNnbmZWY3JzMEtwY3hxNEZHT3JjWXJEQlVRSFpSM0haSUROOUFRaWJB?oc=5",
+          "pubDate": "Sat, 26 Sep 2026 12:42:19 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "In Brazil, frustration over cost of living undermines Lula's reelection bid - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcEVhdHFvNTNpNUNBNTY2WmZRNm1fUmh2Snc4dGV2Z1Y1STAtbnpxbXhJclRZNnNnUlBwVGFvQVRuUTZMOGhPbjJkN0UtMjB4MFNlNDAzVG9SdkZVQVh6cFBfNjJJcElHVUl2S1lYOXRtdnRJYWRMazRWYmhtcDZpWFFwbjk3YnRxdFF3c3M4LTVUS2Rhcnd2N21iLVNVR0FOc0hrYnhSMGxmLVhUdmtiMkhvUy1Ga2tTM0E?oc=5",
+          "pubDate": "Sat, 26 Sep 2026 12:24:09 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T10:07:38.782Z"
+      "updatedAt": "2026-09-26T14:40:29.596Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T10:07:38.885Z"
+      "updatedAt": "2026-09-26T14:40:29.774Z"
     }
   ]
 }
