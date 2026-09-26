@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-09-26T21:26:28.722Z",
+  "generatedAt": "2026-09-26T23:47:57.265Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
+          "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 26 Sep 2026 22:15:59 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Nor'easter brings flooding as New York and New Jersey declare emergency",
+          "link": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 26 Sep 2026 22:04:26 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Mother of woman found hanging in tree shocked as police say body was staged",
           "link": "https://www.bbc.co.uk/news/articles/cq4gmmdl52rgo?at_medium=RSS&at_campaign=rss",
@@ -29,21 +41,9 @@
           "source": "BBC News"
         },
         {
-          "title": "Tenth woman's body found in South Africa suburb as police probe killings",
+          "title": "Tenth woman's body found as South Africa police probe killings",
           "link": "https://www.bbc.co.uk/news/articles/c3vgyyj8q807o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 26 Sep 2026 18:30:04 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
-          "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 26 Sep 2026 18:17:12 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Nor'easter storm brings coastal flooding, as New York and New Jersey declare emergency",
-          "link": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 26 Sep 2026 17:47:09 GMT",
           "source": "BBC News"
         },
         {
@@ -54,11 +54,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T21:26:27.227Z"
+      "updatedAt": "2026-09-26T23:47:55.921Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Trump gave Xi Jinping a warm welcome. What did the talks accomplish?",
+          "link": "https://www.npr.org/2026/09/26/nx-s1-5980066/trump-gave-xi-jinping-a-warm-welcome-what-did-the-talks-accomplish",
+          "pubDate": "Sat, 26 Sep 2026 17:13:54 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Trump calls Iranian plan to reopen Strait of Hormuz not 'acceptable'",
           "link": "https://www.npr.org/2026/09/26/nx-s1-5981990/trump-rejects-iranian-deal-strait-of-hormuz",
@@ -78,8 +84,8 @@
           "source": "NPR"
         },
         {
-          "title": "Powerful nor'easter brings winds, floods to East Coast",
-          "link": "https://www.npr.org/2026/09/26/nx-s1-5981392/noreaster-pounds-mid-atlantic-new-england-coastlines-hurricane-nolo-targets-hawaii",
+          "title": "Windy weddings and rocky cruises: How East Coasters are braving the nor'easter this weekend",
+          "link": "https://www.npr.org/2026/09/26/nx-s1-5981392/noreaster-east-coast-floods",
           "pubDate": "Sat, 26 Sep 2026 07:38:00 -0400",
           "source": "NPR"
         },
@@ -100,75 +106,93 @@
           "link": "https://www.npr.org/2026/09/26/nx-s1-5946434/medically-tailored-meal-deliveries-medicaid-cuts",
           "pubDate": "Sat, 26 Sep 2026 05:00:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "The U.S. has more thalidomide survivors than the government admits",
-          "link": "https://www.npr.org/2026/09/26/nx-s1-5979047/us-thalidomide-survivors-want-recognition-government",
-          "pubDate": "Sat, 26 Sep 2026 05:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T21:26:27.547Z"
+      "updatedAt": "2026-09-26T23:47:56.174Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Ireland players vote to play contentious games against Israel, intend to wear black armbands - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOXRmeWs4VHM3bDNMejdJMjdFMDdGM2sxX29yRmhMdTlJdHVrZTBmSFpzZ09TbkJOX1lGNGkwR0N2T2xqUmRBbnJ1WHBhcS1MUjI2X1JYMEFvUUtsQXN6UkFZdUNjY3lSNXUtZk80dU5qY1BlemxYS05vTFRUYkZEc241VUJMcU9iMEQzWFoxejJiTWU0ZlIzY1BnQ3lpcmc?oc=5",
-          "pubDate": "Sat, 26 Sep 2026 19:48:00 GMT",
+          "title": "No. 1 Texas outlasts No. 14 Tennessee 20-17 in Knoxville as Simmons gets 5 sacks with Trump watching - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMHFGM3JHV3huV2ZNeVM5TV9NZGkxRHZKelh5WW9nbXlWWms5NGNOQnJIY1QxNVBsZ293V1VJcE1VMEM1ZnN2TnI2NFJaUjFYODUwd0hBaFB0dC1fazFVZXJyUWRCdE1ZcG9KaFhKdV9Ed2haYWtCalhENHg5MHlpMWFiT3BHbnhI?oc=5",
+          "pubDate": "Sat, 26 Sep 2026 23:33:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Thousands march in Madrid to protest Spain's housing crisis after eviction of 87-year-old woman - apnews.com",
+          "title": "Trump attends Texas-Tennessee game with no apparent disruption to coaches' communications - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPd1AzOWE4UHVlQ0JDbzhvU1JJVlBISXRYNTNhdUI1aWl3aHcyMkQzbV9hYVVtY29mazlUMzU3YWkxQjMtdGpST290RV9nTWh0RXNmYmhLRUxsa1BnRHk2cHQ1bFpRZ2lRbmREX21MS3g0d29rZ3FwMENCVTR5LVBzOGc2czR5ZUYtSUNvWF9iUDlWWWZUQU5wNmpR?oc=5",
+          "pubDate": "Sat, 26 Sep 2026 23:26:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "87-year-old’s eviction becomes a rallying cry for protest of Spain’s housing crisis - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTVlVWVhHMFNRb0ozNUdpdWoyUjNOQm5BVUM0X1RZNmF3Q3c4emZtWjZXNndwclliUlhVQlp1SXV6WVVxRURBN0tRYjE5WlljS01waHBXaVM2c0xEOG9POG14bXFUbExJeGVkQ0JWYUg0RzNFUk41cDhxdm5kZUVMQ2tlU3VqS3ZqUzdONUFfWlJibVM0RkU0VDZwOA?oc=5",
-          "pubDate": "Sat, 26 Sep 2026 19:10:00 GMT",
+          "pubDate": "Sat, 26 Sep 2026 22:36:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Heavy rain and flooding in Bangkok disrupts traffic and prompts evacuations - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWXlKVUxEWGNGYktRN01VOE1CbVY4SDhlemprYWVZUmVkdy1BZTh4UGp1TEMwc2tRb2JJTHZtWkRreXliLTBQbDNnUlNleWNxbGZNMUlabEZXd29QUDI4aUduQ1MyVE1mLXNJcnQ1QS11UHpzYWxSdVNiWExGbG9OcFFiTEZRZldwaUduRWdlUWpDWHFSLVQtUTA0RENHNUdLUXNhVg?oc=5",
-          "pubDate": "Sat, 26 Sep 2026 18:50:00 GMT",
+          "title": "Pope Leo draws 800,000 people to central Paris for open-air Mass on iconic square - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbEJFcjNvV3FnbnMyU21pVDFZV1k0TzFRajdDb0hHaVlrcFZlWThrTDZqdEwtQjdsOUdGeWR4c0JUdE1BMEFzamc5SmtfT3FUWVB2Tm1aa3daSWRoM3JqUl8zMVZkLWdfVm8wdXoyNzBmXzRRYnBvdGptV08xYkFYT1VmZ21wSUlvRHppckpmWXhUdWpCX0Z4RVhaNA?oc=5",
+          "pubDate": "Sat, 26 Sep 2026 22:35:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Hurricane Nolo expected to unleash powerful winds, flash flooding on Hawaii - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaFVfUjJkdUtyOVZ6SGkyOWVzYnNZLXJ3bXpScGNjVTZ2Tm9mTzY5ZU9ZQTBuS2VlNzFKbm9tRmtSSFZsQXZ2djkzNjgzVHd4TUVFQjg1ZFpzdWozdUprZi1QSjJaVEEyLUFvdUZmZTAwT2J5eHl2SlVvRHFnQXJ4Q2JGZndCLUxo?oc=5",
-          "pubDate": "Sat, 26 Sep 2026 18:15:00 GMT",
+          "title": "A record 5-sack day, then a vulgar celebration: Texas' Colin Simmons has a huge day at Tennessee - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUWxKd1p0RDVNMWw1SE5NS1pMVzFVamlJSy1KUzJIVTkyMlFVMzUxYXQ2MkpzU1JVRC14NU0xOXVKWkRuYkYzQ0QwVDZTODFqcHp1YXlFb3hwbmp0Y3J2NmJkZzBtTm1RRXpfS1prT09faUpxdzRmZmx6dlJQTHFQY3dTNmFuVjFDVllvdldzZ2FLSDZDUWlJcQ?oc=5",
+          "pubDate": "Sat, 26 Sep 2026 22:14:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "China and US agree to establish AI safety channel and continue trade and military talks - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVDVpNXhQYUFNLTZHUVJkeGFXYnhyT0hFSm5CeEZxYi0wNTlxMjRxR3ZYdTNxa2I1bmVDZzRDWVRENFRkRTVmb2FxdDlweGpkOEJnODZpaXl1THFxcDQ5MDVNTWpBTVp1VEE4LU9NSjI4X0N5YjIzckFDU29HZktWWWlYWkMybTluQkZ0Mm5IY2NUSEEzeWp3OQ?oc=5",
-          "pubDate": "Sat, 26 Sep 2026 17:42:00 GMT",
+          "title": "Pentagon investigates after China obtains parts from F-35 stealth fighter jet - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNy0xSEtmUlhxZkZNaEJpV0dEaGlSM29MMUhqQnlGYlRMTVZuTVVsTWo2a0pIQS16bTZJZ2RnTGdEbm9JZ1Zwa01wQzYxaWVvd2c1dlh0cUlzaW1KYlhHRXhIVXptUldBUnkyNEZtdXBMV2F0YkNSTU1kbjFSNi1vYVBObHNuck0yYXphc2FobXAwdTE1Q3FETlk0Yw?oc=5",
+          "pubDate": "Sat, 26 Sep 2026 22:13:08 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Verlander leaves final start of 21-year career as 7-year-old daughter sprints to the mound for hug - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZ1V3cnA1WUVZa1l3Z3Jpc2F4b2lTREFuUGhVelhBbXotQXl0LVRaQkR2UGF4enJoYlJBOE1aSjNVUVpua0dXSUpoU2hDZ2UwZ3pQWnNIbV9USTBNQmVHNkZQaWZJMW54dmJ1My1fSndIMTM5a010c2JSOFg0ZWhlVmM3TDNvdjA?oc=5",
+          "pubDate": "Sat, 26 Sep 2026 21:32:00 GMT",
           "source": "AP News"
         },
         {
           "title": "Trump rejects Iran’s proposal to reopen the Strait of Hormuz and other Mideast news - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY3FURU1ld09YM0czSERoLWEtWEQwR1FSZm96NmpURkowVXNHQkRna0gzZEJXTWlKLUE5QW51U24tRFVHX2JDNUpvWVFyNWdGYVhaYThBVmJZMndzM1Z2eDVkVVViRG00M1k3YUpYdDE2azVBcmo4SmlhNDRSLW9Ra0taSTY1V0w3ektQdFpzQXhjTzNBNmxSalgxT0xGbC1y?oc=5",
-          "pubDate": "Sat, 26 Sep 2026 17:32:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "By the Numbers: Pope Leo XIV’s open-air Mass in Paris draws many more than expected - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWm9fVk80Uzhpd0xHMTJtYW1GT3RGc19EYndSWkN4OFlTOU9TcnNwQllYWFFQTWktcTdGYl8xaGg2Y296Q3V2NFg3WVhEZVhsb2JhQm9yUzFHUVdkLUthU1luV3MteVV4NFlOZmt1RkNQMXowdUg3Q1FzSGFfcVZheGtOWWYtYVY4?oc=5",
-          "pubDate": "Sat, 26 Sep 2026 17:21:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "House Democrats plan vast oversight of Trump administration. Impeachment is an option - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcy10ZFE2SGc4eGtIcnVnWUNmQ0I3YTZJc3RwX21XNV9BOUpoVFBILURqSy1PRUNxeEtmVWZSRnFDYXBCbHVCdzRKZU9CdHg2bW5qaVhTY0lqTzhDTE0ySlZqaDJnbS1jSlF5aXE1ZzNCdFhUV0xheFY1dV9zLUNJVHZQdXNZcndoV3ZJYmY2SjBSdlJXQUhIeEhJYVJTS2Y2OGt5bXE4cEFBMUdfaDRvRDg0ZzZjMHFaLVB4MDVBLWpZNTFLa29V?oc=5",
-          "pubDate": "Sat, 26 Sep 2026 17:09:00 GMT",
+          "pubDate": "Sat, 26 Sep 2026 21:30:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T21:26:28.037Z"
+      "updatedAt": "2026-09-26T23:47:56.711Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Category 4 Hurricane Polo threatens Mexico’s coast, landfall expected Monday - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPX3FKRlF5WEJudldBNU5uNWpXOTJ6NWQxaFFkNDRZUFZyR2V6bWYzQmJJUlZDN015RlRPTUxOUHFDQ2VKN1lVeHRhc0dFV2t5RnB6S205U0NHbHFicUZfUjhGcTJhdjhsWkVGY29Yc2ZUM2dfeVJOc0poVXctLXRLNGVjaHBIZkRMTWl2bkpGbkFpODNCYlY3M0xMbjVScmFHWnhUbk5yeVVlNC1wM0RmeDZZdktsMmxHYWdTR3VDYVlZc0dIVTFoZVdfSQ?oc=5",
+          "pubDate": "Sat, 26 Sep 2026 22:49:43 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Iran insists on diplomatic solution after Trump rejects peace plan - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVF9ZM3dkR3ZQUWpnUVNzR0lsd0tkTTZkZ1AwN1RnZzVzQXo3WjZWY0VTNVo4dU9PM3ZfUnBKWUZuTWtRa01jNUxtVHhyZW1TakhIWlhCdl9UV0gxc3BWMUdTZ2x2Z2czNEVNV3JVYkJGOEYzSU5MREtHYldqdXZDXy1jdWlsTVZKR3pZTy1qS01IT1FpZDlkZVBLUHEzTXVDSDFlRWhva1Vsdld3cVhnUXZiYnNxTUhtb2c?oc=5",
+          "pubDate": "Sat, 26 Sep 2026 22:42:34 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Trump predicts Cuba and US will make a deal - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSFFrWkRIRC00VjdRZEg1UnBac2Vsb09XY1BTTUhaRVlnQU5OS1dCSVFLRFRNTkt2cmhSWWdoUF9yNWprb0NGMHRYd21sRHU3YVNYd0NxTGtTX3dtSjR0NzVMblZIM3FMNm9MWXJrODZSb09VZVZISExCQmtjVFJqOTRtbS1LMFp1SXBrSk10bjRQZw?oc=5",
+          "pubDate": "Sat, 26 Sep 2026 22:04:16 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US to finalize sharply lower vehicle fuel economy standards - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQVBRNVl3X3FfSjZmOTlqUEZsS0RlN2ZkQnU3cF9oSVA3SVhaUFVKdC1saW1UQ3hKQk5FUHpfUjE2MERFLXVyQU8zRktURUxjVnVzMHk4a3RlV2FKaUNITWxBWmsxdUxTd2VyNngtZzZHeWpfNGd1OXVldFhwMlRRbkFOOEJFSnBYbkZpV1BJUk05N0ZRUzdVYzMtVHBTbUxtbnNrYWJxcXBqY1h1QmgzWg?oc=5",
+          "pubDate": "Sat, 26 Sep 2026 21:25:15 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "At UN, Russia and Germany's top diplomats hold first talks since 2022 - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUXVWZFVNcU52RDdIS2tpNTdtS2N3MUxjWjNIY0JUeUtyQ3ZWN0FFRmNDMTBvN1Q5ZFpJdC1USWdqT2k2azZ5MnBaRGhrdC1tdXhFcnQ0U2RsYUJ6N1FOeXZuS1BTSER6TEVjRXhJb2RqY3lyRkRGSGNLQTUtSjRkbG44M3ZPRmNJejRaNmFUVTYxai1haXVGdml6SUxxMnBRNE1EOTRQX2lieG9xanc?oc=5",
@@ -182,12 +206,6 @@
           "source": "Reuters"
         },
         {
-          "title": "Trump says he approved fuel economy standards ending Biden EV mandate - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQVBRNVl3X3FfSjZmOTlqUEZsS0RlN2ZkQnU3cF9oSVA3SVhaUFVKdC1saW1UQ3hKQk5FUHpfUjE2MERFLXVyQU8zRktURUxjVnVzMHk4a3RlV2FKaUNITWxBWmsxdUxTd2VyNngtZzZHeWpfNGd1OXVldFhwMlRRbkFOOEJFSnBYbkZpV1BJUk05N0ZRUzdVYzMtVHBTbUxtbnNrYWJxcXBqY1h1QmgzWg?oc=5",
-          "pubDate": "Sat, 26 Sep 2026 19:45:14 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "Boeing flags 737 MAX software glitch affecting landing navigation feature, WSJ reports - Reuters",
           "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQY19kcWVrRFgwYVV3YUthaWNIMWxkdHNVbWs0d2ZRTjZPOS1pRzlYVTJUeG43WnZ1Nnd0N3NfMlZ4RkJ4a1E4TXcyQ2RXQVBYOWExYXVRTkRSdXFxRkJFSzNvRjA4VFp1WGdocjVwUDdRWVJiVldMa1JnRklDYTlLLXF6SEN4RFFqdTVfUkh2RkNVV3JuVnNUZmtIdlNOeElrNE10bGpSOFNiRkI2RUVaVVhIcEhaQnY0UFhQd05kQjFzd0dzMFNZajZFWTQ2VS1rRldmN1dyUQ?oc=5",
           "pubDate": "Sat, 26 Sep 2026 19:41:46 GMT",
@@ -198,28 +216,10 @@
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNmFyYk05dGVubEpsSTJ2dGwxcWtFNEx0ZDNybVVaMndCOUpzOTV5SHNjdmw0eHFCQzlsSHZONU91bHVjeU9lQ1RjSTJSM0pZRDhzUUNENHl1b1daMUxkajZ2QklCNTY5bXUxV0dEczRhZTJmU0VKWHhUeWN0OG5OYWRXdWRYUHJOaFJWbjlySGpEdUQtaDdDWThfTWk?oc=5",
           "pubDate": "Sat, 26 Sep 2026 19:14:37 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Category 4 Hurricane Polo threatens Mexico’s coast, landfall expected Monday - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPX3FKRlF5WEJudldBNU5uNWpXOTJ6NWQxaFFkNDRZUFZyR2V6bWYzQmJJUlZDN015RlRPTUxOUHFDQ2VKN1lVeHRhc0dFV2t5RnB6S205U0NHbHFicUZfUjhGcTJhdjhsWkVGY29Yc2ZUM2dfeVJOc0poVXctLXRLNGVjaHBIZkRMTWl2bkpGbkFpODNCYlY3M0xMbjVScmFHWnhUbk5yeVVlNC1wM0RmeDZZdktsMmxHYWdTR3VDYVlZc0dIVTFoZVdfSQ?oc=5",
-          "pubDate": "Sat, 26 Sep 2026 18:35:37 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Nor'easter leaves over 100,000 customers without power in US Northeast, over 400 flights canceled - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdFhmWmpFYkY5RG1sM1JjN0ZPcUVCc3gyaVRpUVNXRnJUcEc5eGlfX2F6NVFwczZlR1MwU1ZaRnVIbUtUME9xRVlBU21mWllMdi1tQ0ptTHFLakl3bEs4U0w0aDhram5RYjRhemxaSl9iSkk5SjJxVEUzMjczX2g2c1FfS2plQ083WV9GOVRPandhbHZPSm5yR1l4QmtUeXJFcnktWjE3amF4SGczNzVzX05Pa2pLOUt2MVBVYm94UnRHMlowNkhnTVNyTQ?oc=5",
-          "pubDate": "Sat, 26 Sep 2026 18:28:53 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Mbappe diagnosed with knee hyperextension, say Real Madrid - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVGF6eVFxZ1Fia2ZGWFJVZXVvMlpmZGRwSG9TLUF4dGNmRk1rellRaTVLb1dFdUstOFd5amx2eUtiaDNSci00VC12eWdaRFIzM2ZtMWlIckxsOFRmOFg0blV1WkJjS0hUZWF5VTBtNklvWDVNM25aTmpJcXpGekk5VUJ5RVRUWGNQZEtkdThWbTJSWkxqUzdMOXJKNjQ2cnZJSG02Ri15R2laMUU?oc=5",
-          "pubDate": "Sat, 26 Sep 2026 18:05:43 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T21:26:28.468Z"
+      "updatedAt": "2026-09-26T23:47:57.101Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T21:26:28.722Z"
+      "updatedAt": "2026-09-26T23:47:57.265Z"
     }
   ]
 }
