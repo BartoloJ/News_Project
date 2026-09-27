@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T10:26:49.854Z",
+  "generatedAt": "2026-09-27T15:15:14.803Z",
   "sources": [
     {
       "name": "BBC News",
@@ -7,7 +7,31 @@
         {
           "title": "Two mass shootings in South Africa leave 27 dead",
           "link": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 27 Sep 2026 10:00:36 GMT",
+          "pubDate": "Sun, 27 Sep 2026 14:09:22 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Ten climbers missing after avalanche hits Himalayan base camp",
+          "link": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 27 Sep 2026 12:36:57 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "One dead as nor'easter storm pummels New York and New Jersey",
+          "link": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 27 Sep 2026 12:34:26 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "'Scourge' of abuse must be rooted out, says Pope, during Lourdes visit",
+          "link": "https://www.bbc.co.uk/news/articles/cm5y5nj8ejj8o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 27 Sep 2026 11:38:03 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Before BTS and Blackpink, there was Big Bang: Now the Kings of K-pop are back",
+          "link": "https://www.bbc.co.uk/news/articles/cq39me84zrkdo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 27 Sep 2026 08:51:23 GMT",
           "source": "BBC News"
         },
         {
@@ -23,42 +47,54 @@
           "source": "BBC News"
         },
         {
-          "title": "Nor'easter brings flooding as New York and New Jersey declare emergency",
-          "link": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 27 Sep 2026 04:23:09 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "Four killed in helicopter crash near Montreal",
           "link": "https://www.bbc.co.uk/news/articles/c3grvv7p81lqo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 27 Sep 2026 02:43:10 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Killer Christa Pike is to be executed within days - but her defence say she's a victim too",
-          "link": "https://www.bbc.co.uk/news/articles/c6pwl9g9ne1lo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 26 Sep 2026 23:04:08 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Young people in China are fangirling over a professor who gets their anxiety",
-          "link": "https://www.bbc.co.uk/news/articles/cq70dgdndr46o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 26 Sep 2026 22:02:18 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Are claims of a white genocide in South Africa real?",
-          "link": "https://www.bbc.co.uk/news/videos/cme8xx55eryno?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 26 Sep 2026 21:20:17 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T10:26:48.368Z"
+      "updatedAt": "2026-09-27T15:15:13.337Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "South Africa reels from spate of mass shootings that killed 38 people in a week",
+          "link": "https://www.npr.org/2026/09/27/nx-s1-5982488/south-africa-mass-shootings-killed-38-week",
+          "pubDate": "Sun, 27 Sep 2026 09:01:27 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Ohio governor's race: Ramaswamy and Acton clash in rare Democratic pickup opportunity",
+          "link": "https://www.npr.org/2026/09/27/nx-s1-5976743/ohio-governors-race-ramaswamy-and-acton-clash-in-rare-democratic-pickup-opportunity",
+          "pubDate": "Sun, 27 Sep 2026 08:06:23 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Playing 'La Bamba' for an hour? Must be a Mexican fandango!",
+          "link": "https://www.npr.org/2026/09/27/nx-s1-5973237/la-bamba-mexico-fandango",
+          "pubDate": "Sun, 27 Sep 2026 08:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Photos: These shepherds climb down a mountain to go to night school",
+          "link": "https://www.npr.org/2026/09/27/g-s1-143582/night-school-shepherds-lesotho",
+          "pubDate": "Sun, 27 Sep 2026 07:53:42 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "From professor to patient: One man's journey on the frontier of lung cancer treatment",
+          "link": "https://www.npr.org/2026/09/27/nx-s1-5981264/lung-cancer-treatment-mrna-affordability",
+          "pubDate": "Sun, 27 Sep 2026 07:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "5 arrested near a U.K. air base used by U.S. on suspicion of preparing a terrorist act",
+          "link": "https://www.npr.org/2026/09/27/nx-s1-5982480/multiple-arrests-suspicion-explosives-offenses-uk-base-us-forces",
+          "pubDate": "Sun, 27 Sep 2026 06:49:36 -0400",
+          "source": "NPR"
+        },
         {
           "title": "These Democrats are running for Congress on Christian faith. Will it pay off?",
           "link": "https://www.npr.org/2026/09/27/nx-s1-5979946/these-democrats-are-running-for-congress-on-christian-faith-will-it-pay-off",
@@ -70,156 +106,120 @@
           "link": "https://www.npr.org/2026/09/26/nx-s1-5980066/trump-gave-xi-jinping-a-warm-welcome-what-did-the-talks-accomplish",
           "pubDate": "Sat, 26 Sep 2026 17:13:54 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Trump calls Iranian plan to reopen Strait of Hormuz not 'acceptable'",
-          "link": "https://www.npr.org/2026/09/26/nx-s1-5981990/trump-rejects-iranian-deal-strait-of-hormuz",
-          "pubDate": "Sat, 26 Sep 2026 16:08:28 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "OpenAI says its models engaged with US government websites in misbehavior disclosure",
-          "link": "https://www.npr.org/2026/09/26/nx-s1-5981979/openai-us-government-websites-misbehavior",
-          "pubDate": "Sat, 26 Sep 2026 13:10:04 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "OPINION: Trump's U.N. speech, a stark contrast with past presidents",
-          "link": "https://www.npr.org/2026/09/26/nx-s1-5974096/essay-09-26-26",
-          "pubDate": "Sat, 26 Sep 2026 08:00:00 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Windy weddings and rocky cruises: How East Coasters are braving the nor'easter this weekend",
-          "link": "https://www.npr.org/2026/09/26/nx-s1-5981392/noreaster-east-coast-floods",
-          "pubDate": "Sat, 26 Sep 2026 07:38:00 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Why this island paradise has the world's fastest-growing HIV epidemic",
-          "link": "https://www.npr.org/2026/09/26/g-s1-144667/hiv-crystal-meth-epidemic-fiji",
-          "pubDate": "Sat, 26 Sep 2026 07:31:18 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "The AI safety debate is confusing. Here's our guide to the different factions",
-          "link": "https://www.npr.org/2026/09/26/nx-s1-5979085/the-ai-safety-debate-is-confusing-heres-our-guide-to-the-different-factions",
-          "pubDate": "Sat, 26 Sep 2026 05:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T10:26:48.644Z"
+      "updatedAt": "2026-09-27T15:15:13.451Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Police evacuate homes near US air base in England and detain men on suspected explosives offensives - AP News",
+          "title": "Trump’s golf tour takes him back to the Presidents Cup - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNT3F5dUFmc0o1bk9CTE5OaUNTdmx3LXNmeDhkSnlQWm5nRjBka3FhMTBhZW00YnM2UFVldjVpSWJNcHRvVEp5UThHbjVadmN1eEIwbEpNRWZUUkl4ZnVjcVN2dXZmWkdIeVRKcmZTbmcxQWlDSzBtYnNEWTl2NWUtWUVuLVlWVWV1S1g1VzF5cE9kMENxUHlIeDNuQkdZM1FJa3MtSQ?oc=5",
+          "pubDate": "Sun, 27 Sep 2026 14:26:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Eviction of 87-year-old sparks encampment protest in Madrid over housing crisis - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPajVfLXo0QUJYM3FjWldGS25aQ2dsYnJ5QXB0NFpuQWFETmRGcVdhTFpfZTRaeENKTktaVHZ6RF8tcTBoZGozTmYtdWRTR3JkbXdoelZXblVHMEN6UlVpSmhteFV6YUx3dTByN255b0NhU2VXNjRmUkcxcC1QdWJkc3E3SkVvWmg4cjNGM1lqOXhUNkJiWkh0T21abXpKNUE?oc=5",
+          "pubDate": "Sun, 27 Sep 2026 14:26:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "UK police arrest 5 men near an air base used by US on suspicion of preparing a terrorist act - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcERWNlhSekhlZGNhNVZ4dTZra2o2b3ZEdGFOeFhYWi02T2JlZ2VPNlZ6ZUQ1ODI1MHc3WElaaVRnV2RlZTlUeHhSR1pSN1NOanZiZkEyNnNtaXhPWS1qYXNrSDlIb1M0S3dwMktBNUJUd244MlZuTHJrNk12SGNCckdRSXBCZWxQWml1MHZHdEkwYjVlSEsyX0FOLTRWYlRZ?oc=5",
-          "pubDate": "Sun, 27 Sep 2026 07:52:00 GMT",
+          "pubDate": "Sun, 27 Sep 2026 14:06:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Hurricane Nolo skirts Hawaii but could still unleash powerful winds, flash flooding - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaFVfUjJkdUtyOVZ6SGkyOWVzYnNZLXJ3bXpScGNjVTZ2Tm9mTzY5ZU9ZQTBuS2VlNzFKbm9tRmtSSFZsQXZ2djkzNjgzVHd4TUVFQjg1ZFpzdWozdUprZi1QSjJaVEEyLUFvdUZmZTAwT2J5eHl2SlVvRHFnQXJ4Q2JGZndCLUxo?oc=5",
-          "pubDate": "Sun, 27 Sep 2026 07:40:00 GMT",
+          "title": "A'ja Wilson wins AP WNBA Player of the Year for 3rd straight year; Angel Reese top defensive player - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOazJpREc4aTByMzFwLV9ld29tMk9iNVRUcXJkOU1iVHhieDlpWm1OQ2pKc1BfMzZuMW9fbEdnbmJVZkFOSW9tOWc0NGxnNEVoTzJJSTlUdnZaSGpPdUVldmN3eW1IdWJ3ejFhN0xhOG9raFdLallrNHU1WUlNeEx5Y0ltbW1ubHlDTHR2ekZtLVJaeFF4RmZKMg?oc=5",
+          "pubDate": "Sun, 27 Sep 2026 13:36:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Ethiopians celebrate Meskel holiday with pomp, despite recent fighting in Tigray - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNLXpyWTlhdmpZTU1KbnV5QkV3REZFS3ZsQVJvMjJnTHpad2RjTWNESWNKVE1xdkRweDE5aV8tRzFMWlFDdXB5ckEtUGFDaHJ4VTVTUGthRGFyRVhvdHR3SkJUa3FKRTVxRC13S3Y4ZWFEeWlSUW1pRThWRWItNlVqQnFnV29MaENPTUE?oc=5",
-          "pubDate": "Sun, 27 Sep 2026 07:22:00 GMT",
+          "title": "Powerful nor’easter floods Northeast, leaves over 100,000 without power as high tides threaten coast - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSm8yTVN4Z0tmWTVURVhPYTdqVWRYOXVqXzllQkJ1ZzRGZ040SXdRQjJ1ZlFLRDNYTlN6aWFyeXBQQXBsSUZ0UmtSWEdHVWtzZTJsVGFaZW9DSmd5ZXpUejdkSldwSHdiN3ZtYUJLNEJ2aFRQX05DVl80NVI1dzhlcUZtNHFDUm1NazZKT2Ryd0xJT1JoT0E?oc=5",
+          "pubDate": "Sun, 27 Sep 2026 13:11:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Strait of Hormuz - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlVXpqWmtzbXMtZ2s4UUNsVEZvUnNvUFNoRWNVei1nVkhsZGtmVDd3ajJTaUJoYmRsbHZDM1hoaGlVV25VVDNsTDdhOW9aVUdV?oc=5",
-          "pubDate": "Sun, 27 Sep 2026 06:32:19 GMT",
+          "title": "Sea level rise is reshaping a California beach town and threatening a key rail line - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeUNzY1NCOVpjMkNBd3hadk5yU2hoNnhwMVYyT2g3N1dFY0lRVmtBdkxJYnE1azN3bmt6T2FxMWlLSW84NWV1NjQ4LURKQVhWcEVsTzVCd1BCT2lhZUtSSFBQd1lUSXZUaEI1LVViZWZIT3pMelh2T2ZjWENyRlIwT2hOMlc4aGkyLWg5dmc4a3NEY2hGbDhEY2dHMG5aNkVNU2h4eg?oc=5",
+          "pubDate": "Sun, 27 Sep 2026 12:29:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Phillies can salvage a late collapse and take final NL wild card in season finale - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdFoyWXBjaDJBaXBzd2FaODJteWZhMk5aR3ktdlE5ckFkeXhaYUNycjV3Z1RwLUE4Mlo1V0ZwUXF2aG5zNWYwTjFrVTB6c25XV21rYjd4aHBmV09hOXdjMnNZcXc1TmU4NWdlNkhZR0E0N0pCeXVidEVPdEhhM1pIdDhPbUFKU0ZnMHA5cWxsbw?oc=5",
-          "pubDate": "Sun, 27 Sep 2026 04:35:00 GMT",
+          "title": "Early results show Swiss voters are on track to reject a push to tighten neutrality rules - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSXFyNkpXRHJzY0NPaEJRcG1rREF5ZkZ4d1Ftb3d2c2pqQjlPSml2NFVCS3RNMml2dVd1ME1iQ0QtMDJoVnhqRWVvcFJ2VnA5NGpiNmdKbG1HQVdHdUFDV1MtN2h3OWtsTUp2bTdWbmJoX2Y0T1RMRzFVTjE3bXpWMFhyMkdaSkktNFBVS3BNNnZIUElhTHBtcDdmNDMwQVVpaWViNHJ0T2ZqOXdEblQ2N2VSYnQySG8?oc=5",
+          "pubDate": "Sun, 27 Sep 2026 12:06:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "investigations-scams - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9mZXgtQlhJSkJUSjdlYmZrR0s3S1R2dEp4YVRGa0pYLWJ2bmNJMkhCZWNreGloeXZIbmZQdzRHbW82bk96QTFqOXNrWGtBZWhV?oc=5",
-          "pubDate": "Sun, 27 Sep 2026 04:20:48 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Gunmen target ambulance in Pakistan after suicide bombing at checkpoint killed 12 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOd1JTRGdCNzVjMUkzSmE4cTA3Szh6WE8zNlpLQlRmSGdIRDVoTkVSN1VvS3dqZlBQSUlXSVVwX2xwV0tOVTZ6aUlySExzR2w4RzhwZHlwQlhlVmFfdDZTTWNSSW9KdkpYdGRkeVpXcmgyNzZuZ3FxUm9qbUtCalcwaVNEcm1meS1GU1lJ?oc=5",
-          "pubDate": "Sun, 27 Sep 2026 04:19:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "The MTV VMAs are here with Taylor Swift making history and Madonna leading the nods: How to watch - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNc29LNjU2WGtLN0FVSWF3c01hQmw0M013X0V1U2N3TjNZQTVwdkVlMDh3bkgwQng2T3FRMFFkblFRNnktMjFwZ2VBbnd2SjR2TTBIN0tNUkVBempHWk5TN3lvYlN5OGNRNjUxaktuU1hQUnExeW5hbk5YaEVVU1lRcEQ3UFRTOE5xRmxjV2diSGtPTXBXdDdMWmln?oc=5",
-          "pubDate": "Sun, 27 Sep 2026 04:06:00 GMT",
+          "title": "Palestinian death toll in Gaza war rises above 74,000 since the war began and other Mideast news - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN2lsZXMteVl2UXhnTWE4UWl6eG9FUE50RFkzN3V0cFlQZldUeDF2YTlGVlpmMmxMX0cwQUdrQ0ctVWZMaTcyeU15bnN1dXM4YmNsd2tUMnRjR0JXUWtYRGw3S1I0azUtSjQ5RnZOOTdJa3pYVzRaSmptb25xVmNlRUZOTV8tVmxJZW14S2c2c3kxVklLTUwxeFlqNFp5Q2U4ODNTLXhoRWJiQTA?oc=5",
+          "pubDate": "Sun, 27 Sep 2026 11:40:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T10:26:49.161Z"
+      "updatedAt": "2026-09-27T15:15:13.985Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Men arrested in major incident at UK air base used by US - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOThaUHcwMHZuZEY2dldUNjhYQ29PeWRJdEYxWFBPV3NEUUdSc0l4MkdhN3liTGdyNG9XaEhwWG8xRk8xR29JVlA0ZEV2ZXM3RVZCRDlPSHhzU29Pek9tZVREdUdvOHRXS1ZuaTR0TXVGV253bkplU1lNbG85WXRjYzcwV2ZSekFCa1gtR1RtV09zM3NYeF93?oc=5",
-          "pubDate": "Sun, 27 Sep 2026 09:55:35 GMT",
+          "title": "Floods, landslides kill 56 in India and 14 in Nepal - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSDl0UzBQZFNRMUNTNWZpRnNkVVVILXI5Vk5RRmV1bk5UeURhMWZWbjZkVklUVktUWGlsdmFORXVIQ0pDLWFfRWlxeGhtUl81Y1BlQ21XVThzX2hUSHVualNRdFdHZFIwbk5EaDBkUlBMN3hkV0ljMVJxVklMMHhXaEpwalNGZUVzVi03QnNFaFNuMTVTVHhtaWpoWnJXWFM2YUEwNWRMVS10RXk0VTZlUQ?oc=5",
+          "pubDate": "Sun, 27 Sep 2026 14:23:47 GMT",
           "source": "Reuters"
         },
         {
-          "title": "South Africa police hunt suspects after 27 killed in two separate shootings - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQR2EyakRfYnN4VnV2MFRsWmF1MXRHQXBObVl0c29NMEJoRUFoS0JCUVlWaEF5T1dqb3VHRHNLOWsyVXFoa2ZfcGpSdE8xRWVZNmJoWGhWVUVsbWEzRF9Tb01sQmgzaHVfTFAwLWtXMWRRWGtvdUlFYlFET2Y0eHJJT2c3cUJJcU1VYnZmMEpKc2dJYlVuaEk0UnFhYzA0dDg5WTY5bFJBNVhhOEttNThlTE93Y0VLQQ?oc=5",
-          "pubDate": "Sun, 27 Sep 2026 09:04:15 GMT",
+          "title": "Bangkok floodwaters recede after torrential rain as residents count losses - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWUk3bWh1Mm1sUEZaODJkYkRUTks5S24zSG1JNGwwZHZHQVhpMXNHZTl4aXR5QVdmWW0zVHEwc01DTVc0VUxLTG1zMVBlaTdJaEpONTRFajdpYzhnSTFTXy1iby1FQ3JuSzlsR1JyZUZzSmZ1NHZFYkpyVTJvVDJWenJrdldYWF8yLXJLRTNFMmdsLXptM1ZSc3hhX2NpRURMMHdNcm4zRGdPclEwUmxYZA?oc=5",
+          "pubDate": "Sun, 27 Sep 2026 14:22:36 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "British police arrest five men at US air base in major incident - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOThaUHcwMHZuZEY2dldUNjhYQ29PeWRJdEYxWFBPV3NEUUdSc0l4MkdhN3liTGdyNG9XaEhwWG8xRk8xR29JVlA0ZEV2ZXM3RVZCRDlPSHhzU29Pek9tZVREdUdvOHRXS1ZuaTR0TXVGV253bkplU1lNbG85WXRjYzcwV2ZSekFCa1gtR1RtV09zM3NYeF93?oc=5",
+          "pubDate": "Sun, 27 Sep 2026 14:10:57 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Pope Leo urges Church to face failings before meeting French abuse survivors - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWGNfb19vNE0wR0lybVdvaHJncHRrRUZsLVpzbzdGWkhBeVNRanRfOEl4T2RmWXVSc3NlMFl6S2hzaER2c0dmZzNLcGlrTGdyMXRhOXQ3NzZfMU1hZkZNeUxReG93aWhIY0U1WUI3TGc2bEhBY2w1Z2V6OXZEN2Z5dWVNN1hFU0R2WlNZUl9sN0tuOVlkdDdnT2NaU29kOV96R1dFR0w5QkRKSko1RlYtTktmSW1ZNi1EeUtSdnpxSQ?oc=5",
+          "pubDate": "Sun, 27 Sep 2026 14:03:16 GMT",
           "source": "Reuters"
         },
         {
           "title": "UK police arrest men on explosives act offenses after air base security stepped up-Sky - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZ3h5T1ZCaEJEeHBqOUpFdUpoOGVvTkI5Qjgxd29YdEQtYzQ4TVRuM20xQXFLVXpIdllBeGZUa24tbmNyUnFIN2I5dkE1aHBSc0ExSU5JVXdkYVJIYXUyZ3dTQUUtVWdnMHo5TzJXa2YtVjVoTDNJRmE2ZmdIQ3hTRlM5LW9pMnY3R01QellEb2xKbVJ6ZngwYlAwOGpRUDRBUTBkRkc1QmxJWHJfTm1QX2hzYXBWU3ZaTmJzUkZsWUkwdw?oc=5",
-          "pubDate": "Sun, 27 Sep 2026 07:47:45 GMT",
+          "pubDate": "Sun, 27 Sep 2026 13:19:02 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Floods, landslides kill 15 in India, four in Nepal as rivers rise - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSDl0UzBQZFNRMUNTNWZpRnNkVVVILXI5Vk5RRmV1bk5UeURhMWZWbjZkVklUVktUWGlsdmFORXVIQ0pDLWFfRWlxeGhtUl81Y1BlQ21XVThzX2hUSHVualNRdFdHZFIwbk5EaDBkUlBMN3hkV0ljMVJxVklMMHhXaEpwalNGZUVzVi03QnNFaFNuMTVTVHhtaWpoWnJXWFM2YUEwNWRMVS10RXk0VTZlUQ?oc=5",
-          "pubDate": "Sun, 27 Sep 2026 07:39:43 GMT",
+          "title": "Thailand declares two-day civil service holiday due to floods - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbFZuX1F6RFd5NXRYQ2dXNHBGUm5CWS1zcGJqUFZrRUFDOHJnTC05SjE5ZTBBRFpGaDBVYnlxOG1saGhFV3BONWlnNGJvWGhfanlRSmt0U3dlWUtSX1RNbmFWS2phSlRCVVlxNGhQZ3lHWFJRQlhQajZ6TUUzbFRBVThXbkFVeFR0Q1NzMFZNVENSRlp3M1UtNnA2a0RMRTRGbFJ0elpuRUw2cEMtYURFSVFyYUQ1R3oxNHZnX0hMNUZ5SEhpVEdacktRdy1LcEpM?oc=5",
+          "pubDate": "Sun, 27 Sep 2026 12:59:08 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Swiss vote on tightening neutrality rules, ending peacetime cooperation with NATO - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWVA4TkVYNVNZdVQwNGlVdnh1THlUXzlrYm04SXVMeGdrOHhEZXVhMV9iZ3EyNGUwVlRkN0x0QmtQaC0zQXNjd0RYRjhnWmlDVlNLZ3pSaGlVMTFRbEtCRHg2eVhkME9VMEFncTQ0Nk5rV0ljTFdxNENxU2xiNjQ4WEhDMF9STXg1N3JXT3YwcGxQbURCeEVHSXNiTW4zNk5rc0hhamFYLWFpMkhGSFZ3TF9HbzR2NWhxZ0tZ?oc=5",
-          "pubDate": "Sun, 27 Sep 2026 06:03:00 GMT",
+          "title": "Afghanistan says 28 fighters killed after crossing from Pakistan; Islamabad denies ties - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWHFmNzhleVFtVHNiMHZNN2JEeWxxS25BZkJGYTZ4d0lRODhZdHhKUnI3LTNMWHlMTTZiaDdkaDlabGl3Uld5dXdqVFdjMVNIRFVrNk8waXl4d1EwNF9hSEVaV2tiTGs5TjA5ZkZjNUptSi1xdFlNNG5NMnZOdXdCSDFSNmpjR0ZzdVF4bWJzZThBOFNuXy1aSndCdjZmSVFqTjc3VWVSNllOcFk4THNhb2t5OFk?oc=5",
+          "pubDate": "Sun, 27 Sep 2026 12:02:30 GMT",
           "source": "Reuters"
         },
         {
-          "title": "India badminton medallist says Aichi-Nagoya Asiad 'sad' for athletes - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZEFtN1VWdGpKZVNKUjYyeFU0QWJwa3dWdFg1MFhBNXMxS1QxOTgtRUdBeGZ4QTU0Z1pvQXdsMUE3RzRmM25lZ0c5SlZNanR3Z1NCR3hnNXlQd1B1RTNZOUFTYXZqY21ON3VtMXhaU3JudWpoaW5UZVlwM05LY0xDYXhwWjI4NkplQTYzbUtJZmpOZ01oZGRqXzBBaVVobFh4bnJ4Q01GV18?oc=5",
-          "pubDate": "Sun, 27 Sep 2026 05:15:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US consulate builder in Milan to pay $35 million over labour probe, document shows - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbzNpd051YmVtWG1CajVjZ1NPTzhzNVJ6aG5uc3p4SXBIZFBDdlhPZmMySXlNWVNaY21wUXNFZnJ0aVA5bklra0E2SVJxT0k1QkZtQ1N6bVZXdEtwblFES2xWNGhpU0ZUU3JhZkRXM2xkc3YzUmMtRFJLV1lWNFZyWFdJcndhMm4zVE9XeGdTMG9oR0tqNGwxOXloQzhNRjE3dXBDQ0h2a1RPN09RNmJUak0xbnQ1ME1nTjBR?oc=5",
-          "pubDate": "Sun, 27 Sep 2026 05:03:44 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "OpenAI, Anthropic CEOs called to appear at Australian AI probe - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMkgwZG5VR01rUjNsZkNPUkw1TFNEYTY1TGtCa010MUlRVzE2Vy1qaTBMNnJiYXliYlY1MkJONXpValJTRTdQLVNjazhJbGc1RDNVMDdTNU9WZXd3elhRVVBZNEFZLTBER2VfVkdxUW13YXprcnJKc1NjcmFwS0FYRlZYTWtZZWNQQ0pJV3JjVWFkUDZHZDNOT01FSVJOaDZLUU1wa1BFdDZpU2hZ?oc=5",
-          "pubDate": "Sun, 27 Sep 2026 04:27:00 GMT",
+          "title": "South Korean military, UN command launch investigation into DMZ explosion - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVWl2MjlNSFpiVWhIX21aZVAxdW5oVzh6V0xfVDZlcU9TX0IzZTRWcG5Uek1hYXl5WWY0NG8zWThRclJmZW9WNnktYS1aUVNUZmVJeFlwVUVUWXBVQ1RwWDcwV0pabldidDVQWGt2QkJWWGpJZWh5d29LRVJNN1BUUHktaE1sdEhLdW96NDN3WGwxcWN3Q1dBQ2p5eE9JTW1PbFRYRDd2ZWs2bEJnbmozaDB4aF9Wc0cxTXlqdm1fUXNWUVhfTnc?oc=5",
+          "pubDate": "Sun, 27 Sep 2026 11:29:43 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T10:26:49.549Z"
+      "updatedAt": "2026-09-27T15:15:14.512Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T10:26:49.854Z"
+      "updatedAt": "2026-09-27T15:15:14.803Z"
     }
   ]
 }
