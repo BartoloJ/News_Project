@@ -1,64 +1,76 @@
 {
-  "generatedAt": "2026-09-30T21:22:59.917Z",
+  "generatedAt": "2026-10-01T00:46:23.214Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
+          "title": "US Supreme Court allows execution of Christa Pike to go ahead",
+          "link": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 01 Oct 2026 00:19:20 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies",
+          "link": "https://www.bbc.co.uk/news/articles/c6n9w0ypjwl9o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 01 Oct 2026 00:08:23 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "The children dying in India's remote tribal heartland",
+          "link": "https://www.bbc.co.uk/news/articles/cmn9wr84v1qno?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 30 Sep 2026 23:41:34 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "China has cracked down on AI relationships. Is it ahead of the game?",
+          "link": "https://www.bbc.co.uk/news/articles/cm4gjy9lr551o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 30 Sep 2026 23:25:23 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Tiny image sparks big backlash in Nikon photo contest",
+          "link": "https://www.bbc.co.uk/news/articles/ck4gjn1yzprno?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 30 Sep 2026 23:10:19 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
+          "link": "https://www.bbc.co.uk/news/articles/cqx2ze420kpyo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 30 Sep 2026 23:10:06 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Trekkers helicoptered off mountains as more deadly landslides hit Nepal",
+          "link": "https://www.bbc.co.uk/news/articles/c607l4l3vn0eo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 30 Sep 2026 22:01:16 GMT",
+          "source": "BBC News"
+        },
+        {
           "title": "Flydubai passenger describes putting attacker in chokehold after cockpit stabbing",
           "link": "https://www.bbc.co.uk/news/articles/cmx2z92xx57no?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 30 Sep 2026 21:11:24 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "What we know about stabbing on Flydubai flight to Israel",
-          "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 30 Sep 2026 20:44:12 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Six smugglers jailed for manslaughter over worst Channel small boats disaster",
-          "link": "https://www.bbc.co.uk/news/articles/c6n8m33pn9djo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 30 Sep 2026 17:14:03 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "UK-France 'one in, one out' migrant scheme scrapped",
-          "link": "https://www.bbc.co.uk/news/articles/c64gvnv4eqylo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 30 Sep 2026 17:11:08 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Execution of US murderer Christa Pike halted shortly before it was due to happen",
-          "link": "https://www.bbc.co.uk/news/articles/cw20vxxn876no?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 30 Sep 2026 15:29:11 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Passengers describe stabbing on Israel-bound plane",
-          "link": "https://www.bbc.co.uk/news/videos/cv70d22kd34do?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 30 Sep 2026 15:07:00 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Ethiopia fighting escalates in Tigray killing 52 civilians, medic tells the BBC",
-          "link": "https://www.bbc.co.uk/news/articles/c6grveejg1e2o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 30 Sep 2026 15:04:32 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
-          "link": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 30 Sep 2026 14:53:02 GMT",
+          "pubDate": "Wed, 30 Sep 2026 21:38:54 GMT",
           "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-30T21:22:58.641Z"
+      "updatedAt": "2026-10-01T00:46:21.935Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Swiss glaciers suffer another year of record ice loss",
+          "link": "https://www.npr.org/2026/09/30/nx-s1-5981403/swiss-glaciers-climate-change",
+          "pubDate": "Wed, 30 Sep 2026 19:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Leaning into culture war flashpoints, Hegseth says he has transformed U.S. military",
+          "link": "https://www.npr.org/2026/09/30/nx-s1-5986304/hegseth-troops-address",
+          "pubDate": "Wed, 30 Sep 2026 17:51:20 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Greetings from Syria, where time seems to melt as a glassmaker braves scorching temps",
           "link": "https://www.npr.org/2026/09/30/nx-s1-5983516/damascus-syria-glass",
@@ -94,132 +106,120 @@
           "link": "https://www.npr.org/2026/09/30/nx-s1-5981250/tennessee-execution-tony-carruthers-christa-pike-medical-ethics-lethal-injection",
           "pubDate": "Wed, 30 Sep 2026 10:30:03 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "A pilot stabs another pilot and tries to crash their flight to Tel Aviv, Israel says",
-          "link": "https://www.npr.org/2026/09/30/nx-s1-5985806/flydubai-flight-dubai-tel-aviv-israel",
-          "pubDate": "Wed, 30 Sep 2026 09:35:11 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "FBI hunting the hackers who stole its employees' sensitive data",
-          "link": "https://www.npr.org/2026/09/30/nx-s1-5985202/fbi-hack-shinyhunters",
-          "pubDate": "Wed, 30 Sep 2026 08:29:05 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-30T21:22:58.864Z"
+      "updatedAt": "2026-10-01T00:46:22.147Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Fed watchdog finds no crimes in $2.4B building renovation, only mismanagement - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMlpRMXBsRDNwTlRQWnhIbmFRYTJDc09vbENfWG92d3RPWl9Qb3EwYlhNTW42T1ZMWnpOUUlqTGhHb1Bta0Jva3QtT0RnVFd4cnpSWjdsOUtKV0hMMG81clBZNU1rVGJJSW5jcVpoaHN6TWpXaXI3R3BHUDRfakt2YTdZRlVFejIzT3p6YVZyeGpqMWxuY2UtUlV6OTQwd0JCaHpHclVVZ0ROeDJi?oc=5",
-          "pubDate": "Wed, 30 Sep 2026 20:26:00 GMT",
+          "title": "Pilot stabs fellow pilot on flight to Israel before passengers intervene to stop attack - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSUVoWWFZd2hfb29WZ0tCQV83bTRCdFI5TTVLbWh4bHdxcWRxTTY5N2gxN0I4ZkN5TUp4YVpaVGMtSTRjTGRTMkV5cHVLeEl4a19lWXNBdzZVeXVnMGNCanJWdTRSNjVDUzRtSndzQ2ZBV3JsdlBXNkRlVGd5WXRaU2UweXFIVG1DVWpWby1sekV4Y1FBTDZtS1Z5aFVXSE9venYxdTRn?oc=5",
+          "pubDate": "Thu, 01 Oct 2026 00:31:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Pilot stabs fellow pilot on flight to Israel before passengers intervene to stop attack - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSUVoWWFZd2hfb29WZ0tCQV83bTRCdFI5TTVLbWh4bHdxcWRxTTY5N2gxN0I4ZkN5TUp4YVpaVGMtSTRjTGRTMkV5cHVLeEl4a19lWXNBdzZVeXVnMGNCanJWdTRSNjVDUzRtSndzQ2ZBV3JsdlBXNkRlVGd5WXRaU2UweXFIVG1DVWpWby1sekV4Y1FBTDZtS1Z5aFVXSE9venYxdTRn?oc=5",
+          "title": "US Supreme Court clears way for Christa Gail Pike’s execution in Tennessee to go forward - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMnVOY1V2MzZrbzhSSC13bUxKQzU1bWJON2RhLVVwU3dSNkJZM3JOeVlhWDF1VTd5VmlsMXZBTDZzQlhrOWhrMkpQUXFtUWpvRWUzMWY1a3V4UXp0eGRIQWFyMTYtSjNQUXRzNjkyWVZFT2Ixb0lFaWJwY2h4dHlMckpTdmFxc0QxbzYzQUJVQWlWSE0tY2Iw?oc=5",
+          "pubDate": "Thu, 01 Oct 2026 00:20:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Trump hails the US military’s exit from Iraq after 12-year mission against Islamic State - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVVd3ZE1qU3YyRlhnTjBFTlVSX0taT0p1MDFpQVNBNVJTSzY5U3pkVkpNVTdmMU5qLWZrMGsxLUdROFFURmFxRzFjME5fWWhhVlZGcTFZRnExRkFhcFNaeXNRYmhkQ3h4NnU3Q09mSUlteG8wZ1dVRlpQME0xQk1jcUlqeU5XMkpVdWNyaW1jN1VRNG84VExtV0NQUkJsd2ZNRUFPdmd0WFM?oc=5",
+          "pubDate": "Wed, 30 Sep 2026 23:38:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "US can deport the leader of Wisconsin’s largest mosque on national security grounds, judge rules - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaC1IV1VIWWEwR1V6UUk0MmZVT1dxOGd3X3Q5QUZyeW5pQXAzS3g3Y1NYajRlWXJJWktxTXVvaGhtWHktTjlBdFZjaF8zUGt5WndVanJ3TUJlaVNPbTJWbElKRHZwX1ZudVJER2tVckhLMnFYSmxIc3U0WFdLQUY5bU5qVTlyNmVoNHR2VG9ZbWJmdm0xS1JmYWtSaEJBNnZjUkd3VnhUU0pMUG1l?oc=5",
+          "pubDate": "Wed, 30 Sep 2026 22:12:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Fed watchdog finds no crimes in $2.4B building renovation, only mismanagement - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMlpRMXBsRDNwTlRQWnhIbmFRYTJDc09vbENfWG92d3RPWl9Qb3EwYlhNTW42T1ZMWnpOUUlqTGhHb1Bta0Jva3QtT0RnVFd4cnpSWjdsOUtKV0hMMG81clBZNU1rVGJJSW5jcVpoaHN6TWpXaXI3R3BHUDRfakt2YTdZRlVFejIzT3p6YVZyeGpqMWxuY2UtUlV6OTQwd0JCaHpHclVVZ0ROeDJi?oc=5",
+          "pubDate": "Wed, 30 Sep 2026 21:05:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Most US stocks fall after the bond market cranks the pressure higher - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWmtnVHpEa0ZTdzJYcHhrUTlwRURkX2tJVVgwTHgxeTFLY3FHeTRKal9wdmVYREZueVZnclVhTnloU0pRZHp1ZEtnT3BhX0pud3NuMlVQWG4xOV9yZUJVbjY1X1RZSlp1TlVVQUZDaHB6TXotdmx6akpNdFBDUklLcU81WEt0bXNLV0xwVE4taGxYMHNqQkZUaVFUWmM?oc=5",
+          "pubDate": "Wed, 30 Sep 2026 21:04:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "What to know about the terrifying FlyDubai flight bound for Israel - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOTlDVnRPM016ZnBHZEIyRk9FVHpVSDlFYmNHRWxnUndFNzNmMnMtdUFCSlBSQmdNRWluYjlYUTVScVMyWHZPUUdRYjkxajREZkFIRVhfUVlmOVVlMURUNmRZbjhIdzRNVnNhTkVOeWYyWTVkSjhtZU00cFdkeHdVel8zZWxfR0ljM2tYeHREUmt0b0cteFJ4RkhmUVBJdkJCZ0JKLWEzRWNJYXIwckxn?oc=5",
           "pubDate": "Wed, 30 Sep 2026 20:14:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "US economy grew a solid 2.2% in the second quarter, government says, upgrading previous estimate - apnews.com",
+          "title": "US economy grew a solid 2.2% in the second quarter, government says, upgrading previous estimate - AP News",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWXpwNmNIQjBnejM4WUNtaUpjWGdoQ09YZFFtckxWVTI2VVdval9lWDgzRUpfYk9wY3N4anZiRExiRkhESFZvay1TeTlzRE5zU1B4SkotQW9yanJGTFlxbFJDYWpLcW1waWdkendzMFZKM1l2dmZNT1paVVVMbkFORF9NcHFudjN5T0V0X01oLUtPdUdxWHU0NjZqZVNYQQ?oc=5",
           "pubDate": "Wed, 30 Sep 2026 19:50:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Republican redistricting in Texas and Florida may not turn out as Trump had hoped - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNXzJVMDNSYWJ5allnZlVZREFyMlVaZjhaeEVTWE5FWWhDbW00eFBZVmhXMHFWaGpGaVZRR21vOXdXX3h2Wk5vMFZWdHRGRHoyc2s3eWdfOUNyRkFjeDBWaTVzczdFOWpjWnNXZzFvZVAtRDMzVXNMMUhaWDJkWWFNdDBhUEN4ZEI1MXV4VjJSaEswcUJOeVZXS19JckxXdi1Nc2RBaVQxcTNMNE5Q?oc=5",
-          "pubDate": "Wed, 30 Sep 2026 19:21:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Potential sanctions against Man City could range from fines to expulsion from the Premier League - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMmpYX3poc0tZNU9vdWM5ZVpaTjg0dFNyMDA5bEU2S041Wkw4NGZNOFEwSzgwYVFOVVVDcldkRmVNWGI1b25PQ3VqT3FicHFBQ0JjR2R0SnB0cVhzeUhlN2xCVzdhcjlwZG9LcDRUQ3dPUlNJcHJxdGpLamxoaEVPLXBpRlczVDFOWHhHN3c5UXBhQ0dHaWc?oc=5",
-          "pubDate": "Wed, 30 Sep 2026 19:17:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Court halts execution of Christa Gail Pike for a Tennessee murder she committed at age 18 - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMnVOY1V2MzZrbzhSSC13bUxKQzU1bWJON2RhLVVwU3dSNkJZM3JOeVlhWDF1VTd5VmlsMXZBTDZzQlhrOWhrMkpQUXFtUWpvRWUzMWY1a3V4UXp0eGRIQWFyMTYtSjNQUXRzNjkyWVZFT2Ixb0lFaWJwY2h4dHlMckpTdmFxc0QxbzYzQUJVQWlWSE0tY2Iw?oc=5",
-          "pubDate": "Wed, 30 Sep 2026 18:51:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "US can deport the leader of Wisconsin’s largest mosque on national security grounds, judge rules - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaC1IV1VIWWEwR1V6UUk0MmZVT1dxOGd3X3Q5QUZyeW5pQXAzS3g3Y1NYajRlWXJJWktxTXVvaGhtWHktTjlBdFZjaF8zUGt5WndVanJ3TUJlaVNPbTJWbElKRHZwX1ZudVJER2tVckhLMnFYSmxIc3U0WFdLQUY5bU5qVTlyNmVoNHR2VG9ZbWJmdm0xS1JmYWtSaEJBNnZjUkd3VnhUU0pMUG1l?oc=5",
-          "pubDate": "Wed, 30 Sep 2026 18:34:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Wall Street closes in on a winning September following an encouraging update on inflation - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWmtnVHpEa0ZTdzJYcHhrUTlwRURkX2tJVVgwTHgxeTFLY3FHeTRKal9wdmVYREZueVZnclVhTnloU0pRZHp1ZEtnT3BhX0pud3NuMlVQWG4xOV9yZUJVbjY1X1RZSlp1TlVVQUZDaHB6TXotdmx6akpNdFBDUklLcU81WEt0bXNLV0xwVE4taGxYMHNqQkZUaVFUWmM?oc=5",
-          "pubDate": "Wed, 30 Sep 2026 18:18:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-30T21:22:59.390Z"
+      "updatedAt": "2026-10-01T00:46:22.585Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Texas US Senate candidate Paxton said Trump hurt Republicans, New York Times says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZlgwMVdIQTJBVVY4dVFUSWp5R0lLZFBHN1RZTWdIY2ZCT1dsWF9YLXdiVnFnMHg5ZlJmNlJibmRURDVkbm05S1VoSWZ4WmtVSzNEbkVHVklKOWVBdnM4RXo3SmpLZ2RyUzY0R1hoRXpnTlJZckdFNko1ZzlybG9nUlJSbGtxZ1d2SmdlSWVVYk5Ca3llTms1eHFPUmJXX0xhMDVGXzdHeUp1d204Tzhtci1oRWdiT2g2NzNjZUN2b0hSeW8?oc=5",
-          "pubDate": "Wed, 30 Sep 2026 21:04:34 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "More than 270 priests in Massachusetts abused children over decades, state probe finds - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMkV4SUJCYjNnQXdtSnNxM2doX3hLbEtmVkRZcU4xQjdZendid1Q1aFg3eUZCRWM4OEJFa2RDaGpoS3plclJqSnlkRkwzYnBDOVItaDZnd0VpYjZJVHdMenNLSHJaM0dHNlpld0ZEWHFPakZqR29rWmRzZHJGbTJ5eFJXY1VzNllBZ3VRdWRvWDFMc0hla1VGVzlWb2hTcmQzak5RYnMxMDJ3SnZvUFB3MDFWcHhRdkFTcnc?oc=5",
-          "pubDate": "Wed, 30 Sep 2026 20:46:31 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US judge allows Paramount to close Warner Bros acquisition - Reuters",
+          "title": "Paramount gets court green light on Warner Bros deal, names Mattel's Kreiz co-CEO - Reuters",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVm40VWZUeEUzZE80a0FUdENrZ0d0Q0h1c2x0SVA5WkhtRU1SVWNGSWFxcjA3c2E1UkpSM0F2RkJYYkhlVTd0RTNDSFVwZlNEQkFwMXY2YzJOUTRKV2UwY2k3c1hEUkpKZS04OVl5UUQ2U19wcW5OSWVQZTA2QTM4bmlCYlVWczBUdF91eG0zdngtbENyMHYxQi01MUxkdw?oc=5",
-          "pubDate": "Wed, 30 Sep 2026 20:41:12 GMT",
+          "pubDate": "Wed, 30 Sep 2026 23:46:03 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Experimental Lilly combination drug tops Zepbound in weight-loss trial - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPd091UFNjZjRoTng5cVJCUXRNblZ0ZnBOR2xtUlhXN3lEQUtkUGtGZTBRdk11SnhCT1N0WTVFYVIwNmZMeUd6RzZiSmNxMHVWdHlORDhIWDdnVjJVc2lMTTQwdERSZVYwTG5JUlpwQWxna1JDRl9fWHZIdTh3QUhYaEdITW5lczgyVnp1aTZDcVdkdVRKeGZjeTNGU1luRUJGQUYwMUwyckdVdFdIOGhYOVNYV0VTd1ZiZVlhTg?oc=5",
-          "pubDate": "Wed, 30 Sep 2026 20:31:08 GMT",
+          "title": "Pentagon creates 'Autowarcom' to expand AI and drone capabilities - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN3l3OWJYclNEU1AwZWwwTGF4TU5SMXV1Sl91ekc0TE8xcDdPSFpqanc5QjRwZ2FoWkpVLURBZGhVbXFiYUJuam1kTGhtRFRUYkljZ2NCYy1GWmZZQXpva05lX1RGVFBKcHhTNEJyUXZfc0ZySHljQzQ1RWZvS1V3cGFnWVJnX1ZVem5rLURJdnFhMl96dWVRc0oyODEzeUk?oc=5",
+          "pubDate": "Wed, 30 Sep 2026 23:41:07 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Russia sends nuclear warning to NATO as tensions rise in the Baltic - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNTJVNU5aaklYSDNsWXRMMUVBd2VwaVlhYWtMUzBFSlNCM3dFM2swcENVd3hSOTA1ZEdpUjRtYmVLY0lfNWdfVmM3cW1KNUIxaURqcGNyeTB4djQ3Nkc3c2Z5ME5aN1BXNWlla1ZJQkF2US03X0lmeHNiTEJjblpYTVJMY19wSzlBenJkdGdqNnlEblFhNHItQjBXWWlya0hmQXZPY3YxbnRHVWpBM29fQjFJWUMyTzlJUkE?oc=5",
-          "pubDate": "Wed, 30 Sep 2026 20:11:07 GMT",
+          "title": "Trump says he has done a 'bad job' explaining his economic record - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUktuMmI0YTl6TWxBaFdCSXR1VmpSanZOQ2xxWmRQR1QzRWVuNDRkcGhJNmw5RjN0OVdacjJRUmNoM3FfM1J6SVNNTzNvQnRleXNkLTV5cFRHS1ZSRVFqYklwNzVaQTZVVW51ajBCUV9zMlYxM0p4RTJaVnFxMWs4R19jQ3RuOEk3UlRwV200dkRUTTN5bFFHMGdJOUJ0REpIbTkzWXp2alp3VGZwZmZxOF9fc1M?oc=5",
+          "pubDate": "Wed, 30 Sep 2026 23:22:35 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Micron forecasts quarterly revenue above estimates - Reuters",
+          "title": "US senators hit deal on energy project permitting bill, vote after midterm elections - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTmphT052eEZvV1JCb3JYVG43QzRHSzZURUtsRk5Lclo3VDF3bE55RTZ1bEp1UUFvTklyeWNRd0k1bXdENUFGaThfUTVQZXZTUjBYck5YYy1qNEdtV040SkZObzY5QlRYbnJ2dFBVRTBUdlB6bFZVdlZMOU9uSkxTbHR1MElGbjZUQTF1blBrc1h4OFJOUGlleEQ0aVBCUEZzQ1FtNUVYSnhwRGZtbU5Vb012YVRuZ1hlSFFGSngzSmN2bDBZVWprUg?oc=5",
+          "pubDate": "Wed, 30 Sep 2026 23:20:33 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Watchdog finds no Fed misconduct in renovation; Trump calls for Powell's resignation - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUnN2cDczYmlxZHdIZlAxeWVkVWZPVlA4SmJ2eHB2UTVjZzhHbTRuUy1uazQyblA1UDBFbDVXOFNyUXdJUFZUVHVwR2pHR3dqSkhNbGdmQ1Iyb3k3R3A5MlZuYnhkd2ROX0xLaHVFeGVSUG0tTHhneWxJdmFTeUVPalBQQTN4elgzME1GejM5dUJ2WG5sbG1heGlCZjIxd1NtOGtTMDhoM21ZNVpOSVMwZEIxSjM3cjRYQkhzTA?oc=5",
+          "pubDate": "Wed, 30 Sep 2026 23:15:21 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Trump unveils $200 billion South Korean investment in US; Seoul hedges on Alaska pipeline - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPd19OMlhEUlRpYXJTY0hWUjF3MDRneXkxa0w0dzhuZ19VUGl3UlEyM0tiWnJqLWprdXByMm9lUG9paGU0Nl9VQ2I5djVaLW5rSGhLMDlCN3Y1enBXcHB3dUNoeEhybms5dmVCS3FJMFl3T20yM2ZJOEx1TGItMnNrT1FrM0RtT0xDc0VieWxkLWJidUh2a2l4V0sxS0plYVJuQi1qOW1ETzRDREdCUEE4U3lZaVpjVHlKTEhRTC1jTmNWWjZ3Zk5fZWFCQnJudw?oc=5",
+          "pubDate": "Wed, 30 Sep 2026 23:10:24 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Esther Rantzen, campaigning British television presenter, dies aged 86 - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUW9ONEU2UG5PeG9JTEJFLU9sTmVBZ3BjaHlWWWVlbkJobTliZldtVUpmbmpQZThzLWF2bW1RTlZrSnVlVXRMdm5DOXY0MzZOeWJLSi1CN1RBNzVsWGpQQXhHUkhlZXR6Wl9oV2ZLSUppd2NhRkVtUWpaVkd5R0VLdmZKM0F6c1hjRF9ldkpWemFXTVdieFhjMmxvREVCckJJNlVYdkdXeUJKbFJ5dFJaeXltaw?oc=5",
+          "pubDate": "Wed, 30 Sep 2026 23:09:48 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Micron's AI-fueled revenue forecast blows past estimates, backlog swells - Reuters",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSGljZXdlMjRDc2xMM29UN0s3NmM2cXVLUjVmbEdWRHVpRUwyeWltZDRNVUU0VDlYenBNc3lnVVh2SHprdnFSN3RjTWhKR3JYRk4xWHRtSzg5Qi01c3RuaGJnWDl3emxPZDhzckpDVlpRLUxENWlENUpXYWliRmtLc2FfNkFoQ2g2bEZFbWpULVRhQllzX0NDTFJTZw?oc=5",
-          "pubDate": "Wed, 30 Sep 2026 20:08:36 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Google announces Gemini 4 flagship AI model after months of delays - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPa0kxM3JDazhISnQtVGJ1Q2phRmxPR2Mtb2R4X1dQX0U3TkVZLWV0YUZNSnRfQ25OQnRuWHpNczNHSzhCZFFkdHFCWEVXYUhuazBDLWJ0eV92WU9nMDR6Nnl5ZDRCOG5UdWtwNnpTNkVtS2NLejVrX1Y3eXFvbDRMc0Y2Q2hvN0Q5YTEzTVA3NDFLaHprbnpuNWVBejNPVUlKemJCSHZUcHZSVE9iNmt3TWxXMXFBWkU?oc=5",
-          "pubDate": "Wed, 30 Sep 2026 20:05:43 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "S&P 500 dips, Nasdaq higher on modest rise in inflation - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdXFFNHNQQUxXRkRPN3ZndG5TZS1PSGpvaFZPMG8zRU1oNFdrOUFZQnNsT183YWZ2R3NoNGNUX1NVdmtZNmxaYVc2X2c0Vm5tNWZjbEo1ZkYzNzVqeW1BS0VTaWZYc1hKRlRaRGxrQlk1aGlpQTROOV9mSDZldFlkejFZVGxKYmZzQ3czLUFPUDRBVmNJNWpuMnBPdE00QUlncU9EU2lXZw?oc=5",
-          "pubDate": "Wed, 30 Sep 2026 20:01:24 GMT",
+          "pubDate": "Wed, 30 Sep 2026 23:06:01 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-30T21:22:59.829Z"
+      "updatedAt": "2026-10-01T00:46:23.018Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-30T21:22:59.917Z"
+      "updatedAt": "2026-10-01T00:46:23.214Z"
     }
   ]
 }
