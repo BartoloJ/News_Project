@@ -1,25 +1,37 @@
 {
-  "generatedAt": "2026-10-02T18:38:27.025Z",
+  "generatedAt": "2026-10-02T22:52:32.995Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
+          "title": "Riot police clash with students as education protests rage in France",
+          "link": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 02 Oct 2026 21:13:27 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Hawaii's iconic 550-year-old Hōlei Sea Arch collapses",
+          "link": "https://www.bbc.co.uk/news/articles/crd6dy4xepgyo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 02 Oct 2026 21:00:41 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say",
+          "link": "https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 02 Oct 2026 20:32:07 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
+          "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 02 Oct 2026 20:25:19 GMT",
+          "source": "BBC News"
+        },
+        {
           "title": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor",
           "link": "https://www.bbc.co.uk/news/articles/cqvg04718lr9o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 02 Oct 2026 17:44:08 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Riot police clash with students as education protests rage in France",
-          "link": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 02 Oct 2026 17:43:10 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "What happened in the failed execution of Christa Pike - and what next?",
-          "link": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 02 Oct 2026 17:35:10 GMT",
           "source": "BBC News"
         },
         {
@@ -39,26 +51,32 @@
           "link": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 02 Oct 2026 15:26:37 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "I've seen nearly 500 executions - but never one like Christa Pike's",
-          "link": "https://www.bbc.co.uk/news/articles/c6d949gq47x9o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 02 Oct 2026 14:01:09 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "School protests send shivers down French government's spine",
-          "link": "https://www.bbc.co.uk/news/articles/c69wzjjxex8po?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 02 Oct 2026 12:43:02 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-02T18:38:25.992Z"
+      "updatedAt": "2026-10-02T22:52:31.404Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "As Trump's proposed arch looms over D.C., protesters pin their hopes on the midterms",
+          "link": "https://www.npr.org/2026/10/02/nx-s1-5985789/trump-arch-protest-veterans-midterms",
+          "pubDate": "Fri, 02 Oct 2026 17:44:07 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Germany's political center fights for relevance after far-right and far-left gains",
+          "link": "https://www.npr.org/2026/10/02/g-s1-146108/germany-politics-center-afd-die-linke-cdu-merz",
+          "pubDate": "Fri, 02 Oct 2026 15:22:57 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Pro-Trump Influencer Benny Johnson is being sued for defamation by ICE protesters",
+          "link": "https://www.npr.org/2026/10/02/nx-s1-5989413/benny-johnson-defamation-lawsuit-ice-protesters",
+          "pubDate": "Fri, 02 Oct 2026 14:43:30 -0400",
+          "source": "NPR"
+        },
         {
           "title": "October 1 ushered in a new era in U.S. foreign aid. What's the plan? Will it work?",
           "link": "https://www.npr.org/2026/10/02/g-s1-146042/foreign-aid-united-states-healthcare-america-first",
@@ -88,138 +106,120 @@
           "link": "https://www.npr.org/sections/planet-money/2026/10/02/nx-s1-5988075/why-is-diesel-more-expensive-than-regular-gas",
           "pubDate": "Fri, 02 Oct 2026 07:00:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "San Francisco's car crime has plunged. How much credit does Flock deserve?",
-          "link": "https://www.npr.org/sections/planet-money/2026/10/02/g-s1-146060/san-franciscos-car-crime-has-plunged-how-much-credit-does-flock-deserve",
-          "pubDate": "Fri, 02 Oct 2026 06:30:00 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Failed 'torturous' execution attempt on Christa Pike reignites death penalty debate",
-          "link": "https://www.npr.org/2026/10/02/nx-s1-5988832/christa-pike-reignites-death-penalty-debate",
-          "pubDate": "Fri, 02 Oct 2026 06:25:03 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Who uttered the phrase 'the ideological clowns are out' this week? The quiz knows",
-          "link": "https://www.npr.org/2026/10/02/g-s1-145638/trump-hegseth-panda-ai-beyonce-news-quiz",
-          "pubDate": "Fri, 02 Oct 2026 05:01:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-02T18:38:26.025Z"
+      "updatedAt": "2026-10-02T22:52:31.616Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "G7 nations will release 100 million barrels of oil and diesel fuel after prices soar - apnews.com",
+          "title": "Christa Pike on a ventilator and unconscious after failed Tennessee execution, attorneys say - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVGpLQ0VhZXBlWUhoRWNOTUZSVjN1eHhKS0VqYUxGbzBibGtGT3FKNTNDSk84N05WRnNxdVhPTWNuVWZGMXBYeXFMcGRQUmNITlFuVUo3cHhzMkxJR1p0NUJYWnp3ejkyLV9NcV9VZzdhOEJfQzFFeU1lVHdzaWFiVzAzRHFFQ2FEbTlEVVdqX3JOdDdMYTlYOEIxZEoybG9pUHViVGR3YTljWWNtclRr?oc=5",
+          "pubDate": "Fri, 02 Oct 2026 21:50:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "What to know about Christa Pike and her failed lethal injection execution attempt in Tennessee - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNamhKRTN5MFM0VFF3TG01R3FYZHk1YXF4NzV0TEVXVFVvQW4yZFpaaXdBY3VyZlM1SjUtak9nVGdabkkyWkNIVlFZQVpCZXFCR1Fxd3A5SUlieWNtT3VjTjM0TUxCY1Y0dnNYMkNneFpwamlraHE1eEN5Q25BQzdXLVozazBLUHVlVEFUYVVxR3pBSVV2N2pUdlNZbHdQQTZLSWw4R0dzRUI?oc=5",
+          "pubDate": "Fri, 02 Oct 2026 21:34:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "G7 nations will release 100 million barrels of oil and diesel fuel after prices soar - AP News",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNmdrZUxCUmk5aFZiQnpzdGRQa2kyc1dIc1hzSFpxUnNVY1U4bWhGdUxYa3hPRzVRUnZSQ3lRaWZlano1aGdUOTc4TG1LZGhYWGpXTWsxbWN0dnIxeFFxWlpSRnZaanNwdFJ4V3B6RndadE9QdVM4ZncxSm1lTjdyRmFMY2M5WnMtMTEyMV83U0dwR0theVE?oc=5",
-          "pubDate": "Fri, 02 Oct 2026 18:12:00 GMT",
+          "pubDate": "Fri, 02 Oct 2026 21:19:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "What to know about Spain's housing protests sparked by the eviction of the 87-year-old Maricarmen - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNY05JdHdoeklqeTVqbU9DU0E5a2F2alRla0l0VUZuaXdnOTRESGZBTVhFellpbEdxQjM4QkFQdFd1Rm9hcVg1Y0dBdm13b3BidkQ4dDZWbUwyTnJPMlJMdHJoMzRHdU8zRHJIV3BlTkFaQnNIRmh3TWlmbFhDbnNlY1NHbzl4eUFFOUVrOTJSRElNQ2ZaTGhoNGVmTUxwYVJLZThWeEg5M0NGT1YwdWVRbA?oc=5",
-          "pubDate": "Fri, 02 Oct 2026 17:52:00 GMT",
+          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
+          "pubDate": "Fri, 02 Oct 2026 20:35:40 GMT",
           "source": "AP News"
         },
         {
-          "title": "US hiring slows and unemployment ticks higher with a month remaining before Americans head to polls - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPV3JiUTV3TldIc0JJUmgwMnBSUmxYZmlfT2pqSjg3UzV3SWRWZXZBbzF6U3I5MFJjZjJmS3dObzZ0SHJXTWVZaUNoR0U3MFpqdzhRZGpSbkFWa0RiT1ZONjd5SzRSS01iLWNRWEtGeHlTRzE0Qi1rbmgtclhMd0E0X21nTzhiNVE5blFIRHkxN3Yxb2pHWmk4b2I3aw?oc=5",
-          "pubDate": "Fri, 02 Oct 2026 16:33:00 GMT",
+          "title": "Former GOP Rep. David Rivera sentenced to 10 years for secret Venezuela lobbying - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTDJHQVpfRUJjeFFnWm9ySHViTkYzWTNnWllhYWYyWnQwYzlQYjA0RF81T2RMSEFZNVJWQldFUHBlRnJWZlktc0dPMzFJZXFUNWdVSDVwNkdQdnIxbTJQa091SUNsVk12T1dFNWdjXzl0akRqTk1OVXhKM0FEUW9OUDBmN3hkU0RuUEhGRUlQaXlDTGNta1JsWnpGN1JmYWw3SzB6MHh5SQ?oc=5",
+          "pubDate": "Fri, 02 Oct 2026 20:31:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Iowa lawmakers to vote on raising tax incentive cap for a $15B steel plant - apnews.com",
+          "title": "FBI gives employees a classified ‘Patel Report’ about times when it ‘fell short’ - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTE9Qc2hmQmRDdUozeVRxV29sN0Mta0xRYUFSU3lCWXoyOFZiU1pwU1RwQ2tJbzJ6a2xZOEN3SFNPbjRkZUwxSWFpVHZYdkVkSXoxa2VoRXNJN0hDUHZiVmZ0QjJSc0JDeS1mRGxrenRwRWhLU0huMkRqSG5vV0p2NWVBdWxpcldXYk5abVV1SGk?oc=5",
+          "pubDate": "Fri, 02 Oct 2026 20:14:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Iowa lawmakers to vote on raising tax incentive cap for a $15B steel plant - AP News",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSUIzNGZwcmxBVDJkd25SYjhNNWcxd0ZXYnlLSE94TmJtNGh2Z3Z2cEhrX0xZR0dHT3VwSXk5ajNuY0RGSDhGaFBMMUZwR1hJQ3duMzk3b2t5aDhFX3hQc0RsTGZzNFBjMHhRRW5tcGdSZG54aGJZTV9WNXpxZG5yYU9aaHBRTEI0UFpVaWdQWExFaWFlTzg4Ylo1OVpUcUx3?oc=5",
-          "pubDate": "Fri, 02 Oct 2026 14:35:00 GMT",
+          "pubDate": "Fri, 02 Oct 2026 20:07:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Households will pay more for energy because of federal policy changes, think tank says - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNmNxeDQ3VW1wQWJaRWpWWlpCZ0pQYzg0OWpoSWo0a0hrU3g3REZMakxlQWxrenBxY0lsc0JQT3lDaHA1bkFFMUo3MkZZWXFRalUyaXM3Nl9NSjlXeDNCZF8zTTMtT1BFQ0kyd2kxY1ZwWHBqbFhNamZPejBFRE9yT1dKcjJtZ2N5T1d5MlVwVVNxaEFjSlg5TmxtMGRWUXhlbG84VWU3Tkx5a2pxR2kwUnl3?oc=5",
-          "pubDate": "Fri, 02 Oct 2026 14:35:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "NHL Scores, News & Stats | Latest NHL News - apnews.com",
+          "title": "NHL Scores, News & Stats | Latest NHL News - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE95bFRBdmVKUk5rWWVXSkN6WVgzRzA2S3RDQ1o3eDYxWFBISC1MSXdadkNXMy1LdU5yTEYtbDZ4SQ?oc=5",
-          "pubDate": "Fri, 02 Oct 2026 13:18:50 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Walmart says it's not using personal information to set prices as it expands digital shelf labels - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQm5IeVVqMlkzLWFCbm1VbXJ1YmxidUdsVDVEQjNwQmR1dHgtTXNkblRpbzJ0N0drSnRBVkNHREZiMUIyWUE1WTdEc0Y2NXhoLW8xamFtcGdSYzZBRzlmTWFMTzhfRGdsbmIyajd4TTJJN3ZURDZXb2M4Sk5LeWdyNmtteDdVekxKWFRldFl1X1ZVcnZYVEE?oc=5",
-          "pubDate": "Fri, 02 Oct 2026 12:56:09 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "In-flight attack on FlyDubai pilot puts aviation security measures under fresh scrutiny - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQWQ0bnZHZTRpU08tcW9kNURFSWpUdzlmUVF4RW1aWEcxQlJwM2paM01Sc1Q1eTZyWkxtSDNWbE1QcjNSR2N6NGtxUjNINF9HYmk2YzJib3p2V0l3NXQ5Smx6c0hhazBIU1RKc2VpcWhpTm5XdzhFckR2MnNxWENHcjlNUm1xemp0RTFQa3dqLUZaVlYzamFzMjdBTnlfUXpGMmlF?oc=5",
-          "pubDate": "Fri, 02 Oct 2026 12:07:00 GMT",
+          "pubDate": "Fri, 02 Oct 2026 18:42:37 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-02T18:38:26.518Z"
+      "updatedAt": "2026-10-02T22:52:32.200Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Mexico to prohibit presidents from holding dual citizenship - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTkJPWGw2Z3RXMFdJNG5DRWd1UDN2NTgyQzczZFJSMFpqQ0Uzb0ZWSnVCbkVtdkhlbkczNVZtMElqUFFLb3dUM2xOT0I2NEtVRDVBNzdDQkp6Q3l2TEhYSVJTa1FjcWF4RGw0bFNaUlR4d0wwazlSNk9YOEQyQTIwY24xYUxKRENIQnNWOUJfLXJmRFFSVjlyaXhpUXJCM2o4anI0bw?oc=5",
-          "pubDate": "Fri, 02 Oct 2026 17:57:53 GMT",
+          "title": "At Cornell, rape allegations spark outrage, soul-searching over campus culture - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWVpTYlVUQ2diYU53TUl0Y3M2QU50cWpIT0RmZE80MmJIMUNFdjRQa091TUlsUkhoT0JsNFdXcXRHa21vYU5FSlIyRmNuSXM3YWNKVndZdUtYbGMyNXFOOTY5RHJRa1VEclN1TkhQS3phSm0tQmp4OXNIMVhtUjNjTE9DMEFVazVDZkJTMlNFM21lMFBLSlNwaFd4NGxwWWx4VktHZ2NpLXJITnZzcWNDeDZaejFGRXR1ajVBRFhreGNvaWlG?oc=5",
+          "pubDate": "Fri, 02 Oct 2026 22:00:24 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Airbus board appointments herald CEO decision next year, sources say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQS21pZmtLYzR3Qk4ySC1CQnM1NXlzeTE1ZHhUalVyNDNNOEs2ZmZrcU1Dc0RfdTZlcGZUbDVoSUR5U2dLcXBVU2FQWXc5T2JiaDNjYm9XeUxIMDlKU2lKc0ZIZll0a2Fnbzh3Mm1KS05ITC1xM2FPcWlEcmFFNVRWa3kxUzRGZUpvLXYyUDA3bjlEcnFUYXFzdXJHOW1KaHB6YTYwRXdtTFYwRksyVjV3OWg1aWV2cjVVZkxPQW9mMWk?oc=5",
-          "pubDate": "Fri, 02 Oct 2026 17:53:41 GMT",
+          "title": "NY governor attacks law enforcement's handling of 2024 Cornell rape investigation - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeGNQcEhVVHBCWlRzTE9GN1ZuZGMxTExpY3UwZ2dMY2dWT2FnNUJXUWFZZ2dqYWNab1BsRXRXazNTaU56cEtCcE9sTVUxUnJsajhJS2U4V0xsSF83Q1FpeWFwOFRJSFkwTjAwT2VxRWVrVDgwT2xhSW1fYWtaUDdQeDJVY2pnX3Btay1JZ0VZOVBaZU4wZGhqWUVOaWx4OWJzdG1lYVJPNE9UaGdoWm05S045LTJiRlFqUGQxdzQ3WG9KaUIxQXFISzR3?oc=5",
+          "pubDate": "Fri, 02 Oct 2026 21:49:10 GMT",
           "source": "Reuters"
         },
         {
-          "title": "EXCLUSIVE: G7 countries agree on release of diesel and oil stocks after US pressure - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZnMyRFpEcDhNOHlnU2NJT3F1R2M5QkEzMjJPaGRUYlZ1S2RYYmNMZ1pERlZINEtxMkJDTktfMThYeHZ0U2FDZjVoQ3l3eHViLVkyajQ0S1RfSDJ4QS1xTEgxNVlaZzJSSkVjLTJYM04tX3ZHUEVSY0VHdjJHUU45RHBRajVxQzA3emVQNXpvRG9XRVVVZUtSdUtveUN2WUp6RzhBeVQwQ0JzVk8zWWYzS1FCVUtTZ3UtNTllVzJrbTJyUC00?oc=5",
-          "pubDate": "Fri, 02 Oct 2026 17:41:08 GMT",
+          "title": "US FAA says Boeing 737 MAX software glitch poses no safety issue - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQalBOaTNCb2FPaDg1T2c0Tkw3cUpTaUJXY01UYUl3VHh0RXEwSHU4ZUNzX2FLbXRjLW1tX2RxMjltTThYNFdaQ19JZV93SnhvRWw3Nlh2MzRhb0dsUGh0ME45RkpmQ1JOdmpJMGJZd0VpNk11THZtcUx3cGpwWkh2ZURrdExSVlR5UzdFU1ZocFVBb2VoR01STnc3Q2tmdEc2SGNlanl3bFE1aldoUDdIT0xn?oc=5",
+          "pubDate": "Fri, 02 Oct 2026 21:42:28 GMT",
           "source": "Reuters"
         },
         {
-          "title": "IEA's Birol says oil prices starting to fall after reserve release decision - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcHZzWUw2YjVHbmx6SmNmYURKOGxkcy0zbndDQnpTMnRSc0JLOEpIaWw0MzVmeGRzNGZPeUFZQlM4aGduVEV5cVRCYlFwSk53RUQxYzhoZHd2UFhwX25mZlJKbmFzR2Zza3E3OGRVRVN4M0lvV2w3bTQwb1FzQ0s5eUhvQ3VjZTBZbW11QzVKTWctQ3FYQk9GZ2VYRVdKMEo1RVp2S3Z0LTVVMV9OZE15ZURBejNCWVkteVdzZDRsMHc?oc=5",
-          "pubDate": "Fri, 02 Oct 2026 17:36:32 GMT",
+          "title": "Community banks sue US regulator over crypto firm charters - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQV3M1NUpPd3A1WnBjS3FSeDhuQ3d6aC1BdUZNNml4U1JLX1RaWkJ3Y0xhRHhwb01TNUhOTjlxZlhWWXN2MG5EbkpZbXNZR2haU0F1MVJXR0o4cnhHNnpiOUNnY296aXRUOHI5a3l5MXIyYXMxb2RZOENNdTdveVJTRldXYUw3Um5kTGswMl9XNFFMTzNRMGZzaDE3dDlvdkNuYnc?oc=5",
+          "pubDate": "Fri, 02 Oct 2026 21:28:22 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Saudis plan assault on Houthis to break Red Sea chokehold - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUVJialJyWHg0VzlHXzBiaTU3elZhbWEtQzd0TjhNOGNsWFFZNTYyMGFqODJGcVc3aVBaYVY3QkRzWWpEZDlQNEpJeVp6ZjMxYkZKYi1nZ0FUenFUSFRFRTNCb3NaTmdCaTJ1WWV1RmlqcmhSZGtsZWZobE5jSHp3RkJiVXpueWdVOHJmbDhzUEEzVXB6OF9jYkJHcnpfQklTNDVHZ20yS1J6QQ?oc=5",
-          "pubDate": "Fri, 02 Oct 2026 17:20:50 GMT",
+          "title": "Fed may skip October but pull rate hike trigger in December - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOVRfM1dqWHpoenJab09IVXh3am1peVNMWFFPOFhOSjl1SkI5MklDUDl6VFpkSkZxUE8tU0Q4S3R3VXNxd0t5Mlc3NGxXNTBid1N4U0czdVA2b09hVmRyT0VtaEU3M243T09TQjVTSzVMYURvSkg5WjBSc2tjVnpzM29ZMHdTMC1hUGlRUzBJRXBQdWk3bG9heTJOQjQ3QQ?oc=5",
+          "pubDate": "Fri, 02 Oct 2026 21:22:37 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Indian pilot tells PM Modi he opened flydubai cockpit door during attack - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYW1JN1lJT0NhMWxSTm4xY1NJWHg4UGp5SzQtUlV2UjB6ZHgzdExsbXRIckJkWWpGWW1aY3dHX2ZBLTh5LS1yME1WaWJPQXdkTVluRVpCOTU2WjVhMm9wb1VVUEdsaG5xWlFYQUdPSndwYmhYN1VzMnBBMFJkdzVMTmJrc3R4cWxlcHBRdE5lWFBVc2NMLTJDSnRGazFDeXJXbW13Vzh0Q0QySjFTVVV3VXZiOHg?oc=5",
-          "pubDate": "Fri, 02 Oct 2026 17:09:58 GMT",
+          "title": "Two Iranians charged in UK over alleged terrorism plot targeting Jewish community - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPN1pSQkNGMThITHRzNldaeUlFYjFYWk5Bckx6cllZZkJXU0R5ZEtkTGpxcDdxX3B5c1pQZFlzN0hvOGNjUjMtR2tMRW5iVDg0bVRERkk4RXBKT2dmUEJmdDJjZWNpSXVJTHhqdGp2SzdPSkVMY3pkM0xaVnBoTXZyZi1EaF9uRGtkWTlYenhvSDVKU1BXUEZ4cFA4SWlOWHVhSDBjeExKZ2ZnTVB1M281WUdWd3NvM1hJenc?oc=5",
+          "pubDate": "Fri, 02 Oct 2026 21:11:46 GMT",
           "source": "Reuters"
         },
         {
-          "title": "US halts consular services in Brazil over security concerns before election - Reuters",
+          "title": "US halts consular services in Brazil ahead of election, increasing tensions - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORFhxRS1iWGc2dk14UFkxVUNHcjY4aE16SUpTRW9QV2twSE5WMDQxWXBZcUlhdTNHQWZ0WDA1WXYxdVZiTFREZW5UWExvVFQ0dXhZUnN3NU9rYmVjbFcwYnZhRGFDY1YxdlVhQi1EbEsxaTFkZjdtR3Ffa0hGcEkxVkUzSGhSX0s5ZThpYUFBbDAtaEdINHZ2SzlyY1g0WDhZd1NueGJxZWh5WkF4cTZjYnNraEVnUVNVaFp4RFFDMkM?oc=5",
-          "pubDate": "Fri, 02 Oct 2026 17:08:41 GMT",
+          "pubDate": "Fri, 02 Oct 2026 20:57:33 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Bipartisan members of Congress move to block demolition of Kennedy Center - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX19oQzJlZC11NENYX24xUTBFQjU4SVMyLXpNX1RaYmw4RnhyYVBKNEI2T2JaZzNmY0RIU2V3VWFlcjNFSmVxLVp4ajdscklnTW5idGlmTkVVZzkxc0E4M2VxMWNINEpsRzlyQ0J1S2V4M3didFAyY3phN09XbzZ0YnNjTUl6X2RoampLbktKaXM1WEFKZDJYTi1ZS1VVRHBhREpkWkVrSUVsLVFHRFdCMzhzU0VDWnVv?oc=5",
-          "pubDate": "Fri, 02 Oct 2026 16:50:47 GMT",
+          "title": "What do we know about flydubai flight 1073? - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVlJGRkhlVDNVaGt3ekU3cFNoQzExQVRHTkFZc0lPWkhrQXFaWXFDMGJTdzNKMmF4T0JMcHRTQkxYRGhMbTZJNWt5WVZPNFM5MElvUGlYaHNLMU1kUVd1N2xkR3RaS0ppYll2a3hFZ1Y2N1k3bnpGUXI5T0JNclZpb0Mwdy11TTI1NzR5Ni1lS0ZZcl9IczM4LWExaG4?oc=5",
+          "pubDate": "Fri, 02 Oct 2026 20:53:24 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-02T18:38:26.947Z"
+      "updatedAt": "2026-10-02T22:52:32.692Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-02T18:38:27.025Z"
+      "updatedAt": "2026-10-02T22:52:32.995Z"
     }
   ]
 }
