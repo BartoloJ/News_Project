@@ -1,19 +1,43 @@
 {
-  "generatedAt": "2026-10-04T11:14:30.917Z",
+  "generatedAt": "2026-10-04T15:56:33.011Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "What to know about Brazil's election pitting Lula against Flávio Bolsonaro",
-          "link": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 04 Oct 2026 11:03:20 GMT",
+          "title": "US Marine arrested over murder of woman in Okinawa, Japan",
+          "link": "https://www.bbc.co.uk/news/articles/cme3xw4yy28do?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 04 Oct 2026 14:36:57 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Watch: What we know about Russian strikes on Kyiv bridges",
+          "link": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 04 Oct 2026 14:25:32 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Yemen announces military campaign to reclaim land from Iran-backed Houthis",
+          "link": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 04 Oct 2026 14:24:56 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Ethiopian rebel forces withdraw from Tigray regional capital",
+          "link": "https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 04 Oct 2026 13:33:05 GMT",
           "source": "BBC News"
         },
         {
           "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
           "link": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 04 Oct 2026 10:11:32 GMT",
+          "pubDate": "Sun, 04 Oct 2026 12:09:04 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "What to know about Brazil's election pitting Lula against Flávio Bolsonaro",
+          "link": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 04 Oct 2026 11:03:20 GMT",
           "source": "BBC News"
         },
         {
@@ -27,38 +51,32 @@
           "link": "https://www.bbc.co.uk/news/videos/c69qzvggzppro?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 04 Oct 2026 04:15:36 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Debris found from plane that went missing off US coast",
-          "link": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 04 Oct 2026 03:49:06 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
-          "link": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 04 Oct 2026 03:42:15 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Cornell president says university 'must do better' after frat house rape allegations",
-          "link": "https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 04 Oct 2026 00:11:25 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Why pastors may not be seen - or heard - preaching on Ghana's buses for much longer",
-          "link": "https://www.bbc.co.uk/news/articles/cwnvln99v2ygo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 03 Oct 2026 23:37:46 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-04T11:14:29.675Z"
+      "updatedAt": "2026-10-04T15:56:31.401Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Cornell president calls gang rape allegations 'deeply disturbing'",
+          "link": "https://www.npr.org/2026/10/04/nx-s1-5990789/cornell-president-calls-gang-rape-allegations-deeply-disturbing",
+          "pubDate": "Sun, 04 Oct 2026 11:41:07 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "U.S. Marine arrested for alleged murder of a woman in Okinawa, Japan",
+          "link": "https://www.npr.org/2026/10/04/nx-s1-5990790/us-marine-arrested-for-alleged-murder-woman-on-okinawa",
+          "pubDate": "Sun, 04 Oct 2026 11:15:09 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "How the Cornell case is affecting women who have experienced sexual assault",
+          "link": "https://www.npr.org/2026/10/04/nx-s1-5990232/how-the-cornell-case-is-affecting-women-who-have-experienced-sexual-assault",
+          "pubDate": "Sun, 04 Oct 2026 10:51:27 -0400",
+          "source": "NPR"
+        },
         {
           "title": "She died covering war for Fox News. Her parents blame the network — and a star reporter",
           "link": "https://www.npr.org/2026/10/04/nx-s1-5737621/fox-news-ukraine-deaths",
@@ -88,138 +106,120 @@
           "link": "https://www.npr.org/2026/10/03/nx-s1-5981300/opinion-a-hawk-is-not-the-same-as-a-hawkeye",
           "pubDate": "Sat, 03 Oct 2026 08:00:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Economist Betsey Stevenson breaks down the gender gap in recent hiring reports",
-          "link": "https://www.npr.org/2026/10/03/nx-s1-5989546/economist-betsey-stevenson-breaks-down-the-gender-gap-in-recent-hiring-reports",
-          "pubDate": "Sat, 03 Oct 2026 07:47:09 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "All's fair in love and 'War' — a well-cast, classy-trashy divorce drama",
-          "link": "https://www.npr.org/2026/10/03/nx-s1-5983443/war-hbo-divorce-dominic-west-sienna-miller",
-          "pubDate": "Sat, 03 Oct 2026 07:00:00 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Just short of its 200th birthday, a landmark natural history museum shuts down",
-          "link": "https://www.npr.org/2026/10/03/nx-s1-5989716/philadelphia-academy-natural-sciences-museum-closure",
-          "pubDate": "Sat, 03 Oct 2026 07:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-04T11:14:29.858Z"
+      "updatedAt": "2026-10-04T15:56:31.665Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Brazil presidential vote pits Trump ally against Lula, who is seeking 4th nonconsecutive term - apnews.com",
+          "title": "Brazil’s presidential vote pits Trump ally against incumbent Lula - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRnAtck5sQXdwQlZkQUxjQXVIQXZpWS1lUTA5d0EtdklWTnZPN01aUnpLQXZYbENYYlM4ZEoxNUVmNmNqSG9nZUJwMnNHdVA3RG1JelBnVWd3cUg0ZlpkazQtUkc4cC1SOThmYlJmY1F6czNsM3hXakZ4SGVON1E5YUp2VTNtTFh2d2ljSkhNWGdlemVjZ05jQmlWcllfM2xiVDU3NWVCdzBfdw?oc=5",
-          "pubDate": "Sun, 04 Oct 2026 10:45:00 GMT",
+          "pubDate": "Sun, 04 Oct 2026 13:49:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Japan air force starts recovery of crashed Global Hawk drone - apnews.com",
+          "title": "Associated Press News: Breaking News | Latest News Today - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
+          "pubDate": "Sun, 04 Oct 2026 11:49:56 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Despair over future fuels political anxiety for college students on the cusp of adulthood - AP News",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZHpyWjZzRi1fQnFEUDh1QlBaVC1TQ3pGeVV3QnB1ekxtemp3SV9TRUY4bzI2UU9VZUJCa2w0MG9OTWRtOElrZmZvZEtrdDN2REQ5TU4xMmtpN2NWOXY1ckxNaWRadnNFNHBOaEpCdURtazFfdmNWelVEaWdpT1hqbjJKWGo4TDNOQ3RiTlVRdEVDc184QkxnOHdjQ0VSOUluNC1JY0VrM3diWUF2aS03WGFka2s?oc=5",
+          "pubDate": "Sun, 04 Oct 2026 11:35:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "A Black community in Louisiana faces a future without a champion in Congress after redistricting - AP News",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTGJrZUNLQ25FYU5MYkpCUnZOX3Z6Q3Nlb2x3Q1FjNFRrbmZ3RGx1TS1LR0Y5T3FtZzI0eG5tYTd0UXotTjJHTjJRbjFCV0c2Nkg4SnpmdlI3WERnTVAzTFZwX3EyWV9JcS1zcFBMMjNyRWZKVGlneWdPUGFuYWZ0NW9XbUhMdXcwTkIxTlA2Q09TT1lUdGE4SFZFbmtnMkM2a0JVbjlmcTZJeDBDZjJVR3ZvWEJRR1pOWUdjNl9VbGtNbGg3aWZITUs5aUZVZVBD?oc=5",
+          "pubDate": "Sun, 04 Oct 2026 11:30:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Japan air force starts recovery of crashed Global Hawk drone - AP News",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORHRUNEdNSzE5LTA1Z0VtSTFINGRyQTNPdEhGNFkwZ29sanFpcWlwNXBjdE0ySlhBLU9PeFhFS01EdzlUVW1BQnlBQ0pRUTNOU05FTGE3U2VIaXVGV29yRDlTektMLV9DbkJCVE5YYVoxVjRHcW9EM1kzUTJTWnBFVUlLNnk2ZjktbTJ1VGJQR1Nmdw?oc=5",
           "pubDate": "Sun, 04 Oct 2026 10:39:23 GMT",
           "source": "AP News"
         },
         {
-          "title": "Bosnia votes as pro-Russian politician looms large over the race and ethnic tensions simmer - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZW5aeFVWYlo4bXFNSVpQQXFndld4cHRJcVk3REVzYW9oMy1ZR0taVnh4b3czcGdGZnRraVJyd0U2VmZVYWdhVzI1R2o1X281QnNsbWs0eHVuY09WRnVVSGItRHFocDJkT3cyb0VDLS1POGM5ZkE1b0UxX0htVVJ2MEdweENxWnVlbzBNM1IySWkwTW8wckRBSlJldWlnVzJseUxz?oc=5",
-          "pubDate": "Sun, 04 Oct 2026 07:03:00 GMT",
+          "title": "‘Jane Doe’ solidarity posts flood social media after Cornell rape lawsuit - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQkhwc2JIU0xfano5Rm9LX3V6dXRxS2UtcmNPTktmUHExNXJ5Q2RYS2lpWDJ0V3p1NWRzZHpCcWZTeklCdC1SS1MtTC1aU0o4bnZNRDNMT1M2aDctMjhoaGNlWWlOTUFGS1dmN0YwMzB6djExeG4zWWphdnpvcWZ5ZWF5SHptcUhjMEk2ZTRyVzUyc3dUOTZaRjNZMjNoaF81d191Wg?oc=5",
+          "pubDate": "Sun, 04 Oct 2026 10:19:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "NFL Scores, News & Stats | Latest Super Bowl News - apnews.com",
+          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Sun, 04 Oct 2026 06:43:05 GMT",
+          "pubDate": "Sun, 04 Oct 2026 10:12:55 GMT",
           "source": "AP News"
         },
         {
-          "title": "Co-pilot in FlyDubai attack is identified, and other Mideast developments - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOazBZenNaeXhSTEp4SXJwdEJFTWU3TkZPN2pHN09fT3gzOG5WeHBmdXpYZ3NKMnI2c1JvWURnY0Z1US1qNVJFeURpV2lWZ3BOWWJZejVXaHVmajJUWk1MMW5jQ0FuU2tHb0E5dE5JbW8tcWQ5dGhJcG9jbU5ud1FXVEhsZDdCbzNQQWdJaVQ4WTU1Tl9MVG9xWi1VY1ZpLUJuSHVmZXVRU3ZmRnhpd1I5LTNJbGlka1k1Qmc?oc=5",
-          "pubDate": "Sun, 04 Oct 2026 05:46:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Ax-wielding FlyDubai co-pilot had been flagged over extremism concerns - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTm53alVRRTlka3JlQllEQUdvclBOMzVxOUFvQnhkMGowdDlNeXIyTFZ3ZU1GblhLOUF2VDhTRVdzRjJfZmJRWEZMcUhaMGxXVEI0NzhFYWJ6bk1USDU2VDdzcWZ4WEcwQTd4bzMzUEcyZ0lBdFRsck8zbDZ5MTdLeFBPdEFaV2llTXViWTlleDl3SE5lTWxEMThJa09WSGdH?oc=5",
-          "pubDate": "Sun, 04 Oct 2026 05:44:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Cornell president calls alleged gang rape ‘deeply disturbing,’ pledges greater transparency - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQci0wQnFndVFSczluY2UzVzRheWMxTml6dzQyY282NEE2WTl1T2tkaVZRS0dqeU53aTRINXNEY0lDT3UyZjdCTVVLTjVfblZYbFdXemRDZ2RmYW4xdFcyX3I2VHFZZlRKdFRId2lORzBLZnp3aTNQVEIyX3hpYXV0bUdGUmZUemJXUTdzbm52UG92UHl2M2xZLVAyWkhQdw?oc=5",
-          "pubDate": "Sun, 04 Oct 2026 03:37:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Crews find 'debris field' from 6-person medical flight missing over the Atlantic en route to Boston - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcG1SbjEycTFWdWc1cFlQSjVJTEppQXQ2THZ1RExQMjNwMGM5Q2xzQ0lPNF9wWldLVTdFTERaUEcwRFlqVkVUbVYzMEtMZWJWTXpORUdRU0tEQ24yaTU4YzVBUldMY293R3FWOG5HQ0p3UEMyNlFIaTNrMnFxT0tpbUpRQ1VWTk1xRXdBRy1xR2h0TTFMNm9rOUgwRGFBdw?oc=5",
-          "pubDate": "Sun, 04 Oct 2026 03:03:00 GMT",
+          "title": "Most US stocks fall after the bond market cranks the pressure higher - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWmtnVHpEa0ZTdzJYcHhrUTlwRURkX2tJVVgwTHgxeTFLY3FHeTRKal9wdmVYREZueVZnclVhTnloU0pRZHp1ZEtnT3BhX0pud3NuMlVQWG4xOV9yZUJVbjY1X1RZSlp1TlVVQUZDaHB6TXotdmx6akpNdFBDUklLcU81WEt0bXNLV0xwVE4taGxYMHNqQkZUaVFUWmM?oc=5",
+          "pubDate": "Sun, 04 Oct 2026 09:53:20 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-04T11:14:30.347Z"
+      "updatedAt": "2026-10-04T15:56:32.178Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Haunted by grief, Gaza's displaced still wait overseas for return - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYVA4aW4yZm9obXNLWVl2RGItRkE4cUwxUHFucmpkQ2NzU2JzNDc1SXF1bkxtb1hQZmRYYjVxVU9aMmVRb2xBVi1oLXFKd2RDTmo3UUJ2M1I2Ym02X0lzVUVNcUh5c2hISjMwVHBQOFVrVkhhZlZNQjRrNElrNXEyYWR6blZnenpPTG5pLXpYNGFQcjZ2MmlUUklBRTg0ZlA2QWtEVlNJRHFxTXdIUjMyM0FpZw?oc=5",
-          "pubDate": "Sun, 04 Oct 2026 10:32:12 GMT",
+          "title": "Two dead in flooding in Spain's Catalonia region - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVnh1WE5wbUJ2RE1EWWUtVmlITlNLSGJXZVdBYWFpYnVSWFdVVjlCeC1EYkVjcFBVbk1zak01NTB1eVBwMmZjNFo5NlhiMmxLbWh3dE53V0JCbHFYTEs2Vk54dlhHeDBHVzJSdndFRDVuZnFEOWVvR1hmSDdVVzJFOWNNXzlETUVXOGhpREl6cXY3aEhSWEVuOENuQnBOTjg?oc=5",
+          "pubDate": "Sun, 04 Oct 2026 14:59:25 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Yemen leader announces major military operations against Iran-backed Houthis - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaHV2QlVZQUd1RW4zNFRzUzQ3ZlZlcHJHWHlRbm8yRjlBWGlkQ3BSek9GS0ZwOVJ0SnMtMDV5N3FsZjVsRm9EaUgwcGVhNVdaS1RCTDRqVjh5blN0NXhGenAxVlY3ZUhKQUpNN0J2ajJ2S0tlRXZyMmRaNG9VWTlXY3VpUlRWMVhKSjV3QTJXZW42OHZhaldrdzJxR2I1aDZrRDRMVHlYa2tOVW5GR2J4VWM2RjVPcjdqNUwzMUdsSVhPbDhqd0ttdmN4TUlTQWM?oc=5",
+          "pubDate": "Sun, 04 Oct 2026 14:25:59 GMT",
           "source": "Reuters"
         },
         {
           "title": "Revolut's rise to become Europe's $115 billion big bank rival - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWDBEcXY1UUtrRGxIaE9neHYxeDlTWDNYaVlWdlp2UUhxSGtUV2RVZlR4Q25UUTlDTTR0QXlLYlVNZ1lMNEJfQkVmZnVtcFNaVW5mZE42d21uV1BZZzRESkxvVkxoM19FNkhoVThRWXYtUGR1eGZ6VmYtUHNrTWs5eXZfV1kxZ3ZnSHR2UWtmQWd5YVltQlNseWs0RGhXeVItVGVwQXNKbXpZVG9G?oc=5",
-          "pubDate": "Sun, 04 Oct 2026 10:29:33 GMT",
+          "pubDate": "Sun, 04 Oct 2026 13:56:26 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Latvian PM on track to lead pro-Ukraine coalition after election win - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVFNoVUJwWFRHa2hyMjdWTnQwNWJzeEsxN004aTEwczk5Y2tDeW0wdW9od2FjUlJNVVBLTUEtRTJ3YWlQaHgyTlZxV2RBVEdsMERUdnZzU1BQeVhrTXRnR0RuSXJlUUFhWkNRanY5akk5aEE5aTdMUGxBaFFSRjlZbzd3N00yWjRIRjMyZlIyUGNCOTNaNjc1QUcwSWlUWGtOaEhyU2F2WVB4NXA1WnY2Tw?oc=5",
-          "pubDate": "Sun, 04 Oct 2026 09:19:52 GMT",
+          "title": "Haunted by grief, Gaza's displaced still wait overseas for return - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYVA4aW4yZm9obXNLWVl2RGItRkE4cUwxUHFucmpkQ2NzU2JzNDc1SXF1bkxtb1hQZmRYYjVxVU9aMmVRb2xBVi1oLXFKd2RDTmo3UUJ2M1I2Ym02X0lzVUVNcUh5c2hISjMwVHBQOFVrVkhhZlZNQjRrNElrNXEyYWR6blZnenpPTG5pLXpYNGFQcjZ2MmlUUklBRTg0ZlA2QWtEVlNJRHFxTXdIUjMyM0FpZw?oc=5",
+          "pubDate": "Sun, 04 Oct 2026 13:55:24 GMT",
           "source": "Reuters"
         },
         {
           "title": "Rare police raid of Taipei gay bar sparks angry protest - Reuters",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMURISGFRZ3VjZ1dka1Y5alhIVHBOM2xkYVkxM0R6cXY0RTVUT2UzSFVFR3J2cm1WM1Jfb1NBQUhObmhSMVUzZ2g1Y09qY3FvZy1ReXk0ZlZKUnpLWEFacnNYZjRzdy1JYWZiR1BCRENFa0Z3dFd6TTRwVzdwX1NmXzI5OGVFN1Q3amV1Z1lud3dmMjc0S0Q1ZDRLNEpRV2gxVGxmU041U0syWG1ucjZNVg?oc=5",
-          "pubDate": "Sun, 04 Oct 2026 08:49:10 GMT",
+          "pubDate": "Sun, 04 Oct 2026 13:22:16 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Government forces seize capital of Ethiopia's Tigray region from rebels - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVXVqai1NbFo5LVhWcnM3RElRUWVwa21sQ3p6dVhFXzBwQVBtN3BGR09DOGZhaXV5Z09BQ0RXN0JfODgtS2VoeUVqV3I0OFd3cVFjMzNLSGV3QnBidDY4eTVIUzc4YThTalE0b3JNRndHbHhQdW43S3MxN25NOWRnckZKUDU2MGl3V1YtZUVaRG5IMF9PUTVWMVM3NUptZGdkaUlYSDdLcTQxMlVxMWlkcg?oc=5",
-          "pubDate": "Sun, 04 Oct 2026 08:19:43 GMT",
+          "title": "Iran says Strait of Hormuz will not reopen until conditions are met - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUEhSM2E2MkI0TDU0LXVLZl9GLWY5d3FoTU1PdS1ON0xUV1NNQ3FnUlZGRFhOYkVHTVp5RDFaN3pxZ1pVeVNJdTdhemxsNkdRaHJBTWNtRDEwWjg2cnlKb3F5VmpEN25tTHNmV2hLTnFkc1IxSEhLVGplNTJJSnBXMDFmOUN1V3NpRmxoVnJkcmRxd1hmbzBRTHZjd05rWlhUbDBfQmFCZWRkS0pHUTJNa041QlRtSkd5YUE?oc=5",
+          "pubDate": "Sun, 04 Oct 2026 12:59:41 GMT",
           "source": "Reuters"
         },
         {
-          "title": "EXCLUSIVE: Saudi Arabia quietly shelving NEOM Stadium, one of 2034 World Cup venues - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ2pRTER4OGtQS01WaGYxMkVLOWVnRVNlTGFKb1ZuQjVFT296TUhVSkNsSV9BTXItRVhlQUNUZG56OC1KS3B5WUVIWVIzZG1EUEUwbkt3Tm80NEc4dVloT0RLMkVZZlQ0WlFTRGVGeW1Va2NxdThBY1hSeHM2Wkg0S0hNcjFaa0ZBVm9QMVhodGxSRHVGVjduVmliTlhQQ3VLY2xWVnNLVnlZVzlKS0J2YXVRRWZIa3hIUWc?oc=5",
-          "pubDate": "Sun, 04 Oct 2026 08:03:13 GMT",
+          "title": "OPEC+ agrees to keep November oil output targets steady - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObkpnNDluR1haTkdBX3RldWlkX2pySlFJWlFIdmZhaGt1NTFuYlVJS3Nkc2VNQlJ4bXN2LTc1VTF1SWViaVloM1Y4U1JndkpESXNfb2IxazBFS3RTVjRpUUhVeWNURVNtd2dKcWxRMjdoTEFiRTdwd1FrWEw2OUx4NUY5U1hkNFBqVjUxZlJyVVlQNFBEUmVPVTBYejluWWhMZF9xZlNrQmFqU0R4ZlJGc0N5QzJ0ckNfN0dYdkFQalpkVkk?oc=5",
+          "pubDate": "Sun, 04 Oct 2026 12:09:48 GMT",
           "source": "Reuters"
         },
         {
-          "title": "South Korean president orders probe into data leaks across financial industry - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNU1lNVUVZZ2h4VG9hWTZ3d2lLYk4wX281Nk5LbGpWT0xRWGZKX0I5UWU2bzdNa0xKam9sRjRTREh1QmY2aVRpRlluYzhJQWVjbnZoY3dCcG13dnBtaXU0Z2ZwcGc0dmJiOThqd29QTjMtYmRaa2ZmOHNpVjBPNnV5a0ttMFVLcmk4eWZKTmEtNFBUS1dsNmhrYTJMWk9lMnh2ZFZXYS03NzhIRjQ4Qk5JdG1lTG56TXhjOWlJekZGcVI2MFpjWXd6WlIwYWU?oc=5",
-          "pubDate": "Sun, 04 Oct 2026 06:19:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Bosnia votes Sunday in election that could affect EU bid - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdnB0bzdlVUpKdEdIZkhBZU1wLVhPTF8zLW5YMy1NRF9hSlJsM0ZmMS1DNG5JbVIwQkk4QTQwMmdSU0JCUHd5blNMdzhnME1ycHBCdm5IcVhLUTRVU1d6dENmYXgwYlV4dU5HOWVyR0oxLVNYYTVTeWVNNEVaSTFaMVhZRkk5aFlUTnE1ZHo2bVZrdHZWZG93UTd5Yw?oc=5",
-          "pubDate": "Sun, 04 Oct 2026 05:01:00 GMT",
+          "title": "Latvian PM on track to lead pro-Ukraine coalition after election win - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVFNoVUJwWFRHa2hyMjdWTnQwNWJzeEsxN004aTEwczk5Y2tDeW0wdW9od2FjUlJNVVBLTUEtRTJ3YWlQaHgyTlZxV2RBVEdsMERUdnZzU1BQeVhrTXRnR0RuSXJlUUFhWkNRanY5akk5aEE5aTdMUGxBaFFSRjlZbzd3N00yWjRIRjMyZlIyUGNCOTNaNjc1QUcwSWlUWGtOaEhyU2F2WVB4NXA1WnY2Tw?oc=5",
+          "pubDate": "Sun, 04 Oct 2026 11:39:53 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-04T11:14:30.765Z"
+      "updatedAt": "2026-10-04T15:56:32.623Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-04T11:14:30.917Z"
+      "updatedAt": "2026-10-04T15:56:33.011Z"
     }
   ]
 }
