@@ -1,9 +1,27 @@
 {
-  "generatedAt": "2026-10-04T15:56:33.011Z",
+  "generatedAt": "2026-10-04T19:30:09.200Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Indian police accused of sexual harassment against journalists at protest",
+          "link": "https://www.bbc.co.uk/news/articles/c9e8lvm6nrr3o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 04 Oct 2026 17:01:19 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Yemen's government announces all-out war to reclaim land from Houthis",
+          "link": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 04 Oct 2026 16:51:30 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Christa Pike's prognosis still unclear after failed execution, lawyer says",
+          "link": "https://www.bbc.co.uk/news/articles/ckgelynyg7d3o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 04 Oct 2026 16:24:48 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "US Marine arrested over murder of woman in Okinawa, Japan",
           "link": "https://www.bbc.co.uk/news/articles/cme3xw4yy28do?at_medium=RSS&at_campaign=rss",
@@ -14,12 +32,6 @@
           "title": "Watch: What we know about Russian strikes on Kyiv bridges",
           "link": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 04 Oct 2026 14:25:32 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Yemen announces military campaign to reclaim land from Iran-backed Houthis",
-          "link": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 04 Oct 2026 14:24:56 GMT",
           "source": "BBC News"
         },
         {
@@ -39,26 +51,20 @@
           "link": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 04 Oct 2026 11:03:20 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Australia investigating Flydubai co-pilot's links to country",
-          "link": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 04 Oct 2026 06:19:17 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Rare tornado whips through small Australian town",
-          "link": "https://www.bbc.co.uk/news/videos/c69qzvggzppro?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 04 Oct 2026 04:15:36 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-04T15:56:31.401Z"
+      "updatedAt": "2026-10-04T19:30:07.845Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Trump names national intelligence chief Jay Clayton as new AI czar",
+          "link": "https://www.npr.org/2026/10/04/nx-s1-5990781/jay-clayton-ai-czar-trump",
+          "pubDate": "Sun, 04 Oct 2026 14:36:48 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Cornell president calls gang rape allegations 'deeply disturbing'",
           "link": "https://www.npr.org/2026/10/04/nx-s1-5990789/cornell-president-calls-gang-rape-allegations-deeply-disturbing",
@@ -100,126 +106,120 @@
           "link": "https://www.npr.org/2026/10/03/nx-s1-5989313/can-the-cornell-lawsuit-force-changes-that-make-students-safer",
           "pubDate": "Sat, 03 Oct 2026 17:57:34 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Opinion: A Hawk is not the same as a Hawkeye",
-          "link": "https://www.npr.org/2026/10/03/nx-s1-5981300/opinion-a-hawk-is-not-the-same-as-a-hawkeye",
-          "pubDate": "Sat, 03 Oct 2026 08:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-04T15:56:31.665Z"
+      "updatedAt": "2026-10-04T19:30:07.934Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Brazil’s presidential vote pits Trump ally against incumbent Lula - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRnAtck5sQXdwQlZkQUxjQXVIQXZpWS1lUTA5d0EtdklWTnZPN01aUnpLQXZYbENYYlM4ZEoxNUVmNmNqSG9nZUJwMnNHdVA3RG1JelBnVWd3cUg0ZlpkazQtUkc4cC1SOThmYlJmY1F6czNsM3hXakZ4SGVON1E5YUp2VTNtTFh2d2ljSkhNWGdlemVjZ05jQmlWcllfM2xiVDU3NWVCdzBfdw?oc=5",
-          "pubDate": "Sun, 04 Oct 2026 13:49:00 GMT",
+          "title": "2 shot dead and dozens injured at neighborhood block party shooting in southern Georgia - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeU1lRFRqcWlrYjBSSmZnNzA2c1pfaWNwQnBRbVpsR0RWYzRBLVVibG1zYVVNQzNXRy1tdXVVWl8yTjUzZWlkbTBQTU9lbkloUWJoTlpKOUJ2YWpoZUtVRUM3WGt5cWxGQ1J1MVhLOEJRazhfNEI3VVY0aVFVbW9IZzNISjJnc3ZCc2FsNXowQUk?oc=5",
+          "pubDate": "Sun, 04 Oct 2026 19:01:00 GMT",
           "source": "AP News"
         },
         {
           "title": "Associated Press News: Breaking News | Latest News Today - AP News",
           "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
-          "pubDate": "Sun, 04 Oct 2026 11:49:56 GMT",
+          "pubDate": "Sun, 04 Oct 2026 18:20:09 GMT",
           "source": "AP News"
         },
         {
-          "title": "Despair over future fuels political anxiety for college students on the cusp of adulthood - AP News",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZHpyWjZzRi1fQnFEUDh1QlBaVC1TQ3pGeVV3QnB1ekxtemp3SV9TRUY4bzI2UU9VZUJCa2w0MG9OTWRtOElrZmZvZEtrdDN2REQ5TU4xMmtpN2NWOXY1ckxNaWRadnNFNHBOaEpCdURtazFfdmNWelVEaWdpT1hqbjJKWGo4TDNOQ3RiTlVRdEVDc184QkxnOHdjQ0VSOUluNC1JY0VrM3diWUF2aS03WGFka2s?oc=5",
-          "pubDate": "Sun, 04 Oct 2026 11:35:00 GMT",
+          "title": "Brazilians vote for next president as Lula and Flávio Bolsonaro hope for first round victory - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRnAtck5sQXdwQlZkQUxjQXVIQXZpWS1lUTA5d0EtdklWTnZPN01aUnpLQXZYbENYYlM4ZEoxNUVmNmNqSG9nZUJwMnNHdVA3RG1JelBnVWd3cUg0ZlpkazQtUkc4cC1SOThmYlJmY1F6czNsM3hXakZ4SGVON1E5YUp2VTNtTFh2d2ljSkhNWGdlemVjZ05jQmlWcllfM2xiVDU3NWVCdzBfdw?oc=5",
+          "pubDate": "Sun, 04 Oct 2026 17:48:45 GMT",
           "source": "AP News"
         },
         {
-          "title": "A Black community in Louisiana faces a future without a champion in Congress after redistricting - AP News",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTGJrZUNLQ25FYU5MYkpCUnZOX3Z6Q3Nlb2x3Q1FjNFRrbmZ3RGx1TS1LR0Y5T3FtZzI0eG5tYTd0UXotTjJHTjJRbjFCV0c2Nkg4SnpmdlI3WERnTVAzTFZwX3EyWV9JcS1zcFBMMjNyRWZKVGlneWdPUGFuYWZ0NW9XbUhMdXcwTkIxTlA2Q09TT1lUdGE4SFZFbmtnMkM2a0JVbjlmcTZJeDBDZjJVR3ZvWEJRR1pOWUdjNl9VbGtNbGg3aWZITUs5aUZVZVBD?oc=5",
-          "pubDate": "Sun, 04 Oct 2026 11:30:00 GMT",
+          "title": "Christa Pike's lawyer says she has not regained consciousness since her failed Tennessee execution - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMjBCVFR4THVySDhCQ0x3OXpWSzdKcS00WGQzdW12eHhxenMxV1hTbjR1aWVGMkllcFpRdnlfQkZHcXpJVEUybEpxV3ZZbUkyZXp0MDlabEtKLTRyTVhIcUtubHVKa0M0Z3hPVzZlQVpaMVdGNnhrOXVCbmFiSFhTSkd1ODZ1WUJ0OGQzX0VtY05fYmtQVDBhU1BYQnlLQl9wbWRwbURTbw?oc=5",
+          "pubDate": "Sun, 04 Oct 2026 17:29:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Japan air force starts recovery of crashed Global Hawk drone - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORHRUNEdNSzE5LTA1Z0VtSTFINGRyQTNPdEhGNFkwZ29sanFpcWlwNXBjdE0ySlhBLU9PeFhFS01EdzlUVW1BQnlBQ0pRUTNOU05FTGE3U2VIaXVGV29yRDlTektMLV9DbkJCVE5YYVoxVjRHcW9EM1kzUTJTWnBFVUlLNnk2ZjktbTJ1VGJQR1Nmdw?oc=5",
-          "pubDate": "Sun, 04 Oct 2026 10:39:23 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "‘Jane Doe’ solidarity posts flood social media after Cornell rape lawsuit - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQkhwc2JIU0xfano5Rm9LX3V6dXRxS2UtcmNPTktmUHExNXJ5Q2RYS2lpWDJ0V3p1NWRzZHpCcWZTeklCdC1SS1MtTC1aU0o4bnZNRDNMT1M2aDctMjhoaGNlWWlOTUFGS1dmN0YwMzB6djExeG4zWWphdnpvcWZ5ZWF5SHptcUhjMEk2ZTRyVzUyc3dUOTZaRjNZMjNoaF81d191Wg?oc=5",
-          "pubDate": "Sun, 04 Oct 2026 10:19:00 GMT",
+          "title": "Trump names national intelligence director Jay Clayton to lead a new federal AI task force - AP News",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTUk2R0lTbmk2a1QzTm5NcS05eFBCUjI1VmdxUW1lT1c5dEV1NEhqd0RWbUJXZ3VUbHhPODNYNVJvQmVzNFpGWV82XzRaUy00TWZjWUUwS2hLak92ejBKbzEzQkFxWTFfWF9qTXRQVHpyX29Eb0VkRnEybHNTY2pLOEZ3akFHMGZFM1ZYN2VRMVk0TE85RVhodm5OcDZaTm9aSldGU3p1V1ZlV3dwc203Nkln?oc=5",
+          "pubDate": "Sun, 04 Oct 2026 17:18:00 GMT",
           "source": "AP News"
         },
         {
           "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Sun, 04 Oct 2026 10:12:55 GMT",
+          "pubDate": "Sun, 04 Oct 2026 17:17:04 GMT",
           "source": "AP News"
         },
         {
-          "title": "Most US stocks fall after the bond market cranks the pressure higher - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWmtnVHpEa0ZTdzJYcHhrUTlwRURkX2tJVVgwTHgxeTFLY3FHeTRKal9wdmVYREZueVZnclVhTnloU0pRZHp1ZEtnT3BhX0pud3NuMlVQWG4xOV9yZUJVbjY1X1RZSlp1TlVVQUZDaHB6TXotdmx6akpNdFBDUklLcU81WEt0bXNLV0xwVE4taGxYMHNqQkZUaVFUWmM?oc=5",
-          "pubDate": "Sun, 04 Oct 2026 09:53:20 GMT",
+          "title": "Remains of medieval king Czar Samuel arrive in Bulgaria after decades of talks with Greece - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSGN3LS12cjBsV1B0WGxXWFBteGVGdFJGQTZseHZRUkJRSWk2Z0Z0TjhQdklnUFJlTXVNaks3MXlJT1FBVjE4czdvTUVtQVEtWTU3NFlwRzdRNDRBS2JFc29Hd25od0Q3Y0RIamNjQ1hnRE5RSk5ONEhOSjZQQzRfLTdwTGJ4enV5NmY5UUtrX0U0QmFNZVh4UHlOcmJ6SXlJLWVNbGJjZGxvbVlBOS00?oc=5",
+          "pubDate": "Sun, 04 Oct 2026 17:08:41 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "WNBA Scores & Daily News | WNBA Stats, Scores & News Today - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RellkeWJkeDFvWUtHTHRPOURyM29ReE54N3hpa3NCRUxRQ01yVy1FTjRUS0RaVzNxZzlVakgxUkhZYW1hX0pWemVtcnI5U2s?oc=5",
+          "pubDate": "Sun, 04 Oct 2026 16:47:57 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-04T15:56:32.178Z"
+      "updatedAt": "2026-10-04T19:30:08.565Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Two dead in flooding in Spain's Catalonia region - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVnh1WE5wbUJ2RE1EWWUtVmlITlNLSGJXZVdBYWFpYnVSWFdVVjlCeC1EYkVjcFBVbk1zak01NTB1eVBwMmZjNFo5NlhiMmxLbWh3dE53V0JCbHFYTEs2Vk54dlhHeDBHVzJSdndFRDVuZnFEOWVvR1hmSDdVVzJFOWNNXzlETUVXOGhpREl6cXY3aEhSWEVuOENuQnBOTjg?oc=5",
-          "pubDate": "Sun, 04 Oct 2026 14:59:25 GMT",
+          "title": "Brazilians head to polls in high-stakes, polarized election - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTzYxcENTQ3M0VnFWR3h0cVF2TkRtc2Rlci13bDE5dnZXMENGLWVPTzdKX3RpRXBvZGJFcEo3d2tmelg2QmN4Q1lkNGhnN1luQ3FCdnRMeUxlTHlTeGswVzNjWVBzdVI2ZWttdm5HR3REQ3lSd3JqSUltVTRuTTY2dWdVTFVsRUNyZGVTVDBkY2E1M3poNG8tNktZMjNtNWliR2dlRkxR?oc=5",
+          "pubDate": "Sun, 04 Oct 2026 18:54:03 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Yemen leader announces major military operations against Iran-backed Houthis - Reuters",
+          "title": "Yemeni government launches offensive to seize all areas from Iran-backed Houthis - Reuters",
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaHV2QlVZQUd1RW4zNFRzUzQ3ZlZlcHJHWHlRbm8yRjlBWGlkQ3BSek9GS0ZwOVJ0SnMtMDV5N3FsZjVsRm9EaUgwcGVhNVdaS1RCTDRqVjh5blN0NXhGenAxVlY3ZUhKQUpNN0J2ajJ2S0tlRXZyMmRaNG9VWTlXY3VpUlRWMVhKSjV3QTJXZW42OHZhaldrdzJxR2I1aDZrRDRMVHlYa2tOVW5GR2J4VWM2RjVPcjdqNUwzMUdsSVhPbDhqd0ttdmN4TUlTQWM?oc=5",
-          "pubDate": "Sun, 04 Oct 2026 14:25:59 GMT",
+          "pubDate": "Sun, 04 Oct 2026 18:00:42 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Revolut's rise to become Europe's $115 billion big bank rival - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWDBEcXY1UUtrRGxIaE9neHYxeDlTWDNYaVlWdlp2UUhxSGtUV2RVZlR4Q25UUTlDTTR0QXlLYlVNZ1lMNEJfQkVmZnVtcFNaVW5mZE42d21uV1BZZzRESkxvVkxoM19FNkhoVThRWXYtUGR1eGZ6VmYtUHNrTWs5eXZfV1kxZ3ZnSHR2UWtmQWd5YVltQlNseWs0RGhXeVItVGVwQXNKbXpZVG9G?oc=5",
-          "pubDate": "Sun, 04 Oct 2026 13:56:26 GMT",
+          "title": "Iran's oil minister resigns, no reason given - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdHdEN1VYYjFqdkJyRThRQ2ZheFQzeElqRHRBNVR2N1UwV2lWbi1CcDdQYk9IV0ZuSURnc29jZXNDM1hmV0YzMDNRN0xlR055WlhBS0M2SVNJVW9NNE0yYlUyc3F0YVJma1JhQ0RnX096YjlGMTRiUmhVSDE4VGlOZ2MwMjljcVhNZnhER2gtYWk4QUYxZGpzZ202dVJLUQ?oc=5",
+          "pubDate": "Sun, 04 Oct 2026 17:34:44 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Haunted by grief, Gaza's displaced still wait overseas for return - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYVA4aW4yZm9obXNLWVl2RGItRkE4cUwxUHFucmpkQ2NzU2JzNDc1SXF1bkxtb1hQZmRYYjVxVU9aMmVRb2xBVi1oLXFKd2RDTmo3UUJ2M1I2Ym02X0lzVUVNcUh5c2hISjMwVHBQOFVrVkhhZlZNQjRrNElrNXEyYWR6blZnenpPTG5pLXpYNGFQcjZ2MmlUUklBRTg0ZlA2QWtEVlNJRHFxTXdIUjMyM0FpZw?oc=5",
-          "pubDate": "Sun, 04 Oct 2026 13:55:24 GMT",
+          "title": "Britain's Green Party votes to class Zionism as a form of racism - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQakVRMW8teEV5WlFoeU03VXNyU0hoSW8zSFNURk5WeTMyUXlFSGRqa2JieU1UcjZCWGd3SXp3UzVRMXFGWHZQMVJBUlFpem9iWkpGODVjZVplVFZTU1BXV1htc2FkcmNaMVREVi1WMVhQcnY2MFlCWm90LW5OcTVQZHJYLVhrY3ViYkpyRE11UkdkOExSLUtzTXAyRzRwQQ?oc=5",
+          "pubDate": "Sun, 04 Oct 2026 17:18:09 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Rare police raid of Taipei gay bar sparks angry protest - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMURISGFRZ3VjZ1dka1Y5alhIVHBOM2xkYVkxM0R6cXY0RTVUT2UzSFVFR3J2cm1WM1Jfb1NBQUhObmhSMVUzZ2g1Y09qY3FvZy1ReXk0ZlZKUnpLWEFacnNYZjRzdy1JYWZiR1BCRENFa0Z3dFd6TTRwVzdwX1NmXzI5OGVFN1Q3amV1Z1lud3dmMjc0S0Q1ZDRLNEpRV2gxVGxmU041U0syWG1ucjZNVg?oc=5",
-          "pubDate": "Sun, 04 Oct 2026 13:22:16 GMT",
+          "title": "Explainer: Who are the Houthis, Iran’s allies in Yemen? - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUERRVnN2QjBRRGRfc3ZELVlQY0FMZUhwVlJnajRWR2NSRDcxQktKQ1VWdXpTT3cxd2FoVXFwMkhGTnpOODJnWi1lSjJzUDRJbHczM1gyV3JIb0U2bHhwTWNmY1FtV2FJckpqcEw4NEVtN2VUbWU5Mi0tV2VtbjZoWFRWUnVTekJfMEVoa1NBYWxsdThWeFRBVkVJODl1OWZuMmx2cmRzYm9XYTB4?oc=5",
+          "pubDate": "Sun, 04 Oct 2026 17:16:32 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Iran says Strait of Hormuz will not reopen until conditions are met - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUEhSM2E2MkI0TDU0LXVLZl9GLWY5d3FoTU1PdS1ON0xUV1NNQ3FnUlZGRFhOYkVHTVp5RDFaN3pxZ1pVeVNJdTdhemxsNkdRaHJBTWNtRDEwWjg2cnlKb3F5VmpEN25tTHNmV2hLTnFkc1IxSEhLVGplNTJJSnBXMDFmOUN1V3NpRmxoVnJkcmRxd1hmbzBRTHZjd05rWlhUbDBfQmFCZWRkS0pHUTJNa041QlRtSkd5YUE?oc=5",
-          "pubDate": "Sun, 04 Oct 2026 12:59:41 GMT",
+          "title": "Musk says he will rename SpaceXAI to SpaceXSI - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQT1lwRkt2ZlBuMTlqLVZCbk5ZVExzN0JMd0FnT0F5SllkSGdCU2xkNUlsSHVKZTRuNklIYlY5VTU5QmpqeUdWOXpJWEdhWGhaSE11dmRpQ0taekpfUllyay16MDg3VERqRm5WSjY3bGhKSGZVcnJWOFBod1FsQzBIdjVVN1U0b0xfT3VoZDNJdFZpVDJyN1Q0NlpjeUUtM2hFbUxF?oc=5",
+          "pubDate": "Sun, 04 Oct 2026 16:56:09 GMT",
           "source": "Reuters"
         },
         {
-          "title": "OPEC+ agrees to keep November oil output targets steady - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObkpnNDluR1haTkdBX3RldWlkX2pySlFJWlFIdmZhaGt1NTFuYlVJS3Nkc2VNQlJ4bXN2LTc1VTF1SWViaVloM1Y4U1JndkpESXNfb2IxazBFS3RTVjRpUUhVeWNURVNtd2dKcWxRMjdoTEFiRTdwd1FrWEw2OUx4NUY5U1hkNFBqVjUxZlJyVVlQNFBEUmVPVTBYejluWWhMZF9xZlNrQmFqU0R4ZlJGc0N5QzJ0ckNfN0dYdkFQalpkVkk?oc=5",
-          "pubDate": "Sun, 04 Oct 2026 12:09:48 GMT",
+          "title": "Australia probes flydubai co-pilot's links to the country, police say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUHk0NnhtSzljVk9RcUlKeF90V3VFaEh4NG9ITDZSdmsxX2o0bFFYWUdiWUhrQ0FzSFVlaGxBYW1McU1GdHBNWURXRTJNNkZpQ3I5Vmx2bGdXcmVCUGpFZ0RUdjJsZnNwMWJhdERPd2dndnZJNDB6cjBfcExGZ3BYd0xtQ1JoUDRMMzZoQVNURWlabXNtRjdFV3l6UFhjVTAzeG1GUTBoZ3k3dw?oc=5",
+          "pubDate": "Sun, 04 Oct 2026 16:54:13 GMT",
           "source": "Reuters"
         },
         {
           "title": "Latvian PM on track to lead pro-Ukraine coalition after election win - Reuters",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVFNoVUJwWFRHa2hyMjdWTnQwNWJzeEsxN004aTEwczk5Y2tDeW0wdW9od2FjUlJNVVBLTUEtRTJ3YWlQaHgyTlZxV2RBVEdsMERUdnZzU1BQeVhrTXRnR0RuSXJlUUFhWkNRanY5akk5aEE5aTdMUGxBaFFSRjlZbzd3N00yWjRIRjMyZlIyUGNCOTNaNjc1QUcwSWlUWGtOaEhyU2F2WVB4NXA1WnY2Tw?oc=5",
-          "pubDate": "Sun, 04 Oct 2026 11:39:53 GMT",
+          "pubDate": "Sun, 04 Oct 2026 16:52:43 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-04T15:56:32.623Z"
+      "updatedAt": "2026-10-04T19:30:09.029Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-04T15:56:33.011Z"
+      "updatedAt": "2026-10-04T19:30:09.200Z"
     }
   ]
 }
