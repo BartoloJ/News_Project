@@ -1,19 +1,37 @@
 {
-  "generatedAt": "2026-10-05T17:00:37.523Z",
+  "generatedAt": "2026-10-05T23:18:26.017Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "Teenager's hand blown off during confrontation between France school protesters and police",
-          "link": "https://www.bbc.co.uk/news/articles/c9zrdmxp4vy6o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 05 Oct 2026 16:32:18 GMT",
+          "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
+          "link": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 05 Oct 2026 21:46:22 GMT",
           "source": "BBC News"
         },
         {
-          "title": "No10 insists UK military base RAF Fairford is safe after US withdraws bombers",
-          "link": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 05 Oct 2026 16:13:35 GMT",
+          "title": "US 'watching closely' after plague researcher dies in Russia",
+          "link": "https://www.bbc.co.uk/news/articles/cv5yn3nwp5n5o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 05 Oct 2026 21:33:49 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "France braces for national day of school protests after injuries and mass arrests",
+          "link": "https://www.bbc.co.uk/news/articles/cr4g1q1elxnjo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 05 Oct 2026 21:18:10 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Spain PM pins hopes on housing crisis to help win snap election",
+          "link": "https://www.bbc.co.uk/news/articles/ck5yn81qqde0o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 05 Oct 2026 19:30:50 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Yemeni military says it has retaken Mokha and 'secured' Red Sea waterway",
+          "link": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 05 Oct 2026 17:49:59 GMT",
           "source": "BBC News"
         },
         {
@@ -29,36 +47,24 @@
           "source": "BBC News"
         },
         {
-          "title": "Yemeni government forces say they have 'secured' Bab al-Mandab Strait",
-          "link": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 05 Oct 2026 14:37:17 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "Bombs preventing rescue of kidnapped youths, Nigerian police say",
           "link": "https://www.bbc.co.uk/news/articles/c6gqw8jg7k3go?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 05 Oct 2026 12:59:56 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Georgia officials hunt for suspect in shooting that killed two and injured 35",
-          "link": "https://www.bbc.co.uk/news/articles/c6e9lj5r3ej7o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 05 Oct 2026 12:08:21 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Flydubai co-pilot planned to crash plane into Tel Aviv airport or building, reports say",
-          "link": "https://www.bbc.co.uk/news/articles/cm3691y79xp5o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 05 Oct 2026 11:34:59 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-05T17:00:36.024Z"
+      "updatedAt": "2026-10-05T23:18:25.105Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "The iconic Arthur Read made his TV debut 30 years ago",
+          "link": "https://www.npr.org/2026/10/05/g-s1-146052/arthur-read-tv-debut-30-anniversary",
+          "pubDate": "Mon, 05 Oct 2026 14:26:01 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Dennis Hastert, longtime Republican House speaker who went to prison, dies at age 84",
           "link": "https://www.npr.org/2026/10/05/g-s1-146452/dennis-hastert-republican-house-speaker-dies-obit",
@@ -100,126 +106,120 @@
           "link": "https://www.npr.org/2026/10/05/g-s1-146400/nobel-medicine-prize",
           "pubDate": "Mon, 05 Oct 2026 06:11:33 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Former Prince Andrew files legal action to quash warrants that led to residence searches",
-          "link": "https://www.npr.org/2026/10/05/g-s1-146396/former-prince-andrew-legal-action",
-          "pubDate": "Mon, 05 Oct 2026 06:01:19 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-05T17:00:36.234Z"
+      "updatedAt": "2026-10-05T23:18:25.384Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Nobel medicine prize goes to 3 scientists for shining light on brain activity - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZmJWS3hfcm0yUXVXX1dQLW1MNjhkNkhPLXVHWjc1M1RhRXJKT2hRVGlWZjV0LWtQdGtIc0hxeGFCclRMNlEwczVHTndqR21iSENZOHJtem8zeDZXQXVBenBvYWYxcVVvQmx0ck8weTV3dU16OHVyV25nX0tQUlRvdmhPZWJKX0p2aVFBajJhcHE?oc=5",
-          "pubDate": "Mon, 05 Oct 2026 16:01:00 GMT",
+          "title": "Former ‘American Idol’ singer Caleb Flynn is sentenced to life in prison for wife’s murder - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRHVsb1p3OVRHaEJvU0I5RmMtM21aZzNsaEVTTFFZVTVJMzBDRkFJM3lQWENPNGdMTGtlb19iUk1QUVFXNHFiXzI3Q085Y1ZOX2tmTmR2Q1YxWU5XeG90NkNIMnN0dWFVcGpZR0NOZTNxLURZb2tUci1laWd3cFhqTU0xNl9DbFhqR29wMmdETDFvY1Y2bEJMOG5lTzdocm9vcXF1c0RFdmtwczgwT0xn?oc=5",
+          "pubDate": "Mon, 05 Oct 2026 22:27:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Ukraine claims to have taken out more than half of Russia’s oil refining capacity - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbHBMQ1lhemxPY0lqY1hLcTBHRFdTV1hYcDh2STRFOVdoVndhR2dTSkFsRjczMzFMX0tIc0ZDWS1rVHI4WFJZUGRjU25nSnBLQzNYU3pJN1Fhd28wMU9PaTBqLVZaN3FDM05rQ3NzVjBvM3pPb2JpaXlHMGpBTm9aSnRJdVl2TndJVFQ4WjhYOHVrN2xS?oc=5",
-          "pubDate": "Mon, 05 Oct 2026 15:22:00 GMT",
+          "title": "NFL suspends an official 2 games for swearing at Arizona tight end Trey McBride - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdXVDV3ZHb3BpcE5OQmV6a1hVc000ZzhfVU51Zk5SX2M2dHV3WXFSWFpZdEdDc1hFX3RsSkR6WmFIV3NEMmVpMF9EMC1neU5hT1NwZ1N6ZU5URm9vN3JLY3o2QUU4alpjWjg3OGZHZzZZUUM2TUdLWlZmUTBSc3Bzb0VXSzdaSUVx?oc=5",
+          "pubDate": "Mon, 05 Oct 2026 22:00:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Dennis Hastert, longtime Republican House speaker who went to prison, dies at age 84 - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNamtxRHQ1M2M3TmxrTlVrR29oVTBWdlFzSC1rd2NCd081RWRESWlEOVhZeVJRZDlqZG52Z1gxeWV5dktUNzFGMjNmVHFsTndYMTEzekQ2VGY3SWVFbC1raXJaaEc2aHNJOTlSQkpoMEhNcGdJNDZBMDVnWXNYSFZNcVlsU3Vwcy1Bdl9tZnVsdktoZw?oc=5",
-          "pubDate": "Mon, 05 Oct 2026 15:01:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Russia reports a worker at a Siberian plague institute got pneumonia from an unknown cause and died - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMUVxck1SdlF6ZTlSV0ZpLWdmR3g5WTAtX2tqR3FieHVXdnBILWhYUTNTblU1bjkxbXdEc3lNYlN5d3AtdVR1NjVDRmIyRmt6dWEwQ1dLWjZnVDYwZTZIZkVyT2FCMWlwOUJ0M3VNVF93RHYwZ2tzMDdzd0pkbmg2dnFrc1RzMmFEbi12YWhuVk1pNXhEZkh1TWozaGZHS2c1ZjNBSQ?oc=5",
-          "pubDate": "Mon, 05 Oct 2026 14:49:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Russia hosts a Taliban delegation, others for consultations on Afghanistan - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSm5IaFJQNV9pYVlLd25IRGZMa2hlREUwbzdWOWhnWnNIRkExWDhaUk1NeGNPTEk4UTBHbVJsZXNzZnV6V2c0MWFMV1FfVmtwckJuaG1vdktXaXVTNktfbU1UcFlSczlpamlPbXd2MVpTUUczYjJGREJVaEdLX1N1cFNJWkV1SWZuOWFNcWYxWXdQT19WM3JfUDZmYTk3NmZvWEdZSEJfZ1RDNmhlaHhqSkFiOGM2UQ?oc=5",
-          "pubDate": "Mon, 05 Oct 2026 14:48:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Top crypto group to pour millions into bipartisan slate of House races after key legislation stalls - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRnA0THMzVUcySGx3YVo4X09EUUJMTm4xMVh0VDZLdkVqMmxFQkdXNm9NNDdTaTYwZlR3SnBLUU1WbEIyRnU5UEptQmNpWk5DcjhUSnZxVU1DUDc1bjRscm0zYlgxTktPUXpzOTJ5ZGpoak5GTGtja296b2FiZlpoQnQ4WlhFNlRaWDVUdVJUVEJQcDFHQmVCMFliWmdBM0swSHpn?oc=5",
-          "pubDate": "Mon, 05 Oct 2026 14:21:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Privacy concerns put smart glasses under scrutiny as Norway seeks temporary ban - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdXJpcklrMDhGQ2cwa2kzWEdlZC12R29iYlpIUm03QWE5S1lQaUxSZTdVc1lsS0o1dHJENDVrODR1S0RYU0xzWWgtTFlvUVpuR0tpSnE2ejhnNHppU3A2M202MmxfZjFVVUd2NElYaWpQQnJkWmJiaU5pd1htRlcyMm9vbjNrcjB5?oc=5",
-          "pubDate": "Mon, 05 Oct 2026 14:04:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "A Saudi-led coalition says its fighter jets are bombing Yemen’s Iran-backed Houthi rebels - apnews.com",
+          "title": "Saudi-backed Yemeni forces expel Houthi rebels from several areas around key strait, officials say - AP News",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOa0w0ZVR4U0toYjViellrallFRmhET1JQaDV3azRxcGpITmhFRFQwY0h5cjlQaC0zM01ZSURLMzdDRkxTLU8zRzVBZENHRnRuYmUwbE1VR19WbWdZdzZ5SGxVMWUtUTVjdEh3UlJycDhwZG5SSVQzX3ZaeVpfbjVJM3U4eEJiU0hfcmZXTFBNbVJsWkVjeWM3MHZWNWktVFlnQ0g1bGJKTQ?oc=5",
-          "pubDate": "Mon, 05 Oct 2026 13:59:00 GMT",
+          "pubDate": "Mon, 05 Oct 2026 21:53:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Trump heads to Nebraska, where his plan to import more beef has angered ranchers - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbkZLVHNEbGd3TU1UUVZIcDdBaGpuZXA3aXJidTBCMEJueTR1MzhPRTQzVDEzcVU1c3AxRndJNTg1ZENoNngtbVl0VXdVMWE2Z2c3V21PbXdra3FwRHZwSWY1anJLeW9PTU1rdDM0YXdFNDFCcGRZRmw0OU9Ed3V4TUU4M1JjVnFISzdUdDUxanpvc1FZWHBibHJLOA?oc=5",
+          "pubDate": "Mon, 05 Oct 2026 21:45:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Pennsylvania’s measles outbreak is the largest in decades in the US - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRVQ5WVlhNnliWVN4dUlLS0taNVhLS0ZkRGZVMGdtakhpT1BYdmtvU202RGR4S2F0WTlqekxDSzI0aHcxeTJkaXdLX2g3WUtpcEZmQTNlQzdiRUJaWFpxbXR1ZjRGZFllMTJLYnZaYVlaRzhsNDJWa1hFbks1UXExWkRQU1FTaDFKUlB1N3RIQVdFOVk?oc=5",
+          "pubDate": "Mon, 05 Oct 2026 21:37:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "US stocks rise to the edge of an all-time high - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeEtuQ0VBX01CSXdjRkpaTnRmUElnZFl0ZUlLdEo3YXR4NW9lcTBIRThlSmVEd3NNdGlfNkFfWkhVZnVNXzlaUU9uNFNSUEhJQXIyMWdHV1hhRWs3Vlh2QkdGMllMRkRqNEtuYWtocm9ObXBreUtMcjcyc090c0NCZDk0RkhaZHk3Q3JSRWJ3d1B4ZVJFUVFZWU90czdaR0k?oc=5",
+          "pubDate": "Mon, 05 Oct 2026 20:44:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "WNBA Scores & Daily News | WNBA Stats, Scores & News Today - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RellkeWJkeDFvWUtHTHRPOURyM29ReE54N3hpa3NCRUxRQ01yVy1FTjRUS0RaVzNxZzlVakgxUkhZYW1hX0pWemVtcnI5U2s?oc=5",
+          "pubDate": "Mon, 05 Oct 2026 20:30:19 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Spain’s prime minister calls snap election aiming to seize momentum over housing crisis - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYUJUb21rRnJmOXJKSnBLSXRwLTh5ZFlUWGk0c01pODBGb0lUUXJuRmIxOHRTMTdzRGxTcFBqYXFodGM4V2RRNmlrTk1OZHR4REpqQXgxQ1ZRVnowanpnUE1hbWxzc3E5NkYxUnExVzN0bl94ZUFvUks0LTFzLTk1QUpCbXRPa2hEVHhwa01ZeTNFMDZ2?oc=5",
+          "pubDate": "Mon, 05 Oct 2026 20:28:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-05T17:00:36.701Z"
+      "updatedAt": "2026-10-05T23:18:25.823Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Quebec heads to the polls with focus more on Trump than independence - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSGpVVnRKUWRpaXI1ZnRkZ1psZWFJT1VKbE9sSVBpN0kyWUppUlh4d2hhUl9kbEdTN0pKRFhFYUJ5SGNlT2owbWFfSVltSnhKMktIWm5oaWx5SXV3M2NjUDhMRklDd3k0aUJ3QVY4REZrN1RFSmk1Xy1vWFBqWDJkVEJPM2dSTUFYTms3cDgzcHZuRUV1aXc3VVhXcEJvRTVPTDJNTWRIM09xWldhWWc?oc=5",
-          "pubDate": "Mon, 05 Oct 2026 16:45:43 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US appeals court weighs Trump's block on Harvard research funding - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRjJDTXMwQ3dvUGkwWU9zeFIzZHdPbGxvaHdhU09tVERQdEhPM3lScDRJTFdqaHg0N2pNbjZTX3ZHamh2dWdsdzE3bjFBUkpyMmxQWmotckNEangtV1Q0SlRuTkFMVThZX1p4TlpLa3VIRmR3YUhISWgyNXZZNk1na1BITFJOeDMzZGRGZmVUY0lkOWZGTURfc2w3ZUsyaGR3SmFkSHZGaFZSb1FZOC16R1lEemE?oc=5",
-          "pubDate": "Mon, 05 Oct 2026 16:39:56 GMT",
+          "title": "Nasdaq notches record high close as investors focus on earnings - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV09jSm4zWHp2ODd2SmNPRHdJcUhDcjNzZ3dwYkwzZ3NSVHdyVUdUVEI0TWltb3RKQUZucVVNa2l1UzAxWmtSd0hQSWFjVXV0WVZiUjJFNGJDeEZQVlhoWDJ5WWpxLWxuc3ZVYXBLR0QxSzdZMVFjSklpUTB2Q2YwdE12VFl0bUw2RGRjZ3VoUmFlMkp4UUstYy1R?oc=5",
+          "pubDate": "Mon, 05 Oct 2026 22:38:44 GMT",
           "source": "Reuters"
         },
         {
           "title": "Yemeni government forces drive Houthis from Bab el-Mandeb Strait - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSVotTm16YzZEU2xvWHNOcjllZVU1RlNYZjBoUnMzWThDbHRLUmJpUE16d0lSR00xcXRBNXppSGcwZHpjNGd6azFjeVBWSHV5T3lZWG9mZEdMRmhBYzVhMF9seTQ2UnZTa201X3hHb2o1ZHN5alNJRmFPcUdvaWVnX1ZKWFZVYmwyS2huNHg2bG1TNlVNT3RuUk5Mbi1naHRFaFQ0YjRKZ0YtVVUta3V2Q1dmQzN5bTlkZmpV?oc=5",
-          "pubDate": "Mon, 05 Oct 2026 16:33:49 GMT",
+          "pubDate": "Mon, 05 Oct 2026 22:23:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Airstrikes and artillery hit north Ethiopia as government and rebels clash, sources say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYUFxY2dITnU0S3lxNkwwbjZRd0s2RDdrcmU4dk1hWGE3SnhaVUpCXzYtaERfZGoxU3RrcVlRQTdmcWhOQkRSaFVwS2NvREJCTFBtVFJFNXJ1cXdtYTFkMVJQWS0tZExYYzVsQkpOTnhLVU83RDkyeWF3c1hBWHUwZUxWM3JaVXBmYXZtckpCMGxMa1NlelRYbm1Oelo0Q2NsaTVneENEcmtBQzRmbzNyN1JnNWE4RmNQLWlPbjV5eVpjcndPSmc?oc=5",
-          "pubDate": "Mon, 05 Oct 2026 16:17:51 GMT",
+          "title": "Jeffrey Archer, bestselling UK novelist and scandal-plagued politician, dies aged 86 - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTVlXcEZjUmh4TnlFb1RJM3ZQZW5yTlZhV3prMGFfc0JNLWt5cWVLVHEwU1VEcUlVYWhJVnRiaTA1Ylphd01taU54Y3RGNk9EMm80MkFVaEpiNDlvOThVN1pIb0JUYXplbmw5UThFTWE1eDFnOTlpMXFGMlVxMUFFOW9HSWNhSEp1V0lFdmFmREY1Rl9adHAxNw?oc=5",
+          "pubDate": "Mon, 05 Oct 2026 22:18:28 GMT",
           "source": "Reuters"
         },
         {
-          "title": "S&P 500 up, Nasdaq at record high as megacap tech stocks rise - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV09jSm4zWHp2ODd2SmNPRHdJcUhDcjNzZ3dwYkwzZ3NSVHdyVUdUVEI0TWltb3RKQUZucVVNa2l1UzAxWmtSd0hQSWFjVXV0WVZiUjJFNGJDeEZQVlhoWDJ5WWpxLWxuc3ZVYXBLR0QxSzdZMVFjSklpUTB2Q2YwdE12VFl0bUw2RGRjZ3VoUmFlMkp4UUstYy1R?oc=5",
-          "pubDate": "Mon, 05 Oct 2026 16:09:42 GMT",
+          "title": "Spain's November snap election — what you need to know - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQkxFcVJoYUdNZVFwQUNuNjI4b25Hc1FuOEN3bUNUTlhjU20tZDNWU2xRVzNBNlE5ejNRNjNzRkdHZ29Wa3ZMd2pnMXdWLXlrN09ESnhrUlhkS0g1OVU5dzFPRXozOEkzQ251U1IwY0tBU2JxTzVGdFE3VmNEeXJvc1ZnRXhxb1FKQmlqUHo5Z3lDQjJ5MDhVUU5R?oc=5",
+          "pubDate": "Mon, 05 Oct 2026 22:09:20 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Brazil's currency, stocks jump after Bolsonaro scores first-round upset - Reuters",
+          "title": "Brazil markets' Bolsonaro rally sends stock exchange to record high - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNnBVVGg0X283c2E3UVFRekJud193dksxLU9RcDJSLXVoT3dpN1k0emRjS0k4RnJ2Yk1VN3lMd3Z3al94X3FreFRuWV82ei1RY21IUkFTZHB3djVIQkxlZzc1TElvY2JfNWpTOXNucTRVSFpNQ090ZnlFVEVDWnpHMy02WmQzLXRqTmRRTnFGeWhJbTV3MEh6TV9EMmhDOWpQNHBpM3JXWlJvalpm?oc=5",
-          "pubDate": "Mon, 05 Oct 2026 16:06:48 GMT",
+          "pubDate": "Mon, 05 Oct 2026 21:34:19 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Ellison retains Thompson as CNN chief, unveils Skydance leadership team - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTE9tY3YydnZveDVZVngtOXpCVmpaSThENnBYQkNVcDRzY1dObkIwb0QtaTQ1aERXUGJDSVQyeXVCWU9uTUJpREttNlVfWENlbWhaWDBjOS13UTN4cjBTZXBuNElaTGRxQy1MS0tFTGhabEpnQTl4X3FfWHl0aFdKNUprSlFUVEQtYlFDLTZwNnZEVkdabWhfbDZnQXFpN1hya210YndzbTJXekkzZHFSNA?oc=5",
-          "pubDate": "Mon, 05 Oct 2026 15:55:23 GMT",
+          "title": "Dozens quarantined in Siberia after plague institute lab worker dies - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNT0pYa1NkY1FEdnFwUjJfYWRUQTFyNXd3NWRVNldKRFZOQ09RSHNfd2h3SXhvRnlZT0lqcVNROTBWYVhCQ0JrTkJvYlZzQVEyUk1JWVVaTE56bWwxOWRSUWZ6amdYcDRlMVRpZnhVSG5GcW1iRzZSX1A0WGd1djdrMDdMWTVMbEh0bTZxMDQ3WHZtNkZMeWJnTUlSV0NQWHhFWFZzd1JQNklMNWtHRVVGRTJSc1FqbUY0THJNQ24yS3lucDFSbWRKQWJ3ekxJYTUyNExB?oc=5",
+          "pubDate": "Mon, 05 Oct 2026 21:23:45 GMT",
           "source": "Reuters"
         },
         {
-          "title": "US Supreme Court wrestles with oil companies' bid to scuttle climate lawsuit - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQd2t4Tld4Y2hsdXplcC1OLUhMeENlQURPLXFUX0pNZWl3TGcydUZKV0xiSDdDZ0JCakNwZ2RhdVZ0dGozLUlVdEVCamQtN1ZPS29ZeXg0bzR5bGMxOV9LbU9VLVE1anpaLTVFRC1oWXE4aUx1by13ZW8tVVBJQmFzQ2ZYZ3pSLUk3azNmaEdlSmtfU3RUTHZXRmk3YTdTb1BGWU9mclJiV1R4RWUzeGNOeE5Wa3hvb2Y3NExfVExn?oc=5",
-          "pubDate": "Mon, 05 Oct 2026 15:55:13 GMT",
+          "title": "New York declares first US measles disaster emergency since 2025 surge - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTF9Lb3Q1aHczRXRwVDlSaVFxUk5LUWFWb2t2RXlVd0hrUHNjdVg0RDRtXzRvbGQ0bUJ4LTAteHdBVE9JZXppTXU0TTg1NTFidHdsby0tS0luVVFsU2J6WlE5N3AtLVp6YkRSQmotXzUxNnZYaXpBYnotVnJyTExKSzlwN2JNSjB2UGx6RTZHZm9mazR4MllfRHNSaG1IVmN3UHZ4Y1JpYzFUdWYwZm1fRWh6V01MY216R2QzLWRuTThxMlJNNW8xOXN3?oc=5",
+          "pubDate": "Mon, 05 Oct 2026 21:20:46 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Tate brothers used 'lover boy' model to exploit women, Britain says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOek51MXRqMVZFWnV2dk5xWEZTZjJZWnNoSTRWS2dHVXBweTFNZWVwcy1YaFMxUklyWWJvanVyTC1SUnZhSmxremZhYUlHbVo1aVNsR25mV0U4OWhvZ2k2TVNJajlhT0JIa0F0SGg2emNLV3h5Y19ZdnBfUnZrOTdXRFNJRG1jTmV6cVRhMFlGckp4WC1kRnE3SFcxZU9wUUxlcDV4SnhtY3NJUQ?oc=5",
+          "pubDate": "Mon, 05 Oct 2026 21:15:37 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-05T17:00:37.282Z"
+      "updatedAt": "2026-10-05T23:18:25.836Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-05T17:00:37.523Z"
+      "updatedAt": "2026-10-05T23:18:26.017Z"
     }
   ]
 }
