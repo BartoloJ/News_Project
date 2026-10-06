@@ -1,9 +1,45 @@
 {
-  "generatedAt": "2026-10-06T17:06:18.468Z",
+  "generatedAt": "2026-10-06T21:50:29.664Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "US death row inmate Christa Pike conscious and speaking after failed execution, lawyers say",
+          "link": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 06 Oct 2026 21:39:09 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Watch: Riot police clash with school protesters and use tear gas in France",
+          "link": "https://www.bbc.co.uk/news/videos/cwm26078pkepo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 06 Oct 2026 21:22:22 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
+          "link": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 06 Oct 2026 20:15:31 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Lawyer for one of Cornell 7 calls for special prosecutor to be removed over previous comments",
+          "link": "https://www.bbc.co.uk/news/articles/c9p8gxygvpg6o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 06 Oct 2026 18:05:53 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Tear gas in Paris and Marseille as school protests grow across France",
+          "link": "https://www.bbc.co.uk/news/articles/c8x23706pvz3o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 06 Oct 2026 18:03:19 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Finland orders halt to work on two Google data centres",
+          "link": "https://www.bbc.co.uk/news/articles/cvj6jkx6g1r0o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 06 Oct 2026 17:15:46 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Separatist party projected to win Quebec election, adding new test to Canada's unity",
           "link": "https://www.bbc.co.uk/news/articles/crly09gz7ew4o?at_medium=RSS&at_campaign=rss",
@@ -11,54 +47,30 @@
           "source": "BBC News"
         },
         {
-          "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
-          "link": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 06 Oct 2026 16:22:37 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "Kenya confirms its first Ebola death as outbreak spreads",
           "link": "https://www.bbc.co.uk/news/articles/cqzrd7v1j163o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 06 Oct 2026 16:02:32 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Watch: At the scene of student protests in Lille",
-          "link": "https://www.bbc.co.uk/news/videos/cwzd650e2jqdo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 06 Oct 2026 15:02:56 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "AfD candidate elected speaker of German regional parliament for first time",
-          "link": "https://www.bbc.co.uk/news/articles/c54g1m2g1pg3o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 06 Oct 2026 14:44:03 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Lawyer for one of Cornell 7 calls for special prosecutor to be removed over previous comments",
-          "link": "https://www.bbc.co.uk/news/articles/c9p8gxygvpg6o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 06 Oct 2026 13:36:46 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Watch: How Russia responded to US after plague researcher death",
-          "link": "https://www.bbc.co.uk/news/videos/c8e36y796enno?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 06 Oct 2026 13:32:42 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "US televangelist Jim Bakker, disgraced from sex scandal and fraud, dies at 86",
-          "link": "https://www.bbc.co.uk/news/articles/ckly02gd1xppo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 06 Oct 2026 13:31:56 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-06T17:06:17.127Z"
+      "updatedAt": "2026-10-06T21:50:28.013Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Cornell names former acting U.S. attorney general to review rape case",
+          "link": "https://www.npr.org/2026/10/06/nx-s1-5992799/cornell-yates-rape-case-updates-review",
+          "pubDate": "Tue, 06 Oct 2026 14:31:45 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "France's police fire tear gas and water cannons as school protests sweep the country",
+          "link": "https://www.npr.org/2026/10/06/nx-s1-5992819/france-student-protests-schools",
+          "pubDate": "Tue, 06 Oct 2026 14:05:44 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Here are the finalists for the 2026 National Book Awards",
           "link": "https://www.npr.org/2026/10/06/nx-s1-5991463/2026-national-book-award-shortlist-finalists",
@@ -90,136 +102,124 @@
           "source": "NPR"
         },
         {
-          "title": "A history of presidents naming things after themselves (It's short. They rarely do)",
-          "link": "https://www.npr.org/2026/10/06/nx-s1-5986321/kennedy-center-trump-naming-washington",
-          "pubDate": "Tue, 06 Oct 2026 07:00:00 -0400",
-          "source": "NPR"
-        },
-        {
           "title": "What voters in 6 key states could tell us about the 2026 midterms",
           "link": "https://www.npr.org/2026/10/06/g-s1-146559/morning-edition-2026-midterms-election-voters-states",
           "pubDate": "Tue, 06 Oct 2026 07:00:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Francis Halzen wins Nobel Prize in physics for work on high-energy neutrinos from space",
-          "link": "https://www.npr.org/2026/10/06/g-s1-146622/nobel-prize-physics",
-          "pubDate": "Tue, 06 Oct 2026 06:16:28 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-06T17:06:17.303Z"
+      "updatedAt": "2026-10-06T21:50:28.359Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Michael Douglas on ‘immortality,’ Kirk Douglas and the memories he once avoided - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRTlQZEY1VXJCcWNMcWdqVzEwdUZkSGhTem9hUkpYdkwwaFIyVFl6UGt5N3JPVmh3Y1VPc2pOSnJOOFRFUjJySUFKQ3VPeTVObU51c2c0akp2NWtHbW5fRzJVQ3UyR3d3ZHdOUVFKeGlwMFpOU240eXJEaVE0bndBLTdGR3Zqa0VZenBXdjYxRmhVR0QzMUtHRFp2TQ?oc=5",
-          "pubDate": "Tue, 06 Oct 2026 16:45:00 GMT",
+          "title": "Christa Pike is conscious and speaking after Tennessee failed execution, her attorneys say - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTlVhZDM5eFc4bnVrTjVEUGp1RWdYU2RuM3pNOFdQUWtFczMxVmRuSUZSVE00aUZrRjdKOFdqM0pBRTJYLTJVVjRHQ1cwenI0ZVNZRUZZenYzako5a2VDMHBLSUJ5NzZoVXpyRXFGMzhBTUZRRXZKei1MVWc2WXlIcW5XdU8waDQ4aGcwZmIwd1F1ZXRKLUcw?oc=5",
+          "pubDate": "Tue, 06 Oct 2026 21:34:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "French riot police fire tear gas as more than 250,000 rally nationwide for school funding - AP News",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUnN2bXRwby0zM25GY1BlLXJKNW5CVzJ0SDNaSTdySmR6Y2pGa1o0dDJBY2NGVFNONjk2UDFqaVRlcnhKNmw5T3pncWNhMWpyYVNuMVZyRzVOYzdkZmRYeXRGUUxpSjNqdHpJQVFYcHR0WHl1RllNZGZEdEZicG5xdW1JemhvYkpSUlVSbjc0dnFYblpzbkMtUEloUy0wMGEz?oc=5",
-          "pubDate": "Tue, 06 Oct 2026 16:38:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Arkansas campaign ad sparks conservative backlash for portraying lazy welfare recipient as white - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZ0lhQVdMS19DZmZlcFd5WnM3aFFuMXdmS2NORlBZbFZDQ3ZCZG4yTzI4RFYwVEFqZWxHY19ubGI5ejZTTld4UVlMWHAtRzBoTHVyZmlkVVZZWlZGVXdOUURZZ2RpWm0yUUt2bE1ZaUlLNVc3V0h1dlhCdDBNaHBuc1NIUmY0QVlSelhjdjYwbk54Q3JTR0NKOFJrczhNd2gwNjhGb040a2xFclpO?oc=5",
-          "pubDate": "Tue, 06 Oct 2026 16:26:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Pennsylvania records a fifth measles death as the nation endures its worst year since 1991 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYUhvNHNXV0k3TVZfSTFEX2hkeVFQOWVCa19VYXFxSEI4ZWxDSVpBdno2SjczeW5TaDdBMHUtenBCYXlNaVhlVjJIUlNiLThzYk5QRGg2NHdYd3g2Uy1xcTdLN1dqRnZNNE1UTlhKVE9IMHlTdGJHRHJrcDJFTnlkS0JkSzN1UldVemlVNlBzRllxZS1ONENUX1R3?oc=5",
-          "pubDate": "Tue, 06 Oct 2026 16:11:04 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Ukraine fires nearly 900 drones at Russia as Kyiv braces for expected huge aerial attack - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdzFIQ3B5NnlaMUpWbnF2dVBHT2o5QTZHZ0Z3SFZzZHB4c0pNWlpJQlB1VFpITjRtRE5MQ0tNbTdfaWNiMk9ZaWlSTURjdFc3MTJMX2ZDSkdhUS1kVnQwMUFicENYSERQN2l4WVNuOFVaTkppU3ZVUEk1cHNidTdNdl90TktwSUZlb3Nqd1pIRDRCYXQtSzdiRzdR?oc=5",
-          "pubDate": "Tue, 06 Oct 2026 16:08:41 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Scientist who hunts mysterious ghost particles in the Antarctic ice wins Nobel Prize for physics - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZmJnQWlBaEFuZTZWYXBFREx3WHdNaGk4b3FpRTFuc0Y3TmxfTXBaMl9GV0tTQVVHMkxwVlBwZm15WnBubnhEdUphVlc4cTVGUndzQVctUEVTWUNJTzE3VEhwdEtBZEtGVHl0YTlUOGItOVRhQWw4cjNQVFJkVGVRYlVsYWNZbFR0Rl9qcXgwYw?oc=5",
-          "pubDate": "Tue, 06 Oct 2026 16:07:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "IOC confirms India, Qatar among 7 bidders who want to host 2036 Olympics - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSG5ma1R0UHU1b2R0RWhPd2VqemNybWNSYW9FTE0tTUF6SVNZMDNnMFIyeUNvaDI5WHpvb0NiQ3lhT1VzNmYyakZMRmFZTFNKcXBiTTFMZFVLWmRVUWRkZ1k0X08yZlhnRFVOZDhlaER0cE50cEMxY282bFgtbDhReXVjUXcyU09SaThwRzhUVXllUHM?oc=5",
-          "pubDate": "Tue, 06 Oct 2026 15:49:00 GMT",
+          "title": "A hearing on Kilmar Ábrego Garcia’s deportation case is abruptly canceled - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxON3BoN0VwYWpVUHdzNVBBcVpMOEpxQ0puRVRMczJoSDVMUU1NOHliaUtRdkYzakx2YmszTC1fNnlOYWZtb3l3MEQ2OEVkdzFlRXY5UmgwUHRhblRjbkpBY3hlcEs1djRfMHJ5RDJ1a0NzSnNVMHFaUkFnZGJiR0Q2OVJGdm9ZaDl6RUtIb2ZSMHRvLUxEMnVXVzh0R21VV01UbVFSS3dtLVhRUQ?oc=5",
+          "pubDate": "Tue, 06 Oct 2026 20:25:00 GMT",
           "source": "AP News"
         },
         {
           "title": "Paramount completes its takeover of Warner Bros to become one Hollywood giant known as Skydance - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdFA1Sm43WnNqUXFFUzdqVm5yZVF3d205aGJ5ZWVRTHNXNTJfZmZBSTlROTMwZUZjUTJJZlEwS2hWX3p5WTBqUFUzWmtudzFBSGlHRHRZdkhIMVIxMnRwV3ZwTkQybDdZcGRGcFdDdm9YaDV5eXY5al9xNHBIZjZMc01MTVRnNjdKVHN4dUxwY1pJUUdWcTlhYkNyc3dUd3Z2bS1tTEpvNks?oc=5",
-          "pubDate": "Tue, 06 Oct 2026 15:46:00 GMT",
+          "pubDate": "Tue, 06 Oct 2026 20:13:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "US stocks rise to a record on expectations for companies to make even fatter profits - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObWlELVRNejhENTAzbHNhaHh5SGFxOWwzcGhoVnNkWTdlOWo3c2k4TTNaVTM4YzFJOVFEUU1sb1RuTHk2R1dxbndjSUJmeFVhcXpuY2EweGNTQ1RiV3lXZkZvYUpDQ3dBbUNZdGc4cEQ0a2Y1THUzak1ZZ0U0NGtraUJqOFExUmxGT3ZpeGRYWEM?oc=5",
+          "pubDate": "Tue, 06 Oct 2026 20:04:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "French riot police fire tear gas as more than 250,000 rally nationwide for school funding - AP News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUnN2bXRwby0zM25GY1BlLXJKNW5CVzJ0SDNaSTdySmR6Y2pGa1o0dDJBY2NGVFNONjk2UDFqaVRlcnhKNmw5T3pncWNhMWpyYVNuMVZyRzVOYzdkZmRYeXRGUUxpSjNqdHpJQVFYcHR0WHl1RllNZGZEdEZicG5xdW1JemhvYkpSUlVSbjc0dnFYblpzbkMtUEloUy0wMGEz?oc=5",
+          "pubDate": "Tue, 06 Oct 2026 19:41:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Bulgaria's leader says drone attack hits 2 commercial vessels, and Ukraine's president blames Russia - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaU5DemRLSkhTVjNkckR2UjdISjRuV05vRjh3OHNUOWhTOUpQeDluSnl4QktrUHlad0VBakVfNjUzSHhnUXZvYXd4N1dydU96anliOERsckxiVWJVRXEtZXVyWGhtOEdDczl4VW41YndjczVKM0l0RnY1dGFkLTFETW4tZXhTT1R3UXI4dFVtVkd4dVltNlNiREdVRlVmSWxyVnMxYlI3enZqWHpIQVFZ?oc=5",
+          "pubDate": "Tue, 06 Oct 2026 19:39:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Cold War memories stir Rubio in Iceland as he champions diplomacy and downplays differences - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMXNEMzJ4RGJyN0o2cUcxSE9ySl9tRWVQcXZtVXVGZGxGRVBLbHA2Q3BoUDducTJWLVNyckNLWnNtOWxwWFA4R2FrLTBiZUJsQy1OZm9tdUdlQm9KNEgxMFZxalhqemZBOXRycXhBdXlDUXBTRXlncnd0OHMwRTlWTmRadG9aVlMwMnhPY1hteVZIZGVDWFhXc3l4aF83bHJKb0JiTnkxdlc?oc=5",
+          "pubDate": "Tue, 06 Oct 2026 19:23:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Saudi Arabia says 2 airports were hit in renewed fighting with Houthis and other Mideast news - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUEREcFpjTm9qdzNSb19SaFZQMl9aTzloS3g3QWY3bXhTR1R2anBNZFhjbElHVm1iSXFqT2RWU25jdzRkNGNZTDl5bnNGOVZyQlJNWHFBc1JqcFRGenVOZktzWVkyVHpmNEhRTEJNRXI3bkpfWW9nVlVuZUEyVmFiU0U5U2JoNnNYby13aHBXWGdCUUFHZ0JDNXFzeTRQR21abERHRW05ZVNuTW8?oc=5",
+          "pubDate": "Tue, 06 Oct 2026 19:17:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-06T17:06:17.813Z"
+      "updatedAt": "2026-10-06T21:50:28.952Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Brazil ex-President Bolsonaro wins big without his name on the ballot - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSGJQQTNfMUcycE9keHpsOGI5RDRCN0gxbm1acFllTlNBRnVCbWFHb2ExdWZPYUJWLWpHMDVxbk5JdUt2WDNFNGdIWDU3WUxVWnVjUzVWNHpzUTBYQTBVVTdWVE9ZNkJGWkhYbE5DNTVIcXYxY2tOYzBDNTRvR1JUV1ljVDE2WUxHZlZ5MXNaV3RfR2czSFNvcHgyYndHdGtEYWNFbU9oX2VqdTNEaUxNR3B1bw?oc=5",
-          "pubDate": "Tue, 06 Oct 2026 16:17:48 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US Treasury yields are \"screaming good value\" says PIMCO senior advisor - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWmVRdHA4bVRsVmVyUThxTVdUb3AzNklqYnNDS2JvVVVEa2hnbk1qaHVWcHBnN1Bya2piTTM3eEkxRWxrZVE4WDRidzAyZGFocEFVYjN6RENUWm9rbFBKQ1hQRlM5Qi12eTFKV2dxNF80MHF1Xy12NkR6SG9kcllSR2JlalFQZXdPYUtOeXhfMHlwdGdZbEZXTk96ZzhPS3MtUjFfRkNXNzFiWkJzTFNLTVJVQk8?oc=5",
-          "pubDate": "Tue, 06 Oct 2026 16:15:50 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Californians blast Trump remark that Iran could 'take out' Los Angeles, San Diego - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMTY3RjZOMDVYS2VsdWNRS0ZWR0FoRTU1V1MtQk8wLWdEMmdvTXYwVUxORXFpQXNFM25wbU9uVFFKNnhMSmlYUkFEQ0xhNnNKMk5hTjZURGhtV3piTlhieVVhb3h4N3hCYmtTQUVZZUh5dkhPaERqT0hFWXdPQl8wYVNfemd6VkZqSXVEVHQ0Q2NzWWpQUlVjVUhpdHhDWnZUMWl4RUZKTVplVWp6c3prRDhGZw?oc=5",
-          "pubDate": "Tue, 06 Oct 2026 16:09:57 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "S&P 500, Nasdaq hit record highs as Treasury yields stall, oil slips - Reuters",
+          "title": "S&P 500, Nasdaq reach record closing highs as focus pivots to earnings - Reuters",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ0p5VWxQQ0ZmUUI0Vk5wRUVjTUJhZjZGUlZjU2tWU1AtOEdqYjZ0OFRtRXNrUVdrTFlNZjVWdzluRjUyaWhHTlYxMG5Yc21pMHFubTdiX1RIRTRUSnB4UTZPckRMZTlzTHBEbkZKU1ROMTZpWE9lMXhPQkhyQmhBV3JNdkFrQVk?oc=5",
-          "pubDate": "Tue, 06 Oct 2026 16:02:59 GMT",
+          "pubDate": "Tue, 06 Oct 2026 20:47:55 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Police fire teargas as French school protests cause 'heaviest toll in decades' - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTmtvTm9vbkpQcVdlWl9Lall5TlIyS1g2aWpJSEh3Z0hKbzdOYmZkRUlNWVRHMkZsOFNaMkwyNjhpVEtfQW9vUjhnTV93VlRGOXVnOUg1M0loSmk1bzF2dFJldExORU9tYTdabmQtTWNMOHkxbWhLZUR4bElDYUp5bWN2RmV2bVhVYVB3WW1KLXJaRVREdVQ1WXpuMUJtUXFk?oc=5",
-          "pubDate": "Tue, 06 Oct 2026 16:02:08 GMT",
+          "title": "Yemeni government fighters shown driving vehicles over Houthi opponents - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdTUtR05NTWVJVFBWcjJmSVZRb0RuVXl6Zk5ocVBacHBIMm1yeWo2VWQ4U2ZqNVFPcTFqeExXUjFyMlpONkU5blQyekxfbGpwM3ZBay05dFU4WkRqZ3lIcmw3VG9UQ3NxSWczQU9qMjFRbHV3QVd3LXl3ZElxaHVRMkFVdHVfajl5SV81YkF1X1ZYX0ZNbW0yMFdjUWFnY3JTLXhZd1gzSU5pNTR5MU1mT0RneVlsLU1uaVdEd1lSRnd0M19Yd1JF?oc=5",
+          "pubDate": "Tue, 06 Oct 2026 20:43:50 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Google enters massive 3.6-GW power deal with Constellation Energy - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUGptbnU1SUxQWEJrRlFLQUhoSU9WMDhMQmhtZ29ZSGtMRHdvaFI4MGdJXzFWbmVuSHc0bFVkamJVTzBfY3VjRmVmNjN3ekpFMEtyS1Bxc2NMTmhiZlJGQUk5Tml5b2Q0NGZPc1REcExtWElITFFlOW01VWNETGMyZXVMM0x0cGJjWVFfaXZqSzlSNlUxdnFvVFNOMUg2ekVPRktkdVptSFRHa3lNcHREaktPU2RTZGs?oc=5",
-          "pubDate": "Tue, 06 Oct 2026 15:54:49 GMT",
+          "title": "Thousands of European wind and solar power systems exposed online, Dutch researchers say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYWxWNTRLdzc2eUgzMExZQzBtWkR5c25zT2s1Y0J0dFBONWlSeXRlbU9LRnNZM2JxSGhxdUJCSm1FTUtrLV9ZelF3aUFkWDN2YWJHbW01VVZKeGpSTUtuZURTUHZUX3JpZWw5Qm9EMVdpeFNnWVFJZ2hnbGEzUVFwMTF6bHpQUWtZV1BTUlFRRW1ib1MzbTlJVUlYREc3UXhuTXVFR25qLVNobnVJcW1McjlSblFjQlpaaWtSb3lQU1FXMWhoZkE?oc=5",
+          "pubDate": "Tue, 06 Oct 2026 20:40:18 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Former German spy chief arrested for attempted treason, obtaining state secrets - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObU8wUVdxRFgxQzZyTGZXbHhIOEhBTHAzR2luYTFzZDkyXzhLV21OZHhtYWFFd1c4TDFTZzFURFc1SzRPRFA2NlJaYm1VbFFNMU4yT2t1NHRBYW8zZmFXVW52clZJbWJVeVZfVHlfYVk4N2hRUnRxcHN3SFhFSHBPOHBIaVRGRkdaZWd2QnpNQ21QSU0tV3FhQlg1Z2tzZzM5MTRWazcwS211bTJrM3k0N0M3MkJLNmFZczE2RkhkaVkxOEhP?oc=5",
-          "pubDate": "Tue, 06 Oct 2026 15:49:40 GMT",
+          "title": "Cornell hires ex-Justice Dept official Yates to review rape claims response - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQWZ4aGFhZzhGZ21NLXp3WHJlT2J4MWtpakdMVlFDd2Vxb3hreWZFQWlwZ0lhM0NSNEotOEY2QmpCMFhOYVJCUWZyQlJrS3g0WjBjRWNkVGxNdEVqRlBtZmU5US1ueFM1U3EyaExfZWJzLWRQR0x6Sm5pSGZkcFFRdDZrX0VXMi1hc2lNMUg4X25pckJMdWViYkZxdDI0VzZpTVpSUE1jOTlrZGstdXJLS0M3eVhKelJBeUp1VEotNWtHa3M?oc=5",
+          "pubDate": "Tue, 06 Oct 2026 20:28:41 GMT",
           "source": "Reuters"
         },
         {
-          "title": "German bank board member to leave despite clean brothel loan probe - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWXk1cjRLUTk3Z1JXbTFiVndpZzlfdFRLb1lmUV9YWC1INHZpbDRycnhTYk45YU44UVFQa2szeFQ0ZmtMZElJSHlnMVNrNVctYWRCZ1p1d2stWjVBcFU5QVhBNDZabzlPbEhta2s0TGlrTlB3VTktRGZyaWlGUEVSMkdEbEtnZHhTNm0zTUlBeDQzWlU2VGg5amlkZWpJUk5BSkt0MGhyQXdCUWpWRFNnYzh5bmpadw?oc=5",
-          "pubDate": "Tue, 06 Oct 2026 15:49:15 GMT",
+          "title": "Hungary to open Communist-era informer files in reckoning with Cold War past - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdEFPeDRfbnBwcW04aVlWbEVyR09YN3BfQzl1ZDhjcU8wRzdpUUc5X3FVMlZVVFZqM3lYemc2MHBlT1VzdGpjTkNieVdJWkdwZlg5clNrWjExck93SktBSC1lMGtxcmNKMk03QnFrVklJYmp1MXJwek9ZcVZXdGJPeDB3SzB6MkhobFNPSloyaC1tckttT0pFcThTaEJEMXdDQUtyOXhPR2tNdEwzTW5YMUZjeUtkYUttOWVydDR4NzBkUjZoS2ZnRA?oc=5",
+          "pubDate": "Tue, 06 Oct 2026 20:21:46 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US Justice Dept tells staff to call AI 'super intelligence' under Trump order - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPN0M0T3dic0tvbGhzbmx3WVNKNm9iU2l0ZUNBUk5jbzZCM24zT0FOV3RFYXpVQ3NPS1BuMU1zOXNzSmdvbE9falZVOTZja2hqMGtVQWxpXzg2VE15T1FVT0pCc0NLRVowMnBKY0J4dTl0WkJTWUlsbXFOeE1VZjJTUlpEOHlldTE3MTdrMGVRQjF3NEo1aDZxUFNJa21Zb0hMdWFLSjY5dVA5YUlBQjltbmcwSDRZV1M1S2xPQUtWSXVGd2M?oc=5",
+          "pubDate": "Tue, 06 Oct 2026 20:13:08 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Paramount wraps up mega Warner Bros merger to create Hollywood powerhouse Skydance - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPU3FqSTVKTlVKYjhpTElEZG96U0k0V2hxWGFYNXk5emE4XzN2Ukpyb0dSakdPLWxoVnMzUE9uV3dmb3ZxM2x4ZE9ZNllUYjdKMElxdGFjSDdLYkVwdmY5R0FoQ3hEVDY0R2dySWdkNUhSUzNLZXg1QklURkQwY2RrUElRVWNUaFFhbC1HSXUxQ0Z5bERVYUdwLV9ZeHJ1X1YwY2tJM0ZhTm9WUFNoQXN6Y2FPYkxCUldRb0ZwNFNmUkNNaHJNSHhpc0lFaVVuS1l1cmdyUA?oc=5",
+          "pubDate": "Tue, 06 Oct 2026 20:04:10 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US Senator Murphy says Pentagon denied him access to US base in Qatar - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMkNYTFZmdFZrdzNHWDNNVHZNMmJCWWtHVHc5OHFzbWhLNHNKY19HdXlZUUhwZTRUQ2E3TlVKSjBMV1p5RVRyOTc1OWZ1M2RMMmRrN09GcUgtNUlQQjA1UGV0dUl4UXNSeTdxLTN4eUw0d3lwQ2VqVWg3T0ZSbVVSZUVxR0Z2UVBvU1I1Nm9BTkIxRWlpNzNYQnlfRDBKZ0RTak02YmxZWlVoekFO?oc=5",
+          "pubDate": "Tue, 06 Oct 2026 19:56:04 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-06T17:06:18.264Z"
+      "updatedAt": "2026-10-06T21:50:29.374Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-06T17:06:18.467Z"
+      "updatedAt": "2026-10-06T21:50:29.664Z"
     }
   ]
 }
