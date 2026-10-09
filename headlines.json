@@ -1,13 +1,37 @@
 {
-  "generatedAt": "2026-10-09T01:06:15.975Z",
+  "generatedAt": "2026-10-09T07:54:07.689Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says",
+          "title": "Firing squad execution to be livestreamed, Pentagon says",
           "link": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 08 Oct 2026 23:35:57 GMT",
+          "pubDate": "Fri, 09 Oct 2026 07:05:05 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Russian strikes and approaching winter force many in Kyiv to pack bags and flee",
+          "link": "https://www.bbc.co.uk/news/articles/c6zjx7jexz1do?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 09 Oct 2026 04:53:50 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Cars torched and shops looted as anti-migrant violence erupts in South Africa",
+          "link": "https://www.bbc.co.uk/news/articles/cwm24v45p4jgo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 09 Oct 2026 04:44:22 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "ICE agent shoots man in New York City",
+          "link": "https://www.bbc.co.uk/news/articles/c59vzk9yypn3o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 09 Oct 2026 04:26:19 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Adidas sues Australian label White Fox over four stripes design",
+          "link": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 09 Oct 2026 03:36:41 GMT",
           "source": "BBC News"
         },
         {
@@ -17,48 +41,42 @@
           "source": "BBC News"
         },
         {
-          "title": "Suspect linked to Monaco bomb attack on millionaire breaks silence to BBC",
+          "title": "Suspect linked to Monaco bomb attack on millionaire speaks to BBC",
           "link": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 08 Oct 2026 23:11:10 GMT",
           "source": "BBC News"
         },
         {
-          "title": "What Americans think about the death penalty",
-          "link": "https://www.bbc.co.uk/news/videos/cjx236wl9416o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 08 Oct 2026 21:49:14 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Outspoken Indian actor Nana Patekar dies suddenly at 75",
-          "link": "https://www.bbc.co.uk/news/articles/cj3vqr5rknpeo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 08 Oct 2026 20:38:11 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "BBC on Hurricane Isaias and its expected Gulf Coast landfall",
-          "link": "https://www.bbc.co.uk/news/videos/ckz65l2gne1po?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 08 Oct 2026 19:39:32 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Protesters blame 'vulture funds' for Spain's housing crisis",
-          "link": "https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 08 Oct 2026 19:10:06 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Adidas sues Australian label White Fox over four stripes design",
-          "link": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 08 Oct 2026 18:17:28 GMT",
+          "title": "​​USS Lincoln finally docks in San Diego after 10-month mission",
+          "link": "https://www.bbc.co.uk/news/videos/cwp8gnp14xr2o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 08 Oct 2026 22:26:10 GMT",
           "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T01:05:57.699Z"
+      "updatedAt": "2026-10-09T07:54:06.603Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Christa Pike is walking with help and eating after failed execution attempt",
+          "link": "https://www.npr.org/2026/10/09/nx-s1-5996402/christa-pike-updates",
+          "pubDate": "Fri, 09 Oct 2026 01:52:50 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Pentagon says the firing squad execution of Fort Hood shooter will be livestreamed",
+          "link": "https://www.npr.org/2026/10/09/g-s1-147419/fort-hood-shooter-execution",
+          "pubDate": "Fri, 09 Oct 2026 01:35:41 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Isaias strengthens into Category 2 hurricane on collision course with the Gulf Coast",
+          "link": "https://www.npr.org/2026/10/09/nx-s1-5996396/hurricane-isaias-updates",
+          "pubDate": "Fri, 09 Oct 2026 01:20:03 -0400",
+          "source": "NPR"
+        },
         {
           "title": "OpenAI caught Russians and Iranians using ChatGPT for influence campaigns",
           "link": "https://www.npr.org/2026/10/08/nx-s1-5995576/openai-russia-iran-influence-operations-chatgpt",
@@ -88,138 +106,120 @@
           "link": "https://www.npr.org/2026/10/08/nx-s1-5995360/venezuela-nicolas-maduro-torture-charges",
           "pubDate": "Thu, 08 Oct 2026 12:05:37 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "4 people on NASA's Crew-12 mission return to Earth after 8 months in space",
-          "link": "https://www.npr.org/2026/10/08/nx-s1-5992845/nasa-spacex-crew-12-international-space-station-iss-splashdown",
-          "pubDate": "Thu, 08 Oct 2026 11:34:39 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "White House correspondent April Ryan reflects on reporting while under attack",
-          "link": "https://www.npr.org/2026/10/08/nx-s1-5994416/white-house-correspondent-april-ryan-reflects-on-reporting-while-under-attack",
-          "pubDate": "Thu, 08 Oct 2026 11:24:23 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "South Korea to recall its ambassador to Ukraine over North Korean POW dispute",
-          "link": "https://www.npr.org/2026/10/08/g-s1-147115/south-korea-to-recall-its-ambassador-to-ukraine-over-north-korean-pow-dispute",
-          "pubDate": "Thu, 08 Oct 2026 08:13:54 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T01:05:58.166Z"
+      "updatedAt": "2026-10-09T07:54:06.677Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Yankees swept out of the AL Division Series by the Rays, extending their title drought to 17 years - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTUgxdDZkMFJBTnVXOUVIZU1LZlpOTk0tc2lnemlnLWZYRXQ0bUNnb2RVeG5qaktjVUdraTdqaHRHX0U1MmtHejBTQXJsd21VNDZUUkRabnVfZC1RNmZtUmp5OVVvRHpldVNPN1FEN08tS0xQdEJYYTV3a1JiQkFRN0FsY3A4SzV4QXRZ?oc=5",
-          "pubDate": "Thu, 08 Oct 2026 20:25:00 GMT",
+          "title": "Residents board up windows and National Guard troops deploy as hurricane Isaias nears US Gulf Coast - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNzlTM0pnaG9JM2k2Z19LSllNREhMckxuUE15MnZZdHZMYVUyendPbnBOejU3bS1RWXdJZXFPZllWb2hOMGdHS2ZPMTFqMTdGRFM4Yll1blQ2M2xMWC1YLTR4OVhsTVdyTUxkdm5CN1RUTXltMUpMdlhuLVoxcUVyTDFqejZyeTdvRHY5WGFMLURMTWRBZ1poYUl1WVI3VTMwajI0UzgwTzBKaU45eTVianM3eHhKSWtGVWc?oc=5",
+          "pubDate": "Fri, 09 Oct 2026 06:16:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "A US charity plans to use AI to monitor its Gaza classrooms for ‘hateful’ speech - AP News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdldvRXFLLUlXaVhvU2FPSmhWM2t2V2x3cXlLSjhOQ19xOFZra0ZoaWxyakxpaURmdk5hYWI0amZGcU5FcFZBTXBTWXQ2UTlrMEo3TTFtcUxpcEhTZHRlZDlBVGRGYjJyUDVyOC15d0JXcEE2WUZ4RXRzZ2E2UjlqcVpONFdyeWN1YXQ1ZGdXTEdXNVNXcjh4SC1vb2FoS05v?oc=5",
+          "pubDate": "Fri, 09 Oct 2026 05:12:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "ICE officer shoots a man while making an arrest in New York, officials say - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQenRITllJRDlOSU1JcTdZSlQzeVZOdTFwZW1DM0Myc0ZlY01EVk4yQUctNktRWnF5cDRnTDQ1YmFsNWl3NGUyMUs3TUVKcUk2ZElKeTU5LTRna0t0MWl1SE9uV0VjWnlweXBQQVhycVJqZVRrS05fdkxUYWNJckxzNkxmaHBrbzlmcTBOelJkRUpVMlRxcUxN?oc=5",
+          "pubDate": "Fri, 09 Oct 2026 04:19:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Man with a gun and knife is fatally shot by security at Nashville federal courthouse, police say - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRHRNYm1zeFNYYmRqSjMtOWp0Ty0taEJPNldhdVlDQUFHUHdhcVlvNjM4T1ZXUk5LdkV3ZGFPVE9zU0lBc0ZHcy1IZ2tTSzBQQ1piTGpwc0ZnaHF2cThGWVkzcVJTR3dkbUNFMTBhTmhqcHpINWpwMWFxRW16UTNDRGluQnNHX3BrX2ItaUFoT19lX2c?oc=5",
+          "pubDate": "Fri, 09 Oct 2026 01:59:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "NHL Scores, News & Stats | Latest NHL News - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE95bFRBdmVKUk5rWWVXSkN6WVgzRzA2S3RDQ1o3eDYxWFBISC1MSXdadkNXMy1LdU5yTEYtbDZ4SQ?oc=5",
+          "pubDate": "Fri, 09 Oct 2026 01:51:34 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Pentagon says the firing squad execution of Fort Hood shooter Nidal Malik Hasan will be livestreamed - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNFlfYXBjMDRKS0YzTHZFdFBOSGE4bGxpTEt1aXcxeHlSbktpNjVPNUd4QVVOYjlCNUd5NnBBS3hldGlhYXc5ZlJFWWZCa0JqcUQ0dUZETzJTeC1idVU0eDRkNlRBLWtWNmtTSi1RWFFfb2pKVnRrQjBZTnRpZk85dWhxZi1TSXRLVm9BdHhfbVBaOWRVTVIxUTM4a1o?oc=5",
+          "pubDate": "Fri, 09 Oct 2026 01:01:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Russian strike on Ukrainian public buses kills 30 people as blackouts worsen in Kyiv - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaGM3aHZDQkZDenB1TkllejNyZzlfdkRySTdKb2J6QjdhQ2phcXlhR0dfYzJyQkhaTWxOMHQ0SnpOeGZ5TDZXMm8xbC1RVUZjNUFTZFNqajFtcFI3YTllZWFFcHRjbnk4NTdLcFZfa3hObkdSbHFUU05Wdl9qYTB0RUV1OVh4aDVLTUpzTEFRaWcwVlNSM0tVSGVUWUpxVm5MR3FWSkgwTWk4aWpwR1Jz?oc=5",
+          "pubDate": "Fri, 09 Oct 2026 00:37:00 GMT",
           "source": "AP News"
         },
         {
           "title": "The Trump administration is suspending Microsoft from a green card program, alleging fraud - AP News",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSlNGOUJHbkJ0UXdETE9EUWMySjZkMWVzX3V6Ny1yNlc1Ym4ydmx5NXY2UEJyak1mNVROdkRqOTNGY2kxT1BrQUwyYVRzSmlDNlVIa0xnenNUM2cyWjg2NTd0Rl9seW1JOVFuRHczVk93M2RkOWdDOUV0Sl90WjFJeEZEeWNTUFFvNkNkRU81alBOWlltQ1VN?oc=5",
-          "pubDate": "Thu, 08 Oct 2026 20:24:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Rising oil prices, falling technology stocks and reversing bond yields keep Wall Street unsettled - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNVZ6OTdhWTZlWUJFbTdTSHZOeG1lZEV3UEc2RDdhOVNqYjFWcTFwWUU5Qlk0RU5nTGlTMi1Tc1N5N3ktTGFiYUJUeWtod1lMbHJQQjcxMElFRjZHTlJtd0hlT2V5c0xVS2xqTkdsczJ2cG96NWlsMDEyZjc1TXAyUnhnTVd2RnVPQ1pHM3VXazc?oc=5",
-          "pubDate": "Thu, 08 Oct 2026 20:18:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Taliban firmly in control in Afghanistan 25 years after US-led invasion to oust them - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOajY2TEtyTnNWa2hjdUNMeG5nYVZEOW9RTXphdkZUcWRSSVd2Zm1lcEZGbHRNTnlVbFltTFJ0dFlmUDZ2VTg2VVo4bVBpZTJuS3drcFY5dWtaOVk1ZUhaLU1RS3pEb1FnS25RWWgwUW5kVXE4eEZyZlpiZGZiTWZpQ2tFSXYtWkdjdTNJYlU0Y3Z2YjYtLTNzbDh3Nkg3T3dsdHJ3cVRJOE5kY2M?oc=5",
-          "pubDate": "Thu, 08 Oct 2026 19:31:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Hurricane Isaias is expected to strengthen as it barrels toward the US Gulf Coast - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNzlTM0pnaG9JM2k2Z19LSllNREhMckxuUE15MnZZdHZMYVUyendPbnBOejU3bS1RWXdJZXFPZllWb2hOMGdHS2ZPMTFqMTdGRFM4Yll1blQ2M2xMWC1YLTR4OVhsTVdyTUxkdm5CN1RUTXltMUpMdlhuLVoxcUVyTDFqejZyeTdvRHY5WGFMLURMTWRBZ1poYUl1WVI3VTMwajI0UzgwTzBKaU45eTVianM3eHhKSWtGVWc?oc=5",
-          "pubDate": "Thu, 08 Oct 2026 19:16:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Strike on Ukrainian public buses leaves 30 dead as blackouts worsen in Kyiv - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaGM3aHZDQkZDenB1TkllejNyZzlfdkRySTdKb2J6QjdhQ2phcXlhR0dfYzJyQkhaTWxOMHQ0SnpOeGZ5TDZXMm8xbC1RVUZjNUFTZFNqajFtcFI3YTllZWFFcHRjbnk4NTdLcFZfa3hObkdSbHFUU05Wdl9qYTB0RUV1OVh4aDVLTUpzTEFRaWcwVlNSM0tVSGVUWUpxVm5MR3FWSkgwTWk4aWpwR1Jz?oc=5",
-          "pubDate": "Thu, 08 Oct 2026 18:58:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "The long-deployed USS Lincoln is returning home to San Diego - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaXpmdmZOT25ZT1RrbXRKYnRQY1VxbGR5WkFIVzMtX2hSU19MSUc1cHpJWDlJU0tkLVZOa0hNMlhXNlJxMjFlLWJiTUtlMy1nNnpwdlV3U3FYcUtBaU1OZXNxeEJjVjZxUWltUXBtX0xKME9LNjlVRDFsYWZWT2xXQW91ZlFPbDdlRlZJQzNwSjRJdHJP?oc=5",
-          "pubDate": "Thu, 08 Oct 2026 18:36:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "New US indictment charges former Venezuelan President Nicolás Maduro with torture - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOU01tbGJOMTBRYmRuQV94STRSQ2RYM1FWWlYtMUZfSEk5SHkxYjI4bW1yYjV1TWpGSTYtWkkwYXhRSDRzUEhwbUhwWVVlbmlEV3RXM2p5U1h1WnpYbWJXU185TFhWcFVfM1dOc2tiZk0zSl91VTNyLWRKM3ZpQlpYWnNEZXVHMUxlb1REbmQ1SWt0SUxf?oc=5",
-          "pubDate": "Thu, 08 Oct 2026 18:33:00 GMT",
+          "pubDate": "Fri, 09 Oct 2026 00:07:00 GMT",
           "source": "AP News"
         }
       ],
-      "ok": false,
-      "updatedAt": "2026-10-08T20:36:34.303Z"
+      "ok": true,
+      "updatedAt": "2026-10-09T07:54:07.166Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Genre-defying Canadian poet Anne Carson wins 2026 Nobel Prize in Literature - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbUx4U0FuVzFvSF82M1NoMW5JQ3AwNzVjaVBDRXdoNGxrRmg0NjgtZmZscTE4S1VCMUhoc0hOMHB0WFc2NENraU9iaF9ZUjZwNzNwSVFXWjNKc3NELV8wX2huMVlnV2lVYkdlRFJQQXZiTlBNYXNSSmxSNmhsZ3dqZmN3WGNZb1ZBczJfdktMT0ZyR3RwZGNuOGxXeHQ0WlJ1bU9OTGhXN01SUQ?oc=5",
-          "pubDate": "Thu, 08 Oct 2026 20:27:59 GMT",
+          "title": "India's Aditya Birla unit seeks $1.5 billion in rupee loans to buy Shell arm Solenergi, bankers say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYnVZWEJRVFBzT0I4Um1xQnE4UEY0eVg4emROS3VSNm9Rc1UtWndXa3JNa2NUWXdnZ01ZMS11MnJxUS1QUW9oM3N3aHFBLVBQWXJENWJXRzFrOXl4MHdDWDBiT0hObEhiVktWa2lJUmNyUXVtdkhPRlY1ZUN6aGF4a0gyWXRWb2FROUVDMnNOWWY3RjJqM3IzMEQ3R1l3WmpvYWVYMFliZkN2dzNrWkpUaTdYSkpWNFlibldB?oc=5",
+          "pubDate": "Fri, 09 Oct 2026 06:08:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "South Africa blames disinformation as anti-migrant protests turn violent - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZi1Tb0dTam9SSWpWUXhUaTFRQVRqN2g5bjdMNmJlMFVBTjRjMjd3VGMwMkVmdjUwdHpLZjYtZ3o1SHNRRDNWTkRSeDY2OXBpcHE0RTc2M2RZUWZPbF93QVNnNEh0ZUQ1OU50NVh5YzJadWx2bDducGpUNzNzMGxNLTdmMmhMVzAwYS02VVZHVTM3S2NvM3JJX2J0aGFLdnBWYUtCcWNpdW5zc25OalY5bm1yTGNBSnI1THEwd2NHOGM4dw?oc=5",
-          "pubDate": "Thu, 08 Oct 2026 20:05:59 GMT",
+          "title": "US 10-year Treasury yield risks hitting 6% for first time since 2000, Pimco's Ivascyn tells FT - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUjhNTkZmR2Q2NmQxSkRZWDVRT2tRbW9BVld0TnI1NDdyV043dmMxeElSakg2LTJRNUNJMzFxRG5pbW1xVFFaLUNQYkRFWDBwM3NHay1wNWpsT3l4ZUFlTDVJN0tUM0FCX1lYSGtjX0JFU0pSYzF1NmtvcDY4THJtZEFCYWNDT21lWFcyd1kzUUt4LWZOWXVrME1rOWhhN2RHWjZrYVYxbnJFb3BzN3loZ0pKdFVMT3E4RXN0dEpRSjlPVTg?oc=5",
+          "pubDate": "Fri, 09 Oct 2026 05:27:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Thousands of Spaniards march to mark death of octogenarian at heart of housing protests - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNkRyc0lCN0dMWWk4YU1fR3lENlpRQWRUQkpHVkJSRVZsSVltajg0cFl6OXJBRnJOdXZKOEREUkhVWDJGMnBSS3Bqb3NIUGYxNUVyd2Y3cEFqT1p2R1ZfeTR6Y01vWTZPVEFlX1FhNWRaNUE2Z3pZVkx0TzZOM0tUbU9WX25wUWNGdVFpTG41QkFaWm5NVjVQX21xMjQtUzdWVG9RTjBNYnJIeDFkekZGOGRhSDVCOXFXcWV0bEVJNTZDOWthZTdJ?oc=5",
-          "pubDate": "Thu, 08 Oct 2026 19:57:40 GMT",
+          "title": "Soaring freight rates threaten Asia's appetite for US crude - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWHB5MmVsckd4NE1GOUViUGJseU5BaUhrTmlTbWZTRnZNaEh6OTc4X2RBTmFhNks1dzlRN29GZ2trS0h5S1dVb3VKcmNwVUZLR1FEWVU1c04wOGJsQTU0YnBUS3pTUnVkX2VSSEp5eDNhOVc5SDZwVk1Oa3NTNk5SNVNKQzdwLWNJYjZyX3RlVEo4Wnd2RU5vNTlMZjNPS3ZQWThPUUxKb3VXUQ?oc=5",
+          "pubDate": "Fri, 09 Oct 2026 05:25:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "AI pricing lawsuit against McDonald's raises new antitrust questions - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdW50LWFCUWhGeXBDQTNMbHFXMU85QVN0LS1FZmg4QWQ0RG5QRnNsZ0FmWWVFU1VRZ1RiSHdhdnJlMU1vcEwyV1F6SGlvNWVyOGZUNmp0a1hTMG5YaUk5emRRTmtXd0VQdUtsVVA3UFRtT0gtVkFUVnFFOW1lZDlvYVBDdC1hUm5fOFQzT3dhQVdzMFZ3SVA1Rk1YQmdsVV9faWpjLTdHRDVwTmJFUGd0QUdR?oc=5",
-          "pubDate": "Thu, 08 Oct 2026 19:56:11 GMT",
+          "title": "Record Chinese turnout puts European carmakers under pressure at Paris show - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeGNyYndWNklMOWpwZlJDc19MZWxKLWRYWEpzMnJtYS0zVHpTNXQ4U3ExcWd4Y1p1TjFhZTNiTk8xWmZqYkR1aXRuMlF5dnhXaUV6S0kzUjZKWmhEaEZwNDJZTDl1bTlleE13eUZJa3phbWVuS1dhekZSMWt1YjVGOEJhd25COUdWWU9zZzgxQVU0WFNXSG1HRXFMM2hyT0JpT0gyTDdvb0RfdDdobWRyZ3ZCZWRwSGZRMlpmeGZBMzNteXlSZUtDMVZJYUNEVjFURE1SVQ?oc=5",
+          "pubDate": "Fri, 09 Oct 2026 05:04:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Starbucks has explored Chipotle takeover, FT reports - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTmJ2Y2FjX1o2WTBVR2hCcExURmtYMDRzYlhrcE1OZnBqOGVXLUhOUHp1dVF3UFFnaEM5aF92dmdNcHVBRTJ5MFFwam9abTcyTlprT0J3NVhhVzRpNnpSWHRIUTI5NUZ1Q3dvOFd0RkxjeS05ZXQyaFpxYVpxcXZRUDFhczZKb2xtd1hiV1RFc0lBOUlzRjF3?oc=5",
-          "pubDate": "Thu, 08 Oct 2026 19:17:50 GMT",
+          "title": "Wealthy French quit failing state schools squeezed by pensions and austerity - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQ3hSM1pvQkJXcDQ3MEtnLXVOejBYSUVHVXFwbWRMV0ZwRGdkd1JST0VGclVTc01uUS1JcmVJczhlU1Nabms2a3k5anNQaG5aSW5NRDNGSmFOeXRYVHlnNjFtUzF4a3R6Wk1pYlhzREZ5NDQwSVRmb0Z6TVRqMVhQR2JaYUd1Q0RibE1lQkw1b29LbWh0elB3U0VvbWNyMVMtTHI1cHpQNFBIN3RuVFJqRFRySXcyME1NYjdXQzd3?oc=5",
+          "pubDate": "Fri, 09 Oct 2026 05:03:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Anthropic launches dashboard, animation tools for Claude - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbHVwaVJjdGlQNnJKRlNkNUdmMG9SSlZPRVVGd0pqcFJkMHY5Q0xTcEd1RDJtUWl0N1dXSHFvTVpDYk9DN2xqd3cwa1BMa0Qta2EwSm9pQ1Z0WmFyRmxyT1F4eERULWtaOVVyd3NrXzZSam1wdzlSWUFTcmNLNUQzYmZzeW9VRW44dE05Z0JYQS1KQTQ0ZDRWelktQWZOQ0k?oc=5",
-          "pubDate": "Thu, 08 Oct 2026 19:08:01 GMT",
+          "title": "China's tax crackdown piles pressure on luxury brands as US spending falters - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQVVQS191Y0hYUXlXZEdWMjhqWWVKTXU2R1l5NF9IQTFPVWFDZE9ncnhZcHM5allacTh1dENFbnc5a3MwVHJaU3NSOWxMaW5FTzkwMGpEOHE4aTdYT0RPMnYxMWk3YXdaa1NDZUxIVjBTYXBHc2lZcndBRDBoeTRROXVVOENldjI5ck02NXBvV0pCWXBoRmZPekNPcGVLMDhhaWFsZGpZeDZoa080Y05mYTZ1RW10TjMwUDdfVm40cy1VRWM?oc=5",
+          "pubDate": "Fri, 09 Oct 2026 05:03:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Explainer: The skilled foreign tech workers' green card program under attack from Trump - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQd1hHTXgzeWc3WFZOUDJMdFg1dGQyNFhDSVBwZV9sTHliMzUwcjltTVNvWlowXzBfNUFwcHRMcHpjbnFOQ1NsUDd4U3hHU0d5MHNFek5HN3dIeXRZSWJqWDdvdlY2OEdMZm9La3BBUU80SVE2Y3RiMTEtZlNBSWZkMFNPdjVTQXBYWXdoZEF6dnJvbjVHcDI2WlJXS3lsem52b1dkM2c2UW1PZ1o0?oc=5",
-          "pubDate": "Thu, 08 Oct 2026 19:00:52 GMT",
+          "title": "Africa's biggest IPO exposes continent's cross-border investing barriers - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUUhhRlZTbEhSTUdkdS1Kam5KSUd4SkUwVEM3RG0tWWE1MHJTYXhPN1RwT1ZGQjlJVjlLbGtVMW5JRkVISEJPSzc1Y3pQUFFQcGptbjVwU28zVXBVNXFaNjJZcTBvZ0M5dndfaW5pUHNxb3ZXM25PSmY2NTZLUF9ZVjBFV0JyZDF0VWlYT2xTbTl6R2JUTDBUOGYxQ1drMWVINXl3T3UtNnJiZVVNSHFTUWJzQUVzeTJqOHhNemFVbw?oc=5",
+          "pubDate": "Fri, 09 Oct 2026 05:03:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Data centers' 'flexible' power usage could save the grid billions. Can they scale? - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZFlHUmY3dFNOSDEtZ1c3ajk4WjBoemNnTDRycHZzZjA4LXRyWUFkcmhNakpULW9JejN5bGVQcmpLZUNhZXYwTUROUXJGRk1RdG91b2JORGlQLUVkdDUwaGxOWm5TQ0JZekg4bzNoMjVoNTVsWTNiNHliOEpnVWU3cWVqcEN2YzVKUXJIZ0hSMk5UdUpsNkEzbUV0dmtNRm9QSzh6TTJ0MUdtSVRlMkRjY0pORHROQWUwVkpDclFuLTNaOE0?oc=5",
-          "pubDate": "Thu, 08 Oct 2026 18:57:55 GMT",
+          "title": "Morning Bid: Feeding the AI beast - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SU3lNd0l2bXdXNXN6Vks2OXhwb3NaYlNpQWQwNUVXRmxxR2p4SWhvVTlKWVFXQ1VBbndBRkY0dGJhOGdyRGszWVVoR0pEalJzUFpKblY5WlZsajZZdXR6eHRXNVQ2eFhIdTE0cEhTcng2QmhEMlpfY19pODhXTWc?oc=5",
+          "pubDate": "Fri, 09 Oct 2026 04:31:00 GMT",
           "source": "Reuters"
         }
       ],
-      "ok": false,
-      "updatedAt": "2026-10-08T20:36:34.753Z"
+      "ok": true,
+      "updatedAt": "2026-10-09T07:54:07.581Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T01:06:15.975Z"
+      "updatedAt": "2026-10-09T07:54:07.689Z"
     }
   ]
 }
