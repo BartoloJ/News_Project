@@ -1,9 +1,45 @@
 {
-  "generatedAt": "2026-10-08T20:36:34.878Z",
+  "generatedAt": "2026-10-09T01:06:15.975Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says",
+          "link": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 08 Oct 2026 23:35:57 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Mark Zuckerberg has an image problem - so why is Meta's business booming?",
+          "link": "https://www.bbc.co.uk/news/articles/cq8rzjv8g7ejo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 08 Oct 2026 23:14:02 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Suspect linked to Monaco bomb attack on millionaire breaks silence to BBC",
+          "link": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 08 Oct 2026 23:11:10 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "What Americans think about the death penalty",
+          "link": "https://www.bbc.co.uk/news/videos/cjx236wl9416o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 08 Oct 2026 21:49:14 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Outspoken Indian actor Nana Patekar dies suddenly at 75",
+          "link": "https://www.bbc.co.uk/news/articles/cj3vqr5rknpeo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 08 Oct 2026 20:38:11 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "BBC on Hurricane Isaias and its expected Gulf Coast landfall",
+          "link": "https://www.bbc.co.uk/news/videos/ckz65l2gne1po?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 08 Oct 2026 19:39:32 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Protesters blame 'vulture funds' for Spain's housing crisis",
           "link": "https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&at_campaign=rss",
@@ -15,50 +51,26 @@
           "link": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 08 Oct 2026 18:17:28 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture",
-          "link": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 08 Oct 2026 17:38:59 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "US deportations to African countries unlawful and exploit suffering, rights group says",
-          "link": "https://www.bbc.co.uk/news/articles/c9p8gn55433jo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 08 Oct 2026 17:16:32 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Outspoken Indian actor Nana Patekar dies suddenly at 75",
-          "link": "https://www.bbc.co.uk/news/articles/cj3vqr5rknpeo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 08 Oct 2026 16:54:37 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
-          "link": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 08 Oct 2026 16:31:29 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Zambia signs US health deal after disputes over data-sharing",
-          "link": "https://www.bbc.co.uk/news/articles/cqd09eyk0g8no?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 08 Oct 2026 16:24:05 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "South Korea recalls Ukraine envoy over prisoner-of-war row",
-          "link": "https://www.bbc.co.uk/news/articles/ckwy48rrz95vo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 08 Oct 2026 16:23:09 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-08T20:36:33.492Z"
+      "updatedAt": "2026-10-09T01:05:57.699Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "OpenAI caught Russians and Iranians using ChatGPT for influence campaigns",
+          "link": "https://www.npr.org/2026/10/08/nx-s1-5995576/openai-russia-iran-influence-operations-chatgpt",
+          "pubDate": "Thu, 08 Oct 2026 20:25:15 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "The long-deployed USS Lincoln returns home to San Diego Bay",
+          "link": "https://www.npr.org/2026/10/08/nx-s1-5995911/the-long-deployed-uss-lincoln-returns-home-to-san-diego-bay",
+          "pubDate": "Thu, 08 Oct 2026 20:05:48 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Suicide is up among Black Americans. We need to talk about it.",
           "link": "https://www.npr.org/2026/10/08/nx-s1-5963905/suicide-black-americans-discussion-analysis",
@@ -94,22 +106,10 @@
           "link": "https://www.npr.org/2026/10/08/g-s1-147115/south-korea-to-recall-its-ambassador-to-ukraine-over-north-korean-pow-dispute",
           "pubDate": "Thu, 08 Oct 2026 08:13:54 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "South Korea test-flies its first domestically developed hypersonic weapon",
-          "link": "https://www.npr.org/2026/10/08/g-s1-147113/south-korea-test-flies-its-first-domestically-developed-hypersonic-weapon",
-          "pubDate": "Thu, 08 Oct 2026 08:01:34 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Isaias intensifies to hurricane. And, judge orders Pike execution evidence preserved",
-          "link": "https://www.npr.org/2026/10/08/g-s1-147105/up-first-newsletter-hurricane-isaias-house-elections-christa-pike-nidal-hasan-cnn-ms-now-politico",
-          "pubDate": "Thu, 08 Oct 2026 07:35:22 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-08T20:36:33.747Z"
+      "updatedAt": "2026-10-09T01:05:58.166Z"
     },
     {
       "name": "AP News",
@@ -163,7 +163,7 @@
           "source": "AP News"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-10-08T20:36:34.303Z"
     },
     {
@@ -218,7 +218,7 @@
           "source": "Reuters"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-10-08T20:36:34.753Z"
     },
     {
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-08T20:36:34.878Z"
+      "updatedAt": "2026-10-09T01:06:15.975Z"
     }
   ]
 }
