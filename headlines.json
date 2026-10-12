@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-10-11T22:20:48.511Z",
+  "generatedAt": "2026-10-12T01:37:55.796Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
-          "link": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 11 Oct 2026 21:36:40 GMT",
+          "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
+          "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 11 Oct 2026 22:45:58 GMT",
           "source": "BBC News"
         },
         {
-          "title": "Saudi capital airport hit by second Houthi strike in two days",
-          "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 11 Oct 2026 21:30:11 GMT",
+          "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+          "link": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 11 Oct 2026 21:36:40 GMT",
           "source": "BBC News"
         },
         {
@@ -54,11 +54,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-11T22:20:47.293Z"
+      "updatedAt": "2026-10-12T01:37:54.541Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Tropical Storm Rachel downgraded as high winds and rain turn inward",
+          "link": "https://www.npr.org/2026/10/11/nx-s1-5998124/tropical-storm-rachel-downgraded-as-high-winds-and-rain-turn-inward",
+          "pubDate": "Sun, 11 Oct 2026 19:54:21 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Pope Leo XIV to undergo lung surgery this week",
           "link": "https://www.npr.org/2026/10/11/nx-s1-5998027/pope-leo-xiv-to-undergo-lung-surgery-this-week",
@@ -100,91 +106,97 @@
           "link": "https://www.npr.org/2026/10/11/nx-s1-5995238/jobs-employment-economy-unemployment-benefits",
           "pubDate": "Sun, 11 Oct 2026 05:00:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "In one of the country's most competitive districts, a Democrat tries to keep her seat",
-          "link": "https://www.npr.org/2026/10/11/nx-s1-5968691/midterm-elections-washington-congressional-district",
-          "pubDate": "Sun, 11 Oct 2026 05:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-11T22:20:47.453Z"
+      "updatedAt": "2026-10-12T01:37:54.822Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Saudi airport passenger terminal is struck again, a day after 12 were killed - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObXk0VFduYU1ldGM0N3RTZGlUVEFiOV9GdHBJTExieVVQT0preW1GRGVHLUZHN3VyZ3pYUzdXbGYzVHdHdUsweFFUekY3Nk13LTl3dWtmdmpiMDh5ZXR3Sm9kZ1VvbFlZNFU3UXgzYlJEaml0VGNHS09ia0E3QUJERDcwRkRsd2UzNWZYWjZlUDJWYUtoZlh6Ng?oc=5",
-          "pubDate": "Sun, 11 Oct 2026 22:05:00 GMT",
+          "title": "Hurricane Simon pounds resorts and vulnerable towns along Mexico’s Pacific coast - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPM1JYNEFiNHpwMTFGZFVETFU1SG9OMXEzTzIzbWh1ZmxoVWY4bTNwTzlxZ1A1VWhmaFJ1bWNIbFEtc0VYVmJZZ0FIQ1JBdTkyU21wamtWdXh1azZUMnpWZ0JOVHc3emE3WVNmTlFBVXdjQ2xiX1FldkExelhnbFRJM1NBY0J6ZVJ4LUE?oc=5",
+          "pubDate": "Mon, 12 Oct 2026 00:33:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "UK prime minister say it is ‘clear’ Russia interfered in 2016 Brexit referendum - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQXVCV01mX1Y3VmZHSzNEdmhpcFRSYVdCM2VVSEZCWDJCOXFpS3J2dkNldlpyWV9adHo2MHAwSml2RVlCdlhvQUE0MTdPNWxkTlpMTnlINjdmUXhSVGNocnZmMEtnTG8wM2VXMnR2N2tuREkwOV9YTUpBSE5aMnlaYjZCSmI1Y211NmluRU53NlJ4TWp4ZGpkM0Rn?oc=5",
-          "pubDate": "Sun, 11 Oct 2026 19:49:00 GMT",
+          "title": "Judge orders the Trump administration to cancel taxpayer-funded promotional TV ads - AP News",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ZSkwzeFo3TmJLRmpQNGtfX3F4ajZsRlhSb2wtaWEyc2hrVFBrQ0RtbEE3ZjFjVkpiMFdkWjA2UTdHUWxwQW04dUVEY3ZUNnNabWFnb1NORV9EVlc1SlhnbURkU2FEdGdzNFVCeU9SbmYyV2I5bzlacjVLSmQ?oc=5",
+          "pubDate": "Mon, 12 Oct 2026 00:09:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "India cracks down on youth protests over contentious voter list revision, in photos - AP News",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZkl2MkRCTGJxT2xMWmpKLUZMS3llVG54VVhURnpKdkxtN0R3dkxSWjN0S1AtMmJrWVpabHU0eVJ3c21PWk9KU3g0eDRhMXJUNlJwOENDSWFGN0hhQk1paVlvMFZMaGlqMVFaQXpReWNKU3E4YWVCQkhGSnV6Z0phcHBxcGJzaE9Gb0NmZ1A5M1R2UWRzQWx6bkxFTGJXeXA3U2RLeWRWUjVpNkphM2Z1VUJ0RUZEdUNIRElTRUFocE1VWDlPdEk5TmFPUWhsdndtNF9mZkRNcDZWZw?oc=5",
-          "pubDate": "Sun, 11 Oct 2026 19:35:00 GMT",
+          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
+          "pubDate": "Mon, 12 Oct 2026 00:02:32 GMT",
           "source": "AP News"
         },
         {
-          "title": "Six senators call for Trump administration to 'immediately reverse course' on Russian diesel plan - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbzFvT0JzYVBTcnhFT2NlVFFkbm1QaTkzWWxVYTB0RXkyR2NiZ21YeGotZHJvUDBuY0plUzlpNXpxYWdIUjdmUWt6MDRXVkdlTmVUSHNFU3ZzZENfVks3ZmxVVlByRG1zNEtDUllOUm9vRldaQTU5YnZ2eUZ0Ti10WWNyX214S3NIUjlDb0NBSVFrZzRIMWtVRVkyVE5fVGJuN1NYRy14cw?oc=5",
-          "pubDate": "Sun, 11 Oct 2026 19:31:00 GMT",
+          "title": "Jayden Daniels returns and scores twice, but overtime gaffe costs Commanders in 27-27 tie vs. Giants - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbDdtT3JNdkw0VGxzN3M1Mkw3em1ENWgxX2xEWmM3WXExaHpWcnhXTzJpT0Zsc0loeUNaZjJWa24wTkYxYmFEY0p0QzhDdFRHRE50Mk1mM2dZYlBTanVRZE5Id3YtVUh6WHU2MUxfSjJiUk1naFB1d3JFek1sbTA1Q2JIamRubF80czZz?oc=5",
+          "pubDate": "Sun, 11 Oct 2026 23:25:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Trump says Russia and Ukraine agree to an ‘energy ceasefire’ but Kyiv says attacks continue - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPamZWc0pzUzdKd3YzOVM2MXRGdTc1akUwMDBma1pxUkt1OXd3ajk5RUlhLS1xaHJsVVdwVXk5cDVaMlFIcGxqSWtpelg1UUsydjFIZ3VpSXBKMTBnVlh3TTFUMGdjNlBtMWhEZmFpSnFTNVBDMWx1OVN5X2xGQS1DUndqS2RPQ2FBWXIxNGE5QzFhX0wzaW9vWUkwb2VoUHhGZU5Z?oc=5",
-          "pubDate": "Sun, 11 Oct 2026 19:29:00 GMT",
+          "title": "Quentin Tarantino’s first stage play will debut in London with Sacha Baron Cohen as star - AP News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeWlVeHpXdGEtZHQ4TEhXTjRQVXdGaDZQcWhYWWN6VFRNalpYZWhQZTdjOWRtV2Y2ZE0yRzAtLVNKSWdYSHdPaE5paEtOYjNvajRfdUMtalJYUGwwZkV1Z2QtZG81Y3VNdWc3NUc5T1N1WHo4NDYxQ09YT0MxVkowRmtSUHVNWVR6aUlnUXZ3OFdIbkhJREY3RllVM1kyejk1?oc=5",
+          "pubDate": "Sun, 11 Oct 2026 22:59:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "France’s far-left presidential candidate cheers Gen Z school protests - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaFRUVktxZDVXNFg2cnlBekxIbUI0a09XUkdBRVBfRVIxdUxBclVzM3lQRW5IUVRfcmI0VE13QkRLUEs3dnFDYmlnNUtVSE0zS18zQmtrbTlGZUdlMHVYQzlrYWFTZ3I1a1ZQYnRVS0tISHRobTlSYVc2OU1oS29JNmlBaE5SX2Y5ZTRzeXFhWFBPLTJ0Z181NnVxS1BvUHJnaVlaN0JtWlFlaTg?oc=5",
-          "pubDate": "Sun, 11 Oct 2026 19:10:00 GMT",
+          "title": "Pennsylvania shooter who killed 8 was family’s patriarch, father of toddler killed says - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVHFaUjhNVFltYnJUQ2NXWXRBYXNVaHVKakl4TExNT3F1OEFicDM4bUFIRU5ORGJnZ056V3BzSzZsN1E1MVZVRW45NTh2YUJaTWpJNnF1ZEV4ZmdoMzM1MnVZOTZ6UUxDcWx6cDlCU2Z1V18tYjRRQ1UwUTJsT0t5a3FfdDJBdHBGTWE2ZFk4WF9Yb1c5YUE?oc=5",
+          "pubDate": "Sun, 11 Oct 2026 22:55:00 GMT",
           "source": "AP News"
         },
         {
           "title": "Isaias moves north into Appalachians and mid-Atlantic; Southern California battered by Rachel - AP News",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWkk3UURScHRrNDZTTndTeFhsd3JaWkZvX3ZtbDA4aWJNTGJ6MVRYdUFLRGVkWHN1ZExwUnNmdHVzdGNTZ1dGRDF2YXNNM2t3STh6bFItMENlMlJ0OVhwaGRyRlFvZEVkTnc4VVdpWE1qU01ESlBtc2h4M25HR1phX1VWbm1vd1BUdV9vUW5PdDQ0d2JCZzdCS1J1ZkU2NU5L?oc=5",
-          "pubDate": "Sun, 11 Oct 2026 18:59:00 GMT",
+          "pubDate": "Sun, 11 Oct 2026 22:46:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Iran calls latest US response to proposal insufficient, and other Mideast developments - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUlpjcnBSNlAwM1RBdWdMa2lCQS1XUG1GTDhBNGVBYkRyQVpUcm1LSUtvY0JEWGExZmd1eklFMHpZNEJQYWY4cnJZalFGOTZRY0lHUzBPNWJaTjZSTWdiR0Y4OUk1VF9jZThTbGI2b1FkeU82YjV3WFJERzVybVJOcVJVbC1MbWN2THB0UUtfdmd0YmIwbmwybnJNY04tWU14dHV2QWoxSk4xQQ?oc=5",
-          "pubDate": "Sun, 11 Oct 2026 18:51:00 GMT",
+          "title": "Saudi airport passenger terminal is struck again, a day after 12 were killed - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObXk0VFduYU1ldGM0N3RTZGlUVEFiOV9GdHBJTExieVVQT0preW1GRGVHLUZHN3VyZ3pYUzdXbGYzVHdHdUsweFFUekY3Nk13LTl3dWtmdmpiMDh5ZXR3Sm9kZ1VvbFlZNFU3UXgzYlJEaml0VGNHS09ia0E3QUJERDcwRkRsd2UzNWZYWjZlUDJWYUtoZlh6Ng?oc=5",
+          "pubDate": "Sun, 11 Oct 2026 22:40:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-11T22:20:47.933Z"
+      "updatedAt": "2026-10-12T01:37:55.311Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Trump announces Ukraine energy ceasefire with Russia, surprising Zelenskiy - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTEo5WEZxUk5OcWNWU1Z1Z0g4SGlFQmxKckFxbS05WFd6UUxDNE0xa0NZRzZoR004Tms3azQ3aTVfUVIwNXlTU1ljcW9HLTREUGZBVVFiWlpVWXI3V1c3Zmt2UEJ2ME43azRMb0Vlei1iQUNPbzk4bV94bkRGTzBmREMydnBCRzVSclBoVkhrWkx4TFJ2YWdsRS1COGVOWU9pRDJqSUFNRk1pUnpQM2dlQ3o0eGpYSHYzbWdDX3dtQWtYT2Zz?oc=5",
-          "pubDate": "Sun, 11 Oct 2026 21:10:20 GMT",
+          "title": "US reverses course on Britain's testing of AI models, Telegraph says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRDJvZUFPb2dwVWRONzFpd2RZLVJuLWJSeE1QRHNrYjhTX3l5eGxRaFowem4zUy1heUFEdFBEWHFvaFliWG5lREtrUV9Ob0l0dVpQWDRLLVhQWHFFR3JMbFA2dHE3S1M4NWVjZm51NldZOEFPanJBcHpnZjUzd2ZGQWVmRmFzZkE1WTVPSUIwaEJia2VaNmhuRXZMclFZRzlJcE1XVW9YaFZQVmtzTVR0a3hsZw?oc=5",
+          "pubDate": "Sun, 11 Oct 2026 23:48:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "US Republicans, Democrats want Trump to reverse course on Russia diesel - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcDdtenR1Q0JlMzNKUUlHb0ROcUkwZHVpRlQ4ZDFDT2d2WlJndmVVMldTdC1EZkp6TUhSSHNNOWU3SFh3YnJVVk1wTFZIRl9nQTh5OEhHaGtUd1ZOUmJyaGtUOFJIZkFOb2E2N1VtREhDVEZFaHVPMXdaM3pRYlVLWUxTUW45WEllbmNVQ3RQTjZBSDltRXJIbUtJVHJGcU9lVEtNMTgtT0l5VWh2Tk5YQWdma0piSGhMWDQyYkhtc0tkZ2tNelE?oc=5",
-          "pubDate": "Sun, 11 Oct 2026 20:33:32 GMT",
+          "title": "UK finance minister to call for big economies to get borrowing under control at IMF - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONG1DajNQSWZPY2NlRmE3amk1V3dVT1JkRXYwMm5oVTZ1cnU1V3BQY09pNjlaVk1vMDVobDBzTVY0NDZqR0x2ai1QWUtGMGswZlE3NGstVW1GMWtFTWt0M3o5cGlOTG4ydVVseUQ0ZE4yQ3RjSEFKM0pWZ2R5T3hLX1UxcS12VU9sekxheVIyZUNIbGlrdVdLbkhOYldfSlNKZm1FaUlWV1h6NlRDN3llZFBuVmlvZw?oc=5",
+          "pubDate": "Sun, 11 Oct 2026 23:26:07 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Saudi Arabia reports injuries in new attack at Riyadh airport, day after strike kills 13 - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSEo0VkFTZkY2VzMzeFV0OVRVbWN4aHFzaXFjV0FBN05uaEFONHhQVTN2a3JJM09NdFBzY1R3MnRrUFZOeFZfUDItOUd1NkxiT3dfOWduTHJKTlBzSGsyN3VCYTNkWG1ZTWlZMUpzbDdrc1dOZUs3VDRwa0lHN21tNnFNdFhQYUxoNmdfN1Zyb3FMRm04RzRVei0zY3FKN0FoY2JYTGFodjYtemdITVpKVXk3NlR2QXFIMU9YMnUtX004QW1GZ0UzZA?oc=5",
-          "pubDate": "Sun, 11 Oct 2026 20:06:08 GMT",
+          "title": "Oil falls on hopes Russia-Ukraine energy ceasefire will boost supplies - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQM0xoWVo4eTNVMU5uQXk0Rk9WeWlMaWN0TFlDbWwzX1FqNy1iWW5iUzk0REtlMGNVSnlGWkRCb0tySkQwRFZ0NzVDQzRFVk1IcWNqVFIteWpOVTRVM01xblZ0TzN1dWdlNUdYWTRMUUFBOGhwQ2xTYl9NaTF0bmk5UllSanctMGJDT1g3MnVuX1IxTWpwR193RHoyV1BEd2FqOWlDcg?oc=5",
+          "pubDate": "Sun, 11 Oct 2026 23:26:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "FAA tells US airlines to exercise caution in Saudi Arabia flights, citing safety risks - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZEo2X2hOdlFVcmxza3ZQRmsxQnJlQ3JHbTN3WGZLWGhYRllIS2lOR0hUYkJwQWtJbkJFUTFWUzdiS005ZkgxR2pDY0dqQnQweGZ3Qm1qMHN3aUhCVzZxSzlyTVltbGVudkFvc2xaZFRBSzRZaFJQUlRQZWp4UlVrckxzcW9QUWlMaDN1ZjZ0UklUc1dWTi1yTjB5eFJYX19zeWdJX3lfTmZFTUh5OGZwb0Z3NnVIY1cxOE0tR1RvSE1pLUhkXzdEYV9GZUQtdw?oc=5",
+          "pubDate": "Sun, 11 Oct 2026 22:12:34 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Amazon in talks to buy AI startup Decart for around $7 billion, WSJ reports - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSTR0SUxydGYzRDJmaGtaWkRTYkkybS1GWlRkZFFnMjVXRFlZX0hHMUtVdFdIN0ZyQk0wMk1LNFhaUml3Y3FlRUV6SWFxVk9UUFg3MTUzelJtZU8tdjVpREpVS0owdkt2aVJhMUVObjg1TlRTREtZQzBINHJTTFloWDNBQTFCVl9yOE9HNXhBazJWMElncnlIZWNPdG5IY25ObFg0SGswNks5MkF0ODM4bEVRWkhjS3ZqcXVuWlVnamU0dw?oc=5",
+          "pubDate": "Sun, 11 Oct 2026 21:46:14 GMT",
           "source": "Reuters"
         },
         {
@@ -200,26 +212,14 @@
           "source": "Reuters"
         },
         {
-          "title": "Musk vows affordable Starlink in India days before Ambani's record Jio IPO - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNY0F4U0J6aGRjT1Vnei1UWVR2dDdqRS1DYUpneWtJOVF0U0YwOWx6aWtWTnJoTnNIbDBaMExoMnktdmJOdXRZQ3hkM3RGLUJ2SS0wSlVPek4zb0NNbTFxeXlNZVJCX1RNNDNKamtMa0E4Sy14WVFLWFhjUDMydmdWa2xESTZBejdrWEctWkw1UFRyNlhKLUdjZ3M5cURNZXpIdVYwWGlKdXJQUGI3SW9jbW0wWkNnbklpV1RzVEw0MHNTRm9reUltLQ?oc=5",
-          "pubDate": "Sun, 11 Oct 2026 19:40:37 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "Pope Leo says he will undergo surgery for small growth on lung - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUkdPdU5pbElCMXZwdmxCX05ENE44MGdFQ1dMTThyUGpuM0RWYjVsSGtJUERqbG9yY2hEVlZMRXZsclVwdHBSVnBmZDZoN3RwOTlKV0pJUVQxU3JkUloydGFha2dpN3hMSnpzelM4b3NFNmwtb1BSNEFUdEtRVUExQ3owb2FwOE02LXM5Wk9oX052Z2ZUNzdjWjBuVVFROXlpZFY0Mk0zd3h2T1N4WEs1NEFMZDhIQ1JDSXcwNjdsWVFldw?oc=5",
           "pubDate": "Sun, 11 Oct 2026 19:14:46 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Mexico's Sheinbaum urges coastal residents to remain indoors as Hurricane Simon nears coast - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQTVIZ3E1QmFPdVhfeHhERWNMSHMzckVTck8za2p1b1A5ajNIT1VCa1dBUVhNTVhadXhKZV9CclF4aEswTGRxanNxa1FzSnVDd0kxSWlGZF9EakUybFhISzJhRmtCeDV4VExwcC12Q1dkVDhDV1B2eENwODdtM0F0MUJQVGtEbDNYN3pZU1UzeUo5NnNlVlE1TTgwTlFjUGMyb2hNOXFGc09EdFZBbTctTlRCM19ZbDczelFhZ0xIdmVwT014cURLcnFFcjBfeE9J?oc=5",
-          "pubDate": "Sun, 11 Oct 2026 19:08:29 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-11T22:20:48.311Z"
+      "updatedAt": "2026-10-12T01:37:55.652Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-11T22:20:48.511Z"
+      "updatedAt": "2026-10-12T01:37:55.796Z"
     }
   ]
 }
