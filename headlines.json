@@ -1,64 +1,100 @@
 {
-  "generatedAt": "2026-10-13T16:19:24.231Z",
+  "generatedAt": "2026-10-13T21:28:11.429Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
+          "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+          "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 13 Oct 2026 20:46:06 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
+          "link": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 13 Oct 2026 20:02:15 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
+          "link": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 13 Oct 2026 19:51:14 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
+          "link": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 13 Oct 2026 19:23:28 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Cornell bans all fraternity parties over gang sex assault allegations",
+          "link": "https://www.bbc.co.uk/news/articles/cw8dzg094zd9o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 13 Oct 2026 18:25:28 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "'If we don't scream, they won't listen to us': Student protesters speak to BBC in Paris",
+          "link": "https://www.bbc.co.uk/news/videos/ckg5jqg1npd7o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 13 Oct 2026 18:23:22 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Argentina targets UK in legal claim over Falklands oil exploration",
+          "link": "https://www.bbc.co.uk/news/articles/cmp3g14p3z2ko?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 13 Oct 2026 17:36:43 GMT",
+          "source": "BBC News"
+        },
+        {
           "title": "Horrified witnesses recount fatal rollercoaster incident at Six Flags",
           "link": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 13 Oct 2026 15:38:03 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack",
-          "link": "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 13 Oct 2026 14:51:59 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Ex-president named leader of new DR Congo rebel coalition",
-          "link": "https://www.bbc.co.uk/news/articles/c8y56re7ldqyo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 13 Oct 2026 13:40:45 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Is Zelensky right to say data centre strikes have taken down Russian bots?",
-          "link": "https://www.bbc.co.uk/news/articles/c9y7l0pm8jkko?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 13 Oct 2026 13:27:31 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Hungarian MPs scrap Orbán's anti-LGBTQ measures",
-          "link": "https://www.bbc.co.uk/news/articles/c6vg9nj4l322o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 13 Oct 2026 13:23:45 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Watch: Emergency calls from botched Christa Pike execution released",
-          "link": "https://www.bbc.co.uk/news/videos/cqpvgrkp0xpyo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 13 Oct 2026 12:03:51 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Super El Niño sets another record as it strengthens to 'unprecedented levels'",
-          "link": "https://www.bbc.co.uk/weather/articles/cmlye0d7q7zno?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 13 Oct 2026 11:18:44 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Immigration agents search congresswoman Ilhan Omar's home",
-          "link": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 13 Oct 2026 10:37:39 GMT",
+          "pubDate": "Tue, 13 Oct 2026 17:10:50 GMT",
           "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-13T16:19:22.950Z"
+      "updatedAt": "2026-10-13T21:28:10.146Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "What an economics Nobel Prize winner knows about pricing",
+          "link": "https://www.npr.org/2026/10/13/nx-s1-5998849/what-an-economics-nobel-prize-winner-knows-about-pricing",
+          "pubDate": "Tue, 13 Oct 2026 16:03:35 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Bipartisan group of senators call on Trump to rescind Russian diesel deal",
+          "link": "https://www.npr.org/2026/10/13/g-s1-147871/trump-russia-diesel-deal-congressional-response",
+          "pubDate": "Tue, 13 Oct 2026 15:52:52 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "A judge blocks the government's tree-clearing spree at a municipal D.C. golf course",
+          "link": "https://www.npr.org/2026/10/13/nx-s1-6000055/east-potomac-golf-course-tree-clearing-judge",
+          "pubDate": "Tue, 13 Oct 2026 15:38:18 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Cornell University bans frat parties, vows to address 'disturbing' campus culture",
+          "link": "https://www.npr.org/2026/10/13/nx-s1-6000347/cornell-rape-ban-fraternity-parties",
+          "pubDate": "Tue, 13 Oct 2026 15:23:57 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "The Trump administration warns Ukraine it could cut off intel, Zelenskyy tells NPR",
+          "link": "https://www.npr.org/2026/10/13/nx-s1-6000051/ukraine-zelenskyy-npr-interview-russia-war",
+          "pubDate": "Tue, 13 Oct 2026 14:51:55 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Writer Yiyun Li lost both of her sons. When words fell short, she turned to music",
+          "link": "https://www.npr.org/2026/10/13/nx-s1-6000124/yiyun-li-music-against-the-night",
+          "pubDate": "Tue, 13 Oct 2026 13:41:07 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Government spent millions on Trump ads. And, federal agents raid Ilhan Omar's home",
           "link": "https://www.npr.org/2026/10/13/g-s1-147822/up-first-newsletter-trump-ads-funding-campaign-rallies-ilhan-omar",
@@ -70,156 +106,120 @@
           "link": "https://www.npr.org/2026/10/13/nx-s1-5998798/pakistan-imposes-emergency-rule-in-former-prime-ministers-stronghold",
           "pubDate": "Tue, 13 Oct 2026 06:51:33 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "What ice cream has to do with this year's Nobel Prize in economics",
-          "link": "https://www.npr.org/sections/planet-money/2026/10/13/g-s1-147816/what-ice-cream-has-to-do-with-this-years-nobel-prize-in-economics",
-          "pubDate": "Tue, 13 Oct 2026 06:30:00 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "One way to protect coral reefs? Bring back seabirds",
-          "link": "https://www.npr.org/2026/10/13/nx-s1-5901320/coral-reefs-palmyra-atoll-birds-restoration",
-          "pubDate": "Tue, 13 Oct 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Win or lose, independent candidates want to meet voters in the middle",
-          "link": "https://www.npr.org/2026/10/13/nx-s1-5994388/2026-elections-midterm-independent-candidates",
-          "pubDate": "Tue, 13 Oct 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Voters here will decide whether to force cities to build cheaper, smaller homes",
-          "link": "https://www.npr.org/2026/10/13/nx-s1-5979839/massachusetts-starter-homes-ballot-affordability",
-          "pubDate": "Tue, 13 Oct 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Polls are a snapshot, and other helpful things to remember during the midterm elections",
-          "link": "https://www.npr.org/2026/10/13/nx-s1-5996916/2026-election-midterms-polls-horse-race",
-          "pubDate": "Tue, 13 Oct 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Morning news brief",
-          "link": "https://www.npr.org/2026/10/13/nx-s1-5998694/morning-news-brief",
-          "pubDate": "Tue, 13 Oct 2026 04:46:22 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-13T16:19:23.538Z"
+      "updatedAt": "2026-10-13T21:28:10.291Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Trump's ambassador to Greece, Kimberly Guilfoyle, resigns after allegations of improper conduct - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPak5ZbXdiNVNTR2dUSG5BaXVDZlgyWEdLYVNWU2FiTTl6QmRQTk1BcmJ4VXFNWHVtYUFBOVdlRnpaUlNnV1ZFRkJtVDRXQ3JzeEUxMVkyUVhKRF9qQ2hQdFBJcEVTVWhCempCTGZ6cmpTME5RTHU0SWdGd0s1QnQ1R2hlUEFRc3RudnlLd0ZKd2w0VDZVU0I2Ng?oc=5",
-          "pubDate": "Tue, 13 Oct 2026 16:02:00 GMT",
+          "title": "Pope Leo XIV diagnosed with lung cancer after surgery to remove part of right lung - AP News",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUVV2ZHJselJuYmhnZ21lbG9LOXo1N0JhRFdKT0U1aVA2blJjRXlzcFFCanQwd2V4Um9FT3A0SGpReXY3ckp0T21RZHVFVDBUWTRXTW9fZXluQ3FDYm55WC1kVDBhalNUa3NBZUNzZXFwZDBkcnJwNnQ2ZU9RbnRJamhqYk5GbWM?oc=5",
+          "pubDate": "Tue, 13 Oct 2026 20:52:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "The first big batch of US profit reports for the summer has Wall Street mixed - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbE40VWg4MjVEMGZaTVRRbXhyNlg4czk4V0luS095VjQ2S01EU1B2bEpIdTJvZGVrUGlLUU42bVZhNW4xdk01Wmh3ZUhLRWFIamRka2pfWnlkUTRQdzVZV3FGa0VSb1Vwcmg0UFNlYmgwS0lPNnNiRF9NNDVhNmRzS3IwaUhEOGNvclVwb3B1cVd0R1V5LUdLX1Fn?oc=5",
-          "pubDate": "Tue, 13 Oct 2026 15:01:00 GMT",
+          "title": "Six Flags closes 9 North American roller coasters after families watch man fall to his death - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZkNtdXlMaTZnbUtyRWxELS1kWDYwRVdpbUozWnRCUWJab2NXRDF2YmxocTY5Wm9BaHp3UDdxVkFoWE9XNEUzWlNXdVJQaTFPbWpJUjlrWEl3a3JtNFBSNGp0SkFfRjJZU2F4cmZBUnRpd2VCeUxGc0FFak5jRjZ2MUd0V3NBdG9xUWtCaHZwbmx5U1ZYeHpma3lLcHQtLTA?oc=5",
+          "pubDate": "Tue, 13 Oct 2026 20:45:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "A freed man faces life back in prison after a Supreme Court ruling on the First Step Act - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbnpROU11SUFncHFrNVhNaDZzWEdYSHlhdTZZekVXVDV1UXpEV0I4ZHJwcVNCLUt1VTV1RFBZMGU3UFA0WExkR3dUUy05M05lVk9pbW9TbnA2Y1M1UEE5cmswVHhuT3J5Sjg2QTJDNXFOR3h2SUptT0k5UUtsN2lwQnR5VHBmRnRUbUF2cUJqalpiUVdJSU9ra0hYY0o3dmw0LThOMUZ6NjQ?oc=5",
-          "pubDate": "Tue, 13 Oct 2026 14:43:00 GMT",
+          "title": "US hits Bank of America with $1.2 billion fine, saying it violated money laundering, sanctions laws - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORERLcDUxeU5Mb2Y3UzRGMUcxVldIQ0hjNFpUdjNGX0pJUlBodGZFR1pfV21tTnRxX2dHMXlUY0o2NGUzNTF3bnFramYtMTV0TE5vZ18xVC1ybHBQMmNuY1ZCQnF2M1Q2R1U3c3J5TVo5M0ltX1NuUVJnQVMxRWtWdGtHdE5nUkZyUFZqellEc0pyVmpxbWM1bl9IVTE1RjRwbldN?oc=5",
+          "pubDate": "Tue, 13 Oct 2026 20:45:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "MI5 chief says Iran is targeting military sites and suspected plot at RAF Fairford is 'not unique’ - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLXpQQVQxZC1PTWJhZGpTeXl3dG9MQ2pDbmF5RkdjVlRXRXhoZmx1Vm9RNXhNa2tYLW9ybWU1SmgwMU81R0YtVEtFQ1lQTlFXWm1wRERKeXUzenR3eUdMYUF3eU9jNjVUYmJNTTBzVmNGQ2cxYXVjbnhEUlBTaW9OcFhQZmIxYmc3ek5xYnZEYjhST2YtU0tpZXVDX0M?oc=5",
-          "pubDate": "Tue, 13 Oct 2026 14:21:00 GMT",
+          "title": "Cornell suspends fraternity parties, gives state police role in investigating campus assault reports - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQN0hlOWdLdXpsRFVLdTZoNXN0NWxfMXlTSHRTRXBJa2xBeERmME5WMUhuWXlTc2RhNThCREt4ZjBmRngzbThSYnR6Q0ZVdEM4eHpMalpHTXo5dWxQN0d1WHFSTHViT1NJZzZNbWV3MjBsYVdhclBSMnZSOHJYUGRBcGVhcXRZYmwyaHM1ekV2NjNIQmlGeHpnNnZUajN4cVV5aC1n?oc=5",
+          "pubDate": "Tue, 13 Oct 2026 20:26:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Formula 1 announces return to Africa with Grand Prix in Rwanda in early 2030s - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPY212MTVQMVJtOVpHQUFaVkZpOU1la3FwRkY1bzMzWEEzSnZnTjlJTDd3S0dvYjZoanJ6YnlIRWpMNlFYcnVBb1BOZ2s2bnBhS2puR1pSckdydkpkc0lnYXI1emxCZHh0X1p5OEVHQVRtYnlxMkE4blBVUy1pSHNwOE5EekdKWHpxWFI1Z1BhQ3I?oc=5",
-          "pubDate": "Tue, 13 Oct 2026 14:20:00 GMT",
+          "title": "In first visit to Ceuta, Spain’s king asks for ‘good faith’ from Morocco after migration crisis - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObmozWmNldTJoa3Z6M3BpUW9QQU1BcUR1c3pVdWtfdVpXckJkUW9VMGtOYjRJdENTUnZuam80MU1MY1JEVkdubkZlRXBGQkJTMXFiMkgxeEtUbFdBY1dNNE9GNVk3SGpSRTBqOXZfdWhES2l2aGJ6aFNCT25jRThLSlExbXFadzVGQkVYTW9XRUNxOGIy?oc=5",
+          "pubDate": "Tue, 13 Oct 2026 19:48:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Federal judge orders Trump administration to halt work on historic DC golf course until Oct. 26 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORkY5UHFTMWx6WkpJYy1mVXhrQnBnZnhTR3piXzZ5bFN6X1BpTnpxMC1GQXFKV1h2OWpaNHJJZHlRWHBYYUV6OEVnMHV0b3lrS0UydF9zOTBTYktsbnI0aWF5WHhQbFEwSFMydGsyRnQ1QVF5a3pkRWhwTWhUNVFtdktyMA?oc=5",
+          "pubDate": "Tue, 13 Oct 2026 19:43:00 GMT",
           "source": "AP News"
         },
         {
           "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Tue, 13 Oct 2026 13:54:03 GMT",
+          "pubDate": "Tue, 13 Oct 2026 19:18:20 GMT",
           "source": "AP News"
         },
         {
-          "title": "A man falls to his death from a Six Flags roller coaster in Georgia - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZkNtdXlMaTZnbUtyRWxELS1kWDYwRVdpbUozWnRCUWJab2NXRDF2YmxocTY5Wm9BaHp3UDdxVkFoWE9XNEUzWlNXdVJQaTFPbWpJUjlrWEl3a3JtNFBSNGp0SkFfRjJZU2F4cmZBUnRpd2VCeUxGc0FFak5jRjZ2MUd0V3NBdG9xUWtCaHZwbmx5U1ZYeHpma3lLcHQtLTA?oc=5",
-          "pubDate": "Tue, 13 Oct 2026 12:54:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Fear grips Taiz as Houthi rebels tighten siege of Yemen’s 3rd largest city - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSkgybWJ6OTVyd2JDcmxuMGd5VE9jNHNOZzNjeGV5bzVnVnpIVWRIaHZ3S2owZ1RhUFA4THc5SnVwZ19UTC1rRlNhMnoxeXFOWUNwWU9IY3Jfc0ZqT0otMGk1NldMcjdjZDFYY0FKQTZPZXREQ291TGpQcFZMblROS1ROdVJGaDhiM2IyWXNaaU0?oc=5",
-          "pubDate": "Tue, 13 Oct 2026 12:27:00 GMT",
+          "title": "Kroger to lay off 3,000 corporate employees over 3 years as it leans into artificial intelligence - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSHNESldQb0tHcGc2ZkN4SmFybFNDd0lpYktkdXZNRXNtN0Z3RnFwQ3FCVC1uS29uNVA4WjlFNkM4cGxreUFER0ZSdGQ1RWwxSk1VS2lNV2dmU19DV3VsWWFBYkRlejNESmp4MmpyNnRlS2gzT1hLcXAtaldYN18wZy03Y2lZeDQxMWZWOWZfZ1IzUU1IT3c?oc=5",
+          "pubDate": "Tue, 13 Oct 2026 19:11:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-13T16:19:23.592Z"
+      "updatedAt": "2026-10-13T21:28:10.831Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Saudi Arabia strikes Yemen capital as Houthis vow to retaliate - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUHZtMnk3dUVFWmVkT2FmZVRqNWNrUUc5YkNkWVJMOEhWMmo1dnc2S3FlUlExbjFscTdlY3NQcExPejdxUlF1clZ5S1BKQ1JLdjhzaFdXT2l1YVBmN2VVSkFOSlJNNmlTR2w5d082MDR2b3RkY1VrTTlwWFhuclBteVRaTmtMRUczY0VPaWxBeVV1RE9vUE9kRFZaUlZEX0NnOXZqVnNtNlJIcFU3cnE2VVFTNzhfNVZ0TzZiQWFtSUJCdXJXYU5rU0JB?oc=5",
-          "pubDate": "Tue, 13 Oct 2026 16:15:30 GMT",
+          "title": "Delaware jury awards Qualcomm $2 in damages, finds Arm breached license agreement - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ3B0dlZXT01OUXZmR2FEMXhoVWx5RnpzUk92dzNtR0dWSWZFZGkyTzlpQmc1VmNxc0N6VTBtTndzZUd0NzVYMGxIQUU3VEFaTUZnUnhVMmlpSWhjM1YxLWxKQWMxTFN2M0g1cTVKV20wWUc3LVMtZ0MzRXY1c1AxSTgzUjlQV21kb19uSmZndHdYVDVlQzZ2X2VjN210SWN0cWRZeDVkY1BaV21H?oc=5",
+          "pubDate": "Tue, 13 Oct 2026 20:58:03 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Goldman Sachs beats quarterly profit estimates on equities strength - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPV1BMNkJOM2lfbGYxNGhhcGsydkZDbUIxWFNwM1pDUFdCbWphMnZLM0VoRzBubFdfeXNnVHBtLV95WVZYdW5kLThuOEVfYmZTRUxLV0VSenczY0Voc19TUFJkYTJTS21UNU5HMFlIWExPUWxwUGkyOU9VOEt6NENxTWN5SHJCanZaMW1Ud2RiZzZQelBCMTRMejdRMEVPZUN1bHpLUWJUd3JHOWc?oc=5",
-          "pubDate": "Tue, 13 Oct 2026 15:43:55 GMT",
+          "title": "EXCLUSIVE: Saudi Arabia plans hybrid format for marquee FII conference after attacks, sources say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUnMtSVRHNldwaFdHWWx4NlBQbHZLYjZvUVdHMWExSHFfVzNXLU9wQi1wblgwOE9jZlFaUjlzbDlxb2tFV085eUYwM2dyVkpkVHBVTjIzM2wtRlhUcjBmQ1I0YVNnUU53MEJTOGlWOE5SZ2xkdWRrVmlIZHNacjlfZWRJak51OWQ0OXFLWGlnWVpnd1haY3FRRXhfcGMtR3dlTVJTQ1FuOGxUaHZFY2NkcHVBMzFlcUV1WG5CTTVmM0F3dTlqam1qT2VvWQ?oc=5",
+          "pubDate": "Tue, 13 Oct 2026 20:38:09 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Greta Thunberg joins French teens on new day of school protests - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTEstM19aVlJXVUoxbDE1a0QwdEVHX3JRNV9sblN5TnVvSWdVSlpETGdkVTQ1dDRzUmJJZVU1WnhieUpRczZFd1U2Rm9wc09jZHBIUFFvTWs0V3ljQ1ZQSTNkc3Jhb0tTRWVwN3pob1NZWUtzR2oxX0MxUjZPOTZKTmxab196V2F1a0xXWWtDcUtUZ004UVdLZ05ZU2VCS3RqU2htMV9HWTVEUQ?oc=5",
-          "pubDate": "Tue, 13 Oct 2026 15:38:10 GMT",
+          "title": "https://www.reuters.com/world/europe/pope-leo-enter-hospital-tuesday-surgery-lung-nodule-2026-10-13 - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbVI1SUJUZTUxMzJJdDlYc2FLVlh1dmZzTnh3andRUW9wZzR6Uk5neHVWcFgwNV9mUENqdENsQS1oVXdUSEltMktJWGZqRXNwcnpwQVdrTXl1NVp3ZFlVczBuN3Z5MDEtYmRfdFdTTkYteGNFNEdncW84RXkybFJfbWhPY0VtNUZmZFk0cjZiemhxUTJrNTNoVmpMbUZoMV9IdDNONG9hcVA5UQ?oc=5",
+          "pubDate": "Tue, 13 Oct 2026 20:37:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Argentina seeks tribunal order against UK oil activity near Falklands - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbi1FVHFsVEM2RjVqWkpZVFBEemU5RFZQN1N3OHB3WFRLcm4wWHIyaFN4TDQ3SVB5NWVFWkRxbS1tbThCWXk3VHExZXB1WGNiT3hrYlJQQ3ZqRTBaYTNIdURfZGtSOXZxNDBCbV9lTWoyUFBQQUpmdUtTc2M4NFF4TWxtVmgyTmdOSzdBWUxtNGNUam5DMDc2dUZsNUFaQ2NTZk1yOUxlZjhFLXFiWk1ZOThLS3huOGI2TVp5blFB?oc=5",
-          "pubDate": "Tue, 13 Oct 2026 15:34:54 GMT",
+          "title": "DOJ arrests two, seizes 187 devices in North Korean laptop farm crackdown in Texas - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPV0pfLVk1Vmg4NEU1WEl2c3VGc3ROUXE4RWJiYzVncjRGLThLeGRucGoybDZxMXczVTJBMWUtX3haNjJqOEs5SS0yV19QVFZqNU14VWdKbGcydHNfVXN0bWpScnN1ZzVJZ05fRTM3WW5mUHRIQmZCbEhRT1FtSXpsTWlMdE5nMHN3bXItRFJTeHFXNHNUMFVIWW9wbXdlaEF2akt4bE9vcmx4ZkdqOEdIQ2VlcGlTazFIcXV2cDVWR0ZYQk80SFow?oc=5",
+          "pubDate": "Tue, 13 Oct 2026 20:31:22 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Iran and Russia are stepping up hybrid campaigns in Britain, UK spy chief says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOel94VDNzeEx1LXhzdm9vX0xSSUhyQUswNTAwUWhsVklGcEtQRm1KYlpUWXhKOUo5cE1tdTJXQV85eVZic05iV3gyVXNIZTJwV2xCRmo0QkFtMDFXMWNWR3lhaS05dHN2UVNtREJodXZLMllfOTBYdUpHelFKS1JQbUVxUFU4NzhTTUswVVlvX21QcXByY0F4akJ1ZGNtSDZ0aExrZHBYVlR4aGlCYTJz?oc=5",
-          "pubDate": "Tue, 13 Oct 2026 15:26:00 GMT",
+          "title": "Allies gave Ukraine no warning of impending missile attack, Zelenskiy says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRVA2WjlXNVNqR1RhTzFnOFd4bGstWUFZMDhCbXBNUEsxNzU4b2N2Tktwck9tMlFvSERMbFVwcnNkMUFTSVBxMjlia2VhMlQwZVllRlo5ZFpaUnl6aWFxSWJGaXhIeFJFcVA1ZUUxRHJqWjNqalNrU1UwMUtfX1hKTXhtN3pNVHdOSW93WGh5NlRuZW5KdVJPOGtsWWVHbG9UMy1tUjZrcWxEWGZkUldicFVURDFjdmdza3Q0?oc=5",
+          "pubDate": "Tue, 13 Oct 2026 20:26:54 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Scientists call for international body to oversee advanced AI - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUnFfeURETmxJbjhUUjBib3BFZmRrQ2JyU09MZkIzVGJncnQ1bWMxME95c3p3a2d6c1pTZDJobkhXX1hPc204SElBUC1xQXE3S2JvMDV3RW5Lemxnb09TTkxuakpFeS1lUUk3aXZBWE5xQzFvdkV2cnVhM3hXeWhRSjg4SVg3SUdNc1VrbExfdzBaeUpzNWJuQlBxZFg1T2pNTHBkTVIxUkFmdkk?oc=5",
-          "pubDate": "Tue, 13 Oct 2026 15:14:54 GMT",
+          "title": "Ex-gang leader sentenced to 40 years to life in prison for Tupac Shakur murder - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMUg3aUR1SllPV2ZGMm0yaU9ORTdRM1liR3NRQWhZX2JVTnkwaGZsTGY1ZmtkWFdPOFRPZWlvVEpMWUhHSjY1azhqeERrUUhkN2VvV1FlUVc4VFpCbUxWZVRXUUt5MTN4Z2ROd1VDc2hLcUJvaklWdXMxLW8yX0JaeEVxQk12eVFYSjN6UFpsX2RfM1NkYXFwcDJPOVZhSnNXYWhGaHl6dTkzYTFuMnJUVHEyNkktUzQ0V3JuNkJB?oc=5",
+          "pubDate": "Tue, 13 Oct 2026 20:23:56 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Supreme Court to hear Trump's fight to shield DOGE records from disclosure - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdGRhQlpXSk5oZjJZVm5zbGt5UFBtaDZzdmdKZzM2V21Fdl9qTXdpUEkzaWpEbThVTmhaZXEzcEpTLVUxSldiSUt6N1BGWlFkbGpNN0ZYOWlOYWZxd1dXY0dtSkNHSUo4OE14X2Nzb1lwcDg4UXE3dUFvWFdmU0tJNlZYQkl5M3BxNURIU1J0WkFfQ1dRWHJWWVN2eTBQNWg1WHBTeFln?oc=5",
-          "pubDate": "Tue, 13 Oct 2026 15:07:15 GMT",
+          "title": "Nasdaq ends down as chipmakers fall and bank earnings roll in - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdkNncVkwQU9JeFhSRFFWQ1FhcW5SUk5hY1hQMkpocmdCRlZ5b04zOGJnZ184T1lONDh1cUQwZFY3RVJxUmJzZDhpUWZ0RlhsUGluV3hoVG1TV2JWNEZtUS12R1Z0VURRQmt3SjkyUU44UkZTcmF1RnFaTm9POE9LYW5TWjY3el9jNzQwV1lOVkhaOGFDTE9Wc1NrM0RYTzJ5UFM4eF92UWV3LW03SHJ1U1I5cHF4eDNFS1liNw?oc=5",
+          "pubDate": "Tue, 13 Oct 2026 20:17:36 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Hundreds queue in Hong Kong to glimpse Van Gogh painting unseen in public for 60 years - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPckNMaHByOHFlWU56ZVBveUhhY0x1SDNQVEd0V09YWUgwSWNKNjRCRnhvay1QaXlSSHNWWXYwNGpGdkFWVUw1SjBWOTdKUGhRSm1pd3BNUjlmb2dkcloxUHBXWFNsdU9Id2p4WEx1M0VoMDZpcHNyT1YtY2tJcy1BRlRuYVRPOEdZejU0U01kR2EwOENYdnVQaW5lTmFyaUppTXdVMkRvc2ZROTg1WFdySWZzeWhuZVF4a1Nv?oc=5",
-          "pubDate": "Tue, 13 Oct 2026 15:03:48 GMT",
+          "title": "OpenAI employee arrested over hidden listening device, company says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcjkxNVh4Vlg5aXhHdHJySlBhbC1iZVRDTTF1a2hiUk52eUlqUW1aWWtoeUg2TjQ0OWU1aURzNW5aWmZ1TEFBcGl4NTBIQVZSVnNPaFpFUnZqb2RjRzNQS0xLQjRkMmtJZWhuU1RLRXplcktzVnBHMVVhNThISzMxMVFYbXZoeWE2WFc3b2VzMlQ0Sl92Y0kwLXJ0MUxBOTdUNzFxdjR0VTI?oc=5",
+          "pubDate": "Tue, 13 Oct 2026 20:15:31 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-13T16:19:24.044Z"
+      "updatedAt": "2026-10-13T21:28:11.239Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-13T16:19:24.231Z"
+      "updatedAt": "2026-10-13T21:28:11.429Z"
     }
   ]
 }
