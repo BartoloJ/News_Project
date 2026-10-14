@@ -1,19 +1,25 @@
 {
-  "generatedAt": "2026-10-14T16:55:56.743Z",
+  "generatedAt": "2026-10-14T20:32:51.346Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "Netflix to lay off 1,000 staff in steepest cuts since 2022",
-          "link": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 14 Oct 2026 16:47:32 GMT",
+          "title": "What if you could turn off your algorithm? Australia is about to try",
+          "link": "https://www.bbc.co.uk/news/videos/ck78pj2qy42po?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 14 Oct 2026 18:00:54 GMT",
           "source": "BBC News"
         },
         {
-          "title": "Kenya confirms second Ebola case as relative of country's first victim",
+          "title": "Kenya confirms second Ebola case - a relative of the first victim",
           "link": "https://www.bbc.co.uk/news/articles/cw5yn8rn04ljo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 14 Oct 2026 16:23:40 GMT",
+          "pubDate": "Wed, 14 Oct 2026 17:23:01 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Netflix to shed 1,000 jobs in steepest cuts since 2022",
+          "link": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 14 Oct 2026 16:47:32 GMT",
           "source": "BBC News"
         },
         {
@@ -45,20 +51,20 @@
           "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 14 Oct 2026 15:26:14 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Pope walking and recovering 'as expected' after surgery, doctors say",
-          "link": "https://www.bbc.co.uk/news/articles/cwx28r0zvm6lo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 14 Oct 2026 15:12:46 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T16:55:54.617Z"
+      "updatedAt": "2026-10-14T20:32:49.691Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Aboard an icebreaker, a writer got a closer look at the Arctic's 'Sea Change'",
+          "link": "https://www.npr.org/2026/10/14/nx-s1-6001592/arctic-sea-change-rana-foroohar",
+          "pubDate": "Wed, 14 Oct 2026 15:42:03 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Inflation sizzled in September — and Social Security benefits will get a boost",
           "link": "https://www.npr.org/2026/10/14/nx-s1-6000593/inflation-consumer-prices-cpi-social-security-benefits",
@@ -90,14 +96,8 @@
           "source": "NPR"
         },
         {
-          "title": "Civil rights advocates plan to send thousands of observers to midterm polling places",
-          "link": "https://www.npr.org/2026/10/14/nx-s1-5991802/election-polling-place-observers",
-          "pubDate": "Wed, 14 Oct 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "'They're stealing from the poor': A major source of SNAP fraud robs recipients of millions",
-          "link": "https://www.npr.org/2026/10/14/nx-s1-5985198/snap-fraud-ebt-card-skimming-chip-cards",
+          "title": "In Kansas, a newly competitive Senate race tests limit of Trump's unpopular policies",
+          "link": "https://www.npr.org/2026/10/14/nx-s1-5995633/kansas-senate-race-hamilton-marshall-tossup",
           "pubDate": "Wed, 14 Oct 2026 05:00:00 -0400",
           "source": "NPR"
         },
@@ -109,117 +109,117 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T16:55:54.770Z"
+      "updatedAt": "2026-10-14T20:32:50.101Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Inflation worsened last month to 3.7% in sign that prices remain elevated as midterm elections near - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdHFWOXRoc2RvT291ZElaYW5MOWYyZ01rX1I3N093NGJ4bGNxRU1JS2tLS2J5TjhHNk9WQWNfY0xyMnZvbkdoa0N1LWs2OWlGQ19tc1pCZkdJUG5qTl9mMnJJOVE4cXM3V3YweDVGRG1RNnFPeDE0U1F4NW43TjVpNzNRMVRGZkxGOXh5a25EUm1QQTdBT0YwYk5INHByWl9ILXNBQU5R?oc=5",
-          "pubDate": "Wed, 14 Oct 2026 15:54:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Trump says oil, gas and mineral exploration in Greenland is set to begin. It’s not that simple - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTm9ucUpfS1JOb1RqQUlFOWVtSjVRQ1JXUGVSZFhkdWVlWlBncFMybEpwSVNxcGpXcU84Z21TQVVlVUlXNlN6V0VGWjRkZGJyR3V1NFVzNVk1YzZmVEE0OGVGNnJnQXVGODlxNmF1XzF1SnVlRHBQblBLMkZCcHVRb1d5aWNBTWUxQWNCRmV2cW1OTWZSb1ZLZzJ5ZFV2Qkd6bzMzUDFIc25veXQ1?oc=5",
-          "pubDate": "Wed, 14 Oct 2026 15:36:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "China’s trade surplus nears record as pressure mounts from trading partners - AP News",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQVdkTHZ3MkRKMEQybkpwQml2QmtLYmZOWjFGVVhfeWo4RVVNNk1wc0FScjBQZERDOTgxYUJpNVhfeW5nZjZqbGtCb1FTbTJQQklnOGZnRnBDZk9vV0J5WXlxU0xvZlBDQWlkNFhKY3h2LUdSWTZTeW9pYkgwM2tQNl9iNVpHUQ?oc=5",
-          "pubDate": "Wed, 14 Oct 2026 14:52:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Bulgaria says Russia was likely behind Black Sea drone strikes as rescue operations continue - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUXRicXJvcXBsM21wZ1F1UmphdlRlTjk3Z3RROTB4MjVOTUtRcVkzUXF1T0h3QVkwNGE4UzRSUFdQbzRBeXlsaFdvQVg5d045d01GQlNJUkgwNTNmbU5YdzNvTmR6cjlwNGxQU0UzNzhwcDQyTkloeWoyU25LSVVHS01vcUc4enNEaDdLQ1N0WEw3d3NubWtSaVlJOW9VdDBZY1daT2p6b3hYRDNXTmJR?oc=5",
-          "pubDate": "Wed, 14 Oct 2026 14:23:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Iran-backed Houthis struck Saudi oil giant Aramco’s executive offices, officials say - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZ1ZldXo2RjBfTlF2NHFDZDQ3NnJnejktNnl3NVJVcnFVM1FjQ3FQN0x5SjFpZDRBeXplS0lTN2tUdWVZVWVKZm5LaUxkMVFQcmFRX1RRbFJIMm1zOTZDU3l2elZkb0twUkFnU3ZYM1pHYmRhYXRlVlluMHJkcWZITXRSQmMzNnF5d3dBcGl4a043MWkxUlZ5RmNqQ1l3UUxTbGRKOVdHSHhIQlRLZjlv?oc=5",
-          "pubDate": "Wed, 14 Oct 2026 13:47:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Iran says a ship sank after striking a mine in Strait of Hormuz, and other Middle East developments - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQnpCTWlhR21RaWFXLXJlVTA2Ym5CcVlfZlJqcHZycC11QkN5UEtieS0xTEZBVlZEeHJ1TzM5NmhlNGUtTk5vYWEyVU50ZVIxbDdjVkxfeHFCZnh5UV9ZaTJsbWdrWFJNYlRSNFpjRmtkRWtZdHNOTE1EVkIxX0J3djZ6N0VBNDJ6NGpvRlZ4ZFVDRWIzdVozV0pudllQOFIybE1qdlhWZkJoeWJy?oc=5",
-          "pubDate": "Wed, 14 Oct 2026 13:46:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Social Security recipients to get 3.6% cost of living boost, an average of $75 per month - AP News",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNk11UEtWMWJteERCRXJKVm80RUt5ZmFVbDlTczd1WmpjN0VyMkVfU3Q1bEtJVjk4WldrNGp1VmhoeU5HY0R5eDZwTWY5NldMc09fOUZ3VDIycFRxank3UmlvZmZoV3JuS2Z2NWhvRDZLcnZNZ2p2RjZmdkd0Uzc0V29sX2U1Z2xKRHR6Wi1JR3BUZ1FHME01aExaSzNaT0llUnBLeVNwbw?oc=5",
-          "pubDate": "Wed, 14 Oct 2026 13:41:17 GMT",
+          "pubDate": "Wed, 14 Oct 2026 19:58:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Ukrainian ex-army officer’s lawyers seek dismissal as Nord Stream pipeline blast trial opens - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRFd4alBxQTNPSWhQYTktTjNnTk85eHczNVZWSzZaakZNM3JVaUtETVB3dERtckVlYWJzOE1yRDdEX1VDSllUbHFVTURiQzNpS2dUMlVRZlFwU0hJamdIbXhYWjNpWldmNDBzSjd0cnVVUTFreFllQ01DNUlJMjVTeXJDUGozUkRhd1pkMERkNGR4cHR0T1g1bUhwTms3ekplbEhDZHdPVkRqRkEtNlVVSkZfbkVRQllHd1E?oc=5",
-          "pubDate": "Wed, 14 Oct 2026 13:40:00 GMT",
+          "title": "Kelly Clarkson and a Brooklyn store clashed on social media. Behind it, power dynamics loomed - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb2lkSzRDYWFZM192eWV5YWxzUGtid05TQVlKbU5Qd1MtalNucnRLSldoeUxXeGVYUk42V3dsdVZtelBqbndPQkhWZ2tVdUFSb19uYUhVbkFNYTE1ZHlHZmhrVEp1MXYwMm5NNEprTWM4UXFlS3ZrQW16akVFdjIyV01IYzVUMkdMeGNPaUxNVU5TZEo5aHR0NExUVTVIWktibkE?oc=5",
+          "pubDate": "Wed, 14 Oct 2026 19:30:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Iran-backed Houthis strike Saudi oil company Aramco’s headquarters, officials say - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZ1ZldXo2RjBfTlF2NHFDZDQ3NnJnejktNnl3NVJVcnFVM1FjQ3FQN0x5SjFpZDRBeXplS0lTN2tUdWVZVWVKZm5LaUxkMVFQcmFRX1RRbFJIMm1zOTZDU3l2elZkb0twUkFnU3ZYM1pHYmRhYXRlVlluMHJkcWZITXRSQmMzNnF5d3dBcGl4a043MWkxUlZ5RmNqQ1l3UUxTbGRKOVdHSHhIQlRLZjlv?oc=5",
+          "pubDate": "Wed, 14 Oct 2026 18:19:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Kamala Harris adds stops to her final midterm campaign stretch. Her decision about 2028 comes later - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOV0NoRDlveTJ6QjhDY21lV0VXR0xNR0RJU2Q5LTgzMzR3Q2RaYURFYlNjQjlpa1JrZkFoS2dab0lHT0ZST1VLMllQbWlMQ0U4OHhEdkRkb2pZNlZJWVE3cnB2MDNOOGpTbUZRNU1qVG9MMVMtNmFkWkRONWtrcTQ1dHgxS1p2dG0yQmRwaGdRZmU?oc=5",
+          "pubDate": "Wed, 14 Oct 2026 18:11:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Texas prosecutor says ICE officer appeared to intentionally strike a man with a vehicle in Houston - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTGZ0elkwbTRKYmowMFNBcnJOUk5VX19GZVp2QmdVOTh2RG9HbXJZODRmcU5JckxpaUwwUFBSSGZpN1BXLTNWX2lWcFhOREJfT3R1N2dWWmFxd2draFgxcS1OaGlaMUVVU0pDX0duTDIwN3hBOEMwUDRTX0dudjFITTZJLVI5ZHRtY1liM0tXanJBV28?oc=5",
+          "pubDate": "Wed, 14 Oct 2026 18:03:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Ukrainian drones lose some speed after SpaceX imposes sudden restrictions on use of Starlink - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSWRmRG9DZUlZX3NNS19fcHRySUhIMlZadTN2YjVTdkdOQl9NT0lhSmJtdHM3ai1xMU9oQU1PVVRtMmdVbEFndlVWSXFJX2Y5RVEyRXlTQTFJclFBSHN3eVo2NlpMSlNrOWZfZ2hLR0VKZms1enQ1VjdicVdsN1R1RFVDVkJMLW5tQmUtbGpUN1JMMG5YWDNQSG9GVURLVmVZOVlzOFF1elAxR0w0?oc=5",
+          "pubDate": "Wed, 14 Oct 2026 17:18:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "See the world in vertical: Top photos by AP photojournalists - AP News",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcXYyem52elluMkFFbzZPeHhqY0Z2NjFvV0stSXVrUjYwVkdaeWtRSXVkRzN1SS1JMGV2NjBZd0huQXZ1eUNfclREcnBuRF9zbVdZenBmeGZhVVNHU0J2TU1oQ0tYZWg2S0ZteWVfRGJyWDFWVTVvQnJtbUFTMU5rN2ZndEtNNzBPa3Y3MWF4bVl2ejB2UWw1cmhvTkFUZ1k1RU1WTTQ2Yy1fWTRTY0pFeTJCbEhOZw?oc=5",
+          "pubDate": "Wed, 14 Oct 2026 17:16:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "The first new sunscreen type in 25 years has arrived on US store shelves - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWE5haThDMVNMbUdGZ1BlaC02anEtYUgtNFN3SEJsTXdsZFVLRXJYejk2Z1VpMENFX0lBbFZaWXFQZHRDRllnX0I2Z19JS2NjSl85Qi1uWGhfV2tKbEpURGRRYThJcmNsLURSUm1faFM5ekdYUGtuc284UTJuMUh2NkQ0SXpacG45Tk1qNmFjbjZLbFd5QXlFeV9MNG5WajVUSUh6OEMyUkh5Zw?oc=5",
+          "pubDate": "Wed, 14 Oct 2026 16:40:35 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T16:55:55.904Z"
+      "updatedAt": "2026-10-14T20:32:50.648Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "EU delays methane rules on oil and gas imports for a year - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOc1FoRVViUjFFU1FZN0hKaDR4Q3M4S2VheF9USmZYVzNFYk9hd2t1WlJRbmNiSnRwNkF4ZjhxUThPaWdNd0MtS0FHdkFCUDQwWUI3RHAydzl2QkduWXBob09SWDNyREttM1M1Y2hBbDZMLW1HREVSVUtoRVFVOFR6OHNSc0xpUTM5Tmw2RGhSVUprbFNndlRiUU5ZdjA?oc=5",
-          "pubDate": "Wed, 14 Oct 2026 16:04:17 GMT",
+          "title": "Ukraine says SpaceX hampers drones for attack and defence, as US ties fray - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSmVTMHFJSVptMmRyQVZ3bTNtYktTRldrczlZUUF6dFBmZnl3WDRvcVpJOEU1azE3OEZlUXg2d005UGpnZ2NTR08tRC1xbmtMZVc4eldhb1ZaV1k3bVV1TXZ0VENlWWQ5MGduMk51dUNQVDJaaTNyRDk2dXB0X2xLT2FsNFRpemlybjZfZXlTei1TZEo5d2xLVmRUNTRJUkhhZEVZeWpBcHZrZ21VZFBYMVl6LTVHY2k2MkhFZnJ3RU9KS0Rs?oc=5",
+          "pubDate": "Wed, 14 Oct 2026 20:24:13 GMT",
           "source": "Reuters"
         },
         {
-          "title": "American Electric Power to invest $4 billion in fuel cell project to power Google - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMDVWVDNiei1GdWtyUjd1WUIxSlVJVDFLQ2xnazFXVkZBLWRvUmwtTnJ0R0xmRTBscml5UnJVaWJhXzZzakQxbFMwTlE4MDhLUWRBTzVjWjMtcXotbV80aWd4RHJ5WkVhZVpTb2x5MmZpeDhtNG53RzEwcUlPZEdfb0N6VE8xeGpfZC05YUduY1g3c1lvUWF1R2JDQzg0cy12TlZrTGRKWnJfYzNSOXFuMURYVVJyT2ZFcjJ6ejFhaDh3MklF?oc=5",
-          "pubDate": "Wed, 14 Oct 2026 16:02:44 GMT",
+          "title": "Eight US states sue OpenAI, claiming ChatGPT harms children - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVjc1cUY3cXJlLWNETVRLdnEzVGt4QzlBRFFFZ2p1aUVqdFRGMUNxMHFnNTlZVk5Pcmg0dUUyUkVhWnFJeWpLWnI5a2lMNjR3WGVRRlV6NnZiOTZnUXUtUnJteWZ2VEVwVW1wX1NkdThUSE9kck41ZFc1ZmlwS0FLVmxQS0k5WFEyMDM0cS0xVWxyQnBzVUJka0lhRm04Znp4TUE?oc=5",
+          "pubDate": "Wed, 14 Oct 2026 20:11:35 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Wall St slides as hot CPI data fuels rate-hike bets; chips, banks weigh - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMDkzb0Zhb0ExSzhlSnR6c25HbzdpY2g1djVFZ1R4eVktaWtCZ2gya1lEdHpzcHlEM1VITE1Pdlc1MmlDclhQQmxOWC13NXdXZjhPOEYtUnc3bm80eThIZ0lEam8tN0hXV3kxNnhob3g5OHFxNHd5VzJsTks4SzlJR0JRVE5LZ2JMbXhYNFhvOC1yTUJ5bWFEN0JWTFdpaFkxN2c?oc=5",
-          "pubDate": "Wed, 14 Oct 2026 15:58:13 GMT",
+          "title": "Ohio's working-class voters rethink support for Trump and the Republican Party - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWno4ZFd2QmdMeXRMUWg2dk1IVGg1VmJ5U19nZVVaZFBueWhMT05PWFZLNnYxZktyVXB4cTlJeGxXdDBROURCazNsN2ZtcnNVcU5MbElLWUhrUklEVjJJcE4zaGFiRXhnVEV6N1ZhRUZlVGpld2pRWm8zNVlJdTJ5UmFYbkl5VXlyeGpOR1RDYXk2SnhiS05RYzJHbUlnaWxxVmU0SDdiR0NaMTFRaTZz?oc=5",
+          "pubDate": "Wed, 14 Oct 2026 19:28:37 GMT",
           "source": "Reuters"
         },
         {
-          "title": "OpenAI employee who left for Apple took files about unreleased device, OpenAI alleges - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcjgxdHhRZV9nbnF4cVNBbkg0ZGJGWXFTZ2hDa2dTMXVCT3R4OWF6aDNZSjVnaDJEYm5pbUJqSzdtaDhPei1VbXU1SGlsZHFIOFhBNEVsaUZ1WlFsYjJ6ZGNPc1NVNk9fVVVQTVlYMEtPbjdKZ2hNcG9xM0VBLUpTVFlHSi0yTVZtNGpTODA2SGpOb3JLUXQ1S1E3WHZ6RzRldnZkeF8tamJodUZjMUc1OXN2dWI2QmhfUUk3bkZzR0ZaXzZnd2lNMndLMUZGamRhMHo3LUVfdm8?oc=5",
-          "pubDate": "Wed, 14 Oct 2026 15:49:08 GMT",
+          "title": "US individual health insurance enrollment fell to 20.5 million as of June, KFF says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNN2JnYXZTY2lWckVCRzdYVG5DMWFQUmNlS2gtaDZoTTRhcU4tOEdFY2pGVUs4c210SmNvVFd1aUN4cFF1bEwzRlQxY0NDWHg2WDZabF95bm1ES1VUc3FhRGc3NFB4TTFyd0k2MnNZQ3I5NzV1Xzg0UDBBUmdzMmQwdFBxMEx1OG9iWXRXYVZWeWpFRUFwZE0tUlE0U1UxV0kxWUlMaVNLYXpqdzIzd1RwQg?oc=5",
+          "pubDate": "Wed, 14 Oct 2026 19:18:58 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Google Deepmind's Hassabis calls AI hacks 'early warning shots' - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRUpQLTQySlpPSFREYzVycnZUeHhKeWh5TFZTSmw0elFKaVB0THNKYU44eHdhQnJBOS1aNFk2MzlRblBlbzZEa0J4ZFk0VFkxaTdubmpWNVUwaFNwV3pkbHpHYU1XWFlaTGp1MU1vRlNMdkU0Tm9ZU3BweUktbDgxbktvWXl2UzZsVW93LVFPbkZyVDFudHQ2Z3FzQjM1bnZRa3RfbWQ1ME44RFBhVXJiM19aWQ?oc=5",
-          "pubDate": "Wed, 14 Oct 2026 15:48:25 GMT",
+          "title": "As Ukraine struggles with Starlink and US satellite data, Europe has no quick fix - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNa3dydXBrSC1NYlBrVXhkeFhyYWJzbGM2X3ZGQ3pMMXljNFYzbzNXSW1WQXl2TTM4U0lrQ3BqZnhlNk9DQmZ2Qm5ISmRCZ1EyOWZic25OenA0NmVySlJoc2ZfNldiNlVkZUZveExMdU96blJnTU9vSzhZRkRXV2hLRUNYZkgxbUJGX0VDV2tuZ0EtUURTVnZCNTJDd3c1M3RnazkxMTRWRFNzY1FzalpTSUp1WmtDdzRWZlhZUGI0U1FtWlpnQ280U3BMWGs?oc=5",
+          "pubDate": "Wed, 14 Oct 2026 19:06:56 GMT",
           "source": "Reuters"
         },
         {
-          "title": "BofA misses profit estimates on trading weakness, books $1.2 billion charge - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSERjcDdENDA2c180cFVhdW01WTVBaEdQdjRvejB6eGpkNklKUE8xM05mX1YybXZmMExUUXVkVDhMZUxGS0g5MWN0S3NtOHk1TjBISzBTWHB6VElZSjFjTHFUdU5sZXZtcHFxa0VybC1qR2Y2R0doZThnbGJoQVE5LVg5bHBDZmFvUm9ONGVUdUszODFvWV9aWlROdnE4NWs5R0FYZmJIVFAxaHZCQlJVRmtidS1IUlhVM1ZIM09MeEk?oc=5",
-          "pubDate": "Wed, 14 Oct 2026 15:43:06 GMT",
+          "title": "Japan to invest $21 billion in up to two GlobalFoundries chip factories in New York - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZjM3SC1iaHFNLTdkS2N5U3JVS3lMR0p4Q1ZTclVOa2RDbFpzR2E3R2I5UlFlYWlsWHJfeGlKSEpockRseEpCTGpsNFAzanBPUkVVa3FiUFNVeVZ3S0daZ2JRWGc3Zy04RmFSbFRHeU5kRy1HaGJ2ZmViUHlfYk5CN0xYMEhXb250eE41clpvVHF1RDhIRWF4Z1p0NS1rQmVtbjFNc2FjMzVTaTlvM24weWtzS1V4M1RVdHpXWVNCU2REdDVkd2FwZWQ1V1kxZUZU?oc=5",
+          "pubDate": "Wed, 14 Oct 2026 19:03:43 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Comedian Russell Brand was a ruthless sexual predator, UK prosecutors say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZ194VkRSLUI1ZGNJcnFBQjVTc0ZsR2poX19rODV5QU5BR21rWjZlS1U4RjBEV1lZUTRjTjlvdTh6QzFfb1laRVd1ZDM5Q3JJdDhLSFJwWkdFX1hJUXRNbnZCdHh2dVkzMWFVRDdBeDU1N0N2MV9QeHpCM19TVDh3RHdwNG5JV2ZBTktJam9SdHNrcF9iTll2dGJzbms5YWF1YkZhVjVPQUhtUQ?oc=5",
-          "pubDate": "Wed, 14 Oct 2026 15:37:01 GMT",
+          "title": "US bank regulator faults several large lenders over debanking practices - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZmk5WGVUMUFYQ2pEcWhVMmUwTmYxUzlHMjlqeDVnY2xKc0RWVXZXeUJYZ3I4SzNHMXQyMktKTlJrRjFSRjBvQ2hqNjdDR0VvRnpBV3U3Qm9vQ1otZFgzV2VPaTdKNDBvVU13c2Y1MHVxVUQxVnZyYWNtc2NNY0ZBMERMd1pTM01pZWZZMVlpQm5lWWZrazdmR2NRTkZ5UjNXS1NBbGxKeDdaTXFnSy1HQVctMi05ZkVfOXNDOURncTJtNGRoTUE?oc=5",
+          "pubDate": "Wed, 14 Oct 2026 18:58:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "US retirees to receive 3.6% Social Security increase in 2027 - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNWZySkdIZ0V1NVU2S2VLWE1sZFdWUndpRnFZWDNwYTJjTE9nSVJ3Y01QQ0g2bjUxRFdqaU9GTUdaTTNHRGZsZmxuRDNCU2x3MTFGNGwxdEN3OV9PWnQzaGloakpQMHJFSHBmd1JveVVNQV9kTmhRZHR2aTAtRWxvekVuV1YyUkp4MzdKdlBrTnBJckdvdHFKdW5YeU1pZw?oc=5",
-          "pubDate": "Wed, 14 Oct 2026 15:24:42 GMT",
+          "title": "Eutelsat shares jump as Ukraine flags curbs on Starlink military-grade service - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVWhWbm1PUEtEQWFtY2lHdjRoWHhiVDdhaHo5U2NoLWMwVXlydnFvYUowbHRHMXNyX2NKSlJQZWY4VTZ1emotSGNkVHZUaEc2OGRJZjhmWFFZbGtVWHBXbzdUdUdJcmRnN2xpOFIxSU5NRzRKZzVtOUNqVXFvNThadVZZa0E0Um5FTUJUMEdhYkV0cjNlemFXUnFrMUViTjljVW9hSGRObGkySjJLcXY5OXBoN3FpQ3ZH?oc=5",
+          "pubDate": "Wed, 14 Oct 2026 18:48:44 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T16:55:56.496Z"
+      "updatedAt": "2026-10-14T20:32:51.121Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T16:55:56.743Z"
+      "updatedAt": "2026-10-14T20:32:51.346Z"
     }
   ]
 }
