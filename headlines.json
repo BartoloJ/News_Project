@@ -1,9 +1,45 @@
 {
-  "generatedAt": "2026-10-14T00:33:35.613Z",
+  "generatedAt": "2026-10-14T05:57:45.606Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
+          "link": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 14 Oct 2026 04:36:06 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
+          "link": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 14 Oct 2026 04:20:17 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Russia arrests Japanese journalist on alleged espionage",
+          "link": "https://www.bbc.co.uk/news/articles/cwp9g1el7x9zo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 14 Oct 2026 04:10:49 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Lena Dunham's Girls to return for limited HBO run",
+          "link": "https://www.bbc.co.uk/news/articles/c9m26xp4zp8jo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 14 Oct 2026 02:09:30 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Bank of America hit with $1.2bn fine for money laundering failings",
+          "link": "https://www.bbc.co.uk/news/articles/cm3wvxy6n3z8o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 14 Oct 2026 02:05:32 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "What we know about the man who died falling from a Six Flags rollercoaster",
+          "link": "https://www.bbc.co.uk/news/articles/cke8r4nmy36qo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 14 Oct 2026 00:59:16 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
           "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
@@ -15,46 +51,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 13 Oct 2026 23:42:22 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Watch: 'Traumatic' - Witnesses recount moment man fell out of Six Flags roller coaster",
-          "link": "https://www.bbc.co.uk/news/videos/cqy8le2mrd0po?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 13 Oct 2026 23:42:15 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Zimbabwean author denies using AI to write award-winning story",
-          "link": "https://www.bbc.co.uk/news/articles/cm4g1rekpgnjo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 13 Oct 2026 23:31:10 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
-          "link": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 13 Oct 2026 22:29:55 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
-          "link": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 13 Oct 2026 22:14:33 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Pakistan has locked down Imran Khan's stronghold - but it could backfire",
-          "link": "https://www.bbc.co.uk/news/articles/crgqwv4vl24jo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 13 Oct 2026 22:07:40 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "'I'd talk to the TV': The paid companions bringing warmth to China's lonely",
-          "link": "https://www.bbc.co.uk/news/articles/cm5ynwpzkgk1o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 13 Oct 2026 22:02:09 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T00:33:34.646Z"
+      "updatedAt": "2026-10-14T05:57:44.069Z"
     },
     {
       "name": "NPR",
@@ -109,117 +109,117 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T00:33:34.684Z"
+      "updatedAt": "2026-10-14T05:57:44.460Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Cornell suspends fraternity parties, gives state police role in investigating campus assault reports - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQN0hlOWdLdXpsRFVLdTZoNXN0NWxfMXlTSHRTRXBJa2xBeERmME5WMUhuWXlTc2RhNThCREt4ZjBmRngzbThSYnR6Q0ZVdEM4eHpMalpHTXo5dWxQN0d1WHFSTHViT1NJZzZNbWV3MjBsYVdhclBSMnZSOHJYUGRBcGVhcXRZYmwyaHM1ekV2NjNIQmlGeHpnNnZUajN4cVV5aC1n?oc=5",
-          "pubDate": "Tue, 13 Oct 2026 23:37:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Saudi Ministry of Energy reports limited fire in building at Aramco compound targeted in attack - AP News",
+          "title": "Fire breaks out at a Saudi Aramco building targeted in an attack, energy ministry says - AP News",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQR002VVo0b3ZvU0RXV3V5TWdvX0Jmc1NiQjBDNjljbTVWbFZnQ1hIUm5WTUNHZFZSNlV4WWoxZVBDNFhwZUEzZF9kVUlla0dZOWstVWZQQnA1TGpqeXI4Y05KbkpOay00U3NLYkZxZ1BHQWQ4ay14eEk3bHlfSzBMVzlrd2tuQ1hyaHoteGZSZ0pyYjdvYjB1QlEtOTR1YVNZZnZTRw?oc=5",
-          "pubDate": "Tue, 13 Oct 2026 23:19:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Six Flags closes 9 North American roller coasters after families watch man fall to his death - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZkNtdXlMaTZnbUtyRWxELS1kWDYwRVdpbUozWnRCUWJab2NXRDF2YmxocTY5Wm9BaHp3UDdxVkFoWE9XNEUzWlNXdVJQaTFPbWpJUjlrWEl3a3JtNFBSNGp0SkFfRjJZU2F4cmZBUnRpd2VCeUxGc0FFak5jRjZ2MUd0V3NBdG9xUWtCaHZwbmx5U1ZYeHpma3lLcHQtLTA?oc=5",
-          "pubDate": "Tue, 13 Oct 2026 23:01:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Tue, 13 Oct 2026 21:59:12 GMT",
+          "pubDate": "Wed, 14 Oct 2026 05:23:00 GMT",
           "source": "AP News"
         },
         {
           "title": "Pope Leo XIV diagnosed with lung cancer after surgery to remove part of right lung - AP News",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUVV2ZHJselJuYmhnZ21lbG9LOXo1N0JhRFdKT0U1aVA2blJjRXlzcFFCanQwd2V4Um9FT3A0SGpReXY3ckp0T21RZHVFVDBUWTRXTW9fZXluQ3FDYm55WC1kVDBhalNUa3NBZUNzZXFwZDBkcnJwNnQ2ZU9RbnRJamhqYk5GbWM?oc=5",
-          "pubDate": "Tue, 13 Oct 2026 21:44:00 GMT",
+          "pubDate": "Wed, 14 Oct 2026 03:17:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Jury selection begins in federal death penalty trial of Buffalo, NY, supermarket mass shooter - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVXRaY3FfZnF1X0E3c0d6MlpFWmtXVDlXS2tYZEZqMlJyNFFtbWdPVTQzZXlyVXBsamttMGRkaUpwNi15ZFlTa29wbTk2XzZjZE9ZMkFESHVxRUVhUmFnYXRTZ1hkUTZKTk1PM0pjRjVSd1dSdlE2dEZQY3dyRi1WdXpnRkpVelhaTnpQT0ZLRDR5SG90UjBWcVZmemdTdVN3bV9UZVVnLXhWN1lB?oc=5",
-          "pubDate": "Tue, 13 Oct 2026 21:43:00 GMT",
+          "title": "Judge extends order blocking Trump from banning CNN, MS NOW and Politico reporters from White House - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTWVXV2QyVkppUjcxckt2dEhUbHBLMnVKbXl1VFJLdFU2Y2Fkd0Y0WGlaY21QNnY0QzRnT1g1VTVoOUhPNkdVWlRQOEh2UDA3SEpmWXVNUG9WOEVsTzRMSXh0bk40YUJfWDFPbkVvYWJkbXIwMHBCQ2pKR3ltSmpJbHJCVEZRMlJzcG9sTnlVcmI0N1RpX1E?oc=5",
+          "pubDate": "Wed, 14 Oct 2026 03:15:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Duane ‘Keffe D’ Davis gets 40 years to life in prison for orchestrating the murder of Tupac Shakur - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVklEcW96WUVrS201dmkzNjV5NDFFWlpoOFl5bU9zSEg5SFd6Ylp4M2RXSFAwTC0xdHRnbGE0TnE4OThsSkhIaVBBYnB0RnYwblNQV2FyNzFCdWFUXzFGWS1JaVVaUXNKQVRPZnNjV0NjaDBORkVLVHdzQ1BGNnQ5OHhnNU1vNF9BcXRwS05qcVNNSGMxSmVRQW9ucw?oc=5",
-          "pubDate": "Tue, 13 Oct 2026 21:25:00 GMT",
+          "title": "Federal judge orders Trump administration to halt work on historic DC golf course until Oct. 26 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORkY5UHFTMWx6WkpJYy1mVXhrQnBnZnhTR3piXzZ5bFN6X1BpTnpxMC1GQXFKV1h2OWpaNHJJZHlRWHBYYUV6OEVnMHV0b3lrS0UydF9zOTBTYktsbnI0aWF5WHhQbFEwSFMydGsyRnQ1QVF5a3pkRWhwTWhUNVFtdktyMA?oc=5",
+          "pubDate": "Wed, 14 Oct 2026 02:40:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Employee arrested after listening device found in OpenAI conference room, FBI and the company say - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONVl0SzhGa2IyTHliZXlVSl9jcFY4V1NmUG5YN1F3WWsyUG1jSzhlMzNwZ3M2V2hmZWhfWS1pcFFkYmwtc2RZeTdJLVpRTkwxMmE4YjZkdHV3bUlZenBxeUhUa0tIU0VGeGtyTktPSGt5Z3VnUVRudWZ0VlNzSHJjc3hsY0puM0RTanBmSkJ3?oc=5",
-          "pubDate": "Tue, 13 Oct 2026 21:11:00 GMT",
+          "title": "Trump went all the way to Alaska in a sign of just how close its Senate race may be - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZndZOXVHelR1M3hqMFp1NHAxbl9HTW9QVTRWeWZsOXhNTGRYYUp3VTFhSFdQOTluQjZSc0FoUDU5b3RWWWR1RTJPNGdmcTBJeUZqalozOFhoVTRGVnFOaE1jXzRVQUhINDFqRWVXcmVnbUN1b3d1Q0hfRmJCd1E1WmdvRm9jSEV0dHVTaXlxcTdTaFVYZ3dQcUQza1ZUUW8?oc=5",
+          "pubDate": "Wed, 14 Oct 2026 02:32:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "In first visit to Ceuta, Spain’s king asks for ‘good faith’ from Morocco after migration crisis - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObmozWmNldTJoa3Z6M3BpUW9QQU1BcUR1c3pVdWtfdVpXckJkUW9VMGtOYjRJdENTUnZuam80MU1MY1JEVkdubkZlRXBGQkJTMXFiMkgxeEtUbFdBY1dNNE9GNVk3SGpSRTBqOXZfdWhES2l2aGJ6aFNCT25jRThLSlExbXFadzVGQkVYTW9XRUNxOGIy?oc=5",
+          "pubDate": "Wed, 14 Oct 2026 01:55:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Who’s in charge when the pope is unconscious and unable to govern? The pope - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNlFiQkdFQkJMRWFmU29lbGprd3N1bW15Vm5WR3hkanRRT1dfT2Rmb2Z4c2dBN0JsZTRxV0RVbjQtZ1lWYXNPLTAwRmg0b0JkeG9QU24zOG5IaUQ3NjViNnViQS1YVXgxZklNcEdybFctaS1lUDhuUnFqS1A2Yjc3NHB6am44YndZSUV4aDZwOElicFo0VTEyREF4OXpfWmVTVzBn?oc=5",
+          "pubDate": "Wed, 14 Oct 2026 01:49:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Zelenskyy says Ukraine received no intelligence from partners about missiles headed to Kyiv - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbkZsTE1wTW5KVUZmUUJ3MFhPTEdiajVmTWR3UUt6eU9uSWpHWlNmdDVpTUhSa1BnQTVDaW9GUXJoOXp2N2VmVGJ4cE5MNU1KazJCWVZPVGlIMGRnd2JTbndndmZGZEd0d3Zyc243ZnJ2RFVxMm9GNUItaXNteWRxUl9fUnlPc2wzVE1URzVDQXBhSmNiajN0MkdON3BrRGRjRllIUVptV0dzdDhYLTRlc3N6bw?oc=5",
+          "pubDate": "Wed, 14 Oct 2026 01:48:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T00:33:35.117Z"
+      "updatedAt": "2026-10-14T05:57:44.983Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Nasdaq ends down as chipmakers fall and bank earnings roll in - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdkNncVkwQU9JeFhSRFFWQ1FhcW5SUk5hY1hQMkpocmdCRlZ5b04zOGJnZ184T1lONDh1cUQwZFY3RVJxUmJzZDhpUWZ0RlhsUGluV3hoVG1TV2JWNEZtUS12R1Z0VURRQmt3SjkyUU44UkZTcmF1RnFaTm9POE9LYW5TWjY3el9jNzQwV1lOVkhaOGFDTE9Wc1NrM0RYTzJ5UFM4eF92UWV3LW03SHJ1U1I5cHF4eDNFS1liNw?oc=5",
-          "pubDate": "Tue, 13 Oct 2026 23:25:08 GMT",
+          "title": "Morning Bid: Let the doves sing - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HRnFFbzJhSFdTVk9Ua1htSHZPU1hKaF9oWXJrZUlsOFV0bTZ1aXVubk5VUERrdjdXV1ltZUM5bjhRTVZzem5LMjZrOEx5NVhSVFBmeHBJY0doS3A2OElVVXAxYV9pakxENE96N19xXzRZX1NtNDYtajhXaS1TY2M?oc=5",
+          "pubDate": "Wed, 14 Oct 2026 04:31:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Russian missile attack on Kyiv kills two, Zelenskiy says no warning received - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPLW5OV0ZHelpkMDB3VlZCUGVNYl9KRExhWmNZakJjMUxsMzg0dHFOZXJtenRzQXpGUXdydDNYdHZ2d05Tc2RmZXdSeFZMeGJZSkgzUVYyMmdzSGZYWVY5NUJfOFU2RFBMQTlzRmNCZElNbnlaQVN5UU5qMVBaR2VjX0xCWHRCZw?oc=5",
-          "pubDate": "Tue, 13 Oct 2026 23:13:39 GMT",
+          "title": "Trump says 'massive' oil, gas and mineral exploration to begin in Greenland - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRXAwYWFZMS12UWs5MXF5SVpmYk9hR1Bka01FNFNTdVE3bUFYbi1qdXZjbVNDaDVfMWQ0ZGhZNERJYUhYVHFLR0ZiYl9Eby1sUG84VTNqVmViTXJmaWVBbEVQeVZHZzRfVGxNd0xBOWJ6c3RzVW1FY3NpUEtLaHdBTzNDWmhUS3Utb3B4ajFjVUxUcGFHdmotT0NwMU5kS2lmSVNYTGd5a0NWdw?oc=5",
+          "pubDate": "Wed, 14 Oct 2026 04:29:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Trump says US still sharing intel, even as Ukraine reports attacks with no warnings - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRVA2WjlXNVNqR1RhTzFnOFd4bGstWUFZMDhCbXBNUEsxNzU4b2N2Tktwck9tMlFvSERMbFVwcnNkMUFTSVBxMjlia2VhMlQwZVllRlo5ZFpaUnl6aWFxSWJGaXhIeFJFcVA1ZUUxRHJqWjNqalNrU1UwMUtfX1hKTXhtN3pNVHdOSW93WGh5NlRuZW5KdVJPOGtsWWVHbG9UMy1tUjZrcWxEWGZkUldicFVURDFjdmdza3Q0?oc=5",
-          "pubDate": "Tue, 13 Oct 2026 23:07:11 GMT",
+          "title": "EXCLUSIVE: US Justice Department threatens California over alleged noncitizen voters, letter shows - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOV3pmdGxnSC1CZWpzZGs3d28zWXdJWGlHNzkzMEkzQm1jN281eTBpNE1CUElRODhOTVVPNTRsR1pzQ2xtcWlRQjdFS0dpaGp4dVFQSk15UEFJWGRJQkxBZ3haaElidjBFUXc2VXpDWHF1Y3NnX0llMzE3ODd0blJDOEZBRWJBeDFNUDFhd0VKYVl4clVhbUJzd1lFblpkOEZJSzl1UjlwWl9hTEdadWI2cWNnaUMtbWI1MzRmWFhuMA?oc=5",
+          "pubDate": "Wed, 14 Oct 2026 03:49:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Albanian students protest over education, jobs, clash with police - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZXdwS2E5SjA2MzN0QVRVR3BOQ2R0MW9sRmx0YW9rOVVhcVdjX2lsSkhhMXd3UHpqNERBUTJsVzlDMmdueDFKVms5aVdxQ0ZmYjBlRXJvRlBTRkhjTnR2WDdGa3BCbUx2c1p6cVBqTTBEVmFvVWxqdEl1ZEMxcDdaNXBzSi1iSGNqVW1iTURyYW5xeFBXX1ZqbnpxMWh2UzY1TTBFSW5OSHY?oc=5",
-          "pubDate": "Tue, 13 Oct 2026 22:57:07 GMT",
+          "title": "India's 'cockroach' movement leaders detained in jail for five days, party says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORm9WVGxQQTJVS3hYWksxaEo5Rlc3WmJFRVMwU2w2bUY2Wl9yZFJtRjlTc2otNE5Rbk1KclNGTko4b3dBeHJYQ3BDSXMwcTh0QXZkcWNlaVJPM25La1lSV3dmUllvMFE5UzhvSVZpOUQwc000eUFvWXU2X0YyMmlwMHNmTGxWRXpnMGloVVhMeWlJb3kxYmhOeEM3dW9qdkRQMGs5QzdtUlY1LXEyZFhqdUNB?oc=5",
+          "pubDate": "Wed, 14 Oct 2026 03:27:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Fed Governor Cook's lawyer denounces Trump's latest attempt to remove her - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNV2FUcXdjUFlhbzVNRWFtNXpFWnhJbkhXQXFqakhHUFlTUFZKcHVvMlNxb0RzZ2oyQTVBNUVTY1NQRUdkbUxvQlprZlhQclJxYS1pakFmakttb1VSUzlXTThNQ0sxZWJ0SEFrZmNQVHNzNW1PbDh2ejFqS1dfOS0xd2hlUTVEYXVmWEpBUlIwbTg4RzRvdnNFZzlNTktpS3ZTS0h4bGEtRQ?oc=5",
-          "pubDate": "Tue, 13 Oct 2026 22:34:56 GMT",
+          "title": "Taiwan must 'bear the consequences' of water cannon incident, China says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcTktd0pMaVp2SWIwWGVsektZX0RyWUFuTmVQYldCb2VMd0JjQnZLRGZmSnVjTkNoanFlQ21HOXRPMU5XMzB3TC1MY2RiRGJoV3Q1T0U2WVJBeEdhMVhqdkNmRm9NUUY2U3VVVW1aUER1UWVKVmxUbjdLbHZTaENULXRKbDNac0tOLVNnWGRYN3Y1M1RmaWUzSlJvNlNObHU1eHJtbDMzODZRaEkwdURr?oc=5",
+          "pubDate": "Wed, 14 Oct 2026 03:24:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Saudi OpenAI engineer arrested by FBI for planting covert recording device, US DOJ says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcjkxNVh4Vlg5aXhHdHJySlBhbC1iZVRDTTF1a2hiUk52eUlqUW1aWWtoeUg2TjQ0OWU1aURzNW5aWmZ1TEFBcGl4NTBIQVZSVnNPaFpFUnZqb2RjRzNQS0xLQjRkMmtJZWhuU1RLRXplcktzVnBHMVVhNThISzMxMVFYbXZoeWE2WFc3b2VzMlQ0Sl92Y0kwLXJ0MUxBOTdUNzFxdjR0VTI?oc=5",
-          "pubDate": "Tue, 13 Oct 2026 22:27:43 GMT",
+          "title": "Gold prices hold firm ahead of US inflation data - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZkM3NGdUajlORC1ZZjBNcFZtNjYwa2JRaFczS1V4OVRORGhzZG1NUGxaY3ppRjdfQlFvUmREakJQM1RGaDNZZmZFMnJrY2Rtemc2Z1dBY1pPRy1ZbnBJVzNfTG1MMGJ5TXY5VzFpaDd6UENqd1pUOVdlTm1sS241QkFzNm1kdDJXTjl5emhLV200WUI1QVh4RQ?oc=5",
+          "pubDate": "Wed, 14 Oct 2026 03:12:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "BofA fined $1.2 billion by US government for failing to police suspicious activity - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdlFNN0pWVFc2UEQ3a2ViakktenQxdzQwRm9FMFh4azdJOC1jM3FQUDBCbGxmdmw3UUNyWmt3OEhxV1JtVWQzeTFlY3RZZURYc3VZazU2aURrUXBsXzdYS3pDQ2o0aTdhemI0WDgzeTJncUUxZ05ZdEZrYXJidXNNYV9ScGIyTENZeklySS1wRnFLNWpkYTRadkxOQjVLNVpVX00zMTg0WXNScE91MFVITFVYRldudzN4UTFWQjhPTlV1VjlGZ0FqcQ?oc=5",
-          "pubDate": "Tue, 13 Oct 2026 22:27:27 GMT",
+          "title": "Judge extends White House access for CNN, MS NOW, Politico amid legal fight - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONGVxVVo1V0hZQmwtaUt1Y3NMUGg1VzV3cXd5YnBHTlFoeEd5MVRDQ3p3emphd3BpNWdsYmVnN3VDNFVYeDhlamE4MTZCTEsxVDhqQVcyTGI3czZZRmYtbzVIT3FWVk1JLXV1WGltMkNBb2lTaHZ5bWJ3VnI1MmcxWFF1dkNBdjdHNlB0alFTM1k3NUwtaVdFNnIzbVpueVBDMmhzd3lZRmR6MTZjcUFVMQ?oc=5",
+          "pubDate": "Wed, 14 Oct 2026 03:12:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Saudi Aramco administrative building attacked, limited fire reported - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUHZtMnk3dUVFWmVkT2FmZVRqNWNrUUc5YkNkWVJMOEhWMmo1dnc2S3FlUlExbjFscTdlY3NQcExPejdxUlF1clZ5S1BKQ1JLdjhzaFdXT2l1YVBmN2VVSkFOSlJNNmlTR2w5d082MDR2b3RkY1VrTTlwWFhuclBteVRaTmtMRUczY0VPaWxBeVV1RE9vUE9kRFZaUlZEX0NnOXZqVnNtNlJIcFU3cnE2VVFTNzhfNVZ0TzZiQWFtSUJCdXJXYU5rU0JB?oc=5",
-          "pubDate": "Tue, 13 Oct 2026 22:27:19 GMT",
+          "title": "China's September exports soar, putting $1 trillion trade surplus in sight - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVXg0RnM4TVlLaHEwQjBYdU16ZGhJaXpFeVVXYk9FLVg1RFp4cVlvWWNWa2xlRlhacndGbHpYeF9QMWs5Zy0ydnV6Ni1kV2dIUS1Ca0NEYVNpdHlQMk1EdFBOc2hxTVlJLXZXX2RKbVplTG5NY1B2NEl2UXRFaFROckZjUGdVZW1vcWpYUmdJR21JOTJrQkhIT3E5Y25CM1VCMDNwOWcxbVdsZw?oc=5",
+          "pubDate": "Wed, 14 Oct 2026 02:41:00 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T00:33:35.534Z"
+      "updatedAt": "2026-10-14T05:57:45.387Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T00:33:35.613Z"
+      "updatedAt": "2026-10-14T05:57:45.606Z"
     }
   ]
 }
