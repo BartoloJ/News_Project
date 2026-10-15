@@ -1,64 +1,70 @@
 {
-  "generatedAt": "2026-10-15T14:20:50.050Z",
+  "generatedAt": "2026-10-15T18:32:26.801Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
-          "link": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 15 Oct 2026 12:28:26 GMT",
+          "title": "An Australian band’s ‘unreal’ journey to break a gig world record",
+          "link": "https://www.bbc.co.uk/news/videos/c62keqn7wpwdo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 15 Oct 2026 18:09:58 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
+          "link": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 15 Oct 2026 17:47:22 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Watch: What does Starlink have to do with the Ukraine-Russia war?",
+          "link": "https://www.bbc.co.uk/news/videos/cqr7yzpxm083o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 15 Oct 2026 17:31:37 GMT",
           "source": "BBC News"
         },
         {
           "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
           "link": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 15 Oct 2026 12:03:51 GMT",
+          "pubDate": "Thu, 15 Oct 2026 16:50:18 GMT",
           "source": "BBC News"
         },
         {
-          "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
-          "link": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 15 Oct 2026 11:25:19 GMT",
+          "title": "School headscarf ban sparks rare protests in Azerbaijan and row with Turkey",
+          "link": "https://www.bbc.co.uk/news/articles/cwly0g2r4k3po?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 15 Oct 2026 16:15:06 GMT",
           "source": "BBC News"
         },
         {
-          "title": "Eight crew missing after drone attack leaves tanker ablaze off Romania's coast",
+          "title": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
+          "link": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 15 Oct 2026 15:26:16 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Watch: Pupils heard 'cracking' sound heard moments before Pakistan school roof collapse",
+          "link": "https://www.bbc.co.uk/news/videos/cmq8n5gv1pnpo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 15 Oct 2026 15:05:29 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Seven crew missing after drone attack leaves tanker ablaze off Romania's coast",
           "link": "https://www.bbc.co.uk/news/articles/c60qkgpp592yo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 15 Oct 2026 11:12:54 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Obama says drift towards extremism 'not inevitable'",
-          "link": "https://www.bbc.co.uk/news/articles/crwyd7vq3xw1o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 15 Oct 2026 10:51:53 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
-          "link": "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 15 Oct 2026 10:05:29 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Brazil's Congress approves shorter working week in win for Lula",
-          "link": "https://www.bbc.co.uk/news/articles/cmwy43pp08elo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 15 Oct 2026 10:05:17 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "White House defends new press secretary over her legal credentials",
-          "link": "https://www.bbc.co.uk/news/articles/ckqxne2evqreo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 15 Oct 2026 08:41:04 GMT",
+          "pubDate": "Thu, 15 Oct 2026 14:51:30 GMT",
           "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-15T14:20:48.793Z"
+      "updatedAt": "2026-10-15T18:32:25.553Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Inside the race between Elon Musk and Jeff Bezos for control of outer space",
+          "link": "https://www.npr.org/2026/10/15/nx-s1-6002922/inside-the-race-between-elon-musk-and-jeff-bezos-for-control-of-outer-space",
+          "pubDate": "Thu, 15 Oct 2026 12:45:02 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Social Security benefits to get a boost. And, Hasan Piker defends his rhetoric",
           "link": "https://www.npr.org/2026/10/15/g-s1-148199/up-first-newsletter-inflation-social-security-ukraine-russia-yemen-saudi-arabia",
@@ -90,136 +96,130 @@
           "source": "NPR"
         },
         {
-          "title": "For some Christians, Hegseth's plan for public execution fits a biblical mandate",
-          "link": "https://www.npr.org/2026/10/15/nx-s1-6001794/fort-hood-execution-hegseth-christian-nationalist",
-          "pubDate": "Thu, 15 Oct 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
           "title": "These swing voters regret voting for Trump and it's influencing their midterm choices",
           "link": "https://www.npr.org/2026/10/15/nx-s1-6001714/georgia-swing-voters-focus-groups",
           "pubDate": "Thu, 15 Oct 2026 05:00:00 -0400",
           "source": "NPR"
         },
         {
-          "title": "Morning news brief",
-          "link": "https://www.npr.org/2026/10/15/nx-s1-5998698/morning-news-brief",
-          "pubDate": "Thu, 15 Oct 2026 04:46:47 -0400",
+          "title": "Trump cancels public execution, but a line may already have been crossed",
+          "link": "https://www.npr.org/2026/10/15/nx-s1-6001794/fort-hood-execution-hegseth-christian-nationalist",
+          "pubDate": "Thu, 15 Oct 2026 05:00:00 -0400",
           "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-15T14:20:49.055Z"
+      "updatedAt": "2026-10-15T18:32:25.602Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "FBI agents and analysts fired for roles in Trump classified files probe sue to get their jobs back - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQmE1VUNZYjBrTWE1TXdwTUNCY3Z4MExEcnJoRnBsOWVPMDd4aDAzV282RS14Y2xhMXVsdElCLVU4YmFXMV9RWF81eF9idWc0Tl9keEFiUEhGYlF1OGJxRUk0dTNETmVCVlpfcGRFU3hFWkFKaDFQUDRNV2YyYW1ubk9JcUpHOXQ3eVo4M0JTS0NXX3U4X2FyeURaZ1J6MlFMNzh2YzNJbXM?oc=5",
+          "pubDate": "Thu, 15 Oct 2026 17:47:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Wall Street steadies following jarring drops for AI stocks worldwide - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOWhsa2ZhTGZKbFhXckYzcXZGbDZoeUxRZXZlbEtSU1ZkOHZndkpDSWdqQUZZTmJDdHNHUlFHSXlRRm1zVUNKVFlXVEFSNW50Qk9vR29MazU0a3laNlJUR1ZBMlFlUGlWTl9VSk9CSnRUQTZvWV9INUNOLXdOeUtBdGpWaGo0YzNSeVVlMDlZQlRLQzV3TEE?oc=5",
+          "pubDate": "Thu, 15 Oct 2026 17:26:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Trump, after bipartisan backlash, says Pentagon won't livestream execution of Fort Hood shooter - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRzNuVjFfdUxtUEJVU1J2MVVFNmRGTDBCM0E5a2ZwWk03bVNSMndsSHFySWtKUkdDdWtNdlRKQ1lWYW1sVlNQTzBwd043dDVlTEJUQ3dHT3pUVVVFVC1Mc0wwLWFjeHM1U24wXzZzYWR0WEY3ZThpOWRvOU1ENElFakNMZ2lmRy1obVpLYkN3?oc=5",
+          "pubDate": "Thu, 15 Oct 2026 16:52:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Midterm campaigns are asking, where’s the beef? And how much does it cost? - AP News",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVXhNQWphX19ZWFg2Z1dRcThYNFVqSU4xb2dEX2FVaVN1NGEyT3RHUVp3QTBrTVVCeTRyTi1nenpKVEVVRl95NFBFYzlrQW9GaHMtRGFjNzBlUEt4bndWeVFyOWVuN1oydkdDZzhfQTFTQW9TUTlGcl9fLWhPcU1XUnpzX0pGZDY5a2JtajhseU14SzI5bXc0Yll1UWRrT0xCYkdpQkxuY0pIbFdLVTVB?oc=5",
-          "pubDate": "Thu, 15 Oct 2026 14:05:00 GMT",
+          "pubDate": "Thu, 15 Oct 2026 16:30:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "More drops for AI stocks drag Wall Street lower after whipping around the world - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOWhsa2ZhTGZKbFhXckYzcXZGbDZoeUxRZXZlbEtSU1ZkOHZndkpDSWdqQUZZTmJDdHNHUlFHSXlRRm1zVUNKVFlXVEFSNW50Qk9vR29MazU0a3laNlJUR1ZBMlFlUGlWTl9VSk9CSnRUQTZvWV9INUNOLXdOeUtBdGpWaGo0YzNSeVVlMDlZQlRLQzV3TEE?oc=5",
-          "pubDate": "Thu, 15 Oct 2026 13:59:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Doctors say Pope Leo's lung has recovered well from surgery and say his post-operative tests normal - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVDVBc19LTFg4Mm15NHFyVU95bVJqdlVHLVV5MGlRMFZqdmw5UzN0c2F0MTVONUdfTmxsczY0RU5HSWpFOWhpM294VC1GdlV3M1dfSGVRMUhkRWVHcU9xMWpYTFhJSjRDZXVfM3ZhTjVTdTVWVEJ6dlJkTjNidHhfTlUtRWNaNUlISlhlMTdtUE9WWGl1aXVLUkl0QURaYzdXQ21TNzRWcw?oc=5",
-          "pubDate": "Thu, 15 Oct 2026 12:44:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Wholesale inflation jumped last month by most in four years as gas prices soared - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNExzSHEyWDFGWnpSTkR2V3NndkhQTmU1dzE3M2pTWENyU3RPRTAyb0JQQXNqbENPTjJneHRsYWpMMXFPUXg3dnZfekhEM1VoSFNIRTM4U29QR1l0TGhzeVd6WkZIamdXWDkwcmdlR3k5eExLZFd3SUc0MHFQc1NoQlIwRWw5MzM5OVpndWJKa3NIZFNJRGx5YQ?oc=5",
-          "pubDate": "Thu, 15 Oct 2026 12:43:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Police seize robot that groped 16-year-old girl, investigate whether young men were at the controls - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNc1VNdWRPZEZJT1pVUlp2RHhDb0ZYd2hDaGpDd2ZZQnNJMUhzZnNNeXAtWlhjQVY1UldISXd4MG9CT2p4M3BlSVB3Sms1VDZpRTdha2Vzcm81S1RHSXVmSlIwc05KOUZ6Z3V1NW1oMFJxWVVaOS01V0VDRWVJMFV2VFNvOHBMSjQxMzNrWXVxZk01dnpoR3FqeVctaTY?oc=5",
-          "pubDate": "Thu, 15 Oct 2026 12:06:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Ukraine resumes attacks on Russian oil refineries, officials say, as US relations teeter - AP News",
+          "title": "Ukraine abandons truce and attacks Russian oil refinery as Zelenskyy says he feels betrayed by Trump - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOanVvOXBrUl9qVzlNb3ljaFNMclJtU0JkcGMwOHg3WngxQnJhSUc4VzZGV0hvRDBBek9DejBaaTNwWVVSd0thaUt4dXJWZGVEVHdaeXNHQXVpV3pmZVJwN2o2ZDFrTXNGTVdaLTcwY1haLXBlWTRRNnpZSXFFSmllQ0xEdTZHLVRhREJCU3Q3WHlycGhCcEdTSXpjX0VDb1BXYXFiaGp5VjBXQQ?oc=5",
-          "pubDate": "Thu, 15 Oct 2026 12:01:00 GMT",
+          "pubDate": "Thu, 15 Oct 2026 16:00:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Rubio urges restraint over Ethiopia-Eritrea tensions as rights group reports civilians killed - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxON25rcm95ekRQd1NFbWpDRDJ5NWNpMnBuTVNCbXd4M0IycnlSMEpOeENmN2dpSVJQcm1CV1BIUU10Wi1fSTBZUkVvMEtEZHZsV3R6TjhWcFFZeThNXzNiTEIzRkN3R1dxNkxoWEJxNTEyT2NndVdybHJubXB2c3AxVDNPMk9zcy1OWmNLYTF6elMwb3c?oc=5",
-          "pubDate": "Thu, 15 Oct 2026 09:29:00 GMT",
+          "title": "School roof collapse in Pakistan kills at least 35 and injures more than 50 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSk03U2RteGtaLTl1SXhmZXUxeTRDTzc5UnJSM1RRVWx3a1hWeU51UGszTGJIMHQ3U3l6NWkwUUxURENCOFVJbXdCekxRclZsQlRTNnU2eFdnXzBGOEt3S2ZlcW9QcXdVd2JJTDBScVhqa0FzOENDdFR1VG9iZTVQdGFRT0xoMXJIbGVHUlBMN3lGSlVIZjk1QXBrTkJlQ3M?oc=5",
+          "pubDate": "Thu, 15 Oct 2026 15:33:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "North Korea holds first underwater-launched missile tests in nearly 3 years - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTjBMMFpHMHM4MzVCcWlvdjk1eXdqOGFDekxUSUlraEVSOUNvNnlMYjd4THhwak0xMDd6MTB4c2QycVlYRXFhaVFyNmF2VXdxajVRdkdOVFh6NG1NSldTbTRQMWhOSTljX3RhNUNfR3VhNUM0RDdSVmQzakRmUEFTbF91NnlibktSYjJPd1VhSEpyaGNZTUlYaEVfbWUzMzEzQzEtYmFR?oc=5",
-          "pubDate": "Thu, 15 Oct 2026 09:21:00 GMT",
+          "title": "Pope Leo resumes working, sees top aide in hospital as doctors say lung recovered from surgery - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVDVBc19LTFg4Mm15NHFyVU95bVJqdlVHLVV5MGlRMFZqdmw5UzN0c2F0MTVONUdfTmxsczY0RU5HSWpFOWhpM294VC1GdlV3M1dfSGVRMUhkRWVHcU9xMWpYTFhJSjRDZXVfM3ZhTjVTdTVWVEJ6dlJkTjNidHhfTlUtRWNaNUlISlhlMTdtUE9WWGl1aXVLUkl0QURaYzdXQ21TNzRWcw?oc=5",
+          "pubDate": "Thu, 15 Oct 2026 14:36:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Retail sales up 0.8% in September, but a big chunk of spending went to paying gasoline bills - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcERfQVlYaXdFLUJoR1BlenBSM3hmTHQxTDJ3MjJKUUw2NzZTRndQMFNBYV9IcWhleGZHRzhvcVFuX1FuVjRBNXNVZVFEQTNKRjNHWEhrSk12Q1NDWmR3aklaNVFCdVlPck45cmZiVjNmRXpxRkEtRmc3MGdSWFRnUXRDQjlOTG43VGliR3VlX2VDeWVmS2xBRFVzUDdvZThhY1hrUU1WNA?oc=5",
+          "pubDate": "Thu, 15 Oct 2026 13:40:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-15T14:20:49.527Z"
+      "updatedAt": "2026-10-15T18:32:26.121Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Just over half of candidates in key US Senate races say they will accept results, others hedge - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbkx3Y2ZQNjVuMjhITGZoWTRPdUJxaE00cWdLR3ZuRllkaWtFdzFkWXlwTjRZWmRxbEJtVXZ1dTc3X3Q4NXlzdzlBcXdZS1FkemJMR2IzNzQteW0wQS05bVZ6U0NGN2FRWTlDWjUza2V2bkRfUTJyS25QYThSVGpEMXdrWXo4VE5GR2JEVUxZTWVTbl9kSGp1WEt1ekQtS1B1c1NmY29DazZGbzktbHZYdkZzc1hUUG9lNGhaaEphMzFJYmVScmc?oc=5",
-          "pubDate": "Thu, 15 Oct 2026 13:35:17 GMT",
+          "title": "India's top court voids Yes Bank's $880 million AT-1 bond write-off - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMzFfQ2pjUjd1eUVySlhZZlFrZHNJaWdTako1Qmp0UWZuUFhxSHBhVEdNeXVJWGZvR1k1Nm1vdlBtVnFUZm1PNHRHUm8ySHdySFY0T3hMX2dwVnhRNXBMT3NEeTQtTlRfNVMtbURneUNhRmRibU9vRjE0MGQwZl9DZV85UERLTGpJZFdqZTI2SUYwRjJQZmU4a0E3NXo1Y2F1c1Utc0NfNzFZSFVOYk1R?oc=5",
+          "pubDate": "Thu, 15 Oct 2026 18:09:04 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Yemen's Houthis hit palace in Aden, coalition details attacks on Saudi infrastructure - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQODZXb0UtbHJiTHdmLTZhUENYcXNNeVptZDFGV1pUUEpuS3A0RzROVlBWSGw2V2tvdjNabmlnX1llVmh1Tno5TW5jUjhLWm5BY3VOREdYTnd5Q2RpdmdyVnVzR0lFTlp4SDV4a3JzNWo0US1xdER1eUkybkRtOHlBT2U4RE43NFI2dGVnb29fSmdPVmVPaDY3NG5fNXRabFR5dkJBU0pwNDFZSkN0NkxaU2lEd2c1Mk9HbUNUYTROV3BJUnh3TEE?oc=5",
+          "pubDate": "Thu, 15 Oct 2026 17:50:27 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "CoreWeave's slump spotlights growing burden of debt behind AI boom - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOckxhLTlLMHVuWl93dlRGWngzUjBqY0wxaU85Q2lPNGxaMzg0ZjJhT0ZGd210N1N5SDVpV1lLNl9GOXlNazFrN193TFNFREg1dU5OTkpadm9LVHRxU0ZzQWVWbFV1MnNHY2RGZHVsajI5UWRlWDE5NmtGaDctV0o5ME85dkV3RU5LSEFWdTlNUW5RWXZ5S1BXelNMZkI5ZEZfR05kd1UwNnBZQlQ0MHkyQVN3?oc=5",
+          "pubDate": "Thu, 15 Oct 2026 17:48:43 GMT",
           "source": "Reuters"
         },
         {
           "title": "How the Houthis are helping Iran turn Saudi Arabia into a pressure point - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdGVvZWRvRzA4MGlxRTRTLU95S2ZWTnB2LVZ1ZDBPQTdxbW53SmViQk96X3FpTlVXNEtZaTRvMld4akRJUm9vOU56NjJfSnROV3pCeURHQ3BCcTBYbW1KVVZyLVBaT0VXaE55WGc0WGI5c2RRdC1RaVZiT092ZU9RaTBRdmluamFTQ0JuRWRWNTNYdzhOa1dfNWVBNV9RcVMydFZoaHpFMlJnSHhrckl2cnRyZC0xc0xMcW5Idw?oc=5",
-          "pubDate": "Thu, 15 Oct 2026 13:28:19 GMT",
+          "pubDate": "Thu, 15 Oct 2026 17:42:36 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Cartier-owner Richemont in talks to join De Beers bid, source says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVWVQU3FmM05zRFJmS3o3ZW9OanpSNWV1X2Z0SllMSEtZTTdLYXBFLW5pNl9iN1FvOXF1MUgyM1ZVMXg4Vlk5RFVjaENmaXJvb3Uxb1M0Mm81a0E1RkVDTHRRSi1Ta0FUWTlvTGVPR19Sa0NadEVkc2J5UWNlR2c4SUFMMnU3ZVNsX1NKd1RFcEdxUmpZWUdoU3hjNUVySDNpdGt3MlltYXdzenVXdk9kT1VoYmRLQk15MUJSQTBFSUJRbzB5?oc=5",
-          "pubDate": "Thu, 15 Oct 2026 13:22:05 GMT",
+          "title": "S&P 500, Nasdaq pare declines as AI rout teeters; healthcare, staples gain - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZTRob0s4X3hCYkZQZzFfeUxuU1ZlN0tPT2hvelcwcW9QdU9yeVN1ZUZfR253ZUNoN3NjUlRHbG9aS0wzMmVGLUpNOVcyTUlHOWo3WERDX1psTXlmWGthb0JPN19GMGxnT2pkYkRWQ0R1THEyODhoWnZTd1NIQjdZbm5fLXNYb0M2c1g2YU02TENSSi1xSFZMQzRuUTc?oc=5",
+          "pubDate": "Thu, 15 Oct 2026 17:09:57 GMT",
           "source": "Reuters"
         },
         {
-          "title": "EXCLUSIVE: WEF could appoint Lagarde as early as November, sources say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNExHamNuVlEwYUJMR1pmbjhxVFpNYURJVDNqU2wydDRMSDV3WkNSajkweDMzTU9FRGpsclhFLWFJVVRzcWxpMWlZN0VkYkNyUVlOWmhoZ1BNNXA5M2s4WU1EUEZVMDRWM3ktWUtaTmM2UkhfMEdSZ29oXzBZMFJyUngxN05NYjYzUUVQVksxaHBjSzFyVjNHLVpaaFZweTVlUkMtNnQ3dUI?oc=5",
-          "pubDate": "Thu, 15 Oct 2026 13:11:11 GMT",
+          "title": "CNN signs multi-year AI partnership with Google - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZnM2QWR6ZVFBcTRKb1MxbGgwXzBYMkt5aldWd2Q0UHRBbklWZTBYQVdEeFE4QnRDY09rR1hnX1BSam41NVRRS0d6dTdaSkU3c3NsbFMyYS1sN1pqRnA1dl94bXRxdk01WTJaNnFWVVJzRk5xUjdTRDBocnlzbkVxZWdNaUwxRExrU1RrVkd3ZXJpM3djTVFBSGZZRE0wRWVKaHpGRER4d2hXUQ?oc=5",
+          "pubDate": "Thu, 15 Oct 2026 17:09:44 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Cohere moves to buy AI cybersecurity startup AISLE - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUE9DbHl3UklEenZpVjFtNVpCb1RXY0ljendQMVZudHZGSFRiYk4tT2hsNk5KMjJIVDhjbDVyVXNxSkVXS0JmaTFUSml1XzNsdDdpQjBJNDd1MFlEdmdPNFE5VDMwbEc3dWhUTWdGT2ZzbVdScGJtTkFjNkdMT19KYVRXUTI4b1d0eE9KVHhPWUhFbTFPQlRsVWVTdC1EbEMyODlkc2FR?oc=5",
-          "pubDate": "Thu, 15 Oct 2026 13:01:59 GMT",
+          "title": "Israeli firm used online ads to run vast spy operation, researchers say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeEJrbGVXVGZlSEYzZnNuUVJYQVJKTHY4R2xJcWo4aVdGMERyS3p3YzQtNXFNbmUzMk1seXAydGtmZzhDeFNiWjBuWkpxa25PdUlpeU92bkdnZnFETDFGQ1VGMjR0S0J0RnZ3dE9sa1BCOU1FRlBSZ1h2R3BOeUJLT3JMc29Ib05BeC1FV0FxdUQyS3ZNajcxNXZ3ZVF1bmNWdkhqMElBMDNNa2dNVUM4NVRQeWl2dDkzLWJrSg?oc=5",
+          "pubDate": "Thu, 15 Oct 2026 17:02:51 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Market selloff, rising rates test AI data centre deal boom - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUkF0Z0d5VTdCU1hISVI0eXNTUnpGOFlXc1BwM0dHWEJ6SWs2REc1TEdFdUtQRlRYTUM4TXRqcnFYZWlldDdjQnhLQ3ZQVmdrYXVvTWhwSGRnejRLLXBjbms5Z2pRMEJVWlp5Yks5WG5Tck9ZYXJaVDk5ZGZyanhEQVJUOXJMM0hBTzRTNnVheFlkcmpUSzdadi12VmZlbGFEWjA3SXEzcnJ2TTRXMkZv?oc=5",
-          "pubDate": "Thu, 15 Oct 2026 13:00:29 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Venezuela's Maduro due in court over new US torture charge - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQVZ3VzZsQTJMSnlVV1QwemJZSjRBY0JrWTdBbGg4VmhMbG8tZzRDOHhRU01NOWJCV25Iem05S1BqanZjbDdray1rNUFYOTBKZS0xT2R5UTVUeHE3N0FvVmppUU5Dem5SUXZQb3hYYXhNekdPRjVMVEdEMFpMUGk1MjZJZGZtNlUwSzgtN25FM0ZtRG9NVzJUWGtWU0djQTBiYkY1Q20xSzA?oc=5",
-          "pubDate": "Thu, 15 Oct 2026 12:56:09 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "CoreWeave shares, bonds slide further as AI debt fears mount - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOckxhLTlLMHVuWl93dlRGWngzUjBqY0wxaU85Q2lPNGxaMzg0ZjJhT0ZGd210N1N5SDVpV1lLNl9GOXlNazFrN193TFNFREg1dU5OTkpadm9LVHRxU0ZzQWVWbFV1MnNHY2RGZHVsajI5UWRlWDE5NmtGaDctV0o5ME85dkV3RU5LSEFWdTlNUW5RWXZ5S1BXelNMZkI5ZEZfR05kd1UwNnBZQlQ0MHkyQVN3?oc=5",
-          "pubDate": "Thu, 15 Oct 2026 12:49:39 GMT",
+          "title": "How Aramco learned to keep pumping oil under fire - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMEo4RHMzbGVMLUpQcnFqT28tSlU2Q0FBUlZtc2MzaUZSLXpsd3o3X1VGQXplLWJUaUJuQ1BCbFdVbzZwZUk0OURuZ0dmcWVkaWNaclNBcHBlRGR1bWViNWROR21UV2pSRTdqNDZfUVFDdHR2TG9lUDd5eDlNRzVtWHRVNFI5d3I4MUtQdG04SVA1OURzQzI5WXk3N3ItUEE?oc=5",
+          "pubDate": "Thu, 15 Oct 2026 16:57:37 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-15T14:20:49.967Z"
+      "updatedAt": "2026-10-15T18:32:26.599Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-15T14:20:50.050Z"
+      "updatedAt": "2026-10-15T18:32:26.801Z"
     }
   ]
 }
