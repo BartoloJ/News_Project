@@ -1,9 +1,33 @@
 {
-  "generatedAt": "2026-10-16T00:38:32.796Z",
+  "generatedAt": "2026-10-16T05:40:11.155Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
+          "link": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 16 Oct 2026 05:00:17 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "They fled Russia, but the West sent them back",
+          "link": "https://www.bbc.co.uk/news/articles/c6x23qpzjklwo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 16 Oct 2026 04:57:28 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Three children and teacher killed in US primary school shooting",
+          "link": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 16 Oct 2026 03:45:09 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "'It's really hard to believe' - How Oregon primary school shooting unfolded",
+          "link": "https://www.bbc.co.uk/news/videos/cwe8r29mjd05o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 16 Oct 2026 01:36:45 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Houthi missile attack on Yemeni presidential palace kills five, minister says",
           "link": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
@@ -27,34 +51,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cmq8n513x523o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 15 Oct 2026 22:46:49 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
-          "link": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 15 Oct 2026 22:37:21 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "At the scene of a school roof collapse in Pakistan",
-          "link": "https://www.bbc.co.uk/news/videos/cr5yn5wel153o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 15 Oct 2026 20:31:02 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Watch: What the data centre boom means for Arizona ahead of midterm elections",
-          "link": "https://www.bbc.co.uk/news/videos/cw62yvzv9mm3o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 15 Oct 2026 19:46:07 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Watch: Australian band breaks world record for most gigs in 12 hours",
-          "link": "https://www.bbc.co.uk/news/videos/c62keqn7wpwdo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 15 Oct 2026 18:09:58 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-16T00:38:31.704Z"
+      "updatedAt": "2026-10-16T05:40:09.683Z"
     },
     {
       "name": "NPR",
@@ -109,76 +109,82 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-16T00:38:31.757Z"
+      "updatedAt": "2026-10-16T05:40:09.952Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "More roller coasters shut down as authorities investigate fatal fall at Georgia amusement park - AP News",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUTRtZU92Wl9VQVV1elM1UUxySmd4SF9UNGVjV29MSk5tdVFFQWd6eDRKOUJPZGxCaUlpVE5oazh3V18tZjR6aURqRWVrWC1ITGU5ekw4UnFhVDhISm1YQTNTam5lM2JJMnVMOE5aa0djRkN3c1dXN2w5R0ZuazI4SnZzMFFWUDA?oc=5",
-          "pubDate": "Fri, 16 Oct 2026 00:11:00 GMT",
+          "title": "Commercial goods are no longer entering Gaza, raising fears of worsening shortages in the territory - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLTAyUnoyU2RLT3VmOVcyMUNFbmxwa1NJR0pGQTU5RDc1Sk0xckpqTmxjMUpBNHpYVHBLcVEyMV8tOHdFWThrYm0wOU1fMGtyck9WVWVsUHIwQ1VldVFhckJQbkNSQ2hkcmRLalBGSlBITW9Qc2M3dG5Yc3hJRGRoWmcxN2tlclVXNk93ckJlZncyUmJreVE?oc=5",
+          "pubDate": "Fri, 16 Oct 2026 04:35:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "5 people believed dead following shooting at Oregon elementary school, 2 officials tell AP - AP News",
+          "title": "Brewers sweep the Dodgers in the NLCS to reach the World Series for the first time since 1982 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSGhBMzhBUUxiOE1SYzFtV2NDTWtZemt4UUs4S0dOSElMdVZGWURJOExPa21SSkJpYTdPUC1hNk50dnRmOVEyNkhmZFlBTnpUbWtBM2FMbXJSUEozQjIxOHFJcWhTYnZidUs0VnQ4aGtFSnU4SFpCWEMtT3VxS1V1eFQwNVRRRkdIcXowMXJzMA?oc=5",
+          "pubDate": "Fri, 16 Oct 2026 03:41:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Prime Minister Mark Carney says US is trying to break Canada as Alberta votes on separation path - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRjh3dFJwbXhHZm1Zc0lXc0o3amZfcHdZUWQtYmZRbU1pdnUxSkk2VkVNVUYyLXJxdTR0eTl1ZW83aDlRR0hwT1FFMzNEV05kYi04ZUNiOGNuUEZudXhGV0IzTzBJUmdSSlVYZU9lNmNrOE9uNEJjc0dpNWN2LUFyYmdrdzByYk1OWHJCQzJlNkZ4b0ozejNEUmdRNVcxYW5feUluLUJOZDY4RW8y?oc=5",
+          "pubDate": "Fri, 16 Oct 2026 03:32:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "A rare family of barn owls moved into Manhattan's Upper West Side. New Yorkers are captivated - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTVdJTTJHaHg2ZGo0U2tob2dFdG5JX3p2OGY3MkpEbjZ0LU00Tk1jWEFmSTliR01PWHVTVGdjV1FMc1BTYVZ4U29vUlF0TVZFaUd2aURGVXZnaU5tUXZCT0lHTFVOLVhBejFlN3N0b0pjMU8zcnotWkppYkpMN250S0VDUnI3bzJ4NGY4SzllSS00X19XZnlWaVEtUlg?oc=5",
+          "pubDate": "Fri, 16 Oct 2026 03:30:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Teen shooter kills 4 at Oregon elementary school before being shot by a witness - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUm53TEZKeGNjZ21QOGcxMWJ6V0xQSExrNXN4dU9zY0l2dWVZLXR4THBGRXJOclp3aUNQcDhjRHVsOXdNY1hjSnhyc0NzTS1Da1ZEcW5MS19ON0JySE4wNkNDMHF0R2tDM1JsbnF5R05HbEhhYlRHX0ZoWGM5SUZDei1PMUFUSEx4OUFzV05VNWtuWVBMdE9QWnNlci1sQWJpQWVSN0xrVEc?oc=5",
-          "pubDate": "Thu, 15 Oct 2026 23:43:00 GMT",
+          "pubDate": "Fri, 16 Oct 2026 03:11:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Authorities investigate letters with 'suspicious substances' sent to congressional, election offices - AP News",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdjdXQjZTSnNCWmdZVmw4Mk5ydFlXRV9tbFltdkVId3l4TDR6YWw0RGFicmlQQU9EM0l3YXlzR3Z4eFY0WDlRa2RQa0o3UGN0TnFQdXBnME83enZWX2NlaEU4S2l6TU0wcXp0TnBvMWJPY3lVLVVBQTg0emE2OFNfWVdGOXU1ZDI4cnhCaHpaVUZYOU1QaGJ3UmtFYWtKQklmYTBMSlFoZ093YWtOVTF6RDNIenFlZGZKZnpZUnBqaw?oc=5",
-          "pubDate": "Thu, 15 Oct 2026 23:16:00 GMT",
+          "title": "Youths clash with police for a 3rd day in Albania’s anti-government protests - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa2pDMS0xQnJkMTlfUHBfTVp1S202TFkzR244S25sTVlpZFJ1RjM1dVN3QjZUQTZBdmxNQzNrR2F4bXlOSGZ1dGJIMFJDd3MwZVdQM19ITzVHanJOSjRmV1N4RVBENkVpYUNTMjljQUtKQkwwWUNEY1dvOXg1WGpxN1VTUnNWd2Y2dkltQXI3QlBuV1BPM3NKdnpjcUVLZW8?oc=5",
+          "pubDate": "Fri, 16 Oct 2026 02:35:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "With anger spreading over Iran war, Democrats hope to flip Republican seats with veterans' help - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOakxhTkhvNnpjY3RyMk02MHhWWlllc2xDOFQ5U25GekpZOWZPcG9PMVp0RjFXM3k3YUZRcmM2Z2dzMkI5Skhxa1J2S19ndVFzRmJua2VHZUJIclJCM2pOeG1VYmV5QkdzR21uQTJLMkppdVprNEZsYkFHejhNak9fN3p1NmphUjVBMGtVXzQzNEdrNDZzU3RDRWxOOHMzMkN4Z2tjT3FzOFdVWld5SWpiak1uQQ?oc=5",
-          "pubDate": "Thu, 15 Oct 2026 22:43:00 GMT",
+          "title": "Shohei Ohtani back in the leadoff spot and launches a 3-run homer for the Dodgers in NLCS Game 4 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdF9xTldXcEZ3VjRQREpUMXpNU1psSElpZE9RN1hKaFA4bXR6djBQSFhiTWUtajhNZ0k1Tk1YRjNNM2pNbWlETm5EVnVjVHBXUlZQMG9ELXhzV1pFOWQwd1FGVEtzdVdLcExfVE16cUUwaFd0Y1UwSkZod3JmZE1KeWM5Rk9udw?oc=5",
+          "pubDate": "Fri, 16 Oct 2026 01:51:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Hot weather and winds raise California wildfire threat as power shutoffs start - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMWdKRjBxSDZhbV84bFU1VmtQazJoSGs3VV9ncVhjM2t2NHlFSHZZd0w0X0U5RjFNXzNiMEZwT1Z0RFVobGt6dEF0cHhTLWlCOF9hWTBPblVEaGNMV0FXZ3J0Z2RaMW9rVXJpNzF4ZVpTN0ZMRXlHWDJ6OGZQc0lxUUVVaFRNSGIzM1dYamJ1X1VHdmpOX3dUWWFuM20?oc=5",
-          "pubDate": "Thu, 15 Oct 2026 22:40:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Trump administration sues California to block state from counting alleged noncitizen mail-in ballots - AP News",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVl9JMnNTOHhmLXl3M2FDU1MtVWNlbGtvVER2MXdSa19zWGMxS0doa0RUbzZ4UWh1UlU1XzRyNWZ2UW56NXdXVUlpVjRvYmR0NXFGTzdxRUlpOGtJRmNPMnZrc1B0Tk9sNkZ5bjBrajM3cEo0dXI3QTVlZl9CWm1LbGxmaHhaSEdqZDBnOVNXdEQ0NmpXNmZBYUtScjAxa21xTHZFanFEZ3RkSmJ6RXFFYklXdlphZGc?oc=5",
-          "pubDate": "Thu, 15 Oct 2026 21:22:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "2 killed in explosions near palace used by Yemen’s government in latest Houthi attack - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdWFBY3V0N0h0Q3B2eEFNN3RSNzh0d0d5T1k1Um04UVY2R0ExekZiNFN2RFFNSUhobXlOUmNma3FfRmU3TjBQSEFjNG0tQVQ3Qk5EX0RoaEZmYUpsMnBnR0dRb1hfTFg2THB2emYwZmZZUTRfaEVrTU1VUDFWM2lCVTBXa0ltbC1DMmtvcjdBR3l4TVB3eGdmUWFnSG1UaF9VYjVWRG9naw?oc=5",
-          "pubDate": "Thu, 15 Oct 2026 21:21:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "FBI agents and analysts fired for roles in Trump classified files probe sue to get their jobs back - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQmE1VUNZYjBrTWE1TXdwTUNCY3Z4MExEcnJoRnBsOWVPMDd4aDAzV282RS14Y2xhMXVsdElCLVU4YmFXMV9RWF81eF9idWc0Tl9keEFiUEhGYlF1OGJxRUk0dTNETmVCVlpfcGRFU3hFWkFKaDFQUDRNV2YyYW1ubk9JcUpHOXQ3eVo4M0JTS0NXX3U4X2FyeURaZ1J6MlFMNzh2YzNJbXM?oc=5",
-          "pubDate": "Thu, 15 Oct 2026 21:12:00 GMT",
+          "title": "What to know about Starshield and why its disruption rattled Ukraine’s forces - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVFZmZHNYbjhCMVd6Z0NBNy1lQUhiYWNRVERXNGtPUWd6SGpOeHBjQm41anp1WjBhM0xtQ2U5dmllbWZMTHNYaFQxeHhOQmtGMDU2VUJMbjRhazA3ZjNpS1VZSERpaHdIazREYUJITEJwalFHWnk0T3RJNm1haWRiRFVDcm1JRnhVZ3RGQ3JhMUhZcTFYMzlDMFg1QVFJSFZRQkFCSEdYM3A?oc=5",
+          "pubDate": "Fri, 16 Oct 2026 01:41:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-16T00:38:32.257Z"
+      "updatedAt": "2026-10-16T05:40:10.557Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "US delays small imports rule that raised alarm over prescription drug costs - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZFlLVlQzV21wOE9BTDhIblpaNDlOdlY4M0NFc0lWZkM0Z1prdTJxODVaS3RCUV9nRW8tNDV4cm4zZS1ncElKOV92VXpjYmlnWUMxd3lIcklpbGlUY3dMNlhaeXFVUlpOeUFxd29LNjNfTl9PTXJYNGMxWndQN3JCTU1sa3lTd1J2MUpQOC1Gbk9RcTJUUG1vRV9OUzlfY29yMk5GQmg0X1pkVFRydUczaG10R1dielV1NWgxSk9RTUF2WnUyZWNn?oc=5",
-          "pubDate": "Thu, 15 Oct 2026 23:31:11 GMT",
+          "title": "Earthquake of magnitude 7 strikes Russia's Kamchatka Peninsula, EMSC says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQzJGRXBGQV9tSWo1S3NWenFNRG5MbVZ5dUhUeXE5TjN0NjFqVEZLN1FNVkdzMV9FUi1TRjNIU1lLOGhBR3kyRzJjb1p2dG9ucnUzX2dZM3djWFRqcmlzODFsNjluRWQxR3RvWGdhN2hTNHoxUDVRTjk4azVzQVJ2QTB1S1ZCLTI5dDA3TkJ4Z0V4c0o5RnRVWmM3Y0dIem4zbWdnaF8waU1Ecng4Y3VTa0h2a1JSTlY0X19WMG9WU21NU2c?oc=5",
+          "pubDate": "Fri, 16 Oct 2026 03:50:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "EXCLUSIVE: Investors temper Anthropic IPO valuation expectations over revenue growth slowdown, sources say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRW4tSGppV2U0ZWtvaXBsQmlyaDVVLVFCSmJNMWdmMHpod0FWd25kUXRNQzFvZXJPTmhoQUNvMlFrQzI3NjBQVG9McWFPRHdUODhMbVItOGg4S0N3ZmJ4R2psZVd1aWFZM2M0aEY4R3VaYnFZWUxhOFZiRXAxTnc5UG9hMm1ERGpKbURkX3BWYzQ5UWl3THBFTDhWUWR0SVhUSWJsekpMZjM4OUZRQl9BVmY2djVKRENDSldCSUpOWmdvbHVK?oc=5",
-          "pubDate": "Thu, 15 Oct 2026 23:27:38 GMT",
+          "title": "Trump says he is talking to Russia and China about denuclearization - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUW1idXlSVm1fUVQtdFk1T0pYTU8tcEx2YTBiQnQ4M0ZmeDFDeGpXUUpqMEZRbC0zT0g4dkoySTlXM05fbkNRZE5RbzFZcEktTHpBYlJxcklTaHpkRHgzRnAyakp4cGVIQjRITGtWZG1XZTlNdF9LcmlVRjJIaDQweHRxR0NUQS1jeUYtc0NsWWlEMTNTcEd3dUhFZjZMYnhWbU9CZVNKWS1TTjBz?oc=5",
+          "pubDate": "Fri, 16 Oct 2026 01:04:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Oil heads for weekly gain with Mideast supply risks - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOY0FIVXBWc1k5eW1ObWUyOGNQS1NGZDA5anNoLVJmVDRoMGR0ZUM5aWdDYTFDX3lKN2dYbVlhZzhuTFUwcVo3N0xmTkpBNXJKV2JLVW9qUmdmNWdxaWFJVlFZLWVPVHJjZ0RTNUdYdGxoMk9RZms0aHpzQWlTVDd4LUNnQ1RKUlZmVkhFSS1FQlk5bWl1dkU2QTQ0bDA2dVdHVzMzcTlRZi00ZkM1THVWRFgzTnYtUm9id3pBM1BWeEI4ZVFqU1ltSDB2SQ?oc=5",
+          "pubDate": "Fri, 16 Oct 2026 00:57:00 GMT",
           "source": "Reuters"
         },
         {
@@ -190,36 +196,30 @@
         {
           "title": "EXCLUSIVE: Order to limit Starshield for Ukraine came from inside White House, sources say - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTFVmdXZNRHVvVzZhYTJWZTRETDgtRElBT0RibUJvX2VfUkI1NGt6Q1lTVmdON21mNjdXTjFNcXBkZlJ5X0NFYkMzOVQwWjZZTjNPN3hlY09Ta3ZUMUVoRm9lWWV4N29rWXV6dXpQNTNCRUhXTHVySUlUZTNaR2dORUVPd3l0SEJOTmJFaTJURnNyTi1icE5qZmsxSDNuNFRKTEd5Q21iSEdtUXJCWEI0UWNwOGZDdw?oc=5",
-          "pubDate": "Thu, 15 Oct 2026 23:12:17 GMT",
+          "pubDate": "Thu, 15 Oct 2026 23:07:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Shooter killed at Oregon elementary school; CNN, CBS report four dead in violence - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdzdxY25FWnN6S2wzbW9iMGhHbjRWcEhzQ1cybjFSUUE0c096czJPMDBWQ1Ffem5YU0o4eVV0bUhpQ3FzbmZmRkJway1rV0NadEhGTlZka3FfY2dWbXU2OGRKenFCV3hfb2JTUk1OQnhCNml0WkZlVGlIZkkzdmxLSzZvUHhtTFlRQnpVWUJvd3dXT2FVNDJZNGZ1cmt4Qmt0Q1d3U29fTXJzMUUwTGlScGZ4a1JDdw?oc=5",
-          "pubDate": "Thu, 15 Oct 2026 22:57:43 GMT",
+          "title": "AstraZeneca strikes $40 million AI drug discovery deal with insitro - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaGhDYkZMZ0F5S0ZlU3NudjgxN1Mzb2NQeVFNQ2FCN253aFI4Vzdlb0JMSHZfUm9KaUYxam9Ga01rbUJod29GS3FycDhmQkRSeUNBa3dWZERBbGhmLTlscllTSkR3ajU4MF9zOFJZTFhYX1VnR3N2bVZwSHVnRTVPZWFpd3gtd2NtN2Y5b1ZtTFBqbEJjaEFTeTlIUFRPOGJGUXZCVElUMjVXRmRMNG1uU2NMMERidDIxUFVn?oc=5",
+          "pubDate": "Thu, 15 Oct 2026 22:55:09 GMT",
           "source": "Reuters"
         },
         {
-          "title": "3 children, 1 adult killed in shooting at school in Oregon, US media reports - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdzFMUW1qazF6RjFvU0pOMXVhZHo5aG96MlBKMmVSbkhDZ01XWk5ySV84TFJYQ3dKVmVtdzRKdV85b1VCMWhHWWlYV3B5V0szaFJXbDQzb3VIY0lUT1NwbVZES1R5bnZjMGttaThYYUZxRHU0ZjhuTjI4Q2JGNFZWc0llMVNoUXJWUFRzX1FUbWhsX1pFYXdfMDI0Mm5ocFAxLThOcnRuQ0RJRzQ?oc=5",
-          "pubDate": "Thu, 15 Oct 2026 22:42:11 GMT",
+          "title": "Cohere moves to buy AI cybersecurity startup Aisle - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUE9DbHl3UklEenZpVjFtNVpCb1RXY0ljendQMVZudHZGSFRiYk4tT2hsNk5KMjJIVDhjbDVyVXNxSkVXS0JmaTFUSml1XzNsdDdpQjBJNDd1MFlEdmdPNFE5VDMwbEc3dWhUTWdGT2ZzbVdScGJtTkFjNkdMT19KYVRXUTI4b1d0eE9KVHhPWUhFbTFPQlRsVWVTdC1EbEMyODlkc2FR?oc=5",
+          "pubDate": "Thu, 15 Oct 2026 22:09:48 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Yemen's Houthis hit palace in Aden, coalition details attacks on Saudi infrastructure - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQODZXb0UtbHJiTHdmLTZhUENYcXNNeVptZDFGV1pUUEpuS3A0RzROVlBWSGw2V2tvdjNabmlnX1llVmh1Tno5TW5jUjhLWm5BY3VOREdYTnd5Q2RpdmdyVnVzR0lFTlp4SDV4a3JzNWo0US1xdER1eUkybkRtOHlBT2U4RE43NFI2dGVnb29fSmdPVmVPaDY3NG5fNXRabFR5dkJBU0pwNDFZSkN0NkxaU2lEd2c1Mk9HbUNUYTROV3BJUnh3TEE?oc=5",
-          "pubDate": "Thu, 15 Oct 2026 22:13:21 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Elon Musk agrees to settle lawsuits over 2024 election lottery - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRWNocUdlZHdZdEpFWmotSFNZbTd5cWVveGxXYnh6WFNBaUNlUDhKdnE0c1VVZWdpYkVDazJxeUdRSXBKSW9SUm5qc2gyRDhpdS1jTkxidGNXSmFfajdGeV9ERUQxMnUtYl9ZNzZ5M0J4cXdLNWxfTzR4d1BNblNlNlN1bEM3VUd2MDhZVzcwNTlybllZYWhkejBmUDNaUXJqaUROcDdrb2wxV3RSaEhnV1ln?oc=5",
-          "pubDate": "Thu, 15 Oct 2026 22:12:27 GMT",
+          "title": "KFC picks Coca-Cola as US soda supplier, ditches longtime partner PepsiCo - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPY3pOZ1RpY0NtVzh0UHZZMDN5OTlBQjB2VHRYeE9CYUN2cGZwZERiNnduY2dmaUVqN0dyMUI5eGxRQ0JCVkJuRUJ3RWZrNnlfalVtQUhBdFVxZllvS3dWMVp3TVVuN3FFX28xQ2U3a3RPUmlFZ0p5Z2hXSDUybnFYcFJDUHlDMGV6WDVTQ3pXTGtHYXQyZ2VWTklCbjBQMTdtSTlHZ2pFRGFiQTN4amc?oc=5",
+          "pubDate": "Thu, 15 Oct 2026 22:01:38 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-16T00:38:32.684Z"
+      "updatedAt": "2026-10-16T05:40:11.026Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-16T00:38:32.795Z"
+      "updatedAt": "2026-10-16T05:40:11.154Z"
     }
   ]
 }
