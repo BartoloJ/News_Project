@@ -1,60 +1,60 @@
 {
-  "generatedAt": "2026-10-17T00:42:46.955Z",
+  "generatedAt": "2026-10-17T05:25:59.256Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
-          "link": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 16 Oct 2026 23:54:35 GMT",
+          "title": "Katie Zacharia leaving White House role less than five days into job",
+          "link": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 17 Oct 2026 05:20:40 GMT",
           "source": "BBC News"
         },
         {
-          "title": "Pope pictured for first time since surgery and cancer diagnosis",
-          "link": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 16 Oct 2026 23:20:37 GMT",
+          "title": "Trump waives several Russia sanctions as new US law takes effect",
+          "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 17 Oct 2026 05:02:50 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
+          "link": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 17 Oct 2026 03:11:10 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Brazil sees record fall in Amazon deforestation as key election looms",
+          "link": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 17 Oct 2026 02:33:09 GMT",
           "source": "BBC News"
         },
         {
           "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
           "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 16 Oct 2026 23:07:38 GMT",
+          "pubDate": "Sat, 17 Oct 2026 01:19:04 GMT",
           "source": "BBC News"
         },
         {
-          "title": "Trial of German steakhouse heiress that sparked a huge spy scandal",
-          "link": "https://www.bbc.co.uk/news/articles/cwvgdn3d656vo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 16 Oct 2026 23:07:18 GMT",
+          "title": "The uncertain future of Canada's 30 rescued belugas",
+          "link": "https://www.bbc.co.uk/news/articles/c623dnn3xvpko?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 17 Oct 2026 01:18:08 GMT",
           "source": "BBC News"
         },
         {
-          "title": "Katie Zacharia leaving her White House role less than five days on the job",
-          "link": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 16 Oct 2026 21:05:05 GMT",
+          "title": "A thousand slogans echoed here - but it could be the end for iconic Delhi protest site",
+          "link": "https://www.bbc.co.uk/news/articles/c6kgqjvdv4n2o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 17 Oct 2026 00:41:58 GMT",
           "source": "BBC News"
         },
         {
-          "title": "Trump denies limiting Ukraine access to Starlink network",
-          "link": "https://www.bbc.co.uk/news/articles/ckz65g34wyd8o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 16 Oct 2026 19:33:48 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "What we learned from heated US midterm Senate debates",
-          "link": "https://www.bbc.co.uk/news/articles/cqly03y3zg7lo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 16 Oct 2026 19:09:37 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
-          "link": "https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 16 Oct 2026 18:11:29 GMT",
+          "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
+          "link": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 16 Oct 2026 23:54:35 GMT",
           "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T00:42:45.648Z"
+      "updatedAt": "2026-10-17T05:25:55.227Z"
     },
     {
       "name": "NPR",
@@ -109,33 +109,39 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T00:42:45.852Z"
+      "updatedAt": "2026-10-17T05:25:58.144Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Multiple Southern California homes are ablaze in a fast-moving wildfire fueled by hot wind - AP News",
+          "title": "Trump puts new Russia sanctions that he recently signed into law on hold, citing national interest - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZnJQRmxjVThxTzVHd0pFZ1kwcWtlM0Z1SWUxNVBnRDFFNzBsZmp0TmNFYkEwai0xSW8xcDNvbXpMRU5rU2hoZk1DZ2FuemtfdGVYTlpXN3QwZjV5emVoQlhZa0tDQ0tXM2d1emJRNjJvSHFJYTkwc0pBc1NYc2VyaVVrb2tEb0VEUW9Ka0dhRjM1WER1?oc=5",
+          "pubDate": "Sat, 17 Oct 2026 03:18:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Coastal homes burn as hot winds fuel Southern California fires - AP News",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONmJmSmdlU0NrdkN0LTJXMGYtbHdsTTk1dTFhY2tGbHVtRENWSUtGWVFHbk02ZVJsWnZwZDJQTGdVbm5xOUpCanFtMXhOUlh1VVdXWVFkQjVkQ29OeFRqWExBdXgzQWFGSXNsWjA1V3lHdjdHNGhfNFpINGlpenlpVHlIRHhvTTdoclNZOUlORk5BakdtMXJXLVNlQkI?oc=5",
-          "pubDate": "Fri, 16 Oct 2026 23:44:00 GMT",
+          "pubDate": "Sat, 17 Oct 2026 03:14:00 GMT",
           "source": "AP News"
         },
         {
           "title": "Teen shooter who killed 4 at Oregon elementary school was a former student, police say - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNlcwLW12UDlEZm1YNlAzTHVxTUJ0Zmh3OFZnZ0h5bmpmSUZzalllbG9XREtXYTZQUjNkYUNzWXpRTTFXWExjLV9vb1VpTVZCX1pBTFdZNGhoeE9lb0lGdTY1a0kwdldpNFE2c3VvUEx2b0JpTTBhc096THIwbWJGdVc2U0diMnhSNlgxZFVhR3pDeGxLc2J6US1tWG1MUElueFNxdGFvUTE?oc=5",
-          "pubDate": "Fri, 16 Oct 2026 23:36:00 GMT",
+          "pubDate": "Sat, 17 Oct 2026 02:23:00 GMT",
           "source": "AP News"
         },
         {
           "title": "California officials who process ballots from suspected noncitizens risk prosecution, US warns - AP News",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVHhuR0o4cWF2OHJ2SEV3YWs5bk9tTzg1MWx5c28xVl82eHF0clJDN0ZoZnFQUEwzU2pwc2J4dUxBcmxZYXJEc09sUXdWLVFoUENTQUJsdU5BU2x1d0pQMHJ4aUwwS21GMkotbmJsRURtYlh4VWRnLU9CeTNNVVNUQ0VjLXBQZVRTRmtfbjdJRUlzalNDVzZmMFU0ZXEwNXNTRE9wVGxQa2ZyT2Ex?oc=5",
-          "pubDate": "Fri, 16 Oct 2026 23:15:00 GMT",
+          "pubDate": "Sat, 17 Oct 2026 01:52:30 GMT",
           "source": "AP News"
         },
         {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Fri, 16 Oct 2026 22:47:06 GMT",
+          "title": "Painting Eisenhower Building would diminish historic character of White House complex, report says - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTmtnQmJhZUdYenI5NG1feE1iZnZTYjFiYTRaSm1mdlNORXlYRlpTMzJNaExzRERwejJzQTZYWnlQMzl5d1lYaFhMUThuMWlWTnktcHczOWkzYlZKdnctMTA5UFIxOVBHWEJxOG13cjhLLU1hTXc2TEo4YW8xUWFjam5SaUtXMnFodUNFRUFFQV9ybG9QNTBTMm1hYUt4bHZNbW8wNE1hNFlBR2gw?oc=5",
+          "pubDate": "Fri, 16 Oct 2026 23:07:00 GMT",
           "source": "AP News"
         },
         {
@@ -145,81 +151,75 @@
           "source": "AP News"
         },
         {
+          "title": "Georgia amusement park reopens as scheduled after roller coaster death - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSW9QMHZTSlQ3X0FoTXdSTHNra2ltQnpvRFJlQnYxaGJET2FPOFJWbU9hN21sdlBXQVY0a0ZtN00tZXVhYW0yLWZLRHBKMEpIYVR3eVU1OXp3Tm96c1dOVXBSWGg3YU13TWJqS1lsYjBnOUpwamtWZ1NOYXRWU2ZLYUY1RUNpLXpPM2N6OVZROHVteXMySGEydGEzZnEzN3M?oc=5",
+          "pubDate": "Fri, 16 Oct 2026 22:28:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Tesla’s new Roadster car can thrust itself in the air. But don’t expect to drive it anytime soon - AP News",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOX195aDdJcFhmZnVFYWFLZDFLX0Nudkp5VGh2Q2VVRm5neVVibXFwYzIzQUpiM09VZ0UxUWhfUU5tcllJdGlGckZEWEloeTRwMVhLRDBua1p2UlVMS0FXS09leHZXYmxBMkVVSTg0enRtOE94bk9BYXdYYUhSVjZaZUlCcFpRb002bDJkOGdBWQ?oc=5",
           "pubDate": "Fri, 16 Oct 2026 21:53:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "US markets are weighed down by an extended sell-off in the tech sector - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdFFYejUyLUpIbnJydUstZS1rSXRsdFhVN1hNTHF0VDIyc0FUZzFObERkVURrWFhyOVJrNmlSVExieWlKYlR2U1ByRTBxVVhGbjJrZzYxOEJzZVNJTVd2d3BCaXlaV29oNTJCVVkxRXJIbDUtR2poTXBMblhETkNlV1c1R3Vrck9RaHg0dXRCd0NUTmFDcFNkbUlVNA?oc=5",
-          "pubDate": "Fri, 16 Oct 2026 20:37:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Russia strikes 9 Ukrainian regions as a new report shows a spike in civilian casualties - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUkhGZ3BTcW9RNmZaUXE3TVR3czBVeGlhS3NuYXlyZ1NxU1BpXy16emxHOGRPQ3BKZGM0cVFCWDdFeWpsRnVydHI3dFRYaThlSXI4VVVuMGVLa2xCZnJDdUxxbDNrT1gzd3ZYQUV3VERhZl9fWFlhRHo4N2VEYUUwWldBUGlzcWlxc1FhVWFNdnNsb2xVOS1JbU5EV2QtUXhET2VWT0ozeXU?oc=5",
-          "pubDate": "Fri, 16 Oct 2026 20:24:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T00:42:46.365Z"
+      "updatedAt": "2026-10-17T05:25:58.648Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Hurricane Trudy weakens but may regain strength off Mexican coast - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeEE2eWszelJJRDBCMUQ4Z0lUWi15OWVxcklqY2RGM0dCYUl4MlBPNHowSTcwVGhpcWp5MHdSWktQbTdKTHNCRWNDVnRiNjFIVUR2S2FmRWlSYUt0akxFNmVoRDFORzBDQTB5Yk4wN3U2akxVeGpTZ3o0SXFDaGFUOERvcXNpR1lqQlQ1TzlVZjFwMWU0QzBlcGxqSXBTRDI3X0kwUnJTU0hsM0hDa2hJSDdQdU5FZ0hIWEtZdzNZaDg5akp3Yjdodw?oc=5",
-          "pubDate": "Fri, 16 Oct 2026 23:01:44 GMT",
+          "title": "Three sentenced to 158 years in Mexico for murder of Australian, US surfers - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ2J4RHIwY0c5ZmwzaGg4VmNYbG5kYWNwckU4d3dYSWxyUUVKMDk0U01jcm5fSllLMk91NEFDcDhraTlTS2Foa0dfbkZUQ0Jpa3NHZEp3NkpORkk4bHdzWTJPWlEtTHF5YlQ3SkpwZWYtbm4zb2U2dHBOT3c0ZWs3dEtEY0dvSmxMNGlvYlVDX254N1IyQTNhN2xLWTFncnozWTVsSEJ3dm5JOXhlWjFkMGl2WmpqMmRyRldqNg?oc=5",
+          "pubDate": "Sat, 17 Oct 2026 02:26:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Judge dismisses child sex abuse charges against actor Timothy Busfield - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUThReGpCZ0pENGxxMU5MZHp1TUJHV1ZsQzhqOWMzcFJ0RjZ4a001UjZ5RXFLVmJlSFVjOGhXcWI1cXA0bWVFWDNyVFBQT1YyT1ZLSzBQVHlCbmQzczBZYjlQaUlDSWIwU09DNXFidUwtWGN5M3h3dWFGWU5DeTFoWkhZQTdvWFNBWHdTaV9iRzVib1pYeVloOW83RW92aFVEZXI5aDV6ejJ6UzcwMjkzOG8zRC04SFgyTi1BOUw5NA?oc=5",
-          "pubDate": "Fri, 16 Oct 2026 22:50:55 GMT",
+          "title": "Trump threatens California officials with imprisonment over stance on mail ballots - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPS0ljZDBvVjY4OEZlamhaTjdXcy0yWTNGWVBxWEhqUFoybkRXNlFhM0VCVkZyT1EtSTVzMjZuWkI2Q09sNlc1bTM3LXpRY1dvMVVNcXBWa2Izdll6WW9QUnRKS09fQlJrdmZJb1QxQVlsSno5RmZPQlJFZ2xPRTliUFlwV1FWODJEdmhPcnI0c09LZ1A4WWxlcWlXMnRQdnA1YmxFMllqbVhLeTdia002RzV4UmI0RGNVQjN2VU84S29EUQ?oc=5",
+          "pubDate": "Sat, 17 Oct 2026 02:15:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Russian attacks kill eight in Ukraine, cut power to over a million - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMFIxaDNFUTFsWnMxSEY0d1NycVhrbEtVbHlGZHJpZDVVa3RuekIwVDFmejhRUWdoeVY4YUQxSXhmeU1NalJwZThXdUlIN1BBV0MyRUFYUmo4VWZ3RTV0VnBZc0xEM3VScTFDbnh0STBER0t6TVFFcnNubkxXM0t4M04zcVBGeW1iaXQ0X3JHQmE5a09KTlQ1UmRBUUJKMVJScnhsRVk1T0tsUS1YUlBGOUw2Zno?oc=5",
-          "pubDate": "Fri, 16 Oct 2026 22:48:56 GMT",
+          "title": "Trump waives key Russia-related sanctions, tariffs before they take effect under new law - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUWRsWXNvbUVMb01QdTFTbEhpSGhZLVZYVXZramJkQjg2RXUzbXRaZjZlcnY1QTNoeU1zQzhhOEhwOFZVSkRySFFZNWI3RjZtUHJLaDhybEhWVzFBTF9uVlZjWlNSQk5aX25iZ0EySjRQYjR5aVRiM1VERjVFWmpTOTR0Y1ZhNUtaTHpTaWdZZVRPUmppTUJtYl9IZlhGQnM3WkVSNmRreVBjaDF5anFfSHhqN1ZUc2p3cjRoU0pyUzRkZjlBM05B?oc=5",
+          "pubDate": "Sat, 17 Oct 2026 01:17:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Actor Selma Blair did not intend harm on flight, spokesperson says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaV9ndEpmLXU4eGNVbG0wQXBqZEdKUWFTaHlERGNXcWFpeFBvVXNEX0g5UTA2NFQ0UHVtSWN5S1ctQ2Rua2RTVVZXSmZSWjcybGIzR2xCVy1McFFRUmE5akdsWWxkMGozXzVlUUxhNVBfbF9kTXUzN1pXZDFISXdqNk5oYmZnQVNVZFRBMm5iOXNmRS1Jd0tQdmNDSHd1WEpCRzFmeUdaLVhLaHc?oc=5",
-          "pubDate": "Fri, 16 Oct 2026 22:20:38 GMT",
+          "title": "Bangladesh is battling measles. It's a 'real warning' to other nations - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLVdDQ0N6V1RSeHlVS2lLcmJqbjVyUlJ1ZFJFYWFlWFo0MUtWT3hmUW1MSzRxaXI5SGJza2N1dzdFUG1venFSTnpUSGlPUVpIUHRIZGV0TTBCVVc0Qk5valRHWlUwRjdDbVp6MUdRSmFiUm5MaTU0dC1mOHY0Si1kb1lqdUp2NXpDMmZaVTQzUWlMcTJUZ01JUFNUTWt4UTdqYlFlbU1R?oc=5",
+          "pubDate": "Sat, 17 Oct 2026 01:00:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Missiles hit Aden airport as Saudi-led coalition intercepts missile headed for Yanbu - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPelJ6OUp1VFpwTmJ0Qm85TzRUS2ppU0swVFMydlJuTDZiS1Q1V2R6M1N4bmpfeTZ0aWNqd29XbGdDMm9IVllmLTZUazAxQWFzX3lsVlJBbHI4TVRfQVFrZlk5MkNqVzVCMU5XYkFwM3Fyb0pkbDk0bGo5N1dwQWJMMEo5aEhIeXpaS1J5TkRLVFZTem93Rl9rM2trUHZlaDQwSzVIQTB4UG1xelRQSU5wZ2I4X1N1V0VPUElsWHBIYVZvckhpYk9RZVhZaw?oc=5",
-          "pubDate": "Fri, 16 Oct 2026 21:51:53 GMT",
+          "title": "Anthropic offers Blackstone double-digit yield in chip-financing deal, FT reports - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWVhYcEpDM002Y1VwaUFBYktyNFdkVG9XbXZaTU44b3k4ZzZRcmdLR294VXZkMDlYLXg1d0dJbUpoMzg3RHBoNi1qcXh1eU14UjJiSmNhTXdUUFNsakJYZFBrZ1BZVV9rdmQ3bHc5b0QycjZRUHBqcENmak5LclBVNmhWYnhTaVZtQzV4bExZamxKSEtDRllrMkNObjlFd3VoU0VIQkZaS2hpQnAzeGh3dzBqdWVHZm9sVllvQ1BEdw?oc=5",
+          "pubDate": "Sat, 17 Oct 2026 00:57:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Trump administration loses bid to disqualify Susman Godfrey from lawyer group's lawsuit - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOS0RwSk5ONnAyb2lUTHQyVm9Dd3RQdm8zNnpucUxJSms2WFhfakNmdlZHeG5UQXJXSmVKYV9aci16akk1bkZCdHFaZVFiZ3pOZjhrRjdUSWJjODE5azd0YXB1Y2o3ZmFSbkZUZzNRNFVPbEpzeW5sQ1JFcVJ5UG14NlF1TEVhM0pVM05xdk5oVEhDU0lIZjNEcm5FajdUVzNpUG9hS0JyYmZZLVc5Q2ZwdGhJZ1VMdjhUM0R3YVd0Z2ZmVkpsbUNISVY5cw?oc=5",
-          "pubDate": "Fri, 16 Oct 2026 21:50:09 GMT",
+          "title": "Trump mocks popularity of the name Mohammad, common among Muslims - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQ2c4Mjd3MjA4UFF3cXBJTVZKNkFCOXdERDN0YjY3NHNydFFzR1hXZ2V6dWljeGJYaUNNR3dEV1VXVHdXU3FhaTRtc21MSF8yZmRUd1lma0wzWU03S1pZR3E5NllSZVctYlJpSTJrLVMyekNHY0F0QkRBVEVLcVM3bnVTbzhLcDcya1d1ZzVsR0MwQ0psblVBenZnYl9IRjV4ZGl6Qg?oc=5",
+          "pubDate": "Fri, 16 Oct 2026 23:52:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Wall Street tumbles as worries about AI trade and high oil prices weigh - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNV0xEdzRIMVNLYnAyTkhHSmVNTnRyMDJ3WGdOeFY0Vy1kRUtmWC1FZW42aDNfWTctUHM5X2hlWkhuOHFwblR1Q054a19YV3ZLNTlVVVlmMlRTZ0wxLWE2cmN3SWpjVHU4VDJZWU12Q0hPajE5cDdvQm9ic05PNHNRVG45bEI1ZFVHaEN5QnZjbHMxUDFVbHZ2cFNlMUZydw?oc=5",
-          "pubDate": "Fri, 16 Oct 2026 21:45:22 GMT",
+          "title": "Anthropic quietly pitches its own AI safety bill to lawmakers, Politico reports - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOGgzckNkaE5BdjZxdVMta2hsdVczMHFrZ2U4aFgzY2VsLVF5VEFpd1FMQVc1V084YTZQU0IyMkdWbXZTbEtpdlhFWHR2SUI1SDdsczFmeERfNHhfOXRpR2NLTVhjRWF4YWNYaDBPWXJDSXpqLUgtSERBY1lHejU3MTl0T2pPMzlKRDlsdmFNM3kwQk1YSFlyMnpDN1FSVG0xM2xqNTZrbnNxQTVkT3drcVJSVm0zNFlYOUstZzlDYldrc1p5OWJR?oc=5",
+          "pubDate": "Fri, 16 Oct 2026 23:23:52 GMT",
           "source": "Reuters"
         },
         {
-          "title": "US solicits exchange of up to 17 million barrels of oil from strategic reserve - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeFNXdnRkamV3Q2plZzU5UHl3LUlPa2hxTVY1VTA5dXU2UXUxWG5DekxOY0ZrWlNobFBDNTRQR2xrTHRZbEJMZUd1dzRQSUd0ZmQ1TDRtTE9YcmRoRVEzUkhrQjhUX01DVk8zdU5saFJEc1NDUWFXcFhsbmFZRlQ0b1FGdm9nTnFGSDAwWUxVMDVJeHZXalROYmNNdlVJLWxxaEloOWtLWUsxOWlzbTFmSWhHMHVaRGM?oc=5",
-          "pubDate": "Fri, 16 Oct 2026 21:36:21 GMT",
+          "title": "Anthropic signs lease for first Canadian data center - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNmcyRDdMUmlLNHlsNWhYbVRfTFE1WkJIODRiQmxfOHpzM09lYS1Na0JGNG5YdXlIV09fUVZDWkpRRDFIcUlXb2VYaHhZTjM5Q1AwMnRZZjFkSjRKTTM3RHdUaDhEaEdUWnZTZmVrTUtNaHdTWnM3NVJ3WnFma1VTb09hcURCME10UmFMWXdabmxwNXk1ZUZ6emFoYmRCanEzM3FR?oc=5",
+          "pubDate": "Fri, 16 Oct 2026 23:05:57 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T00:42:46.835Z"
+      "updatedAt": "2026-10-17T05:25:59.153Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T00:42:46.955Z"
+      "updatedAt": "2026-10-17T05:25:59.256Z"
     }
   ]
 }
