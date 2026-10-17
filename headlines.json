@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T05:25:59.256Z",
+  "generatedAt": "2026-10-17T09:37:05.452Z",
   "sources": [
     {
       "name": "BBC News",
@@ -7,13 +7,25 @@
         {
           "title": "Katie Zacharia leaving White House role less than five days into job",
           "link": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 17 Oct 2026 05:20:40 GMT",
+          "pubDate": "Sat, 17 Oct 2026 09:14:10 GMT",
           "source": "BBC News"
         },
         {
-          "title": "Trump waives several Russia sanctions as new US law takes effect",
+          "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
           "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 17 Oct 2026 05:02:50 GMT",
+          "pubDate": "Sat, 17 Oct 2026 07:41:01 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
+          "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 17 Oct 2026 06:49:48 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Pope's health should not be taken 'for granted', says top Vatican diplomat",
+          "link": "https://www.bbc.co.uk/news/articles/c6kg53zrexdeo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 17 Oct 2026 05:01:40 GMT",
           "source": "BBC News"
         },
         {
@@ -29,12 +41,6 @@
           "source": "BBC News"
         },
         {
-          "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
-          "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 17 Oct 2026 01:19:04 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "The uncertain future of Canada's 30 rescued belugas",
           "link": "https://www.bbc.co.uk/news/articles/c623dnn3xvpko?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 17 Oct 2026 01:18:08 GMT",
@@ -45,20 +51,44 @@
           "link": "https://www.bbc.co.uk/news/articles/c6kgqjvdv4n2o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 17 Oct 2026 00:41:58 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
-          "link": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 16 Oct 2026 23:54:35 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T05:25:55.227Z"
+      "updatedAt": "2026-10-17T09:37:00.403Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Sidewalk sleepers: They have nowhere else to stay while a loved one is in the hospital",
+          "link": "https://www.npr.org/2026/10/17/g-s1-147874/hospital-diagnosis-patients-india-sidewalk",
+          "pubDate": "Sat, 17 Oct 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Weddings are expensive. How about a grocery store cake?",
+          "link": "https://www.npr.org/2026/10/17/nx-s1-5976921/grocery-store-wedding-cakes",
+          "pubDate": "Sat, 17 Oct 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Trump promised a swing district blitz. He's going to a lot of very red states",
+          "link": "https://www.npr.org/2026/10/17/nx-s1-6004276/trump-travel-midterms",
+          "pubDate": "Sat, 17 Oct 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "No Kings turns its focus to voting this weekend. Here's what we know",
+          "link": "https://www.npr.org/2026/10/17/nx-s1-6004887/no-kings-voting-trump",
+          "pubDate": "Sat, 17 Oct 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Coastal homes burn as hot winds fuel California fires",
+          "link": "https://www.npr.org/2026/10/17/g-s1-148569/coastal-homes-burn-in-california-fires",
+          "pubDate": "Sat, 17 Oct 2026 04:20:00 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Katie Zacharia is out as press secretary, White House says",
           "link": "https://www.npr.org/2026/10/16/nx-s1-6005302/katie-zacharia-is-out-as-press-secretary-white-house-says",
@@ -76,54 +106,36 @@
           "link": "https://www.npr.org/2026/10/16/nx-s1-6005201/health-treatment-menopause-hot-flash-night-sweats-insomnia",
           "pubDate": "Fri, 16 Oct 2026 13:45:16 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Amid talk of public execution, public opinion on death penalty is split",
-          "link": "https://www.npr.org/2026/10/16/g-s1-148404/public-opinion-execution-death-penalty",
-          "pubDate": "Fri, 16 Oct 2026 12:28:00 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Israeli settlers beat Palestinians and a U.S. photojournalist in West Bank attacks",
-          "link": "https://www.npr.org/2026/10/16/nx-s1-6004904/israeli-settlers-beat-us-photojournalist-washington-post-west-bank",
-          "pubDate": "Fri, 16 Oct 2026 11:57:27 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Crowds throng New Delhi and wave Indian flags amid escalating protests",
-          "link": "https://www.npr.org/2026/10/16/g-s1-148383/crowds-throng-new-delhi-and-wave-indian-flags-amid-escalating-protests",
-          "pubDate": "Fri, 16 Oct 2026 09:26:43 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Sally Rooney's books will no longer be sold in U.K. after Palestinian Action support",
-          "link": "https://www.npr.org/2026/10/16/nx-s1-6004838/sally-rooney-books-uk-palestinian-action-support",
-          "pubDate": "Fri, 16 Oct 2026 07:30:31 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Teen kills 4 at Oregon school. And, DOJ sues California over alleged noncitizens",
-          "link": "https://www.npr.org/2026/10/16/g-s1-148373/up-first-newsletter-bend-oregon-school-shooting-california-doj-voters-presidential-papers",
-          "pubDate": "Fri, 16 Oct 2026 07:03:57 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T05:25:58.144Z"
+      "updatedAt": "2026-10-17T09:37:04.444Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Trump puts new Russia sanctions that he recently signed into law on hold, citing national interest - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZnJQRmxjVThxTzVHd0pFZ1kwcWtlM0Z1SWUxNVBnRDFFNzBsZmp0TmNFYkEwai0xSW8xcDNvbXpMRU5rU2hoZk1DZ2FuemtfdGVYTlpXN3QwZjV5emVoQlhZa0tDQ0tXM2d1emJRNjJvSHFJYTkwc0pBc1NYc2VyaVVrb2tEb0VEUW9Ka0dhRjM1WER1?oc=5",
-          "pubDate": "Sat, 17 Oct 2026 03:18:00 GMT",
+          "title": "U.S. News: Top U.S. News Today - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBlSV95cW15dzRMN3BweVV5a2ZVclpfUE5TYWRCWGtHX1VOX1JuNklpQVZ0NnQ1Q3diNDlUbmNPYw?oc=5",
+          "pubDate": "Sat, 17 Oct 2026 08:02:02 GMT",
           "source": "AP News"
         },
         {
           "title": "Coastal homes burn as hot winds fuel Southern California fires - AP News",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONmJmSmdlU0NrdkN0LTJXMGYtbHdsTTk1dTFhY2tGbHVtRENWSUtGWVFHbk02ZVJsWnZwZDJQTGdVbm5xOUpCanFtMXhOUlh1VVdXWVFkQjVkQ29OeFRqWExBdXgzQWFGSXNsWjA1V3lHdjdHNGhfNFpINGlpenlpVHlIRHhvTTdoclNZOUlORk5BakdtMXJXLVNlQkI?oc=5",
-          "pubDate": "Sat, 17 Oct 2026 03:14:00 GMT",
+          "pubDate": "Sat, 17 Oct 2026 05:36:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "How a driver, a dad and a teacher tried to stop the Oregon school shooter - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNm04WEhBY2d5Z3RvUnh6X0V1U2FBTzJfT2lZR21FLWtHWjZpSWNTR0R2QUJibHFidzhMcjVVZUFyd3RJX2h4NTNFTkNJM0pwb25iUERMSk1XVlo4cWlVY2pxd3QydUVZNTVVbE9LWlN3ZDBvUG9EeFZCdjExenZFcUZyWHpXUEdteUdEQVUtVi1wVlo2TFQ2R2xqanRTdC13T0gwWE53bjduaUVvRnRz?oc=5",
+          "pubDate": "Sat, 17 Oct 2026 04:00:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Hurricane Trudy strengthens slightly as it moves towards Mexico’s Pacific coast - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQTJwQVFSckQyTG8welFNdElXZkNVRVc5VFI5VnY0OHlLekpPNklCczhobEVMTDNaRDI2TGlPTGNma2U2cXg2YXRWMVpPczV5eS1HdHBIN3I5bE1oSGVZZXRYVWlidmdldVlaQVRRU1JGNDNGSEJKSTdkY0NkeGtiNFVuclZ1NFJiZmVnWkZNbHNNMkpaWFN2WjdjU0g5aEt3WGN0Vg?oc=5",
+          "pubDate": "Sat, 17 Oct 2026 03:56:00 GMT",
           "source": "AP News"
         },
         {
@@ -135,40 +147,64 @@
         {
           "title": "California officials who process ballots from suspected noncitizens risk prosecution, US warns - AP News",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVHhuR0o4cWF2OHJ2SEV3YWs5bk9tTzg1MWx5c28xVl82eHF0clJDN0ZoZnFQUEwzU2pwc2J4dUxBcmxZYXJEc09sUXdWLVFoUENTQUJsdU5BU2x1d0pQMHJ4aUwwS21GMkotbmJsRURtYlh4VWRnLU9CeTNNVVNUQ0VjLXBQZVRTRmtfbjdJRUlzalNDVzZmMFU0ZXEwNXNTRE9wVGxQa2ZyT2Ex?oc=5",
-          "pubDate": "Sat, 17 Oct 2026 01:52:30 GMT",
+          "pubDate": "Sat, 17 Oct 2026 01:56:18 GMT",
           "source": "AP News"
         },
         {
-          "title": "Painting Eisenhower Building would diminish historic character of White House complex, report says - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTmtnQmJhZUdYenI5NG1feE1iZnZTYjFiYTRaSm1mdlNORXlYRlpTMzJNaExzRERwejJzQTZYWnlQMzl5d1lYaFhMUThuMWlWTnktcHczOWkzYlZKdnctMTA5UFIxOVBHWEJxOG13cjhLLU1hTXc2TEo4YW8xUWFjam5SaUtXMnFodUNFRUFFQV9ybG9QNTBTMm1hYUt4bHZNbW8wNE1hNFlBR2gw?oc=5",
-          "pubDate": "Fri, 16 Oct 2026 23:07:00 GMT",
+          "title": "Trump puts new Russia sanctions that he recently signed into law on hold, citing national interest - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZnJQRmxjVThxTzVHd0pFZ1kwcWtlM0Z1SWUxNVBnRDFFNzBsZmp0TmNFYkEwai0xSW8xcDNvbXpMRU5rU2hoZk1DZ2FuemtfdGVYTlpXN3QwZjV5emVoQlhZa0tDQ0tXM2d1emJRNjJvSHFJYTkwc0pBc1NYc2VyaVVrb2tEb0VEUW9Ka0dhRjM1WER1?oc=5",
+          "pubDate": "Sat, 17 Oct 2026 01:51:53 GMT",
           "source": "AP News"
         },
         {
-          "title": "Trump rallies with top Republicans in critical battleground state of Georgia - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeG9neF9UWU8xalFMQThHbW1Hb2o3Z29WeGtuem1Dc1hVWGhCOXdHMENnTHZmcWEzODBVQnBmSV9HZnRHYVVJZ3FpdXVwM0tGSk5hd1hnVFlfSG1FclBQWWd4YTkybGRuLVl5SFhzeWNnX2V4NkY2cGlNYVJ0eUhSc1A0WUR1djM1dHhCcHk2Qnp4WDJxYVhnMi1seEszX3pkVzJBTVR6dE5oWlNS?oc=5",
-          "pubDate": "Fri, 16 Oct 2026 22:34:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Georgia amusement park reopens as scheduled after roller coaster death - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSW9QMHZTSlQ3X0FoTXdSTHNra2ltQnpvRFJlQnYxaGJET2FPOFJWbU9hN21sdlBXQVY0a0ZtN00tZXVhYW0yLWZLRHBKMEpIYVR3eVU1OXp3Tm96c1dOVXBSWGg3YU13TWJqS1lsYjBnOUpwamtWZ1NOYXRWU2ZLYUY1RUNpLXpPM2N6OVZROHVteXMySGEydGEzZnEzN3M?oc=5",
-          "pubDate": "Fri, 16 Oct 2026 22:28:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Tesla’s new Roadster car can thrust itself in the air. But don’t expect to drive it anytime soon - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOX195aDdJcFhmZnVFYWFLZDFLX0Nudkp5VGh2Q2VVRm5neVVibXFwYzIzQUpiM09VZ0UxUWhfUU5tcllJdGlGckZEWEloeTRwMVhLRDBua1p2UlVMS0FXS09leHZXYmxBMkVVSTg0enRtOE94bk9BYXdYYUhSVjZaZUlCcFpRb002bDJkOGdBWQ?oc=5",
-          "pubDate": "Fri, 16 Oct 2026 21:53:00 GMT",
+          "title": "Latest vote shows no candidate for UN chief has the required support of all five key powers - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSy1nY1ctYXVCVmRaVk5XZTRUUHFMQ2NqZnVKelNUZF9EWW9uLXFzZGpxcGgyZU9zUWlLVzJJRWI0ZnhmbERlNC1UcVBsUGNOWmtGYWo3dERET3l3QXAtOXV2NkFnR0h6Wm10cmhYR3JhcklabDdpZ1llX2dpaU5GbnBLVXYtcjFOU0JpVHNNZ1k5UUhhNzlOcnhnd0MwNHNaMlRtcEhtQWNGZw?oc=5",
+          "pubDate": "Sat, 17 Oct 2026 01:46:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T05:25:58.648Z"
+      "updatedAt": "2026-10-17T09:37:04.912Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "China AI supply-chain IPOs hold firm despite valuation pullback, Citi says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcnFDdU1MSGd4Ylh4aktUWnlOM2V2RklNLXAxVm5QNThadUkzS2k1cWhoNnJpQkF3Nzk2U1c5ZlJlbUhGVFVpZTIxZEJYak8yVmtjVVhBdGs5NnVjVlowQnhRaWw1enZTVjBIVS1Wd2wwMkQtV2lYelR3MTFfVVlRRTBfMlBOUTlDYlI4UXdBZEFfcUFQcVNNNHVzOTR4bnUyanUtRE9nVkdnbTk4VHJvRWVxM2xjcXhjVUI4WVh2Y3Q2Q0Fw?oc=5",
+          "pubDate": "Sat, 17 Oct 2026 08:19:38 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "IMF members call for more support amid war shocks, 'advanced intelligence' risks - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbXNKelJOV3BhOFlRUmVnYWwyV0FXSkNpa0VNS2g0ek01V1BhaUNxX3FBclJXUUNKRENoU2d5cHNNazZIMWZ2TXB4aVZIcHNXaWNFbDkxYXpvdlhwakgxekdDd0ZWRDlJMW9zeE9FU3kwcWRPMjJFVmVfNnJ3OGNxV3JaSU5xTHVVQnRTaEdfUGpzVVY0a216eGlrZFBsYmxSQThnSlM5alJvd3hKMU1vY2N0dDFUNGdoTTdBd25kUllEMG45RFhZ?oc=5",
+          "pubDate": "Sat, 17 Oct 2026 06:19:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Delegates walked out of IMF steering committee meeting when Russian official spoke, sources say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOa05jVFdUVTlxcG85OVFRMF94Wmo0TXlmSjRUWXhlb0xYYUVXdXd3ODJ6QWFMXzlSRW0ybkJ1MHgtbmt6ZjhXNzN1UkwwTEFURzJsRk8zSVBlQldrWXlHMGlhSTJoSDdYMjc5UWttN1dDX1VKZ2xTcGRHYVEyRW16TUdGbGpSMVVKck1ITUk5dkpyOHhrODd5bi1vLXJpUy1pR0tUd2V2T1hXOUNQcDJLMlNEMVZXUVl2RlgzVGZJaEV2VUNsSGc?oc=5",
+          "pubDate": "Sat, 17 Oct 2026 05:19:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "German minister seeks debt-brake exemption to sustain Ukraine aid - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNzgyQjREYTJZX3VWNTU2MWE0Y1YzRFZHTi1hb2pxVWFRV1lqd05fZVdKZXZsT1pCckMtOWJKaGxEM2dDOVVBQnVhVEdtaDBEZXRpTWx1ZFhVbDZqYzh0X1hpbWI0LUNvMlk1WHJCbGFtbzZDZFhmUTJlUXFUblJIYzhXenJFTUlTelYzTFpfNVUxVkFocHRLWjlDelJnUWFIWEkzQkMtZw?oc=5",
+          "pubDate": "Sat, 17 Oct 2026 05:10:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Students, trade unions and Yellow Vests set to protest across France - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQ3ZSMTR3dmZDamlnT3EyMWx2U1hma3VycjFxblg3SmxXMi1mUEhibjJVTV8ySGRheTEyVndBWEF4em1sbEdoZ0pKcU0tS0JVSzVVS3VZdUVrOXdHNVNYdThleU0zaDE2RXpwMWxyYURCNGt1akVuRUF0aWhYY1VkQTV6cG9UeWd2eVRjTXV6U2V2NnpCeS1zMUl5M2N3Wk16a0t3ZQ?oc=5",
+          "pubDate": "Sat, 17 Oct 2026 05:06:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Australia confirms first H5N1 bird flu case on sub-Antarctic Macquarie Island - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNOUM1aXFXQ2RZMzE4aUd0UVBxQXExTUVwNWlkU0hkOW1iRGRJZC1ZSTJwMWY5eGFNaGxKOWU2TkRQNHJoLVNrdUQwdndtckF2NkxrT2VYWXdTOTdhSkluREYxbHQzTzhGN1I4ZnJBT0c3dW1aLXNrYXJjQmZNRHB5SHZ6bzRrOWZPRnViVi1KNGJIbkxHOGdTUEtsRDFleGZqVVAxamlTU2pESmFBU1JCNUg2REU0Mm9YS2hER0JDM0wtSG9RcFhWVzU3Sk1LWlBKWFF1MTZRTzRfd3Y5VVZN?oc=5",
+          "pubDate": "Sat, 17 Oct 2026 03:05:00 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Three sentenced to 158 years in Mexico for murder of Australian, US surfers - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ2J4RHIwY0c5ZmwzaGg4VmNYbG5kYWNwckU4d3dYSWxyUUVKMDk0U01jcm5fSllLMk91NEFDcDhraTlTS2Foa0dfbkZUQ0Jpa3NHZEp3NkpORkk4bHdzWTJPWlEtTHF5YlQ3SkpwZWYtbm4zb2U2dHBOT3c0ZWs3dEtEY0dvSmxMNGlvYlVDX254N1IyQTNhN2xLWTFncnozWTVsSEJ3dm5JOXhlWjFkMGl2WmpqMmRyRldqNg?oc=5",
@@ -176,50 +212,14 @@
           "source": "Reuters"
         },
         {
-          "title": "Trump threatens California officials with imprisonment over stance on mail ballots - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPS0ljZDBvVjY4OEZlamhaTjdXcy0yWTNGWVBxWEhqUFoybkRXNlFhM0VCVkZyT1EtSTVzMjZuWkI2Q09sNlc1bTM3LXpRY1dvMVVNcXBWa2Izdll6WW9QUnRKS09fQlJrdmZJb1QxQVlsSno5RmZPQlJFZ2xPRTliUFlwV1FWODJEdmhPcnI0c09LZ1A4WWxlcWlXMnRQdnA1YmxFMllqbVhLeTdia002RzV4UmI0RGNVQjN2VU84S29EUQ?oc=5",
-          "pubDate": "Sat, 17 Oct 2026 02:15:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Trump waives key Russia-related sanctions, tariffs before they take effect under new law - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUWRsWXNvbUVMb01QdTFTbEhpSGhZLVZYVXZramJkQjg2RXUzbXRaZjZlcnY1QTNoeU1zQzhhOEhwOFZVSkRySFFZNWI3RjZtUHJLaDhybEhWVzFBTF9uVlZjWlNSQk5aX25iZ0EySjRQYjR5aVRiM1VERjVFWmpTOTR0Y1ZhNUtaTHpTaWdZZVRPUmppTUJtYl9IZlhGQnM3WkVSNmRreVBjaDF5anFfSHhqN1ZUc2p3cjRoU0pyUzRkZjlBM05B?oc=5",
-          "pubDate": "Sat, 17 Oct 2026 01:17:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Bangladesh is battling measles. It's a 'real warning' to other nations - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLVdDQ0N6V1RSeHlVS2lLcmJqbjVyUlJ1ZFJFYWFlWFo0MUtWT3hmUW1MSzRxaXI5SGJza2N1dzdFUG1venFSTnpUSGlPUVpIUHRIZGV0TTBCVVc0Qk5valRHWlUwRjdDbVp6MUdRSmFiUm5MaTU0dC1mOHY0Si1kb1lqdUp2NXpDMmZaVTQzUWlMcTJUZ01JUFNUTWt4UTdqYlFlbU1R?oc=5",
-          "pubDate": "Sat, 17 Oct 2026 01:00:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Anthropic offers Blackstone double-digit yield in chip-financing deal, FT reports - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWVhYcEpDM002Y1VwaUFBYktyNFdkVG9XbXZaTU44b3k4ZzZRcmdLR294VXZkMDlYLXg1d0dJbUpoMzg3RHBoNi1qcXh1eU14UjJiSmNhTXdUUFNsakJYZFBrZ1BZVV9rdmQ3bHc5b0QycjZRUHBqcENmak5LclBVNmhWYnhTaVZtQzV4bExZamxKSEtDRllrMkNObjlFd3VoU0VIQkZaS2hpQnAzeGh3dzBqdWVHZm9sVllvQ1BEdw?oc=5",
-          "pubDate": "Sat, 17 Oct 2026 00:57:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Trump mocks popularity of the name Mohammad, common among Muslims - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQ2c4Mjd3MjA4UFF3cXBJTVZKNkFCOXdERDN0YjY3NHNydFFzR1hXZ2V6dWljeGJYaUNNR3dEV1VXVHdXU3FhaTRtc21MSF8yZmRUd1lma0wzWU03S1pZR3E5NllSZVctYlJpSTJrLVMyekNHY0F0QkRBVEVLcVM3bnVTbzhLcDcya1d1ZzVsR0MwQ0psblVBenZnYl9IRjV4ZGl6Qg?oc=5",
-          "pubDate": "Fri, 16 Oct 2026 23:52:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Anthropic quietly pitches its own AI safety bill to lawmakers, Politico reports - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOGgzckNkaE5BdjZxdVMta2hsdVczMHFrZ2U4aFgzY2VsLVF5VEFpd1FMQVc1V084YTZQU0IyMkdWbXZTbEtpdlhFWHR2SUI1SDdsczFmeERfNHhfOXRpR2NLTVhjRWF4YWNYaDBPWXJDSXpqLUgtSERBY1lHejU3MTl0T2pPMzlKRDlsdmFNM3kwQk1YSFlyMnpDN1FSVG0xM2xqNTZrbnNxQTVkT3drcVJSVm0zNFlYOUstZzlDYldrc1p5OWJR?oc=5",
-          "pubDate": "Fri, 16 Oct 2026 23:23:52 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Anthropic signs lease for first Canadian data center - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNmcyRDdMUmlLNHlsNWhYbVRfTFE1WkJIODRiQmxfOHpzM09lYS1Na0JGNG5YdXlIV09fUVZDWkpRRDFIcUlXb2VYaHhZTjM5Q1AwMnRZZjFkSjRKTTM3RHdUaDhEaEdUWnZTZmVrTUtNaHdTWnM3NVJ3WnFma1VTb09hcURCME10UmFMWXdabmxwNXk1ZUZ6emFoYmRCanEzM3FR?oc=5",
-          "pubDate": "Fri, 16 Oct 2026 23:05:57 GMT",
+          "title": "Brazil's Flavio Bolsonaro pledges fiscal adjustment, rejects cuts to social spending - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMjFnNmM2TmIzYWxwNnpqVXBjYWNxWlBIUmJNTEJUY3NhTVM2dG9jcWR2Qzg5YVNwbFUtSE8yMmdRVnhYQWdQdndqa1VWbGI3RDhhS1lZSzk4N3NjVG5RWUIxeGNqdk5QSWpzeFBvWEJyMzU0NXI0R3BjS1gtc3FkU2RBcW5lODlid1pNVVZCNzlEVVhNZ3B1QlpqSUhGVDNWQV81MXVaYjA1bXBmb0FlbWtHRFBMM3BEWmp4YlNYZW5aXzc4Z0hHaWd3?oc=5",
+          "pubDate": "Sat, 17 Oct 2026 02:21:00 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T05:25:59.153Z"
+      "updatedAt": "2026-10-17T09:37:05.282Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T05:25:59.256Z"
+      "updatedAt": "2026-10-17T09:37:05.451Z"
     }
   ]
 }
