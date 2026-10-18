@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T16:45:26.411Z",
+  "generatedAt": "2026-10-18T19:20:51.337Z",
   "sources": [
     {
       "name": "BBC News",
@@ -54,11 +54,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T16:45:25.739Z"
+      "updatedAt": "2026-10-18T19:20:50.092Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Ukraine and the U.S. are at odds over Starshield. Here's what to know",
+          "link": "https://www.npr.org/2026/10/18/nx-s1-6007382/ukraine-us-starshield-starlink-what-to-know-trump",
+          "pubDate": "Sun, 18 Oct 2026 14:38:49 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Noah Adams, longtime host of NPR's All Things Considered, has died",
           "link": "https://www.npr.org/2026/10/18/nx-s1-5556931/noah-adams-all-things-considered-has-died",
@@ -69,6 +75,12 @@
           "title": "Pope Leo says he will gradually resume duties after cancer surgery",
           "link": "https://www.npr.org/2026/10/18/g-s1-148654/pope-leo-says-he-will-gradually-resume-duties-after-cancer-surgery",
           "pubDate": "Sun, 18 Oct 2026 08:55:01 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Trump defers federal diesel taxes to help farmers, but states issue warnings",
+          "link": "https://www.npr.org/2026/10/18/nx-s1-5996662/trump-suspends-federal-diesel-taxes-to-help-farmers-but-states-issue-warnings",
+          "pubDate": "Sun, 18 Oct 2026 08:00:57 -0400",
           "source": "NPR"
         },
         {
@@ -84,7 +96,7 @@
           "source": "NPR"
         },
         {
-          "title": "Major fire breaks out in Alberta after deadly incident at military base",
+          "title": "Carney says 4 service members killed and dozens injured in fire at Alberta military base",
           "link": "https://www.npr.org/2026/10/18/nx-s1-6007276/fire-alberta-deadly-canada-military-base",
           "pubDate": "Sun, 18 Oct 2026 03:56:08 -0400",
           "source": "NPR"
@@ -94,132 +106,120 @@
           "link": "https://www.npr.org/2026/10/17/nx-s1-6005814/oregon-governor-tina-kotek-reacts-to-silver-rail-elementary-school-shooting",
           "pubDate": "Sat, 17 Oct 2026 18:45:25 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "French police arrest 1,800 after violent clashes and looting mar protests",
-          "link": "https://www.npr.org/2026/10/17/nx-s1-6006773/student-protests-france",
-          "pubDate": "Sat, 17 Oct 2026 11:57:40 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Pope Leo XIV leaves hospital days after lung cancer surgery",
-          "link": "https://www.npr.org/2026/10/17/nx-s1-6006762/pope-leo-xiv-leaves-hospital-days-after-lung-cancer-surgery",
-          "pubDate": "Sat, 17 Oct 2026 11:10:14 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T16:45:25.801Z"
+      "updatedAt": "2026-10-18T19:20:50.366Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Associated Press News: Breaking News | Latest News Today - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
-          "pubDate": "Sun, 18 Oct 2026 16:07:18 GMT",
+          "title": "Trump says he will close historic DC golf course for 15 months of renovations - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaEJLUHBtM3VzdFoybW9zSjNaMnR5ZmY1dkFxdTRmeFM1TUxyV0hWNEMzcE1RMFpWUlQtQVpiY0JrUk5xSXR5SDZDNVZYb2tWNVkzTDlwRkZ2UkVzc21XdnRLSnBsUVZJNGN3ZVo3c2VieG4zd1VBZW9XMW5VQlRSZnhYaTRpWDhHQUE2YzQ5ZzhVNGhl?oc=5",
+          "pubDate": "Sun, 18 Oct 2026 18:47:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "St Petersburg oil facilities ablaze as Ukraine launches more than 1,000 drones at Russia - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPb0JsZHhVNVNkaUhpSndSUTRqNjBFN2dpaktfTUZ4dWxBTkxzQ3I1LW5CRlBQNnR3UmJ5R0JzWGFaenZ5TDg3Qkt2bC05cmpYTlAwZkRSRjBoYlN1elkwelNDNmhPbkhhV1BDT05fWm96V3oxbk5YN09nUkQ2VzlvbTR1YV81Zl9wdzU5WEU1UXN3STc0ZHJlUnhiWUc2dUk?oc=5",
-          "pubDate": "Sun, 18 Oct 2026 15:33:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Trump endorses embattled Israeli Prime Minister Benjamin Netanyahu for reelection - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZ001MUlHYUhFLTdzTlZPTWdsOG12UXhpTFdKOFQ1REFaUFVhWGZJTXk1V0Y3cGNhTTR3d1hnclJVamdMRFJlZ213WjVsblNIODZ6cUstbVp6U1o1STRyUVNMUXRPUkVFUlZJWWppUWo3VWpZOXB2WDlTck4yUXFQXy0wQktGczRPbkVkZ1dheURZcGp1dFA2WXVlaXpLeTNLVzAyVnhGWlRrUVNH?oc=5",
-          "pubDate": "Sun, 18 Oct 2026 15:01:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Macron to address nation after riots and looting lead to 1,800 arrests across France - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMHU2Y3QzdlRfOERXUU8tdkVReVV5clJIYkZNNk1USGh5R2Zmci05YUZqTHpVUDhqZ0NIMURCTTN3SWFLNUY5bmdfdDhfcmJVQWFpZkpRd3FoVEtva0pSRTljX25iYlRLUmxUV2d4c3dhN0dMZFJiaURLRnFsT3poeE5KOHdyZGRJTUdubkVaYno0alVYMzJz?oc=5",
-          "pubDate": "Sun, 18 Oct 2026 14:55:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Pope Leo tells faithful in St. Peter's Square he will gradually resume duties after cancer surgery - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUGxoemZ1SU5mT0NtVU56WWxPclZWWXZ3Vlc2TkpJOVlIaUw5T3luaDlkVVE0YlJqOXRTUmJ5anI3eHdqTEdJemtKRGtxUmNaN2U3Z21CWUQ0UEVLSUdZX3UtZVlFRzBQSHZmTWRQTFJtWmNrcHg2NDkxX1RBRy1BVkRMZEtnU3BfR0dYSWk3M01RZlowenZCT0QwZw?oc=5",
-          "pubDate": "Sun, 18 Oct 2026 14:36:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Nellis Air Force Base: Service member dies after rappelling fall at a UT San Antonio game - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSENrWmpZclZ3MTdpUkhZNmRULTFQN2VjS3lvVThlYzJvWW0zUTA5eVR5OTFxUjRqYjJ6aGdINW9QbkstNXB5dWczYXZONGFoLXliMVBMV1NOVXFqZlBjaHV2aHc3RlVzZWRBblBneWszWnMzamVteE0tQm9mQmhZZTJfNnE2UDQ3UHAtVm1qZGZqdFM1OHNXRnVaRjc4S2tsTXZaOUs5RDF2Zw?oc=5",
-          "pubDate": "Sun, 18 Oct 2026 14:30:00 GMT",
+          "title": "Miami is No. 1 in AP Top 25 for 1st time since '02, No. 2 BYU's ranking best since '84 title season - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZ2F4WENEbFdBV05OTUZmY1ZTVklTbmx6eE1RUVRRemFHVGpmNVdieHN3cmZSNlF6d1J3b3Q5dkN4ZlpBblN5T0tuVmxvNm55M2x1QlN1MXV6MlAyMlExYk1zalE2NldGWEU0MkptSDBYZE5FQVFRdTgzYUVaWFhQN0labnVfTXlpamdtbC1B?oc=5",
+          "pubDate": "Sun, 18 Oct 2026 18:00:00 GMT",
           "source": "AP News"
         },
         {
           "title": "Shakeup Saturday: 5 of the top 7 teams in the Top 25 lost in the regular season for the first time - AP News",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUTF2UlFIOWVHOTloUEc0MVVLeC1VTWctWFhjRWdxaE9INDU0d3VoTElSdk5kNjZ4ak43bFJaeE1rSndiSjBOZHkyeWg1U01hZ3g1ckEyR21CTDNxa0RiREJIREJ4SmlxMk4wUmpJMHlSd01LUDBzcFI2TTFiYjV5MHJR?oc=5",
-          "pubDate": "Sun, 18 Oct 2026 14:20:00 GMT",
+          "pubDate": "Sun, 18 Oct 2026 17:32:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Major fire breaks out in Alberta after deadly incident at Canadian military base - AP News",
+          "title": "St Petersburg oil facilities ablaze as Ukraine launches more than 1,000 drones at Russia - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPb0JsZHhVNVNkaUhpSndSUTRqNjBFN2dpaktfTUZ4dWxBTkxzQ3I1LW5CRlBQNnR3UmJ5R0JzWGFaenZ5TDg3Qkt2bC05cmpYTlAwZkRSRjBoYlN1elkwelNDNmhPbkhhV1BDT05fWm96V3oxbk5YN09nUkQ2VzlvbTR1YV81Zl9wdzU5WEU1UXN3STc0ZHJlUnhiWUc2dUk?oc=5",
+          "pubDate": "Sun, 18 Oct 2026 17:26:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Carney says 4 service members killed and dozens injured in fire at Alberta military base - AP News",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRWZIOVJaUGpyUnFDcG1BTVZmOTRtZ2pvLTBjLVBDMU9fb3huN2x3Q1ZGbTBENURyc0JIdXRJQThHajNORTVlVjVnZjJrUV94VDlGaXJrZWRqQVBlWlBBRmJzVkhUem1NRzl5a05uTzJQWEdVLTNEckFlNFFBb1dmeTQwUmU0YkhFd1laTmI2ZUdtTGlLS1VZM3dPTi14ZVNxX2oxY0dzbw?oc=5",
-          "pubDate": "Sun, 18 Oct 2026 13:54:00 GMT",
+          "pubDate": "Sun, 18 Oct 2026 16:45:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Congo’s fast-moving Ebola outbreak spreads to eighth province - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeDFUV0ljVE9zeHVqYXBscDdFZUkyUDdKcndSelI3TTdiQ0NXeTQybDV6TlVSbndla21ac0xVVGwzRFhYYkRiUk15Wm1ucmdzZnlMYXQyd2pSdk5qekgtSVNqN2FWaW54eUxzNEs4TGtQZUNtc0JFeVBmTXJOQWZoMWNUWm41YkI3blE?oc=5",
+          "pubDate": "Sun, 18 Oct 2026 16:43:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Tennis Scores, News & Stats - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1EbzBXMF9LTzNjVndrTjNjcVkwZFdxclRGRzFrVUFQcHJ2NXhUbDhCUnVFZzR5UHNSeGtsbmRxQTNDbkE?oc=5",
+          "pubDate": "Sun, 18 Oct 2026 15:35:35 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Trump endorses embattled Israeli Prime Minister Benjamin Netanyahu for reelection - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZ001MUlHYUhFLTdzTlZPTWdsOG12UXhpTFdKOFQ1REFaUFVhWGZJTXk1V0Y3cGNhTTR3d1hnclJVamdMRFJlZ213WjVsblNIODZ6cUstbVp6U1o1STRyUVNMUXRPUkVFUlZJWWppUWo3VWpZOXB2WDlTck4yUXFQXy0wQktGczRPbkVkZ1dheURZcGp1dFA2WXVlaXpLeTNLVzAyVnhGWlRrUVNH?oc=5",
+          "pubDate": "Sun, 18 Oct 2026 15:33:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T16:45:25.841Z"
+      "updatedAt": "2026-10-18T19:20:50.853Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Tensions flare again in Paris as France counts cost of worst unrest in years - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd1VSODRfY1ZTZlpfMVBnaXZzSi1KU1ZsUlJWcWZBaWVaQ0Fyal85ZmEtdkR3ZU94c2ZEeGNzRXpIamtSQVdfVlpJWTdhcEY2ZkZaMFZGZzlTVTVCTDRoUDJybE90dGJGYTNmU1NwUTJDNmVZZllXTDFSR3hIVnBTV2lYTk9LM2N1MlREWk9VOEtidHY2?oc=5",
-          "pubDate": "Sun, 18 Oct 2026 16:00:50 GMT",
+          "title": "Roy Cooper's North Carolina playbook is working. Can other Democrats copy it? - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSXVOM1JwQnJBTlRESW5tSjFSVERkbnRrNDBlSkx2bEJ6UENYaVVpNEpnbTlLaGdncWp1dkNZTE5yUjJZZVBtd3BNUHN2WElaeXRZdnJrOFFCS2dSc2RPRUF6WmJwNWRTRFBFVWUtcXRHYklNSXc5T3lzY0pkWW95M3YtcnY2ak5hMkxJUEJWV0lLcFY5Vlk3RDlxaGJ6dndraGtwMW4xN2xYX29Sc2E0YnREZWZXa2wwbUhhc3BPMjlZSjM1NHc?oc=5",
+          "pubDate": "Sun, 18 Oct 2026 19:00:28 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Saudi-led coalition says helicopter crash in Najran kills two crew members - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbFZiZFozb1RWTzVBbk4wZU8xMHlSeHhuSmhkMi1FSVhqTTZ5U3BMbF9aaU5fVjRpWnI1MkJTMTZscVcxTWM0YnVFRXFWdXQ2SnpSdVNPVm5LR1QzbVhpQjliR3VNZFl4WXhjODUzbjNZRXg0S0l0al80ZDlwdjc5ejFRU0E3NlJBZm1iOWg3VjhybzNLbWpOelQ4ZDZBWTkxS3Y4Rm9MUm9vTjdfYk9iaVRJd29DSDhMUi1KOGZMcDhzZGs?oc=5",
-          "pubDate": "Sun, 18 Oct 2026 15:54:36 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Lithuania says attempted Starlink arson was Russia-linked sabotage - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb0FMbVJmdl80MGprYjdwckNocW1aRTVXa3RSazdUZzZxTDBrRWVuQ2tXWGNYcEhmYUdSOGRzWTUzaklVSllyNllRLTlKMlBOaFc5OEpHQVJDRGxndHo3V1V4LWM2Tl80cURPcTBlSVluOURBZmZzVkRtXzVZbVdoUXNWRHdBd0xROE54WHBxclBYQVJjM0tfWWRFLWItSHRMODFBSmVPQkRUcXlyZzVoZkNRRjVRSkxpVm96eU1sU0d1d00?oc=5",
-          "pubDate": "Sun, 18 Oct 2026 15:06:11 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Microsoft pulls out of UK data center deal with Nscale, Telegraph reports - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMmVDUVQyZjhnbFN2MHQ1MHVPMHVpLVVsUFE1aU44Y2QzMUx2a25MRXR5OWtkTGd5RkViaG9fM3lZcnFHblYyT2xMeGZ3MHI3NkFjQ0FhdWFVRWlmdHlPRDRFRVRsclFpbUExakpiN3Z4aGMtODdDb09Mb0xXbnIxdU04ZmQ3UTEyTkhQd2EyMFhDNzQzYVgzZG9FeDlNYTJTanNOOThVSGRTb2RnRWdCajBVXzFMcDB4MWZpbXR1STMzZ1JaOXRr?oc=5",
-          "pubDate": "Sun, 18 Oct 2026 15:03:59 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Egypt says ready to give Saudi Arabia necessary support amid Houthi conflict - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaUsxbVVqQ0FFUl81U25IbG1NaXhrNzFqZzIzaFpRUVhKbF9rYlZoMXg1Z3NzYjR1TEtkeHNCU1BrOWs4ZXR5VHFqMTBoX3VjSV9FRV9neGVDSkdUNWIxMlNhZWRJbldocDM5Q2hiMXYxUXpHVUJqWkkyOEF5OGNBNWduQXFPMXp6VXhYRjUyNmsxaV9pbXJhS29uVGh6Tm51emp4S3YtdmI5c21HZE9HeFkycENlNGxHRUlJd29YWkxwRF85eXc?oc=5",
-          "pubDate": "Sun, 18 Oct 2026 14:31:31 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Chwalinska outwits Kartal to win Wuhan Open - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMjU3STFELXI1OUNVckJKSmxaOFBKWnhCVU1rYS1TamFWbVJ5Q0JmeG1KeEN1aHJLMnU0NjAyUWwtZEx0ZzROMm1PbS1nOGxxYzZXb3Y0SXBsWERzYk5zd2lVb3lSaEZSdE1DMVhzOFhhM0tpcjk5UTlaaVBKWDJza2s4Umh0Vmd2dy0wQTYwU1YxWjYxRzZscw?oc=5",
-          "pubDate": "Sun, 18 Oct 2026 14:20:55 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Pope Leo pledges gradual return to duties in first event since cancer surgery - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQajlwczZReXZXSkQ1X1JuZWNGWlNjX2VXcW9hNVdlNXYybU00b3NkSFdpdXo4ZXFLZ184OENSdTZRbE9DdDF2ejZIRVpXUWk2MjdJbWM2Y0JMNzVfcGFvYzRxUU5LYUhpTTB6QWpQWHgwR0tEUXZkNnhBMkxJYkd4dTBydU1OWFpVd3lSNjRSSmF3QW9TUmFocVJVa1QyVUtJcFFHeUwwTGg?oc=5",
-          "pubDate": "Sun, 18 Oct 2026 14:09:12 GMT",
+          "title": "Albanian PM says protests pose threat to EU membership, not government - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWlc3R0V2SVhwYWpQcDQzVnptVkptdkQtWHdGZUU0SUlYdUozS3ZFQmN2bmNTQUFKbUZ5UUNWR3RWQmlFVDZSU2daT0FMcXNVM0ZIaGtYbXFTTThzWjFqV3JkWkgzbWRxZWsyTGhhYU5wVTFRc01IV3ZRSkRlTlBlZ0p1YVQzMlZYUUxTSEV6WjUxMGNQb1R6Y3k0b0dZSDZIQlo3c1l2RUpTR0o3?oc=5",
+          "pubDate": "Sun, 18 Oct 2026 17:48:04 GMT",
           "source": "Reuters"
         },
         {
           "title": "US resumes intelligence-sharing with Ukraine after pause, Zelenskiy says - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZ2JXcTFReXJpR0UyNGM1UVFfMTVMRlJHbGpmRlh2Wk1HQ3ZQZ0Q0YUNadThFXy1IcTZXdHJMOGxNU0FqM1NTQkVaOHpOX2NaWGNMTXJaRzJnYUVmald2UmVvTExRVVdqajR0ZmVBNE8tVHhkMXFhQ3FQQmhUVGdEMmUwcXA3RHFPN2ZUOTZ6SzBqNVlpQkZGSnlOb3FjV0gyT1JIUzEtYnBwbjBySGlVcjRUaHJnN3dDb2hRMW8zbExBZw?oc=5",
-          "pubDate": "Sun, 18 Oct 2026 14:03:42 GMT",
+          "pubDate": "Sun, 18 Oct 2026 17:44:08 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Trump endorses Netanyahu in close Israeli election - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeXNEX0FibmplMGVhLVA1TDdESTEzdk9PR1JYNWtsQzJkTG5ER1lrMkhfV05saHNXYndlOXFxdFJONU4zOEZhZUdtXzR0WGpVSHBuLUUyOExTWHktR3AtMjlnU08yNXpaUWFVOXE1Q3dNaDFkZG4yT0JFMmlkYzdvTXFudjFQOF9rcFBaM0VBbjBaOFQ5bndSNS1fZw?oc=5",
+          "pubDate": "Sun, 18 Oct 2026 17:41:20 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Milan police clash with protesters on second day of unrest - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNem5RVUNnUFN4V1Q4aUVmQ2NwbmZsZ19HR0h6VURQNkd4OG45OFVyclZwNTdtZnVqczdTRWhxOXVvMjJPWno3ckxFS3NUOGxsRXA1bF9lNl9ELUpJNUVhT19BZVkwbW0tUWVKLURsOElEWVpGaUZ3ejZnbjlPR0NmeG5VWnNITE5TUU1qZmhiMU40LTNXN1dEbXFB?oc=5",
+          "pubDate": "Sun, 18 Oct 2026 17:33:33 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Fire at Canadian military base kills seven, CBC reports - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSXEzTWctWFllT2dCNGlES0Ewcm9qV0djallLZ3c2bEdoRVlta2RBQ09uQ1hZQnMxbndPUHNzRzdmakNYZU5IeHRPbF9wUVlFNTBCLUwyWE9TbUFFYjRua1BEM01VWm5ab0NwRm5QWXV2eW1ycERzRklTbzdxV2NpS1lOV29pZWtsRzgyOE9RTVVRNDhOdXhBdnJ6REFJQk54azV3ag?oc=5",
+          "pubDate": "Sun, 18 Oct 2026 17:23:31 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Captain of flydubai plane describes blocking axe blows as co-pilot attacked - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRlNJNGV2RU1JbHotN25MRXNHQVZIeDJJU3I5eGYzT0pkUjdaSnZqbUpNZzRJY1U2cW1yUUViUjVuTVlvb184VjZsaEF5dnNBdEFBTVhtemRBalZRbG1SdlNhdHFoVkZHTHZ3SzlTMTRWaFhJaTMyVzJxc01qWmp6aUlpa2k5dGJuVTNkeU5mWXZUZ1F6SUlrMzlESGJ4cmRkajZwcF8ybEhoZXRITXQyMVFFTkxKdnZjS0t6WFNBSWQ3M0s3WS14VzhObFM?oc=5",
+          "pubDate": "Sun, 18 Oct 2026 17:21:59 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Microsoft pulls out of UK data center deal with Nscale, Telegraph reports - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMmVDUVQyZjhnbFN2MHQ1MHVPMHVpLVVsUFE1aU44Y2QzMUx2a25MRXR5OWtkTGd5RkViaG9fM3lZcnFHblYyT2xMeGZ3MHI3NkFjQ0FhdWFVRWlmdHlPRDRFRVRsclFpbUExakpiN3Z4aGMtODdDb09Mb0xXbnIxdU04ZmQ3UTEyTkhQd2EyMFhDNzQzYVgzZG9FeDlNYTJTanNOOThVSGRTb2RnRWdCajBVXzFMcDB4MWZpbXR1STMzZ1JaOXRr?oc=5",
+          "pubDate": "Sun, 18 Oct 2026 17:19:48 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T16:45:26.217Z"
+      "updatedAt": "2026-10-18T19:20:51.207Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T16:45:26.411Z"
+      "updatedAt": "2026-10-18T19:20:51.337Z"
     }
   ]
 }
