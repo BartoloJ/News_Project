@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T08:47:36.602Z",
+  "generatedAt": "2026-10-18T13:07:09.797Z",
   "sources": [
     {
       "name": "BBC News",
@@ -7,19 +7,37 @@
         {
           "title": "Several dead or injured in major fire at Canada military base",
           "link": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 18 Oct 2026 08:05:49 GMT",
+          "pubDate": "Sun, 18 Oct 2026 12:41:59 GMT",
           "source": "BBC News"
         },
         {
-          "title": "Violent clashes, looting and buildings ablaze in France as more than 1,200 arrested after protests",
-          "link": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 18 Oct 2026 05:56:20 GMT",
+          "title": "European diplomats attacked by Israeli settlers in West Bank",
+          "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 18 Oct 2026 12:16:14 GMT",
           "source": "BBC News"
         },
         {
-          "title": "Church makes sainthood case for 'WW1 hero' priest",
-          "link": "https://www.bbc.co.uk/news/articles/cmg47rwddpxko?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 18 Oct 2026 05:15:53 GMT",
+          "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
+          "link": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 18 Oct 2026 12:07:31 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
+          "link": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 18 Oct 2026 11:57:49 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Pope Leo XIV thanks wellwishers in first event after cancer surgery",
+          "link": "https://www.bbc.co.uk/news/videos/cq70px6pjkg5o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 18 Oct 2026 11:09:32 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Parisians wake up to protest damage and looted shops",
+          "link": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 18 Oct 2026 10:58:39 GMT",
           "source": "BBC News"
         },
         {
@@ -33,32 +51,32 @@
           "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 18 Oct 2026 01:10:25 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "European diplomats attacked by Israeli settlers in West Bank",
-          "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 17 Oct 2026 23:52:38 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
-          "link": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 17 Oct 2026 22:09:50 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "How day of protests unfolded as disorder breaks out across France",
-          "link": "https://www.bbc.co.uk/news/videos/cwz0vy770gpzo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 17 Oct 2026 21:33:17 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T08:47:35.445Z"
+      "updatedAt": "2026-10-18T13:07:08.542Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Pope Leo says he will gradually resume duties after cancer surgery",
+          "link": "https://www.npr.org/2026/10/18/g-s1-148654/pope-leo-says-he-will-gradually-resume-duties-after-cancer-surgery",
+          "pubDate": "Sun, 18 Oct 2026 08:55:01 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "If you have the scratch, they have the scares",
+          "link": "https://www.npr.org/2026/10/18/nx-s1-5985869/if-you-have-the-scratch-they-have-the-scares",
+          "pubDate": "Sun, 18 Oct 2026 08:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "With an ad aimed at Trump, this Republican exposed GOP angst about Latino voters",
+          "link": "https://www.npr.org/2026/10/18/nx-s1-5978762/maria-elvira-salazar-immigration-trump",
+          "pubDate": "Sun, 18 Oct 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Major fire breaks out in Alberta after deadly incident at military base",
           "link": "https://www.npr.org/2026/10/18/nx-s1-6007276/fire-alberta-deadly-canada-military-base",
@@ -72,7 +90,7 @@
           "source": "NPR"
         },
         {
-          "title": "Scuffles and fires break out as protesters rally across France, joining students",
+          "title": "French police arrest 1,800 after violent clashes and looting mar protests",
           "link": "https://www.npr.org/2026/10/17/nx-s1-6006773/student-protests-france",
           "pubDate": "Sat, 17 Oct 2026 11:57:40 -0400",
           "source": "NPR"
@@ -88,32 +106,26 @@
           "link": "https://www.npr.org/2026/10/17/nx-s1-6006745/us-sanctions-russia",
           "pubDate": "Sat, 17 Oct 2026 10:25:10 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Perspective: Midterm money madness",
-          "link": "https://www.npr.org/2026/10/17/nx-s1-5997474/perspective-midterm-money-madness",
-          "pubDate": "Sat, 17 Oct 2026 08:00:00 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Fraud, affordability and Trump policies drive friction in Minnesota Senate debate",
-          "link": "https://www.npr.org/2026/10/17/nx-s1-6004910/minn-us-senate-race",
-          "pubDate": "Sat, 17 Oct 2026 07:43:14 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Dozens of critically endangered orangutans rescued from Indonesian wildfires",
-          "link": "https://www.npr.org/2026/10/17/nx-s1-6004881/dozens-of-critically-endangered-orangutans-rescued-from-indonesian-wildfires",
-          "pubDate": "Sat, 17 Oct 2026 07:43:13 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T08:47:35.626Z"
+      "updatedAt": "2026-10-18T13:07:08.799Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Hurricane warning: Miami poised for No. 1 after 5 of the top 7 teams lose in historic Top 25 day - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZ2F4WENEbFdBV05OTUZmY1ZTVklTbmx6eE1RUVRRemFHVGpmNVdieHN3cmZSNlF6d1J3b3Q5dkN4ZlpBblN5T0tuVmxvNm55M2x1QlN1MXV6MlAyMlExYk1zalE2NldGWEU0MkptSDBYZE5FQVFRdTgzYUVaWFhQN0labnVfTXlpamdtbC1B?oc=5",
+          "pubDate": "Sun, 18 Oct 2026 10:10:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Paris police report 855 arrests after violent clashes and looting during protests - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMHU2Y3QzdlRfOERXUU8tdkVReVV5clJIYkZNNk1USGh5R2Zmci05YUZqTHpVUDhqZ0NIMURCTTN3SWFLNUY5bmdfdDhfcmJVQWFpZkpRd3FoVEtva0pSRTljX25iYlRLUmxUV2d4c3dhN0dMZFJiaURLRnFsT3poeE5KOHdyZGRJTUdubkVaYno0alVYMzJz?oc=5",
+          "pubDate": "Sun, 18 Oct 2026 10:10:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Major fire breaks out in Alberta after deadly incident at Canadian military base - AP News",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRWZIOVJaUGpyUnFDcG1BTVZmOTRtZ2pvLTBjLVBDMU9fb3huN2x3Q1ZGbTBENURyc0JIdXRJQThHajNORTVlVjVnZjJrUV94VDlGaXJrZWRqQVBlWlBBRmJzVkhUem1NRzl5a05uTzJQWEdVLTNEckFlNFFBb1dmeTQwUmU0YkhFd1laTmI2ZUdtTGlLS1VZM3dPTi14ZVNxX2oxY0dzbw?oc=5",
@@ -145,81 +157,69 @@
           "source": "AP News"
         },
         {
-          "title": "No. 3 Miami hangs on to beat Florida State, 43-35 in a double-overtime thriller - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcXcxbkpNMC1ZckEzWjR1UTBGQ3RkbkQ0Y2RBRmxVNXR1SmdhdDVZNVh5ZW85WHpBcHdKbXNCWjVRYjJvSUFyN1NQNjQ2M1VZRTh3WW9KZXJOSWp6MUpiX0NObEVqTGdwZ3UwRTVyOGx5b2NpUnZTVUFzRWd6Qll1em5fdk9wWmo5NllPT19R?oc=5",
-          "pubDate": "Sun, 18 Oct 2026 04:01:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Hurricane Trudy strengthens to Category 2 as it approaches Mexico coast - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSlJRdElHVjVoLTVtTE01UWdmVjRrNkh4TnllLXNhNXZ1Y1c1RDRyWXVQUlBPQTJLZmVkM0RlNkhHdk1KMXRsZ2pnY05RZ19EdTVrNWZVbVJBNThZVmxPSkRlaGJ3T1RtMk0zY3lxQ3ItVHNWOTFndnpQLWRJTEVLX2VFRmtjekpRZkxfMmx0dzlhb2xkZlVWY0lPczFwVC1OX2poZw?oc=5",
-          "pubDate": "Sun, 18 Oct 2026 03:38:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Vance faces tough questions on Iran war, immigration and more in CBS town hall - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNmNuX0Jsc285RXhjY2Fud29veUhrRzdDQUhQT1lnaEpncUVmanpPbUZSRkJOSDBDSXVxUkVrMjNJclhWQ1BuVFh3R2VYWUlxU3pYdW9HcHJkMTQ3X213Nk5McHl0ZWJQN0pyQWhETG9lX01mQTBNVnBQZURDMXlLeVZtRmtQbGJONnk2OXpsRGx5YUNLVFpB?oc=5",
-          "pubDate": "Sun, 18 Oct 2026 03:31:00 GMT",
+          "title": "Rubio heads to Central Asia as some wonder if he's keeping the most pressing matters at a distance - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQd2Voc3pyWGZMSUI3aGk1dDdlRDc2eUxyR1lIUVdVNDBSZFV0WTJ0VUV3T2czM3dMTzd0RERDREM0REE1UjBIU3dGUlBuTFpfMFU2eGdJYlItR1cwd0xLRlZlVEh4YkFBNHZhOGk1YTVjdzU4SHdsS0l5cl9BOXdadGh6R2s0UHFXck9HUGROWGRJZw?oc=5",
+          "pubDate": "Sun, 18 Oct 2026 04:05:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T08:47:36.111Z"
+      "updatedAt": "2026-10-18T13:07:09.318Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "China proposes export controls on solar-manufacturing technologies - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaGtBN1ctcU1NbGFxLXVKb01UVVdDUklxa3Z6Tk1ac05vT2lkd0d2THJqR1Q4VDBDTjJFSUlJYXNCdF83Tko2S0hrbDZSX3NrWWRrWFljNFNHOWhVUnpib3JpdjY3TWZJUEpEQzJKdnFpckZhZTM4X3RXTnhuMzVJWXRxemxoUTdlcDcwckxSUlROQ1pqbHZWdFplOEZUTHh1dDVxb3pfTlN3X2dURk1ETnJzTXJmUFluU0dfck1OSFl4YVlqZHE1NA?oc=5",
-          "pubDate": "Sun, 18 Oct 2026 06:22:00 GMT",
+          "title": "Roy Cooper's North Carolina playbook is working. Can other Democrats copy it? - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSXVOM1JwQnJBTlRESW5tSjFSVERkbnRrNDBlSkx2bEJ6UENYaVVpNEpnbTlLaGdncWp1dkNZTE5yUjJZZVBtd3BNUHN2WElaeXRZdnJrOFFCS2dSc2RPRUF6WmJwNWRTRFBFVWUtcXRHYklNSXc5T3lzY0pkWW95M3YtcnY2ak5hMkxJUEJWV0lLcFY5Vlk3RDlxaGJ6dndraGtwMW4xN2xYX29Sc2E0YnREZWZXa2wwbUhhc3BPMjlZSjM1NHc?oc=5",
+          "pubDate": "Sun, 18 Oct 2026 12:46:22 GMT",
           "source": "Reuters"
         },
         {
-          "title": "German police investigate fence breach at Leipzig airport - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMlJSWFV3MGlmTzZycjkxblNlamxtTC1OdUs1X0U3OUlHeFlod1JMVWQwQnpTX3JOMW1UN0RPekxSNWcwMms2akIzSVZhNFpnOFpsaGk1Zmk3SjNRZElHNEc0MzlxNU5ESDNOSTlXYzhOVWprRDhVclBoZUg4Q0Q5XzJYTlc0ZVRKZS1xbHY5aFZXbFE3bDl5UU01Qjk?oc=5",
-          "pubDate": "Sun, 18 Oct 2026 06:04:00 GMT",
+          "title": "France counts cost of worst unrest in years - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd1VSODRfY1ZTZlpfMVBnaXZzSi1KU1ZsUlJWcWZBaWVaQ0Fyal85ZmEtdkR3ZU94c2ZEeGNzRXpIamtSQVdfVlpJWTdhcEY2ZkZaMFZGZzlTVTVCTDRoUDJybE90dGJGYTNmU1NwUTJDNmVZZllXTDFSR3hIVnBTV2lYTk9LM2N1MlREWk9VOEtidHY2?oc=5",
+          "pubDate": "Sun, 18 Oct 2026 12:34:05 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Lithuania told residents to go to shelters after detecting a flying object - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUGZjTGdJQ2V0X1ZyeE1icDdJQW4xQ2lJbVNqcHlqSnVuTE9OeUtMYWJTVFpXX0xfSmhkbTVveVFoMFpNeUJFVlBzVUN5TnU3LWFLY3JsOEI2U0l2akwzcU5RN21ZVjJ3SGhacks1NGgzZkVmamh2b2hBaGJBNkRCQkU1bmtkY1M0SFVHQ3RDd29SUEI3NEIxdDBDZjdUSVNPMlV2V19UQkxyRVVp?oc=5",
-          "pubDate": "Sun, 18 Oct 2026 05:42:00 GMT",
+          "title": "Davidovich Fokina overcomes Jodar to claim Shanghai crown - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMlJ1TFIyWXlJclFycGpaSmZ4ckpFcDJ0MU9wS1Ryb3FWX1NYSlEzZ3JfS202THFRRTczMWhqemE4XzRMbDB3UV9hOENkOTlRRHZEMm9xZjFrMHI0Vm9PbVFhOFh4aUNiYkIyanZLUm1NdV9GVWJSV1lBejFQTEk2Qk5XeDFzc2FmZXUzc3FUbFZ2bnFRRnNwVnhNeHUyWmctVWcydE8tc3dadlM5YTJyTjJB?oc=5",
+          "pubDate": "Sun, 18 Oct 2026 12:06:51 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Rubio heads to Central Asia while other US officials hit foreign policy hot spots - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMmFpc0NDcHNWM0tpSVFxYURNSGY4OTFCRlhISGVnLUZqUGtaWEpJUXhsTVpyNzZaRmV3R1JhRnRIdjJjS21DaVFjTDRHaEtIUXEySXNwd0U3el93cmNJeEtHblpNc2VhZERoMXliOUFxXzFMVHhnTUNpY1dRVHJEMGxVR1Uxb0ctRThOeGNxN0ZxaW8wQjhJVTJpSG5sSWVNWndGWWRTOW40TjFEa0d3MDVYcU1Id2tRekxlbURxS2gxcDQ5dlZYUnJ4UWlRUQ?oc=5",
-          "pubDate": "Sun, 18 Oct 2026 05:03:00 GMT",
+          "title": "Pope Leo pledges gradual return to duties in first event since cancer surgery - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQajlwczZReXZXSkQ1X1JuZWNGWlNjX2VXcW9hNVdlNXYybU00b3NkSFdpdXo4ZXFLZ184OENSdTZRbE9DdDF2ejZIRVpXUWk2MjdJbWM2Y0JMNzVfcGFvYzRxUU5LYUhpTTB6QWpQWHgwR0tEUXZkNnhBMkxJYkd4dTBydU1OWFpVd3lSNjRSSmF3QW9TUmFocVJVa1QyVUtJcFFHeUwwTGg?oc=5",
+          "pubDate": "Sun, 18 Oct 2026 11:23:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Ex-Chihuahua attorney general accused of treason for allowing US participation in drug raid - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeUh4OFhPTjJFUlBSaGNWU3JVXzZPendVYjVLR1lIM1VKTjB3dlQ4NU5qdmRjS0s0WEYzbXh1TGlMTThlbE0teWJZMWpVWDZrV24zTFZaZnM4WGVzZWVRSTZyYWtyRTNSUTg2UGxWRWlwQXNSUEE3U1ZjMnpwMzJVVUtuMzdySEhsLWk0T2pPbnhsN2JTVUlIS2hvNDd1V1lUV19wMkZKYjBZVEtQTDV2dU01bVFRckxwVXdQVHhiVHJTOFpwcHc?oc=5",
-          "pubDate": "Sun, 18 Oct 2026 03:58:00 GMT",
+          "title": "One killed, 15 injured in Ukrainian drone attack on St Petersburg and Leningrad region - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORkdkNk9DVENGZU50OHVsbHF4Z3ZWbnBxcHVqaDJSa1JEWXZ5aFVqbTQwWmwzUGpvZUJsTUFzSnZHd2laVHpqd05XaF9KM2YxdUNUSVV0YUp1SFVKbTBRVHNzcVc0ek84cTY5TTVmZGhPbnhzMVJiejFXaDdXV3pBcTZYeEI3QkZrNDlOOWllWFk3ejFfMVdVd3lQUGJMeXBhNW5xTjZJQnBINTVSTjVDUnZKSm1laDdKaEE3eGdoSUtaQQ?oc=5",
+          "pubDate": "Sun, 18 Oct 2026 11:17:23 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Rubio says Trump to take up to 60 days to weigh Russia sanctions - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRlRkQlBQYXFvck1VQUYxcVpwM2dEVDMwQThIY3ZHRldBd0M0dmV5NXFnZlBXMnpuUnozQlhLbkg4ZjZCT3kzVW5mcnl3RVEwUXRpdUJsZGViRlE1MFdJbHZWZ3pRTXNOUDQtOTRsQU5nSzd4a3d5Z3c2dTkzZWZSNlZsbXZBamFSMS1qVEVnaHc2MTZJUHZ4YU1zS0hfNVM4eVE?oc=5",
-          "pubDate": "Sun, 18 Oct 2026 03:38:00 GMT",
+          "title": "Albanian PM says mass protests a threat to EU membership, not government - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWlc3R0V2SVhwYWpQcDQzVnptVkptdkQtWHdGZUU0SUlYdUozS3ZFQmN2bmNTQUFKbUZ5UUNWR3RWQmlFVDZSU2daT0FMcXNVM0ZIaGtYbXFTTThzWjFqV3JkWkgzbWRxZWsyTGhhYU5wVTFRc01IV3ZRSkRlTlBlZ0p1YVQzMlZYUUxTSEV6WjUxMGNQb1R6Y3k0b0dZSDZIQlo3c1l2RUpTR0o3?oc=5",
+          "pubDate": "Sun, 18 Oct 2026 11:16:09 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Saudi-led coalition says helicopter crash in Najran kills two crew members - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbFZiZFozb1RWTzVBbk4wZU8xMHlSeHhuSmhkMi1FSVhqTTZ5U3BMbF9aaU5fVjRpWnI1MkJTMTZscVcxTWM0YnVFRXFWdXQ2SnpSdVNPVm5LR1QzbVhpQjliR3VNZFl4WXhjODUzbjNZRXg0S0l0al80ZDlwdjc5ejFRU0E3NlJBZm1iOWg3VjhybzNLbWpOelQ4ZDZBWTkxS3Y4Rm9MUm9vTjdfYk9iaVRJd29DSDhMUi1KOGZMcDhzZGs?oc=5",
-          "pubDate": "Sun, 18 Oct 2026 03:18:00 GMT",
+          "title": "Carney’s pipeline push is unlikely to bring back Canada’s oil jobs boom - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcEtubmtfLWRIRC0xYjJxNnpzbkdOSzJPakNObmdUZ1EyRnB4cThXMjdRY3FWb1padzJMVVdoSG80Nk5lTmFMUU56dHdIU3kxcl9BYlVzOUROZzg5Y1lnTTdSS3h1YkJqdzJFaTB6b1JoV2h3dWxiUHRMNU1zMEpfcWx6b2pHQlJVXzJZLU1EdDVXXzd5X19DUW5memxWTHlPdTdqYl9YT0lrWndI?oc=5",
+          "pubDate": "Sun, 18 Oct 2026 10:54:34 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Deaths confirmed after 'serious incident,' fire at Canada military base in Alberta - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOU2FXR2gxVGRZLXlocTZDQnduRHpvT3JVUHotdTZsTmczb1B4TDE0OWktQmlDNm1WcGdqcEE2Zm9HTmtpN19Pb29YNnVyVHI4d1hXUG1lb0U2ejg2cDF4VGE5Wng0TGdrVDRaSU85WnNQVmw2WmpOaHhMNlpnTFo0cC1tRkRjTDZJVllKdDJIaUhmM1laR01KS2FrQTRKb1lpQThJZlRIeVd0OVZQUnlFX2tnamx6bHladV95MWZHNUVsSldx?oc=5",
-          "pubDate": "Sun, 18 Oct 2026 02:13:00 GMT",
+          "title": "EU condemns attacks by violent settlers, including on diplomats, spokesperson says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcG5pYTJCRkVpNVoxOTVPTVRoNUtwcTBYX2lhZ3ZmMVYxQjRjeG5kMHBHRnlpS1otNzZjWVNyaGJCNjhnU0ROclhuOWYwVGltT19POUY1Z0lOT2pJNDNCSUN0LTFHSkFxUW5iWW91T0ZiOVVTTm42TUpINVc2c1JVbEszT0hBQmhEUU5kemNPbFdqZndpTl9wTG1XeFRxd0JfTXhyam1zSDEzV2hXdWZ3X25xOXY4TkZwWThkLWVXTTBXREpWVFp0eC1XRQ?oc=5",
+          "pubDate": "Sun, 18 Oct 2026 10:52:10 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T08:47:36.524Z"
+      "updatedAt": "2026-10-18T13:07:09.735Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T08:47:36.602Z"
+      "updatedAt": "2026-10-18T13:07:09.797Z"
     }
   ]
 }
