@@ -1,13 +1,31 @@
 {
-  "generatedAt": "2026-10-18T03:59:55.081Z",
+  "generatedAt": "2026-10-18T08:47:36.602Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "Deadly fire breaks out at Canada military base",
+          "title": "Several dead or injured in major fire at Canada military base",
           "link": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 18 Oct 2026 03:23:08 GMT",
+          "pubDate": "Sun, 18 Oct 2026 08:05:49 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Violent clashes, looting and buildings ablaze in France as more than 1,200 arrested after protests",
+          "link": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 18 Oct 2026 05:56:20 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Church makes sainthood case for 'WW1 hero' priest",
+          "link": "https://www.bbc.co.uk/news/articles/cmg47rwddpxko?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 18 Oct 2026 05:15:53 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
+          "link": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 18 Oct 2026 05:04:31 GMT",
           "source": "BBC News"
         },
         {
@@ -33,32 +51,20 @@
           "link": "https://www.bbc.co.uk/news/videos/cwz0vy770gpzo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 17 Oct 2026 21:33:17 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Anti-government protesters battle with police in Albania",
-          "link": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 17 Oct 2026 20:53:00 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
-          "link": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 17 Oct 2026 20:52:17 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "At least 17 dead in crush at Hindu festival event in India",
-          "link": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 17 Oct 2026 19:19:16 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T03:59:54.021Z"
+      "updatedAt": "2026-10-18T08:47:35.445Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Major fire breaks out in Alberta after deadly incident at military base",
+          "link": "https://www.npr.org/2026/10/18/nx-s1-6007276/fire-alberta-deadly-canada-military-base",
+          "pubDate": "Sun, 18 Oct 2026 03:56:08 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Oregon governor Tina Kotek reacts to Silver Rail Elementary school shooting",
           "link": "https://www.npr.org/2026/10/17/nx-s1-6005814/oregon-governor-tina-kotek-reacts-to-silver-rail-elementary-school-shooting",
@@ -100,126 +106,120 @@
           "link": "https://www.npr.org/2026/10/17/nx-s1-6004881/dozens-of-critically-endangered-orangutans-rescued-from-indonesian-wildfires",
           "pubDate": "Sat, 17 Oct 2026 07:43:13 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Decades after apartheid, South Africans seek justice for crimes of the past",
-          "link": "https://www.npr.org/2026/10/17/nx-s1-5987671/south-africa-justice-sharpeville-apartheid",
-          "pubDate": "Sat, 17 Oct 2026 07:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T03:59:54.065Z"
+      "updatedAt": "2026-10-18T08:47:35.626Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Major fire breaks out in Alberta after deadly incident at military base - AP News",
+          "title": "Major fire breaks out in Alberta after deadly incident at Canadian military base - AP News",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRWZIOVJaUGpyUnFDcG1BTVZmOTRtZ2pvLTBjLVBDMU9fb3huN2x3Q1ZGbTBENURyc0JIdXRJQThHajNORTVlVjVnZjJrUV94VDlGaXJrZWRqQVBlWlBBRmJzVkhUem1NRzl5a05uTzJQWEdVLTNEckFlNFFBb1dmeTQwUmU0YkhFd1laTmI2ZUdtTGlLS1VZM3dPTi14ZVNxX2oxY0dzbw?oc=5",
-          "pubDate": "Sun, 18 Oct 2026 02:30:00 GMT",
+          "pubDate": "Sun, 18 Oct 2026 07:51:00 GMT",
           "source": "AP News"
         },
         {
           "title": "Truck drives through soccer field during game in Kansas, killing 2 and hospitalizing 11 - AP News",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQN21KT3N5VjVzVFVna0lUMTJSdUJXek83VmRmS3pzcEpST2gtXzVlMzJicjBQTnQ3Ym05cmhzSFpqNHFpWDNISnNFeFdrdERlWlkzb1lTaFlseWJPREVGeUpibV9iNkpLdklpY1llNjlyWHVZcDhyWDBMS3pHbXJta0hMOWJzQXZnVHhhUnVYX0toRDNkOFJucy1uaUVTRWY4Vlhj?oc=5",
-          "pubDate": "Sun, 18 Oct 2026 01:45:00 GMT",
+          "pubDate": "Sun, 18 Oct 2026 07:22:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Japan to launch spacecraft on a mission to get samples from a Martian moon - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOT0JWSWU4S3JaTElScFlOdnhEZml0TkVISkFVWURZaS02TzR3eGNhMG5QbGI2UUVVSmx3ajBCZXpFNVJNSVQ5eHliRGVmOU9VRjZ0V2l6R1JqVC1xSjVINTBpajhLejg0bUQ2Mkx0dERJTFdzd0pLVGdaSGJ3RUU1MGVBeVo5ellXVXJndGdnYlNoUmczcnpHdVcyVnJXa01lQUk0NEVn?oc=5",
+          "pubDate": "Sun, 18 Oct 2026 06:44:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Shakeup Saturday: 5 of the top 7 teams in the Top 25 lost in the regular season for the first time - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUTF2UlFIOWVHOTloUEc0MVVLeC1VTWctWFhjRWdxaE9INDU0d3VoTElSdk5kNjZ4ak43bFJaeE1rSndiSjBOZHkyeWg1U01hZ3g1ckEyR21CTDNxa0RiREJIREJ4SmlxMk4wUmpJMHlSd01LUDBzcFI2TTFiYjV5MHJR?oc=5",
+          "pubDate": "Sun, 18 Oct 2026 05:43:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Diplomats attacked in the occupied West Bank, and other Middle East developments - AP News",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOV0tPUGhacDNCd3h5U1ktMS1xbVJUZHhjc1RSU0VwZEN1WThvNDNrc0F3SWFhRHRrRWt5NlBSUFhqc3FOa3VFd2V0RVUxTzZNakJBVXhSZHRvV0tmS3RRZG9pY0lqNGxxcmlTZWk4Ylp2MF8zNlh5OUtMS3AzSmdLWmhYYTByR2VyS21QODB2eV9Mb0FmbVlISE5qaGVtWEU2UG5tanR4dUd0ZlJHb05iWQ?oc=5",
+          "pubDate": "Sun, 18 Oct 2026 04:08:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "No. 3 Miami hangs on to beat Florida State, 43-35 in a double-overtime thriller - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcXcxbkpNMC1ZckEzWjR1UTBGQ3RkbkQ0Y2RBRmxVNXR1SmdhdDVZNVh5ZW85WHpBcHdKbXNCWjVRYjJvSUFyN1NQNjQ2M1VZRTh3WW9KZXJOSWp6MUpiX0NObEVqTGdwZ3UwRTVyOGx5b2NpUnZTVUFzRWd6Qll1em5fdk9wWmo5NllPT19R?oc=5",
+          "pubDate": "Sun, 18 Oct 2026 04:01:00 GMT",
           "source": "AP News"
         },
         {
           "title": "Hurricane Trudy strengthens to Category 2 as it approaches Mexico coast - AP News",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSlJRdElHVjVoLTVtTE01UWdmVjRrNkh4TnllLXNhNXZ1Y1c1RDRyWXVQUlBPQTJLZmVkM0RlNkhHdk1KMXRsZ2pnY05RZ19EdTVrNWZVbVJBNThZVmxPSkRlaGJ3T1RtMk0zY3lxQ3ItVHNWOTFndnpQLWRJTEVLX2VFRmtjekpRZkxfMmx0dzlhb2xkZlVWY0lPczFwVC1OX2poZw?oc=5",
-          "pubDate": "Sun, 18 Oct 2026 01:22:00 GMT",
+          "pubDate": "Sun, 18 Oct 2026 03:38:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "AP Top 25 Poll - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5OYllVd284SGVJbHo5QXVQempkaGlYeHlzWEZxOU5jZTktTnItaDg1X21NaEJZbHpYTUM5RXczMm5PS21YaktpREY1TU1WMzV1aXR6TkRpRmxjQVZpNkpMODQxWEM?oc=5",
-          "pubDate": "Sun, 18 Oct 2026 01:09:10 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Alex McPherson kicks 34-yard field goal as time expires to lift Auburn over No. 1 Georgia 27-24 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVVZPOFFna2RGMDRuYW1yRHNrb0w2bVFpdjhpY1ZjcTB0TE9CYWxxUXo3MGNuQjJsZmNMSkVLS2hhZDlialVjaWQwZ2liS01pem5Kc3N1bVZzN25PeUhLWkpTczhmb2YydloyRndfTVQzX0Z3WTUyUHphWU5Oc2pIY2JnX1pzVTQ?oc=5",
-          "pubDate": "Sun, 18 Oct 2026 00:38:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "U.S. News: Top U.S. News Today - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBlSV95cW15dzRMN3BweVV5a2ZVclpfUE5TYWRCWGtHX1VOX1JuNklpQVZ0NnQ1Q3diNDlUbmNPYw?oc=5",
-          "pubDate": "Sun, 18 Oct 2026 00:24:31 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Trump’s decision to waive Russian sanctions outrages Congress, but no quick counter seen - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQzV3OUN4YUtURHoxVG1sTV9uMjVTdFU0Tmlqc2hod0trU1hzQnMzUTc5UE12TGJsMVJmOVU1VEFxWXVSOEJxOU5sR3FwUFc2OFY0b2NKczZOR3pjX0xTWlJacDZSdWk1SmgxVjJvVTRWQVZyckd3MW14dFRiM0RJb3F6bG15MGNyTFJtOU1IVDVLeTNHSjZsMzl2aFB1azZZRG5TajhNTUVGUQ?oc=5",
-          "pubDate": "Sun, 18 Oct 2026 00:16:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Michigan quarterback Bryce Underwood benched and replaced by Tommy Carr in win over Penn State - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdnY0ak1iRHpOWEYzU1hXdkpSZTNVQ3hJcUhnT1h3MXQ0akZfdEk0WThTSHQ4UG5hcTIwejdSY0JVaVFfcms1M2NsaVRHSEtoNFdIRXJjOENJX25PTGFxV00tdDZIT292UncwR1hVVGpjalZMbmlObFJPTWhrWWg1bjYycmVkVk1ZOTlnQ1h0SmljRnJ0N0c3YnNobw?oc=5",
-          "pubDate": "Sun, 18 Oct 2026 00:13:00 GMT",
+          "title": "Vance faces tough questions on Iran war, immigration and more in CBS town hall - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNmNuX0Jsc285RXhjY2Fud29veUhrRzdDQUhQT1lnaEpncUVmanpPbUZSRkJOSDBDSXVxUkVrMjNJclhWQ1BuVFh3R2VYWUlxU3pYdW9HcHJkMTQ3X213Nk5McHl0ZWJQN0pyQWhETG9lX01mQTBNVnBQZURDMXlLeVZtRmtQbGJONnk2OXpsRGx5YUNLVFpB?oc=5",
+          "pubDate": "Sun, 18 Oct 2026 03:31:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T03:59:54.622Z"
+      "updatedAt": "2026-10-18T08:47:36.111Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "China proposes export controls on solar-manufacturing technologies - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaGtBN1ctcU1NbGFxLXVKb01UVVdDUklxa3Z6Tk1ac05vT2lkd0d2THJqR1Q4VDBDTjJFSUlJYXNCdF83Tko2S0hrbDZSX3NrWWRrWFljNFNHOWhVUnpib3JpdjY3TWZJUEpEQzJKdnFpckZhZTM4X3RXTnhuMzVJWXRxemxoUTdlcDcwckxSUlROQ1pqbHZWdFplOEZUTHh1dDVxb3pfTlN3X2dURk1ETnJzTXJmUFluU0dfck1OSFl4YVlqZHE1NA?oc=5",
+          "pubDate": "Sun, 18 Oct 2026 06:22:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "German police investigate fence breach at Leipzig airport - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMlJSWFV3MGlmTzZycjkxblNlamxtTC1OdUs1X0U3OUlHeFlod1JMVWQwQnpTX3JOMW1UN0RPekxSNWcwMms2akIzSVZhNFpnOFpsaGk1Zmk3SjNRZElHNEc0MzlxNU5ESDNOSTlXYzhOVWprRDhVclBoZUg4Q0Q5XzJYTlc0ZVRKZS1xbHY5aFZXbFE3bDl5UU01Qjk?oc=5",
+          "pubDate": "Sun, 18 Oct 2026 06:04:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Lithuania told residents to go to shelters after detecting a flying object - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUGZjTGdJQ2V0X1ZyeE1icDdJQW4xQ2lJbVNqcHlqSnVuTE9OeUtMYWJTVFpXX0xfSmhkbTVveVFoMFpNeUJFVlBzVUN5TnU3LWFLY3JsOEI2U0l2akwzcU5RN21ZVjJ3SGhacks1NGgzZkVmamh2b2hBaGJBNkRCQkU1bmtkY1M0SFVHQ3RDd29SUEI3NEIxdDBDZjdUSVNPMlV2V19UQkxyRVVp?oc=5",
+          "pubDate": "Sun, 18 Oct 2026 05:42:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Rubio heads to Central Asia while other US officials hit foreign policy hot spots - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMmFpc0NDcHNWM0tpSVFxYURNSGY4OTFCRlhISGVnLUZqUGtaWEpJUXhsTVpyNzZaRmV3R1JhRnRIdjJjS21DaVFjTDRHaEtIUXEySXNwd0U3el93cmNJeEtHblpNc2VhZERoMXliOUFxXzFMVHhnTUNpY1dRVHJEMGxVR1Uxb0ctRThOeGNxN0ZxaW8wQjhJVTJpSG5sSWVNWndGWWRTOW40TjFEa0d3MDVYcU1Id2tRekxlbURxS2gxcDQ5dlZYUnJ4UWlRUQ?oc=5",
+          "pubDate": "Sun, 18 Oct 2026 05:03:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Ex-Chihuahua attorney general accused of treason for allowing US participation in drug raid - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeUh4OFhPTjJFUlBSaGNWU3JVXzZPendVYjVLR1lIM1VKTjB3dlQ4NU5qdmRjS0s0WEYzbXh1TGlMTThlbE0teWJZMWpVWDZrV24zTFZaZnM4WGVzZWVRSTZyYWtyRTNSUTg2UGxWRWlwQXNSUEE3U1ZjMnpwMzJVVUtuMzdySEhsLWk0T2pPbnhsN2JTVUlIS2hvNDd1V1lUV19wMkZKYjBZVEtQTDV2dU01bVFRckxwVXdQVHhiVHJTOFpwcHc?oc=5",
+          "pubDate": "Sun, 18 Oct 2026 03:58:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Rubio says Trump to take up to 60 days to weigh Russia sanctions - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRlRkQlBQYXFvck1VQUYxcVpwM2dEVDMwQThIY3ZHRldBd0M0dmV5NXFnZlBXMnpuUnozQlhLbkg4ZjZCT3kzVW5mcnl3RVEwUXRpdUJsZGViRlE1MFdJbHZWZ3pRTXNOUDQtOTRsQU5nSzd4a3d5Z3c2dTkzZWZSNlZsbXZBamFSMS1qVEVnaHc2MTZJUHZ4YU1zS0hfNVM4eVE?oc=5",
+          "pubDate": "Sun, 18 Oct 2026 03:38:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Saudi-led coalition says helicopter crash in Najran kills two crew members - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbFZiZFozb1RWTzVBbk4wZU8xMHlSeHhuSmhkMi1FSVhqTTZ5U3BMbF9aaU5fVjRpWnI1MkJTMTZscVcxTWM0YnVFRXFWdXQ2SnpSdVNPVm5LR1QzbVhpQjliR3VNZFl4WXhjODUzbjNZRXg0S0l0al80ZDlwdjc5ejFRU0E3NlJBZm1iOWg3VjhybzNLbWpOelQ4ZDZBWTkxS3Y4Rm9MUm9vTjdfYk9iaVRJd29DSDhMUi1KOGZMcDhzZGs?oc=5",
+          "pubDate": "Sun, 18 Oct 2026 03:18:00 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Deaths confirmed after 'serious incident,' fire at Canada military base in Alberta - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOU2FXR2gxVGRZLXlocTZDQnduRHpvT3JVUHotdTZsTmczb1B4TDE0OWktQmlDNm1WcGdqcEE2Zm9HTmtpN19Pb29YNnVyVHI4d1hXUG1lb0U2ejg2cDF4VGE5Wng0TGdrVDRaSU85WnNQVmw2WmpOaHhMNlpnTFo0cC1tRkRjTDZJVllKdDJIaUhmM1laR01KS2FrQTRKb1lpQThJZlRIeVd0OVZQUnlFX2tnamx6bHladV95MWZHNUVsSldx?oc=5",
           "pubDate": "Sun, 18 Oct 2026 02:13:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Woodside natural gas project unit paused after Greenpeace protest off Western Australia - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcEtSYkpzYzU2WUhsb0V2bGwyamh6Z3dVYzZnaThBanotNU0wakx2RHdsLURpNWlTWXpDZllDZUQ1ZktNUThWXzVKWkZ4LVVWSWk2bXBwREd3MGRDelpPRHAtTmxfclh0WG1MQXBZQ01tbWxZa0VhZEFyWWJfdTV6cWpXWDFHb0syMFdTb3NfWl9TcjhzUm9pYUlTbDNVQ0t4RDEwb1RTRi1vVXpIeXh4YmZmN05zNVpHZkNiUi00ZUVheWcwazBhNw?oc=5",
-          "pubDate": "Sat, 17 Oct 2026 23:57:44 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US wants Israel to 'crack down' on settler violence in West Bank, Rubio says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOX2RPSkdZZ0xrcm1MRkYySnVIVFRmRFN0UXBfV21jVlcxZ2xrUDloZlFYWE1Za0JnRXNHVXdRbWkzSVljckpwSmpUSzFsWHpCcV9YM2RTSGZZNEprQlNkSmFPQlgtYUZCejI3a3BuS2RmUEgwS3JmUUNIbkxvSzJoNUg3ckdsRUxvVE9BdTFBX0NUR3pYcThTQjBUb05tQ1V2QzlUR3JneGU5ZTB2Z0xPTGdUM2lSemFsQmc?oc=5",
-          "pubDate": "Sat, 17 Oct 2026 23:49:37 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Hurricane Trudy gains strength near Mexico's coast, but is expected to weaken by Sunday - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQUdGblRuOW5ZdjFTRUR1WkFYdEZKeDAxbjVscWNybm1RS3ZwelZlT084SVFHOFFRcDY5U1dlNUYtNkJKdHJUZEJITmZBeFBCSEZsR1RfNzdwcTY4ejNON0JycmgxN21xSTRPUjRFM2Uyd1ViNkdaZWdPQUJrUTRZd1dUVWIxOGI0Z1UxYjVkaDlZYUVzN3psc3g0bzF3OGo4MkF0NU9ZTmkzZC1zM0g4SUhRWTRqYUI0NWNaYmljYTFVSHM1eHU3d2pR?oc=5",
-          "pubDate": "Sat, 17 Oct 2026 23:33:43 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Venezuela expects nearly $76 billion in oil investment over five years, acting president says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNjRrMjhGV0NJUjVPZmZUdm1Da3JxcUFDaW9PTTVhVjZqSUszdzlLMGIwdjk4MFc0UXlUU0ZSZ1h4aGNTMmE1V3ZfdGJNcFVIUVIzbGFwTFdjd2xMVWtLWlBlV21QNlNxY0ZBcXVWTS05Z0c5UnY5d0tIWVFXOEdnLUZUTk84UXB1ektOV3A3OHhXSmxVYnhMZktTMl9PZUFaRGdpUkF4VXlGMlBoWVdhclhOa2p0bFExTTljdWtRZGs1bXM?oc=5",
-          "pubDate": "Sat, 17 Oct 2026 22:53:43 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Trump-Zelenskiy rift threatens vital support for Kyiv - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOS1zSXlGaS1sbWV1RHJiN2s1S1o5WWQxY01nZmh0ZVA2ZHo3cEZ0NUhERFZFT2kzT0FPQXgxVmFqNzhlNUNtNFB1WkFENHZEU2xKdWRuYmt5ZUhTcUJrY1ktbXEtSU1mOGUyZkxYOVF6Y1hqYkFZSGJuZ2s4MWZ1NmRZY09kQThIZXlndE1GRFlIVkNvTWFzbUxhaDJaNEE?oc=5",
-          "pubDate": "Sat, 17 Oct 2026 22:27:19 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Two killed, including 6-year-old, when truck drives through Kansas youth soccer game, police say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTXduZ3p6ZDh4VG5wY05HRmxTR2lvak9YbnNwN0FaYTlCMzE5enY5S3BpcmxNdk96V0dueGs1dWkzTkEzMmIyZnhFLTd3NW5VQUFVMFpRX2tNYWVaVWhQMmlWSHNCWVRhTUdhYVVzRGVPOU1oT0tlenFIRzdwR2RVU1pTclpfdmNqbHJiNXJ4MGpuaTFMaVJ0dzlzeE5NMG9PcHRHdUdjZENTdEotdkwtRzBjNzNuX1ZydDhjdTBxX1U?oc=5",
-          "pubDate": "Sat, 17 Oct 2026 22:10:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Albanian police fire rubber bullets as student protests rage - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVlJCekoweVlrYktkQmJZZ2V4aFFnRFpHdnRBMlYzZDlJS0xFS1JWQVMtOVNvbURNdUNHU09BTnBkNjBwdi0yaFVNR2Nqbm9sTUxHTFZQQk1PWkU2ZzdVeC04UVdLb2lJNFoxWHVsSWJJQTlrNXBYZ0NfNWJ4YTdENjlBYmwtdDlOMHhMOWtJY2NxUDJHRlJ1emtpa2h4UmFwZlBOQ0dEQlBORTREQ0E?oc=5",
-          "pubDate": "Sat, 17 Oct 2026 21:04:25 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T03:59:54.985Z"
+      "updatedAt": "2026-10-18T08:47:36.524Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T03:59:55.081Z"
+      "updatedAt": "2026-10-18T08:47:36.602Z"
     }
   ]
 }
