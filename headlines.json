@@ -1,9 +1,27 @@
 {
-  "generatedAt": "2026-10-19T17:40:34.848Z",
+  "generatedAt": "2026-10-19T22:11:55.266Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
+          "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 19 Oct 2026 21:12:30 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
+          "link": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 19 Oct 2026 20:49:00 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
+          "link": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 19 Oct 2026 18:22:48 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
           "link": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
@@ -14,12 +32,6 @@
           "title": "Warning signs over threats to Australian politicians were rising before MP hit by car",
           "link": "https://www.bbc.co.uk/news/articles/cq398rk4p3exo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 19 Oct 2026 16:32:47 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Ex-OpenAI worker accused of planting device had Saudi support says court filing",
-          "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 19 Oct 2026 16:22:12 GMT",
           "source": "BBC News"
         },
         {
@@ -39,22 +51,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cmq8n7l0le11o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 19 Oct 2026 15:21:03 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "US airman dies as daredevil descent goes wrong before Texas college football game",
-          "link": "https://www.bbc.co.uk/news/articles/crd6dn63j2xwo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 19 Oct 2026 14:13:18 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Australian MP critically injured after being hit by car in apparent attack",
-          "link": "https://www.bbc.co.uk/news/articles/cwp9g43g2p07o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 19 Oct 2026 14:09:54 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-19T17:40:33.413Z"
+      "updatedAt": "2026-10-19T22:11:54.624Z"
     },
     {
       "name": "NPR",
@@ -109,7 +109,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-19T17:40:33.553Z"
+      "updatedAt": "2026-10-19T22:11:54.661Z"
     },
     {
       "name": "AP News",
@@ -117,109 +117,109 @@
         {
           "title": "California officials who process ballots from suspected noncitizens risk prosecution, US warns - AP News",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVHhuR0o4cWF2OHJ2SEV3YWs5bk9tTzg1MWx5c28xVl82eHF0clJDN0ZoZnFQUEwzU2pwc2J4dUxBcmxZYXJEc09sUXdWLVFoUENTQUJsdU5BU2x1d0pQMHJ4aUwwS21GMkotbmJsRURtYlh4VWRnLU9CeTNNVVNUQ0VjLXBQZVRTRmtfbjdJRUlzalNDVzZmMFU0ZXEwNXNTRE9wVGxQa2ZyT2Ex?oc=5",
-          "pubDate": "Mon, 19 Oct 2026 17:32:55 GMT",
+          "pubDate": "Mon, 19 Oct 2026 22:05:42 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Paris police issue overnight curfew in 2 areas of French capital to try to prevent further disorder - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNTgxVjJGeG9KQlNaNkVXRVV2RzFVdDlSMUJMdjNVbTQ5MnpHZkMtOEdTM0JONUxrRldZU1Jna2l3WkZrM2wxM2VsazJjSVdVX1QxZm1kU2JTNTNwOXFndFdMYXRscEJFYnFQMTZTWWFxUlRod1pUR2dBUThwZllkb2lNTThrZzk4YmtNYWJuaVdPd00?oc=5",
+          "pubDate": "Mon, 19 Oct 2026 21:39:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "From France to Albania, social unrest is setting Europe’s streets ablaze - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSlZieGhTM2g4aU5Rc0pvNExoczBPVzN1NUdCZEJ1SHhpVjVlZWhtcHowVDlMamNpT0FkRVZEZnQ2WTNKQzh1cHdDX3lDS0dEd3FHMHcxd3BDRmFsZV9wMU5uc3ZDRWJNb0ZhWWhHS1ItcVVYbnJMRHZvdC1DYVd1QlpNZ1Bsc0l0Mm5jRmppN3N6UDd0OTZ4dmVGdjJiYTh6RXNoQ1FkT3BPUV9INUl2dmt1eUtIaE9KNHVhcG5yNTFjMEJHNkR5VEhB?oc=5",
+          "pubDate": "Mon, 19 Oct 2026 21:37:00 GMT",
           "source": "AP News"
         },
         {
           "title": "Zelenskyy says Ukraine got no early warning from partners as Russia hits the power grid again - AP News",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYm9Fd0ZUSUJudF9abExqQ1dsTEFBbS1nLXRRai1VQk5GRDlXNnFQbHlXM1kzVU41YnRJT3Y5d256eGZzU1lQeFAwamJxQlJKUkFMNkt0RG9lb29SMTJMMEVJSVdreEF6QTdseWI0VzUzTG9oUWtoVEh4UmdTNE44X0tWckx6M2VtZzZNcWRwV0JKMzEy?oc=5",
-          "pubDate": "Mon, 19 Oct 2026 17:03:00 GMT",
+          "pubDate": "Mon, 19 Oct 2026 21:36:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "NCAA College Basketball Rankings: AP Top 25 Basketball Poll - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiclRXTGdGRmhNSVBZOEhVMjdaWTFWdXIwOFA4UTd6T0plQTJ0UmZlSUE2WEMwQmYzQ0NJam1KcWhVLVZXY1cwYWNKTU9GRjY4MXJacTlKX3BUdnlCYW1TdnVVX3pHcTQ?oc=5",
-          "pubDate": "Mon, 19 Oct 2026 16:29:03 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Albertans vote on path to independence as Carney fights to keep Canada united - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVEF6b1VtZEhfTjVRbnJ2WGFBUUVVaU1BYnJndVVSOVp2R1NValFBX2JnVGk1TVNLYkZTaTc0NTQwSkItZlpUUlRpLTVtMS1PeTFHbDZBeVpTeDhXbmxDSzdkZ3VyLXg4Q2xLNWluZ2hJVDVHZlU3U29KVjExNGJiOENTNG81RnJwelJZcmR6elNGMWtHdDJLM1BFMURpYTZ5ZFMzeDM0bm96dGowOFRB?oc=5",
-          "pubDate": "Mon, 19 Oct 2026 16:27:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Florida is No. 1 in preseason AP Top 25 men's poll as Duke, Illini also receive first-place votes - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSkxXY1JoRmZqWnlaT1FMUHp5Q0lDSmVENUFEYXNQSDVUNi0xNjZLZENia0NtUGVqdUpnYVVENlR5QjhVUXpWNF9pMFkzYXhKQU16M2JIUTQwWWxrc0ZNYTlkeGV3M2pDQzBteDdjOExSekRzanRrT3dzcEZ6YV9ZYzdwSDY2TjlybThfWVpn?oc=5",
-          "pubDate": "Mon, 19 Oct 2026 16:17:48 GMT",
+          "title": "The GOP counts on farmers' votes. As a costly harvest season raises concerns, Trump heads to Kansas - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNa0ZvV294YXVvajRQZ25PRG4yd09oczduQUNDTkVWVXY5dzZoWXBsZS1nbDBWNkYwNHJzajVFdzliYXZuMXhiMDlYNEFSVElNS3NEVXpIMGVBUGp4b0FXLUJEQUdoOFJpdUVuSnE0RVF2Sll3TVBaSlFCcmN0MzN0eW9qR0RKalNEUXkzVUpVQ2IyclhfVF81cS1QdTNON2ZlRlpleGdtRV9YSFozSUNnRUplOURlNmhN?oc=5",
+          "pubDate": "Mon, 19 Oct 2026 20:57:00 GMT",
           "source": "AP News"
         },
         {
           "title": "AI stocks lead a rebound on Wall Street as European markets drop following protests - AP News",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVXpsQTBIVTFZNVR4LVdWd2pmbHBUa18tWGRnZmFqVXFvN1dCaW9vTmRxcXNOVVZFNENxTjl2d3lTTXV3TU9aRkxhUzJSNWI5SlFyY1ZoazVBakQwN2VWVzdvYnQ3RU0zQWFjYzA5ZFJ2bFFQeHhYQTRHUTBxcFlHUXQzMV8xMEpTMmR6bA?oc=5",
-          "pubDate": "Mon, 19 Oct 2026 15:42:00 GMT",
+          "pubDate": "Mon, 19 Oct 2026 20:51:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Gangs in Haiti target foreign troops in biggest attack since new force began operations - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPd2Z4eF9VQkszcjYzUUF1S2tZYWdRcGpuWGZjLUY0ejVwMGRYdlJWUkMyVmxzdmEtdGhnaC0zZHlWTENFeFdsbm9YLVFqVVcxd2dPMmpzS1FiNU9fYy1FS2ZDSjNIdnJzcXNSX3pCbTVhZ1BMRGZ5UUtUVnF3SnhMdFBHVWw1UUdEd1hNQ3J2WVVYQWNQSDFzazNDTUo?oc=5",
-          "pubDate": "Mon, 19 Oct 2026 15:41:00 GMT",
+          "title": "Saudi Arabia executes 2 Bangladeshis over ‘indecent acts,’ and other Mideast news - AP News",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcVpZRGhZT3Y1emJqaU5GbHdkLXM2ckdNLU5ZQ0N6SmU0VVQydW4wMndGb2V1ZzMzRHViTVBtWlNlN0kxclFURFFobVQ2TDFySldKNGF5TktyT3ZpLU54Q1pUMk9qYjM2dWVweW9vdTFvV2NGQ0ZkR00zMmdXWkxlMkZ1ZE5ReFhjM0wybG9mT0dfMGtPZTczaGJINEp5LXJrbEFDWEpjd2h5OHpHdmZFNlk2UUpxQnc?oc=5",
+          "pubDate": "Mon, 19 Oct 2026 20:07:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "AI agents are only as good as the personal information you share. That raises privacy concerns - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNGphS2ZSQS1YeGlhbnF0WDZXZFpMNG5hUmxnOWdBYVRVZ0hjeld1NGxEbTJ3ME1ZMXg3MDZ4blBVOE5fM3pLTUlwQVRYSEJaMlJFel9YdE5yQXU4VTFzWlZQVnMwRllTWFY2TU1Fc3JEV1lYSTBtbDAzOXVZOEcwOWJGTnN1SlZvTFhUY2E0UkR4TnB6eVE?oc=5",
-          "pubDate": "Mon, 19 Oct 2026 15:40:00 GMT",
+          "title": "Eagles QB Jalen Hurts is expected to miss the rest of the season with blood clots, AP source says - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd2hFdE0wTGx0bDQ0NEJLVVFERER4bExSTzBXYkFyMURvQXViUWZ3NUFiWms2dEFNYjhmdDZwQldtX2ZaVE1WemktU2w0WlhoSDlxa0ZrNE44dEc1dzFJLUp0ZFJ6MXZ1N0lOb3NFSVB6LUpuR0JLX242MHVVSkRlUUdEX01sS1QxUzJEWmp3c3ZtZG9q?oc=5",
+          "pubDate": "Mon, 19 Oct 2026 20:07:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-19T17:40:34.113Z"
+      "updatedAt": "2026-10-19T22:11:55.195Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Ex-OpenAI employee accused of planting device appears to have Saudi backing, US prosecutors say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNN1EyODdFMHdNVDVJVW5YVW1rWE5YX042MFNLWldLeVJ1UFlydXJYQnB5YlNldDhNdURMRlRGYVZicEp3SkhEaEZ0eXQ2VUhkanA5QVhZeUIyRVg4dW4wbzhmblZvU01PX0hlUUp5YzJZZHBzT0FSemhVN2k1eXVycG1PcnR6TXBUSDZSUERsc3pEamlDR1FCUnRXZk5vaWJVZDVGd2VmNEd6MThaZ3FvcS13MXRIYlo5d1p4S2JYOA?oc=5",
-          "pubDate": "Mon, 19 Oct 2026 17:25:10 GMT",
+          "title": "Norway targets 'harmful' social media, games with under-16 ban - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYjJZMGpFZTdpYWxGcnJfbDNudU1vRFY4bkdaeHZybU5UaUFaX3ZsSGxhaEF3RkViMkxyVDNMdWhnVXlzdVV4dFEtcGNkdjYyYjRCWE5QbnZjN2l1YU1VdU4xRkJGS0p1WDhxWjFWZlNhelpaUElidThXWlVGbEVfTXYzM2xidXhWTHlseXY1VkdORDFxbWhxNlBrZnNnSWloenQzUVNJVzVqTFo3Q3YwLXh3?oc=5",
+          "pubDate": "Mon, 19 Oct 2026 21:46:50 GMT",
           "source": "Reuters"
         },
         {
-          "title": "US Supreme Court snubs bid to revive plea deal for accused 9/11 mastermind - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOHNyVDVadGRwOWRZUFo0Z2lqYmZrRjlIdmJoTlBvNU9SUjNmcEhEUjVUTzFieWQ0WXVGR0syMXJKZE94VF9JWkRVVlZyNUdrSGZrOUtLbVVnVlBGTkJfZ2tlUWw2bzJZNTBkbUtFNUNfT0VlMS1XYm1LeHNQVVBUQldLSGdFbmFjMl9SNDdGVFBNejQwTDJPSVBFV0tnamxfQUR5dFVZVFJ2ODNV?oc=5",
-          "pubDate": "Mon, 19 Oct 2026 17:24:22 GMT",
+          "title": "Alberta votes on leaving Canada; separatist movement likely to outlast expected defeat - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcVhpOEEtQU9ScjZPUU5YUnZfaG9LVXh6VHlxYzBrbzJzSGlzc2kweEZqMDZZMGpwNFNSQUtvNmF1bnVidmFNdU5ELUR5MTVaLTNhaTUwdTB3Rnd2cUhOM0ZIQ0k3TTd3VTFucWc4clltY3M4YnNrTGMzcnY0R2dmaXdZQnUxbEQ1eHd1ai1ldV9EUXQ3QTNlRXUwWjZWQlVEUWFCTmVYR05fYXFTbVdidElWcHoyV1RVYWdJVmZPbHA3Q1NheEZjd09B?oc=5",
+          "pubDate": "Mon, 19 Oct 2026 21:39:43 GMT",
           "source": "Reuters"
         },
         {
-          "title": "French Prime Minister calls for partial curfews after weekend riots - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOS05IaFlBa0paMExacEp0cGpsM0JDeGF2RmZTR3JDZWxxRUZ4TGF4TVMtV09yay1PQjFhMnJRT3UteEtWQV9nUU9DMHFfaU1Kd054UlF3aFh1WGtuaUlFWTQ0RXExNVNfT3RwRFhLLW82XzhpNEFNdjd6X2RmVXNETzVsYTR5TjBFWTFrbHZ5NVhpcnNpbDF6UGVaSU9sMnR4d1hxZlVSLTY?oc=5",
-          "pubDate": "Mon, 19 Oct 2026 17:24:18 GMT",
+          "title": "EXCLUSIVE: How one hacker used AI agents and a few thousand dollars to break into scores of sites - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSUVKUWRvY0tQeUZscHhGcDBLYjI5VVZaYXRFRklFbmEzX29RaVFuMmt6cDlpMURENUtWRFpBQVBnNngwcWJla3NJZllZVDFBb2NKU21YUnBkMTNKb1NEM3BNLXk2OXpVbVpyZXM3NHVaOUNrWGZzRWhGQlRFSDhPa0E4TVdCTnBuZjNBS2R2UU9ySzV1c2hCbUVycmFHUTNpVk1vX0kxSEEyMUllRlpsakRfNEdZUlJUWVBVRTFqYkZiYm5jR1E?oc=5",
+          "pubDate": "Mon, 19 Oct 2026 21:30:28 GMT",
           "source": "Reuters"
         },
         {
           "title": "Every look from the Victoria's Secret Fashion Show - Reuters",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNa2lPVEdrVzBfenM5SXI3MVNXTDdLQ1R5Si12OHFWQzF1TUtJaUZYdjl6SmZjSkdZeS1FSWV2a2JzeXc5TEFGdkliY09WTFE2SWYwRUQwVUJaWWsxV2dSNGZwYWlOMFMyd0kzaTZoN0xJZmJTRm9NUjdmdmhPeG9sYlJ5d05PVDREcWlFbF9YZ0U?oc=5",
-          "pubDate": "Mon, 19 Oct 2026 17:18:58 GMT",
+          "pubDate": "Mon, 19 Oct 2026 21:27:11 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Senator Schumer urges FCC to reject conservative group's bid to use political AI-generated robocalls - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOS1M2Q2tEN19xQWVpZng0TEVrSENheEJCSE9MakNUZWVPdHh5dG9SX0ZzU3d4Z0dNWjk5UDU2cXBWQ3plSk90dXdzdG1zOVdfR0xHLU5IVmZNVG1QLXI0NGRwSlVxcWRid21uZk1vQU51MTFFX2tiQjlBRnJmUHA4U3lncHh5dzFkUlJiVUV1RkJybU1tVXBKYUFnVzJoUVJBWEg1eVRtTEZ1TGhNb1VtNmlMU3BBV0dCajdkMg?oc=5",
-          "pubDate": "Mon, 19 Oct 2026 16:43:23 GMT",
+          "title": "US officials plan to travel to Norway for Ukraine talks, sources say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOE4zYUpvQklLdjJ2UnU4NHpYZV9xempmUGVUdnAtOG5KS0dWbXhhb0EzV0M5UDNaUHRYNnY3ZFZuZjVfUDNkWnliYUVDa1R2OFpybEU1eVB6bkpyX3lwSW1uV3ZzVjRYaHNlX3pkelptSkhfTE05TkFlaTI4OUFlZGdBTG96SkxSYmFpSEFETGFkVHBCTlBqZFhDRmVpNjZZTGNRQjJxM0ROdw?oc=5",
+          "pubDate": "Mon, 19 Oct 2026 21:25:20 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Governments warn citizens over security in France after riots - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWmxMTDYtS1VOLVA5TE5qSGZzeW96a0g0N2dXWlpSaUVZMk93MkNIS2ZsLUpHNmtCNElLaXdmVHNaalNzbTdyUkxsMUdNUFFEZTZES0hmMmxSNERLWnlJUjB6MkE3bXExVW9mMTI2WmZOeGVrcDhlUkpLRjRKSXRGeUVmMU5FUUhHUkw3TGpmdFp5UDRHSnVwMlBXdDI4T2JwR1kwOVZydmROQlFzQlE?oc=5",
-          "pubDate": "Mon, 19 Oct 2026 16:32:12 GMT",
+          "title": "Trump says Zelenskiy should get somebody else to negotiate to end war - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZkJfbTJUSTNGdHptbTBieXhMaFBhamZFaTJFb2JXVllDUnFyX3U2OG1hbWFTQ0ZlbzVfS2U0bmtOTmk3dWExc3hnc0JxQ1o3V2FkODNjWkRzNDVPOEF3YjQ4YWtWMW9mMXJ6ZGJxS3pUNkxzNVZOTDRXTU05Y0xlOHF0X0xtU2ZBeWJkaTBTNjNnWnU0YWVKbXAzaVVoYjBzRmc4MXNiUkM?oc=5",
+          "pubDate": "Mon, 19 Oct 2026 21:03:41 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Christiane Amanpour to leave CNN after four decades as Ellison era begins - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQb1RuM0JKcU9Qaks5eThna1hYUlptN2YyRWlqc2dDX1kySU51MWZPNFd6bXpCVnVPZXptVl80VmlwLU9NbTVrVmNjeWpNUEs4WFFKekVFRGU2NTZJQlZxeEFINFJRa3RmTEVJbnhvUm83R2gyMDVEb3V5cmgxNHFBWnd6OVN5ZlBKQ09HcWJnSlhvM0FxTm9ORkNBdzg4RzJSZzhVWHdROU1oT0d6VEY3LXdLdUV5VkwzZGkxWlVjOTlqcG1l?oc=5",
-          "pubDate": "Mon, 19 Oct 2026 16:27:44 GMT",
+          "title": "Nasdaq climbs as chip and AI-linked stocks bounce back - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPX21SVVhfUjZRQ255YlFzVWVEZ3BFMmt3aWlDdkVPVENFOExuRE9KOXZ6WjNqbzdHelUwdzZudy02TjlyNkxVZWcxQmFzZF9NaUE0SFZYaWI3dmxlYTBVdjdULWhLMkNQNnlMUXFaM1J5T1dPMEo3ajhkb0RQLUM3M0pkYlFqbHNKQ1U1c3k5WlUtdjR1UkNCV0JkdjJZTzdIa2c?oc=5",
+          "pubDate": "Mon, 19 Oct 2026 20:54:47 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Milan luxury shops close for fear of further unrest, govt prepares new crackdown - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZWNGMGIzTEZwQjVYM1BNU3lmemRQZTk3OGtQTnhXTWM0UXRFNXhqTTg3WFFQYXdQWVZZTUphR3FGZDd3SE5RaGZlTWdWZ1owRklLYnQzSWN5RlotVjY2OEdjMUtsUGpMZ1RxRk5QS1djT3hnbDZwR0lUSmVwZjlYX243eGIyRHpKLV80NkltM3NmZkk2ZEl0WGNGVEpGRHZUei1LRGJYMnRoME0?oc=5",
-          "pubDate": "Mon, 19 Oct 2026 16:23:27 GMT",
+          "title": "Ukraine's Zelenskiy says US decisions on Ukraine hard to explain - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZXZMVTU5ZkFYUm5xSjFmOWN3a29XS01yVGVwUUFyWE5PdWFqanFKOFNVNFJPeFdGOGo3X3Z5dkFfTTlfMEhPTEtoY095ZHhhV2hOUEtsbllpSUpRN1Z0YnZyVVVGMTk2VEdCakZjTlRiSUdoel9mNXpXWENlM2xlSGZjdFRra3RIOUR6dHZHREFBSWthSTZhdkJIN21nR0ppZmF4TG9haEZoZw?oc=5",
+          "pubDate": "Mon, 19 Oct 2026 20:50:09 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-19T17:40:34.617Z"
+      "updatedAt": "2026-10-19T22:11:55.204Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-19T17:40:34.848Z"
+      "updatedAt": "2026-10-19T22:11:55.266Z"
     }
   ]
 }
