@@ -1,9 +1,45 @@
 {
-  "generatedAt": "2026-10-20T23:19:23.530Z",
+  "generatedAt": "2026-10-21T01:54:03.683Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "France is divided over who to blame for and what to learn from weekend riots",
+          "link": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 21 Oct 2026 01:22:51 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Borneo burning: Life on the frontline of South East Asia's toxic haze",
+          "link": "https://www.bbc.co.uk/news/articles/cqm2dzwdmmywo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 20 Oct 2026 23:51:43 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Is Ebola under control in Kenya after nine cases confirmed?",
+          "link": "https://www.bbc.co.uk/news/articles/c693z948px0jo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 20 Oct 2026 23:41:30 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Elon Musk says Tesla-SpaceX merger being considered",
+          "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 20 Oct 2026 23:24:47 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Is Donald Trump ready to do business with Myanmar?",
+          "link": "https://www.bbc.co.uk/news/articles/cw203zx1x1rno?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 20 Oct 2026 23:21:39 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Alberta's decisive decision to stay in Canada gives Carney backing to take on Trump",
+          "link": "https://www.bbc.co.uk/news/articles/cr62ylj832vxo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 20 Oct 2026 22:22:17 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
           "link": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
@@ -15,46 +51,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 20 Oct 2026 21:05:50 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Trump and Zelensky appear at loggerheads despite Oslo optimism",
-          "link": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 20 Oct 2026 20:00:57 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Trump sued over Canadian tariffs in latest legal challenge",
-          "link": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 20 Oct 2026 19:30:05 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
-          "link": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 20 Oct 2026 17:30:15 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "'Great result for Canada', says Carney as Alberta votes to reject separatism",
-          "link": "https://www.bbc.co.uk/news/articles/cxr5yqqd7nlpo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 20 Oct 2026 16:59:06 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Swimmer, 65, killed in shark attack off South Africa's east coast",
-          "link": "https://www.bbc.co.uk/news/articles/cqx297pxg1djo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 20 Oct 2026 15:58:57 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Houthi missile strike on Yemen camp kills 73 security recruits, local authorities say",
-          "link": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 20 Oct 2026 14:09:42 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-20T23:19:21.833Z"
+      "updatedAt": "2026-10-21T01:54:02.271Z"
     },
     {
       "name": "NPR",
@@ -84,12 +84,6 @@
           "source": "NPR"
         },
         {
-          "title": "TikTok staff raised child safety alarms. Court records show executives failed to act",
-          "link": "https://www.npr.org/2026/10/20/nx-s1-6005809/tiktok-child-safety-money-laundering",
-          "pubDate": "Tue, 20 Oct 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
           "title": "Why these 5 everyday items fluctuate in price at the grocery store",
           "link": "https://www.npr.org/2026/10/20/nx-s1-5989636/grocery-prices-eggs-coffee-inflation",
           "pubDate": "Tue, 20 Oct 2026 05:00:00 -0400",
@@ -102,6 +96,12 @@
           "source": "NPR"
         },
         {
+          "title": "TikTok staff raised child safety alarms. Court records show executives failed to act",
+          "link": "https://www.npr.org/2026/10/20/nx-s1-6005809/tiktok-child-safety-money-laundering",
+          "pubDate": "Tue, 20 Oct 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
           "title": "Morning news brief",
           "link": "https://www.npr.org/2026/10/20/nx-s1-6003501/morning-news-brief",
           "pubDate": "Tue, 20 Oct 2026 04:50:27 -0400",
@@ -109,70 +109,88 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-20T23:19:22.393Z"
+      "updatedAt": "2026-10-21T01:54:02.480Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Eagles are not being punished for handling of Jalen Hurts’ blood clots, AP source says - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVC1kYUkyb2czeXdCR2h3TTMwNERObThlUGtya1BQRlZuS0pkMlp5YV85VWJDSFN2TVJUNVdoNjJiX21yN3Z3ZkpDMUpwSEdaUlBQdVRheU1jVlYyT25DWFBwMGFPVkhmLUZqekZZN0ZCcUFXczl2N1p6eVRvNEwxUi16MFREdzY0Mmx1NmcwdnFyTGR3Ym9lUERR?oc=5",
-          "pubDate": "Tue, 20 Oct 2026 22:49:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Tue, 20 Oct 2026 22:12:47 GMT",
+          "title": "Ramaswamy takes responsibility for ad with Amy Acton’s mother and will spend millions to promote it - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZzRQcWN4VlVXYjQ2WEFmYzZ6V0g5cnQ3Q1A0eFBoMjltNFAxSXZjbUx2NFNJQW8tZEZudEpCN1VyUFNTZGlORGp4WWMwYk9OelpHbkZUdC05bEhXel9rNEdfLVpPVlI1em0zMzF2Z01MWldJOWZNZEI5LURGT1FGSGZvS3h6ZXYybmswSHNRX0p3UC1CaEhmb1NoS3hVeDJNeVBtMnhqSS03WEEtTjh3?oc=5",
+          "pubDate": "Wed, 21 Oct 2026 01:08:00 GMT",
           "source": "AP News"
         },
         {
           "title": "California officials who process ballots from suspected noncitizens risk prosecution, US warns - AP News",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVHhuR0o4cWF2OHJ2SEV3YWs5bk9tTzg1MWx5c28xVl82eHF0clJDN0ZoZnFQUEwzU2pwc2J4dUxBcmxZYXJEc09sUXdWLVFoUENTQUJsdU5BU2x1d0pQMHJ4aUwwS21GMkotbmJsRURtYlh4VWRnLU9CeTNNVVNUQ0VjLXBQZVRTRmtfbjdJRUlzalNDVzZmMFU0ZXEwNXNTRE9wVGxQa2ZyT2Ex?oc=5",
-          "pubDate": "Tue, 20 Oct 2026 22:00:21 GMT",
+          "pubDate": "Wed, 21 Oct 2026 01:01:20 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Driver accused of intentionally driving into Australian lawmaker was not a known threat, police say - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSFFOVnVHa0tBUGhjMHRSUTlkTlQ4clhTSmVkNmpnTXFFRVpsZFprTEplajRtX1hmYmZtVWRLRjdZZXB6ZzVseWtHeG51Q1Rxb21YTUZmOUh3aGpBOGQzYWlpRGhiVXJWZjhwTkJ4STFfbWxZWnRpN0t2a3hxQzNsN0pKMEVsZnBkV085TWNvRkV2VlR2azRaMTB6OTM1ZHlhWGZEYzV3?oc=5",
+          "pubDate": "Tue, 20 Oct 2026 23:56:00 GMT",
           "source": "AP News"
         },
         {
           "title": "FAA clears the way for airlines to put Boeing’s long-delayed 737 Max 10 into service - AP News",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdWh5TEc3UFM1REZCazFzeGJpZTFXblJEdE9wWWFrU2RzbnFKVnRYQTV6MS10V21tVElVaW9jLTlMc3d2YnRSU0drVlR0RWxvam1SUUdHWGRaMG01OUZaM2RFd2lsZmFnc2NLVHBwbm5KOVhSa3ZiZjJfd2NycXRZdFF4SExsWXFlcGQ2NUdCMTIzMmlndlpISHd2RElFVk1nelNV?oc=5",
-          "pubDate": "Tue, 20 Oct 2026 21:44:00 GMT",
+          "pubDate": "Tue, 20 Oct 2026 23:44:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Zelenskyy says early warning system for Russian missile attacks resumes following call with Rubio - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZjBGZWQwSjlYd2Zrc1lncjhvcG5uOGpZOTI2aVhhVHY4YzhDTlNRRWJWTnIzdnk4V1FfVUpTbzNkX3gtOGdwU3VNTTZCdFN3Z055akhaMjNKSDVqY3hXNzM4bmpaU0lQQ0dwTlhIQ0prUUVyRkNtbzhyN3BDOWlIWk02YUItdkI4Nnc3cTJZancxRTk3b2ZSWjd6TlMyN21IUWtXWFUtRjBmaUItQjRGZA?oc=5",
-          "pubDate": "Tue, 20 Oct 2026 21:11:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Houthis attack besieged city in Yemen that UN says is at ‘grave risk’ - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVWhUMVdSQUxmTWt2cWRQZndBeHU4MnlxMkJ1d3dhb2U3LUctcUNzLXR0OGJ6STFtalFnS3JhRTc4bE9PMXI2emZoakN6LWxLc3k5Z2NvRzV2amItdmhkek01ZDlBMWJDZ01iUWZGNjdnbjdIR3JHOXc5LTVnR3hlU3c2NU1SVEIxSW5UY0JQRWRUdw?oc=5",
-          "pubDate": "Tue, 20 Oct 2026 20:44:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Trump and Vance announce $25M whistleblower program to encourage public to report alleged fraud - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRlhMbk5tdzk4Z2ZaMUxTOUc2LW1rYXVxbWtWYl9UX2I0cTFmUkc5QkRjY01XRDkxc3ZJZ0JVMmlJcHR0TEpSajhkTmFtSHRTYzdDd3BpZ1NFWkh5VXJPNGduc1J3MDVCM1EzbG1DM3ZsaGhFMnBWNWF2UlF5am1mS3hPZGNMaVpwQmFzdW1hbDFVNi02ekE?oc=5",
-          "pubDate": "Tue, 20 Oct 2026 20:14:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Florida is set to carry out 18th execution this year and moving closer to tying record - AP News",
+          "title": "Florida puts 77-year-old man to death for a deputy’s killing in its 18th execution this year - AP News",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNa0dWcWFpdldmcjVmMEJrVjI4YldCbTJ3TS1YNG9uMm11Vm9MTmdSd1lqZnotdGNjX1l3cUlzRm5hU2ptbU1Cb3hmMlZmWGE0MHRpazdHQllQelR5ZWFYWVNOQ19xRUw5dmozSDdTWmcxSERjNkJKOUZWRXVVc3Fobl9KcnJJSzUxbHNuTVF2VXVFSHpKOXFF?oc=5",
-          "pubDate": "Tue, 20 Oct 2026 19:50:00 GMT",
+          "pubDate": "Tue, 20 Oct 2026 23:33:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
+          "pubDate": "Tue, 20 Oct 2026 23:21:13 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Elon Musk’s SpaceX reports a profit and he hints at a possible merger with Tesla - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYlJVZExxcE9vRWtKZWQwc3pCMHQ3SUdoaC15bW1qam9DNFVRYzliR05EZk9rVm1yeEhOVnEwQm0zVndrVjhPTlZmVncweWtrZlFmUEtJdGxwbFlDMFZyaFU1MmIwYmtoQW1xRHJOMmZnbG1tYkdGWlRyVWViWGFMcVl1T0N6U09yb3I0ZHdUaVZhWHcyM0E?oc=5",
+          "pubDate": "Tue, 20 Oct 2026 23:05:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Brewers promised a ticket to any future game for $1,000. Some fans unhappy with World Series seats - AP News",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT3FlZ0ladDhlWWlfOEgyWGI4YlQzemtOaTlCYTRoWnI1QmllLTRRczNXMEluMkRuMzhzZXBsb0NKZVhrMVE3b2k0anNJN0RRZnVjbmFPQnFva2MzVFFUY0xlZHRRN2JuaTlLVDBSUVVybDMwNkJoZmJ0LWJKZTVRcEIxenlVZDh3X19NNzVYaDhhSzBGbDVhWExRRUVzMTA0Z3hQQkxqOFNkSTU5WXRuSA?oc=5",
+          "pubDate": "Tue, 20 Oct 2026 22:33:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-20T23:19:22.918Z"
+      "updatedAt": "2026-10-21T01:54:02.966Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Musk calls Tesla-SpaceX merger a 'good idea' as SpaceX posts first profit as a public company - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONHZoMzBtaGg1TmlMN19NRUEzM1lOZkpYb1ZXeWlLTnR4SkxObm1xbDBlN0RsQ2huaHBCMzRxU0VLb3ZPSS1ZeEdhampNY3VNclpoU2xGOWpoQjNfVzVDTHpqOVVRd0pZcVY3eGlpVkxjWTRrMGh4aWtCbVJVVnZ1Nnd1RkU1dFNtcUZCUnVxX1pRWXRTd09QUnpodWJSeEhpS3BKcmxsQkM1aFA1eExGSkNMMVIteV93OXZWa0Q2Vl9yUQ?oc=5",
-          "pubDate": "Tue, 20 Oct 2026 23:04:58 GMT",
+          "title": "Dow outperforms as Wall Street rises, healthcare stocks lead gains - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOT2JsXzZ4YTVKcDJjNE9iTW42aU0wY0VOZXRtdDYxTzJTanBUOGZIT1FLSl9FVTNxQ1RpTVFSWHlsejgyR0Y1b3JQWXRlT0dEMjJPWWpXYlpfdFJQaHZKZG5KdUNMdW53NmlMd2RwUWJKWFB3dE9Xc2ZBbnRfalF3cWNzblhxTGJOTGlKYUh1a0FmWC1vaGQydWZXdTMzemJjSVg5NWZ0bw?oc=5",
+          "pubDate": "Tue, 20 Oct 2026 23:44:20 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Netflix co-CEO Sarandos says 'we could do better' after weak forecast - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQmJuWl84Zk9TanlERndybWRsaTVoaF95bUgzbldjVzJKNzcwZEFEUFh4Z0xVa2o0aGFSSEVJT3d2WENIeURzMWV3VUFTY2NxRWF2WHBjTVRjZURraFVHMkZ6M0pkOXJOb01FYW5OWTdkcmM3WkVFcXR5UC1QbDVqOFRIYWpsc1VxaUdhMENKa0I1S1ZWSk1BZ3BrYmRYVVQ5Q1FpRHBlY1NZbndHMVZnYjBfRnQ3cGktWkcwZ28tVDVQSFNqR1dZaFJGSTJ0b0U?oc=5",
+          "pubDate": "Tue, 20 Oct 2026 23:41:37 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "India's Jio IPO opens for public bids in record $3.2 billion sale - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxON1VVUmNkZDI5QkFtVV8zeWNRdWY2YkRtQXVPSHlNUnFwY3BhRTBYcU9uOXVKMmljOE05N1dLSUxkTm9PUjBmSXhhNHFTZ000cUgyNlpVMG1ia1diRlJ6WXFuN091VktQX3hJMjl3QUJCRy1yeGtzSDY5bm1FSHNydzRtbUZzcUY5amhobDM2eXBfZXIydUwyZDBJSElseDFDX1VIWjdB?oc=5",
+          "pubDate": "Tue, 20 Oct 2026 23:29:19 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Canada, Turkey to agree during Carney visit to deepen defence and energy ties, source says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObWlTeVJJYUVSSnEtekFFRGpHdkdVSVgwczVsS3NSeEdESkYxYWZoVkFJUmNuSUtmcC1ybXB3bFFFTlhDSjhYOFVxblVXZ3dYcHE3MzVYRHJieVYxQXd6VWtQWklwbjRkZzJGMkZnZkhpSzQ4UjI5ZTV4ZUxsUEpHQkhNcVNQczhsaWVLM3c5cUsxblJaMWVMN3diM1p3NWh6UUd2ZzNpQWdUdU5lOG9nN1RoMWFEdXdndzdOdzJMWjB5alFHcWFHNV9R?oc=5",
+          "pubDate": "Tue, 20 Oct 2026 23:24:39 GMT",
           "source": "Reuters"
         },
         {
@@ -182,9 +200,9 @@
           "source": "Reuters"
         },
         {
-          "title": "Netflix co-CEO Sarandos says 'we could do better' after weak forecast - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQmJuWl84Zk9TanlERndybWRsaTVoaF95bUgzbldjVzJKNzcwZEFEUFh4Z0xVa2o0aGFSSEVJT3d2WENIeURzMWV3VUFTY2NxRWF2WHBjTVRjZURraFVHMkZ6M0pkOXJOb01FYW5OWTdkcmM3WkVFcXR5UC1QbDVqOFRIYWpsc1VxaUdhMENKa0I1S1ZWSk1BZ3BrYmRYVVQ5Q1FpRHBlY1NZbndHMVZnYjBfRnQ3cGktWkcwZ28tVDVQSFNqR1dZaFJGSTJ0b0U?oc=5",
-          "pubDate": "Tue, 20 Oct 2026 22:58:43 GMT",
+          "title": "Super Micro sees quarterly revenue soaring on AI server boom - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbi1LQllxYlpia2VlTmhXMzFCUVRoZ0NESFFaSFVkTkJJR1kxRkVYa1BYWkVWLXJvS1UwdHk2UnJHVnQxS2NQNnU2bVdSWW4tY1JfSGdFNlNpcjZjRjZDX3ZuSklSaHdPazdsVzlWVzMxcWY4d1pic2dwLXhOdEdiRHdpZlJsOWIxeUpVTDFfOG4tbVp0UEFXeXczaDJseW9BZks4aU13WQ?oc=5",
+          "pubDate": "Tue, 20 Oct 2026 22:40:56 GMT",
           "source": "Reuters"
         },
         {
@@ -198,28 +216,10 @@
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNmtScVEydDBkR1pKcXVER1RHMlo4QUFxemNBT1VyaF84MF9pWEFUajB1TmZiNG5Xanh5YjkyN29WVmpadV84Nm9vaGdBNEhnNEZOdm9oZVFxTjJvNjVNX2I0V0JaeXBKaXY4eTRrTTlCOHhTTV9UbHlnakdwbHpBZ2IzSnY4b3hLRFMzRjVsLWdkN2Rkbk9USWxCRm5DX1VDQXVCTERCVmFwcGR0THBKc21R?oc=5",
           "pubDate": "Tue, 20 Oct 2026 22:31:12 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "United Airlines profit outlook well below estimates, hit by fuel costs - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQamVzdE52ZkRRLW1EdjMwNmI3YjV5T3ZIQTFiLWJ1MTZaUE90NWZ5d1RwTDRCWHF4MXpSa0paRlctMFRERG84OF84aWdBdEJYclZONkQ1cVNma0hNd3VjV2dYT25tOG1zZXNFdExMdXJyLVFyNExQdjFuMW9qdS1KSnI5V2FpQUdNNWZuSXBydGFZRl8xODlDWGh3VWdFTjZhTG85b3BoZi1hMmJPQ0NCUjdURkFOVnhRWmpXbnR2dXJydw?oc=5",
-          "pubDate": "Tue, 20 Oct 2026 22:15:14 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Anthropic logged net loss of over $80 billion in first half of 2026, WSJ reports - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWDd1N2Q1aDhCMXdIcnhsNC1meEdkVGlZdGJBR1dabnotaThiMGF5R2NvTVluM3NTY2dFMEJfT21EeF9OR3d6cFE1eVpsZnVZeU82aVlOUVQ0ZElXVlVGMTJ0NzM0a2R0Z2hrQk1RRGJlWFB1VmMzS1djQ3ZpVkc2SmR3MlRBQXRGN1E1aXlJX1pOOEc0bFF6OFhBYTRSamFtR1pmNGhMbFpzS25keENuR1IyMkljTG1lUHE2TVh3?oc=5",
-          "pubDate": "Tue, 20 Oct 2026 22:14:51 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Musk ordered slowdown of Starlink service used by Ukraine's military, WSJ reports - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcm00QWdmVzlvOThxOUdvQlVKYWtMYVNNRDctTko1OXVKZWRxYVhnYkwxRWd5cE13Smw4N1ZHQUpaRzc1NGhLUXVkZjZaUDh6R1JnVnNpSWJKUldWZ0RIWExIRm5VSUcyYmloVEpUMEVqdUlIUHRfbFpwNUJRTjZfQ1pXc3hxWW51dnFvai1vUFZRWWhOSkZoNE11QXBJeG9XWVpBZUR1UDVma2UxR01NY1JpUjg3bzJtc05KcnBkQUd4Z2M?oc=5",
-          "pubDate": "Tue, 20 Oct 2026 22:11:50 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-20T23:19:23.377Z"
+      "updatedAt": "2026-10-21T01:54:03.394Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-20T23:19:23.530Z"
+      "updatedAt": "2026-10-21T01:54:03.683Z"
     }
   ]
 }
