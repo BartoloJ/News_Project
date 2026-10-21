@@ -1,13 +1,31 @@
 {
-  "generatedAt": "2026-10-21T13:06:57.776Z",
+  "generatedAt": "2026-10-21T18:11:55.413Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
-          "link": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 21 Oct 2026 12:32:01 GMT",
+          "title": "Russia says it is ready to resume talks with Ukraine and US to end war",
+          "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 21 Oct 2026 17:42:34 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Family of prison officer killed by IRA receives state apology",
+          "link": "https://www.bbc.co.uk/news/articles/ck20rver1j31o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 21 Oct 2026 16:58:16 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Macron accuses foreign leaders of exploiting French riots",
+          "link": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 21 Oct 2026 14:04:28 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Nigeria confirms Ebola case linked to East Africa",
+          "link": "https://www.bbc.co.uk/news/articles/cm2l4xw7xpjgo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 21 Oct 2026 12:39:34 GMT",
           "source": "BBC News"
         },
         {
@@ -29,36 +47,54 @@
           "source": "BBC News"
         },
         {
-          "title": "Watch: Third attempt to save 'celebrity' shark stranded in South Korean canal",
+          "title": "Huge crowds watch attempt to rescue shark stranded in South Korean canal",
           "link": "https://www.bbc.co.uk/news/videos/ckq6n56e5qrqo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 21 Oct 2026 08:19:32 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Australian MP loses both legs after alleged car attack, husband says",
-          "link": "https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 21 Oct 2026 07:56:30 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Katya Adler: France divided over who to blame for riots and what to learn from them",
-          "link": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 21 Oct 2026 06:50:40 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
-          "link": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 21 Oct 2026 06:36:39 GMT",
           "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-21T13:06:56.558Z"
+      "updatedAt": "2026-10-21T18:11:53.464Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "How Trump's attacks on voting system integrity might affect upcoming elections",
+          "link": "https://www.npr.org/2026/10/21/nx-s1-6010463/how-trumps-attacks-on-voting-system-integrity-might-affect-upcoming-elections",
+          "pubDate": "Wed, 21 Oct 2026 12:01:44 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Why local officials are feeling 'on edge' as election day approaches",
+          "link": "https://www.npr.org/2026/10/21/nx-s1-6010517/why-local-officials-are-feeling-on-edge-as-election-day-approaches",
+          "pubDate": "Wed, 21 Oct 2026 12:01:17 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Supreme Court upholds pause on Trump's anti-trans prison policy",
+          "link": "https://www.npr.org/2026/10/21/nx-s1-5993878/supreme-court-trump-trans-prison-policy",
+          "pubDate": "Wed, 21 Oct 2026 11:46:27 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "New human data hints at psychedelics' potential to combat inflammation",
+          "link": "https://www.npr.org/2026/10/21/nx-s1-6009441/psychedelics-brain-inflammation-immune-system",
+          "pubDate": "Wed, 21 Oct 2026 11:33:18 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Sentenced to death at 17, at 68, quilt artist receives solo museum exhibition",
+          "link": "https://www.npr.org/2026/10/21/nx-s1-6003634/sentenced-to-death-at-17-at-68-quilt-artist-receives-solo-museum-exhibition",
+          "pubDate": "Wed, 21 Oct 2026 11:21:47 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Israel detains dozens of Americans, including a congressional candidate, in West Bank",
+          "link": "https://www.npr.org/2026/10/21/nx-s1-6010460/brad-lander-detained-west-bank-israel-palestinians",
+          "pubDate": "Wed, 21 Oct 2026 09:28:04 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Trump leans into unprecedented power ahead of midterm elections",
           "link": "https://www.npr.org/2026/10/21/nx-s1-6009395/trump-power-midterm-elections",
@@ -70,156 +106,120 @@
           "link": "https://www.npr.org/2026/10/21/g-s1-149068/up-first-newsletter-california-voter-roll-united-nations-emissions-us-crimes-ukraine-russia",
           "pubDate": "Wed, 21 Oct 2026 07:46:59 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Russia releases imprisoned U.S. citizen Stephen Hubbard following Trump's request",
-          "link": "https://www.npr.org/2026/10/21/nx-s1-6009380/russia-releases-imprisoned-us-citizen",
-          "pubDate": "Wed, 21 Oct 2026 06:20:50 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "2025 policing trend: Fewer serious crimes, more minor arrests",
-          "link": "https://www.npr.org/2026/10/21/nx-s1-6003663/crime-data-down-low-level-offenses-increase",
-          "pubDate": "Wed, 21 Oct 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Expecting a baby? 5 tips to help you prepare for pregnancy costs",
-          "link": "https://www.npr.org/2026/10/21/nx-s1-5996849/insurance-cost-baby-pregnancy",
-          "pubDate": "Wed, 21 Oct 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Morning news brief",
-          "link": "https://www.npr.org/2026/10/21/nx-s1-6003502/morning-news-brief",
-          "pubDate": "Wed, 21 Oct 2026 04:42:59 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Millions are struck off India's voter rolls in largest disenfranchisement in history",
-          "link": "https://www.npr.org/2026/10/21/nx-s1-5997960/india-voter-rolls",
-          "pubDate": "Wed, 21 Oct 2026 04:42:10 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Saudi Arabia cancels 'Davos in the Desert' due to Yemen's Houthi strikes",
-          "link": "https://www.npr.org/2026/10/21/nx-s1-6009545/saudi-arabia-cancels-davos-in-the-desert-due-to-air-strikes",
-          "pubDate": "Wed, 21 Oct 2026 04:40:51 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-21T13:06:56.663Z"
+      "updatedAt": "2026-10-21T18:11:53.655Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Russia frees American Stephen Hubbard after over 4 years in prison, during a visit by US envoy - AP News",
+          "title": "Russia frees American Stephen Hubbard after over 4 years behind bars - AP News",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM2pKWm5lTVpmeW5RRHktWU5US2dTSS1fTDhuVjhVUjYyd3I5b3h2QzVfd0pDcm9WM1BFaFpQZENlZVMtdEoyNUQwTEJwTVhyckl0bVBYYzIxcVl1UW5FSzRUVXdIWUV3a214QnVhb1FJSkNjTFFEU0lfTGhtVTdWQ1RDVFpFQmhneWk1UVFBRHlHX3lmY0xTYU5HOTFYdmxYd09meDFTNkg4cmJ2Tlh6UnRFZGoxRlE?oc=5",
-          "pubDate": "Wed, 21 Oct 2026 12:13:00 GMT",
+          "pubDate": "Wed, 21 Oct 2026 17:29:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "North Korea says it will restart border propaganda broadcasts as tensions rise with the South - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNLWdMcXlGTHpkM1pJUzJvYUpMWVFvV1d1T2lzUC1BdmJKR0l3alFvdzhWVDdHczJOalN3Z3l2SkV2bm1jb0JySlc0ZWtfWEU2azZwTXZXRE5WU1BLVEZjQVhFSV91ZEhuN01GMktOTVYyMUZtWU11UDVtZDVGS054aHV5Yk9KNEhKOTZBdVlXUWpHeXlDdXVDT2xKLUowVmo4UHJiMA?oc=5",
-          "pubDate": "Wed, 21 Oct 2026 12:07:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "US futures mostly higher as Wall Street digests earnings from SpaceX, Netflix - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUGV1X1dKd0F3eTZSZ0F5ellKQVJuc3B1cEFzVGl4dFlSbVU3eFRJZm9lOXJjNDFHN1g4VGpZZlczQUdVR3ZRQ2h0VlpqaW0zU05LelZEb0I4eGJoVC1oZ0M5WktyVGJUZTZrbVBtdnRuNmpud1Y3WkF4bUI4R2xXQ3lTZnZMX09zOVZHOFhndWh0dWtyQ0VDakh0X24?oc=5",
-          "pubDate": "Wed, 21 Oct 2026 11:44:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "FACT FOCUS: Trump and Republicans blame France's immigrants for riots without evidence - AP News",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOckdWX2JkZWpxZFMyak5XSnVpeGN2VUlPMldvNkFJaWUycFI4RlljLU5ZazNRNy1DYWFpdHYxRUlndU1PQ3RCRFRwUnlEdms1ZVc3dW9pWjMxQVNfTm9JbzE3V0M2SnJDV29yZ1p3UUlGVVlZajV3T0xwVExxX2hLRzZ0VXFaczlVdExkaERPZHlDQWswUUFhd0t5NDBuQQ?oc=5",
-          "pubDate": "Wed, 21 Oct 2026 11:30:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "AP Exclusive: Hungary’s Magyar vows accountability for Orbán era while holding firm on migration - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeTk4dEVDd1Y1enN6MDktbXMyOHZLbVNZYlU2OHl5SDRKb09DcEZvdWZ2bWRLWHlEV0VlaVNtdGFaMVh5X1NKTk1QY1Z1UkQ1SjQwaTJBRnZUazFkRGNfMEl4QU9tZVpVZFZDR1lPYk9lRFZuZHhndnpkTFNpVktrNDVJYmhsTVctVWZSSHAxQ2taRzkxaVNmaDlRNThQVXJoeEs5QlhZQ3pycmg4aUNCVGUwOV9qT0hHMGlYMXNkTHo?oc=5",
-          "pubDate": "Wed, 21 Oct 2026 10:35:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Democrats' faith in election results is falling but still exceeds Republicans', AP-NORC poll finds - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTHZtaTFsa0Y0NmVEUjJKTU5KbklPNW5UMnVDa0hodEpOQnJTUVVweUhsclFEemRTNVpJbW1FVWFtU215R3J2RmFqT1JIYlhQbU9LX3ZvZ2l4eVY4Q1dsdG40MERic2RRM2h2NEc4Sk1UTmZ4Z2JTWHRZYWNJdmVURVFCTU9SRmVDeDFTbVNrUjBIZG9sbjFvc2xVbDNqbThfSnZtTUkteFdzdHFj?oc=5",
-          "pubDate": "Wed, 21 Oct 2026 10:33:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Trump envoy Witkoff meets Putin in St. Petersburg for Ukraine war talks - AP News",
+          "title": "Putin agrees to resume three-way talks on Ukraine war with Kyiv and Washington, Kremlin says - AP News",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMW9MQzVDRzVJcjRnVnpSeW5ZVlhBTEFablZZNTNQNFNkYmhmWjFXR2M4RlNDWldOTlh5TjFSYU5tVHhPSFFidnBtNFVGMEthRjV1TElCVGdQMjZHOXNNLXV6R1F0QVJjYTR6Q0pMbW4xVkFmUDVuQXNoYUJxbUd1TlBaWG4xdlBaYTZQVTJUSEdZXzJXN28xS0praHdNb0t2eUU3clRWTF9fR2ljZW1V?oc=5",
-          "pubDate": "Wed, 21 Oct 2026 10:31:00 GMT",
+          "pubDate": "Wed, 21 Oct 2026 17:08:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Macron slams as ‘stupid’ claims by Trump and others blaming Muslim migrants for French riots - AP News",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUUJidmNJUXJrTm9ZQ25iQTYySjJCWGR2amJnSmZYTTdOSjN2QW5zRkoyUVA2TTlMbm5EWGFWUzFwdVJFR1pvTUZkSXlEN3BJc0kyakpHOGItakdRc3FfMmhHaVU3cC1RVUtPWTBYZEpuMDJUVXdLSGQyQkVralFpSWxoZHZ1ekVSaDBFdkRWVEZsYWNhRnBNYVdKa2pzdw?oc=5",
+          "pubDate": "Wed, 21 Oct 2026 17:04:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Burkina Faso’s parliament unanimously votes to reinstate the death penalty - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQjRiM19KYmxjbVNnTGY3UW91Unk2SkNMT2VEaXJVenQ3MW82M01GakxIbGFTRkQtOVBESlU3NXU0d0FjZ1Z4MWM2M0R3Y0xGUVhjdWJXUFB0OWwyS0NzdzNPRGxaLWVDQk9aR3JzeFpyaUFlRTZycUJWZzdiYUdTVXp4WHhhYlZ2eXpTYUpUQmdoV3JFcEJWQw?oc=5",
+          "pubDate": "Wed, 21 Oct 2026 16:53:00 GMT",
           "source": "AP News"
         },
         {
           "title": "Australian politician who was hit by car has lost both legs - AP News",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbVd2UnVhbVJ3OC1vUXFFU2RfZ1NTNU1uY2xPNFpkVi12X3RIcHpzM2NUcWZBNjJxNkJsRHJTZzY1bEVfanczWDhxVGlaTnNnVUFOVDZzc0RabjJ3ZTN4MzhyUmdYOW5FSE9QTkRVdDFQYW1mdVNfMGd6cW01TExoUnFlSjVFX1l2UWJhcG5nWVFQckNuUm9EUml4WFM?oc=5",
-          "pubDate": "Wed, 21 Oct 2026 09:48:00 GMT",
+          "pubDate": "Wed, 21 Oct 2026 16:50:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Wall Street ticks higher after SpaceX helps lift AI stocks - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUGV1X1dKd0F3eTZSZ0F5ellKQVJuc3B1cEFzVGl4dFlSbVU3eFRJZm9lOXJjNDFHN1g4VGpZZlczQUdVR3ZRQ2h0VlpqaW0zU05LelZEb0I4eGJoVC1oZ0M5WktyVGJUZTZrbVBtdnRuNmpud1Y3WkF4bUI4R2xXQ3lTZnZMX09zOVZHOFhndWh0dWtyQ0VDakh0X24?oc=5",
+          "pubDate": "Wed, 21 Oct 2026 16:50:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "New Mexico sues Epstein attorney and accountant, accuses them of hiding sex trafficking operation - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa3NydUNob1RqQVYxNUhyZHhCcFlsV2txQ3pMVWxCT0oyWEJHT2JkbzV0WHRFYVF6OWRnVU1KaVZsNV9oY25IU19SZWNEUWJ6T1A5aXJaZlZVUDBjNDVnTEJDdy1yU3JFbkdBX2EwZ2RudzRMc0VxbEpSTGI3Xy1LSGVJUXVNaDBtMktSYXdQcnJlQjNnUmFR?oc=5",
+          "pubDate": "Wed, 21 Oct 2026 16:49:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "FACT FOCUS: Trump and Republicans blame France's immigrants for riots without evidence - AP News",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOckdWX2JkZWpxZFMyak5XSnVpeGN2VUlPMldvNkFJaWUycFI4RlljLU5ZazNRNy1DYWFpdHYxRUlndU1PQ3RCRFRwUnlEdms1ZVc3dW9pWjMxQVNfTm9JbzE3V0M2SnJDV29yZ1p3UUlGVVlZajV3T0xwVExxX2hLRzZ0VXFaczlVdExkaERPZHlDQWswUUFhd0t5NDBuQQ?oc=5",
+          "pubDate": "Wed, 21 Oct 2026 15:51:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-21T13:06:57.190Z"
+      "updatedAt": "2026-10-21T18:11:54.612Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Turkey, Qatar, Pakistan, Indonesia sign defence cooperation accord, Ankara says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOX0ZsRmRXTHdTVURFSkU3MlRZU1I5RFE5SnQzNnBRUExvd3J3Si10VjEwejZackYzZ0h0cFI5TlVsSXA1bjB4TF9nUmhpMERtSlBhMGg0d05XUE9iV1RGa19zdGZjaGVhWlNKNlRQN1Z3RE92eHNCNDM5eEN2dUZzQlNfck0wdlkxVldaYzZmMHFIdW8yY1pXZktOUERvSFFfS3FjT2NrR243ZnpwNFN3ZUotVndkQ3Z0aEFiMEFXem1BSDB4MVo5SEdB?oc=5",
-          "pubDate": "Wed, 21 Oct 2026 12:29:02 GMT",
+          "title": "Europe weighs giving utilities, infrastructure companies more powers to bring down drones - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQaVNCYXpqVkgtQlVQZm14SGYyV3g2X1RhVVY1U3UtYW1lT2E0bkM0aUFySmZTbFItNmZwOXpxTWZyR2lqMVZrMVhaaGNQN0M5Zk02ekJ1bzMwMG4zYnVFR2ljNzBXRzNhb1ZOdG5PalE5eHRPaWdhYWtfNzZJV2hpVEJZbEY0Ym9jSHFmR2Q0Uk5rNk5ST2YwZDY4SDRiaVVBVFFNR3FEZVd3UGdEaEVVVUJKMkExSlZvUEpRdi1tTjQ2NWk2U1ZqcTBrYm1YYU1qR1FkbXAzWWQ?oc=5",
+          "pubDate": "Wed, 21 Oct 2026 18:04:06 GMT",
           "source": "Reuters"
         },
         {
-          "title": "US Democratic congressional candidate Lander detained by Israeli authorities in West Bank - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQemdZcXZ3ZTFlZDFWZG9IYmRmMG5RdHA1QXp6RlJnN2dVWm14azJrTGFqczVvYS1XWGY4QlJtQUJIYzQwWWVHNnZadGtDaG1vY1gxT1VGUGJWY0ktRU9fVVZ0cUFRN244b1UwdnNzRjhaa3NqdW9NTDVCZklCXzNGUExVLVUtTVNPUGJMRmJQM2FoaXB0bi1IakdoSHo2b1ZPWnl0V25WVW0zdVk1V3otSndSU1hmVVVWbi0tN1RSc3QtZw?oc=5",
-          "pubDate": "Wed, 21 Oct 2026 12:25:49 GMT",
+          "title": "Meta ordered to pay $25 billion to New Mexico after jury finds company misled consumers about data privacy - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYWNTZTVrUDY5dUhLcUduTzg1NGZDUWx1VTNVbFRNV3hOcXo0TG51MDBMRm5WQU9STGRPZGhLNml2dTFMb1h2b1hLelA4QU5KV3pRLWktdDVhOEFxWDY5VW1URmZEVm9QcDg0WEp2Zmo2V1RIcFpCdk1zeFFhdU1VeHl4QUVZeGZxU3ZJLV9UUzZYWG85Ujl0RkRMbGhMd2RBWkdDNnJpbnBNQXduV3FBLXZTYlk2Y2xhVzFSbmthRFJERU0?oc=5",
+          "pubDate": "Wed, 21 Oct 2026 17:44:31 GMT",
           "source": "Reuters"
         },
         {
-          "title": "OpenAI to sell its top models on Google Cloud in latest enterprise push - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcF9EWG9QTDRBLU5tUVpFUXNUVW8wU2s3WVNTY2RnQUd0SEZfaXRyVmhpTFg4dGhuZ1RlN3JpOGVSNmY4VDNOUzFSNG9OVnZGTm1oXzk1VTFjakdIOVcyMm9qN2tPMEVJYjl1TzdtdkpCZjNSRlRZdFVGR3JFSC1mX3prVEJOYWI3aUdBbWx1WW40bUhSZmxJMV9kS01RMHBVc3huVWszcE5MTTA3M2RKTGZyMmpNczhpU3ZRcm5fMFA?oc=5",
-          "pubDate": "Wed, 21 Oct 2026 12:02:09 GMT",
+          "title": "OpenAI president urges AI safeguards as group he funds opposes regulation - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYmVlY3NlaE8xWXA4OUdBTUlKOEhtdWh4UEwwVVlfUDczNjczeXV1aUtLek42UjQ4b3I5NHZaRU5xYjFlVVhNWXV3Sm1rRkgxRkR0b1VWazFaT195cG5GUlF4S0FEcERoTzJJVXktUVdYOTN1ZldXREx5ZmllMVgyRG1sT0pRMF9hNF9JLVhTcnA2M3o3Qy1FS0FLS3QyMTFQVXloYU9ibmw2VWVMRzJuT3Z4dkQ1V2VyUTAxclhQdHY?oc=5",
+          "pubDate": "Wed, 21 Oct 2026 17:22:06 GMT",
           "source": "Reuters"
         },
         {
-          "title": "EXCLUSIVE: Hungary considers replacing Russia's Rosatom in nuclear project - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQV3Z1M0hIWmMwVzhzMjdpX3Zxd3Vmenpidl9vXzNxc3RyOXV4ZGpQTFdGLUNMRFpZMkV6ZDY5SUpPTUotenN0N1VGS01RNGxaQUlROGoyV3dRN1YwWHR6YzdRdzdLSzdJdlR4alRzcHVOdkRrb2JmdzRsOEFDMXB0Wk5SQjg5ZkczMF8yVjB3VktXbWduaGEwbFZaOHgyejBsOUVWWXhTVm9uSUZiX3dIVw?oc=5",
-          "pubDate": "Wed, 21 Oct 2026 11:59:08 GMT",
+          "title": "Brookings paper offers broad plan to shrink Fed balance sheet - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOWJYd0NERVlESGhjUzBFQm1tQkdDMVZtbnZxXzByQkxIS29abXpTRXZqYXhyamV2b19FbUpCR2RoWW9aUGVvenh5Q20tVWpWQzhRYnQzTk1iaEtQZWxPTnJUZU5kUHR2NUxvMHlLS1JRR0g2dFktUEhCbDVvTGRUU2YybEk5SzFYRjRpZjFqUVhKQ0JQaElseUI2QjhGMmY1R3d1NGZxcmYwMVlyQ1dvWQ?oc=5",
+          "pubDate": "Wed, 21 Oct 2026 17:20:10 GMT",
           "source": "Reuters"
         },
         {
-          "title": "EXCLUSIVE: EBay to lay off 9% of workforce in push to simplify operations, internal memo shows - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTjJweng2MDFieU9Oc3VoYUJoaGhoeWRYaXZhU1FzRVpZcTZ3by1tRzJnQWtTQ0pMUm00UHdycGdxd014WEw5ZDg5c3pIX2FoQWxvblJfM2hsOGVPdV9uVklXWk02a0RrMDlXekNaclgtaEVTTENoU1J0QUlTeGQ2a2lMd1l3QWlnS05xRzNNd2ZRTVNZa080V3JPamJnQlN5b2s5dFVDbkVZVUxYQk9IR2lGaEx0dVc0S09wQldRRHFXNERPQjRF?oc=5",
-          "pubDate": "Wed, 21 Oct 2026 11:58:37 GMT",
+          "title": "Netflix's ad stumble deepens fears its growth is hitting a wall - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOR2NMX1phWXZ5OFZOZ09LVXF1R1Q0ckJfS0JwMm9sTFRfakN1QlVqWUwyUk8zV1UtZWFsbkRXNm01Q2N0TEdrUEtCQWJqeHVkOS14SWNHSkkwVUJGSVhKZnRPSkd5dG9FZ1hBYmFzbC15VlczeUdzamhiVFBGYWVQTTNoeG9vVjRfYjZTN3Q5MHp1OEswenI2d1NyMDRnT1AyOEFsMlIwbjRGZmI1aEZaLXlkQUQ1WWVHMm9oUW9fMFk?oc=5",
+          "pubDate": "Wed, 21 Oct 2026 17:13:11 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Nasdaq futures lead gains as SpaceX, Super Micro results lift AI stocks - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZUJTOXdaa0JmVzZubm12MGt4VnNSemsyOW1fQXpCMnhEc25HSVJRZk93d2NYUXQ3eHBuQklaNE1FT1QyQ1NqdTFkdExDbmoxY2JtOWhLQkVtYXczMHh3a3VsZmhub1JFc0FIZHN1eEcwc3FRZVZWQnBoSjFjekFYTUN6X2d5WHJUWGpDU2paekhhU24zenhNbWpXUmtfdmo5cTFIZVZwTXdiRzZoeUtiazhHWkJEWEVZLTVmQmRMcw?oc=5",
-          "pubDate": "Wed, 21 Oct 2026 11:57:50 GMT",
+          "title": "Government websites go dark after AI-discovered flaw sparks security scramble - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNemhoUnNZdUg4Sk9JMjJQU25mTUZSX2lHc1JTNTFpNGlTcWxRRDctcFNCcVZiTUhYQ211YnNjSnRvYTYyS29VNFFKcHE4VGFMcHMxTGNwa3NmVUFNamNnektGaU9BbURibzdIY2hHUlpMbEwtNWhrOG9BenJvYkllVnNfakVVRU5yRzRjdDBjQXc2OEwtS1RwZVZhaWhoRWtlalVmU0xOQm5SbmUyeGVGeGgzUkE2XzRtbFBKdTJnUTJoRWdV?oc=5",
+          "pubDate": "Wed, 21 Oct 2026 17:05:43 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Trump envoy asks Putin to resume three-way Ukraine peace talks, secures release of US citizen - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQXZaYTY5blYzZWJWYkJaQnI2M2RSSGJUcnpzSF9OMldoZjZxckRDRzhyb2JReEVNbEE5bjdZcUZlNzJ2b0YzQkRIZjltamVxVHVSaElldGhNUmlFZzdmZHpPOFBOSDNhbFV0NEdpYXBBN0w3VjlHV0JkSVQ3NG1hMHJMay14MWNuNDdQTldXaVE2Z205bjFkN05lVUh4TkloZWFvSm5FcGp0aS1nQ2JKcmNGTHB1NDhqdWJCaEM2NnoyRUE?oc=5",
-          "pubDate": "Wed, 21 Oct 2026 11:41:02 GMT",
+          "title": "Masked men try to storm Libya's financial oversight body - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcUZzcFlXSGs3amZFOHN3TnZEbjZzdko5M0otWExXbnEycmVLUkY1Y0ZMMXFCNVMxSXpKTW9ELTR6TDBuNjltbFJjTmwzVjNQZURQZ2xoenhwb3FrVjRtS0F2ek9yRnVyS3p6TTBHdHdpcHNkYXZ0Qk8xdk9BZi1UaXdQTXprYkhBVkIzZGpveTRrZXU2TjJrQTMwS2JjNU5aSExJ?oc=5",
+          "pubDate": "Wed, 21 Oct 2026 16:59:33 GMT",
           "source": "Reuters"
         },
         {
-          "title": "End of an era? How the Hermes Birkin bag is losing its scarcity appeal - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUkV0VkJwLW56SEZOb1R0N0xhSXJmcGtRRkZhOUk3dTdWQlB4NjFVVU1vak9vYXFnTDduRXlJdmMyRUtpMHp2Mm1MbXVRdlFUVG5ydk1NZ3IxTU1acTRmRUtLOHc4ZW91RGFUYzdTbGdabmt2WGlsWGg4MGFvSWJVRlMzdlF3MXpxY3YtcmlmbDdqV1dXNjdtaG9KVHphdnprelNmZmpVU1JUSm84ck9rdHFxcWlTM3FsazFpQmN6NGU?oc=5",
-          "pubDate": "Wed, 21 Oct 2026 11:28:30 GMT",
+          "title": "Former Hungarian central bank chief Matolcsy detained in probe into loss of bank funds - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMkxqQkdiOXBuOUE1R0tpenMtMFdRM2lDRzkweHB5cm93clBRM2h4dEI3M1pFZ0V4QlVyNXA1dzZPWGFiOThtbUVGQTBNVmJfZ2F0UXQyOTRXa3FiS0RMSGxpZ1duMVdGQW84cEd3NkxRQ25IajVnbTdmakFJUnFPb0ZwOWRLZTl6VmVFWVp6OXc0RlhYZFRxcEpvN1N5clJKTzAtNUtrNGJ5bVRPNm1nczgtbDJxQVlQWVFNOXRmbDVTckVDN0E?oc=5",
+          "pubDate": "Wed, 21 Oct 2026 16:43:40 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-21T13:06:57.658Z"
+      "updatedAt": "2026-10-21T18:11:55.170Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-21T13:06:57.776Z"
+      "updatedAt": "2026-10-21T18:11:55.413Z"
     }
   ]
 }
