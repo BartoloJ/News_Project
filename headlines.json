@@ -1,25 +1,43 @@
 {
-  "generatedAt": "2026-10-24T09:24:45.946Z",
+  "generatedAt": "2026-10-24T13:31:10.904Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
+          "title": "Ukraine says Starlink connection 'now stable' after network limits",
+          "link": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 24 Oct 2026 12:12:40 GMT",
+          "source": "BBC News"
+        },
+        {
           "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
           "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 24 Oct 2026 09:03:15 GMT",
+          "pubDate": "Sat, 24 Oct 2026 11:23:59 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
+          "link": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 24 Oct 2026 09:46:53 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
+          "link": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 24 Oct 2026 09:45:47 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Seven missing after multi-storey building collapses in Kenya's capital",
+          "link": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 24 Oct 2026 09:44:01 GMT",
           "source": "BBC News"
         },
         {
           "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
           "link": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 24 Oct 2026 07:17:44 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "France prepares for day of protest a week after nationwide riots",
-          "link": "https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 24 Oct 2026 06:19:46 GMT",
           "source": "BBC News"
         },
         {
@@ -33,32 +51,38 @@
           "link": "https://www.bbc.co.uk/news/articles/cw80zx79nkvno?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 24 Oct 2026 05:05:44 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "The rise of AI election ads in US midterms campaign",
-          "link": "https://www.bbc.co.uk/news/videos/cm62y59zw8zko?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 24 Oct 2026 05:03:44 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Australian MP's condition improves after alleged car attack",
-          "link": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 24 Oct 2026 01:55:15 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
-          "link": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 24 Oct 2026 00:36:47 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T09:24:44.487Z"
+      "updatedAt": "2026-10-24T13:31:09.528Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Perspective: The next James Bond",
+          "link": "https://www.npr.org/2026/10/24/nx-s1-6004258/perspective-the-next-james-bond",
+          "pubDate": "Sat, 24 Oct 2026 08:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 40",
+          "link": "https://www.npr.org/2026/10/24/nx-s1-6015414/shooting-church-jordan",
+          "pubDate": "Sat, 24 Oct 2026 07:59:08 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Is your Medicare Advantage plan ending next year? Here's what to know",
+          "link": "https://www.npr.org/2026/10/24/nx-s1-6014612/medicare-advantage-open-enrollment-cancelled-plan",
+          "pubDate": "Sat, 24 Oct 2026 06:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "U.S. birth rate drops to record low, but older women are having more babies",
+          "link": "https://www.npr.org/2026/10/24/nx-s1-6012804/birth-rate-population-cdc",
+          "pubDate": "Sat, 24 Oct 2026 06:00:00 -0400",
+          "source": "NPR"
+        },
         {
           "title": "This decade has been missing its big-impact midterm",
           "link": "https://www.npr.org/2026/10/24/nx-s1-6014811/midterm-election-history-house-senate",
@@ -82,42 +106,48 @@
           "link": "https://www.npr.org/2026/10/23/nx-s1-5995508/russia-midterms-election-influence",
           "pubDate": "Fri, 23 Oct 2026 17:40:02 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "The Pentagon's guidelines for \"responsible AI\" aren't always followed, report shows",
-          "link": "https://www.npr.org/2026/10/23/nx-s1-6012296/ai-department-of-defense-war",
-          "pubDate": "Fri, 23 Oct 2026 15:31:15 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Ohio could decide control of the Senate. Its rural voters might decide the winner",
-          "link": "https://www.npr.org/2026/10/23/nx-s1-6012809/ohio-senate-governor-election-rural-voters",
-          "pubDate": "Fri, 23 Oct 2026 14:30:00 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "A D.C. park was made 'for the pleasure of the people.' Trump's plan would change that",
-          "link": "https://www.npr.org/2026/10/23/nx-s1-6010488/east-potomac-trump-golf-hains-point",
-          "pubDate": "Fri, 23 Oct 2026 13:35:14 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Ex-FBI employees charged with lying to Congress over Hunter Biden inquiries",
-          "link": "https://www.npr.org/2026/10/23/g-s1-149534/justice-fbi-charged-hunter-biden-laptop",
-          "pubDate": "Fri, 23 Oct 2026 11:51:04 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T09:24:44.700Z"
+      "updatedAt": "2026-10-24T13:31:09.734Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "North Korean leader Kim Jong Un visits China, South Korean news agency reports - AP News",
+          "title": "2 ex-FBI officials charged with lying about involvement in investigation into Hunter Biden's laptop - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQlRnSld1V19HTDd1N3l5NzlIcXhBN1ktV3J0UlZJeUx0cEFQUVhQVFNSSmpHbzVUY3V4WWE3eHFHNXpFUmlUSDNCV0ZnQnQyTlRhdmFYbUJJdWVHQ0pJaEdYWTlHOUxpdFY0VjV4TXhYVTBtTzE1U1JyNW42a3R4a1FTNXhxSHZEc3FWMmk4N1FjejNBcVV4Vw?oc=5",
+          "pubDate": "Sat, 24 Oct 2026 10:52:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Fire devastates the Eagle’s Nest retreat built for Hitler in Germany. A person is detained - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX3ZLRkl4Y2Jla2ZCdW90UzZ1aHJuTl9xVjZpSGdQb2xzTDdsRFVEeURDTUJvaVQwbGU2bEFNQ21oMlJqMVFZYWc0dUZiQy1yMWQzUnBhWmZXNzFHWUdpVU1ndHdBTHZIUDFybWNZbGx2QWdRQ2VrNlgwZlMtNWxQc2dCa2U4bmxUdXl1bXhGaUlVZW5OU3RmZnFFVW5LdnpsQUdxZGZkTEpqMm54TVpB?oc=5",
+          "pubDate": "Sat, 24 Oct 2026 10:05:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "2 Philippine air force planes collide during a training flight, killing all 4 pilots - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcEo5akhfQVNkRlRuUUNZV1U3dVhlZThEclBrbmRhamp3MGJPem1MNl9XZ2lSWUtDUUt3bWZ0S2E0SWdxQ2lfZUk1djVBREN6VU5PRDlqcFVvd1RCQVktSVhuZWRWOHdEZFNwckVUdDVZQk5KVHJYdlJNeGpwX0V6V3N3R18wdUlGTE4tQ2pYTzc1YXVnMEVvTGcwT0VTbmp2UVE2NXdZZ3Vla3oxMmc?oc=5",
+          "pubDate": "Sat, 24 Oct 2026 09:46:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "North Korean leader Kim Jong Un visits China to inaugurate a new cross-border bridge - AP News",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPX0I1TVQybGpFam8xeDVVN1NTdVFha1Q3Und2cjhZbHJnMG1CekZFTWEyMXI2VFNTVHF0MlF5ekIxM3plalZMVU9jVjZHanE2WnozM2xQN2x6WDA2NHh1NUVXRXIwZ2JVczFsQjZ5aXY2VU9tRk1kRWg2bDZpSlJKVzVFaVlhOFc0N0pnOUp0cWVwREY0b1JlZ2xSbw?oc=5",
-          "pubDate": "Sat, 24 Oct 2026 06:44:00 GMT",
+          "pubDate": "Sat, 24 Oct 2026 09:33:45 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "LeBron James - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBuX19iS3NmRUxTOTI2MEdsQ0g1YUVkWmV3OTRpQ0dZNnYtcnlTWUhEOUdpYkxIUFFYOTFCejhmR255Z3pIZk4teHNvdw?oc=5",
+          "pubDate": "Sat, 24 Oct 2026 09:32:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Japan’s unpopular revision of Imperial law that reinforces male-only succession takes effect - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQUFtbVZnRUFQNExhclhieGNGWTdaWkRocms3Nlp2X1pzclRYOHRHZmV2RmhDR0hzOUFQbnBOcW0zaDdRMTlXYVBJN3h6LTEyX3V3NzFuMjZ6X1R2RUlrT19fSlFDekxVMEJ2ZWpuNEZmdjFSemEtU2NUaFcwNDJCMVV1YldGNWdTQVVsenI0bVBUTmdQSnR3N1FNc0ZUVDl2Ty1IeC1DcHBZUQ?oc=5",
+          "pubDate": "Sat, 24 Oct 2026 07:37:00 GMT",
           "source": "AP News"
         },
         {
@@ -131,95 +161,65 @@
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa20wMHA1LUJRM3dSYjB1YzgwQXlaZlNGN1lWX3hmNmtRT25WNGpCWW5obVpvY1JjYzhGQ0lTcmVMaS1HcURPWVNCN1d2VTdod0o0ZFdnQTdNb0RJZUlDbGtaVDMwRzlSbWpjUVYyOGFkdDNFc1lTTVFOcXA1aDlaVWt3MHYxYVhIanY5dGRRMWxPUThjZTRhZjhFYm1DTXc?oc=5",
           "pubDate": "Sat, 24 Oct 2026 05:09:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "A preliminary magnitude 6.9 earthquake hits off the coast of Vanuatu - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRGNFRlVtTXd1WEY5R1VKLU9MeElnSzJhZC1Yb2RfaWF6dEVBem9uLWlWSXItYXp3a2hMOVZPWmwyT2x6bnFTRDhlcWM0QzFMNVNVS2JrRTdfR0Ewd1puWTBQdEo1c3MyTVdLal9lVV9KWDlaSUV6cnRyUmcydFRPQUxxX2lfYjdwUDNzQTlvaGxldURWVVE?oc=5",
-          "pubDate": "Sat, 24 Oct 2026 04:46:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "LeBron James - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBuX19iS3NmRUxTOTI2MEdsQ0g1YUVkWmV3OTRpQ0dZNnYtcnlTWUhEOUdpYkxIUFFYOTFCejhmR255Z3pIZk4teHNvdw?oc=5",
-          "pubDate": "Sat, 24 Oct 2026 03:57:47 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Vance intensifies rapidly and could become a major Category 3 hurricane off Mexico's Pacific Coast - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTVZOWTFKeWc0bWo4eF9Bd1BYeVpPUkVZUnF4V2FSWDUwUTM0QWpGX05wV0ZjV19kcFNkckRKZ2kxX3MyckMyZ09yVVI5ZkJHbGxlaFJFakN0aHhDOFdfMlRYRi1PZHN6NXhUQ1V4bnlBcmhkTmhMZzNaOWVvNGttbDB6c3hGMjNYV0E?oc=5",
-          "pubDate": "Sat, 24 Oct 2026 03:08:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "A shooting in the Paris suburbs kills 1 and wounds five in a suspected racist attack - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbnZ3Y2dPX1lNWkprR3Nnc3FZQjdWRW5aNzYwRGZJbmFfNlZfcE8xQWxmUlZ6U0ZQQlhpem1IM0VnZ2N4M3B0dHlQeVFqZ1M3V1JlLUpxczJ3TVM5RmZlemxfMkFSQzdUMGpxX2J5dGctTURuUnNhX1V3Tkx4ME1TRTFQaHpnTXNrb2d0QlMtelJFcEd0?oc=5",
-          "pubDate": "Sat, 24 Oct 2026 02:45:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Trump says he ordered the Justice Department’s lawsuit over Alaska’s US Senate race - AP News",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNY2lwdVh1SXlFeWVFaFRvNGN6a0dUaVV1b0diS0ZvaXhmYWJRR3JVYmRudTdhRmg0V18wYVVvenVWaUJJLTRBRkFkZXhIbEdYcHFGOXZiQ1JUMGRadHRMclMxdG9GTE5rTnBlVVoxbUdNM3VuZ0pkN2REZ2hKYWxVcDNubW9ESVMyQmVtS3doVUNLRTk4a1ZBT1hKTVNoT1Qta2U4V28tMW9KaTdpcUI3bDhPYjk?oc=5",
-          "pubDate": "Sat, 24 Oct 2026 02:44:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T09:24:45.282Z"
+      "updatedAt": "2026-10-24T13:31:10.266Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Four Philippine Air Force pilots killed in training accident - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUkZPOHk1VnhKNVhxNUVsNzg1VGdBWG1lYUFmLUptalZfVlJkMjJfVWU5MTh5TmhaZmZvRmZDbVNnRjZSb01GcV8tZWg1YlY2OVhZanBoV0NRMTZQbnd6eUhoOGlVekhkTkVrbXFCN1ZWTTF3UHVFRWdWZXdsWGkxUXhybVBhMlV6VDhGZ1JjcG5HNHRoWGhvRGxQSWYyVklyUkVsS01ZMGxyY0t6UlpkT3J3?oc=5",
-          "pubDate": "Sat, 24 Oct 2026 06:55:00 GMT",
+          "title": "France mounts huge security operation as protesters prepare to march - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMDZFRzVKWWJMOFp4eGNjbVdnZ1pCd3hVNTdMSWdiaU9uSGxZTi1zZW1DR3JvbjBfZTJIMnF3LVBMMXpWQjI0V1BfTWtFYUZkVWtXc0VmZEZyVWRHU3c3aHFwRm9fN0ZFMTRIaC16ZmhOeTFrRXBsdmpwWXVtRVVCd09ONkp3bFB5QWVRWjlBSmJqbHphYnBiLS0yaVZfRWpxdVAxSGRqYUI4YTBEX2pZeA?oc=5",
+          "pubDate": "Sat, 24 Oct 2026 12:08:08 GMT",
           "source": "Reuters"
         },
         {
-          "title": "France's luxury stores board up windows ahead of fresh protests - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbVE0ZlA5bnVuVmxqWWR3cUpqbFlCTWxJUEpFbmt3ZnVDM2tVa0duYVZZcTN6NFk2RWJ0NjVRRkwyWkxkRnFHeFJ5Uk9EVUVxc2E5NEdVUEQ5elNvQUdYcXRSNHZYQzAtaFZUTVBiTUt1WGlqc2I2d2ZIODZXQlFKQXg5RkRzRm84dUhkaHJhdEtoaTluVDVIWV9GVkF4eHExNkt6U1pid1RaaUJ5aTVUX0xoXzZzMFNJcHhvbA?oc=5",
-          "pubDate": "Sat, 24 Oct 2026 06:53:00 GMT",
+          "title": "Ukraine says Starlink back to normal after week of throttling - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVklsWE9QVlFHcHRES2xGTXNTVEtudENYZTR6aFRMZmVuaENzXzBCb0twTjdadFhWY3V3Nkw4aWZTLVJmYjF4OTVmR0haOERYVGlFSFB0a1lsQUUyVDM2UF9lZ3QyeTJ3QzVGN0J0eEF5UEsyanhKaUNHZmpaZnA1eVFsWkVKdHhkdVJjTWZrSGtHOHN0aC1JN0JkbTByTE1vaG5vc2dPWUswNkZxYTN3aFV2WkJZbVlwNlJtZU1R?oc=5",
+          "pubDate": "Sat, 24 Oct 2026 12:03:42 GMT",
           "source": "Reuters"
         },
         {
-          "title": "North Korea's Kim Jong Un visits China via Dandong bridge, South Korean official says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOTlLSVZQYy0tZFRieEJTYXU0WnM4NElhS29hMlJ4R3g1Mzl3Wmo4TzFRRlE1QXhsQ09SQWV0Uzg5LUdSdWpfdjI4LU1YSXRqY3pOSTEzbTA0cjdHM2MzVUpqbUdOSm13ZGZZdHN3VWlfbm1laGVQSmEtRklGaHhDejhUT2F4MUktamhqTS13ZHpNaERZekprMkp0TWdyX0t4bXhsOGJ1bUwzZw?oc=5",
-          "pubDate": "Sat, 24 Oct 2026 06:17:00 GMT",
+          "title": "Russia says drone attack damages Togliatti facilities, Ukraine says petrochemical plant hit - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNLVlneFRqcVJHMTZlOGpILW51QW1qWXBtVHd3aFpRZGRjT1NDUnVaUW9US2dMTUg2SGp0SGx4YjFENFZQYjVKamhPemJoYlpNQzlHS0E1ZTBHZnlwOXE2OVVJS0NqcFpCaGFuQ3lqUjZxalpSZkVzRUhTOEEzSk9jZTBhSVRuZUZreWtkWkJULXplX2VZMV9KRlN4SklZb0ZlVnhPZVRRMDNoWEdSanlPbEI3SGxSZmI3ZER6X2NneHFwMjNkUS1Dc1lid1ZPa1h1RURSTXFOX0JOSEE?oc=5",
+          "pubDate": "Sat, 24 Oct 2026 10:58:24 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Jordan tightens security after deadly church attack kills seven - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSldwN2ViWHdOeFFhai1heXdsT0ExOW9GNW1FYlpPQnhad0NzTE53N3p3ckRqSlJUTnE0eGNnOHZOb1dIZGdKbng5d2lxMHp0cHpGb1QyOXVsUjlQamVzOGlHVkJCRlBXSk0zaURFekgtSDA5X1praWRjek14NGlOMmdHZnAxd29LRFRJamRSdTZtV1lCbm1UUEh3V1EwOFFFaFUycTZDZHJucFJHS3BicDdMNWY2N1VHa19feDJoZTRkU1l3T0E?oc=5",
-          "pubDate": "Sat, 24 Oct 2026 06:17:00 GMT",
+          "title": "Jordan church attack survivor says assailant pointed handgun at him - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZVhBcHBITVRDY2hGb1hueUEwVnhWbUhBc3dvc2NXTk5Yd3NybDQyUW15R3NfVnBmOHpJLVo5b2UyVmN5NjdURndGT2xQb05hSlE4UU52cnFYMDdjbnlQTm9LRHpBSkdLSDUtTlhKdGJYVjN1cGY3c2hEelZjN3FhRXM1X0ZYbVk1Q05lX3ZPdWtBRHE4U3BHUjJtNUpMemJTbXhRcEVERGFZTUt2QW1JbXlSWUpWOGZ6UWc?oc=5",
+          "pubDate": "Sat, 24 Oct 2026 10:29:44 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Trump foreign policy hits voters in the pocketbook, imperiling Republicans in midterms - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRzVIOWVqX0Jia3JrVmo5YkZuTGFOTlo1YVpMcFFwRHFtMEFaQVhYMjdZbGdYYXhaSTFLcTNiZzVNRzRCaTZIcWtmVktJTEhVTDl5dHNMcW9fMEp0WGxnazE1TnUzcEdXZUg1M3gyVUF4XzV1c1BmeGZKM2R1dm9USFljVldzUXdQWVk3bnFJMi1ZUDk5QjQ2TEozNUlXMXJ0bnkxYndOUFZVa042YlJlYnlzZVIzb2dJZzlReA?oc=5",
-          "pubDate": "Sat, 24 Oct 2026 05:05:00 GMT",
+          "title": "Key dates in the latest slump in US-Ukrainian ties - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNV2NsV1BZWVl6YU9rR2NSWUtsNFBLNzljT0dBdUJHRjNsWTN2T1FyNnZTSEkxSFRFNmh3RHd6SFJIMDVzQ3Z6SFFsX2FKZkx2Sm1TaURKa3FlYU9ZRFlVeUJVRHBqREtybzBhaW1nSUdQb216cGFwSG9qN1psYnJldTItcXlEU2dPT1o3aEItNnZPYzdUUkdueA?oc=5",
+          "pubDate": "Sat, 24 Oct 2026 10:13:52 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Bolsonaro and Lula clash on living costs, corruption in final Brazil election debate - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSjFLWHVLdnk5bU5NR3ZxUExTUnJNanRROGszakNPbVlram1hSUUzZHF5SV9obXFDVzhMRnRjZ2xKcjZRNDRBMzRnYTF3ZmpEYXpsVzd4QWdpWTAyTDZVZ0Q3TTIwMGtlOF9mSS1IM2tCa01wTld2Q3cxT01WS18zRmJDLTk1RFBVY2hZb2ZjOGIxUGZoOElvY1BmQXpmS0J2TEVvQi15ZzBNdDNFalRzWGdHa255RVpQNlRvQ04yV1lwaF9kSHBpNnMxTDk?oc=5",
-          "pubDate": "Sat, 24 Oct 2026 04:43:00 GMT",
+          "title": "As winter nears, heating oil emerges as hurdle for Republicans in US Senate races - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWk5FamNJdG52SWx6b2FvaS1zcEFZZUJkbl9Kdl9DS2g2bGZadUJTcUZoMy03VWNrRlMtVFNnc2Q5clJJNVZ5eldDendydEU5b1lndTQ5TXViQW9uN2tTN185S1FkWnV3UHZxZkwtZE5zb0hZYm43ZG5sMHpIYWNGejQ3OWFNSjBjYUZfeEVoN1FvNk9zMmNDdEFrczJ1OEpadEM2U2RmdmtMMy1xUl9DWTkwVWd1ZFNIZjZ2Wg?oc=5",
+          "pubDate": "Sat, 24 Oct 2026 10:13:43 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Moonshot curbs hacking ability in new Kimi model as fears grow over AI-powered cyberattacks - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWlpZNXVZQXBxZ1hCTzA4X0VZYUh0QkhJb281X3VmMUt0VVZRY0N2N1Fja1dyZlB4cGlsTGktdjRaRzEzSDgtR01QS1F4V0ZsN0lsbzdTRjhRbG1MMlhfMkluTkxwTXFhOG1XZVVpRlRJX29ULXBEcUdTQUpoa2NkUmRMZFhDbkF3a0N3SDlqbTg1QnR3aFkwSW9LS181X0hsbXM1bXF2a0ZTWldQdlBMSlJRSzFoOGI2aFRF?oc=5",
-          "pubDate": "Sat, 24 Oct 2026 04:25:00 GMT",
+          "title": "Saudi-led coalition says it intercepted Houthi ballistic missiles targeting Saudi cities - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU1JpTkpxd3RUSFgwb29mWkRuSmg5UFd5d1RMQkZMdE5tV3F4cEN6SXFOODhTQUZTbTZucHJGVnpxMWpGZVFuSXJzZ045Q0o1Uzh5NFNvVENFX1M2dFQ0NzRGYjUtWk9TYjBWcldGNS1hY21yS2IyOXBsX29hcFg5N2ZENUlIV2oyTE1OT3hJQUFaS1pjTHV3VnZUTkRWbVFnd0JqYV9iZmVwUW4xcGNVOUdUZmgtaWpkVGdsVzJ1SXR1U1hyWG5uWg?oc=5",
+          "pubDate": "Sat, 24 Oct 2026 10:07:59 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Suspect arrested as fire engulfs Nazi guest house 'Eagle's Nest', German police say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbVZ0LWhGcGF5OWJmMVlpUndFTFgtVGhySFg3aUpZSDk1MGVGOWpvNmozNzR5SVg0eU1lbExKaGJtTmk0VGtDWEFZSnNpMFZTd0xFUU85cmk0RFFuWDVJTDVseVJsRm5ZeWtzNmFMZENRWDJSOGJrT1lUTDV3Y2NKMS1QRzBEWGhMWDZfaTVsVlRqb2pEWWZvMndSaV9HU3gwbHh5b1JBVFhMRHZ4RTE0cy1zNGptUEVtTThaY003bFctUQ?oc=5",
-          "pubDate": "Sat, 24 Oct 2026 03:28:00 GMT",
+          "title": "Five takeaways from Trump's midterm campaign rallies - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOWRrT1lOLWc2TVVFRWZhbENyYUE4ZVlBWHBLLXFHNHhjczlTellOcG9GdUpCaVNZNk9mMFdkSzJqMjdXcFhOSGJGWDJ5Njd6NDhOYkRzYzRzaF9UVE95X0IyR28xbHd2WW1VTXBCV1FrTDdwR092bm9jTHJlMm9acmEzQUJSQ1VaVFBiWW1SWWdwZ1Zna3c?oc=5",
+          "pubDate": "Sat, 24 Oct 2026 10:07:44 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T09:24:45.678Z"
+      "updatedAt": "2026-10-24T13:31:10.691Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T09:24:45.946Z"
+      "updatedAt": "2026-10-24T13:31:10.904Z"
     }
   ]
 }
