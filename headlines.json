@@ -1,9 +1,15 @@
 {
-  "generatedAt": "2026-10-25T00:28:27.250Z",
+  "generatedAt": "2026-10-25T05:11:31.517Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+          "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 25 Oct 2026 04:16:52 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
           "link": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
@@ -14,12 +20,6 @@
           "title": "Who are the candidates in Brazil's presidential election?",
           "link": "https://www.bbc.co.uk/news/videos/cm0e0del4jewo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 24 Oct 2026 22:08:47 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
-          "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 24 Oct 2026 21:09:27 GMT",
           "source": "BBC News"
         },
         {
@@ -54,11 +54,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T00:28:25.894Z"
+      "updatedAt": "2026-10-25T05:11:30.229Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Drought, fire and high diesel prices 'addin' up tough' for Oregon ranchers",
+          "link": "https://www.npr.org/2026/10/25/nx-s1-5992998/drought-fire-and-high-diesel-prices-addin-up-tough-for-oregon-ranchers",
+          "pubDate": "Sun, 25 Oct 2026 00:01:00 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Archdiocese of New York agrees to $800 million settlement over sexual abuse claims",
           "link": "https://www.npr.org/2026/10/24/nx-s1-6015522/new-york-archdiocese-settlement-agreement",
@@ -100,126 +106,120 @@
           "link": "https://www.npr.org/2026/10/24/nx-s1-6014612/medicare-advantage-open-enrollment-cancelled-plan",
           "pubDate": "Sat, 24 Oct 2026 06:00:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "U.S. birth rate drops to record low, but older women are having more babies",
-          "link": "https://www.npr.org/2026/10/24/nx-s1-6012804/birth-rate-population-cdc",
-          "pubDate": "Sat, 24 Oct 2026 06:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T00:28:26.097Z"
+      "updatedAt": "2026-10-25T05:11:30.352Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Associated Press News: Breaking News | Latest News Today - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
-          "pubDate": "Sat, 24 Oct 2026 22:30:59 GMT",
+          "title": "North Korean leader Kim Jong Un visits China to inaugurate a new cross-border bridge - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPX0I1TVQybGpFam8xeDVVN1NTdVFha1Q3Und2cjhZbHJnMG1CekZFTWEyMXI2VFNTVHF0MlF5ekIxM3plalZMVU9jVjZHanE2WnozM2xQN2x6WDA2NHh1NUVXRXIwZ2JVczFsQjZ5aXY2VU9tRk1kRWg2bDZpSlJKVzVFaVlhOFc0N0pnOUp0cWVwREY0b1JlZ2xSbw?oc=5",
+          "pubDate": "Sun, 25 Oct 2026 03:36:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "More than 400,000 protest across France, challenging Macron as Paris clashes erupt - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWFhXb1VmdWxKRzJmZnRpSGpJTk40b3JoTldmR0FjTW9nWWxibmNBOTJCN1NNa1IyenIycmtueTVnVHhaR19YOUU3TkE2ODBHRFFlRWdDYVZzVWY0MVlqV0dTOHlkaTdEbmxkdnFNMnJicVFjSkhYUVdOaGFYYU5jVEQ5VEhRUU5tWlJjZ1pzOE5GQQ?oc=5",
-          "pubDate": "Sat, 24 Oct 2026 21:31:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Israelis hold final rally against Netanyahu before election, and other Mideast news - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPem0xR3lFdmx3SDVUQTVqZXhRZUlSWkk5NU1PUWpoVkI0TXo0N3ZyeDRtYjZoV3phMjdwZnhaRVc4dkdibUhEcU5jd2F1RVNqQjV1ZDJHbC1UWEJsSnRLdi0xTWFUSFNEbWVuY2F4M0M4QWxVdnh2dUw4OVJCUFhJcXVpcDVWUFBNZGZtTjRoSnBHUQ?oc=5",
-          "pubDate": "Sat, 24 Oct 2026 21:15:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "LeBron James - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBuX19iS3NmRUxTOTI2MEdsQ0g1YUVkWmV3OTRpQ0dZNnYtcnlTWUhEOUdpYkxIUFFYOTFCejhmR255Z3pIZk4teHNvdw?oc=5",
-          "pubDate": "Sat, 24 Oct 2026 20:47:17 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Survivor of deadly attack on Jordan church describes people crawling for their lives - AP News",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbTZQajdITldrSGluNnR2YkxmRUdzNzZXU05MaUtkcFJhWC1CdU1fSXVzR2lJRHdIYm9kTm9XTDZhbjdjRTg2RFgzZ2hZUFVZalRHeWk1ZjZZNkFmNEhsbFQwVkpBbVdxMGhhVmduNnR3RGVPaElyNl9CSFVLU29sNWd4czNrbTRqZWFJXzBiZzFPWXhwaE1jalp1bFdSNGU0?oc=5",
-          "pubDate": "Sat, 24 Oct 2026 20:24:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "A fire devastates the Eagle’s Nest retreat built for Hitler in Germany. A suspect is detained - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX3ZLRkl4Y2Jla2ZCdW90UzZ1aHJuTl9xVjZpSGdQb2xzTDdsRFVEeURDTUJvaVQwbGU2bEFNQ21oMlJqMVFZYWc0dUZiQy1yMWQzUnBhWmZXNzFHWUdpVU1ndHdBTHZIUDFybWNZbGx2QWdRQ2VrNlgwZlMtNWxQc2dCa2U4bmxUdXl1bXhGaUlVZW5OU3RmZnFFVW5LdnpsQUdxZGZkTEpqMm54TVpB?oc=5",
-          "pubDate": "Sat, 24 Oct 2026 20:23:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Musk says he was behind Starlink speed restriction after service in Ukraine is restored - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOGd5SnEtSm9xemFDa0s3MnhQUjFKOHZmcUxxcHVJU01FWk5aWWEzQWJKaG1DUGlqMFVIWVJrWXA0NUx6NTVQblRkb2lUNXJSWWdrd3A5VlNuc1BqbWM1TEdCZ0pJaHUwdWFpa1g3MVFkODMzWEZuS21WaGpqSldLTEZqT2xReDFQY1I3NEV6ZEZWTl9Pb2gzbG13?oc=5",
-          "pubDate": "Sat, 24 Oct 2026 20:16:00 GMT",
+          "title": "Obama, in Midwest, assails 'cruelty' and indecency from Trump and his allies in the midterm campaign - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZkp6bHg5OWk2TXZXZndoNmVFcGlkRmktbEtieHpmckduS1BiSFB6dHN4N3dnamM2YUc0OVQ1d2VMSGZOUS1qQzRmRFZuZV9sQ0d5cjBwS1JJemtkRFBIZGdBSFpKVDd0bzdCWEpXSkJkZWE2ek9Pd1E1MXpSN0NVNUQ0enlqcEV6bFFhT1dJNWVjeUlxZHRjZFhtazV5TnpCZlBlUEc0eXA3SGZzQkdn?oc=5",
+          "pubDate": "Sun, 25 Oct 2026 02:45:00 GMT",
           "source": "AP News"
         },
         {
           "title": "Soldiers guard center of Milan as thousands of protesters march in cities across Europe - AP News",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUV9xQTg4SlhqSXJkZEM3YXRLVGhsdFpYM0xRZU1yWHdMUGNxZ1BfU2NVb3BrUnVSZ29oYU5PUHpOTHRnaVd3U2RyZHozNUJLZHh5WU9leDRDc3BpT0tQY1FxX1lFNThkYzViNl9CeUtGaU1qcVdXQmRMR1lLblhFZnFRNzJuZHBLWWdROWhVTQ?oc=5",
-          "pubDate": "Sat, 24 Oct 2026 19:58:00 GMT",
+          "pubDate": "Sun, 25 Oct 2026 02:20:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Israelis hold final rally against Netanyahu before election, and other Mideast news - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPem0xR3lFdmx3SDVUQTVqZXhRZUlSWkk5NU1PUWpoVkI0TXo0N3ZyeDRtYjZoV3phMjdwZnhaRVc4dkdibUhEcU5jd2F1RVNqQjV1ZDJHbC1UWEJsSnRLdi0xTWFUSFNEbWVuY2F4M0M4QWxVdnh2dUw4OVJCUFhJcXVpcDVWUFBNZGZtTjRoSnBHUQ?oc=5",
+          "pubDate": "Sun, 25 Oct 2026 01:37:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "AOC can draw a crowd. The midterms will test whether her politics can win before 2028 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONmV4SEw3dldwbVFJVDc3Q1JjcHlxYXhTY3dtUDZPbFlma0hfbWtGZTVjN1JtNGJYOFNEYXpsaDljcUxiZ25WbS1iR0g5b19MaHFoelNhSUhpcUZncDgzVlRJbFRhVVRmWXNQTnhnZXlPMUk5Yl9sSUpOOXp3V3Z1YVcxRTlLTmJ1dTQwY0dGNjBxRVVpclpZSi1EZDNQd2NsX18xY0xJM2t0LWhhb0pUMWZ3?oc=5",
+          "pubDate": "Sun, 25 Oct 2026 01:06:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Still more rain, evacuations remain in place from Four Corners region flooding - AP News",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVlh5NHFzcEpNNm00RzQzNnhXRjFzMl9BTUFjWGZhUGFHaVowcF9BeG1ZaXhpTWRTbzlJdHl3N3pWUHFpeUFEaXYtOUxNaHp0SmJCckgzakpxYTRDYUx5MDNiNlhVSHpTZmh4bEVtalI5YnFFOGtqbV9YNzMzMzVTZkRoVVVZelVqNnNQaU9NaHcySkZjWWlxOG1NdGNCU3RheGJkUWFneUp1NmE5b2FmSUx3?oc=5",
+          "pubDate": "Sun, 25 Oct 2026 00:23:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "California election officials frustrated, rattled by DOJ demand to sequester 'noncitizen' ballots - AP News",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSFNBR3JwV0ZOVklQN25XVXZONENydmpNUDF3WHQtaUREcUUtUUtRZXJmeU5URXZ6MTZmWndTanRKWmltdzFoY2tNQXhKbWIzZEZQdnhvSU12ZmhGVkdhQy1kV2tRYl9LRTRBTDZZWVBpeGhKNmNJYlhWYmlzMV9qa1hTM191dGthREpGQlJDMGp4VHRGTDBubUVUYTN5aUdoQkkwRUp1OWRkSzc2eGtZVVd6ODA3VnM?oc=5",
+          "pubDate": "Sun, 25 Oct 2026 00:22:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Benjamin Netanyahu - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBXTllFQUh1RklaanJvME5aZjcyVWdOMW5tM0xxcV9pQTBWbExzaDJWYmdSUmZYeEpfcjQzdGhjTGlVRTZaWWcxTlRvVXZTWHJmX3g4?oc=5",
+          "pubDate": "Sat, 24 Oct 2026 22:26:02 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T00:28:26.626Z"
+      "updatedAt": "2026-10-25T05:11:30.830Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "Obama unloads on Trump while stumping for Democrats ahead of midterms - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYUdEaVdfMFowR19ySTVVTVhyUkxlV2d0VDB5VFlxLS10TzJzRTV4ajZDV1F6UjVTUW5RYVVCTEhSVy0wdGdfRGdYWVpqMWxiTkd2NVhtV0lZRkpYTWhSMUY3aE5KTUcxN1VxNEJ2djlPbjFxY1ZhYVZpYmxRVUlya2tvUGdWLUhsMGlDakYwX3YzTnJNUlBrMlNZbng5WVhvRnZnMm05Sm45N3VuVUNqLU9n?oc=5",
+          "pubDate": "Sun, 25 Oct 2026 02:40:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Serbia votes as students seek to unseat Vucic in snap election - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZjJPNVlseUpvOWt6LUd1UlBrYnBhY3dDUks3Z2VEZHZFcExyQzBfWHZSdUxrLWVSY09DWHc4bEoybF9jVjBxaDFuR2ZuVW9LcDVhYkNHSGZIaUh5cTFGTlB2ajhva1dWM1ZSTUl4WDdFQjhXdjdOZFJ2LTYtMFRHR2w5ZHVIakxEVVRidDQ2bHRZQ2ZkaXBoRXdEQlUtdHozMTZpNA?oc=5",
+          "pubDate": "Sun, 25 Oct 2026 01:03:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Sydney's new international airport opens to passengers - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaVJaVWYzbldLQlV4bWFwYzBEek50ekRuSjY0Mk92Y090OEduQkdLdUlBeTVYMWdBanpralBkc25yZzZmN2VzcDVxTnNnYlYyZWpaMWpjZlZmcVN0N0RTLXllYUFoaDZnWlV1czZHdHZUYkpVTnBiVVVxOURCQWt0S1lySlNxWW1rODJlUGQyN2wxR2JIUGNiME1fN3FWVXRFSjFhMFFNd0c?oc=5",
+          "pubDate": "Sun, 25 Oct 2026 00:29:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Bulgaria votes for president in wake of deadly Black Sea drone strikes - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOE5IMGRMTzd6dTFDS21qbTdmVDBkUzcteU1OWlQ0aWt2Z1Z6d0cxRGRVbEhGNkVkSnRGQVN1WVlLdU9vRkJmVHphOWk5RUFCNmJuUzJ0TGVaNC1tenk5NGNmUldFSnVXVkQ1bHd4aHJzZHFlWWJ2UHU0VHhETDFVNFpoaXdsQXpDZ21rMllSTlplRTItdnNuNUt6X1JjckV5OWJrWA?oc=5",
+          "pubDate": "Sun, 25 Oct 2026 00:03:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Yemen's Houthis renew warning against using Riyadh airport - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT0JBTVByRUdVWnYzNWpyRUlfbGRFR2RnQzZpbTgzR05tX1AzU2VkVC10RUswYWthSGtJa2FZamVSa2E2ckdSeG5FN3VGTFU5SVJfbjY4NEZjR2tQSWJfZmxtbTJvUU5YSEpKWHRQQWpHMGRfR29xeFhkR1BwcHA5NlA3MnJmRnloYzF6Q0tBZG92ZDgzWmRubVNpNi1CajBmdXdNZmNTYnkzLWFnMldvaQ?oc=5",
+          "pubDate": "Sat, 24 Oct 2026 23:57:43 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Abuse survivors approve $800 million settlement with Archdiocese of New York - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQM2Ixc21EUXZ4UEhWVEtXSkJzV1EwWm5tT0V5dlFkbWlKaXJidVNoLU4xZEJScWpKZnlYajJyQUJITE95cXpwRm0wdE1jSGhOV3VpWEk1b1FtRU80ekFYZ0xsTEdPMldZU1EyRkZ1cXU2alZ3eDRBUU5xVGtpM3kxa1FqQUR5Nnk5Q1luX2ZZbkJUMHM2THMxa21GTUlabXgzMWljZWtkM3BxS1RRbklkWlZHNmNzaVhVeGg4U1RWWWV5d0E?oc=5",
+          "pubDate": "Sat, 24 Oct 2026 23:41:39 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Bodies of ambushed Salvadoran soldiers found in Haiti, New York Times reports - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORGtfcFhSaXlZOW01WjJhTEVWcTBQSlN4OTIxb2J3SmxmQ0prZ1dkTEpVckFGY2hQSlgyZzBjTl9RRXlOZ1JWdU5BSUhIZ2pTYmhCQW5WU0ZnUWNUdUlWSVRXajJ1dVRFMFhUN2Zkai1vMGxqS29mUDNTaHVud0FQNVJvb0NVcW5rNmFUVzNod3N2NTd1VkZWUGZadW9oVTVPb1NFQmsxWlhfU2RSWTVPN2dlUnlOd2ItSGRfdHZ3?oc=5",
+          "pubDate": "Sat, 24 Oct 2026 23:23:00 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Bolsonaro, Lula about even in polls for Brazil runoff vote - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOW9aaS1WT2hUWE5VTjd3U19BR0VxZ0xtUXd5QjQ5V3EzMkxsYWs2X0lHYm11TzU5YTY3RDQ2dGlnblllZklkV1AySElHOVF6a0RKZmNZZHpJMlVCaE82QjBXN1lHeFNFSGE4VlBjUGVwWlBSWkRQOTE0dzNRZ2NMQm9tWWRzN1FBaHhfbWVqcDl5Qkw5OW5wNlNDMEJjZXVmUkQ3NE5CSmdfci1IMkVVQktUdElSSEd2ZEs2VjRBQktYM3dXc2pvMmFR?oc=5",
           "pubDate": "Sat, 24 Oct 2026 23:02:10 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "US Justice Dept demands California counties help identify suspected noncitizen voters - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMmlFSUIxOVVNeTdTRWJLSGVWYUQzS3FGNEk4SVU2dmM5aS1MZThUYUc5cG85WXFnd2V6bDBFOF9zd09EREduV2lGbWJTTUhURER2R3RISWxWT3pvSWhRTVNHcFRtTUFRX0E2OU1QQjdHS2hBZ1ZnZzRYLXFLdTZTX2w2dUFQRGRZVDh1aHJuSkxSQzliZ2pqaWQ2blpEdXp5b0sxUlQyTHpPZVFGOVpQdkRmMHhtS1BiUDhYei14V04zX2s2OHc?oc=5",
-          "pubDate": "Sat, 24 Oct 2026 22:56:02 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Trump set to announce Audi plan to build US factory in Georgia, source says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZGx3Y2FFQnJqWm4xQzIyem5aQXhBRWU1UkwyblYyU1BTQmR5TllmeUF6aGpDYjNQZmJNZlRWZXRzTDg5dlZYUGNXalE1ajdLUzc4blptZWJVaWdqYUFWcjViR1gxazBrSXp6bHFScVBRV3hQNEpLbi1fRm1CTGlPNUMtMDJTS0gyN3lzU2lrTDZhQjFoaWZtMXQxUThHV19oNmxzTFFGNnRlMlEyb3JQeDF6dm16bE5odlEzcGZ6THBEUDVEelktZmhHV2ZSM28?oc=5",
-          "pubDate": "Sat, 24 Oct 2026 22:52:30 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Nigeria's Tinubu launches re-election campaign as economic pain tests support - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQb2pnT1VmVHRrU1I2MHl3cGFQQk51cUx2S0NhUHBydDBnQWtpbndGWm54NDl0OGhhRUVIUlJCN0hLcWNvVmROQjJ5VGYyekhPNEVTTU5oMVRiM2VQbFBmaWwwTkhSUjFUQ3N3d016YlZZdFdfaGx4WmwtVjNlZkNqOGhPNVpLRFVCRmZITU10X3hhOHJ0bU5NUUN1aU5TLW8tOFNxRnloS3ZDM2xxQU9qaWJWVmowRkJRQjV1d3Viaw?oc=5",
-          "pubDate": "Sat, 24 Oct 2026 22:49:12 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Arrests in Barcelona after 'anti-system' rioters loot shops, set fires - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdkJsZklZVktpY0kyUTVuR29QdnVJMDVjODZLSFVPMjlRQV94czZ2YWZvdTlvQUp6N1N4Z19PNzA1OGdUWGhLNG1yY3lfTTZoMDl4VmVlSkF5bW5ZMHBJUHRJVVFscE41czlEOHhZZEYzZ1kwSlJJWVQxYm1TcGc1cjhmTXBYekVBQTVrWjNUdEFVZTJLTlhFSFRCbWdxa3FVdUYyU1ozTDdKQQ?oc=5",
-          "pubDate": "Sat, 24 Oct 2026 22:15:27 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Protests sweep Italian cities amid heavy security presence, some violence reported - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdkVjV19ld3VNNFRlLXZaOFh2aUhReW5lUXgyblRhTHJPWEM4bUg0QU5XeFVXd0tKelV5LVFhSGJKMndmNjg1aFJLcmtITDNjTVpFVFU3YUFtcGdSc3ZGTDQzMHJTN05nZldOVkM0WDZyS3Y1TF9RbUVtMFh5MENrajRfRFRlOTR6Vlc5MWV4aklwMi1ielVIUEVmelIzMkVKaDAyT09wWWs2NXU2QVJwNUp0bXM?oc=5",
-          "pubDate": "Sat, 24 Oct 2026 22:15:14 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Around 1,200 Palestinians are displaced in Hebron as Israel begins military operation - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNU0lFZzBBODd6NDh2OUEyNmMwbFUyalpDRFpwVkVRVkR2VzlOLWdTU1N1ZmhEaFBzaUFmWUVEMFBrdDFDMVF3WVlQWHh5VVFVd2R6LVM5b3VxakFlNVhwQlNwcHVhaHV0dDZuYjgzSU5qUTdtalpZd2tmQlFxN3ZtcmNpaTdvM3hCUlhMck5ubkphU25lT2dFU0ZvSDVXNEE0amJ1X3IwLU82a2M3TWROaU1SYWhhdHJuQmpLTzZtckhsaVdwODdaOTNaNkk?oc=5",
-          "pubDate": "Sat, 24 Oct 2026 22:07:30 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Iran has ramped up efforts to target US personnel, intelligence memo warns - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSnBGckdpTkdaSnNZeFIyenI0MVVDMHd6R2ZDcTlUX3I4OWNNMlRjd0FTXzhCY09zakU1MWx2RzBpRW1QYTRxY2M3UWpBZHR3S1JlNjQ0WlIyRlh3ZnhNaVZ0OVcwU21YMjUyVVF0RXB0VXFLMWpGdEVtak1DUktTdUdLWmQyWGRFQ0xmb2Z3WG1nSHdfVUxlbUlsc2RJRmNmWVRHS1Qtd0RCVU92d2t1S19HbjlFVzdoREJONTRNYk1iZw?oc=5",
-          "pubDate": "Sat, 24 Oct 2026 22:06:52 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T00:28:27.116Z"
+      "updatedAt": "2026-10-25T05:11:31.247Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T00:28:27.250Z"
+      "updatedAt": "2026-10-25T05:11:31.517Z"
     }
   ]
 }
