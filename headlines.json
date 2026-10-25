@@ -1,13 +1,25 @@
 {
-  "generatedAt": "2026-10-25T10:03:32.088Z",
+  "generatedAt": "2026-10-25T14:31:26.217Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+          "title": "Voters in Brazil head to polls as Lula goes up against Bolsonaro's son",
+          "link": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 25 Oct 2026 11:54:16 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "El Salvador president says bodies found in Haiti are not those of hostages",
+          "link": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 25 Oct 2026 10:55:33 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "More than 1,300 arrested as clashes follow another day of mass protests across France",
           "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 25 Oct 2026 09:32:59 GMT",
+          "pubDate": "Sun, 25 Oct 2026 10:38:15 GMT",
           "source": "BBC News"
         },
         {
@@ -39,26 +51,26 @@
           "link": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 25 Oct 2026 03:20:16 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
-          "link": "https://www.bbc.co.uk/news/articles/cmj6jwe1j1gjo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 25 Oct 2026 02:27:15 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Voters in Brazil to choose between Lula and Bolsonaro's son",
-          "link": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 24 Oct 2026 23:50:02 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T10:03:30.730Z"
+      "updatedAt": "2026-10-25T14:31:24.787Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "The College of Magic turns ordinary kids into confident, top-hat wearing magicians",
+          "link": "https://www.npr.org/2026/10/25/g-s1-149089/magic-magicians-south-africa-school-students",
+          "pubDate": "Sun, 25 Oct 2026 07:24:58 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "When a teen posts a selfie, how much filter is 'too much' filter?",
+          "link": "https://www.npr.org/2026/10/25/nx-s1-6011190/meta-facebook-settlement-beauty-filters-ai",
+          "pubDate": "Sun, 25 Oct 2026 06:00:00 -0400",
+          "source": "NPR"
+        },
         {
           "title": "More dads taking paid family leave for a new baby, sometimes as much as moms are",
           "link": "https://www.npr.org/2026/10/25/nx-s1-5977810/paid-family-bonding-leave-dads-moms-california-colorado-washington-states",
@@ -66,14 +78,14 @@
           "source": "NPR"
         },
         {
-          "title": "In Arkansas, Democrats see an opening at the edge of the competitive midterms map",
-          "link": "https://www.npr.org/2026/10/25/nx-s1-6009402/midterm-blue-wave-map-arkansas-democrats-cotton-shoffner-hill-jones",
+          "title": "Independent candidates sense a moment. Some Democrats hope they're right.",
+          "link": "https://www.npr.org/2026/10/25/nx-s1-5995460/midterms-independent-candidates-nebraska-montana",
           "pubDate": "Sun, 25 Oct 2026 05:00:00 -0400",
           "source": "NPR"
         },
         {
-          "title": "Independent candidates sense a moment in the West. Democrats are hoping they're right",
-          "link": "https://www.npr.org/2026/10/25/nx-s1-5995460/midterms-independent-candidates-nebraska-montana",
+          "title": "In Arkansas, Democrats see an opening at the edge of the competitive midterms map",
+          "link": "https://www.npr.org/2026/10/25/nx-s1-6009402/midterm-blue-wave-map-arkansas-democrats-cotton-shoffner-hill-jones",
           "pubDate": "Sun, 25 Oct 2026 05:00:00 -0400",
           "source": "NPR"
         },
@@ -94,36 +106,54 @@
           "link": "https://www.npr.org/2026/10/24/nx-s1-6015522/new-york-archdiocese-settlement-agreement",
           "pubDate": "Sat, 24 Oct 2026 18:47:58 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Trade tariffs cause whiplash at Port Milwaukee",
-          "link": "https://www.npr.org/2026/10/24/nx-s1-6011193/trade-tariffs-cause-whiplash-at-port-milwaukee",
-          "pubDate": "Sat, 24 Oct 2026 17:20:55 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "How data centers became a bipartisan political issue in Wisconsin",
-          "link": "https://www.npr.org/2026/10/24/nx-s1-6011182/how-data-centers-became-a-bipartisan-political-issue-in-wisconsin",
-          "pubDate": "Sat, 24 Oct 2026 17:20:53 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T10:03:30.885Z"
+      "updatedAt": "2026-10-25T14:31:25.001Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Weather, Hurricanes and Storms | Latest News & Updates - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5GMXV4dG1uemVFQU4tR1liSktIVXRORUNuQkRUbnl1TTZGdmJqaUpMYlVHMmxad1otUDhrU0RmRURzWWxY?oc=5",
-          "pubDate": "Sun, 25 Oct 2026 08:41:12 GMT",
+          "title": "Ukraine disputes Elon Musk’s claim that its military violated Starlink’s terms of service - AP News",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZ1drdjlPWDVYNS1BaWpPZ2hYZDRSMjlIbGt1ZXNUQmgxdmk0cDJMalJqa05RWERiakhXSXVsWE5COHZMWEdJM0pWZFdwYzJ5WHdZMUh3Q0E3RW1xVmMwczBFeWlCTlRtUU1MWGVjYVQyOVRmQWtycUU5N2J1enVTa29kS2tSZUNFY25GWGpZSmN2aHhPMWNZNkxpb2NULXFkQ3BINlo2eE5LY05ob09oVHFXcmUwZw?oc=5",
+          "pubDate": "Sun, 25 Oct 2026 13:40:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "U.S. Department of Justice - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DVGVUcl95ZUJpNjQwRlQ1UGFiS1FvZURuRy1SRXVhdVlnREtMOW93d0NZY1c2dHJacGlfNUFJd3ZFZ3JtdXVnOFBhUVlWWHBXdnBzTHJuU09lbUE?oc=5",
-          "pubDate": "Sun, 25 Oct 2026 08:13:24 GMT",
+          "title": "College football | Latest News & Updates - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBscF9PZzh5MHFsTGlQMzFZMkRHaDdBbmdwSFhoMGhRb0pwZzB2b2FDNXZNcUlLVnl6WlpTWFVsRXNmQlphSFd1WTdPSWQ0VUlr?oc=5",
+          "pubDate": "Sun, 25 Oct 2026 12:09:50 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Saudi Arabia reopens airport as attacks by Houthi rebels persist, and other Mideast news - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeDUtVElsazdRYlBXZDhiR2lBRF9VMVFCaEVDSTQ2THNuTlpGM1BOUkF1amNpbE12eHBkNTBlV1IwMmlYRWJLWE5RcEF2Zm0yTXJnazVsV1pMbERNNl8tekRrOHdVNlBUSEVYRURPQXhpakw2aTVtX3VUSnc2aXdndVZyREsxZGF6TUdDdHhrZEQ4UQ?oc=5",
+          "pubDate": "Sun, 25 Oct 2026 12:01:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Losses by No. 2 BYU, 6 other ranked teams should lead to more big changes in AP Top 25 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSF9wUHhudWswUTBOOXg4X3lBRHhHVlJhNVpxQnBEWERPYThjaEV3dFhVRnVidXFsWE4xYi1nNlBJZWF6eENieG8zRXduNHJudDU4cXNRVDdoZW11aE4zREhDdXRoa2tNdTg4TEh2Y1lvRzRhV0h1c0ZUVDlEZndvZ2NfMVlCUU9pZWRFNjVR?oc=5",
+          "pubDate": "Sun, 25 Oct 2026 10:56:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Tens of thousands of Israelis living abroad are expected to fly in for pivotal vote - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNk9zbWRJZDF1aF9WaWZJWnRLQXhCRmtkbnJLMmt0cC1aX2swYkp1UlpFRVZoZG1TWlBENVNZenhUMWs1eG4tMmR5UVZBNFV4NXAyMjJtbVNmWnJTejlJdFJDVmtlMWdadXJOcTU1d1Q1UUpYNUJLeXhuY21YRW1xcUpBMDJMREZFa29qeXk3WVZEM3h6YktqeFlwMFIxQkVfMV9jbEJB?oc=5",
+          "pubDate": "Sun, 25 Oct 2026 07:23:52 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Brewers lefty Aaron Ashby nears postseason scoreless relief record with World Series save - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSnpTMlo5TXNLTml3Z0ZQenA0bXdQUldENlNMMWY4TXR1VWVRTXlMdGF0MVZ0WFIyS3JZZlFfMnRyQU9Sc0xYZGp3YkRFa2c3aE9XaWw0WnZ3Qzc1bWQ2YmVhY05JeEVKRjRNNGhDbHllNW1PYl9oTWVjSGd3bFlZLWZ2WmdoNmRfN0hFajE0TQ?oc=5",
+          "pubDate": "Sun, 25 Oct 2026 06:58:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Drew Rasmusssen can't make it through 4th inning as Rays blow 4-0 lead in Game 2 loss to Brewers - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVktkaDJ2OWhZcXZmV2VPZzdfdlVSVkdDMkEyMWFVRU1FUTVtZWxkMEpOQWp5Y05TWUVBZzlUVkVJdTlKRlZ1NlNFTEF0ejQ1b3VtUVVmZkFTZ25XbDYtcHM5Ym13ZldrNmZLQng4ZWRqU3NOUmtPbHZqc2FFUUU2MVhxcVFYMEk3VjVROGFqMkZadUNHSFhYUmpwdw?oc=5",
+          "pubDate": "Sun, 25 Oct 2026 06:47:00 GMT",
           "source": "AP News"
         },
         {
@@ -131,95 +161,65 @@
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZ0d3Z0QwR1hSYzFramJkSlNLMGpjcW5BdDdUTldHZDROeWxHYnBodHpNSWM1TGlZREhWVVRXZTJlTHZhYUR1TzFDb0xHMzc5ZmlnVTUxZldXeUZGTHYydlhtOGVBNl91Und4V3hUVC1VeVZLZkd3MXNSbk1WdUdyTTVEUXJ3Y3Uzdy1NVHVjZ0hpMlNENm5V?oc=5",
           "pubDate": "Sun, 25 Oct 2026 06:39:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "College football | Latest News & Updates - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBscF9PZzh5MHFsTGlQMzFZMkRHaDdBbmdwSFhoMGhRb0pwZzB2b2FDNXZNcUlLVnl6WlpTWFVsRXNmQlphSFd1WTdPSWQ0VUlr?oc=5",
-          "pubDate": "Sun, 25 Oct 2026 05:45:53 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "As the US and China form AI blocs, countries are increasingly torn between them - AP News",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPakhwUzlHbnJOemg0S0x1WlNQSUZIaEtpZlNSd0JtZmszRlg2S3QtTzZla3o2WjdDdTlhUFk0M0UteG84UTA4TndIbUgycFJrTFhlTG4yRXQ2STNDOFBuWE10eDhfcVRuLTNJbWRTRkhMSDZzSXVrcGdCZmpkVG9jS3loUQ?oc=5",
-          "pubDate": "Sun, 25 Oct 2026 04:05:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "North Korean leader Kim Jong Un visits China to inaugurate a new cross-border bridge - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPX0I1TVQybGpFam8xeDVVN1NTdVFha1Q3Und2cjhZbHJnMG1CekZFTWEyMXI2VFNTVHF0MlF5ekIxM3plalZMVU9jVjZHanE2WnozM2xQN2x6WDA2NHh1NUVXRXIwZ2JVczFsQjZ5aXY2VU9tRk1kRWg2bDZpSlJKVzVFaVlhOFc0N0pnOUp0cWVwREY0b1JlZ2xSbw?oc=5",
-          "pubDate": "Sun, 25 Oct 2026 03:36:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Obama, in Midwest, assails 'cruelty' and indecency from Trump and his allies in the midterm campaign - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZkp6bHg5OWk2TXZXZndoNmVFcGlkRmktbEtieHpmckduS1BiSFB6dHN4N3dnamM2YUc0OVQ1d2VMSGZOUS1qQzRmRFZuZV9sQ0d5cjBwS1JJemtkRFBIZGdBSFpKVDd0bzdCWEpXSkJkZWE2ek9Pd1E1MXpSN0NVNUQ0enlqcEV6bFFhT1dJNWVjeUlxZHRjZFhtazV5TnpCZlBlUEc0eXA3SGZzQkdn?oc=5",
-          "pubDate": "Sun, 25 Oct 2026 02:45:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBwMFNyak8wbjBIcmRoX2hyLUNMU3o2NzFoa3UtTFl4UUFQU18tWnVzUWxhZGsxRS1IRXFWdWhoVQ?oc=5",
-          "pubDate": "Sun, 25 Oct 2026 02:27:02 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T10:03:31.407Z"
+      "updatedAt": "2026-10-25T14:31:25.515Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Three people killed and 14 injured in Ukrainian attacks on Russia's Belgorod region, governor says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSHRUX2c1M1VjUTdxb1pfekVNSTlXNlpIQzFJRkZjSXhCVEZyaXZ3MHk0RWlKalZhVjhwTHNQYWU1V0pWRHAzZ3A5UkR5TXpPVzYyblFTcDFKNmdDNmh2NEU0T1lZMy1BSllDck9UeU5JbEpWeUdmdlhBTDNDZnpUaEx5M3hCS0lXVUUwblRWaU9TWS0xaGRnNUNVb0ZTS1BZU29KaDc0cnphWEJWVXJ4Y0dyWDg?oc=5",
-          "pubDate": "Sun, 25 Oct 2026 08:19:46 GMT",
+          "title": "Trump campaigns in Michigan a day after Obama rallies Democrats - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbW50b2RKQnYxQ3pEY21lOWdDMTNwTmN6cDFsS1lKVmpWcDZ2U25TVGlELXpFMkZoOXJhU1R4WUF5NHNISmNKejJ2VnFnckRaUWlrVi04SFQxT2xOS19qQWM0ZkZsVmlpOFBjUVlNN3gxU2Y4aTRsZGtLRXZfWlVSV0xoSXd1em0xUUlfZzlIVDJGOElMdlpvVVY3ZGFDcjRGaDRQMlVR?oc=5",
+          "pubDate": "Sun, 25 Oct 2026 13:17:11 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Drone attack injures five people, damages industrial facility in Russia’s Perm region, governor says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQlpoQ2lWbHFpTkRvZUpZV1ZOVFlJNjY3RDY4UHBmS01keXdDNndROG1PY2lRRjJGWG5zVjRadmRua1hJNU1kUHZ1RUxyVHA4Z213eWN4Z3VjMnc0bVM3aW41eG9ucUpyZXFpQmtRNzJHM012TXBIa2tnZU5teFhpTnNwMWljQ01JMHZSdHNPUHFzUk5abDJBWXJWcEZ1UTdDbThaUE9PWTlGc3dWVmdDS3FrbVE2UGdiSGY0OURUWQ?oc=5",
-          "pubDate": "Sun, 25 Oct 2026 08:01:54 GMT",
+          "title": "Beirut's $13 chicken sandwich becomes symbol of Lebanon divide - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWERrNDJCWllyTDNzSWZjUVB2dHh5bGtoaU82c0tEWGUxclNVWm9MdVVSMTg2M1Z3eHdHdjJaNjRXd0FVdExMR3ktanhTNlF3MlRTbGhuelhQYzM2RWtwYWNiTmUwQWpUYWJzTlRiMGwxMFlpMWU5RUxQeldFTFlhdDJZR0tPeVAteXN5SC00VHJkQTdMbWYzdGhXaWJqT3QxTHFyVDBVb3kyQWVfclZKXw?oc=5",
+          "pubDate": "Sun, 25 Oct 2026 12:48:22 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Brazil heads to polls in runoff between leftist Lula and Bolsonaro Jr. - Reuters",
+          "title": "French protest groups demand more rallies as Macron faces tough choices - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQmJMN1JUSWphZktVT1hXNmhHdXJYblhCMjFhREdZTzR2ZWhKdWgwRnB1enEwWFp3TWxJY2hvN0tQX0RpSXBFdFJVRUJiYzBvMWJiMTRrUWs4U0tRdE1YQ0xSdmZabkFGWTNROWZLQjBrc1l1LURSU2d1NG1aMXRVTmpHRXpUTHFYR0hzU3VEem9tX3JPWExBZXRidV83VmZYY2g3cTBZX0tkb2pzb3hZVUt0dnhWalN1?oc=5",
+          "pubDate": "Sun, 25 Oct 2026 12:38:50 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Serbia votes in historic election as students seek to end Vucic's long grip on power - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZjJPNVlseUpvOWt6LUd1UlBrYnBhY3dDUks3Z2VEZHZFcExyQzBfWHZSdUxrLWVSY09DWHc4bEoybF9jVjBxaDFuR2ZuVW9LcDVhYkNHSGZIaUh5cTFGTlB2ajhva1dWM1ZSTUl4WDdFQjhXdjdOZFJ2LTYtMFRHR2w5ZHVIakxEVVRidDQ2bHRZQ2ZkaXBoRXdEQlUtdHozMTZpNA?oc=5",
+          "pubDate": "Sun, 25 Oct 2026 12:12:07 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Brazil votes in tight runoff between leftist Lula and Bolsonaro Jr. - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdkpfT3YtQXVCRlQ2RkU5d1JxQ1dSYUY5WXYydnVvN0lGWHB1NkR2MjIyb3BoZ250UVJfSEpTb05SRUx0VmFxS1pzWWNyVFhuZVRPVDRSVmVoTW9WSWFXWjQ2TlVoYTlNWTViSFRiZkMweWxnN2NzRWRUbjVHbFg2T3o4UDNzTmhlaEhTb3JSTDFVNTF4U2hJOE5ZVDFGV0VzR2U4UG1iN1c0cXhGYUsw?oc=5",
-          "pubDate": "Sun, 25 Oct 2026 07:28:40 GMT",
+          "pubDate": "Sun, 25 Oct 2026 12:01:34 GMT",
           "source": "Reuters"
         },
         {
           "title": "Disenchanted Netanyahu supporters are prize of Israel election campaign - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORkR4bHJlcGYyMi1nYkI4Wm9SeThiSEh4ZUVrdHM1NnpJSjV4eWdVOUxOWS13NzhWZ3RLbXY4Skp2aVhhT0ZUOFR1a0pNYkZzRFRjVjEtSEttMjY1Z1RKMHNvZFI5RVZidV9ONzFuc1lfdjFnRlJlUG84Qy1SNmM5UFkwU0FGYmFLeXFiYTlqU2hsci01T2JwVW1PZFZKT0RCVlVpMTg5VVZDQktaTi01R1pDc2p3RVN3YmpWeWlER1I?oc=5",
-          "pubDate": "Sun, 25 Oct 2026 07:27:43 GMT",
+          "pubDate": "Sun, 25 Oct 2026 11:18:55 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Iranian army says it shot down US drone over Bandar Abbas, Tasnim reports - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNjlxWUNjczg2SHFQamFEZDV0SVhZaHA5bFdqaVQzT1oxSjd0b2ZQQjd6MldHeEhKcUstbGJEa1QxMmFBMFhad2VnREVIa2xoT0tPWlFXVW5lcXVEYjMwdUd5NTRIYm0zTFpabXUxY2pCakRGM3JnWE1iNHc3MmtlbWduRno3ZWVGVWVpa2JtRjF4VDh5TEFHN21hUV9sQUhxOWpJMVVPNlhFMDd5SkJMekZkTFdtQzlnYnBQNkd2MG1TNzZy?oc=5",
-          "pubDate": "Sun, 25 Oct 2026 07:22:39 GMT",
+          "title": "Serbia election: Main players, voter concerns and what is at stake - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYjRvakxtazFCcGRqcjNhbjdXU2YweVRMVnQ0UGxncEIxZ2tDb19wdXdrb2ZpR3MwZm9qUWRNNzctT2tyNlRZVS1UYmVCUHJFNXZ2cHV1MjA4LUF6eFFkY193UjkzSmljMHhvNlJHUTZ0a01mYVpQRE1NUzl3a0NjYzZKV3dYU3kyeWpEZjlGUVJhcWwxWW1zWFpDaTdaa2VV?oc=5",
+          "pubDate": "Sun, 25 Oct 2026 11:06:09 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Borr Drilling rig sinks off Gabon, five personnel missing - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOd0syTVctQjBVNERoUW43ei1PUjIxVmJ0aENNdDFtaEwzQXZBZF9IaGNpdU1fX3VNQVZaVE96c3pURGhiSDdZVHFnU01TZF9uelpTRnFkcVZxQ0hzUG8zS05CMHFpRTg3NXc0SE5zSWdWbnNqLUM5Rm1Qd0g3bDJkNzZpQW45RDg2VTJNek1vcEptWUtJRlhkUW5jRXRLUjBZT2d0cHhVTi1TNDRCYnYw?oc=5",
-          "pubDate": "Sun, 25 Oct 2026 06:30:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Australian Grand Prix called off as rain spoils Phillip Island send-off - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVGs1SUxpZWhpYTkwd1ZyS096QnF4Uy1rOXI3VndUVU8wUEhUZXFLc2NZcm1wd3BteEZpd3NHOVowWFgxTVdyZ0g0aXdGSlYzNHlfaHQ1SVJDQS04V0FldW1VMW1ERjNWaURMM1AyWHcxWkwxZ29CRlZhMFNWLUFJVjVxX2FZR1dvajJZdV81cVdtaWNDWUtqUV9KMXFXZE5ZTFgxc0FzQVhfZDJBWjl2Vw?oc=5",
-          "pubDate": "Sun, 25 Oct 2026 05:14:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Eleven shot near Florida A&M university in Tallahassee - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVWtZTlJpR0w5THFmMVVrNzNLeVpBOGF4UmJwOFdkWE9oTVNmWHBmbWFlQzY0ZUg4TThoaE5Vb3ZFX1NKQ1lsWEYyU1Z4V3ZKZXh5QWROS0ZsRnB3SGc4dnlQZFhScGE2OVdSRVkwNkZaM0xZdmZwWUFVeHVJZ0xFRU9uS3VHZThiakdtUEFCVDdsQWUz?oc=5",
-          "pubDate": "Sun, 25 Oct 2026 04:36:00 GMT",
+          "title": "Four ways US foreign policy could change if Democrats win in November - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYVRLMHJmdldMQ1h3TUZkbmpNUUZqUlVTY1VPaTNpU0JLc2xua051SmgtQUJzcFlnRjV3a3VaWVctNFM0dF80X2VKMlM5UTNIQkV4YmJ4TTAxdDFVS2EtdFN6R2pfTDVTVnNfZjJOYXdxbTV3eGxQeUFPZV85ZjBNb0I2dlpVdU9DQkhDaWI2Z214Wko2cUVLenFCYWUtLVY5WF9ydlJOTmlkdjN4RloxQQ?oc=5",
+          "pubDate": "Sun, 25 Oct 2026 11:02:30 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T10:03:31.847Z"
+      "updatedAt": "2026-10-25T14:31:25.901Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T10:03:32.088Z"
+      "updatedAt": "2026-10-25T14:31:26.217Z"
     }
   ]
 }
