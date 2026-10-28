@@ -1,64 +1,76 @@
 {
-  "generatedAt": "2026-10-28T19:01:09.997Z",
+  "generatedAt": "2026-10-28T23:26:25.927Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "Myanmar diplomat breaks down as he urges world to 'end our suffering'",
-          "link": "https://www.bbc.co.uk/news/videos/cqz0ve10jxn2o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 28 Oct 2026 17:34:41 GMT",
+          "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
+          "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 28 Oct 2026 23:21:48 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Girl seriously injured in wolf attack at German wildlife park",
+          "link": "https://www.bbc.co.uk/news/articles/c678prm55gzzo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 28 Oct 2026 22:08:52 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "High-speed train crash kills at least 68 people in Spain",
+          "link": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 28 Oct 2026 21:38:54 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Bloodied, dazed and angry - how passengers' rail journey turned to disaster in Spain",
+          "link": "https://www.bbc.co.uk/news/articles/cm9qzd47ng98o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 28 Oct 2026 21:24:41 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
+          "link": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 28 Oct 2026 21:16:30 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Israel's election deadlock is a sign of the country's deep divisions",
+          "link": "https://www.bbc.co.uk/news/articles/cqz0ve94ygpjo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 28 Oct 2026 20:53:02 GMT",
           "source": "BBC News"
         },
         {
           "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
           "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 28 Oct 2026 16:59:47 GMT",
+          "pubDate": "Wed, 28 Oct 2026 20:24:39 GMT",
           "source": "BBC News"
         },
         {
-          "title": "Watch: At the scene of Spain's deadly train crash",
-          "link": "https://www.bbc.co.uk/news/videos/cw5ynjgy3vvgo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 28 Oct 2026 16:45:16 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "What we know as Flávio Bolsonaro lands in US after Brazil election loss",
-          "link": "https://www.bbc.co.uk/news/videos/c6x29djyx7g9o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 28 Oct 2026 16:30:29 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "What we know so far about deadly Spain train crash",
-          "link": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 28 Oct 2026 15:36:11 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "How could Israel break election deadlock? Here are four scenarios",
-          "link": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 28 Oct 2026 14:30:31 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Israel's election result is messy - here's why",
-          "link": "https://www.bbc.co.uk/news/videos/c893zeknlvnno?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 28 Oct 2026 14:26:24 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Netanyahu and Eisenkot face difficult paths to power as neither set to win majority",
-          "link": "https://www.bbc.co.uk/news/articles/cjy561y4pl56o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 28 Oct 2026 10:35:13 GMT",
+          "title": "How did Flávio Bolsonaro end up in Miami?",
+          "link": "https://www.bbc.co.uk/news/videos/ck4g1xe5xny4o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 28 Oct 2026 18:51:05 GMT",
           "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-28T19:01:08.379Z"
+      "updatedAt": "2026-10-28T23:26:24.927Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Trump administration will allow pharmacies to make popular peptides",
+          "link": "https://www.npr.org/2026/10/28/nx-s1-6021030/peptides-compounding-enforcement",
+          "pubDate": "Wed, 28 Oct 2026 18:26:48 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Trump administration wants to remove regulations on a super planet-heating gas",
+          "link": "https://www.npr.org/2026/10/28/nx-s1-5995910/trump-wants-remove-regulations-planet-heating-methane",
+          "pubDate": "Wed, 28 Oct 2026 17:15:09 -0400",
+          "source": "NPR"
+        },
         {
           "title": "New book revisits the 2023 killing of an unhoused man in crisis on the NYC subway",
           "link": "https://www.npr.org/2026/10/28/nx-s1-6019370/jordan-neely-daniel-penny-anand-giridharadas-man-in-the-mirror",
@@ -94,30 +106,54 @@
           "link": "https://www.npr.org/2026/10/28/nx-s1-6020217/spain-train-disaster",
           "pubDate": "Wed, 28 Oct 2026 06:09:46 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Senate candidates built up massive campaign war chests with out-of-state donations",
-          "link": "https://www.npr.org/2026/10/28/nx-s1-5940017/senate-campaign-fundraising-actblue-winred-ossoff",
-          "pubDate": "Wed, 28 Oct 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Why many student voters have a right to choose where to register to vote",
-          "link": "https://www.npr.org/2026/10/28/nx-s1-5793936/college-student-voting",
-          "pubDate": "Wed, 28 Oct 2026 05:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-28T19:01:08.569Z"
+      "updatedAt": "2026-10-28T23:26:24.963Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Federal Reserve keeps rates unchanged despite elevated inflation, gives little signal of next move - AP News",
+          "title": "Trump calls for prosecution of Democratic Alaska Senate candidate over spoiler candidate controversy - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbG5oNWFHU282dUI5bk9LMUhXNERoZlhnYWpCbm5RY1lhRGZvdHZUZVV6VXRBUUE5aThnZFpySkhGYXh3S1EzRG4tUXNqYkRJS2N5VUlMRndjZEpURXJQSWdZeE1DajAxSG9ZR3MzVGhiUDAtdUtETERqbXpWMGhJUzNIVXVFLXBmQXdPUVhGaWxCdGczTHdROTU3ckVsaWZXZjFIdi1LSQ?oc=5",
+          "pubDate": "Wed, 28 Oct 2026 23:18:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Federal Reserve keeps rates unchanged despite elevated inflation - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdmpNR3hXT3B1c2RacHY4TFZnNjlfaTY2c0tXMXZjSWE5Z2JCZlNDZTE0dGRQYjNEejl5ZXFILTNPQ05pX0NyRWpwNW1YVzdpREhYblpHWTZMZkkzNFZnVTZ1NWV4M3FtR0VMUmRNTjczY1NGaTEtSFptWEY0NF9RZ1otWWdjMTZDYXE3SHRWM0NhdEtyczFDeXFYT3RWVF9DTmdGTHdGWHR1QQ?oc=5",
-          "pubDate": "Wed, 28 Oct 2026 18:53:00 GMT",
+          "pubDate": "Wed, 28 Oct 2026 21:54:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Wendy’s, struggling with beef prices and growing competition, gets a buyout offer - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPXzloNlJFcFRGdXY5azdsVm1XVm1IV0VYem1YcU5jb2VvTl9XaUxwbEJxajZ5dDZ0SUdMblR1T2RreEFKZkdKNnQwMjRiNVRpNnJuc0xsV1dEQ0E5OFdPLW1vS1BZWEwxcXRYb3VnQlhNUlV5Nk8wSmxhWUZfOWE4XzNVbm1hbzZ3RFZGRzZB?oc=5",
+          "pubDate": "Wed, 28 Oct 2026 21:22:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Defeated presidential candidate Flávio Bolsonaro and his family land in Miami after fleeing Brazil - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOTlDM3hOQUxUMmVMYTJUeWxDVXAyRnh6Y0xSaFR0cTdHeDY0aW9LNnFDdUxXczNGenlLM2FpbXhrLWpnbFVVYkRUUFJfUDdMX3Y2YktHa1prTi1TRE9NSndVWjQtbkIybHRJdTZxUmYtR00wMHE0ZnZvcTFUSnRNMHY5OFJCbUE5dVVseExuVHNOUG53bXVfbmpZYThFSmlwQkpERnV4YnR4TjhZLUhV?oc=5",
+          "pubDate": "Wed, 28 Oct 2026 21:21:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "RFK Jr. eases access to unproven peptides despite opposition from FDA scientists - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOanQ5LWFuekk1QTdOVThIM2R2TXYxSzdXTlZpWGdDcTFLeDdNR2U0NjRSWVpxV2hRQ3FObVdnNFFwR1BTYjNhVGNTeDl5N0VfYnYxMGVSdmlpZElVYnBUU0lORzhPZDFaZHlWTmR2aDVOV1dyTUI4WFhVazdtbENGeXZ0MEN6QnRpenM3cFVDa01zUQ?oc=5",
+          "pubDate": "Wed, 28 Oct 2026 21:12:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Netanyahu and top rival face postelection choices that could redefine Israeli politics - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVkhkVlMyeHNjUXZ4YXlWMVNFVXZMWkwzRW9qQUlxWkhVZHJiTlhRLTFIbjJzOUVDOE1QQ09acFBOM0xPOUstY1NMVXV5RlYzaVl5cVhvVE9MZ3lpQk44RFhfSjR2eEVFYm1RekhzVzBFMVI0TWxjM2Znbi1rSkhxVndVenhQdWpJdGgtNG1LQTh2dUdWbmQ4SEwwWmtvMEVEcGh2SUljSkpBYWloNnVmcWhiOTVzTFl5dEE?oc=5",
+          "pubDate": "Wed, 28 Oct 2026 21:06:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Dolores Huerta, influential labor leader, feminist and civil rights icon, dies at 96 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTTZ4U1JSUThYRHFHNF9vOWoyMWtXanlHUmZWMDdWY2x0cGoyR0ttOTZ6OEhCaFl3S3NucktTZmZreUI0X2hSS25PVGNzTnZCWW9Hakpad216XzlSN2pQSnhQdDJPTjNFckZOV3V6VHZNTzRSX3dzampXNVZFcTRiaF85QmFxZw?oc=5",
+          "pubDate": "Wed, 28 Oct 2026 20:56:00 GMT",
           "source": "AP News"
         },
         {
@@ -125,101 +161,65 @@
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNejlKVDZEb2JQZ1lKZzBJSEZISTlCUUJBTEJYdVFJNmRTbi1wY011V1JrUFJRY0k4RjNYaHoyZ2VnRjUyZzJjWXVlNXRKOXU0NmJ4TndFVElHSFJ1WDZkQlFDZmJuVlJPRXRfMXVFbGtCVFl6bVNGd1lkRDFxWkc1QmFQVzlCS00?oc=5",
           "pubDate": "Wed, 28 Oct 2026 18:49:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Defeated presidential candidate Flávio Bolsonaro and his family land in Miami after fleeing Brazil - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOTlDM3hOQUxUMmVMYTJUeWxDVXAyRnh6Y0xSaFR0cTdHeDY0aW9LNnFDdUxXczNGenlLM2FpbXhrLWpnbFVVYkRUUFJfUDdMX3Y2YktHa1prTi1TRE9NSndVWjQtbkIybHRJdTZxUmYtR00wMHE0ZnZvcTFUSnRNMHY5OFJCbUE5dVVseExuVHNOUG53bXVfbmpZYThFSmlwQkpERnV4YnR4TjhZLUhV?oc=5",
-          "pubDate": "Wed, 28 Oct 2026 18:20:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Dolores Huerta, influential labor leader, feminist and civil rights icon, dies at 96 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTTZ4U1JSUThYRHFHNF9vOWoyMWtXanlHUmZWMDdWY2x0cGoyR0ttOTZ6OEhCaFl3S3NucktTZmZreUI0X2hSS25PVGNzTnZCWW9Hakpad216XzlSN2pQSnhQdDJPTjNFckZOV3V6VHZNTzRSX3dzampXNVZFcTRiaF85QmFxZw?oc=5",
-          "pubDate": "Wed, 28 Oct 2026 17:16:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Israelis await final election results as Netanyahu rivals weigh joining forces with Arab parties - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVkhkVlMyeHNjUXZ4YXlWMVNFVXZMWkwzRW9qQUlxWkhVZHJiTlhRLTFIbjJzOUVDOE1QQ09acFBOM0xPOUstY1NMVXV5RlYzaVl5cVhvVE9MZ3lpQk44RFhfSjR2eEVFYm1RekhzVzBFMVI0TWxjM2Znbi1rSkhxVndVenhQdWpJdGgtNG1LQTh2dUdWbmQ4SEwwWmtvMEVEcGh2SUljSkpBYWloNnVmcWhiOTVzTFl5dEE?oc=5",
-          "pubDate": "Wed, 28 Oct 2026 16:44:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "The Latest: As votes are counted, no clear winner emerges in Israel’s election - AP News",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNng4MnVNRnlIRFlsX19qMzVkeU5oSG1wWnlzcGQwUDVxQ1JBLXlyZWgwTUtiMGx0S25QaXp0R3poTFJmZ2hMR1k2cmk3U3RHU19BSWt5dTYtTUxlZm9ONzhMU3lLbWF3RWNDMFFwNXNnVTdFaDhtbURrYkRnbkJuRU9vR0c1QkkwbWdYOEdYNll5Si1yVGhoVDgxZEE0azluRi15ZWdZQ1BENDZGOG5mQWtjYXQ?oc=5",
-          "pubDate": "Wed, 28 Oct 2026 16:42:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "UK offers modest support with energy bills in the face of Iran war price shock - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZVA2cnhSTWpRMXB1Rm1BekEwRUtDMXFJMTJETGtGSUt2b1RvRlJnZ2dpbWdZV0VWSDBfV0FYY2dKUXNXQTJXeUNCYjRqZEU1cGs4aF9lenJYTGxyLUNyV2JrbENCY1E4Si02Um1odU1zOU9wd1I3TV9VdDlpdW5KRlY1TXdEWVZaSUhjRE1WWVBvdkRHUmltRnpiQ1V1R1pEY3FVZ0dKNA?oc=5",
-          "pubDate": "Wed, 28 Oct 2026 16:25:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Putin seeks to expand ties with African countries at Russia-Africa summit - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQ1pvcjY2M21FUVRNbWtjYkYyTkt1OTlGdGZXTTBEX25UUWd3Znh6dmZmc0NmNWZ2VVVvbG52YmkwaV92SHdKNXRqbmhOZzc3MEExalFwb2p5eDFIeEcyZ0dFT3BZbXZkXzM4dmNKQnBVdTduc282Yk11WC1rbE9rS0xUSzFFWjNSUHdwLU44TQ?oc=5",
-          "pubDate": "Wed, 28 Oct 2026 15:49:56 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-28T19:01:09.163Z"
+      "updatedAt": "2026-10-28T23:26:25.422Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "The banker, the basketball star, the cardiologist and the chemist: meet Serbia's potential new leaders - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMFZyZkFCWm1xNUhablhhMUdOY3B2R2xBUmhGYWNMd09SUUxuXzVLaFVhLVBvOEl3aXJIUWxEdVlfaE9xMk9MX2lsS1VocjB1TnlRazdzRG50MWhMX1dzbUtoS2dBTjk1NWhEd003MVg3bkk5N1RRT2QtaVFWMk1NYXU1QldsRDVtUGZZSF9jYmo3ek5WYWJFdllmUzZoeDUxUHJqekVJd2UxR1FWNi15U0JfcjBEYjhRYzJxNA?oc=5",
-          "pubDate": "Wed, 28 Oct 2026 18:29:38 GMT",
+          "title": "Insight: Trump expands hunt for noncitizen voters with broad subpoena campaign before midterms - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLUotYWh1WFdrMnphczZlaFJpUldzNFo2TnVweFZVbDdVT1NvY0JJaHV1dV95ZnQySUtha2F3dkFnbGlMcjkwREh2ZldydDJab3JqaGRJb0E1emtsR2hOUTd4MTVmbG1LWUNPLWJVenJZQTQ5cnFsaEFfcm5EU1ROMW02Y2Y4dkRRbENOUEtRVEdfbVUxSjhwbXM1b2RqWnBGZlgtTmJVNjlhN053bVcwTnY2UFZEZlNz?oc=5",
+          "pubDate": "Wed, 28 Oct 2026 22:57:19 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Cruise ship residents left stranded in Cambodia after fuel prices soar - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPb3J0MEVjUDYzWV9pcnBYVTBRcFd3SHZZVVF5d29naldtQjRmRGhlOGZkemtiUEdCWU0zUXFNR3FvLS05Mjc2SFRHSXU5SlZpSnRTenZOcFYxV3lyVFBXRmlKZHNxX0lOMXZkRUJHYXNHZGFxMVgzN3kySVRJU2ctb19hYUZYRElpQ1JYY2hmTkhyeFFJVy1GWVZZc08tUERFb3RhR0wwdGM3YnNxWTMzalJISUdJRTRiN3YtczZrRQ?oc=5",
-          "pubDate": "Wed, 28 Oct 2026 18:28:26 GMT",
+          "title": "Fed leaves rates unchanged as it awaits 'accumulation of more information' - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaU93czlpTHJXMTJGby0yOGppZGVlVkZzZW4tNC11WTcwVk1yQUZHTVMza0dTLURMRi0tTUtYTHhITkI2OVBWN2k0anZCN2liNnlyNFpaTmFTaWlFTHItWmtBXzh1VWhkRjZBNjVDejQxOGNUTW1HWWRBUzNjbGdKUDV0MlFSWXRsaWQwMXpWQXI?oc=5",
+          "pubDate": "Wed, 28 Oct 2026 22:44:54 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Wall Street wavers as Federal Reserve holds key rate steady, pending more data - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQVNrQUVwN1c3SjBCODU1TXUwRy1hQ2lIQUxFZkJ3dGhXa0NZalhVTFFoeTU4MlB3VDRwWE1QRktITG5FZnd1eUVDTjRUankwRGgzRkRKTGdwZDVDbWUyTWVKNlRKVld5RVdaTllzZkVhdXUzNkZUOU5RWWNOQVJTY2xuaDJZZXlybC05LXRmTmpPb2RvVlliLWxBUXZVRldXU3kyY2pWb1ZmZlFNUU1KMmN4aV9wMk9Lai01YXcza0JqdDQ?oc=5",
-          "pubDate": "Wed, 28 Oct 2026 18:27:02 GMT",
+          "title": "Microsoft's cloud growth, cash flow offer respite from AI spending fears - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPLTNUYVRBd0RuOWg5SUc2SzFCSTR1TGJsRndOTjNDWmtkeU1fRHZwWUxaakxsdE9sSV8tZzZDMXpXV2dDNDhhbTMyM291Z0Rua2lNSEwxaVZlTVVMbG5icUY1dllTNm9QVEk1R0NpdHdNRzVmSFA2MXZublNmaGN4NXJ5RGdMeWhiTHZmdENGX0t6UUdGaWNLS0JkbkVHWkRONXk5dkg0ZFA1T3Q0dGVR?oc=5",
+          "pubDate": "Wed, 28 Oct 2026 22:32:38 GMT",
           "source": "Reuters"
         },
         {
-          "title": "US health department to allow temporary sale of some unapproved peptides - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWFVsRUVKR19XanFDd1RoMTJyVVVFVWFNRlZtdExJNjhxVDB6cUxLUmpST2xNVnhwdzlXNWtOZFVXTDVtMTZrcF8xcVBBam5tWk1na3RSbEhrQ012NGNhTDlZOTJqSUlhVkFUUmhlendXZ0VLUGRqVWM4YXktNTJxYm9PUGRYb3FBLWViT2xwY2kwbV9DNlVGQUdMVXRvN2NrdTNaRzBSLWl1Q3lia3ozR1N0NXdzb0dhT0pz?oc=5",
-          "pubDate": "Wed, 28 Oct 2026 18:26:20 GMT",
+          "title": "Libya's eastern administration bars entry to Iranians, Afghans - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZWNkSzNWNkFQZElrN2R4NFJhMzVCaVdtSUJ4R1lNU0xHSXhZNF82X20taGlpSGJwRzRxdnFyTWYyUW15NW0ybmFuRlRHR2pVQzIweEZXTE41TUJ1emRmY0o2QWxiMnctR0VRSEpreUxUOEZzb3lnYmdJWmNjejE4N2k5dFBIU1VPZzN2MVVXdENQamJRS0R1V0FHQmFQeTl3aUplSjZIOTlZdW5kYnE1VE13?oc=5",
+          "pubDate": "Wed, 28 Oct 2026 22:20:02 GMT",
           "source": "Reuters"
         },
         {
-          "title": "At least 68 people dead in Spain's second major train crash this year - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUl92blFTT3BtRmEwUW1tNWNPX09pUzNYNEhrSUZreGM5bWRIdG5FaVRYal80MTR1MHBkeEdQak5sNzNwdmlwc3d6YWNPUEd1U1ItX2gxaGJSRk1LWGt4MDFhREVINXFvZWNTQWdIV3B0YXhPQWZKZ2UxUEpWTk9YbjdXX0doZEJfcC00TUlSOVhYaUNQWllyMU9QVkxOZw?oc=5",
-          "pubDate": "Wed, 28 Oct 2026 18:23:15 GMT",
+          "title": "Flavio Bolsonaro, from US, declares himself rightful leader of Brazil after losing election - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTXM0WlJ4eWFnOU96alFqZTd5VklwV1pETlVBNjdhejYzX0hXUHQzZFczWkxRMzhxOGhzOWJqSGdwRTlubFRqMTJQckJ5NXljSFFqYzB2UXRReTVCc0lDR3BvOVlhcERydVBUU3duZFA3THNRZmt1OGZseURzeDAwX2ZCSE5tX3pRUUJ0elpaMU5odHFkcmhJQVU5OS1yRGp4N0FPVVVEWWJQMXFWNHQyOExkVWVjVFQtVDl3SGcybkt3ZzRE?oc=5",
+          "pubDate": "Wed, 28 Oct 2026 21:49:13 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Israel's election gives survivor Netanyahu a path to keep power - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaUowdTlPaUFzb0tCdUQ3UzdYalJsS2ZEYWNvMUVtUzdKams0b051VWNIcXNPdG5wYlFzaWZIZVJfcVFTb192M3ozWk1kcW8wY1NNd1FSMzAzQ2FGTm9Mb0tfU21BenhMSXg5bFYxcXZqRlkzdHdESlZYVFlnLW82eUNZeER2SFU5ZXNzdExzLWxBYmtRTDRiMVFQQk1BYjB5dUdGQUEwb0pWYlA3VWluaA?oc=5",
-          "pubDate": "Wed, 28 Oct 2026 17:55:59 GMT",
+          "title": "Alphabet shares fall after revenue miss, cash burn worsens - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNajBhM1htcElGckpqVEh4RzlEdTM3emlCNXFUUHhWd2JBSTROUEYzOUNrSkxSWm1wVHZNbEl0TDVCbEZ5WnBSMVRkY3ZQZTJOQTgxYXJXa1daRDZMRmUwc1c0bWExV29zcGhJM1Q3eWc0M2RCblVoTUxzX19qUG0wVUNlT1N3QU5uNE02aDhjNW13LVlaY0dib203U3J2Um9PUWsySlEzTFlLbkFRc25jbHA5TkFpbzlBX3pJUmhGX0E?oc=5",
+          "pubDate": "Wed, 28 Oct 2026 21:47:55 GMT",
           "source": "Reuters"
         },
         {
-          "title": "SAP swaps costly AI models for cheaper alternatives, targets over €2 bln in gains - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbThIY3MxWUdLN1B6WTRJQVVTNVdUVXJrdmFub0lNakZ1cmY4ajZaMmNTNmgtMlVhZS1zNE5tdkZsRm1CMDhvMGNpYTRObUFKR1JUZHMyOTE1Ukh1VktYVjZvOHpwZ293OVhRb2NWLVllWVVSN2ZiZGRsdXBvRHBfU2NRUzVzUHpjOTI3TFNaM2N4dTNmT3piTlM3UlRaTklYOWpFOUQyNFNyay1TanZja05SZFFLYk9WV3B3Vg?oc=5",
-          "pubDate": "Wed, 28 Oct 2026 17:48:29 GMT",
+          "title": "US bans imports from BGI Genomics, MGI Tech, citing ties to forced labor in Xinjiang - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN1h6RWZLcXNVQjdLOTlHekdERnBUZjdrNWRLblZHVDMxSlM1WjQwOEV6WlNGdWc4VU1fTGYtQW5qYkdRaU9CendtWlB6amhfaGljZmxnaHZ2RUhoSWxzem5VV191RkR0cGtvTDVMWkpxeXhWcHZZdS1jcm5lMmdCcXJNQTlmOHRmbXkzZXBENDNrUDZtZUM3d09oWXVEdHQ1bXBaVnl2TDFpRlJmVUFsNjYzUngxbnc?oc=5",
+          "pubDate": "Wed, 28 Oct 2026 21:41:54 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Wendy's gets $1.4 billion take-private offer from Peltz-led group - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYnFKUDFDOS1hQ2VWYzRDVXdvOHJ6dkhDeG5ITElPUzc5SkdZN2FxMXhVeFJpb2JEZlJZN0ZzdUVIQ3VuUC0xeEhrVTZza2RNNHpTQmx3bkh0VjBwSE1sWFdTdXV5dDdibmtnOXBRZWtoMzMzUnRSOTQzclNHRnc2UVlHQlJncE1NYmFFMFlwZGt4RjU3YmJiS0VibUNpUXV0M3M3czRsbW5HQnM?oc=5",
-          "pubDate": "Wed, 28 Oct 2026 17:43:40 GMT",
+          "title": "Election polls in New Zealand continue to show no clear outcome - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOV195V053Xzk0NjBOR2hydFBDYWw4QkNsVDNIekZsTkViakRHNGEybTd1M2otSF9jZmtmTWNFX0daSVA5bDRmV1JlSWNhRmdLdDR2SWRPQnJ1REhmY3hncHc2UzAzQ0wtOU1vTDdBN3B2VXlSRlR5cUJWLWhybUVuQVJPYmd0RWlYOUlzOWxsQmROQUdrV1phUUVsNDRsdFhqeGwxOWpHNTNWWUVlYWc0c2pn?oc=5",
+          "pubDate": "Wed, 28 Oct 2026 21:30:48 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-28T19:01:09.913Z"
+      "updatedAt": "2026-10-28T23:26:25.864Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-28T19:01:09.997Z"
+      "updatedAt": "2026-10-28T23:26:25.927Z"
     }
   ]
 }
