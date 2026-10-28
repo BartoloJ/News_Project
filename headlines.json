@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T00:21:40.181Z",
+  "generatedAt": "2026-10-28T06:08:35.660Z",
   "sources": [
     {
       "name": "BBC News",
@@ -7,13 +7,13 @@
         {
           "title": "Watch: What happens now after close vote in Israeli election?",
           "link": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 28 Oct 2026 00:04:29 GMT",
+          "pubDate": "Wed, 28 Oct 2026 04:22:59 GMT",
           "source": "BBC News"
         },
         {
           "title": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
           "link": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 27 Oct 2026 23:41:23 GMT",
+          "pubDate": "Wed, 28 Oct 2026 02:20:25 GMT",
           "source": "BBC News"
         },
         {
@@ -54,11 +54,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-28T00:21:37.991Z"
+      "updatedAt": "2026-10-28T06:08:20.167Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "U.S. to issue visas to Flávio Bolsonaro as his whereabouts remain unclear",
+          "link": "https://www.npr.org/2026/10/27/nx-s1-6019678/u-s-to-issue-visas-to-flavio-bolsonaro-as-his-whereabouts-remain-unclear",
+          "pubDate": "Tue, 27 Oct 2026 21:58:08 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Southwest flood damage estimates are hundreds of millions for New Mexico alone",
           "link": "https://www.npr.org/2026/10/27/nx-s1-6019352/southwest-flood-damage-estimates-are-hundreds-of-millions-for-new-mexico-alone",
@@ -66,7 +72,7 @@
           "source": "NPR"
         },
         {
-          "title": "Israel's election turnout soars, lifting opposition hopes of beating Netanyahu",
+          "title": "Israel's voter turnout soars as Netanyahu faces a tight election",
           "link": "https://www.npr.org/2026/10/27/nx-s1-6019381/israel-elections",
           "pubDate": "Tue, 27 Oct 2026 16:45:39 -0400",
           "source": "NPR"
@@ -100,16 +106,10 @@
           "link": "https://www.npr.org/2026/10/27/nx-s1-6010370/el-nino-floods-nairobi-green-army",
           "pubDate": "Tue, 27 Oct 2026 10:12:35 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Democrats have a midterm edge, poll shows. And, Israelis vote in high-stakes election",
-          "link": "https://www.npr.org/2026/10/27/g-s1-150052/up-first-newsletter-midterms-polling-data-voter-fraud-israel-prime-minister-elections",
-          "pubDate": "Tue, 27 Oct 2026 07:39:52 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-28T00:21:38.572Z"
+      "updatedAt": "2026-10-28T06:08:20.356Z"
     },
     {
       "name": "AP News",
@@ -163,7 +163,7 @@
           "source": "AP News"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-10-28T00:21:39.054Z"
     },
     {
@@ -218,7 +218,7 @@
           "source": "Reuters"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-10-28T00:21:39.607Z"
     },
     {
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-28T00:21:40.181Z"
+      "updatedAt": "2026-10-28T06:08:35.660Z"
     }
   ]
 }
