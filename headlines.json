@@ -1,13 +1,31 @@
 {
-  "generatedAt": "2026-10-29T21:41:16.186Z",
+  "generatedAt": "2026-10-30T01:46:00.949Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
+          "title": "Young athlete and former minister among victims of Spain train crash",
+          "link": "https://www.bbc.co.uk/news/articles/cr78plp1p9yvo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 29 Oct 2026 21:33:35 GMT",
+          "source": "BBC News"
+        },
+        {
           "title": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
           "link": "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 29 Oct 2026 21:31:12 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Watch: What leaked audio reveals about Spain train crash",
+          "link": "https://www.bbc.co.uk/news/videos/c6vgjeg0myzgo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 29 Oct 2026 20:50:25 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
+          "link": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 29 Oct 2026 20:21:54 GMT",
           "source": "BBC News"
         },
         {
@@ -23,12 +41,6 @@
           "source": "BBC News"
         },
         {
-          "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-          "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 29 Oct 2026 15:47:20 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
           "link": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 29 Oct 2026 14:58:28 GMT",
@@ -39,30 +51,36 @@
           "link": "https://www.bbc.co.uk/news/videos/cm0rlxxpng5eo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 29 Oct 2026 14:49:25 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
-          "link": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 29 Oct 2026 14:17:35 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Rock collapse kills two in Turkey's Cappadocia, local media reports",
-          "link": "https://www.bbc.co.uk/news/articles/cknv08nvzld4o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 29 Oct 2026 13:44:39 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-29T21:41:15.818Z"
+      "updatedAt": "2026-10-30T01:45:59.741Z"
     },
     {
       "name": "NPR",
       "items": [
         {
+          "title": "Justice Department issues subpoenas to California election workers",
+          "link": "https://www.npr.org/2026/10/29/nx-s1-6022560/doj-subpoenas-california-election",
+          "pubDate": "Thu, 29 Oct 2026 21:35:54 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Alaska's all-important Senate race is roiled by a report on alleged spoiler candidate",
+          "link": "https://www.npr.org/2026/10/29/nx-s1-6022069/alaskas-all-important-senate-race-is-roiled-by-report-on-alleged-spoiler-candidate",
+          "pubDate": "Thu, 29 Oct 2026 18:23:38 -0400",
+          "source": "NPR"
+        },
+        {
           "title": "Patrick Stewart, a perceptive patriarch in 'Star Trek' and 'X-Men,' dies at 86",
           "link": "https://www.npr.org/2026/10/29/1230906945/patrick-stewart-dead",
           "pubDate": "Thu, 29 Oct 2026 16:29:13 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Some rural Republicans in California say redistricting has left them without a voice",
+          "link": "https://www.npr.org/2026/10/29/nx-s1-5902139/some-rural-republicans-in-california-say-redistricting-has-left-them-without-a-voice",
+          "pubDate": "Thu, 29 Oct 2026 16:19:31 -0400",
           "source": "NPR"
         },
         {
@@ -88,138 +106,120 @@
           "link": "https://www.npr.org/2026/10/29/nx-s1-6018248/fishing-is-a-key-issue-in-alaskas-tight-u-s-senate-race",
           "pubDate": "Thu, 29 Oct 2026 13:21:58 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "US and Japan agree to establish a Japanese facility for joint missile production",
-          "link": "https://www.npr.org/2026/10/29/g-s1-150666/us-and-japan-agree-to-establish-a-japanese-facility-for-joint-missile-production",
-          "pubDate": "Thu, 29 Oct 2026 11:58:27 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "China elevates a military general to the Politburo and seeks to strengthen party discipline",
-          "link": "https://www.npr.org/2026/10/29/g-s1-150645/china-elevates-a-military-general-to-the-politburo-and-seeks-to-strengthen-party-discipline",
-          "pubDate": "Thu, 29 Oct 2026 11:53:46 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Who benefits when massive AI data centers come to town?",
-          "link": "https://www.npr.org/2026/10/29/nx-s1-6022096/who-benefits-when-massive-ai-data-centers-come-to-town",
-          "pubDate": "Thu, 29 Oct 2026 11:41:59 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-29T21:41:15.881Z"
+      "updatedAt": "2026-10-30T01:45:59.863Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Patrick Stewart, legendary actor of ‘Star Trek’ and ‘X-Men’ fame, dies at 86 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQS3cxRGJjSXBXVU1QdWZQa0tFZnJiR1pvRW1WLXZJSmRBZlpsV180RVNPdEZBUzJFazlsS1lfZ1VNM212VzFCTEo2ajlMcm9TLU8tVktRTnYzazJpWWxmcV9TS01xWW1jdTh6ZGVQRGZuYV8zUnJ6V2R6WnhoYjdrcnFhYmxWS1E?oc=5",
-          "pubDate": "Thu, 29 Oct 2026 21:27:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "What to consider if a company that made AI-related job cuts wants you back - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYTdOU2U4bUpXVkkzRE5WSlVibEo4N0RTTkVkUENMT2ZydXhmTEVsX0pVVTdadFYwcEtWYzZtamNwX3Y4dHZfLVdZYnhzSlFQYm9QaHBWMzVUdDMtdm0wVFhqTmotZUVTOGVXSHFSc1JvTm9ucWZHMVNmMnk4WWZEVlp1U29zTm9pMmVMY2hwUENPLUxGY25xRmd4dXBLNmR1Tmc?oc=5",
-          "pubDate": "Thu, 29 Oct 2026 20:51:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Justice Department issues new subpoenas over Alaska spoiler candidate controversy, AP source says - AP News",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZFMwOVMxQVRwVnBFam0waFlKVG8tQ1poNGdDUmhPaXlHX1A0bVRscWFGSmwtMnNtUzFMQnAtbkt4WmtJbWRFUnNnYWhPVGFHOHRsTkdsTzducml1dVlhR25LQTFaeC1Ld0V6amhGS0doakg2dFZ0ckhDeVhqVndUTmliLW8zWDNZV1NvT3pxbk1zdkN2ZFBNaWxnS2FyeldUeFM5YmJmQ1o1QnMyeXJ5YzVjMA?oc=5",
-          "pubDate": "Thu, 29 Oct 2026 20:48:00 GMT",
+          "pubDate": "Fri, 30 Oct 2026 01:36:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Trump cancels rallies in Kansas and Iowa, opting for telerallies to reach more voters, RNC says - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYjFUTkJXRlZDN0E1bEFRZS1lNkZLVzNtQThKbEZIRFVjS21PYTVFUG1RaFp5b01CZUJOTi1IVnd2cWVjNlZOdnI3QTJwcUQ4YUN6OUhOSmNGeDMyaVM5WFVJNUhueWd3VU1UVmI2cncxanJGeHZEUDdJRFdaTURUOUtOMEt0UFhWb1V0YTYtX3JiZFo2ZE1mUUlWLUZHa2RZTlEyM1VTMk1EVWl4c0E?oc=5",
+          "pubDate": "Fri, 30 Oct 2026 00:48:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Justice Department subpoenas California officials in escalation of its scrutiny of elections - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNakFiOVpxcFZlUUh1dGhCMDhvRUFkbDBzV1ZlUEZzeDZ0bS1CVkMtUVBCT3EyVktzTzQxbndDVTRGVVc2LVkwRjlGQ0VPYktiN1VNREpIQmFDQ195WEJiRmQ0SDJzdEVBWE0tWjVLSEtzQVdUSi1LRFFuSXRLOTlIM2ZpOHVHVjBuN25kVFNqZ3VCNHR4Rkk0ckJKdDd1NnltdWtPbVdGYmpKRGdsRUVZ?oc=5",
+          "pubDate": "Fri, 30 Oct 2026 00:33:00 GMT",
           "source": "AP News"
         },
         {
           "title": "Man pleads guilty to federal hate crimes in deadly firebomb attack on Colorado demonstrators - AP News",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVy1lNExhanJRLWpzZDJiNjc4M204T1RoaThkMVhnbkk0Y2lXbzA3UGZRZHZNaUhfcmFxcS1MaFlXTE9adUNiV1B2cEF6bmVhTVp6WnByWUVJdDNERzlHdzdMVExBOGF2eFVwRjdjMzR3UlJyNTJwcXhCU0dOay1zbk50OXJpUTBCZ3JSMVdZY2RFQ3JvTW9FSzRZNTU5MHhCZkpzVVU0WHBFTXZh?oc=5",
-          "pubDate": "Thu, 29 Oct 2026 20:27:00 GMT",
+          "pubDate": "Fri, 30 Oct 2026 00:11:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Iran says 3 oil tankers struck mines, and other Mideast news - AP News",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPODlXY2RDRGVPYkNGQ20xbjVsN01Vdzl0NWItMlVkOFJzTnRjNU1GRW9vdzBOckdWVjNhdHdfa3RLV0VETGxWOVVCVWFSbVUxSUJnQ2lKaUFrdFNoU1gyNHdyQVhoc3h4MFNTaXRoOEl0aHRmZGpfb2txSEpXS1M1WWR3UmoxZXVwNWV3Y080emJWX1pNSWJLMlYxNXhVOHNPeUNOV0ZWT0oxZ3pMYUN2c2VlR1Y?oc=5",
-          "pubDate": "Thu, 29 Oct 2026 19:58:00 GMT",
+          "title": "El-Sayed and Stevens to make rare joint appearance as Democrats seek unity in Michigan Senate race - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeWRmVENUbWVMY0dndWNDRTZKNUFJS2ExVTQxRXR1X05lQ0ZKS3dYaHBHMEtwMy1XTUxUMjRZeFM5Z0pLeThyVHZ4V2M2ZmhLaHN4cy1DYVI5dXNjMzlqUW5NUGJfNEF6anQzc2FvZG1qV0U1VlZvc21mcU9sZTkyTmRCNElfSkhNeXQwbzdUdVBvemhDWFk0bEtCNF9CLXpCREc0?oc=5",
+          "pubDate": "Thu, 29 Oct 2026 23:56:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Judge orders 30-year prison sentence for key figure in Minnesota food fraud - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORWtDaFo3V0FOell0X1JjVWo0MXZyMDhRTmI1RXZ5TENRQ2ExanZsLUduUXoxMXJJRU5QQllCSWhKZ2dGcnlmY0RVSVNDbUVSbEpMamNoU2ZJRE9SMGpKbTJkLWlZMXBMYWlhdkFDYzJfcUhCLXRVLVdlSFdLNld3YmlJV3BDVFNVRTMzNzRmeERjQkN2Snh5QWp0VE1jS3dLRHBnUlIwa3A?oc=5",
-          "pubDate": "Thu, 29 Oct 2026 19:28:00 GMT",
+          "title": "Binance reports ‘potential security issue’ as stablecoin issuers freeze millions in funds - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWmNFOVU3dkJheHFpZnlQZ0d2RVd2dDZFdjBlVldUczQteU5yUUlIeldzeVR6d2lJem9aWkh6RV94Uko1cXpZS2RhV2FGR2E2djNHZGJaNG5BOTFvSnZkLWp5c2tSanlNalhnaTJ6RFlxVWNNMHo1NnpzNGVQWHdJZkw0ZkxkWUNQdnRnZGU1Y1JCQ3NuRGc?oc=5",
+          "pubDate": "Thu, 29 Oct 2026 23:47:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Milwaukee is closing schools for the Brewers’ long-awaited World Series title parade Friday - AP News",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTktVVzRCckFocmlzSWlWTmhlRFpRVzhwVXFCejBIeFVhSlJIVk01eTZOdDlOdGFWckZWbWt2RkxHS0V6ZHpHUTFyVTRzRmp6Y2dXZURaT1VFc2h5MWNYbnFqeTVySTlPQ3VEZzRMa09XLVVEU0ZBMDFSam5FVU1WbHNjNGlLOElvU3FRTlZQcVpjMjAwYm5wSzVaN0ppUQ?oc=5",
-          "pubDate": "Thu, 29 Oct 2026 19:26:00 GMT",
+          "title": "Patrick Stewart, legendary actor of ‘Star Trek’ and ‘X-Men’ fame, dies at 86 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQS3cxRGJjSXBXVU1QdWZQa0tFZnJiR1pvRW1WLXZJSmRBZlpsV180RVNPdEZBUzJFazlsS1lfZ1VNM212VzFCTEo2ajlMcm9TLU8tVktRTnYzazJpWWxmcV9TS01xWW1jdTh6ZGVQRGZuYV8zUnJ6V2R6WnhoYjdrcnFhYmxWS1E?oc=5",
+          "pubDate": "Thu, 29 Oct 2026 23:42:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Netanyahu’s party amplifies unproven claims that Arab-led parties have ‘stolen’ Israel’s election - AP News",
+          "title": "Netanyahu’s party claims election ‘stolen’ as results show him losing majority - AP News",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUlRWdElCT21MdGllQ29QbmxreHhfeTJvaUQ5Rjd2VndKSFRqSmJVMEhKY1VpOTNYWm1zZklsVWVjY0FHbDZxenZUa2NFaWQ0NEluY1ZXV1lqSWNPOWVyMXZ4eGhuQnkxLWVha01PVlhLb2l4Y2RzdENjSTQ0c3UweG5qTFZiOWE1MHFoVllsQjdqeURjUUxfSHpCWnlwNFdnR0N1Y2h1dUw5VElo?oc=5",
-          "pubDate": "Thu, 29 Oct 2026 19:26:00 GMT",
+          "pubDate": "Thu, 29 Oct 2026 23:24:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-29T21:41:15.908Z"
+      "updatedAt": "2026-10-30T01:46:00.362Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Patrick Stewart, Shakespearean actor turned 'Star Trek' and 'X-Men' star, dies at 86 - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTWhaZUxRSlZQeF9wYnU2b0k0U2FuYUUyY0RWX3hpZmJTdFVHdk5SeUk4MlpnTXozUjVGdHllRnNXOTdDMUppd2hnbmdOMUVwWThMUGRUaGRuZjVLUTR2eld0aGQwOUt3aXVlYmtLM0xNbHFWUVdRWXVDbFdVekM1T3Q3MURNX2M0cWl0Vi1QNTVUU3o0N1BfZnVnQ2RwRDA1?oc=5",
-          "pubDate": "Thu, 29 Oct 2026 21:22:38 GMT",
+          "title": "Bitcoin, cryptocurrency prices fall after Binance reports security issue - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbl9LV3Z6eEFpLVBKcmR2ZG9YM1lNRmZBTGRQUF9qeVRLVmlaYnc2ZDdkNERRd3VPTTNtQ0dkRGluRG56czhmbUJKaFNYU1NSX1k0VllaY2l3bGxpNTBOOG1acWdmcW90ZW5UMVF1OU11OG1HOXhZaEF3b0lucWZpLUpQaldUMEV0V1BXU3lKUXBndXBBMGtyMzJDLVFzSzZ0MGViYlNhMGJETXFUd1l0Q0s2TmNGeDFHS2c?oc=5",
+          "pubDate": "Fri, 30 Oct 2026 00:35:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "US judge blocks Trump limits to Medicaid work requirement exceptions - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeDNyTi1Ja2NOYWpjZ1ZaYU1hNkc4bEVESlVFbVc1Q2ROLWVpMU1aVkUxMnk2ZERTU1FUVHhadzdrdVQ1ZXdKWkR4MnJrbE5wME9XWDZkTEgwVUZxbkdWMWxYMFNzNFdaWVZxNnExbDN0TkdVMWVLcXJ0ZkRMbnpkNEFCNllrVzV0WHVCY3BtdW14VHdkNGtQZDlBZlMtU2Vyd0VLTkpXQlRTMWJjXzFzTXdLVzQtaHU1eXc?oc=5",
-          "pubDate": "Thu, 29 Oct 2026 21:13:38 GMT",
+          "title": "Reddit puts logged in experience first as Google AI hits traffic - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNU0Iwc2FJaWJ3bFdiRm1XamdXdmlIeTY5cHNmalZUQUxDQ2JPQ3hnV1JNMG9JSFU4SVdXakxSaWRrVV83anVKNDJET194MW1IMVdFZERZUHc0M1Awek5VcTJ4RDVHTkU1OEVtbDlQc3gwSXI5dEFkQ1A3cFBVZkx0NE9YblRBN2JaM0NkR2gxRkR6UEFYdlNpTmJiLTZtek5YUG5id2VfN3JqdGdiN3FUX1c0eXB2clpJYXdLVw?oc=5",
+          "pubDate": "Thu, 29 Oct 2026 23:41:53 GMT",
           "source": "Reuters"
         },
         {
-          "title": "US proposes Venezuela elections for 2027, opposition leader Machado says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPai1oV2Q3R1NFRGppUVBKSVRCQVlfaUc1TDhOZWw0TkV1Z0xxZDdyMmhnQXhrUUdaN2Q1WDIzUXhCcnpSSTczd1Vsb01MX2plMkc2R3ZaRFNiU3Z3b0tRdm1qZWtZazhETEhQQVQzSWdqby1tenNSU2ZiSGFIeXo0bXRkLXBndXktbFUxektqb1hYc3l1VjN0MG9wLWVid3RKVHQ5bC1vTmR0RjY1WExra0g0ZXQ?oc=5",
-          "pubDate": "Thu, 29 Oct 2026 21:10:51 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US First Lady praised for Oleshky relief truce as Moscow strikes Ukrainian commuters - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOb181OURQbFRFR1NyNmlZamlYdUppa18yeko2a0YycFZ1MEFzR1FRX1VYV1dqZGxlQ1EzTm5OS3lsNDNaSnhuOTNpT0NPRUhJa3FYdzg4R25fTzF5azY4VDJvb0VaNjZodWZtaGNKWEloMVpaM2VIMHFoMXQyQXYySUxBQmpJUTZCbFdOczhvYlFmeEU4UTJpbFdVTFU0QzR6MnhIS1VLckEwSU5HZ29PNjlzOGJIZ2RYSWlGVmVzNnRsQkk?oc=5",
-          "pubDate": "Thu, 29 Oct 2026 20:58:11 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Venezuela to offer state assets to private sector, Rodriguez says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLTlxRWJYVzEtbmtpdUhPSVJSbFF2Zk5RbDNCeS1jakpZalhDUTByc25FNEtQVy1sazRSRFFCOUFvQWMxZk82WUx0XzJYbFEyLVQ1eXMwZG5CUUVIOGF0NjVjMDVPc1dmbVJZVlFXanRmN2QzcFV3cVB6MHJtaTdJVTRWZndyalItQXVRSzd5NHR2bFVBcGR6QzJnczdhQjhHeXcwUnNmenh1ajVzYjk2dm9LZm4zRmFLV1hF?oc=5",
-          "pubDate": "Thu, 29 Oct 2026 20:41:04 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Amazon projects fourth quarter sales below estimates - Reuters",
+          "title": "Amazon sinks as AI spending eclipses fastest cloud growth in five years - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQXhDSjU4RmlrZmUyT0E5dzJNbmJNaXBBdGhndktXeGUtZVItTWlpNDBZcXR5LTZDMjFOdzdXenRpTnhNd01pZXBXX0V0OTVlYkMtVlJnN2l4YS1QeENxeWlzUUN6bDZkeThpc1VBMUZDQjFYcGxrQWFrVzBVOXdueV9Tb0drZjZ4T3JYWmRXS2MwWnMwMGpoT05FU1lUVWhRbXlPZEpYUjZQbnlrQWh3SGdsTQ?oc=5",
-          "pubDate": "Thu, 29 Oct 2026 20:33:44 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Intel shares drop 18% on Israel factory blast, PC weakness - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbEgxampOc0U5RENJWVd0a09uQjlFSkxueGxGVzVPX2NwdElzNDN3WXdjVFpvelNULXVObnMzTTJzb0ZfeFBtN1ZOQ0FVNXRuN0ZINkF0dWZkZlR6ZlkzUE5wQWpPTWg3dGtDLURwRl9OU0ZEb1UtejNBbC1KMnVWbmJ5OHQxWTBoU1I3cFduaXAyOHFBVkFIYjhCNXR1c0EyM2xlZFZNWFM?oc=5",
-          "pubDate": "Thu, 29 Oct 2026 20:31:36 GMT",
+          "pubDate": "Thu, 29 Oct 2026 23:35:57 GMT",
           "source": "Reuters"
         },
         {
           "title": "Wall Street ends lower as Alphabet revenue miss revives AI capex jitters - Reuters",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObTRZdktaNHNaUkc2SG45TFV3V3hKRlMwdWdFTEhyUVFSRnBodWFIM0gxSHh5NWZDVkp3WnJOX3RTZGFtUDVIN3ZPQnB6NlNOQ01OOXhTRnNhNjkyajZ2ejhEZkRBS1IxMkxjVWJmY3FYa3lqcHUxajVqRXpWdS1UWjdxZFZYTW8tUjBtN2NZTGlLSWFiRlpjTDNKaVlVbHRiLVRCcA?oc=5",
-          "pubDate": "Thu, 29 Oct 2026 20:30:27 GMT",
+          "pubDate": "Thu, 29 Oct 2026 23:35:39 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Taliban’s poppy ban falters as Afghan farmers say they can't feed their children - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVmVMOEtmempEZzNDUWFSelpadU16THlEMmdVZGdlNl9ZS1VHQl8tV2F6LWxVNE51anVZSEFRVHpsYzVqeDNTOWtfanExbk5xRTVXVGFPQmhJUlZhaEluNVJHRFZRbXBEaTZ6TTl3eXc2T3VweTNqLVlLTzF1QkVnRkt6dTlYUGZjbHhQY1RXTVFGWXI3ZXJ3ZDRwMjZ0ZWV3S1hHcTM5OWV3TXRHeXVNS1hkdWtWYVV0Z050NUlsT3V5RWdSSjE4OEtR?oc=5",
+          "pubDate": "Thu, 29 Oct 2026 23:27:40 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Australian mushroom murderer Erin Patterson loses appeal bid - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOemRubmJGc2R6TGc1U0FodmNUWFM3aGlaTkI1dDFlTFpCdFljV0xHNXZ4TlhrQjZVV1k1aVRZdkxaa1pZRHRDa1lDZ2praU5CMTJwS09kMXNMbUpjUW5EOGtuckZWV2ZUNVkxMDk1dzBraVY2clJKNGM5OVlQMzllaUctTEJWUWI3MFNwakJvWEFYd1lqXy01bDZxeFZoM21Ib0RyVHNCVjgwakhmSWdEVDlYV0cyZw?oc=5",
+          "pubDate": "Thu, 29 Oct 2026 23:24:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Bukele's gang offensive goes abroad as El Salvador rushes troops to Haiti - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSlNKcXRHam1PTFBqaExDOENsTlBKRE5lam9LZXVaVks2QlpENnlYVnZxYlZheUQyVWRLOU5LeGpRMFhxZzFxbndMYkJUWWROdUM5dU5fMzFsS3FNS0FtX2dVV0pWblNrd2pKMW80T1BYSVFUYVlqbTN6b0JHaWU4WmxBMGszUTVrOW81VWRXcDY5VUZYai0zUXhWa2cwUFZCdXlsSk5pYmdEZFZaMkUwLVo1YkRmb0R5?oc=5",
+          "pubDate": "Thu, 29 Oct 2026 22:59:55 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Trump administration bolsters bid to block Alaska Senate certification - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSHY5R0oyOUtJUmI4bnZKNWFvX2NBNmw2VS0yQ3FnNmNWclVzVkNZYmU1U2diTXU4UE91Rm9wckZYS1ZoYXljM0Ffd01haWlsOVRkNy1WZU1CdnJKVV9EcC1SWExzcDJRTERYd0ZwdDlJeDRXdlQ2ZTdzaTlTQkpDUXZhZnFsTXNXM1NScmZxTi0zbnRfU002VWpsMTFiS1Q2Ymc?oc=5",
+          "pubDate": "Thu, 29 Oct 2026 22:39:52 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-29T21:41:15.919Z"
+      "updatedAt": "2026-10-30T01:46:00.749Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-29T21:41:16.186Z"
+      "updatedAt": "2026-10-30T01:46:00.949Z"
     }
   ]
 }
