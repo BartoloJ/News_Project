@@ -1,17 +1,29 @@
 {
-  "generatedAt": "2026-10-31T20:12:09.140Z",
+  "generatedAt": "2026-10-31T23:35:34.275Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "Clashes erupt between police and protesters in Paris",
-          "link": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 31 Oct 2026 19:37:43 GMT",
+          "title": "I've been stuck on a tiny Pacific island for years and can't get a transit visa to fly home",
+          "link": "https://www.bbc.co.uk/news/articles/cmq5npz5l5geo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 31 Oct 2026 23:06:13 GMT",
           "source": "BBC News"
         },
         {
-          "title": "'We came back from hell', say Ukrainians after years in Russia-occupied frontline city",
+          "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+          "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 31 Oct 2026 22:11:45 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Thousands demonstrate in Paris as protests spread across Europe",
+          "link": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 31 Oct 2026 21:29:01 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
           "link": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 31 Oct 2026 19:22:26 GMT",
           "source": "BBC News"
@@ -29,12 +41,6 @@
           "source": "BBC News"
         },
         {
-          "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-          "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 31 Oct 2026 16:32:08 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
           "link": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 31 Oct 2026 15:16:20 GMT",
@@ -45,20 +51,26 @@
           "link": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 31 Oct 2026 14:28:15 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Watch: Blood donors get a Halloween fright in Thailand",
-          "link": "https://www.bbc.co.uk/news/videos/cmze42el49d9o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 31 Oct 2026 12:50:45 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-31T20:12:07.823Z"
+      "updatedAt": "2026-10-31T23:35:32.654Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Virginia and D.C. sue to block construction of Trump arch",
+          "link": "https://www.npr.org/2026/10/31/nx-s1-6024694/virginia-dc-sue-trump-arch",
+          "pubDate": "Sat, 31 Oct 2026 18:48:51 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Mixed economic forecast weighs heavy ahead of midterms",
+          "link": "https://www.npr.org/2026/10/31/nx-s1-6022285/mixed-economic-forecast-weighs-heavy-ahead-of-midterms",
+          "pubDate": "Sat, 31 Oct 2026 17:14:35 -0400",
+          "source": "NPR"
+        },
         {
           "title": "France seethes again as youth-led protests sweep Europe",
           "link": "https://www.npr.org/2026/10/31/g-s1-151121/france-seethes-again-as-youth-led-protests-sweep-europe",
@@ -94,132 +106,120 @@
           "link": "https://www.npr.org/2026/10/31/g-s1-150698/drone-photo-award-winners",
           "pubDate": "Sat, 31 Oct 2026 07:56:10 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Do you have seasonal affective disorder? How to tell — and what to do about it",
-          "link": "https://www.npr.org/2026/10/31/nx-s1-6023200/do-you-have-seasonal-affective-disorder-how-to-tell-and-what-to-do-about-it",
-          "pubDate": "Sat, 31 Oct 2026 05:01:00 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Your writing was flagged as AI. What does that actually mean?",
-          "link": "https://www.npr.org/2026/10/31/nx-s1-5963520/ai-writing-detectors-pangram",
-          "pubDate": "Sat, 31 Oct 2026 05:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-31T20:12:07.993Z"
+      "updatedAt": "2026-10-31T23:35:32.987Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "Shooting at Spirit Halloween store in California leaves pregnant woman dead and 6 wounded - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbW5kTnNwaXhRRlJ3UjMxc0NMRk1zdVEyWXlqT3hIUmNEZWFVbzk2SzBwSlUyNXBKMzdrNlROUHFmV0dDcEJGUEcyWkZpcGoxQm1hMFdfWWRHcWxfNWE4Wld3bnNXdEFEbnVNbzUyQmdnS2JzLTU3OU04X1h6am4xdUdxX2pjbEZKbE9Lc0ZqSVN2T013TWdSeEo2bzk0NUdXN3RBOWZfWE43MW1t?oc=5",
+          "pubDate": "Sat, 31 Oct 2026 22:34:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Over 40% of names on DOJ list of alleged noncitizens are not on Calif. voter rolls, analysis finds - AP News",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQjUwTHRGWWVLSHotdzBTellKb2pwRHFtcjRYb2pFaUlHcmN4WXdYaDVhVHAxQ3lyOUt4eG1yYzBfX2NGOUozNEpPUkd3Znk5eUhvR2xhMGlrRDJfNndOWFNuczhXRS1uTjdmcXltRVQweEpJQUJKWE9lRDlseFlMdFVPTVpsYVdNeUVlU3FJcU53OEhKb2U1SW5Vb0g4b1FXZTdpelNHYWxCXzBOMWI0bl82eWtqZkU?oc=5",
+          "pubDate": "Sat, 31 Oct 2026 22:32:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "'Grasping at straws': Judge dismisses Trump suit against Wall Street Journal over Epstein letter - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ2dXRjY0R0EzUzFSNXBrYmRsZGJFdXEzTEtvZHFJYmFwUEVoNndYRzVGWkRyTVlOcHN6LUZFYThjRFFkVDVjZTFYdlRfekxWTE13VTZYRnF4RXlvdmJtQkMzOFViVElDWVdqdW5tXzlCZ0tCSjBZR2dReVlCbVVWZ3NxMGFaNUJydXpoYUFRZVZqRjV2QkJhZE5YeExkZ1AzYUdaUnJ3bmtJRVRmRFE?oc=5",
+          "pubDate": "Sat, 31 Oct 2026 21:53:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Pope Leo tells Villanova and Notre Dame basketball teams he is neutral. Prevost has other ideas - AP News",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeGw3Zm1VdjB6bGlhTElQR3huQmFMdG5YMG0tUHhuanV2UFFZTndBVno2TmhFTWpySWdianloRF9CSXdWVXRzcTZsSWpWbHVWQ0pxX2haLW1Jdi1MNmJYeWszaTZSd3RLZGFwYmtNN0pOQ1E5NGdnblphTThOZGpkeHBmWUV2bU5SNllVa2VyTTJyM3NvNkt4WUlab2E2eVhqRmZ6R1FSRTV0eXRsSnhPQVpNMUREX28?oc=5",
-          "pubDate": "Sat, 31 Oct 2026 19:26:00 GMT",
+          "pubDate": "Sat, 31 Oct 2026 21:37:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "FBI visits Dan J. Sullivan donor in candidate’s hometown as Alaska Senate inquiry widens - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRV9KLUhEZ0cwNXhZaFZjbnNSVFdwZW5WdHp0NFZhYUtSNnpaNUVwd3h3TVd5eVBMNHIyNlBoRjFpeUMtaEtVTEYzcU5WMl9VTTZLY0xrYW5PRkNoc05sdU5QRHBCVUVXb0YyQ1ZUangwTHZLUWloaWRuOVVOLWVxbjh5UHhWZk5JTUtsRFY2MEFEV1pmT0J6UDNFWHNDQ3V2WVplcjA1UUo5S2NYalE?oc=5",
-          "pubDate": "Sat, 31 Oct 2026 19:20:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "G20 foreign ministers end Atlanta meeting without consensus on key issues - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNXzNPdDBVU2FTV3NVXzdETklrdGtSQXZBVWFZVm1pNGYxRDY4aHR5QlUzbjBHWVljNnFHU0lUbzVOSWxWNE5TYUdIVXJzX2d3Q2IwYndMZzJqQUhSMGM2amlNVjdCTTdWZGp6cnJEMnk5LVV4NklLd2FZLXdiTEZmNlNLTTh3WWhPcldua0I3bVI4Nk9jUVE?oc=5",
-          "pubDate": "Sat, 31 Oct 2026 19:14:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "More than 40% of names on DOJ list of alleged noncitizens not on California's voter rolls: analysis - AP News",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQjUwTHRGWWVLSHotdzBTellKb2pwRHFtcjRYb2pFaUlHcmN4WXdYaDVhVHAxQ3lyOUt4eG1yYzBfX2NGOUozNEpPUkd3Znk5eUhvR2xhMGlrRDJfNndOWFNuczhXRS1uTjdmcXltRVQweEpJQUJKWE9lRDlseFlMdFVPTVpsYVdNeUVlU3FJcU53OEhKb2U1SW5Vb0g4b1FXZTdpelNHYWxCXzBOMWI0bl82eWtqZkU?oc=5",
-          "pubDate": "Sat, 31 Oct 2026 18:46:00 GMT",
+          "title": "Iran's leader says response to attack would have no 'geographic limits,' and other Mideast news - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcC1sSkxtLWVVWVpCXzVQc1pIeHhrdnBEYkY1ZjZmQjQtZE9CdWNOdkFPalphUHVmWTJ0dk1NUUNtX2Y4RVJ1U0FQZ21BM1VkQTFUOU1IVHNRd2kwMGs4c0VqUG81X2hRbVlvU0NCOFRiYjR4TDdhajltTmRRazJBbUotYUs3Q3o0aEg4UDBONEhodw?oc=5",
+          "pubDate": "Sat, 31 Oct 2026 21:25:00 GMT",
           "source": "AP News"
         },
         {
           "title": "A third weekend of protests in France as youth-led rallies sweep Europe - AP News",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdGZ3VDBMUUphN0oxbExCLXh4eUdKSG5tMTVXMUN6bDVuN0pWSkFVUTFYN2Z2Qm9jcTh3OVFmVWR1ZzZXMHVXUjV2LXdqUndkc2piSDlNTHRTTzRRYzc4V0VyVmUtbTNadFdjMDhHSHRvclBIdlRENUp1VnBRTXhiSjRNMy1xZFFrRWJRTktCWEVIazd1aTV6eXRQelVKQnk1TUpmTw?oc=5",
-          "pubDate": "Sat, 31 Oct 2026 18:14:00 GMT",
+          "pubDate": "Sat, 31 Oct 2026 21:17:00 GMT",
           "source": "AP News"
         },
         {
           "title": "Evacuees reunite with family at the Ukrainian-Belarusian border after fleeing Oleshky - AP News",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPX0JsVDBfeVVaYnBubzFPN3ppVGJZa2tlU21wZVRaUVZ3eVF5S0FaeUNXek5MNVUySkxNYUdfeWJLakN5aWF6VFdNUi1BeUREYWpxQzRXQjVtWU1tRENaTGNtNUt4aDN3Y0dGYVlaT3Zqbms1ZzRWM0JFcHk1Vy1IMGYwYUIwZ0tkWnhZNC1yVjE5UkdSMVFGX2wzUzFEQQ?oc=5",
-          "pubDate": "Sat, 31 Oct 2026 16:29:00 GMT",
+          "pubDate": "Sat, 31 Oct 2026 20:41:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Sat, 31 Oct 2026 16:12:11 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Protests erupt around a top court in Poland after its president is suspended - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaVVIM1owQ1djXzREamhGRFhZUHl5ZTBxN1FYUjBuZW5HVG90TGZfY2R5c1lkVmplYkhGbUNIZ3Q5Z3NXUEdzWndIS29xZzFINmVlcmZOV3hFcDZnS3JBRDZUdFBhTUh6VlVFY19vOUNjXzluSzNXRV82NWlrNXpteTNDemRDMnlSTzgxdmdydWJOWkkwUmw5b1J0cHZnZXYwcXFqdlFfVnZTQQ?oc=5",
-          "pubDate": "Sat, 31 Oct 2026 16:03:00 GMT",
+          "title": "Attorneys for Alaska say 'meritless' Trump demand to set aside Senate ballots 'not even possible' - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSHh0LVpYdmRNYXJIcW9jQ1BOTlNfZDRqcG5KM2FtSFR5cXg2YWFXUHpiaml0R3hrY3VGMVdFbW56UEI1NDNjVmtrQUh3ZVVhSnY3SXQ3TzB4RWhYc0haZkYzM0VrTHIwMEhuNGNlT1dkcUNUU2RtMlFhQTlTYnZWYUNla3pFVmNsUTUyY0NaOU00OEhvNkM1aXl2QjhEU3h2OHc?oc=5",
+          "pubDate": "Sat, 31 Oct 2026 20:30:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-31T20:12:08.555Z"
+      "updatedAt": "2026-10-31T23:35:33.673Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Iranian envoys meet Qatari mediators as threat looms of US strikes after midterms - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOODBHZGo0TEhURWc2Rm9nLUJjaF9Hb09YLUpnU3JlTWJ0OHJKd3p0dFZEYWdpYUNPVlNJdFJoYXhGOVdOX29rdHhjQ2F0c2E2VjJRQndHcEtSY1JIdEFzTkJJd3RKX2lKYWxRMnRQYjZvVnpxNnJQTlBmUFY5TWMzZTJ4akRuS1pKNExQY2lCQTAzRVlWOG4wYnZRVV9tRWJQdDJKQ0owZVdZUS1ZQmZYbTlMR0xxbF9uZ3ZvWkRNNDJtX0JNclZhLQ?oc=5",
-          "pubDate": "Sat, 31 Oct 2026 19:23:18 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US campaign enters final weekend as Alaska, California ballot fights heat up - Reuters",
+          "title": "US midterm campaign enters final weekend as Alaska, California ballot fights heat up - Reuters",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWDRaNDJmRmxia1RPY2l4Z1ZIRTFHVU1pNHUydFRRUUhZVlZpUGVnZUVqUm82NFVfZXpsNVdWam5UNTVMc1RNWXZPbjJsTzlucDNWcmJxbjJLSWNwclRrWmFuVVBzb2lYcUFkbDRRc1JjbV94SFh3aG5majlaODVxTFNTUXhNUWZQWmR6bU4wS3hNQjNSUk9mN2hFQURQR1hMUmU5Rw?oc=5",
-          "pubDate": "Sat, 31 Oct 2026 18:52:09 GMT",
+          "pubDate": "Sat, 31 Oct 2026 22:59:51 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Indo-Pacific Quad ministers work on supply chains, denounce arbitrary export restrictions - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcjhmcnV5dnZWRFFnSkw0WUF5b3hld3Q2RmhYWjAzYVM4STJWUno1b1ZMMmpzMUZseDltNkgxZWdlbWdJQTVjZ2FoMVptRkZfdUlxcnZZMlpORXRoQTFCM1pBRjhrdU05Q1dQbU54WE5wejBhQnpmdjh4SF85RkVQMnViNTE4eWpyeU9FVF9feGpNTEpvQmpjbXhGSHZwMFlycmdTT1ZTQ0hWQQ?oc=5",
-          "pubDate": "Sat, 31 Oct 2026 18:41:19 GMT",
+          "title": "Judge ends Trump's attempts to sue Wall Street Journal over Epstein reporting - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWDh2Tk1SWVpMWE1Mc1NmZ2JHUlFDOEFqVjg4T29yc1BLNXBibGFRSWNDUEhadDZiaEhiZXg4UFlfNV8tRVM3UVdfTkdzRzZVR2dmN2JwWjlIc3BHeVU0eVlJR0h1UThmaXhVWS1GcHZqb0c1NGR0VWoxU3k0Q3dLYU1hQVExZVJJd2FxZHpWOXc0NDRJWlZvUDk2Rm5GRUh1bXFITDBUZGFVWjY4T3VTWGh2NlFKaVBKLWc?oc=5",
+          "pubDate": "Sat, 31 Oct 2026 22:58:33 GMT",
           "source": "Reuters"
         },
         {
-          "title": "US Senate candidate El-Sayed wants Democratic rival to stay away, source says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZk1TVThad3BBcnFwSU44RFlBSjU5NWNaOUxuTEFVQnp2c0tjU3h2Qmc3eUh1RWZGZVpnenlXRk5jcXczZmVhUENIcm53dFBPVm1pQnZxdDhGbmRRRHBXaTdBeHlaRjl3X05USjI3X1ViamRPX19Lc0ZrendnN2N0allNR0tLekhuM0ZCZFpmeWJROTdYY0YtbkdoZ2VEXzFiMlBIRzkwUUpxNXFPdFJERTNxRzNLMzZRUWc?oc=5",
-          "pubDate": "Sat, 31 Oct 2026 18:21:45 GMT",
+          "title": "Binance says it has covered 90% of losses from $6.3 billion hack - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV05QRmVQbjJDUTZkNzRFaTA5VVp5RE9Bd2ctMkxITEVaZnNLZVVzdkx5aHBUUFZYOTJCb19YRFJRM2I1RW5QS0JJUmowaUtsVjlnaTExaWJDM2NsLVJINlJQZ0JHdlUyb05LS0kyRGdRMHlyVWdYRHFJOTNlbFRZc0plbkc2SE1nOHB1SklPVVNUVnhFY3lYdWtR?oc=5",
+          "pubDate": "Sat, 31 Oct 2026 22:13:26 GMT",
           "source": "Reuters"
         },
         {
-          "title": "OPEC+ agrees in principle to keep oil output targets steady in December, sources say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTk80ZVBzRVczc0hyRHU0RkJiTWx5ZDUwdnBHb0FWSmJyQWJzWHRYR0hZd0MzTW1INnFtSWRISVVRb1RncDltYW16eTYxRU9NcWJzanRqMmp4LWFXUVNTV2tzT3JCM0doS01hWDdGeUhNdHZ3WTdYXy14Q0luZTRmOWdQNlp2ZThtYlQ0cWhNSVk0c0ZkOUFyMExMUWRHMXRKamU2ZHRLa2pPMG9heUhzN2YwTnpCZw?oc=5",
-          "pubDate": "Sat, 31 Oct 2026 18:05:10 GMT",
+          "title": "UK PM Burnham says he is 'open' to formal apology for slavery, but rules out reparations - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSVA3cGlMTWRrZGNBV3NsQkdPb1ZJQnBfbG5EMjZrcUFWMmVldTlySld2cWtOcEhxS1hhZ1VnSTluNDk5dHZxdEs0TFpZbXhfRk92a3BTV0hxUXg5VTNVRnFMN2dBRmZ5R3R6T3BBdVA5WFdqS2dSTWRFSmVaZ3lkU01xRENrOGU3LWxkYVFVVlVoRzhKMUhCV2Ffc0duOFhsXzh4eXd4UHhEZTYtUF9oalhwc1lQYzdaalhN?oc=5",
+          "pubDate": "Sat, 31 Oct 2026 22:01:28 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "North Korea says defence research institutes tested major weapon system - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOa2szXzlwbFhuTl8xcVFPLU9JTTFnUTYtT1pYWGxTbEFhUmxWV1E5NkxvbTZvOEtETEp4YjdMaEhDbG1MSzIweE5kYXpSM3FWVEpUWEFFNUZTUFdaNzN2UldqMHlVdDZsT3NaNm9PQl9xSFpfMm1FR3JCUTA0Z2hiQ0EtUXpKZ3MwLThwQmZ3R0JxZ2lRZ2hjcEpkWjI0R2FyUGdIQ3VZZUVwRl96UVByZklTSm1KY1RVRExaSlptRUtLbHRld0FVN2lEYUcwbUU?oc=5",
+          "pubDate": "Sat, 31 Oct 2026 21:48:05 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "FBI links North Korea to theft of $6 billion from Binance - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQT0F3bEEtREZiMG5WVnJMQlVHUDdaaHJQTno1VUJJRENOT2MySEZDcmpCYm41YnpkMS1Ub1l1ZThqSUJSa214ay1Gb3E3NFFNNWRZZDJtVjZSWU91M1NFVkRWZjJPdG9nN2ZCTm12RnhFVWFTTkhpMnBnRU5XZDhmRTRYNFZ0V1lKSkc3N1htMnRLbHhFWlo0?oc=5",
+          "pubDate": "Sat, 31 Oct 2026 21:44:23 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "ICE raids in a California toss-up district spark accusations of voter intimidation - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMkk2Tk5vZ2RHMENmbGFkZjJrWjJIS2xkbDZrQW5hUS1abHlzOVNWendQdHNfZTdZcHFnWkFKUURwMDVmYnhlN3ZPeEctbHBmeE9KcVp0T1JCVGVNN3NrbXZMd1ZmcVZOcHQ5X3JIWHJuOHpJcThkbTdmQTItSlE1MXJ4ektHQ3Ytd3I1dGVhSTFSVHlQQ05iaHdzd2drWXhoTEphUVRTUUh3cWU3cDJ2ak1GQkNMb0NTV3VZeG5GdEFZNThORFE?oc=5",
+          "pubDate": "Sat, 31 Oct 2026 21:38:51 GMT",
           "source": "Reuters"
         },
         {
           "title": "After Louvre heist and string of thefts, Europe's smaller museums are on guard - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNV2hEQ0g1Rk9ZSjJMakpuX2lCY3hFc1I4VjhMbnE3aGFMWXh3TU9NSE1sWEFCM2dRUVBTRXE5cWxUMXdwdXZwZ29vNFdBbjVKYW1yTDN1b2tlZ1RjQW13NkdqVEI5RV9ybFRad3kyY0VTOTZaUEhFaDYyUmdTYnlMenBDNGM0VVEyanFtRFJUTjFnc0MyemdmRVlLNlBGbGdxMjFmZXRUem43WTRz?oc=5",
-          "pubDate": "Sat, 31 Oct 2026 18:04:50 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Nigeria reports two suspected Ebola cases in northeast region - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNLVJNVjgwa3JjQjJTZV9qaEtOR0hPeUVlUU5fVmg1NmpMcmtWR2QycWNERWphd21IckhyYnNQMllfLUtrSDhCV1p4cEV4RWhmYURFbW91dVJ0YzVUMUJPNFctZG5FX1ZSdS1KemxhbWdmRTRSX2R0TEZMbm5tdVVDSDNUbnBreFJrT0tlQXE1VzVmSllTdVZoVVpqOXV1WXh3ZGpaNmZqWmdlS010Zi1NcWxQai1WU2k0dE96SDVuUld0WkxhSm9VSlFR?oc=5",
-          "pubDate": "Sat, 31 Oct 2026 17:54:27 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US sees growing interest in limited ceasefire in Black Sea - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2JIVVB6TndsbFNkS2Vma2ZRT2NBOHRyQTRkcEc2ZnNnRFc5R0JoT0hpem96RFMwalJGZFozdncxNmRBaE05ZU1hQXRsU0sxUDIyVHRWZzhlQXVfLW5GSGxBcHhscVRrLTlLSnFsOEZ0SnliUzhuQVhLeGc3VFBEWTI3ZjRfQU1uS2NWYjk2QVBEVldRVHZOUnZn?oc=5",
-          "pubDate": "Sat, 31 Oct 2026 17:39:04 GMT",
+          "pubDate": "Sat, 31 Oct 2026 21:24:25 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-31T20:12:08.981Z"
+      "updatedAt": "2026-10-31T23:35:34.040Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-31T20:12:09.140Z"
+      "updatedAt": "2026-10-31T23:35:34.275Z"
     }
   ]
 }
