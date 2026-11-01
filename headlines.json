@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T05:29:25.744Z",
+  "generatedAt": "2026-11-01T11:59:41.711Z",
   "sources": [
     {
       "name": "BBC News",
@@ -7,7 +7,31 @@
         {
           "title": "Shops looted as German cost of living protests turn violent",
           "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 01 Nov 2026 01:59:57 GMT",
+          "pubDate": "Sun, 01 Nov 2026 11:57:48 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+          "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 01 Nov 2026 09:28:06 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "India's opposition holds mega rally seeking election chief's resignation",
+          "link": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 01 Nov 2026 07:00:55 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Democrats are used to heartbreak in Texas - could Talarico turn the tide?",
+          "link": "https://www.bbc.co.uk/news/articles/cmy0r2y6zeddo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 01 Nov 2026 06:03:57 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Watch: Heidi Klum as giant severed hand for Halloween bash",
+          "link": "https://www.bbc.co.uk/news/videos/cj040yd1xdrlo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 01 Nov 2026 05:26:02 GMT",
           "source": "BBC News"
         },
         {
@@ -23,203 +47,179 @@
           "source": "BBC News"
         },
         {
-          "title": "India's opposition set to hold mega rally seeking election chief's resignation",
-          "link": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 01 Nov 2026 00:12:07 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "I've been stuck on a tiny Pacific island for years and can't get a transit visa to fly home",
-          "link": "https://www.bbc.co.uk/news/articles/cmq5npz5l5geo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 31 Oct 2026 23:06:13 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-          "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 31 Oct 2026 22:11:45 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Thousands demonstrate in Paris as protests spread across Europe",
-          "link": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 31 Oct 2026 21:29:01 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
-          "link": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 31 Oct 2026 19:22:26 GMT",
+          "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
+          "link": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 01 Nov 2026 00:46:12 GMT",
           "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-01T05:29:24.365Z"
+      "updatedAt": "2026-11-01T11:59:40.433Z"
     },
     {
       "name": "NPR",
       "items": [
         {
+          "title": "How Gen Z Republicans running for Congress are thinking about the future of the party",
+          "link": "https://www.npr.org/2026/11/01/nx-s1-5946869/midterm-elections-gen-z-republicans",
+          "pubDate": "Sun, 01 Nov 2026 06:00:00 -0500",
+          "source": "NPR"
+        },
+        {
+          "title": "Here's how to watch election night as the polls close, hour-by-hour",
+          "link": "https://www.npr.org/2026/11/01/g-s1-149978/midterms-election-night",
+          "pubDate": "Sun, 01 Nov 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "What's it like to run for Congress when the odds are stacked heavily against you?",
+          "link": "https://www.npr.org/2026/11/01/nx-s1-5995461/midterm-elections-noncompetitive-districts",
+          "pubDate": "Sun, 01 Nov 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Supreme Court hears religious freedom case centered on universal pre-K program",
+          "link": "https://www.npr.org/2026/11/01/nx-s1-6000367/supreme-court-colorado-catholic-preschool-religious-freedom-lgbtq",
+          "pubDate": "Sun, 01 Nov 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "How one family gave a critical boost to gene therapy research",
+          "link": "https://www.npr.org/2026/11/01/nx-s1-6014739/sanfilippo-gene-therapy-fayuvi",
+          "pubDate": "Sun, 01 Nov 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Trump thanks supporters for the memories in final campaign stops for 2026 midterms",
+          "link": "https://www.npr.org/2026/11/01/nx-s1-6022128/trump-rally-2026-midterms-republicans",
+          "pubDate": "Sun, 01 Nov 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "'Grasping at straws': Judge dismisses Trump suit against Wall Street Journal over Epstein letter",
+          "link": "https://www.npr.org/2026/11/01/nx-s1-6025342/judge-dismisses-trump-suit-against-wall-street-journal-epstein-letter",
+          "pubDate": "Sun, 01 Nov 2026 04:20:19 -0400",
+          "source": "NPR"
+        },
+        {
           "title": "Virginia and D.C. sue to block construction of Trump arch",
           "link": "https://www.npr.org/2026/10/31/nx-s1-6024694/virginia-dc-sue-trump-arch",
           "pubDate": "Sat, 31 Oct 2026 18:48:51 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Mixed economic forecast weighs heavy ahead of midterms",
-          "link": "https://www.npr.org/2026/10/31/nx-s1-6022285/mixed-economic-forecast-weighs-heavy-ahead-of-midterms",
-          "pubDate": "Sat, 31 Oct 2026 17:14:35 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "France seethes again as youth-led protests sweep Europe",
-          "link": "https://www.npr.org/2026/10/31/g-s1-151121/france-seethes-again-as-youth-led-protests-sweep-europe",
-          "pubDate": "Sat, 31 Oct 2026 15:30:19 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Key takeaways from this week's political meeting in Beijing",
-          "link": "https://www.npr.org/2026/10/31/nx-s1-6024695/political-meeting-beijing-takeaways",
-          "pubDate": "Sat, 31 Oct 2026 14:42:33 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "A simple explainer of the massive $6.3 billion crypto heist at Binance",
-          "link": "https://www.npr.org/2026/10/31/nx-s1-6024426/binance-crypto-heist-cyber-criminals-north-korea",
-          "pubDate": "Sat, 31 Oct 2026 14:11:02 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Justice Department seeks to isolate Alaska ballots amid criminal probe over Senate candidate",
-          "link": "https://www.npr.org/2026/10/31/nx-s1-6024423/criminal-probe-alaska-senate-candidate",
-          "pubDate": "Sat, 31 Oct 2026 09:50:58 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Perspective: Forget the ballroom, we're headed to Cheesecake Factory!",
-          "link": "https://www.npr.org/2026/10/31/nx-s1-6015466/perspective-forget-the-ballroom-were-headed-to-cheesecake-factory",
-          "pubDate": "Sat, 31 Oct 2026 08:00:00 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Drone photo award winners: Far-out landscapes. Ship recycling. Rugs, rugs rugs!",
-          "link": "https://www.npr.org/2026/10/31/g-s1-150698/drone-photo-award-winners",
-          "pubDate": "Sat, 31 Oct 2026 07:56:10 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-01T05:29:24.566Z"
+      "updatedAt": "2026-11-01T11:59:40.644Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "LeBron James is 41 and feeling young in Philly. He had his best game yet with the 76ers - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWU9OSmxFSjk0SFRMSC1VSXNBT1NTUGNWRTNQanlGeUxua3NTY2NxbXpOcHVNbmtWcGtrVVQ5TmhGMFlEUFpWejBNUllYcTBKQTFfTUJIcFY1cmpKdFJMVHBWOVVnTWE0TXhJa0Y0RU9pV2cxWDNvWThGZGM1Yl9UZFFqWTg4SmZ4d3UtUEEzb1d6MW1CVnc?oc=5",
-          "pubDate": "Sun, 01 Nov 2026 04:45:23 GMT",
+          "title": "Joe Biden - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBwUThXYXJHUzBGd0cwbFV6UkZPNWVkOHBwRzRTOFdsTkRBNU5ZbEE2TnE2WUZHX3Rid1I2RjdBNnlDN1VTZmc4?oc=5",
+          "pubDate": "Sun, 01 Nov 2026 10:22:21 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "College Basketball News: Rankings, Scores, Stats & More - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55MXM5MlpRTTFlUTBkcGw2VnpuTERsQWdubVBLNDBiNmNveU5WVE1VU2hFbXhpZWpDSlh5Ujllb0tnazQwRnAzc3BQWHBhcXRDanRJ?oc=5",
+          "pubDate": "Sun, 01 Nov 2026 10:19:36 GMT",
           "source": "AP News"
         },
         {
           "title": "Gabby Williams leads Valkyries to WNBA championship in second season, beating Dream 68-63 in Game 7 - AP News",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxON2lBQVM2dU1OS3Nvb21jTmphSEdXdGhfdGp4Z2pIT1RwSWRybmJSZC1neV9WQ0pqMTNsUmRPd2hJdmd6NUREV3o0akVCODUxQ2lvaThjMjUxcGJNRUw0RjlBTmFGS1hRN3Rjd3Vha19lRlR3X3U4VS1fWmIzYjZFNnBhbGNMY3p2eGdiNEVPNTRKRzlrRmFnYm53?oc=5",
-          "pubDate": "Sun, 01 Nov 2026 04:04:00 GMT",
+          "pubDate": "Sun, 01 Nov 2026 09:12:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "'Grasping at straws': Judge dismisses Trump suit against Wall Street Journal over Epstein letter - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ2dXRjY0R0EzUzFSNXBrYmRsZGJFdXEzTEtvZHFJYmFwUEVoNndYRzVGWkRyTVlOcHN6LUZFYThjRFFkVDVjZTFYdlRfekxWTE13VTZYRnF4RXlvdmJtQkMzOFViVElDWVdqdW5tXzlCZ0tCSjBZR2dReVlCbVVWZ3NxMGFaNUJydXpoYUFRZVZqRjV2QkJhZE5YeExkZ1AzYUdaUnJ3bmtJRVRmRFE?oc=5",
-          "pubDate": "Sun, 01 Nov 2026 01:56:00 GMT",
+          "title": "College football | Latest News & Updates - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBscF9PZzh5MHFsTGlQMzFZMkRHaDdBbmdwSFhoMGhRb0pwZzB2b2FDNXZNcUlLVnl6WlpTWFVsRXNmQlphSFd1WTdPSWQ0VUlr?oc=5",
+          "pubDate": "Sun, 01 Nov 2026 09:02:49 GMT",
           "source": "AP News"
         },
         {
-          "title": "FBI visits Dan J. Sullivan donor in candidate’s hometown as Alaska Senate inquiry widens - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRV9KLUhEZ0cwNXhZaFZjbnNSVFdwZW5WdHp0NFZhYUtSNnpaNUVwd3h3TVd5eVBMNHIyNlBoRjFpeUMtaEtVTEYzcU5WMl9VTTZLY0xrYW5PRkNoc05sdU5QRHBCVUVXb0YyQ1ZUangwTHZLUWloaWRuOVVOLWVxbjh5UHhWZk5JTUtsRFY2MEFEV1pmT0J6UDNFWHNDQ3V2WVplcjA1UUo5S2NYalE?oc=5",
-          "pubDate": "Sun, 01 Nov 2026 01:40:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "FBI blames North Korea for stolen billions from Binance in biggest hack in history - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQkM3dmhycV92Tk5Oa2xmTVhpMUI3RnluVVRpV1dlUGtIVXo4NjBqX0RDcjlLVW5FaGN4TGhZOXpEMlhBbzhzZ0gteVMwWUx2dVFoVzhnMzkxeU5tZzlDaHpZZE5LUVMxYllLTVBfTzhTcEZMaTl4eXhKT2l4ekwxWFFWOHc3bjJrWXhHRkVQQTFhOUNXMzlJSGQyZw?oc=5",
-          "pubDate": "Sun, 01 Nov 2026 01:28:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "A third weekend of protests in France as youth-led rallies sweep Europe - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdGZ3VDBMUUphN0oxbExCLXh4eUdKSG5tMTVXMUN6bDVuN0pWSkFVUTFYN2Z2Qm9jcTh3OVFmVWR1ZzZXMHVXUjV2LXdqUndkc2piSDlNTHRTTzRRYzc4V0VyVmUtbTNadFdjMDhHSHRvclBIdlRENUp1VnBRTXhiSjRNMy1xZFFrRWJRTktCWEVIazd1aTV6eXRQelVKQnk1TUpmTw?oc=5",
-          "pubDate": "Sun, 01 Nov 2026 01:25:00 GMT",
+          "title": "Pope Leo XIV - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1BXzFaTC1GN3pKdEVBTmZXQkZPamZ2Uk1icE4wVkVUdEFqY1J1SV9FRTZfal95NlB5OHQ5ZnNVSVozNlFsRU5HM0NmUQ?oc=5",
+          "pubDate": "Sun, 01 Nov 2026 08:35:16 GMT",
           "source": "AP News"
         },
         {
           "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBwMFNyak8wbjBIcmRoX2hyLUNMU3o2NzFoa3UtTFl4UUFQU18tWnVzUWxhZGsxRS1IRXFWdWhoVQ?oc=5",
-          "pubDate": "Sun, 01 Nov 2026 00:57:49 GMT",
+          "pubDate": "Sun, 01 Nov 2026 07:59:32 GMT",
           "source": "AP News"
         },
         {
-          "title": "US plans to deport Afghans back to their home country through Pakistan, documents show - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZWpSODVTb3dmenRTb2tRX25LbTJITWlLM0l4bHFEQjVBMldXUGx1NFNyb2ZibFJaTk5ndnJfbmhEOEVOOXRvd1k3cTVKSDQtak9QVVA0SHpNY1dWUmtKWVV3dGFSbjd6WWd3Mzk3dkVIXy1vbVBRSnNfSncweWxpeVpGVldsYTRaQzRrQklSeEFGVVdPakxXUlNfOUcxODNveG9hRUY2dmVmZw?oc=5",
-          "pubDate": "Sat, 31 Oct 2026 23:29:00 GMT",
+          "title": "Brazil - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5oVDBocnJSWVppUl85SjM3Z2gzTEQ0Tk1IUFFhMDh0aEZhX3NsQzJSVE85NjFRR0xINVVyV1V5eklYMWM?oc=5",
+          "pubDate": "Sun, 01 Nov 2026 07:10:51 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Mexico comes alive during annual Day of the Dead celebrations - AP News",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQzBQTDZUakxvUmladWlway1jeFNxLWVDRk5hNW1SN3JYbDRGZ0QzaUpwTDFKX1c0ZGM4RUxESHN4czJWaThQcWItNzI3ODl5RzRhWVdwZ0pXd0VXeW01Z2JJd1YteWFjcHJ4WXV0LTNaOUtBSlczSEV2WHRGQkhCNGRsbFk?oc=5",
+          "pubDate": "Sun, 01 Nov 2026 06:19:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-01T05:29:25.080Z"
+      "updatedAt": "2026-11-01T11:59:41.111Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Bangladesh to form wage board after garment protests shut factories - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTjhSamRicmVUSnUzRXhIZmkzVC1pVlhFWk1MRGFiM0VpOW9WTHRUQmd0a3BobkV3cUwxeHpzSkNLQWVmUWowb1BTTjE4MUlvaThta2YtaWZDUHpSdkxHZUtXNFhFQjlZMTNCM050QXJrc2FIV2JOVjNkWTFHZGE1bjMxek9PX1dEeWJiNDZNcWlhNDVOd1hoZ01DYXByQThDTEZqckVCeWVWQVIzVVNiV0lSNHhFVTdNdmh3TmtGT2c?oc=5",
-          "pubDate": "Sun, 01 Nov 2026 02:58:00 GMT",
+          "title": "OPEC+ set to keep oil output targets steady, sources say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMVRNX1Y5b0xXX3dlMU1QX2lRbVkxbkJYSU9SUVdxUFlXQ2hGcjRpRlVIbklCeTlZa1d2VnNOQWFaaVN0NHJVcnJSRVhUSngyVmcxdzlsZVpwSm1wbmduTGpNbXkwWEhKbGZQdURzZ0c0UHl2S28zLUxjbDdSUkdzZTFnMmtubVlvbmFVMHlsX3BvOVpLa2NqcWozZTJUWlhnUWUxYXFn?oc=5",
+          "pubDate": "Sun, 01 Nov 2026 09:42:11 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Trump calls $50 million contract for ex-lawyer Habba Mildon 'not acceptable' - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSjgzV092eGo2OEhXRVd2aGsxOTl5Zzc0V25lSHBSNW9Qd3FLTXVpQUszdEdqanpLdVVscjZlMUoxTllTYVhsd0ZqYzJfbGl6Ry1YRjhNY0NyY1hjdmNRdE9jTDdpck1VSVhuRUFKblRicVAwVERrMU9sTkU0d0ppaFM4OVoxYTlpb2otQUw0MlBNaDFTbVUxTzA0UExNTWU3MTlucVFCbGFiNzAwOE5BRjBTampMT2Y0U183dWxyRQ?oc=5",
-          "pubDate": "Sun, 01 Nov 2026 02:22:00 GMT",
+          "title": "Five killed in fresh ethnic violence in India's Manipur state - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObENRYjE1VmhhRnFuXzRTQjFkX2NZWlZySGVjV3diT0lld3ZBb0pEQ2ZjSmtEdjN1UTNWVzVSLVI3QllBYXdYYXdjeTVjckMxOURFUUFvWE5sdWdDUlBucFRJZy1HUk9hbnJDR29ZNE04LV9zRlVtN2xjYmNRSmkxemtwZF9MdjVpQlY0eXkzQUpHODQ1Q3g5amdXM0tWbHZaSWVTYlFYREpFaHNVaEE?oc=5",
+          "pubDate": "Sun, 01 Nov 2026 09:41:31 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Taiwan says China harassing shipping with east coast patrol - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNmpudFJ3RHh6NXBMa1hnRnV6WFRyZ0VXM3d2dlhJMEJPRTdmbmg3NG1NVzJRa3hFNnhUN1l5cjAxR01IN3l2N1pzS0htLXMwZGVxVUdFQ3JJdFU1LXRDVTJaVmY0Ny1UWG9CY2NwRmlXZjl6S3ZLdmVGYThIa0JrM2FjSjJhcU9vT1ZNRWxGWTRiWXFoY2dKZUpQamlDVlRVYlIzTHdQc19WNVk?oc=5",
-          "pubDate": "Sun, 01 Nov 2026 01:20:00 GMT",
+          "title": "Bulgaria votes in presidential runoff after tight first round - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUWVuZkFvVFlJOEJiem9lZWhrb1hTLXVaS1ZyWnhwLUZpNUpUcm9VM3JYb1BLeGxxUTZ3NXVkWWVMOGNKQUVtdFNZNWFnajRrdi1uYWdKRUFyRjltZVZsTUdQdDBpdFFoX0dseVJTY3UxMzlOeTRNUjY1b3pqZGE1YXRjWmZNRExQUjYyNXJwZTBXbGRvbWNjdl95U1U4WHF1b1E?oc=5",
+          "pubDate": "Sun, 01 Nov 2026 08:51:44 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Trump says Flavio Bolsonaro can stay in US 'as long as he wants' - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSmwzNUwxNEpXRmE1UjRrTlBIeGJQMGJ0N1NxOUlVZENsWFVadHloUlA2MzlWRWU1dGFqYk55aUpWeUVkbDJhczBBUThTZ0p6alRuV245ckRGOTl2S1VXbzJDc2NCU1g3QV9QeE1KYnhaVEY5YVp0RnZjVmtpZkNkNFdhdUZjVi0ySXpJWjdPTHUxNDhmeUdxVkR3aTBiRmIxN0ZmT2F0RVBvNlU?oc=5",
-          "pubDate": "Sun, 01 Nov 2026 00:45:00 GMT",
+          "title": "Xiaomi's October EV deliveries top 50,000, hit 2026 monthly high - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVGJQV25faktaWGFiUks0eTdlWmFhbkcwR0RWcXdFbk95UXJ6VjBmSUV1NjRaTk1oYXk0NEtKaGF1NTJBOWNFUm1sY2tiUVhjekJVU25tRWduZVpGVFNHMGFyOTN1RjRmS1lFcnNSRExoT216QUNtaFZjOTluU1g0d19EejFmR2pRWDJuSXc4WWQ3WHJ2UngzYmZRV3d0a2dmeHFycVhhZGdvN1dUbmc?oc=5",
+          "pubDate": "Sun, 01 Nov 2026 07:42:09 GMT",
           "source": "Reuters"
         },
         {
-          "title": "South Korea exports nearly double in October on AI investment boom - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTEw3WmpfUE9XNlpDeFd4LUpBenRHZVpiTVpFRDZfakN2T29CaHE4emNXQ0s0VzFDZTJTeDlXVkJtV0FSVEpwblJEVWZoWEZ4eEFzNDA5eHh0TGo4X2ZFX3hlYzljRl9TTDhPNkE1a05aNjNPU19Kb1lGbmV1UWw0dUtNZk9HS2JENWx5dDJyNWgxSGRWMzBLaGxMazJRbWxGbVBFbWNJbVlzbHkzTk05RDFGMnBzcUh4V2VqSmhTZmhkUQ?oc=5",
-          "pubDate": "Sun, 01 Nov 2026 00:39:00 GMT",
+          "title": "India's October coal-fired power output jumps most in 3 years as hydro generation slumps - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPb0s3MDQ2QklmZmpMU05CQ2hDRmFhMUoyMnBsdUo0dVhzQm5KZWpUNktScUxlY3BTYmNsazJtUU5pU08wZHhveTlJR1VFcjlrNWVPNTV4QTR3aktmM0Y1WUZGSnZVUVQ1WUQyV1ZRRXpnVkR6VVI1VUd3Z2g3ZFBUTUV3aGVvUnZfZVIwNE1UdFpzTVVuWjNRNXhIZi1QcExzaFBSSTZQSUp2eGllcnpoc0F5N242empXRDR3Y2lIOA?oc=5",
+          "pubDate": "Sun, 01 Nov 2026 06:54:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "California governor asks US judges to resist Trump attempts to seize ballots - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLVlXWHJiT1ZELXhOM3ZVM1hySTBsenhZbUxYdDRCN1NTcnFRN0xXcWFhVjZ2NDhnLVRzOFhGNzNtOEpXV3RUOWVtSW9tbFlqY184eVFqbUpPRXNQbnl6Q2V4SVVjdU1UZ0tMdGdpdWhhZjM3N3cwSTBPdGIwSXZSeXYxR0JySnhKdE02dzJmYmpvUXlwb05GeUl5QzhjZzNPRVU3VDBDRE1hemVyWHJzendXXzBaWWRKakZqTlh3a3U?oc=5",
-          "pubDate": "Sun, 01 Nov 2026 00:12:00 GMT",
+          "title": "Mass protests sweep Italy during nationwide strike - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZWF5NXN3Z25WdEU0R0kwT0NBT180OHc4TklWcWxrSUVLTlRtZHpQWmplV1NnRkJfS28wbEVLdEwzMlA0UnNvOXBIWlpZN0xCcm9WLUNBZzZ2Um5UTkdQLXMtUUxocEIwZWZ1NGU1YW9qdnFWdFc0Zy1yTEUxWlhkdUxhbm1Tdi11enhoQ25Qenk3ZTdMekNv?oc=5",
+          "pubDate": "Sun, 01 Nov 2026 06:21:37 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Salvadoran families demand fair trials, mourn prison dead on Day of the Dead - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRkdQUUgzVUh1N1F4MWQyX2hDR2sweTZiMTBlOVBtemRaeXRuUDdrMEI2emRkSFM3aXRteVJFdWFQR3J2cWhUeUt6RHZhb2l1em5ZRm1YVF9nWnpyekZCM2NZYXlHeWlVVXZpbDYtN3hPWWRYbTlFVzU1bFR4dnprU0VEcUU1Um90LXBMUzlpREF2aXhXa0NKZHR1NWREUXA0UExSUUdnWG51S2dFTDNzaVBnMGFpUHc?oc=5",
-          "pubDate": "Sat, 31 Oct 2026 23:49:00 GMT",
+          "title": "Binance resumes bitcoin, ether withdrawals after covering bulk of stolen $6.3 billion - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQ042d3hwbUp6LXNrZ2JEY2RSVEgzX0xJbGZ0QTFsVnM1X0tYUFBONzljRXRIbFJCRlRWeUkyeEJwaElZZnN6Tnluc1h3ZURja0tMTHhjSDkyb2FnUHRPejdmUjZmaU10ZlBuTW82bVZmV0hKNFJMbmZ2VjFyS2h2NUVZRnVtZVdIQVo3VnRPVFhsX1ptRzJQaklyXzZIU0hxN1lyQ3lTNjYtMGZvQ1Q1T0laQzBHU1dHdEk1RXJXMGhRSVJT?oc=5",
+          "pubDate": "Sun, 01 Nov 2026 05:49:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Barcelona bounce back with 6-1 win over Alaves - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcEd5MTIzUjA1OExYb2RkMnV4U0xjRWlQRkN4RlhodFZGV0htWGxKSnNReFg4WGl1NEJLRV93dlNjTU1TWWdsLVk5YzhaUTlhMHA5TG1SbGZabWZvT0h6WGh5eXB3eXpCbWtteUxDVEhaTzZhOWpaVXBVdHNvSHg4alRhSV9RbHZsZWtjZWM3b09LamdaTGk5QlBJM1o?oc=5",
-          "pubDate": "Sat, 31 Oct 2026 23:09:17 GMT",
+          "title": "Germany must do more to boost gas reserves as storage levels hit record low, lobby group says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTzBFS0hhWUtOcVhOMDVsX25TV3R4eENLbjdCMUpDRDByYTBHWjU3MmtycmM2blh4Y1Y3V2t6SUhIODJidldfcjNOdG0zVHRNdVFWdXZKWVhJeWdFWE9LaDA1MnJlbk1vaC1qLUpuZWU0WERCckY3Nk4tLUhHcnNFZ1pJdzJYRTFxWFl4cjRTNG53QmxkSDAxUUd2NjdnRUhOTDBhbUx5eUppU3Q4Vmh0aFExRlVRTUJzUGl1aWgySFZtRjlnb1E?oc=5",
+          "pubDate": "Sun, 01 Nov 2026 05:04:00 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-01T05:29:25.566Z"
+      "updatedAt": "2026-11-01T11:59:41.497Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-01T05:29:25.744Z"
+      "updatedAt": "2026-11-01T11:59:41.711Z"
     }
   ]
 }
