@@ -1,19 +1,37 @@
 {
-  "generatedAt": "2026-11-01T21:53:45.637Z",
+  "generatedAt": "2026-11-02T01:23:55.822Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
+          "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+          "link": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 02 Nov 2026 01:18:27 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Democrats have high hopes for midterms, but polls have let them down before",
+          "link": "https://www.bbc.co.uk/news/articles/cmg47p3edv4do?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 02 Nov 2026 00:25:12 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "France launches attempted murder investigation after petrol bomb thrown at police",
+          "link": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 02 Nov 2026 00:15:30 GMT",
+          "source": "BBC News"
+        },
+        {
           "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
           "link": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 01 Nov 2026 21:16:45 GMT",
+          "pubDate": "Mon, 02 Nov 2026 00:02:15 GMT",
           "source": "BBC News"
         },
         {
           "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
           "link": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 01 Nov 2026 21:01:58 GMT",
+          "pubDate": "Sun, 01 Nov 2026 21:55:01 GMT",
           "source": "BBC News"
         },
         {
@@ -33,32 +51,20 @@
           "link": "https://www.bbc.co.uk/news/articles/ck3r5z3pw928o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 01 Nov 2026 17:29:08 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
-          "link": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 01 Nov 2026 17:06:32 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "University of Cambridge scientist among those who died in Spanish train crash",
-          "link": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 01 Nov 2026 17:05:18 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-          "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 01 Nov 2026 13:11:37 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-01T21:53:44.808Z"
+      "updatedAt": "2026-11-02T01:23:54.658Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Do you know signs of a stroke? BE FAST are the words to remember",
+          "link": "https://www.npr.org/2026/11/01/nx-s1-6025502/stroke-acronym-be-fast",
+          "pubDate": "Sun, 01 Nov 2026 17:22:12 -0500",
+          "source": "NPR"
+        },
         {
           "title": "Haley Stevens endorses GOP candidate in Michigan Senate race, spurning Abdul El-Sayed",
           "link": "https://www.npr.org/2026/11/01/nx-s1-6020993/michigan-senate-race-abdul-el-sayed-haley-stevens-mike-rogers",
@@ -100,126 +106,120 @@
           "link": "https://www.npr.org/2026/11/01/nx-s1-5945628/living-with-high-prices-in-virginias-1st-congressional-district",
           "pubDate": "Sun, 01 Nov 2026 08:00:00 -0500",
           "source": "NPR"
-        },
-        {
-          "title": "It's ACA open enrollment time. Here are the changes for health insurance shoppers",
-          "link": "https://www.npr.org/2026/11/01/nx-s1-6023423/aca-open-enrollment-health-insurance",
-          "pubDate": "Sun, 01 Nov 2026 07:00:00 -0500",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-01T21:53:44.860Z"
+      "updatedAt": "2026-11-02T01:23:54.752Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Iran’s top diplomat hopes US shows ‘rationality,’ and other Mideast news - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNFZ2bTFqUjZkZlNGNXBaRDQ5c2FxOUduU1c4a052d3kwemJPbUJrZ1l3TXdpQXZXN18zX0NaUUlUa1hDYWluZ0pETDZfZWtwdF81b2xOcFVDZlFfS3RMb2hma2ZCNV92aV9sWUVQR3ZlR2EzYm5sakVwMnhPRmNGZUVQNGhjNGE1cDlQNHdoamRZUQ?oc=5",
-          "pubDate": "Sun, 01 Nov 2026 21:40:00 GMT",
+          "title": "Flash flooding triggers evacuations in Southwest and dire warning for Colorado spa town - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNDh4NktGVGxZOF80aEhPdnUtRmdDb0VFOWxTSEh4NTNkRFlyTTdzUWkwd3lfenZ4cVp3bFptRE5qVGloSU00OGs4SldjZHlvZjBLNVp0allfNE1KZmU3dGpoQ3pxNElSa1JpLXgzZzA1NkFJMExnVktzVzdDLUFSNUhrVFJORVMzS1VtMjZqZ0NpRnNnakFIem9wbG9rMmpoNEJaMHNwcFZwVk8wWVI4dUZ1dVg0bVdT?oc=5",
+          "pubDate": "Mon, 02 Nov 2026 00:41:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Lamar Jackson needs surgery for thumb injury and could miss rest of season, Ravens coach says - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNXJEUW5lNEFjbGNueXJWbE52UnNRLW9ydEttRFVidDlfZ2NtV3BEMnN0SUhHN0ZTWDJxbzFZXy16M192LWg0aHBzMk1wNm9URGhwRXdieEJTTkVWRm9TSnpQZ00wUmNGLWVhR3ZpVmtBNnlaLXdoOHBVbXdIQnJLWWRpZTBjaWV3Ri1SQkxvWHhLaEhJMEdmeQ?oc=5",
+          "pubDate": "Sun, 01 Nov 2026 23:57:09 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Trump rallies in Iowa and Kansas as Republicans fight to keep Senate and House control - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVC13c2s2am5reGJsV1BBRXVWdjdfakxxb1RITFltVWdlVTZfX0lrUUN1MDZULUVvYktETVZtMHM5LUtWU3ZfbDdoYlZ1dDJfa0pPeS01ZEhKXzFBbU9hbWdlNXR1VGZPLVJFVlRCc1Zqd3VVNG5Xdm9BQ1VXdzk0dUVxOTVIV1ZjTkptV3NmNW91cGpWQmZuNXptcEdaUkE?oc=5",
+          "pubDate": "Sun, 01 Nov 2026 23:42:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Mass shootings over Halloween weekend leave at least 6 dead and dozens injured across US - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPU3RKZGYwcUhNeFYteE1MaHpGTHlUTUpneGg5Q2lqdU9JMmNWeldVb1pRZ28zU0tLUFJHamJlUmRya1RrUnFic3N2bG5MbEc4aHdxd3k5dGVJQmozVmItY3k4S0ZBbGZQSEFaOUxWZjY1eTBkRU1ZX3pyVTQzaldFeUxCOURQRVkyOFd5QmRyVWw?oc=5",
+          "pubDate": "Sun, 01 Nov 2026 23:38:00 GMT",
           "source": "AP News"
         },
         {
           "title": "El-Sayed's primary opponent stuns Democrats by endorsing Republican opponent in Michigan Senate race - AP News",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZTZaeEZ3WHhrS2s0VVVXSWpRLVVLb185QTR6djh1R3UtZ1F0SFJCS1BWbDBaUmZxeEI4ekkyMVBObTV3R1RyZktuX0dISE9rTmFVd2tVY3NnMm8xTUQ5SGo1VFc1bWoySVdkNHp2c2JmR0g4a2hQOEJfdFVVaFZTQ2hSZWwwMHc1Sm81clYxelpTN1JGbFJZOEpEMlRVWkRBSTdCU0RzX1VWdDRrQXc?oc=5",
-          "pubDate": "Sun, 01 Nov 2026 21:26:00 GMT",
+          "pubDate": "Sun, 01 Nov 2026 23:24:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Trump signals he'll give closing election pitch at the Reflecting Pool, a revamp plagued by problems - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRTdUMkROUkZWSFVLOUVHWDRfck8yZjJleFdpeno4azFMWG1jNmxoNHZYMm45OHhMazBtNkZqa2pNOGRxMkhRdUVlSTZnSmRuQV9LenFsb1BqMTJ4T3k3SFJtSS1YNUk4akVUbno4NW5JRTRocE5weW1MWnA1anhYanF2TXpRdzRRaXpORHpLWE5JUGRXTGdtV1U5NTZ4VW54X3hDMEcybw?oc=5",
-          "pubDate": "Sun, 01 Nov 2026 21:06:00 GMT",
+          "title": "Donald Trump - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wVk5Dek1LUTk3V2t2cml3Q0lRWEhETXdYUzNTaUtrYW9ZYU5ybFVkbFduc3ZvV3VVTDVXMkl1NktRX3l6OU56M0h2MA?oc=5",
+          "pubDate": "Sun, 01 Nov 2026 23:00:49 GMT",
           "source": "AP News"
         },
         {
-          "title": "Business jet carrying 9 people crashed in a Florida neighborhood, erupting in a massive fireball - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPT3VPQVE0dmE3bnM0TVptc2lUeHFmSHNfc1pEdHJPdG01UTRZMW1NaWVZXzRQbWRBcmN3WlJqTTA5YWpOZURQQlUwNTJSNXY2azVQWmVFbmpRWldybndPMzNlWGFnQk5Na0dTdlFmeWRzbW56ZkpOV091MEdmWHViUW1IWFRqOEEzN3c?oc=5",
-          "pubDate": "Sun, 01 Nov 2026 20:25:00 GMT",
+          "title": "Civilians in Ukraine’s Kherson prepare for the return of war as localized ceasefire ends - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSmJHM1BrS0RMNk5BS0hac0VyQjZTSkdPbmlGdkZ6bGJiUGF2dkJuZVFhNzNTaUNhNU0yOXRyUGVKZU42dE1PZzBMWjNFY3hOVTBfSFRkc0lCclpXZ0xCLVhrRi02REF4b25JVEZFeTFDc2tQSnVsTDNuNVVjeHlEdG5zaXB4ODRDSUYwcWtQZFF2THR6eVNjQUZvUElmd1VwdWNDbVZjVQ?oc=5",
+          "pubDate": "Sun, 01 Nov 2026 22:24:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Dozens injured, at least 6 dead in Halloween weekend gun violence at nightlife districts across US - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPU3RKZGYwcUhNeFYteE1MaHpGTHlUTUpneGg5Q2lqdU9JMmNWeldVb1pRZ28zU0tLUFJHamJlUmRya1RrUnFic3N2bG5MbEc4aHdxd3k5dGVJQmozVmItY3k4S0ZBbGZQSEFaOUxWZjY1eTBkRU1ZX3pyVTQzaldFeUxCOURQRVkyOFd5QmRyVWw?oc=5",
-          "pubDate": "Sun, 01 Nov 2026 19:51:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Trump's rallies in Iowa and Kansas come as Republicans fight to keep Senate and House control - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVC13c2s2am5reGJsV1BBRXVWdjdfakxxb1RITFltVWdlVTZfX0lrUUN1MDZULUVvYktETVZtMHM5LUtWU3ZfbDdoYlZ1dDJfa0pPeS01ZEhKXzFBbU9hbWdlNXR1VGZPLVJFVlRCc1Zqd3VVNG5Xdm9BQ1VXdzk0dUVxOTVIV1ZjTkptV3NmNW91cGpWQmZuNXptcEdaUkE?oc=5",
-          "pubDate": "Sun, 01 Nov 2026 19:50:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Connecticut Sen. Chris Murphy is in the hospital after having a stroke, his office says - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOX1NiRk5MRXE1STVPM1NFMEx5bWRKR3Z3VFpCenRzSm5BaHoxRFB3REF0Z05UMi1adU9mTGVGVTVLUlk5cDdLRlJaRGR1TGJ3cWR6WmZVRnpCMGhCdUFIMzBwTXFsSzhQczdDYnJvRVRHWjFmblZtWXYwTWd4cWJlaTVZbjEwU1VCMG5uRElwNGhRZ0wzb1NDazBVdzFCX1E?oc=5",
-          "pubDate": "Sun, 01 Nov 2026 19:48:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Sheila Chepkirui wins matchup of past champions in NYC Marathon, Andreas Almgren makes winning debut - AP News",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Tc1JoaUlacXFSWFBuOW52aS16U0tJOVFiOEhaaWhySTFRYjBKZ3hraGFKeExRR21qN0RCTzNNN3pKal9vQlJINEFfRTByOEg5SDBfdzFCbHFUWmZNRDhBeXBCMFFZRmlmV0xmWnd4QlpJWmNwbUVrNEFsWkI?oc=5",
-          "pubDate": "Sun, 01 Nov 2026 19:40:00 GMT",
+          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
+          "pubDate": "Sun, 01 Nov 2026 22:15:01 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-01T21:53:44.898Z"
+      "updatedAt": "2026-11-02T01:23:55.194Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Republicans face legal setback in Alaska while Democrat's endorsement gives boost - Reuters",
+          "title": "Russia's FSB says minor detained over park attack threat after US tip-off - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVEpDUVhCYWticTBIZEZxaHVlMXBZbFp0ODd6RVB2c1VzNllrVFpHRk5SR3E4Uk9YeWRJVFVoVGhlLS10ckliNzkyTzdjNi1KRU85UG9UQXpvcjlteTdLcm5iTERreDNqaF9jSU1ndTBwN2pBcXdGNlhEYTRmTFpKOXVOMUl3Q21fQW9DS2gxUWpkYjdfYnlJWmROR3VEQk5KUVhNSGFMNFFHcUZmNTZ2UENLWks?oc=5",
+          "pubDate": "Sun, 01 Nov 2026 23:27:41 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Crew from NASA's simulated Mars mission emerges after 378 days in isolation - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOGRXMURNMmtKbjhBMEt0NnJPb3JYSXlaVHlBZzJfRXlaclVDejlLWElYWE5wMlRIc0E5bmVYN295RmczMklmR0E2SVBSTjJYWkR4ZzBXR0NUS2llWEwyRTU3NVV0Uk1WX1hxZlg2eE5vYXpXX0hpZ3VRQlRJM3ljaVppZEdJa0VleUNlSGZ2bUdaZTZmUTN3S1NDd2trdGJsaTRXcTFaUVFnNlNnZ3B3?oc=5",
+          "pubDate": "Sun, 01 Nov 2026 23:15:42 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Oil slips more than 1% as talks continue on ending Iran war - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeHdxcnVlWmx5T1pjbDZQS19XeXlYTW1xZmNONnJQWHk4YU1EQTRzZFZQVEJxYjd6WEJTN2pfZC10ZGlzXzVURVdHZkg1RjZGY2tjN0ZVRjNRc0p4UmQ1c2F6MUt4eEpHSml6Z3Q4WHpqV094aEo0dTlVbk00OGFBazlmdGhsWGdtckFHQjlBTVU5Q0FRR3hxUnVmcVpPeGZsTHBlWmhTdw?oc=5",
+          "pubDate": "Sun, 01 Nov 2026 23:13:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Republicans get boost from Michigan Democrat's endorsement, face legal setback in Alaska - Reuters",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQX2FHcHFUc2FHcFNFdlgyU2xwdjFlUDZ4ZG1aQjk1aDdCYnNFaE5WSXM5Q0E5cHB5Z0tKaWp0QXZ2dThVYjU2ZW1VemZmYmswcm1lUHA3TXhNVVBmUWdSQnRBTVJBdFlHQmlvempGUkFnTFo1aHBTZTZGeU53T3pIYUxXUTFaVGtaLXFldGwyUGRFNTNlWWtn?oc=5",
-          "pubDate": "Sun, 01 Nov 2026 21:38:13 GMT",
+          "pubDate": "Sun, 01 Nov 2026 22:50:22 GMT",
           "source": "Reuters"
         },
         {
-          "title": "US judge dismisses Trump election lawsuit in Alaska - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPck1iY1RiSVI0MWpxbGhyZzlYWm9PeGh6WXJnYTVIX0VqTS1UbGpTQUh0WkFxbUpFdlNsbmJCUzg0bENnWmtEUjcxUWxTbmIzMzlKUGdXNGFidFl0Nk10a29rYVlVUkdLRVM2TUtBU0NRcTlXUS0xSjhmOTRZNWVjUW1yMVVIOHh4QnFLTEFiQWZyRWNsSVE?oc=5",
-          "pubDate": "Sun, 01 Nov 2026 21:22:38 GMT",
+          "title": "Real Madrid extend winning run with 3-0 victory at Racing Santander - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNM190MHVUWXZicG1HS1lBTG1FZk9tbDlsV3lLVFVKVnBSSHFOcVlVek82RDNBME94eTVPMVAyZVNOaWpmVTZpYzVCRHg4anJGR1NNMTNta2k4YzFvRkR6UF82WWhVN09ab1VkbmxGaVAyaE1QZkZSU2ZVOUhBd2FTbV83THk0OXdoUGhfLXVaZTZxYmp4V3ZONDdzRTFzeFRFYkJBaWFTWXd2Nk9WR1g4dFRaY0c?oc=5",
+          "pubDate": "Sun, 01 Nov 2026 22:10:12 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Explainer: How US news organizations will make midterm race calls - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONzAtV0JTdE5NU0pTZHZpaWFEZjBxLXU2aXE3SERCZ1BnbHF2Yl9UUWVIbzRMSjFCc19hVDNjczdkRVctdmNUN3k1SU9ySFZXVWliVFROV0xpTm9uVUhsQWNMRWR1RE5GTE05d01pWVFBT3BLSWxyakhROVpQNW9CYWtKbTJDQ21lTy1iY3YxMHZKa0RXWkE5TGpKZEU2cVA2bnNLa1ZUUXhZaTRpVkw3OWRzYw?oc=5",
-          "pubDate": "Sun, 01 Nov 2026 21:06:10 GMT",
+          "title": "Nine people dead in Learjet crash in south Florida, officials say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTXAwdVdXLUJnR3JHYmUzeFlIQjFKeVB4RmR3QWVoS1F5bVFJaXpaN0JFS05hTFV2THZCUlgtY1JMS2lmWHMxdWNxMWRQRldTZThyZUdJSmJrMVhpRWQ2dTcwSFQ2by1SbXBma1JqckV3U3FtTE9ZZ0ZFN0ZzUHItXy14WTlGY3hwVEU5T0k4TEVZbXZCQ2ZaeExtWGpJV2xYRUFHZFE4cldUMVB0VDlWYU1vLXU0T0xnZzZMb1lB?oc=5",
+          "pubDate": "Sun, 01 Nov 2026 21:57:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Iran's IRGC Navy says two tankers 'exploded' after hitting mines in Hormuz - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZmk2dmxjdk1sOW96UkZiaUlJVXhzc1pJMjZJUnY2WGtvaXd4aXRJY3d4UTNoUmFJdUVQQjlkb0JPSmxEc2YzS1JOZ2NSWmpTUnhzYzBiU1hfeXBvb2F2WEp2NHc5YkFfUUNKSHc2NW1PMUVKT0xqUTdOa0tfUmZpQWE2SDFtdzJ5TmZleWpLd0Zid1JWR2Z0d0dOeVMwekFzNTNTYndHMmMyV0poZ2h0UmFOVWc2M3o3Z2h6TUR2SQ?oc=5",
-          "pubDate": "Sun, 01 Nov 2026 20:12:33 GMT",
+          "title": "Ukraine says public air raid alert app sent false alerts after being hacked - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYjdWbExXZ1JiYUVET2JwdTc2VVZ0T3J0czdJbUNyLWhLTzI3cW1zOWkxZF9mU3ZnVWtDYXR5SjVwZTlDZ0tFdXE5bkdIUjBwZEZRbmRDWGY4WkNvVkFqSFRJeXdBMzBPS0VJSmlzRkRTS1lCekRwOWRWZ3dSUXNyOVJMRk1Ga3lKZHV2bnctMFhVNTJDVFQ3UlBSWGl5QV95b3pMR2lGd05TRXdiRDdlUHFITkxmZw?oc=5",
+          "pubDate": "Sun, 01 Nov 2026 21:36:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Russian strikes cut power to thousands in Ukraine as drones damage Russian facility - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeXRrWGZCWmZwTWdSSnFYMmVQTDc1eVhwLVdCaHREN0xiRmdyUk91bldUN2NzVnRDZlJLUTFCdEZ4bWRQOFBQWFlFTnNyVVQ2ci12eVEtUnNLREFqSE84OEFTeVJhNzlLUGZuRGhnMGZ5Y1k0X3dNYU5fWmR2ajM1REw3dVF3eGx6WXg4ZHBjdERtX3R1MllSVjFncjZtLXg5dHNMbmNFdTRpTHBra0NuRHVmdUpfaTdWYTVZQ0FZYW4?oc=5",
-          "pubDate": "Sun, 01 Nov 2026 20:10:29 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Canada PM Carney said he had a good conversation with Trump on trade - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOU2ZUM3VWU2twNlU5YnJfamYzWWJtaDV3bm5WTFZMNHpWWVdwSk1BY1REWjl2cEsweU5UQ3ZjbkZkWVlkNFZKZFRDb0tNUFJ0bXVBczAwdWNsV19uMFNCUnNWRHZ0T1NNQ1ZoV2lvY0piVFgzY1lJWnN4bWE0eU16cllQUW9WSGJKSUJQY3FGeDhqN2JJdmJnZkt1MjdXc1hscE1zdGxqQ1NIeFJsUVRvLUxjTlA?oc=5",
-          "pubDate": "Sun, 01 Nov 2026 19:05:37 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Bulgaria's acting President Iotova takes lead in presidential runoff vote, exit polls show - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUWVuZkFvVFlJOEJiem9lZWhrb1hTLXVaS1ZyWnhwLUZpNUpUcm9VM3JYb1BLeGxxUTZ3NXVkWWVMOGNKQUVtdFNZNWFnajRrdi1uYWdKRUFyRjltZVZsTUdQdDBpdFFoX0dseVJTY3UxMzlOeTRNUjY1b3pqZGE1YXRjWmZNRExQUjYyNXJwZTBXbGRvbWNjdl95U1U4WHF1b1E?oc=5",
-          "pubDate": "Sun, 01 Nov 2026 18:55:40 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Latvia reports brief airspace intrusion near Russia, Belarus borders - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORHRBcV9HNTRnOEhqZThzQVMzVlZIaG5ncWtIZmFlTFpwNHRGVy1NM0FjZWJkSDhKQm1SREljaHFNQlZnVmk4V0h6Uy1CTkl1V3N4eXh1bm9haW1NOVdyTmxKcTZxek93QWFwZlpGMDBSaXBRMTBiU1VuWFV0MmdIM1JMTDNyUjhiZVpENms5RzBkQ254WkhBaXExQlFDcEw0eElDU1Rfa19rb2psQUE?oc=5",
-          "pubDate": "Sun, 01 Nov 2026 18:07:48 GMT",
+          "title": "How Trump’s noncitizen voter lists could affect the midterms - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZm9ZSldZUlltbnFxUUhWanNTQjRneFM1YnR4MlpuSWtwNlpVaE56cGVfUnJWSGN1QzFFQktUZEk1XzB6MThhRDJ6ODBkakt2UGZTQk16LVRGUU5qU1FhYjVyQUtIOVJNZmZyZlhSOW9kWDhIajBvTXJJelRNSXFWRFVnd0wyYkJnRkFiT1RjbzVjT2E5eUdTUGp2ZXVGZUpsTEw2bkhJak9NbGxH?oc=5",
+          "pubDate": "Sun, 01 Nov 2026 21:34:09 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-01T21:53:45.359Z"
+      "updatedAt": "2026-11-02T01:23:55.588Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-01T21:53:45.637Z"
+      "updatedAt": "2026-11-02T01:23:55.822Z"
     }
   ]
 }
