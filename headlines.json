@@ -1,66 +1,84 @@
 {
-  "generatedAt": "2026-11-02T18:44:34.951Z",
+  "generatedAt": "2026-11-03T01:29:16.485Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "Russian bombing kills 24 people at Ukraine aid centre, Kyiv says",
+          "title": "North Korea denies being behind record $6.3bn Binance hack",
+          "link": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 03 Nov 2026 01:23:03 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Indian film star Ranbir Kapoor on AI, movies and fatherhood",
+          "link": "https://www.bbc.co.uk/news/videos/cmvg9w5w2p1no?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 03 Nov 2026 00:09:13 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Plane may have broken apart ahead of deadly Florida jet crash, say investigators",
+          "link": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 03 Nov 2026 00:08:14 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
+          "link": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 03 Nov 2026 00:07:05 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Legal challenge to Australia's social media ban to start in High Court",
+          "link": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 02 Nov 2026 23:37:31 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Indonesia's toxic haze is giving its neighbours a political headache",
+          "link": "https://www.bbc.co.uk/news/articles/c3dxwzjn2gw8o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 02 Nov 2026 23:02:01 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
           "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 02 Nov 2026 18:35:05 GMT",
+          "pubDate": "Mon, 02 Nov 2026 21:10:04 GMT",
           "source": "BBC News"
         },
         {
-          "title": "Fake nuclear warning from hacked app sparks unease but not panic in Ukraine",
-          "link": "https://www.bbc.co.uk/news/articles/cwx28mngxz8do?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 02 Nov 2026 18:34:24 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "If hackers can take control of a supermarket freezer, how vulnerable is other tech?",
-          "link": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 02 Nov 2026 18:25:01 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Shop freezers in seven European countries hit by cyber-attack",
-          "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 02 Nov 2026 17:38:11 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "'All this food is now useless': Piles of rubbish after shop freezers hit by cyber-attack",
-          "link": "https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 02 Nov 2026 17:34:58 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
-          "link": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 02 Nov 2026 17:33:19 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Dutch police offer record €2m reward in hunt for drug lord",
-          "link": "https://www.bbc.co.uk/news/articles/ckly0v2q2yxlo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 02 Nov 2026 17:29:49 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Wizz Air flight from Luton in emergency landing after bomb threat",
-          "link": "https://www.bbc.co.uk/news/articles/c6rryvwre0p5o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 02 Nov 2026 14:35:38 GMT",
+          "title": "US midterms campaign 'shattering' spending records to be most expensive ever",
+          "link": "https://www.bbc.co.uk/news/articles/cqkgk64z7p58o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 02 Nov 2026 20:54:44 GMT",
           "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-02T18:44:33.821Z"
+      "updatedAt": "2026-11-03T01:29:15.220Z"
     },
     {
       "name": "NPR",
       "items": [
         {
-          "title": "DOJ asks for Supreme Court to intervene on California ballot demands",
+          "title": "AI chatbots are becoming political advisers. Their answers can mislead voters",
+          "link": "https://www.npr.org/2026/11/02/nx-s1-6025407/chatbots-midterms-voting-advice",
+          "pubDate": "Mon, 02 Nov 2026 15:02:41 -0500",
+          "source": "NPR"
+        },
+        {
+          "title": "Is America really that polarized? The answer might be a surprise",
+          "link": "https://www.npr.org/2026/11/02/nx-s1-6003534/us-political-polarization-research-trump",
+          "pubDate": "Mon, 02 Nov 2026 15:00:00 -0500",
+          "source": "NPR"
+        },
+        {
+          "title": "Judge accuses DOJ of 'weaponization,' tosses case against ex-FBI officials",
+          "link": "https://www.npr.org/2026/11/02/g-s1-151242/judge-tosses-case-fbi-officials-hunter-biden",
+          "pubDate": "Mon, 02 Nov 2026 13:54:01 -0500",
+          "source": "NPR"
+        },
+        {
+          "title": "The Supreme Court rejects a DOJ push to separate California ballots",
           "link": "https://www.npr.org/2026/11/02/nx-s1-6023802/supreme-court-california-voting-ballots-trump",
           "pubDate": "Mon, 02 Nov 2026 11:34:17 -0500",
           "source": "NPR"
@@ -78,148 +96,130 @@
           "source": "NPR"
         },
         {
-          "title": "6 things to watch for on election night",
-          "link": "https://www.npr.org/2026/11/02/nx-s1-6025451/midterms-what-to-watch-election-night",
-          "pubDate": "Mon, 02 Nov 2026 05:00:00 -0500",
-          "source": "NPR"
-        },
-        {
-          "title": "When it comes to election pressure, this year's Georgia or Michigan could be anywhere",
-          "link": "https://www.npr.org/2026/11/02/nx-s1-5989648/midterm-voting-election-pressure",
-          "pubDate": "Mon, 02 Nov 2026 05:00:00 -0500",
-          "source": "NPR"
-        },
-        {
           "title": "How does this fluoride-free toothpaste compare when it comes to oral health?",
           "link": "https://www.npr.org/2026/11/02/nx-s1-5955806/fluoride-toothpaste-hydroxyapatite-dental-oral-health",
           "pubDate": "Mon, 02 Nov 2026 05:00:00 -0500",
           "source": "NPR"
         },
         {
-          "title": "With students scarce, college admissions offices get friendlier, less intimidating",
-          "link": "https://www.npr.org/2026/11/02/nx-s1-6007855/college-admissions-change-fewer-students",
-          "pubDate": "Mon, 02 Nov 2026 05:00:00 -0500",
-          "source": "NPR"
-        },
-        {
-          "title": "What Vance's midterm push reveals about his potential 2028 bid",
-          "link": "https://www.npr.org/2026/11/02/nx-s1-6023159/what-vances-midterm-push-reveals-about-his-potential-2028-bid",
+          "title": "6 things to watch for on election night",
+          "link": "https://www.npr.org/2026/11/02/nx-s1-6025451/midterms-what-to-watch-election-night",
           "pubDate": "Mon, 02 Nov 2026 05:00:00 -0500",
           "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-02T18:44:33.981Z"
+      "updatedAt": "2026-11-03T01:29:15.362Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Trump administration appeals to Supreme Court to sideline 20,000 disputed California mail ballots - AP News",
+          "title": "Supreme Court rejects Trump administration push to set aside thousands of California ballots - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUTBndDdTam9fRTJHOThoRXMtenJuVDU4a05vbllPTlkxalRLWWI4VzlxTENCWGtNdDFQbC1xQ2g4MDFSZkM5RU5wNlFsM0FkaXBpM1VHR2NSRkJaRFpwWlNPVXRfUTc3WlR0WjhIa0pCNnE4SGI2WFFiMHdkbVZsVVZtdlhtNjdmQU15QW5tYXo5dlNOelVyblJwUnJnVmd5MWF3Z3hJRkZSU00?oc=5",
-          "pubDate": "Mon, 02 Nov 2026 18:22:00 GMT",
+          "pubDate": "Tue, 03 Nov 2026 01:17:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "US stocks recover some of last week’s sell-off after oil prices fall sharply - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdndJTkZzZVB3bUs3SWZPMjZXZ3JzbnlHbWJoak5WWlJWTnQwZFpJNWZpd0tQb3RYanMyckQxMmVjWm5nQnk2Tzl6QjVCOVFmN21RNks4Q2tsM2tUODBSMldsdVQ3eDBoX3UyZDZMM3JybmZVRVhxT2lReGVMMEJuMTNvLTNUbmR0TmVqeXRXV1FZSVdUV1ZtcWVhQQ?oc=5",
-          "pubDate": "Mon, 02 Nov 2026 18:02:00 GMT",
+          "title": "Reflecting Pool vs the state of the economy: Trump and Dems clash in closing messages - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaDlrREZMVWhaZHpFLWxtM3lWLUdPbUg5WUNxSV9sUFVRX2dxdGlzOFhISjk1c0FqNFEyVkJoM0lNYURGYXVMaWhYVDYzV2M1SzRoSHd0b0lBaThtVm1mSkxiVHJnVjhsYkdDMjRzMXljSjNqdDR3d2xZdTAzZkR4YWV2eGpQOG9ZcFpoYTdzZ2lTVVk?oc=5",
+          "pubDate": "Tue, 03 Nov 2026 00:59:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Amateur historian’s look into murderous pirate finds New York beach namesake may have helped - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPemJxTi1iS3ltaXhDajEzZWNuWTRnWk1IdVVteENlSjQ0Rk92Ym9tS0ZDemlfQncwM05yd2JHdGJQUVRtMGt4NDgwaG1EZjFlV1FaelNpMGw2X0JrU0xxTjBuM25qdm02aTk0M1BfZ2wwbFRONjVJUTlnUmZGWm80QW5neUlQT2N4SDMyNEIzcFM0cndXRTgwb3hqWkFneWRZZGkwcg?oc=5",
-          "pubDate": "Mon, 02 Nov 2026 17:58:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Photographer finds a rare perspective framing a horrific accident in Spain’s beautiful countryside - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVGxEZkxOeGljRUhaS3lPc28xZE1MY2F4UGpFUHRmZ2FCeW1WY1Q4YVJJSXpfb3dac0FlTDh0ZDA0NUhBX2ZLOVRYZFBZWDZ2VDA4LW9HMjJPcnFmWHJTS3Vfc1ZtVjFSUFRIVjVXZlMzTkYxTU5Fc3dxTGNzUkhwU2Vpd19zNnVBLVBONnYzOA?oc=5",
-          "pubDate": "Mon, 02 Nov 2026 17:57:00 GMT",
+          "title": "A West Point cadet drugged his girlfriend to force an unwanted abortion. Then he went to grad school - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcW1YekRsTGJuY3pvNUlQQ3pUeE1QdWZELTZVTWRDdTdyVVFNbXluOG9uQVhaaVBZRzlYMXJyMXlzdjVlanZFNXZIMnBoQXFWTnJSNG1Jd2M2eGI4dGRXNjV6ZExIREFUQjJXT0hyWlV4a3VRandKNEVDTXhhVU1hTXpNV0gwODBodmU4cDVuTU5aSHN2Y1lmbFdoNEdBeHhlaVgyRWhfWU4wVEk?oc=5",
+          "pubDate": "Tue, 03 Nov 2026 00:16:00 GMT",
           "source": "AP News"
         },
         {
           "title": "Judge cites 'weaponization' in tossing charges for ex-FBI agents accused of lying about Hunter Biden - AP News",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbzdKU1huRWQtMWhVQ0p3N2NLcVk2dmUwQ0I4bVVielVBYU5CSTluTDI2NG1DRUFtQ05JMkNuTDN5c0NSYTF4cU50VHgwTDREdk5NWlNkZzVEU0FlU1hUQTNGc2MyMEdsak5aUmxRYkhONHY2cDRTVnZESkNOZlRXWmhRVG96SlhsNDRPVWZCRUcydW9zN2F4N3RpQWNTYlNYNTZxQQ?oc=5",
-          "pubDate": "Mon, 02 Nov 2026 17:55:00 GMT",
+          "pubDate": "Mon, 02 Nov 2026 23:58:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "In an Alaska fishing community, the Dan Sullivan episode takes an ominous turn as FBI comes knocking - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSW9DeXdGd2NFTzhqZHdWOC1YVnRSQ2dOSUZHX3NHR04yRzV0dFk3M0VCWjlmelZfTFVJbFk3ekFjZ0ZGZEJRRXFfeE4weE5GTTRlaW1uUVZKeklVdm5GalZ4VmVuSDdLeUo4SXNzSnVNbnYyMzBDeVhpRUJwOUlQMzNKeWw3LXlOS3lRTC1jekFNeHJ3LWw2NDAzV3hycnpuZE1yeTVpcF9FQQ?oc=5",
-          "pubDate": "Mon, 02 Nov 2026 17:15:00 GMT",
+          "title": "Russia bombs aid center and shelter in southern Ukraine, killing 26, officials say - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSjQxRVBYSHRNOF9zQ2l4RldLcXhabTFZWjVtWkhRaGZ3c25xemVZZmJjU1FiQUxMYlpzdmFvQkp1RGRFcWpaVGlOel9vLWx4ZDdfdDdlbm9DWTBXU1B2ZTNHQVFfU1EyQ1VaSHE2NFNqTXEwSEdxZmJEM3piSHhQc1YwUnM0SmxQVFFXYkQtM3BkdW5hclJpdEZwNXZ0M01mRXVUWQ?oc=5",
+          "pubDate": "Mon, 02 Nov 2026 23:52:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Ex-Cleveland Guardians pitchers, including star reliever, go to trial in New York on fraud charges - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPd2F2R0RVQzdRdHZuZ2lzXzdGU0dNQy05cGJ5bGxCQWpXY0hTVXV3OE9fWXQzSXYzVTNIQzg4SkoxNVFiekZBUDBFdGNpY1gwT0pQRkw4OUxVbTdpZHUtY3k0MDBoeVV6UDNxS3Eta2FYZjdpdGJKZ1FfWENIMVRhTE8yWkdKYmN2NTlabExBR1V6NmdvX01UOQ?oc=5",
-          "pubDate": "Mon, 02 Nov 2026 17:11:00 GMT",
+          "title": "Parents of 1-year-old fatally shot by police protest at Mississippi Attorney General’s Office - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORjBIYXd5RWhpRnM3VndiNEZMM2J0dGNYMXpwLTc3cnA4clVpQzRYOXZTR01KdkhrdE52VGVVMGp3b1hJQUhlaUpjWlR5WThLLTNVNnQtZlZZRGllcVpITFFDTHdmVGxESWsxUEFtY3lDSjE0U01uRkR1aEE3N0YyUkh3NV9Jc2doR2tEeVNXV01jeGQ3bDNwRjRZX3BlT0dEOVUxVFg0Y2s?oc=5",
+          "pubDate": "Mon, 02 Nov 2026 23:29:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Jet crashes into a South Florida neighborhood, killing all 9 on board and leaving a fiery crater - AP News",
+          "title": "Vance says US has had ‘good conversations’ with Iran on finding deal to end conflict - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSlZQOGFnNWxyTG91ZkxGMkdDdlNhd1RuRUZzblYtZGxfOGpReXI2cE5oazAzZkFQRW96Y3VrUkdfenVFWWtPS1BfaFBYYWQ1WVBMVmpuaTZuU3llOGZNMF85QnVGRHAwZlphVWVoaDFiZWhoMWVjalhyTE5na3BVWjVHcmIyWDFoU0FnU2ZBaFZyOE5GRGJqQzdR?oc=5",
+          "pubDate": "Mon, 02 Nov 2026 23:27:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Parts of a Learjet may have broken off midair before Florida crash that killed 9, investigators say - AP News",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNWplWXJyaW1GUjY2TkpCVXpWaEhTWjBFZFQtckh3UzlxNVN5SlAwS1JOR0xWTk9WWnJxeTRKRjZYTGtkdFhzWTVidmlzZnhUQ2VEMXl4dmU5cmtaSmdOSkNjN3kyMGVOSUs1YktTbTF3Z2I5Qkd6UEJhdHpwLU1FYkFVdDE1U1NvNWc5ZUVsZGh0Z29aSGkyOS1kYw?oc=5",
-          "pubDate": "Mon, 02 Nov 2026 17:10:00 GMT",
+          "pubDate": "Mon, 02 Nov 2026 23:19:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-02T18:44:34.394Z"
+      "updatedAt": "2026-11-03T01:29:15.891Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "US to suspend South Africa and Rwanda from duty-free trade access - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTXBRdlBrbE5GVUt6UUhpRWFyUUNFTlBtSTAtdXgyaDA1OFl6ajZTQWg1SGlTakZXRXFNc0x4V1QtMHdmc1Vpb0ZWUGxlai1xR2xJTDd5YnVfZXBuY3ZyU1JDQk5tWU5PMEUwZlV2NGpGamg3SEZ0clF1NzA2R25McW52dzk0aGxLUkVnXzFwNlRpYlY3SlR2ckJnNHZPOUx6ZHNzNg?oc=5",
-          "pubDate": "Mon, 02 Nov 2026 18:16:55 GMT",
+          "title": "Iran says contacts over ending war continue after talks finish with no breakthrough - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOLXhRTFk2aHFYY3VOMWFGdmFySFR5MTNxeWRRU1ZQM3RaWjg4ZFZlOTJHNDZjYmdCVjBOX0RweVAyWEI4T2dZMVFSbUt4bTc4NGlibnlTaDh2TUNydEdOQjZJSmt3RnRIbk1LNVJ4SlNkR0M3QWs3NnZwQ0JlMW5Ud0FaN29PaGcwdk1CbTZ1UUhjYkg5XzZwVmdwWGNnRnladzZVUEhBeTZScEZIMl9YZ0hUT01GcDdkMXFwcXF0Q3hkTEluSnpnb3F5RFA?oc=5",
+          "pubDate": "Mon, 02 Nov 2026 23:57:41 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Marvell doubles down on AI boom with costly $115 billion Lumentum deal - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOelFpUlRuWUdrd3oyYkZTNkxFMW9mQlBTY01YTl9ERVRsYTc1VGNWQjR1VF90aEcwY01sTDNXN3NiWVBZNTY4aGVFSlR3WlBlb0laSkptRS1EMF9fMGlna1BXSVExN2dFVGlTNWMyQzYyM1RsYm5pMGxXOWxhbmp1UGRYVjk3RVA0b25WWVZPcFZMS05IOE1CTUgzY1BsQWY3MW5DbDF1bGs1M185UlM4cjlB?oc=5",
-          "pubDate": "Mon, 02 Nov 2026 18:15:52 GMT",
+          "title": "Trump brushes aside tough midterm prospects with visit to Reflecting Pool - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcnBpd0JVcDV2VUVGa0U0SjNDUW9jVDBMQWYzT1ZteDlxRjJZNHhuQm5vY1NneGJfTURPZU93MS1ncWgxcW9vV2JwSUtUZHcyVDFObE92VFdhN25qczhNUjNKRDVMN09Hc2FvOXRiN2ZQVUFGVTJyeUI0SWJfbmh6V3g0WWR3YXhjbndFUjhQcERlMy1kRkNndjNBTzhmZVdtcTVGbEJUN2tPTjNld3JIdXN5Mzl3azVRQ2FDZ0U1MkI?oc=5",
+          "pubDate": "Mon, 02 Nov 2026 23:53:01 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Tesla's monthly registrations rise across Europe as Chinese rivals gain ground - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOGxMVkRlMy14clJIR0dtYmlpSGRyajRjOWJqQzVkamhudWhBSjVETHliSS1HMEJGc21oWWVrNzNJWW1sREpZZXJReWRXWVB5ek5IZFJiM1NPUUN3SVZaNF9tanI0UHFTaGhJcE91cUg0RVlzSHVrX2JYUmo1QWFEZXkybmJZYVNZYWxhWlFnWEN6TDBVU1dBN0NPWlB0WjUxcU5J?oc=5",
-          "pubDate": "Mon, 02 Nov 2026 18:02:50 GMT",
+          "title": "Russian bombing kills 26 in village in southeastern Ukraine, emergency services say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcTJsVnE3eVE4T0Utbk5kRVBCb1dsT3ZrVjdDVmd5S3ZyczJkTVBvckZLejltX3pWeXVQaUQ5OXhOSlBpbThtOHlWZ2dZS3BOZXBNRXU2cHh0YjE2Yi1zZzJyY2pqWFRfVTZVZi1KcGw2RThBVVR2TmZwNEdhOEpLblZCUGtsUkd2YndfVTlQRU1UbksyQ2Z1a2RldGhMMWZrZGdRWmVTclhydlh6ZklYM1pfeE9lWUM2T1E?oc=5",
+          "pubDate": "Mon, 02 Nov 2026 23:51:45 GMT",
           "source": "Reuters"
         },
         {
-          "title": "US manufacturing strengthens in October, input prices stay high - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTW9UelFScXJVVVZ4RWVvek1GNndJeFA2Mk5ETVY0b1FwTFMtS0lnNkJFWkRkanQ3Sk5VVVlkaHRaZjVqM1gwcjVKamJSZTR5R2NTeFNIc0ZsZ0ZYSEQ4bXdxdXNzTVFhR0dVc1IyLWpadUpIOVcwT0tmWXB3XzJNaE92alNLUEo3cFNyZl95ampSWkl1N18xM082cTRNbTRoNno4?oc=5",
-          "pubDate": "Mon, 02 Nov 2026 17:51:54 GMT",
+          "title": "The races that will decide control of the US Senate - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSzVUWUtYdDBTSkRpU2xDeTNEck1fOVVySkVPRG9UbFpwMlNBbWZsdkFyTkhLdGpEellfclFEdlRhbzZsaGFweENuQ1JaeWZ2akJSel90cGlUTWlQWWx5WklVeENZMk9UZWpUZC1idV9TNG9MRG5lckRLLTI0Zmp6NnA2WGtuOFdxcTlLOUNjblJfUFNIZkxEdQ?oc=5",
+          "pubDate": "Mon, 02 Nov 2026 23:49:51 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Republicans, Democrats make midterm closing arguments as Michigan rift roils Senate race - Reuters",
+          "title": "Palantir forecasts strong quarterly revenue on AI demand - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORHl2TXR3V1NLdWxVUGFhNHludjhnOGY2M3g4TnktS19Pakw2dkM4VjAxMHQxcDEya0NtXzlGU29qc25GdEdrQ2o1WEI1MjlSc19ZZTBvVVZwRk1XZm9SQTJ5eEdRMm5mQ1p5aVZILWdXREdNU1d3RTBfSGRRRTJYLWVaZk5oR1U1Q0NSNGJHb2h3RUk5czl6bHJKQnBaTUREOWJmZHNKU2VsNGo3bHpldmo3SjRsbUcyRWc?oc=5",
+          "pubDate": "Mon, 02 Nov 2026 23:44:18 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US to mediate trilateral talks with Ukraine, Russia in Abu Dhabi next week, US envoy says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcHg1TzJIbXNhYlFoOUJHZ1NBLUV1X00zQlZabmJDa2lpOUtCY0dpbUZxNmRPSXJUcnVHZ3JOc19MamxqUnpDNl9qT2FQbmppZ09qSnhRbnNGSFZxeGJYSlZqd1prMlktb0xkajhGMkpKTDNXcFZOcjZHVUFzRnpnNHExR2Fub1N0REhjZXVKUDVGanBacjFreWVNODNGc0xBd0xxTWotR2g2a0wtbzI1NTltZWJjX2h6WmV6UWFWUDJxLTQ?oc=5",
+          "pubDate": "Mon, 02 Nov 2026 23:35:16 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "COMMENTARY: Brutal AI selloff stirs recession fears: McGeever - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWE8zaUFuYVVHZHM4aDVEdEN1TzVfbjVQa0xXWG1UNXpHcTlja19HTUtZbDUyTno2bXVwWDBvUm43eUVNbmZVblhrX1dTS2FGSTNLaU1zcDhSWWczS2dGUks5NFFYYTljcW43REtWYWZSRnBzV2ZFeTFNdmlzMno2WXFiTWY0RDBwTmtBdFRZWWMta1NUSktYdnVfTUF1c2NqTkhfaUJfNTVwaXI1QUhPV01SZnZxbzZW?oc=5",
+          "pubDate": "Mon, 02 Nov 2026 23:30:28 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Trump touts Washington makeover as midterm campaign nears end - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOXpJT29GbDlrNG9DZGRweDI2MF9RUUNBQnAzaHRDZEU4WE14NXUzYUE5SHJWVkszN3pqUl9NNGE2OUZWR1h6b3VCWHhQNGl5a0kyWTY3UjlweE9ubTgtZVBuV0c1VTZPTHdsNkwyRWtCZ1lXcjdsWUNGOHMwU0otMk5LTGN5WFBPWXc5UDdrMlA5MGxheUhrbk1TcjV5a24yY0NUQjJEdGRncDFRaG1NYXVYZlhJR051NHNWd2ZfTUo?oc=5",
-          "pubDate": "Mon, 02 Nov 2026 17:42:48 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Snap settles with two teens during trial testing claims social media caused depression, eating disorders - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbWlaZ3pFczZyTTFuOFB2ZWlTbXZnZ0RTck5XTnh0b3AtcURJYkJDX202VWN2aWdyaWc1bHdBbWlHbU1RSFQ2QWZEYWRiS0dyOVRQOXZpN3A4ckFoUS1Bamp3bk0zNWpkVVl0ckc3VXZpZGNQR0Q1Z3B6UHlPcFZHTVY4LWlYemVCM3ZKSjExUHBUdzFZbHRGMkt4al9OYUs3b0pjM21RQVlkWkZ0YmZXa3RzcUhES2dXVExOVg?oc=5",
-          "pubDate": "Mon, 02 Nov 2026 17:35:58 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "EXCLUSIVE: Veteran US proxy solicitors launch new firm Senpoint Partners - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObm13a0dBaTJvSnJwUFRsSUFBNTBzU3NiRWFBVWNjYUJhMmlONGZvRlNmblI2b0tHOFpIcWcxRHJXWllsZG42Sk9TOVVmVFdvV1ZqWFpwbUpFbElxc2pyS3poTFZMQVNTSk9ObzJTV2NUMllLekc2VU9TNVNMRlBRbzJNZnR6dEdGRm1LblBJcVpuWmJMWkY2TGRpYmh3T0tCeUp2RHpn?oc=5",
-          "pubDate": "Mon, 02 Nov 2026 17:27:33 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "The midterm races Wall Street and other financial firms are watching - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVkpxUklFUTdCSkhiYTVScExzTDk2NGdyN1JtaXh1bjZTb21RZTd2eEs5eGdlSkI2R3VMdzZITk55NUg0VEkzM0MxQ2lFajFSVXdob052ZG5JWU51eUlRV3dTMEZYNjUyNEtCRG1GMjFHQ1pRSEVQX2lsalJIUHM2R05wTHBvbTZqUU9GU1QzU3RMclU3dlpQODViTzhDTXB4Slc5SGdheHVmZkNMOVFMYkhGQzg?oc=5",
-          "pubDate": "Mon, 02 Nov 2026 17:19:38 GMT",
+          "pubDate": "Mon, 02 Nov 2026 23:28:42 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-02T18:44:34.790Z"
+      "updatedAt": "2026-11-03T01:29:16.280Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-02T18:44:34.951Z"
+      "updatedAt": "2026-11-03T01:29:16.485Z"
     }
   ]
 }
