@@ -1,19 +1,37 @@
 {
-  "generatedAt": "2026-11-05T21:51:25.519Z",
+  "generatedAt": "2026-11-06T02:07:52.955Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "Major tech and AI stocks plummet as Nasdaq loses $2.5tn in value",
+          "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
           "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 05 Nov 2026 21:43:39 GMT",
+          "pubDate": "Fri, 06 Nov 2026 01:44:03 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Democratic socialist defeats incumbent Karen Bass in Los Angeles mayor's race",
+          "link": "https://www.bbc.co.uk/news/articles/c6e3xxwk3k11o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 06 Nov 2026 01:28:03 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
+          "link": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 06 Nov 2026 00:02:57 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Delhi's toxic winter air is back - is the Indian capital prepared for pollution?",
+          "link": "https://www.bbc.co.uk/news/articles/cm78p0n09q3xo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 05 Nov 2026 23:16:53 GMT",
           "source": "BBC News"
         },
         {
           "title": "California governor commutes sentences for state's 548 death row inmates",
           "link": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 05 Nov 2026 21:25:48 GMT",
+          "pubDate": "Thu, 05 Nov 2026 23:09:33 GMT",
           "source": "BBC News"
         },
         {
@@ -29,36 +47,42 @@
           "source": "BBC News"
         },
         {
-          "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
-          "link": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 05 Nov 2026 19:08:08 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "French protests see numbers surge as unions join strikes over high cost of living",
-          "link": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 05 Nov 2026 17:59:53 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Paraguay President Santiago Peña resigns after bank collapse",
-          "link": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 05 Nov 2026 17:40:40 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Hoax bomb threats target European airlines and airports for second time in a week",
-          "link": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 05 Nov 2026 17:39:48 GMT",
+          "title": "Chris vs Chris: Who's running and what's at stake this New Zealand election",
+          "link": "https://www.bbc.co.uk/news/videos/cr86zxe1q5j3o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 05 Nov 2026 19:08:48 GMT",
           "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-05T21:51:24.196Z"
+      "updatedAt": "2026-11-06T02:07:51.746Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Fears about an AI crackdown after midterms sparks a $2 trillion rout in tech stocks",
+          "link": "https://www.npr.org/2026/11/05/nx-s1-6031987/stock-markets-ai-midterm-elections",
+          "pubDate": "Thu, 05 Nov 2026 19:16:53 -0500",
+          "source": "NPR"
+        },
+        {
+          "title": "These are the races in the House and Senate that haven't been called yet",
+          "link": "https://www.npr.org/2026/11/05/g-s1-152127/house-senate-uncalled-races",
+          "pubDate": "Thu, 05 Nov 2026 19:03:45 -0500",
+          "source": "NPR"
+        },
+        {
+          "title": "Melania Trump touts rare agreement she brokered between Russia and Ukraine",
+          "link": "https://www.npr.org/2026/11/05/nx-s1-6030662/melania-trump-touts-rare-agreement-she-brokered-between-russia-and-ukraine",
+          "pubDate": "Thu, 05 Nov 2026 18:52:48 -0500",
+          "source": "NPR"
+        },
+        {
+          "title": "How North Carolina Democrats flipped several House seats in historically GOP districts",
+          "link": "https://www.npr.org/2026/11/05/nx-s1-6031719/north-carolina-democrats-flip-house-seats-republican-districts",
+          "pubDate": "Thu, 05 Nov 2026 18:34:36 -0500",
+          "source": "NPR"
+        },
         {
           "title": "Paraguay's president is impeached minutes after resigning following a bank collapse",
           "link": "https://www.npr.org/2026/11/05/nx-s1-6030842/paraguay-president-impeached-bank-collapse",
@@ -82,144 +106,120 @@
           "link": "https://www.npr.org/2026/11/05/nx-s1-6030720/russell-brand-rape-sexual-assault-prison",
           "pubDate": "Thu, 05 Nov 2026 11:15:02 -0500",
           "source": "NPR"
-        },
-        {
-          "title": "First-time homebuyers remain scarce, but a record share of them pay all cash",
-          "link": "https://www.npr.org/2026/11/05/nx-s1-6022491/real-estate-all-cash-offer",
-          "pubDate": "Thu, 05 Nov 2026 10:00:00 -0500",
-          "source": "NPR"
-        },
-        {
-          "title": "Teens worldwide aren't getting enough exercise -- especially girls",
-          "link": "https://www.npr.org/2026/11/05/nx-s1-6027635/exercise-workout-teenagers-adolescents-gender-gap",
-          "pubDate": "Thu, 05 Nov 2026 07:24:14 -0500",
-          "source": "NPR"
-        },
-        {
-          "title": "What's next for Democrats after the midterms. And, a look at the outstanding races",
-          "link": "https://www.npr.org/2026/11/05/g-s1-152046/up-first-newsletter-democrats-congress-control-house-senate-trump-reaction",
-          "pubDate": "Thu, 05 Nov 2026 07:02:24 -0500",
-          "source": "NPR"
-        },
-        {
-          "title": "After sweeping midterm wins, here's what Democrats hope to get done in the majority",
-          "link": "https://www.npr.org/2026/11/05/nx-s1-6029331/democrats-have-a-long-to-do-list-when-they-take-over-congress-next-year",
-          "pubDate": "Thu, 05 Nov 2026 06:45:35 -0500",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-05T21:51:24.399Z"
+      "updatedAt": "2026-11-06T02:07:51.869Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "South Carolina U.S. Senate Election Live Results 2026 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUExDWTZsajA0RFd3MEFVLUVkUEpBeksyNXhieURxS0NxR3EtbW1vU08teHBqc1BDTXVpY0pYZEhDMGVQbG1qQ1IzZko1dGJZbTFjNnNiRTNyeVhNTkRDRzg3VUZsbERVVkpWdTNvYU45NUpIdFJWM2lqQ1ExTHpVbUZn?oc=5",
-          "pubDate": "Thu, 05 Nov 2026 21:32:21 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Colorado U.S. House Election Live Results 2026 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9HLVhOYUhxMDBrY2F6eUNZNkF3bDItVUNXUjRzZzhva3RBYmdhZmd4TU5McmtONnNjS3hnZ3BIU045MWN6SThBNnd4Vmttd3c5WUlaVzFacFg0V3FmcEJEQUIxaFp3WVFYRHc3MnlzbHhCMlVTVVhjeA?oc=5",
-          "pubDate": "Thu, 05 Nov 2026 21:04:02 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Alaska Governor Election Live Results 2026 - AP News",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1zVnF6Z256eUxiRnVxdl8zOHZZc1hya2VseWs4elFvOV9fZGVkdW1iOGVyVXh5LWxMa3NET0ZOSHNhWGhQd21sWUw0dXVNaTlhMnVaaFlWbzBYbVVMX0d6aU9ub2RoQ2Q0RlRkbEpBVzNFYjNPekE?oc=5",
-          "pubDate": "Thu, 05 Nov 2026 21:02:16 GMT",
+          "pubDate": "Fri, 06 Nov 2026 02:01:58 GMT",
           "source": "AP News"
         },
         {
-          "title": "Russia and Ukraine exchange airstrikes as reconstruction and security talks resume in Brussels - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONU8xbTg4VENlQUJjcEpnTzVYNGNSYWFsS2xxS3EtZWhFaDJzOGs5c1Mza1lvNFpDOWx3dlN5NEUzYzBBcEFvSVNoLTlMeDFLdlhQT0daQlFveWp0MFVmbUVxY0xER1F5TkRNbHFnZE8wRXR3TE53emR4cmVlaDJIdGxNbmpKdXN1eHFNakJfZTZLZExQOTVUbWt5bUZLRXV5QjgzSUV1SlRDS1F2RnJv?oc=5",
-          "pubDate": "Thu, 05 Nov 2026 20:49:00 GMT",
+          "title": "2026 U.S. Senate Election Results - AP News",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ycUhlZzZ2V1lhd2pzVExlRFNUOVV5M0N6VHB5a2FuNFU2NDNaV0dSTV9hUVZTZHZCeVRjeWRWMnh0NUVIRW1vbmhfNFRsSVRqSWIwM21iUmMxTE4zYzhocm81ajd4U0x2R0R0Q1Bn?oc=5",
+          "pubDate": "Fri, 06 Nov 2026 02:01:55 GMT",
           "source": "AP News"
         },
         {
-          "title": "Los Angeles City Council member Nithya Raman ousts embattled Mayor Karen Bass - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYjhIMWFLekdpYW92dVlfVkVsU0RuMUVLVURERkh2eVhqdDBPSEowZVN4VTNfeGJzNjFZenNTQTdPY09veHJILVYybk9fRFlPMmZrbk9YVWF0RGM0YkxBVnAycHFPMFZMc3JHaU5ReGhQNU9MNTlkWXN1OG44V3FJRllKdVZBeEhEMmFVdWwyZDVVQ1pa?oc=5",
-          "pubDate": "Thu, 05 Nov 2026 20:34:00 GMT",
+          "title": "South Carolina U.S. Senate Election Live Results 2026 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUExDWTZsajA0RFd3MEFVLUVkUEpBeksyNXhieURxS0NxR3EtbW1vU08teHBqc1BDTXVpY0pYZEhDMGVQbG1qQ1IzZko1dGJZbTFjNnNiRTNyeVhNTkRDRzg3VUZsbERVVkpWdTNvYU45NUpIdFJWM2lqQ1ExTHpVbUZn?oc=5",
+          "pubDate": "Fri, 06 Nov 2026 01:58:06 GMT",
           "source": "AP News"
         },
         {
-          "title": "2026 Maine Midterm Election Results - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBmcVNqTFVUcUU0YUtCXzQyT0FqMlp1TkhvVldOTGpGLUh5T3c3ZkZaTkpta0hHaXNaU0RsZ2Uxc1JvUG5ET3pSNzVKR2ZMRUpDSVV5N25ubW9oZWUtZ25YVG1ocllBT3h1?oc=5",
-          "pubDate": "Thu, 05 Nov 2026 20:20:44 GMT",
+          "title": "Trump makes the Oval Office a national monument. But future presidents can still redecorate - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUHJ3cFN3VWhNTTlLTDhHT1ZGdl9EdTZ2dC1xTEU3QklLUU1zMkltS1o2WkktNWx3T2FiVlNrLTN6bTVoYnQxQms2aWtGQ0lHbS1qSmNlRFZONWpNNll0ZloyUU1ObHZkN0IxNy1pM3NWcXc4S3k1cmg2eVZTYVpTMks1ZmZVYkcwTm9SSnRRN3VRX2RyUG9rbXBhSXU5WVhzMjc2Uw?oc=5",
+          "pubDate": "Fri, 06 Nov 2026 01:31:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "A wipeout for AI stocks sends Wall Street reeling, and the S&P 500 tumbles more than 3.5% - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcE43QWpUdHk2WE5qUmd4Z0hjYlBqQ3FGLUVoRlBTbmN4c1JJbWZpeUJmTXhpalZzaTNGMzVweE5wNDRJdnRSMzRENURHaGRIejdqbnVObV9KNEp6R0p0ZnAzT3Y5WGVYejV6VWc0dGZheFVWdG9IVDljNjMxVmVDVGpYZlpwN19nVzBibDdqVmRJOXV3Vk9YdFRiSQ?oc=5",
-          "pubDate": "Thu, 05 Nov 2026 20:15:00 GMT",
+          "title": "Florida carries out its 19th execution of year as 3 states administer the death penalty in a day - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSU9RMHg3N1FVX05NZG5acGlZRGc4STlmXzZtbUg3Y1VLWTFTQTFmcEdRbDlEelRDSnA3SFVvbHNZSW9yaHNHcHNBSkxGa2FvVnhsMzRPWHd5eGwwN1N0QkU4LWZZUU5aQU54Z1JRcWsxSHduWDIxbEJrRDN3UjM4MG5OZ1F1N2hFaElKTlA2WnZBdy1yZi1ONEhR?oc=5",
+          "pubDate": "Fri, 06 Nov 2026 01:21:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Senate Democrats will not let Trump put a 'right-winger' on the Supreme Court, Schumer vows - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTl9hNExDenI3VlVtR1Zfbm9CalRFazFMZ2JCUGpQYWRvS0lRWFl5YlRjQkoyOTVaWmtNN2dqX2RUdEZfUlVqOTFOUzYxbWtxUHhUdWZkYV9Cbjh2dFhRbl9ETl8xV043d0xnem51UlpzZ240STUzV3Y1Nk1aUTJ4TnVpVC1LNGM2b0ZlUkpPeS1iR3JLMzlaM3ZmTk1xYlBCVEE?oc=5",
-          "pubDate": "Thu, 05 Nov 2026 19:46:00 GMT",
+          "title": "LIV and let die: Rival league tells bankruptcy court it will wind down operations - AP News",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeTVhMHFoanN4WGUwMjJsNXNiNXozbUN0ZHhseFE0Z2M5eE1NdlZpSW55OF80SGZ6bWU0am1NWlJoWDhCSkljU2NQTUFPSXg5NklwU2JXUVdjNGRNMkZ5cGZOcURDSWF5Y1BaYXkzQThNSnNmTDRUUldhUWVKZUswbGRNOXRiZw?oc=5",
+          "pubDate": "Fri, 06 Nov 2026 00:51:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "California Gov. Newsom says he will commute all death sentences in state to life without parole - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOXM0d1k2ajhHSTBsWmVGM1daSlByM2dqRmttVU9uZjZJVF9fSm1wRTh5TmRFeEhDdlVDREdVcWlpMmIyWElvUm03Tnc5UkZIV2xlUGh0YmEzTTFmb1Etal8xQzB4OW43empXWVJXQVNTRnJkejN0VFc4MGFKRUN5YXdxdlFjbVg4cFFSaHg0T3NMTy1NclB5NUVpR1QwYlJSYlllLWluZmM?oc=5",
+          "pubDate": "Fri, 06 Nov 2026 00:47:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Paraguay President Peña under investigation, faces removal from office over bank collapse - AP News",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQam96dk1BWFZKQ0pzUHlCZ2FpdEkzUWRqbks0di1NdW9jSE16M1F2c3lwMkphbkEzT0JZNzYxTzdnTkxMcjF4b3U1T25ESkNjQXpmU0ItLVhfanZiaUVsWkpNcUl2ZUNoa3MxRFlHRGRNam9rRzVVblF5bjV5UTAtYW9NVldrSG1QcWwyOXJ1eG1KcFlpbFRjbmtOVGNSSFU0aGxpM1lrd0N1YVhGZWUyNmxXdFRXZVh5dnFVMTBVbERkNldBSWpN?oc=5",
+          "pubDate": "Fri, 06 Nov 2026 00:46:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-05T21:51:24.898Z"
+      "updatedAt": "2026-11-06T02:07:52.347Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Nasdaq posts biggest daily drop in 19 months on fears of AI regulations - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObTdYYmZaZmRqRUt0TDhBbERraDF2VlpSTDJ4M1NyZ2dRRkNUUVJ0OVFHdzJyc01uNDZOV2YzZFprbU90aUNzTEtYTEdNWU5Jc19VVVlHc24tNkZ2VFhqOWg3b0swVDFnY2hHaGxuNVZXVkE5S09xZXV2eGRQb1kwdWFEZWxpeGMybDZRcGtyWW52Q1JfaHY4MVo1YmJfRW9KZmNsdVJqS24zeGRZVUpaV3VB?oc=5",
-          "pubDate": "Thu, 05 Nov 2026 21:30:09 GMT",
+          "title": "Trump takes action to make sure the Oval Office stays oval - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZkRZczJ5WUJPUEFMQ08xY20wb19HRUo5eEF4bFpNaEd3UUtnQmMyRnJBQXFtQ2VmUlVCWkVZWG5sOVRLcHVyaENMdzhtR09RR0V0dzllVGlqVXBLNlpWTFhuWXBsRjdoVnpVamdFOWFGZFpKUmJ3MlVUMTRLclJ2M3lnTVQ4NTB1VHN6aDdXX3ZiTUVSRXI2UmFRMzI?oc=5",
+          "pubDate": "Fri, 06 Nov 2026 00:17:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Iran sent nuclear proposal to the US via Qatar, senior Iranian official tells Reuters - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSlJZVlphdWhPcDNGc1E5eDVNdDdMQkJNTXVDS0RYSVRqaC1tblFqQy1FekRQdldnV0FsMU5RdnVHNEI3UEZWMC1MY1l5cnRtcjBlcDlpUXdvX0hXbV91S1UxajV1TEx1VmJ2SzNLNElXSjc3YkdmYWw4VGNXZEl5NXR4RFNjRXBxeEZMLWpBT1Z5X2JRc3NEdkdMZDljQ0dkZXZRbzc3U1NmNkhnaFN5QzNhVmRzSmhsM0Q5VzU3Mm11OWZBa3M1V1lvaw?oc=5",
-          "pubDate": "Thu, 05 Nov 2026 21:23:10 GMT",
+          "title": "IREN tops quarterly revenue estimates, delays some Microsoft AI infrastructure deliveries - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSnlxQ1JoQmdtMWZ4UzhHRWJacmNRTGNCeDJmTWRRV2xpdU9xUzY2MzhVSklqMkNxeG93QVNnRUZCYUxvVUNBaHVta2lPS2VxMDlxQnZvandHTXZQVk1LNmVTakZxTzJjcHFGbjBwUHd0ajBwdl9HUERfaEsyWGNicU9yeklKMldtNldLMk5rNWpRNnMyWXY1QUNVa3lLU21tcXEwbXUzMFUzTTZtNnRN?oc=5",
+          "pubDate": "Thu, 05 Nov 2026 23:49:55 GMT",
           "source": "Reuters"
         },
         {
-          "title": "AI storm dooms tech stocks to $2 trillion decline on darkest day since 2025 - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVVFVWVUwWmVwQXRLMTV2ZFBIV3dpR1VBUTU4dnhfUW5SN3BwcGZraXF1YTFDMmx2TjZFOTVBTWNqc09zTV9VbE1faDJ5Y294THA0YlFkTlZmX3AzWDJacm96Um1YQ0htd2FLRmJFTlpvLWVhQ0pXdUtyLVh0ZTRESzBJNW1fZ2lrTVBkUEIzejF2VUVLeGdyQWxDazczTmNWQWdOMXIybTR2T0x5OWFGNWMyU256bUhRME54eXBlTQ?oc=5",
-          "pubDate": "Thu, 05 Nov 2026 20:59:42 GMT",
+          "title": "Apple raises $7.5 billion from bond sale, term sheet seen by Reuters shows - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdlhUUFluWi1GY01oNEdScGpmXzdDU2FaWVdtR1ctcjg3UVJZczlVUmxUenAxVWZ2eUVza1RJUE5iMU1fUk1MYlZnOHFVakFIZ2gxaThXb0Nya283XzJsdEhidEptZV83Rl9ab0RqZ1Z4WlVGOHZpU1lkYnlfeXIyQkRvSG9tQzFTam96WUtqWUR1MmN0VzhIRHlPN0p3RmdEWVFPUElzY1psLUtRX1hIR0IxUQ?oc=5",
+          "pubDate": "Thu, 05 Nov 2026 23:43:27 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Fed's Hammack, Barkin favor gradual rate-hike path to lower inflation - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTDI4cDU1ODdtRUFrTlZiTjZUbUlKNjZicWpjOHp0YnhONENvNEhMemJ3bWNyR1Rpd0d5akp3Yk1FVElzaDlBenRLRkttdjFvOXFZaGt6dm05WWdZZXpqcU5vazJSY2p3UEx6dkFtM18tNU5nVFZEb0dFY3NHUkRGZlAxS2xJVHZPWWFYOWNUd1lsU2VnbEliTXZDYnp1Um5aX2M1a3Fn?oc=5",
-          "pubDate": "Thu, 05 Nov 2026 20:58:39 GMT",
+          "title": "EXCLUSIVE: AI backlash could threaten Anthropic IPO timing, potential investors say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNGVmWktzeU5zbmRiaDdiZ2pxbEJhRk94VGN2V1lxUmpTNTFFNjhLR0puTjROeHE4UENDYjQ3OEFNbHdralNNdVJ2ZThsMldHZFlrcDZ1U21BTS1aeHU1aGNUNWRnTHc2SU5DVUktREt0Q3hzUkNhN1VJNDZYR3JLdjhwZUlaQjZCSl9Oa1dfT0d2dUotaWhDMkgxU1RBdVJOSEMwMzJsd0M3TmIyTGZ2WFZpVQ?oc=5",
+          "pubDate": "Thu, 05 Nov 2026 23:41:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Portugal's Ronaldo announces international retirement - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcVlZWHk4XzU4N190TEhTREdrcTJFU1R6QjZVRnp1VW9tYVN1OGc1ZUl3dkszbkFxQXN3TjhfbWpycVpIOGpYZXJST2FGRDdrUl9EbDUxeGNBeXpfZEZDT05XdHJoT25Tbkg3elc1ZF91YjFuZURRRV9GSVJSQVo0VmdDR0RucEEyaEN6VUhHWkVOY1U5by1lT0lLM2wwRVBKYU5sa3NvZVZHS1pqMEZUMFNScw?oc=5",
-          "pubDate": "Thu, 05 Nov 2026 20:46:41 GMT",
+          "title": "Trump to nominate Texas Supreme Court justice who lost election to federal bench - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQWhEUWNvMWszeTdXeUZ4bmtGcmVqMjZ0UVpfMHNDT0xzLXdvZHRuT2Z5Y0VPYTJOQ3VwQkFjM1RRWWRJQkZFZV9XaGFsUzVaSDlfbU9mUkdyUG51bURHUTFTTjJacnhtVWMwemJvV3duYmlRU3Jpa2k3cW9TRl9vUGJVQXhvdzNnYUhCR2lQcklTbUpSUjlYZkROdWtPWGNuVklLWE41QjhMdVFkMWIxUkFRemlRalZZSERwSzBEMnRRU2VsX3c?oc=5",
+          "pubDate": "Thu, 05 Nov 2026 23:38:14 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Israel's president pledges to pick candidate on Sunday to form government - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONXl2TW1pRDd2eEFya2FTU0pkOWJWd3lFZG1PdUdSNlBWTVR5VGp3UWtLb2E0Ri1iTmt1SWhRckdOVVhkN2ItZ1Y2QlhjT2NrcGR0ZTg3MklhcENpZUFOM0I1SDRYdTZwMFlYeGMwMTM1SWF5ZzNnd2h4ZnJ1bC1BZWhlNDlYUXM3S3FRdXVyR1p3SE5GYUFoMm1wSWRYSlBYY3NkcTBpVklrTnZibm51eURCWkszdHBtdU9vYQ?oc=5",
-          "pubDate": "Thu, 05 Nov 2026 20:46:13 GMT",
+          "title": "Renewed refinery attacks deplete Russian diesel supply as US deal in focus - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPa19aTnZtOEpfZ3RqS0dfVkZWcUpPTG91S3ltd1NqWUNvbENsNllVdDdYbWtLaXpLR0N6Uk5jMzRIZThlLUkwNVZwaXh5dlZPUFhLQ3JZY01Ka2tmbHFjY2thcnk2aFc3eUxsOHhXNFNQNjlWcU9NZmFRVnFNNjZPenhVbmZKMzNPRnlwVkNydng2dE9DRjNCVDFQeGl1WGdFT3RfYmNJRmp2OVFhMExV?oc=5",
+          "pubDate": "Thu, 05 Nov 2026 23:36:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "California governor to grant clemency to all 548 death row inmates in state - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONFpTdTN5c1lMaW81c2hwQkJjQ2E3U1hWWGVTUjlraUJoLVNxdGcybWNVY1FXMm03MXZkeWEwVWpabEcwdW9qRkxBeXhZRGlJRUp2NVl0T1pjWFBNRE9hX21ySTVraGxaTm54OS1TXzB6NXJLY2NkQ3JURnluWWpEM0g0VmRGMm1XczdBR1ZTVjZFRkxzejg3UjJ5eTNCZmxlbXVmczZ6bmZYd3Q0aE82LQ?oc=5",
-          "pubDate": "Thu, 05 Nov 2026 20:33:43 GMT",
+          "title": "Democrats won big. But what is their mandate? - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPd1NmVk1HUHFXc051NlpncEhKdW1YZTdWQW5BQUhmRDBIeVoxY1ExZzFmQjRqZ0FiNVpRUjEzaE5Ydzd3akUyOUdpUjVFVE1TR1JkY2NPMG1aZ1lTMTJjdzEwUUZaa3g0SnVjSWNsa0d2TnFiWE1XVWtvVEZDS2ZObjFyQndoRkpjMldKU1c1LWJKWkpEU2w4?oc=5",
+          "pubDate": "Thu, 05 Nov 2026 23:23:05 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Anthropic's models improving nearly twice as fast with help from AI, study finds - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMGdBZmd5QzZyU2xDSU9Jd1N3ZFZjMC1odkgzWjhFbkdNMUdyNG9nVzV4TTBXVUhYckhBc1pJWEMzU3UyYjlnbXlMZTFRYjRaXzJTbmVPZGRmR3BPMHE1X0pIb19kYUZFTzVWeTdQN0U0TmI1TDZqMkktLUJKNjdYQXVLWGNxSG5BRDJGS21kVTNXVll1Q1REc0xySHMwWlpzajdqa2tBVWNsWHMwQWVqbWFGY1pDWV9B?oc=5",
-          "pubDate": "Thu, 05 Nov 2026 20:07:43 GMT",
+          "title": "Trump says he met Putin envoy, sees Ukraine deal soon - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWkhXRFdJbFdiTmQySWJyWVRIbHhpdFlXaVRSQmh6UzJvbDJSbWZUdGRwM0VPaFpHbkVpc1VmSlAybEFJUTN0cmNMWkpuX1FJSE8zT3NBYXdXY05lLUhjTldMelM1eGdUWWVnbF9qb0s3VFMySFJ1Qk5GTFJmeXVHM1NLaHNEMzdrZjhXNWpEcVhOQTdSV3V6SVVMQU0xMGtNbUhkblZRdG82aUdvTWxLbHZQUmFpdEh5WUV4ZUgtZU1JcjFjaUxZ?oc=5",
+          "pubDate": "Thu, 05 Nov 2026 23:22:15 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-05T21:51:25.291Z"
+      "updatedAt": "2026-11-06T02:07:52.730Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-05T21:51:25.519Z"
+      "updatedAt": "2026-11-06T02:07:52.954Z"
     }
   ]
 }
