@@ -1,13 +1,19 @@
 {
-  "generatedAt": "2026-11-07T20:03:24.826Z",
+  "generatedAt": "2026-11-07T23:50:33.200Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "What we know so far after Polish gunman in military clothing opens fire in Krakow",
+          "title": "What we know so far after Krakow gun attack",
           "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 07 Nov 2026 19:51:44 GMT",
+          "pubDate": "Sat, 07 Nov 2026 22:58:49 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+          "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 07 Nov 2026 22:19:59 GMT",
           "source": "BBC News"
         },
         {
@@ -45,20 +51,26 @@
           "link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 07 Nov 2026 15:56:28 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
-          "link": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 07 Nov 2026 15:19:35 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-07T20:03:23.437Z"
+      "updatedAt": "2026-11-07T23:50:32.005Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "The surprising and often forgotten history of economic populism in Texas",
+          "link": "https://www.npr.org/2026/11/07/nx-s1-6030759/the-surprising-and-often-forgotten-history-of-texas-tradition-of-economic-populism",
+          "pubDate": "Sat, 07 Nov 2026 17:12:07 -0500",
+          "source": "NPR"
+        },
+        {
+          "title": "Israel's president taps opposition candidate, not Netanyahu, to form a government",
+          "link": "https://www.npr.org/2026/11/07/g-s1-152536/netanyahu-israel-government-eisenkot-herzog",
+          "pubDate": "Sat, 07 Nov 2026 15:18:18 -0500",
+          "source": "NPR"
+        },
         {
           "title": "Gunman opens fire in Polish city of Krakow, killing 6 people and injuring 15",
           "link": "https://www.npr.org/2026/11/07/g-s1-152532/gunman-opens-fire-in-polish-city-of-krakow-killing-6-people-and-injuring-15",
@@ -94,132 +106,120 @@
           "link": "https://www.npr.org/2026/11/07/g-s1-152225/princess-diana-honor-menstruation-stigma",
           "pubDate": "Sat, 07 Nov 2026 06:50:21 -0500",
           "source": "NPR"
-        },
-        {
-          "title": "An unexpected activist emerged to help block a $5 billion data center in Maryland",
-          "link": "https://www.npr.org/2026/11/07/nx-s1-6007770/data-centers-activist-moratorium",
-          "pubDate": "Sat, 07 Nov 2026 05:00:00 -0500",
-          "source": "NPR"
-        },
-        {
-          "title": "The economy propelled Democrats to victory. What can they actually do about it?",
-          "link": "https://www.npr.org/2026/11/06/nx-s1-6026662/the-economy-propelled-democrats-to-victory-what-can-they-actually-do-about-it",
-          "pubDate": "Fri, 06 Nov 2026 16:53:10 -0500",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-07T20:03:23.755Z"
+      "updatedAt": "2026-11-07T23:50:32.187Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Los Angeles, CA Mayor Nonpartisan Runoff Election Election Live Results 2026 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNb1A3LU02UEMzODJVNUMwNVpGTkxzYjF3VW0xYi1WUlByTHN4ZmhjR0M0QnotWUt4c3ZXWnJ2dHcxVENGWHd3V0pVNEVCZWRMNzJmaUoyREhSUjFiLXQzcGtVbHN5QVhYemZ1ZU5mdUxYeTNteHFPbGVDRXh5UzZnZWJWQUE4RDg?oc=5",
-          "pubDate": "Sat, 07 Nov 2026 19:59:24 GMT",
+          "title": "Iran says it has lifted its self-imposed limit on missile ranges, and other Mideast news - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTWlBaG5BYjY0T3dxT1Z6aFlidmJqREpvYzlzdXFOQW8wZFpLaWZSUktyc0dhZXJQdUd3UlJHLVVITURzd2VnWEFtR2w4cVcydHVIVXFCci1yOUJXVnpQWXAteGNWQUZNcWZjcERDZ01KeXFpd1hNN1Z1QmdIY0c5N2ZsOWxKQ1RHdnk4LW1QNVpyZw?oc=5",
+          "pubDate": "Sat, 07 Nov 2026 22:29:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "2026 U.S. Senate Election Results - AP News",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ycUhlZzZ2V1lhd2pzVExlRFNUOVV5M0N6VHB5a2FuNFU2NDNaV0dSTV9hUVZTZHZCeVRjeWRWMnh0NUVIRW1vbmhfNFRsSVRqSWIwM21iUmMxTE4zYzhocm81ajd4U0x2R0R0Q1Bn?oc=5",
-          "pubDate": "Sat, 07 Nov 2026 19:59:22 GMT",
+          "title": "Melania Trump and LSU announce $7.2M to endow scholarships for former foster care students - AP News",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaE9fZWFrMkNPS05yeXBqOVE0eWtqcldnVk9WT2gtVGJOZEhFY29rbENXUExfUmFrbVAxUzB4eFlwVGNVX2VhLTRwa3dtd2tvV25WU1NJODNtMWdsZUlJTWhURUc2MnlCSWltUzZtNUF1ZzVxUjRSejZHY0t5eVl5eHRqWGZkS2Z0c0pCTEowZi1GajhiaXBvOHlORTdUbmM5TnN5VTZVLWw0MEU1UFhZdzlR?oc=5",
+          "pubDate": "Sat, 07 Nov 2026 22:24:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Gunman opens fire in Polish city of Krakow, killing 6 people and injuring 15 - AP News",
+          "title": "NHL Scores, News & Stats | Latest NHL News - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE95bFRBdmVKUk5rWWVXSkN6WVgzRzA2S3RDQ1o3eDYxWFBISC1MSXdadkNXMy1LdU5yTEYtbDZ4SQ?oc=5",
+          "pubDate": "Sat, 07 Nov 2026 21:40:17 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "2 women and man found dead in the Krakow suspect's home were likely his family, prime minister says - AP News",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOT3JpbnhmUWhOUkNrNkUwYVdXYkk1cDFHbEVsVGlsOElHU1dkOUNWa3JVLUdsWkdlQ1A1aWlqbkRQMmVxMk1iRko4Vng5cWdKWTA2cVdBR0xaVUVWU3pQbjJveEFwbzhmTktUX0dyQWFxX3R4eU9zbFFaWTBBM3FRaDE1TW1pZFJHUlBJbVpGMHZCVnpZVV9FUGVn?oc=5",
-          "pubDate": "Sat, 07 Nov 2026 18:37:00 GMT",
+          "pubDate": "Sat, 07 Nov 2026 21:18:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Airstrikes kill more than 2 dozen people near Yemen’s capital, Houthis say - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ2phS1lmT1dSeWRnSGpVanhOVE5iNGVSbldWSTFDMjdLVFAxSW9FcWNTUkVYX1ppMXJ1aFRLYlF2NDY3STIwZGdTaE9lOEtOOEU3ZFZKd1RXbXhhWDVsZ1ZiRGRZU0pEdkx2LXZHUXBKeGVWOEFrT3RMaUx6UUZnZk1tSG13Tzh6VWlOT01tVQ?oc=5",
-          "pubDate": "Sat, 07 Nov 2026 16:42:00 GMT",
+          "title": "Israel’s president taps opposition candidate Eisenkot to form a government, in setback for Netanyahu - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQ2hLdHByWTZwTzZfZ1oxdmpTcXltazRXS3hxcEczRm1taGhHd0JJSW9KVEdmMDlUMjRsai02SzdkbkNwWFRwZnBXelM5TldhSG10anV2dE1tSGVXbFRERHdBSWI3bkN3bC1pTDkySGZEakxPUWd0X2xsa011SWxYcFFR?oc=5",
+          "pubDate": "Sat, 07 Nov 2026 21:09:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "2026 Ohio Midterm Election Results - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBoRXFabEpDYThvalh6ektrQXRqYldZRzNvMzFBRTFrZDlablN2aTRvWkdoQi1QdUx2Z0ZMTUVxQ3BFUk1XUFA3LTNGOWtfS1l0N2Nhd25TZlZkZzRiZEE1a0JwV0lNN2M?oc=5",
-          "pubDate": "Sat, 07 Nov 2026 16:39:42 GMT",
+          "title": "Trump says he's asked UFC's Dana White to be his press secretary. No one will say if he's joking - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ2FyWVhVOHdId05JN1ZCTzFidHJyRktaVjg5NkM2WVV2ZFlrLWFrLXlWSHFkQlZ6a1BUSWV2Zzk4cWlmTHdTOFNWc3FpenFDYVpkYnQ1ZXYtdWdLRlFTVldySXU2c0VuTlhvWFZDVDRZenIzOGtNOUdSZWplX3FDaFdjdmpsa2xtLTQtbHFpQ3I4OGFEU1IwRkhsS0Y?oc=5",
+          "pubDate": "Sat, 07 Nov 2026 20:43:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "2026 Texas Midterm Election Results - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE01ekZMQkpEN0tQTUl1N0o5UXBMWXVSWHV4aG1ZYnNuT2lCRllyUlhTV3JmeHdaMnY1d3lQZ0xsR1Q0LXhmNlNKTUdxeVhrMWgtZXlwRTQtQXZQbExjUUZENXFId3Z0dy1O?oc=5",
-          "pubDate": "Sat, 07 Nov 2026 16:07:45 GMT",
+          "title": "What is Diwali, the Festival of Lights, and how is it celebrated? - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOX3JnUjY1ZS1tNXRyb3ZGZWJnZENRSnJyUlJORE9sdFpOdTVfclFlRW1LeEFBZzJoYzNYbjN2NnQwWTNUMEFPY3BrQWdORGxBb0V0VW5DVktCQm1EUWpCdUFmUUQzRml2R1AtdTJQcjBwY3ktbktiVTF0UkhpcUw5SkhxY3llN2ZNV0dxWjdCYjE3UC1yQ3dqVmpQamFHUnM2ZEwzdkpZSEV1NmM?oc=5",
+          "pubDate": "Sat, 07 Nov 2026 18:01:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "From high-flying AI stocks to tariff-hit alcohol companies, the midterms shook up Wall Street - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVGE5cWdNNmdGUVUta195UWctb3dsWEp2d0ZDRE5FQU02SDRwckpqa25JM2QxNk1wOTV5aXF4NDJiZnRZRzlCcm85RzNjOEltYktuc1NDQ2Y2UzJOc2VMQm5HaFZUR2FGdkNDMVhoazNkN1FTYTBVdWRDQjItS2c2ZUVoemlwVVg4X3Z6cVhtTEx4NWtVbjhSMm5NR1loaXVaUkNFOTVB?oc=5",
-          "pubDate": "Sat, 07 Nov 2026 14:32:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "In his words: Miller is an immigration hardliner and a bombastic critic of Democrats - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOczJjWldUcEF2ME5jZmJTY1lIQzhrS3RDTmw5TXBUWFQxY0EtTFR0akE3NG44WkFnM21DV0hibEVLeGNUY0E0ZlJFSmkzMXhRVG1FN2Q4MzluMkNBRXZaSlQ0bmJOQ0dLUUJ3Wngxa3JwLXV2WVpxb2dRVldxUERTOS1KVkhHYm5Mc1FBbUpCR3BFSFBvWDRrQVY3UQ?oc=5",
-          "pubDate": "Sat, 07 Nov 2026 13:54:00 GMT",
+          "title": "Want to fly to the moon? NASA is looking for new astronauts to help grow its Artemis program - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbDAtWjVqRU1HalZEMlRTa0hVQjdIOGZjandFVTc5eExkWExoRnRUZ1hNeHNILUxOLU8yRWFsUFh6ZGlmLUpQV1l1UHE5MEg0NkR3VXdjUENXb2l0RmFMMzVsOEtjUlJfWm1TLVhpTjhPWll4MjFoWGFJR090ZDVKSDFJOG9HWlVZdEZUUl9SRQ?oc=5",
+          "pubDate": "Sat, 07 Nov 2026 18:00:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-07T20:03:24.209Z"
+      "updatedAt": "2026-11-07T23:50:32.598Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Israeli president picks Gadi Eisenkot, Netanyahu rival, to form government - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVHIwVVZqTlgycHFJTEhPM3g1WU5oWWtKelZsNW5aUEphdmpDRC1STjMxQmYyYjR5dkNZUVFiVFBfZ3J1Nm9HN0RmM25pOUlTMWJkWGZuVktLV3h5QkNmdEtrbUt5X2NBYXFuZC04TzhPZUJWLWVJeWJMM256ZWIxRENRczhNdEtIa2I2aF85VzJUejZMa1ZvVEFSZXZCQWJtZU1nTnBvaVl4cmNJTEhfcWpCNTFjMmotS090TzE1eXc?oc=5",
-          "pubDate": "Sat, 07 Nov 2026 19:34:27 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Polish gunman kills four women and two men in Krakow's main square - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRTFhVC1uNVB5TFlvcHRtb2h6RmJPdjY0SDZjdWRJSUw0RlVLUUtnbkFlNGtZRlczbE5RU1U0NEhIRG9Ya3ZmNVlRb243YWQ5OTNkNThoaG1ZYUxONkZsaDJTeTctek9yX3hidk5lVU9qRUJidG5PNkczQVhKcEJKMG5nZzdGSVhUZUJ0S3RwWFJqbmVzSFU5YmE3dDgtRllhUVpDNkxxdnN6Q21MQ1A1cjFPNjc4cUdx?oc=5",
-          "pubDate": "Sat, 07 Nov 2026 19:23:27 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Trump offers UFC chief Dana White top communications job - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVWlGRlZPRzhRc1dTV0p6YVhZdFFnR0hjYWZ3NUN1N0FQdkp3RllrU0NoNWtnSkd0eXBWLU9uSjBHR1drSUdyZ3VXUDV2MEpyMGMyOUxVdkRDdE1Ja3gyNkR3QXdlRHd1b3BOQ1NiQkxET0cwRFdRUG5fNzZreV9pU2FRM2FsUlFYNERPdzVxWTFaMnZGMGJCcl9NMU8tZ1hWbGJWQkNFbnVwSjFBcnBfT2FZSHJfQQ?oc=5",
-          "pubDate": "Sat, 07 Nov 2026 19:13:17 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Paraguay prosecutors charge ex-President Peña, seek pretrial detention - Reuters",
+          "title": "Judge orders Paraguay's ex-president Peña held before trial - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVGw3MmJzOEt0S1ozTzJoUDVsWDYya0FocXVpaGU0cG1EYWdILUp1UWc4SjMzaEg2ZnZWR0ZKRG5uaGhXVW0wbkFlMTFuVVp0WmFlZWQ3cnJuYy1WanFqSVlZYkdOQXBNRTJtcExjajYyZnU4ZXpTRmVpOGNGTnJfaERjTHVLUm9USjdpS1J2VGV1Z09zZ1ZxaGpVUVVjRHpON3ctb0JFUzRBX3VQUEVsZXIzWXR6eFJObk05SGlDelpVM0F5NF84?oc=5",
-          "pubDate": "Sat, 07 Nov 2026 19:07:10 GMT",
+          "pubDate": "Sat, 07 Nov 2026 23:34:21 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Pope Leo urges South America to bridge divides on Uruguay stop of 12-day tour - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNld4REJFQ1RVUFd0ekQzNS1GOFItalNLYlAyVmhPVVpWN3RzdXl2ZDg3R2JoUkJiSmpMVjZVXy1taDYzNGJWd0NfVHhXdXRQb0d4LTItdTY1dTVJdDdSWUdrN25feUhFTnJOY3dncHpaRFZhT0lFelpWdFRpY0Q3djdwOGlkaXNyVHFUTDZMZGNWaVJGYUlzR05TVEltdE1jck5NdDRCeTVXVHhRZEdWNjBoUFpybzJpeGNZ?oc=5",
-          "pubDate": "Sat, 07 Nov 2026 18:32:13 GMT",
+          "title": "Israeli president picks Gadi Eisenkot, Netanyahu rival, to try to form government - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVHIwVVZqTlgycHFJTEhPM3g1WU5oWWtKelZsNW5aUEphdmpDRC1STjMxQmYyYjR5dkNZUVFiVFBfZ3J1Nm9HN0RmM25pOUlTMWJkWGZuVktLV3h5QkNmdEtrbUt5X2NBYXFuZC04TzhPZUJWLWVJeWJMM256ZWIxRENRczhNdEtIa2I2aF85VzJUejZMa1ZvVEFSZXZCQWJtZU1nTnBvaVl4cmNJTEhfcWpCNTFjMmotS090TzE1eXc?oc=5",
+          "pubDate": "Sat, 07 Nov 2026 22:49:13 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Houthi-run health ministry says airstrikes kill 33 near Yemen capital - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPck9CUTVBTUgyQVJnZUxobTVpZGxIdTBmaGNmOWpHVWt4NUF4SHYyTWlUS1g2QmZ5RUd0YmJHVVpPQUVqa1lzVlJ1SU9HUUpDdzh0SVNFRW9KanJEZDJycDA5cVhxV0NKWnA5TUEtS2tkcDF4MTNjTUstalQwLXg3TVJXb3d1VlpaTUN6N1BFWHFfUk1FNm42QWdBSndJNDdQQUdNNlZKUVlLTUN6RmQ0aXluNHNUQUxYTW9vV0ZfUEFHX2tjXzBwZkpZeXA?oc=5",
+          "pubDate": "Sat, 07 Nov 2026 22:48:58 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Tesla to add Cybertruck shift to clear orders before dismantling line next year - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRUhMT1JwanVVTTN4eGhvcXBNTHo3UV80QXFDU2hMWTRuUGppME9ab3RkNVkwZnFOWXh6VEZ5WUNHaHcwclAtOEZFb09CLWwteW5pN0JMY1lydFVhbzV2OVE4a0FqY1lJRGhIeEN6SVNnSTBfTTBuZm5GeGJFYjdMMUVTVFVFcGNlQ2x0RnF0allhVDV5MlQ4MlV6b1luV21tOVdNQTBzNG1RaHJBU3IxSlBGV25fRm5KTUEza0I4M2xRYnZwZFVIR29vMEY0bXBBaGMtWGJNOEw2Z1VjVXc?oc=5",
+          "pubDate": "Sat, 07 Nov 2026 22:45:57 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Guatemalan lawmaker, three police officers killed in armed attack - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSXlOVWFGbEdmcjdXRHh1UWR1aEZUUDVHSlpoMG9vUERJWEVRdWZRenlvaWlkZFJ3WFk4MTB6RVFNajRHY2oySHRFbkJqbWVWRVd6M3k3eWtNZTl4RjJZaGNKNWNBQUVrUTduNXFZODI0bmhCbm9XMmtGOHZVaHFKaHVlMURsd2tsUER4ZVZxdjFvLW9TQUxIM3dEMFpjWkpHY3FIdzhqOXZ4UTVDbW0xTFZ3?oc=5",
+          "pubDate": "Sat, 07 Nov 2026 22:45:43 GMT",
           "source": "Reuters"
         },
         {
           "title": "Binance CFO Kaiser Ng steps down, Justin Yek named new finance chief - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNY1JmenBXVVhvTTZIU0dnVDduN0VVeWNYU3R1Sl9CLVRhQ3RPaUYwcG85TWZrenoxS3Nwc2NKU3FmNnI0Z05ydlhySG9fWjF1cy1sdm9WVlluYUt6SFNzSTVzUFdaSWVQY21Ud0dOV1ROamRnSUFPUUFTZF9mLXpidXRRdjlwRkZfaGVSNmxnMDVhWF9SRDE4TmxsanRkRktselE4SGVRZFlXYmNvbWo1aEJaVl8zZy1YZm9nQg?oc=5",
-          "pubDate": "Sat, 07 Nov 2026 18:26:11 GMT",
+          "pubDate": "Sat, 07 Nov 2026 22:45:30 GMT",
           "source": "Reuters"
         },
         {
-          "title": "French presidential hopeful Melenchon pledges economic stimulus, renews NATO exit call - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUm5pT3hsUTgtVnJTWl9zTUxFZlpBUEtYeHNsMjQ2em9ybzdCcmtHLWszT1lhZEc0NkJqMV8xWHRMUG9faXQ3M2pyMUxLejRUWXJNa3c2aFhaamdEbzdPMWJtdGl1Yno3TEVBaUpvQzVZdHFibEFiMGRSeUswdUhhcmM0cllNV0VpYTV0VU1oTlBva3F2NGV5ekdiZTNDUXBqWFNjaXczclRmb0pNUGYtUWZTT3JJNlo4RDZj?oc=5",
-          "pubDate": "Sat, 07 Nov 2026 18:01:39 GMT",
+          "title": "Trump says he wants UFC chief Dana White for White House press secretary - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVWlGRlZPRzhRc1dTV0p6YVhZdFFnR0hjYWZ3NUN1N0FQdkp3RllrU0NoNWtnSkd0eXBWLU9uSjBHR1drSUdyZ3VXUDV2MEpyMGMyOUxVdkRDdE1Ja3gyNkR3QXdlRHd1b3BOQ1NiQkxET0cwRFdRUG5fNzZreV9pU2FRM2FsUlFYNERPdzVxWTFaMnZGMGJCcl9NMU8tZ1hWbGJWQkNFbnVwSjFBcnBfT2FZSHJfQQ?oc=5",
+          "pubDate": "Sat, 07 Nov 2026 22:23:16 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Berkshire Hathaway speeds up stock buybacks, though profit falls - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa29SbTRWcFpWdFpiekRVRjRvNmZjM1BnNzhOeVY3ajB5S25PaGgxVFAyTTItcjRDZkRmcHROSkJIZ3lNdXZkaGp0R2hOZE51eHBzR1U3MXlFRXhGOUhzV1pJR0I2RWtUZnRrQU1MVXZaSm1haDUtTHo3NEJvNGJhLU1rM2N4a240NWp2VFh5Vkd5LW1DOTd6emN0S1QyengzS1ZjdE04LVluRGppX19oSkxtVktEcDdoWXVIVk93?oc=5",
-          "pubDate": "Sat, 07 Nov 2026 17:37:38 GMT",
+          "title": "Poland in shock after six die in Krakow mass shooting - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRTFhVC1uNVB5TFlvcHRtb2h6RmJPdjY0SDZjdWRJSUw0RlVLUUtnbkFlNGtZRlczbE5RU1U0NEhIRG9Ya3ZmNVlRb243YWQ5OTNkNThoaG1ZYUxONkZsaDJTeTctek9yX3hidk5lVU9qRUJidG5PNkczQVhKcEJKMG5nZzdGSVhUZUJ0S3RwWFJqbmVzSFU5YmE3dDgtRllhUVpDNkxxdnN6Q21MQ1A1cjFPNjc4cUdx?oc=5",
+          "pubDate": "Sat, 07 Nov 2026 22:16:54 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-07T20:03:24.634Z"
+      "updatedAt": "2026-11-07T23:50:32.997Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-07T20:03:24.826Z"
+      "updatedAt": "2026-11-07T23:50:33.200Z"
     }
   ]
 }
