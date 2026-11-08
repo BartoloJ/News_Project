@@ -1,13 +1,19 @@
 {
-  "generatedAt": "2026-11-07T23:50:33.200Z",
+  "generatedAt": "2026-11-08T05:31:21.706Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
+          "title": "Houthis say at least 33 killed in Saudi air strike",
+          "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 08 Nov 2026 04:03:12 GMT",
+          "source": "BBC News"
+        },
+        {
           "title": "What we know so far after Krakow gun attack",
           "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 07 Nov 2026 22:58:49 GMT",
+          "pubDate": "Sun, 08 Nov 2026 01:47:41 GMT",
           "source": "BBC News"
         },
         {
@@ -35,12 +41,6 @@
           "source": "BBC News"
         },
         {
-          "title": "Houthis say at least 25 killed in Saudi air strike",
-          "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 07 Nov 2026 17:09:24 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "Italian foreign minister says hackers leaked his personal data",
           "link": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 07 Nov 2026 16:50:06 GMT",
@@ -54,11 +54,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-07T23:50:32.005Z"
+      "updatedAt": "2026-11-08T05:31:20.378Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Homelessness in the U.S. saw its largest drop in more than a decade last year",
+          "link": "https://www.npr.org/2026/11/07/nx-s1-6033491/homelessness-in-the-u-s-saw-its-largest-drop-in-more-than-a-decade-last-year",
+          "pubDate": "Sat, 07 Nov 2026 19:19:52 -0500",
+          "source": "NPR"
+        },
         {
           "title": "The surprising and often forgotten history of economic populism in Texas",
           "link": "https://www.npr.org/2026/11/07/nx-s1-6030759/the-surprising-and-often-forgotten-history-of-texas-tradition-of-economic-populism",
@@ -72,7 +78,7 @@
           "source": "NPR"
         },
         {
-          "title": "Gunman opens fire in Polish city of Krakow, killing 6 people and injuring 15",
+          "title": "Polish gunman who killed 6 people in Krakow has 'ultranationalistic' views, authorities say",
           "link": "https://www.npr.org/2026/11/07/g-s1-152532/gunman-opens-fire-in-polish-city-of-krakow-killing-6-people-and-injuring-15",
           "pubDate": "Sat, 07 Nov 2026 13:37:36 -0500",
           "source": "NPR"
@@ -100,75 +106,75 @@
           "link": "https://www.npr.org/2026/11/07/nx-s1-6023225/perspective-simon-winchester-was-here-to-tell-a-story",
           "pubDate": "Sat, 07 Nov 2026 08:00:00 -0500",
           "source": "NPR"
-        },
-        {
-          "title": "This teen boy set out to get people talking about periods. He's now a Diana honoree",
-          "link": "https://www.npr.org/2026/11/07/g-s1-152225/princess-diana-honor-menstruation-stigma",
-          "pubDate": "Sat, 07 Nov 2026 06:50:21 -0500",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-07T23:50:32.187Z"
+      "updatedAt": "2026-11-08T05:31:20.715Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Iran says it has lifted its self-imposed limit on missile ranges, and other Mideast news - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTWlBaG5BYjY0T3dxT1Z6aFlidmJqREpvYzlzdXFOQW8wZFpLaWZSUktyc0dhZXJQdUd3UlJHLVVITURzd2VnWEFtR2w4cVcydHVIVXFCci1yOUJXVnpQWXAteGNWQUZNcWZjcERDZ01KeXFpd1hNN1Z1QmdIY0c5N2ZsOWxKQ1RHdnk4LW1QNVpyZw?oc=5",
-          "pubDate": "Sat, 07 Nov 2026 22:29:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Melania Trump and LSU announce $7.2M to endow scholarships for former foster care students - AP News",
+          "title": "Melania Trump and LSU announce $7.2 million to endow scholarships for former foster care students - AP News",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaE9fZWFrMkNPS05yeXBqOVE0eWtqcldnVk9WT2gtVGJOZEhFY29rbENXUExfUmFrbVAxUzB4eFlwVGNVX2VhLTRwa3dtd2tvV25WU1NJODNtMWdsZUlJTWhURUc2MnlCSWltUzZtNUF1ZzVxUjRSejZHY0t5eVl5eHRqWGZkS2Z0c0pCTEowZi1GajhiaXBvOHlORTdUbmM5TnN5VTZVLWw0MEU1UFhZdzlR?oc=5",
-          "pubDate": "Sat, 07 Nov 2026 22:24:00 GMT",
+          "pubDate": "Sun, 08 Nov 2026 03:58:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "NHL Scores, News & Stats | Latest NHL News - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE95bFRBdmVKUk5rWWVXSkN6WVgzRzA2S3RDQ1o3eDYxWFBISC1MSXdadkNXMy1LdU5yTEYtbDZ4SQ?oc=5",
-          "pubDate": "Sat, 07 Nov 2026 21:40:17 GMT",
+          "title": "Oregon storms back from 2-touchdown deficit to hammer No. 11 Ohio State 41-28 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcl9zUlFLb2FULU5GbzQ0c1B4VjJXLVpyZ1Q1Vm9sTzk0MHhCaW8yODRIc0gzZ3RST3dVNmZmdzV3WVNGaldfTFdJT3dScHFpY01NUFJCekE1T0pwR0lncmRNbTVlUnJBQ2FSemd5ZWc1ZmlUSjlDVXdKTVYtXzJEejdRbG1IQmtrNE5HNg?oc=5",
+          "pubDate": "Sun, 08 Nov 2026 03:19:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "2 women and man found dead in the Krakow suspect's home were likely his family, prime minister says - AP News",
+          "title": "Colorado U.S. House Election Live Results 2026 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9HLVhOYUhxMDBrY2F6eUNZNkF3bDItVUNXUjRzZzhva3RBYmdhZmd4TU5McmtONnNjS3hnZ3BIU045MWN6SThBNnd4Vmttd3c5WUlaVzFacFg0V3FmcEJEQUIxaFp3WVFYRHc3MnlzbHhCMlVTVVhjeA?oc=5",
+          "pubDate": "Sun, 08 Nov 2026 03:13:03 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "With an ode to mate tea, pope urges faithful in Uruguay to build bridges of fraternity and faith - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONEJXOWR4cEZFc2ZCSUozaVVxQ1ZTNGFqc2taVW96VVNXRkkwR2Z1ZFpEYU9wbWZjSGRzMTY5cV9EOElweEl0T0tVY1dfX0JoMEF0SWJNUnN2aF95S3hGbm5yWXpPQW8zZnBrNmJVMUpRYkxIYVFaVXJZRnM5bGtiQ0xMUGlhVlZCWVRJZmY3aEk5WndxUlhhN2s5T2U?oc=5",
+          "pubDate": "Sun, 08 Nov 2026 01:39:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Sun, 08 Nov 2026 01:38:25 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Polish gunman who killed 6 people in Krakow has ‘ultranationalistic’ views, authorities say - AP News",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOT3JpbnhmUWhOUkNrNkUwYVdXYkk1cDFHbEVsVGlsOElHU1dkOUNWa3JVLUdsWkdlQ1A1aWlqbkRQMmVxMk1iRko4Vng5cWdKWTA2cVdBR0xaVUVWU3pQbjJveEFwbzhmTktUX0dyQWFxX3R4eU9zbFFaWTBBM3FRaDE1TW1pZFJHUlBJbVpGMHZCVnpZVV9FUGVn?oc=5",
-          "pubDate": "Sat, 07 Nov 2026 21:18:00 GMT",
+          "pubDate": "Sun, 08 Nov 2026 01:13:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Israel’s president taps opposition candidate Eisenkot to form a government, in setback for Netanyahu - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQ2hLdHByWTZwTzZfZ1oxdmpTcXltazRXS3hxcEczRm1taGhHd0JJSW9KVEdmMDlUMjRsai02SzdkbkNwWFRwZnBXelM5TldhSG10anV2dE1tSGVXbFRERHdBSWI3bkN3bC1pTDkySGZEakxPUWd0X2xsa011SWxYcFFR?oc=5",
-          "pubDate": "Sat, 07 Nov 2026 21:09:00 GMT",
+          "title": "Drone and missile attacks wound 9 in Ukraine as country prepares for talks with Russia and US - AP News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSEJTUU1HSllBRS1hYUxLTGNzSGpQdEwzQVgyUnBnRmdUN1dRdmtUaGxMb2lEVHh2MjBOaUVfQk5Ed0tnaUduaFFxcXhPdnhRa1lCTFNRQjRUWk5URDhJeFVENWNJUUVEUnd4V0J0bDFpY3Z5Y09jc3NpRS0zZk5RVHBHNVlxM0Q0RGFXSExYN1YyRm5CeHdEZ3ZCUFJVV1VT?oc=5",
+          "pubDate": "Sun, 08 Nov 2026 00:37:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Trump says he's asked UFC's Dana White to be his press secretary. No one will say if he's joking - AP News",
+          "title": "UFC's Dana White says he will meet with Trump Monday over offer to be White House press secretary - AP News",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ2FyWVhVOHdId05JN1ZCTzFidHJyRktaVjg5NkM2WVV2ZFlrLWFrLXlWSHFkQlZ6a1BUSWV2Zzk4cWlmTHdTOFNWc3FpenFDYVpkYnQ1ZXYtdWdLRlFTVldySXU2c0VuTlhvWFZDVDRZenIzOGtNOUdSZWplX3FDaFdjdmpsa2xtLTQtbHFpQ3I4OGFEU1IwRkhsS0Y?oc=5",
-          "pubDate": "Sat, 07 Nov 2026 20:43:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "What is Diwali, the Festival of Lights, and how is it celebrated? - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOX3JnUjY1ZS1tNXRyb3ZGZWJnZENRSnJyUlJORE9sdFpOdTVfclFlRW1LeEFBZzJoYzNYbjN2NnQwWTNUMEFPY3BrQWdORGxBb0V0VW5DVktCQm1EUWpCdUFmUUQzRml2R1AtdTJQcjBwY3ktbktiVTF0UkhpcUw5SkhxY3llN2ZNV0dxWjdCYjE3UC1yQ3dqVmpQamFHUnM2ZEwzdkpZSEV1NmM?oc=5",
-          "pubDate": "Sat, 07 Nov 2026 18:01:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Want to fly to the moon? NASA is looking for new astronauts to help grow its Artemis program - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbDAtWjVqRU1HalZEMlRTa0hVQjdIOGZjandFVTc5eExkWExoRnRUZ1hNeHNILUxOLU8yRWFsUFh6ZGlmLUpQV1l1UHE5MEg0NkR3VXdjUENXb2l0RmFMMzVsOEtjUlJfWm1TLVhpTjhPWll4MjFoWGFJR090ZDVKSDFJOG9HWlVZdEZUUl9SRQ?oc=5",
-          "pubDate": "Sat, 07 Nov 2026 18:00:00 GMT",
+          "pubDate": "Sun, 08 Nov 2026 00:16:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-07T23:50:32.598Z"
+      "updatedAt": "2026-11-08T05:31:21.118Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Saudi civil defence gives all-clear after alerts in Eastern Province - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORXJobW1xZDQ2cU5VYVhMc3FTMjd4aS0xSW5KM1hVMzF4YVpGbTRmUXRnMG5nSWwzSFhWQjgzTXJKWEtBa1N4M3p3cUlqZXJUYXdISi1XRjIwclRqTnREaGZKVGlzc3ppam5aQkxSWEFzcENmS1NHQjFaLTFHRk9sMVVXVFVLUGE3NHRKRElPckY3VERpZldxOGdhNFh6bl9CQnhEd2xnUlpKdzR5LWlndlpOREk0VDc4bk8wckYxSVpISUFrNllr?oc=5",
+          "pubDate": "Sun, 08 Nov 2026 03:11:00 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Judge orders Paraguay's ex-president Peña held before trial - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVGw3MmJzOEt0S1ozTzJoUDVsWDYya0FocXVpaGU0cG1EYWdILUp1UWc4SjMzaEg2ZnZWR0ZKRG5uaGhXVW0wbkFlMTFuVVp0WmFlZWQ3cnJuYy1WanFqSVlZYkdOQXBNRTJtcExjajYyZnU4ZXpTRmVpOGNGTnJfaERjTHVLUm9USjdpS1J2VGV1Z09zZ1ZxaGpVUVVjRHpON3ctb0JFUzRBX3VQUEVsZXIzWXR6eFJObk05SGlDelpVM0F5NF84?oc=5",
@@ -206,20 +212,14 @@
           "source": "Reuters"
         },
         {
-          "title": "Trump says he wants UFC chief Dana White for White House press secretary - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVWlGRlZPRzhRc1dTV0p6YVhZdFFnR0hjYWZ3NUN1N0FQdkp3RllrU0NoNWtnSkd0eXBWLU9uSjBHR1drSUdyZ3VXUDV2MEpyMGMyOUxVdkRDdE1Ja3gyNkR3QXdlRHd1b3BOQ1NiQkxET0cwRFdRUG5fNzZreV9pU2FRM2FsUlFYNERPdzVxWTFaMnZGMGJCcl9NMU8tZ1hWbGJWQkNFbnVwSjFBcnBfT2FZSHJfQQ?oc=5",
-          "pubDate": "Sat, 07 Nov 2026 22:23:16 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Poland in shock after six die in Krakow mass shooting - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRTFhVC1uNVB5TFlvcHRtb2h6RmJPdjY0SDZjdWRJSUw0RlVLUUtnbkFlNGtZRlczbE5RU1U0NEhIRG9Ya3ZmNVlRb243YWQ5OTNkNThoaG1ZYUxONkZsaDJTeTctek9yX3hidk5lVU9qRUJidG5PNkczQVhKcEJKMG5nZzdGSVhUZUJ0S3RwWFJqbmVzSFU5YmE3dDgtRllhUVpDNkxxdnN6Q21MQ1A1cjFPNjc4cUdx?oc=5",
-          "pubDate": "Sat, 07 Nov 2026 22:16:54 GMT",
+          "title": "Real Madrid sweep aside Valencia to move level with Barcelona - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYU4wTG9BbGtwZ01ib3MyUzRubGJCYVJHSGVzMmg0MFRsX2szd183UFZQdEJOd2pWRjNHcXV0b2REZDQzNmo4YmdiV2xoRlRiajQzXzBkVDV0MF9iWTVFS08xa0lreWVQYUtuNUFBel9hREhzZ01EOTJIMXVZTlV2b09WNXJseXpRRGFRbE9yUVRGMHF5Si1SLXJMOUhYeERkYW5ueFk3RlAxM180?oc=5",
+          "pubDate": "Sat, 07 Nov 2026 22:19:10 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-07T23:50:32.997Z"
+      "updatedAt": "2026-11-08T05:31:21.499Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-07T23:50:33.200Z"
+      "updatedAt": "2026-11-08T05:31:21.706Z"
     }
   ]
 }
