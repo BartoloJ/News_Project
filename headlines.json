@@ -1,19 +1,25 @@
 {
-  "generatedAt": "2026-11-08T18:26:21.876Z",
+  "generatedAt": "2026-11-08T22:23:17.894Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
-          "link": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 08 Nov 2026 18:22:53 GMT",
+          "title": "Doctor who treated victims of Krakow shooting speaks to the BBC",
+          "link": "https://www.bbc.co.uk/news/videos/c63elgqqz5y0o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 08 Nov 2026 22:05:12 GMT",
           "source": "BBC News"
         },
         {
           "title": "Seven dead and more than 100 injured after trains collide in Egypt",
           "link": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 08 Nov 2026 17:35:13 GMT",
+          "pubDate": "Sun, 08 Nov 2026 19:58:02 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+          "link": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 08 Nov 2026 18:22:53 GMT",
           "source": "BBC News"
         },
         {
@@ -45,20 +51,20 @@
           "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 08 Nov 2026 04:03:12 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "The Trump coalition is shattered - what will Republicans do now?",
-          "link": "https://www.bbc.co.uk/news/articles/cm3r5gnxqz3jo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 08 Nov 2026 00:52:39 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-08T18:26:20.616Z"
+      "updatedAt": "2026-11-08T22:23:15.867Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Europe to join U.S.-brokered Ukraine talks in Abu Dhabi, defying Kremlin objections",
+          "link": "https://www.npr.org/2026/11/08/nx-s1-6034014/europe-join-us-brokered-ukraine-talks-abu-dhabi-russia",
+          "pubDate": "Sun, 08 Nov 2026 14:25:30 -0500",
+          "source": "NPR"
+        },
         {
           "title": "No clear winner in New Zealand election, as leaders prepare for weeks of talks",
           "link": "https://www.npr.org/2026/11/08/nx-s1-6033999/no-clear-winner-in-new-zealand-election-as-leaders-prepare-for-weeks-of-talks",
@@ -78,14 +84,14 @@
           "source": "NPR"
         },
         {
-          "title": "Climate change is altering the colors we see in the world: an illustrated journey",
-          "link": "https://www.npr.org/2026/11/08/nx-s1-5393776/color-climate-change-coral-lakes",
-          "pubDate": "Sun, 08 Nov 2026 06:00:00 -0500",
+          "title": "SS United States, a historic ship will be sunk to create an artificial reef",
+          "link": "https://www.npr.org/2026/11/08/nx-s1-6030918/ss-united-states-a-historic-ship-will-be-sunk-to-create-an-artificial-reef",
+          "pubDate": "Sun, 08 Nov 2026 08:34:34 -0500",
           "source": "NPR"
         },
         {
-          "title": "A desert stirs to life: Chile's Atacama erupts in its biggest floral display in decades",
-          "link": "https://www.npr.org/2026/11/08/nx-s1-6023812/chile-desert-el-nino",
+          "title": "Climate change is altering the colors we see in the world: an illustrated journey",
+          "link": "https://www.npr.org/2026/11/08/nx-s1-5393776/color-climate-change-coral-lakes",
           "pubDate": "Sun, 08 Nov 2026 06:00:00 -0500",
           "source": "NPR"
         },
@@ -96,130 +102,124 @@
           "source": "NPR"
         },
         {
-          "title": "How Gen Z voters helped fuel a blue wave for Democrats",
-          "link": "https://www.npr.org/2026/11/08/nx-s1-6032829/gen-z-voters-midterm-elections",
-          "pubDate": "Sun, 08 Nov 2026 05:00:00 -0500",
-          "source": "NPR"
-        },
-        {
-          "title": "UFC's Dana White says he will meet with Trump Monday over offer to be White House press secretary",
-          "link": "https://www.npr.org/2026/11/08/nx-s1-6033900/ufc-dana-white-trump-white-house-press-secretary",
-          "pubDate": "Sun, 08 Nov 2026 02:35:29 -0500",
+          "title": "A desert stirs to life: Chile's Atacama erupts in its biggest floral display in decades",
+          "link": "https://www.npr.org/2026/11/08/nx-s1-6023812/chile-desert-el-nino",
+          "pubDate": "Sun, 08 Nov 2026 06:00:00 -0500",
           "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-08T18:26:20.828Z"
+      "updatedAt": "2026-11-08T22:23:16.291Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Collision between 2 trains in Egypt kills 7 and injures more than 100 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR1pDemVhQ0RJdmhpWXA2akRYZHFLSkpCaXlHdUIwRmZab2JCcHdDMEU0VU5QajU2ODBvc21yUm5TLW9oUlRhWVI0Z2FUX2cta21RZFhYSEJIa3R4TjhDQkpnTWlBS0VvZDRhSnowTGlwdThyODM2UlEwTHlHQnM3N0E5LTR5dWlXZEZDZS02T3NlbnBmQ1ZaSXdhV21nbVJWRmZuTWF6Q3g5MDQ?oc=5",
-          "pubDate": "Sun, 08 Nov 2026 17:28:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Saudi Arabia turns to Syria for help as fighting with Houthis escalates - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObFNfMGFpaEpaOGRfS0RYa3FEOFh5OWFNaWxxbUlkcEFjNF84YWhEdHRKV283Q3loNmdQVnhUQTl6SXRzSjlIQ3pyVWhwV2JhejFpaEUyc2gtVjN1QU12NGdFNVVfU3BJektraHNJc0ZOTURqTVJyTFFpZzBKSDlwUlVWY2UwSmJ1eEFtNXJOQkpzVUl6eTdyVTFB?oc=5",
-          "pubDate": "Sun, 08 Nov 2026 17:00:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Russia targets emergency crews at the site of a deadly strike in southern Ukraine - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUlFnYVBkWHBXdnhJcHBhOTM4U0t0WnZHVkYwY3FQc3lUd3hpallTaHFGN1BuaVFWUEtITnVDSWFaWUdTZktXdjg5MUk0bWtsSkFsYk9xS21Lc2N0cnpPeHBEeVZDdW5RZ1h0NUs3Sk8wbGhiTmtTQjVjSjRrcEVsdTNjMk8wTDRuaDUxSlFrT0FvS2VsVkZVVVNYUmpXaW9jbUZZZGVzVzBDWE0?oc=5",
-          "pubDate": "Sun, 08 Nov 2026 16:40:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "No. 4 Notre Dame's win over No. 1 Miami is payback for 2025 and solidifies its positioning for CFP - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNEFBR3pGSm8yMWY2Nk1CV1lYTVRXMmpITVJFT2RLMVIwczdXTXQ4djlIRlREYzRheFZHd19lUHRjY3VUdV9Vd1A0VDNQYUtzZVpiMUk4MElmQ2xrb0UybC1yU1BjNnhHYkZrMjlxX2RaaTZxejVjSnlsMDFmUDM3QXNB?oc=5",
-          "pubDate": "Sun, 08 Nov 2026 15:53:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Pope wraps up Uruguay visit and heads to most fraught stop of his tour in Milei’s Argentina - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZXBvT0ZhMHZPdk1rbTJiZ1FtQlJJWEZMZE1CU2h6dlNBNTRZa2hsWFIzMG1mMU9qYTNIV1lTUnh0Ni03c2lOVDg1dDhleUliSmpzcnZmdlhaZ0dfWTlyYlRtOFo0dVYwdVpWV2NnMGxLZWZpMlJGOXJLMHF2SjNRVFoxZ1JlRjBtWEliSTBBcVVKeTU1dW9NbWFFUHdrMDhxNXc5NENMdzl5Q0l3RDNxNGJ5Q0JzbUdKWWc?oc=5",
-          "pubDate": "Sun, 08 Nov 2026 15:43:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Notre Dame and Georgia are first in line to take over top spot from Miami in AP Top 25 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPT1ZrLUMwM1ZZS1dRZXZBcUI3UThHa1Z0Zm5xX3JyZ1F1elR0T3pENWVTRzZFN3pJMldGaE5xRjhlZm05WlItUHlaX1VLZUd1enJxU1BOWGRDRUQ3TWdpbXdKdjRIZzFOcTUtZFJqMmF4bVFDeThuU3pQTjZvQVRUWDlBTldzYmZndkFJ?oc=5",
-          "pubDate": "Sun, 08 Nov 2026 15:37:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Poles mourn rare mass killing as authorities say attacker had far-right views - AP News",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdlhlcnp3UEZKMFBwel9US0N5dmU4dEcwYnFtNUc1LXY5N2lsMGlaQlpyODV5QUJ0eG1xdXZJY2xWeUpvNnAzRnduVElTYUo3WjRuVDlXalFlOUhSYVFkd2ZoOEZKWEJTVUE5cFRTUjQ1RlhSbGk5Wmp4WlRWdWY3YlptWkplTHl0cjYteDlNMXN0eHhJSWtZVXlR?oc=5",
-          "pubDate": "Sun, 08 Nov 2026 15:36:00 GMT",
+          "pubDate": "Sun, 08 Nov 2026 21:44:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Israel’s president gives Eisenkot the first chance to form the next government - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOR2xtdC1iNFRNSEZwNjVlM1hTeFVjREM0MlU4ZFlaWkVBYnQyNmxEdnZKeXRLQXBmbVVOeHI1U1l0TFN2cG1tQS02TFV0OElNUzhqZ1dRbUVfS3BtTVphOVFud1R6N1hZdGlpVl9GVE45dk93akNtcGRhUFB6cmpOd0FZbC1GOXBFendqUmtmalYwcUJybFo2WWRtOA?oc=5",
-          "pubDate": "Sun, 08 Nov 2026 15:31:00 GMT",
+          "title": "What to know about the shooting in the Polish city of Krakow that killed 6 people - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWDhHNnR4YXhzTnY3WVRNVlBoRkJOTEdDYjhPOV9HeUtEVDl4WTBZS1BhcDBnd2tWWkRQVFR4NDhwZXhxaFJmVjF3V3p4bnpxLThlcHBDaS05dWRHVHlEeWpnSnRjU3laTkJ5eWRwVkZRSkF0MDZLU2owY1hHcGZqVTNhRjFCMVRicTVlcDdPdkRGT0t6MXc0?oc=5",
+          "pubDate": "Sun, 08 Nov 2026 21:09:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Photos of Krakow’s Main Square as Poland mourns victims of a mass shooting - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVmFBcnZVUVFiX1k2Rmd6aFUyR3Nab1lXNjA2emx4M1U4UHF6MGtkU1U0X2JiV09wb1h0U0F6RXJmNl9qbzFIWFhXTWNtZEJrV0Z1SmZNV2hjNTd6SE1Jek85ZHF2TkhpZjQ2LW5vVGV2ZnFDdmFQQUxscjNsTE9DUjdqMzlCakJsMFhQNzVNWFg4d0ZPUE5TWlFicGthNHZQTHV4dTN5TnVuNzducU8zQTVTcmdqdEpVUU5Eck5fSlBNV2lMbVpDWA?oc=5",
+          "pubDate": "Sun, 08 Nov 2026 20:33:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Saudi Arabia intercepts missiles as Aramco building in Riyadh is damaged, and other Mideast news - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOU1hPV0p1dkZfcU92OEJVMkYtQTNHb3hKSDdGZHp5U1RkUTZlc2dzTU9oNjQ4dk5nUGZ6WVhkTlk2VTJ0cFkxOHozbE9aWUJObXFUYVBCZEwtaktnOGExQjVfUlhNdFlxRV9KeHMzS1Rsc2c3OFAxNHF6RjM2X0FRamhCalJsTk1BY1g2NFhHX2ZnUQ?oc=5",
+          "pubDate": "Sun, 08 Nov 2026 20:23:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Collision between 2 trains in Egypt kills 7 and injures at least 125 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR1pDemVhQ0RJdmhpWXA2akRYZHFLSkpCaXlHdUIwRmZab2JCcHdDMEU0VU5QajU2ODBvc21yUm5TLW9oUlRhWVI0Z2FUX2cta21RZFhYSEJIa3R4TjhDQkpnTWlBS0VvZDRhSnowTGlwdThyODM2UlEwTHlHQnM3N0E5LTR5dWlXZEZDZS02T3NlbnBmQ1ZaSXdhV21nbVJWRmZuTWF6Q3g5MDQ?oc=5",
+          "pubDate": "Sun, 08 Nov 2026 20:14:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "At least 21 dead after boat carrying migrants sinks off Senegal coast, interior ministry says - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdXdCUmJHMFNmV25BSjlQbEZWSHlrVDE4cGF5amtpS2ZPUmtJNHdiMjdpQmk0ZXdfX2ZwblhmN2NfN2p0SGpNLWJjX1EycDRaLWZmTkxybDRSOXQzdVlsRmJ3ajV3RTFDNTlMNkh1WGJKaC1mOFpzaUc4U0o1ODJKTmkwTkNjTGtlQ09TVW5vcGNJZw?oc=5",
+          "pubDate": "Sun, 08 Nov 2026 20:08:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Inside the Hurricanes’ week: Miami loses Toney, then gets handed its first loss of the season - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMnY3eFMyZ1R1cFRGOW9WWVM4RS1IMVphZzVTQmIxazlxT3gxeTdHOWMxWGxLQ3JfSnVPXzhDMjVkYUg3UGxMTVdydkNXdzA4NTlneFlzeThlWHR2QTlYZHRvSUpWZjBlT0NVU3VrRTZzYjN1TE0zZWpXLTVrX3ZoX2NCNU1qY0tKTDhINm1wYXJzVVVTeFhoRTRQTQ?oc=5",
+          "pubDate": "Sun, 08 Nov 2026 19:55:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "New York City - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1aUE95RnBsNG43aExLc2FpVnVpRDlBdi1RWE9ISWxnNUdlbzNUajk2c04yMVlrTHEtOEV0NEFOVlZwMUNWeWNsZDJZOUI?oc=5",
+          "pubDate": "Sun, 08 Nov 2026 19:44:55 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-08T18:26:21.326Z"
+      "updatedAt": "2026-11-08T22:23:17.083Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Train collision in Egypt kills at least 7, injures dozens, health ministry says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQTVkajR2S0QtUzdnUVhFVGh6b3JRdjFaOWx1VGVySUdhcjVYck1Sbm54emJiZy1XX3RNbkFDTDdPcDI0UGYyUjZWczVWNW5lOEVKekpLOF9hbkNHWXdmUG5wdFFTODRMSlhLV09LX3Q1d1BMdjZjTVBocUcwdFpYS0ZvWkoyc3lnakN4QXY2N05LbFQzb1JqYy1KWjNWOGIwd3MwbC1PZmgyd0o5NS1ZWmtLU0FaUktSSHRCOWtsaG1mcHc?oc=5",
-          "pubDate": "Sun, 08 Nov 2026 17:34:09 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "'Trump has cost us': After midterm losses, MAGA asks if it's over - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaTdYU2RDRkZwOVM0SXV4d2VCdExubk1wWngyTG5LOFNRVC1MWUU5NnVkS1FseU0zTlhwRXBRdW1OR2haNHNZcFM5cmVzNWI4cEhadmpDVzdVM2h4YmtuTU1TWFdtRTNMbjdnWGRQaGh2QTZrcnd6U0phWENkTVVNbFJUSWhEZXV2WVU4RWMtV0Vwc2dzQy05Ylp1cjFTZkhoZFVtY3pSTms?oc=5",
-          "pubDate": "Sun, 08 Nov 2026 17:26:20 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "With Stephen Miller at the helm, Trump charts a course for conflict - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQ0hzOUNLZUw4VklCNFBfZ0lyaU1WWTVXaFJUT0NNd3J4VUloem9VdDRfbW96WXh6MWQwLURSbC1LN3d5N2h5VGhteVRyWlB6RXI0bTBpdTBXVkVFbmQyRjZqLWlvVUl5R2g4QU13QzFlbzRKVmMwSmRCdEtyaHZQbGdBSmZvY2ZqRmFWMFJDQm5YVGVQNnRKYW03STJMVTI2RkhDLVh6N2dyX01JaWc?oc=5",
-          "pubDate": "Sun, 08 Nov 2026 17:25:07 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Democrats eye Musk, Miller probes after midterm rout - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbWFGX05UdDR5UEFldE1ZWU5JTEpqczV4ZkFvZFRROWlvLWdsMlpocDZaY0R4eU1FSkJONjlVMGtDOFRVVjJHeWp3X3VWVWREMGdqQWN5WDdFamtYR2VBb0h3b3BrZTlUQlpGTDRzdVd6ZWowSDJoQnJ1eVFvX3B5SVZ5N0h2X0EwMWhYdGhHUzFHd0VUTEdLVW9OVFh6UUFLb09ZWF9BWQ?oc=5",
-          "pubDate": "Sun, 08 Nov 2026 17:22:40 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Pope Leo heads to Milei's Argentina as tensions loom over austerity, Iran - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYV8wSU00NXg1Q0xRcmpIZWxTdkhGYV8zZmZuZ1pxdWpwQWpabFdGQVFQY1VSUkY5cUdNd1lnQWJjV3VkYy11Sk1nUHdkeGdnbFZ3bXRTNGxaeE9XWnVHRHlMVEF2T0I3QjVEX2dLY054QlZWUi1aTnBzc01RY21GUG1MYXhTcXhmZTl2UF9XZDh5WHlrNjk4ZXZ0OU16UkNhdnBjUi1mSDAwSkpxTnRMQjBLa3BVaWs?oc=5",
-          "pubDate": "Sun, 08 Nov 2026 16:04:42 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Poland mourns victims of Krakow mass shooting as security fears grow - Reuters",
+          "title": "Poland mourns victims of Krakow shooting amid security fears - Reuters",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVjUxVkw1TWRaU0FNWjdiZlUyUk9KcmFRMjlobjltclhvd2xEMFZic2QyLVJ1U2M4WEtOVWJ0S3J6WHdkT19pcUJwQml5Z3UyLV9PalUtQWV5X1J0dzJVMnFyc2pDQllBWTNKNTh2dVNkUVFMQWZ0OWlnUFp0Tm5LZmt0YXItSUprX09QVE93dElVd082LXpyck04QU0xemMySklEV0xSVDZRcWx5LVdUWA?oc=5",
-          "pubDate": "Sun, 08 Nov 2026 15:06:12 GMT",
+          "pubDate": "Sun, 08 Nov 2026 21:29:48 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Iran suggests blasts are not US attacks as both sides report ships hit - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONWFPcDhpSjcwTEozRGRNdHFnWWpzb1pCYXIzdnVOUWhJQ3JvaGVTcjItLWNwNktieTVDcTk0WlpKbDRiMHB3Tkl0R19Mb1NUckllcVYwenlvNUV2QTBLcjlNdGtZdFI2NEJxbnhVbmZieXg2SnNTUXNPTFZVZjFnX2o3Q3lBbC1kRzlWcnNNU3VXdFNYNW5YTTJ4SFdBaDVfai1CRU50cm1VMHBkeWd4Zkc0Q2UxTlBJcmZ6TnJR?oc=5",
-          "pubDate": "Sun, 08 Nov 2026 14:21:43 GMT",
+          "title": "Nvidia opens probe after report of CEO Huang's relationship with alleged Chinese spy - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOFNRSy1yS0duakdXT1hKbjI2MkFsMVhHeTQ1VVh4QlZYOVdvd0ZKaWVjTzFXT2JCRlR2T2IzSjRKcENSTkNLbVR2VU90Q1VyUHhEZWp0NGZLQUZPRXJ1NlNVNG9OZ0U0T2VwYmJuaURBMWVBYXhHd1hDb00zZU9aUXJGaU10bmFrclgySUZoUE1GX210Q19TQ1pXRjJTVFpoZjN2NG9qblVQMXhHUC1vV3JxaHkxbVJiVkhldEZISHlCdw?oc=5",
+          "pubDate": "Sun, 08 Nov 2026 21:09:49 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Sudan detains ex-ruling party head Haroun wanted by ICC - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQU0JrSE5QQU9rZllKNERWdEtyTG9XdWxUSDAxeHFvMDlXTXp5dlVLdl82NjVPXzBTamo1SFBFTnZXbC1ON3VrYkx4TzYtWHp3RWhTbnAwSGRTNEFtOUJiTXdBN0J0UkhlLXpEbGhlWkhINHFWUHF1aGVTenBVN0hRRnJTdHRWSHpYLXpRV3dsMGdadS00c1V3X3BURjM2Y08tTVJ6ZmpLU19jY1hSWWFrellZNWF3ZU84UncyTnh3WktrOGluajBj?oc=5",
-          "pubDate": "Sun, 08 Nov 2026 14:00:29 GMT",
+          "title": "Production suspended at Iraq's Khor Mor gas field after drone attack, sources say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSjc4dFNBUmN3UHp3Uk5FLUhNOElWeTVLRDNzSHZsSTAyUWZ4elN0eHdYUVJ5MDZBb0Y3MDNaNzlWbTRHMnctUFY5dGdNWWtKUnZTdHRPeXl1UUhlUE9mdTU0d2ZWTk9Hak9HaHVXaVBJQ3BoVXdfZnFxelF2aUc1MEV1U0JFQ1lDQ0s3RXhtRnk2dmoxZ2h4a3FRazE4Y3VpbGlDYW1zdE1DcDYxU3R4aE9zOWxkdTNuRVFxMzRlTDEtMDNHRmpr?oc=5",
+          "pubDate": "Sun, 08 Nov 2026 20:47:27 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Pope Leo arrives in Milei's Argentina as tensions loom over austerity, Iran - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYV8wSU00NXg1Q0xRcmpIZWxTdkhGYV8zZmZuZ1pxdWpwQWpabFdGQVFQY1VSUkY5cUdNd1lnQWJjV3VkYy11Sk1nUHdkeGdnbFZ3bXRTNGxaeE9XWnVHRHlMVEF2T0I3QjVEX2dLY054QlZWUi1aTnBzc01RY21GUG1MYXhTcXhmZTl2UF9XZDh5WHlrNjk4ZXZ0OU16UkNhdnBjUi1mSDAwSkpxTnRMQjBLa3BVaWs?oc=5",
+          "pubDate": "Sun, 08 Nov 2026 20:38:49 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Norris wins in wet Brazil as Mercedes take constructors' title - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTUk1NGtXQ0g4Z3Y5STJtbm1oWFZDWDZiTmZjTFlZaTU0R2R2UG00bl9oNTVZcE5sVHhNQlVkNGg5dE5QWDBqNTdyQVpQSXNNNzhicjF0UzZaYjJ2SGd3ZDlkVzQxYVVzcWJIVWh1eTVPN1R5cWMyOHZRcDhOQ2IxMlJ6elBiUnFrM3lyVzBXZ3B2TmxKc25XQmdUUXNRWUs3UmpRaHhR?oc=5",
+          "pubDate": "Sun, 08 Nov 2026 20:28:52 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Power restored to Zaporizhzhia nuclear plant, IAEA says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORkE4VEFBVF9KWlRaRk9HRmtvVGh4cTlxanVleGY5WXZtVnNVSF9LTEQtd0NvbW9YbnE0TndLS052dU5kaUZtRjJrUzZiMXVhVFdWTlNBT2xGV203cTdOREg1YmZDMGRkM081d1hzbjJJWlR4ZG9tTVpSX19rZkVHdGhhRVVmbHVFRVhfVTJnVWFvRVlSYTdLSGRmTHd2WGxMZm15RTNGQ05DLVRXVm1jMDh1Rms?oc=5",
+          "pubDate": "Sun, 08 Nov 2026 19:53:39 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Iraq has reached understandings with US to allow oil exports through Hormuz, minister says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcVp2dDBwekFJVEtlai1lemtaZVNTb2FaallsZHhyT2FHTlZHdmpwY3B0SU9HRUpQV2JQQ3E0NWo0VEJpS3B4N1JCTGhkTUhJTHFYUUY3ZkttWmc2RUl1V2dicHdLODBaUEFQSmdySXdHcTJ2VGpIeUlOTlZZd05LZ29wYVdWajhrMzVYa1ZJQl9FTnNjZjFQRmNGc1FoV1dmOFZyOWYzTE1pRndvaGxzSTg1S1B1Z1lxSDZNM3hZWEZmZw?oc=5",
+          "pubDate": "Sun, 08 Nov 2026 19:26:09 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "‘Trump has cost us’: After midterm losses, MAGA asks if it’s over - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaTdYU2RDRkZwOVM0SXV4d2VCdExubk1wWngyTG5LOFNRVC1MWUU5NnVkS1FseU0zTlhwRXBRdW1OR2haNHNZcFM5cmVzNWI4cEhadmpDVzdVM2h4YmtuTU1TWFdtRTNMbjdnWGRQaGh2QTZrcnd6U0phWENkTVVNbFJUSWhEZXV2WVU4RWMtV0Vwc2dzQy05Ylp1cjFTZkhoZFVtY3pSTms?oc=5",
+          "pubDate": "Sun, 08 Nov 2026 19:22:54 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-08T18:26:21.698Z"
+      "updatedAt": "2026-11-08T22:23:17.756Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-08T18:26:21.876Z"
+      "updatedAt": "2026-11-08T22:23:17.894Z"
     }
   ]
 }
