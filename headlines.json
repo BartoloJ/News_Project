@@ -1,64 +1,88 @@
 {
-  "generatedAt": "2026-11-11T15:31:55.115Z",
+  "generatedAt": "2026-11-11T22:33:48.176Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "Kidnapper, 74, escapes from house arrest in Argentina by abseiling from balcony",
-          "link": "https://www.bbc.co.uk/news/articles/c933gn6710lyo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 11 Nov 2026 14:56:11 GMT",
+          "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
+          "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 11 Nov 2026 22:07:37 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "African writing award probe finds 'no evidence' winning story was AI generated",
+          "link": "https://www.bbc.co.uk/news/articles/cmglr260z7eko?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 11 Nov 2026 20:00:54 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
+          "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 11 Nov 2026 18:38:45 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Missing 11-month-old baby found buried alive in a crate in South Carolina",
+          "link": "https://www.bbc.co.uk/news/articles/c8e391xzg6z2o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 11 Nov 2026 18:10:57 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
+          "link": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 11 Nov 2026 18:04:58 GMT",
           "source": "BBC News"
         },
         {
           "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
           "link": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 11 Nov 2026 14:51:26 GMT",
+          "pubDate": "Wed, 11 Nov 2026 16:59:34 GMT",
           "source": "BBC News"
         },
         {
-          "title": "Spain sees widespread disruption in first general strike for 14 years",
-          "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 11 Nov 2026 14:06:27 GMT",
+          "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
+          "link": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 11 Nov 2026 16:45:11 GMT",
           "source": "BBC News"
         },
         {
-          "title": "Egyptian journalist's retrial adjourned as UN warns of 'assaults on press freedom'",
-          "link": "https://www.bbc.co.uk/news/articles/cmkg5jr59835o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 11 Nov 2026 13:25:47 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Four grizzly bears killed in Canada after fatal attack on mother and daughter",
-          "link": "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 11 Nov 2026 13:24:29 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Kenya discharges last Ebola patient in major milestone towards virus-free status",
-          "link": "https://www.bbc.co.uk/news/articles/cwe9kzv0g0v7o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 11 Nov 2026 12:53:11 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Hundreds of Italian schools hit by threats in suspected bomb hoax",
-          "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 11 Nov 2026 12:30:29 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Haitian PM praises El Salvador after joint strike on alleged home of gang leader",
-          "link": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 11 Nov 2026 12:14:12 GMT",
+          "title": "Indonesia's vice president resigns amid signs ruling alliance is fraying",
+          "link": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 11 Nov 2026 16:38:07 GMT",
           "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-11T15:31:53.834Z"
+      "updatedAt": "2026-11-11T22:33:47.229Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Why is gasoline suddenly under $4 a gallon?",
+          "link": "https://www.npr.org/2026/11/11/nx-s1-6037588/gasoline-price-below-4-dollars-gallon",
+          "pubDate": "Wed, 11 Nov 2026 14:59:14 -0500",
+          "source": "NPR"
+        },
+        {
+          "title": "Greetings from Senegal, where breakdancers are competing in the Youth Olympics",
+          "link": "https://www.npr.org/2026/11/11/g-s1-150228/senegal-youth-olympic-games-breakdancing",
+          "pubDate": "Wed, 11 Nov 2026 12:23:10 -0500",
+          "source": "NPR"
+        },
+        {
+          "title": "Kennedy relatives join the fight against Trump's arch, alleging harm to JFK's grave",
+          "link": "https://www.npr.org/2026/11/11/nx-s1-6037372/kennedys-trump-arch-lawsuit-jfk-grave-arlington-cemetery",
+          "pubDate": "Wed, 11 Nov 2026 11:59:32 -0500",
+          "source": "NPR"
+        },
+        {
+          "title": "What's behind democratic socialists' historic victories in the midterms?",
+          "link": "https://www.npr.org/2026/11/11/nx-s1-6037432/whats-behind-democratic-socialists-historic-victories-in-the-midterms",
+          "pubDate": "Wed, 11 Nov 2026 11:41:48 -0500",
+          "source": "NPR"
+        },
         {
           "title": "Following big Democratic wins, these swing voters are looking for results",
           "link": "https://www.npr.org/2026/11/11/nx-s1-6036790/swing-voters-swing-states-democrats-congress",
@@ -66,7 +90,7 @@
           "source": "NPR"
         },
         {
-          "title": "Russia and Ukraine agree to a large exchange of prisoners of war, officials say",
+          "title": "Russia and Ukraine agree to a prisoner exchange as talks end with no big breakthrough",
           "link": "https://www.npr.org/2026/11/11/g-s1-152954/russia-ukraine-war-talks",
           "pubDate": "Wed, 11 Nov 2026 08:30:00 -0500",
           "source": "NPR"
@@ -78,148 +102,124 @@
           "source": "NPR"
         },
         {
-          "title": "Iran-backed trio accused of plotting attacks on U.K. base hosting U.S. jets",
+          "title": "An Iran-backed trio is accused of plotting attacks on a U.K. base hosting U.S. jets",
           "link": "https://www.npr.org/2026/11/10/nx-s1-6036786/uk-iran-airbase-russia-spy",
           "pubDate": "Wed, 11 Nov 2026 05:02:54 -0500",
-          "source": "NPR"
-        },
-        {
-          "title": "Morning News Brief: Hegseth impeachment, new House GOP leader, UK probes base plot",
-          "link": "https://www.npr.org/2026/11/11/nx-s1-6035568/morning-news-brief-hegseth-impeachment-new-house-gop-leader-uk-probes-base-plot",
-          "pubDate": "Wed, 11 Nov 2026 05:02:44 -0500",
-          "source": "NPR"
-        },
-        {
-          "title": "Both sides now? Critics slam DOJ moves to dismiss convictions of Trump allies",
-          "link": "https://www.npr.org/2026/11/11/g-s1-152713/doj-abandons-convictions-trump-allies-no-defense",
-          "pubDate": "Wed, 11 Nov 2026 05:00:00 -0500",
-          "source": "NPR"
-        },
-        {
-          "title": "Volunteer musicians play songs for veterans who are hospitalized",
-          "link": "https://www.npr.org/2026/11/11/nx-s1-6005263/volunteer-musicians-play-songs-for-veterans-who-are-hospitalized",
-          "pubDate": "Wed, 11 Nov 2026 05:00:00 -0500",
-          "source": "NPR"
-        },
-        {
-          "title": "Oil giant ExxonMobil left Venezuela years ago. Now it's considering a return",
-          "link": "https://www.npr.org/2026/11/11/nx-s1-5979080/exxonmobil-oil-mou-venezuela",
-          "pubDate": "Wed, 11 Nov 2026 05:00:00 -0500",
           "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-11T15:31:54.132Z"
+      "updatedAt": "2026-11-11T22:33:47.257Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "World leaders urge stronger and faster action at UN climate talks over inadequate response - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOV0NNSmRNNW5UOE9yWE0yRVVJdEdDX09OeG9PRWo1ckJtSmhBWU1RaFQ0Mi1pWF9QX3JsbVgyd213RHl2NjdhY0tnTGVpY01zLWpGNkQtUTBqMGgyUmZYNVcwTVFydU9veWp4NUlnczBBU2NBbHlQaUIxSF9haUJCWm0tNmZsT2xSczBrLUQyNEFsREJXZENIMlpDNE9pc3lYaExj?oc=5",
-          "pubDate": "Wed, 11 Nov 2026 14:57:00 GMT",
+          "title": "White House confronts Democrats over planned probes, claiming possible ‘criminality’ - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMkF3VkJLSWtHYzVKNWo1bC1RYmhjSTZLV3lIdjJPSDRudEVXR0tNM0M4VWVtcHJ6VHQ5ME84SGlCVmYyWGRha2NZR1ZZdHQ4dVlsVG1vUXJFdzVoYnIxSlNfZ1NzQ1FWcTNYMFp1RlJEZUx0MkJlZ0pFRGZrX19nNG1QZVYwM1ZrSmtCb1ZPNUFSM28?oc=5",
+          "pubDate": "Wed, 11 Nov 2026 22:15:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Alice Huang, who reportedly had an affair with Nvidia CEO, is a Chinese banker turned tech exec - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWWN4Um5UWHU3MHROUmJ2YlMtSW05bmNXSFI3TkVFajJrODcydUlDa015MWdnN1FkVnBiZWNZUlZPUUs4NGRkN1MzLXRCZHZ1cnNVc3ZqUXVCYklscFJ0WWVHUlY2Z2VCV1VKN1BMTU1KRzlpNWM5STBQZm05NldlaTdBd1Y2T0xaQzNKOWo1T2laZmc?oc=5",
-          "pubDate": "Wed, 11 Nov 2026 14:55:00 GMT",
+          "title": "Trump administration wants to sell public lands and shrink the federal estate - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSUN4NGFwX1R2R1UtWEkwSlZFMGM2d1p5OHZRenhEdTF2Nm0tdWthZHlDZDM3QkJOVWFqQTVWeUlTajZNTFVIQXZYTzVrMTdIcGNEWW5iX0hWa3EwdFJpZVo3N1hjOEFnZWItYXc3akFwUkRIUXYzbUJiUFYtM0k4WlRSdnNWTXBTZHNMNXA4cTZUNjFZaXVn?oc=5",
+          "pubDate": "Wed, 11 Nov 2026 21:54:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Rebounding AI stocks lift Wall Street - AP News",
+          "title": "Housing protests sweep Madrid and Barcelona after Spain’s workers' strike, with clashes erupting - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQlZ0c3o4SEdVYWN6SGE2YW45M0xMVUlhNUJlMlo0QnZxMVB1UEdWOVZBOU9qcG9SSUlFSmtOa2F5MFJoQ0hPVEp0SVJ3NzJDV2FfcWtKV040dzUxRExKd2Y0bzRXNUViQzRvaDJBbGdfeW9FaTJyRnkyX1V3SU40Zms3TzhrUDR3dFdzc0J4S3ZqWkJIVUNUZVlfX3FjUy1EV19Wd3dMZw?oc=5",
+          "pubDate": "Wed, 11 Nov 2026 21:43:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "AI stocks rebound, and Wall Street nearly returns to where it was before last week’s sell-off - AP News",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYi1oYnVxUmZHNlhJVXBPYk9ITmFxZzBzUWNfUDZPT2tsR0R4SExvcmJzM3I1ZEh0WHV0bHM2amVtQmMzWnpwRWVFRjluOTdETUt2UGtPbUUzamNLcVJ5UHk3Qm5ZMmNlNm16X21EZkZxaktKT3RIUEc4SlJCbnJDbzhxOXFkNVI0ZVFab3JBOGxtSXM?oc=5",
-          "pubDate": "Wed, 11 Nov 2026 14:32:00 GMT",
+          "pubDate": "Wed, 11 Nov 2026 21:42:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "More than a dozen key races remain too early to call one week after Election Day - AP News",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWjF0cmpoaVllMVJheTNxYklTOUhpVjRaS3M1NUxoTDVVWklMMzdNZV9YVnh0dlEzVTI0Zk4tTVRkSzFtbXlWMThLcXI2X0F4M2lRRkZXZ0tEV2FOS1ZLeVZ5Q0x5czRRSExneER0REFDYVI5ZFdVWjd3V3hyNHpuV2NkdUpTN1dMUUlBbktiNzYzOGtFT1NQZzFvTTFLa2V5SWkwUDVpSEZQNlZjNVNxeE50cEFveFE?oc=5",
-          "pubDate": "Wed, 11 Nov 2026 13:59:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Minivan crashes into people outside Los Angeles metro station, killing 3 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUGpYZTJIXzU4aHdOT2FKNFYzVG5MRU9MNDNZOWFPSmlYV2VyOTh6RjVFeVZwR1ZoUmNmMU9xNlNYeEZUS1NFaTBMSlRralAyNDBnWWNYSkJiZE9vUUxtQkpuNVFtZGJqcWRkVVA2SThaUXA3SFJGNnhQTHBxTWFZZlYwUXpabmV1S2oySGZYTFo1T1dsdkJJ?oc=5",
-          "pubDate": "Wed, 11 Nov 2026 13:51:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Italy evacuates over 300 schools due to bomb alert, with threats in Scotland and Ireland - AP News",
+          "title": "Italy’s Meloni says cyberthreats are intended to spread fear after schools hit by bomb threat - AP News",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPanFkNjRuZFpXd2ZINlZJRWx3RkROMjA5UzZ4RXdWN0MtRWZyc1ZhWDFybWtrRk9ubkVPckRvYTRSLV9mcUxyOUw1WVZwOUVkUU1mRTZtVDBkUGgtZkdCSGhybnFDTkZYaWFZTXQ0c2w2Y0Jwb0xjVS1kVnByd3EzcFIzdHZWbExNOERpdHcwYm4wS2RBMFFBR3JkVnQzeWRpU3VoWElrNA?oc=5",
-          "pubDate": "Wed, 11 Nov 2026 13:31:00 GMT",
+          "pubDate": "Wed, 11 Nov 2026 21:19:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Russia and Ukraine agree to a large prisoner exchange as talks conclude with no major breakthrough - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZGJLX21sUk93S0w1eDdOMEtDdC1ETk4zZ0E4d1dna2xHaWxFSXIxdGFFYVV0Wm5pWlc1Uk5YczNsa09FcGJtMHpKU1VnTkVJejR2YTJxR0ZFQXE3dndEcS0teGNKbHJBS3R1N1lHbUxuR3hOQ3hyZ2s5elFlbkFBVTJMNmE3TW1vN2x5dDl2VzBvWWpiWU5WRGxBLWJTNVZBUUE?oc=5",
-          "pubDate": "Wed, 11 Nov 2026 13:20:00 GMT",
+          "title": "Who is Alice Huang? The woman at the center of Nvidia’s scandal remains elusive - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWWN4Um5UWHU3MHROUmJ2YlMtSW05bmNXSFI3TkVFajJrODcydUlDa015MWdnN1FkVnBiZWNZUlZPUUs4NGRkN1MzLXRCZHZ1cnNVc3ZqUXVCYklscFJ0WWVHUlY2Z2VCV1VKN1BMTU1KRzlpNWM5STBQZm05NldlaTdBd1Y2T0xaQzNKOWo1T2laZmc?oc=5",
+          "pubDate": "Wed, 11 Nov 2026 21:07:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "NHL Scores, News & Stats | Latest NHL News - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE95bFRBdmVKUk5rWWVXSkN6WVgzRzA2S3RDQ1o3eDYxWFBISC1MSXdadkNXMy1LdU5yTEYtbDZ4SQ?oc=5",
-          "pubDate": "Wed, 11 Nov 2026 12:54:24 GMT",
+          "title": "Ebola tops 11,000 cases in Congo’s deadliest outbreak - AP News",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQX2xZQ19zQXZleUxGQlZ5WWRFcFJUSGI2ZVJ0MnJPU2RfZ0l6REFwbWFWVm5RdFQxYnRKd2Zsb0FmNDlhYWdQSlV2ZFhiNmx6RzdsZUZLVWJ5cFdBb0xIVWEydTlRSmg1cUthejlNQ2JzQUYwQk9EcVFodXdtMURQOHZmVHM2RW8?oc=5",
+          "pubDate": "Wed, 11 Nov 2026 20:56:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Mississippi U.S. Senate Election Live Results 2026 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE40QzF6VWVSbVp6Zkx1Q0I1OGU4aG5UVTdmMDM5UTdIVTNDd0t5RmJ1RHUxVW9DMmVialI4TWxCMERpUy1pTk1la01IS1ZVdFJJUnJGNmdBX29GU2M5ZlVqaDJ5VFctbUZtRXpLbVlpNGlYNDdkdkM0UEhod0Jmdw?oc=5",
+          "pubDate": "Wed, 11 Nov 2026 20:54:11 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-11T15:31:54.586Z"
+      "updatedAt": "2026-11-11T22:33:47.699Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "S&P 500, Nasdaq rise as CoreWeave results ease AI spending worries - Reuters",
+          "title": "Pope Leo arrives in Peru for homecoming leg of his Latin American trip - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRW95OGMzNFBhTFhqRWViS3d3UUR1Y1RoUk5NbHowZnBEeGNUendSTXlkZnp3YVpBSU9wNUt6aE8zT182Ri1WdkpyNFNKTFhFT2tVM2U0RHlpZlhOdjdseXRvTXkzQ3RfYWtiUFhiUFN2Tlczb2pyRHR1eDZ0ZlIzaW1hdnAwbU4wNkZEeEFldXAxVXFqV05tVDBZOS1XVkdieW9lX24wUktOa0dmUnBXVkdOUjNjQ3N4aXRwM3cwR0lQVk9KRTQ4ZEFHTQ?oc=5",
+          "pubDate": "Wed, 11 Nov 2026 22:06:53 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Democrats are ready to fight Trump on immigration. But how much can they achieve? - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPczM1b0h5TUk0Rzl1TEJ6VTVLZ1NuU2llWWxTYjh5TGctZHAxRjg3TGRqOVVRejRMa2I5M2NhaWo4dWFmWUN0SERDOHJpZFBjNEdHbG1jUXdMR0J1NnFhSnRXLXVaRkJ6TDh0OE9hekN2MUoyRkZNbS1mUlFCZG5JTU52THFjcElBVFdQV3hXa3ZTTU1IS2x2TzRUUGVha21SWW92eWVIMkRTN3FGTFZMYVZONngtanR2YjZpaGVXUQ?oc=5",
+          "pubDate": "Wed, 11 Nov 2026 21:23:26 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Lutnick stalled Trump crackdown on diversion of Nvidia chips to China, Axios reports - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeDk3Z2kxT2NlVkxtZ3FMbksyU0ZlT2JzcERTTVBkeGFzUk5kaHhpazg4Mk5GSnZGTmNmbVVZakFyUHZOeGx5ZEt1N0pVZFRBcDlzMFU0dDc0RFh1ak1ndzZBVWNsN3NCVmliX040XzZHXzc3TFlCUWNTeXdyUkZ1S3B4WUhLSnNCWDVzeGd2NDZUZzBaTUNwemdVRWtqWGlzUnczR09yU09qaWwxZGRKaFBOUDdiR2lLa0VSa0tiWQ?oc=5",
+          "pubDate": "Wed, 11 Nov 2026 21:21:45 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Stocks end higher as CoreWeave results ease AI spending worries - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUVZoWU1fQUd2Y1M2Qnl1T2JaMTkwaXBkaDIwWjVHejZoQmdDUnVzUVlSWDVsWW1pVDRVcXQ2ZTdrRTRiMDdMNWJDS3Atem91bUpDMnFLUkZ6NjhjaTliYWV1ODRLMnk0Slh3Wk5wNGtHTDhvaEZpTFIyUlVpQ2tNdTUyb2ZLbEZGOHlTZWRJNzVScUpIS3V5a1FacGwzby00RURBa2htZFFqZmw3Z2pRS2NDWQ?oc=5",
-          "pubDate": "Wed, 11 Nov 2026 15:11:30 GMT",
+          "pubDate": "Wed, 11 Nov 2026 21:05:09 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Indian billionaire, doctors spar over $900 brain blood-flow tracker Temple - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVEMxa3hqTUpGNGxZRjBkeEJUd0ZpTGotc2JxY1lLZFNHRWZhQzJJakVabDFPeVRTMl93U2hmQmpMZ05qRWs3RjRhMjlaNThfdmRhTG5hNExQdHVsMmJHV2dPTzR5U3ozTTNjODJ6SkdsT05ROC1LTDg1T0EzaWI2ckE4X1ZHVUxhY0EyZWtPbUppME1Xd2xRSXRsV2tjcGJPZ1ZJaFB4ZDNDTnExMFA5QTBRWGlUVkNXczFKS2lZdnllaTA1ZXdVUkt2LThBb2hCb1ZfVjdVeW9EUXY4?oc=5",
-          "pubDate": "Wed, 11 Nov 2026 15:07:03 GMT",
+          "title": "Ukraine's Zelenskiy says progress in peace talks hinges on US approach to Russia - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLVVESEhzeFJHMmo1SUlBcWswbUctbUprbnVPc1pSRWx1ay00ci1hbmYyUjBqOE1JazB2c1l0dVE3cGtGbDc0QldyN3VqYkdGMUtQWlE1cG9FRnV3b2VkUENMbGxyMlJQdmg2MkJxTThvSENGVVVkR3IwcFlXMEJHWUJ5a0dTY0R2b1k2ZXpOUVdvcGkzWWtGcFc1VHl2MDR1UUxaWF9DdmdMY2JaNU5RM3g0UTBDdm1tUHIw?oc=5",
+          "pubDate": "Wed, 11 Nov 2026 20:59:58 GMT",
           "source": "Reuters"
         },
         {
-          "title": "PODCAST: The trillion-dollar question - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOY0w3eC1kVlV0d3RqTnNnU1g5QVgtVUY0emFKb0taZVVUS19WOXU0aVFfbFROY1lxaHd2REZZeHVNaDJXX19iVDl6UzlpeVVodkJpMkYxUVVOYUw3Rk11ZDVhZEVmMVVyUTk0OGxfSW8zM2NLbzZkbVBpb1ZKcVdOc2tKZmJNdWlyWXhqRzBMeWl1YVk?oc=5",
-          "pubDate": "Wed, 11 Nov 2026 14:37:11 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Workers across Spain stage first general strike in 14 years as anger rages over housing - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcmd4bjFKTVdpSHgwbmZibHdXbWJNdzYwYkRDekc0MjNIcm5HV0xHVjYxc1BTdDhWRWZ1UDVkR1ZpTW1seTF4MmpRejhKUGd4NlVUdUNnNTRZUVBYY0JYbEU5cWZvZTRDWkdsZkxFVHJsMVJIVXl2N3pHWFZnQm42RFZlZVR2cDUwRUVJb2o3SnZTcExZQ2R0MGFGUVZaMGF1WF9tY3N5R29HNVRPRVE1dW5QRURKZFhMWHRvS05rTTlvUkRUVHloVjJNMndLNlU?oc=5",
-          "pubDate": "Wed, 11 Nov 2026 14:16:09 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Portugal cancels 200-plus flights, shuts schools as Storm Charles hits - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPU1BnRmpUanRPTTZiR2d4QV9iWWpGOHlSOEd6dW9KSmNSNGpHOUpLQ1VLYnpIN1N2c1FIQV9LN1dHRWU1YXRDbTc4UkR5M295OVE2azN0T1AwdjQtWkpFbHl6TDZrYmV6X0VrdjRFWEwzeWZkU2NDT0R5VTU3aHduZ0FCUzJMUlB0TmN2TUxEaXNJZFcySDV6SGZ5U1NfTEZDSzhmR1pQNmNhZVJhVDhWbUVGMXlQSVpYc3c0VV9TSkw?oc=5",
-          "pubDate": "Wed, 11 Nov 2026 14:06:30 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Hoax bomb alerts sent to schools in Italy, UK and Ireland in latest disruption - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLUZHS1hQdFNsS21tSW0zXzRnRDNsVEN2T1hITTBwX1l3d3VCWmw5MXVMaEYwM2ROMXpYNnR6cTNwMlVuSUNsekp2YmZtX1h2VE9wNnc2RThjc05OV2tBc0VNNzNicWNGcGtKVG9VTGo2Yzl5eUFxeE9IQ3JlZWpHb25vcWk5VmlWZkRwbmQzRmhzbDF2cmhWM1F0RmNlTGhtM0Zv?oc=5",
-          "pubDate": "Wed, 11 Nov 2026 13:58:10 GMT",
+          "title": "Saudi Arabia intercepts Houthi missiles, drones; group denies targeting Mecca - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNa0VablB0SWViZWpCRFg4bC0yX2ZTM19HNmFFVUdqVVlwbWRuRjdpSnNXZ3liU04zeTYyZWJPSlhLeEVRTUlMS0N2SnlPdEpINzVHUTJjRXJjd3RKdEZMLS14czdZSlpjcWlJWm95bFpTNHgxblNSVlFyLWhsQ0JncVFZRGRmQ0p6cDZQRGRtNlh6LWxnVXlLRkJyelFzdTFoM285d2tQZTJvS1BkYkRzLVZwUERKc2pHbVBqOUZDSmFRbGJ4TmpmQVExbnEzOTQ?oc=5",
+          "pubDate": "Wed, 11 Nov 2026 20:57:51 GMT",
           "source": "Reuters"
         },
         {
           "title": "Russia and Ukraine say some progress made at talks, US cites a lack of trust - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdEZkalllTkswSW1lWVlXanFsVFBfVnBSUmE0U1VNWTJ4c3BrS3dzTDZWQUhwM3NfOTFMdjVuaHBqZVRTVFBYU2JEOWtpX2VoR1ZtUzZVcDlTN0tKVzVtczFhYThSSHpDTjJXSHV4U1Rqc0doRElpcW1WTGQwdmF6bE1VN3BpU2J4U3V1Rld3S25XNXZxWkVVNVlRZDAzLWpIVGFHWG9Bd2M?oc=5",
-          "pubDate": "Wed, 11 Nov 2026 13:39:44 GMT",
+          "pubDate": "Wed, 11 Nov 2026 20:54:57 GMT",
           "source": "Reuters"
         },
         {
-          "title": "EXCLUSIVE: How a Vitol trader's ties to JD Vance helped land a prized Venezuela oil contract - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNLXBjUHpKN20yZk5xM1RsTDlpZUtVZ2FwZ0J3RHBfQkNBZW41cS1hWHJKeGZUcEFuLTFrUFo0MndIV0lxb2pmb0I1VGUzU0J6R2JQTl9sTUs2UHNYMmhwNkpPZ1YzRVkzTExhMFhzc2ZpT01GbTU4UURERTBMYkdUbFg3NVR2NjB3TEJfbEtBdDRrcGNadW5JczBGZVE1cjQyYUJnYXJUb1hrVG9jLXBheGduWEoyUWRMbVRyVHhKYzNhVUE4?oc=5",
-          "pubDate": "Wed, 11 Nov 2026 13:27:49 GMT",
+          "title": "CoreWeave sparks AI cloud stock rally, lifts Nvidia as results ease bubble fears - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaTZzT256WkU3aE4zUnA1UXBqX05FOENKeXI4MFZtUDQtc28zeDBLWEE2UGdydUU0OXI0LVotdWEwUVBJeDB0bVh6Z1BrN0dQbHFRa0RwZ2xEdDlBaS12T3ZSQXlzcHNSTHAxN2FBUjFXTTlaTmRUWWVJdFZmaXBDZTJteWlWQ2d0MDYzRHRyLWV3Y0xiMU5ndjRMdlBOaDR0T25uVVFNZS12ZDhjWkRMRzBDc2EzN2RyR0dvTnZqWlgxZw?oc=5",
+          "pubDate": "Wed, 11 Nov 2026 20:54:06 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-11T15:31:54.988Z"
+      "updatedAt": "2026-11-11T22:33:48.116Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-11T15:31:55.115Z"
+      "updatedAt": "2026-11-11T22:33:48.176Z"
     }
   ]
 }
