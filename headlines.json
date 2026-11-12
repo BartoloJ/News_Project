@@ -1,9 +1,33 @@
 {
-  "generatedAt": "2026-11-11T22:33:48.176Z",
+  "generatedAt": "2026-11-12T03:41:27.714Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Australian teen missing in bush for six days rescued alive",
+          "link": "https://www.bbc.co.uk/news/articles/ckvg25zmppglo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 12 Nov 2026 02:40:18 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "New York building collapse kills one person and injures 12",
+          "link": "https://www.bbc.co.uk/news/videos/c60rkwjj7x7go?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 12 Nov 2026 02:33:12 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+          "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 12 Nov 2026 02:09:08 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Nigeria's president launches re-election manifesto but can he regain voters' trust?",
+          "link": "https://www.bbc.co.uk/news/articles/ck5ynyw527wdo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 12 Nov 2026 00:36:11 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
           "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
@@ -17,48 +41,42 @@
           "source": "BBC News"
         },
         {
+          "title": "Famed ship SS United States to be sunk off coast of Florida",
+          "link": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 11 Nov 2026 18:42:27 GMT",
+          "source": "BBC News"
+        },
+        {
           "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
           "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 11 Nov 2026 18:38:45 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Missing 11-month-old baby found buried alive in a crate in South Carolina",
-          "link": "https://www.bbc.co.uk/news/articles/c8e391xzg6z2o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 11 Nov 2026 18:10:57 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
-          "link": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 11 Nov 2026 18:04:58 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
-          "link": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 11 Nov 2026 16:59:34 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
-          "link": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 11 Nov 2026 16:45:11 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Indonesia's vice president resigns amid signs ruling alliance is fraying",
-          "link": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 11 Nov 2026 16:38:07 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-11T22:33:47.229Z"
+      "updatedAt": "2026-11-12T03:41:26.613Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "World's fastest ocean liner is sunk to break another record: largest artificial reef",
+          "link": "https://www.npr.org/2026/11/11/nx-s1-6030853/ss-united-states-artificial-reef-sinking",
+          "pubDate": "Wed, 11 Nov 2026 22:10:32 -0500",
+          "source": "NPR"
+        },
+        {
+          "title": "Democrat Scott Colom wins the closest Senate race in the country",
+          "link": "https://www.npr.org/2026/11/11/nx-s1-6037840/democrat-scott-colom-wins-the-closest-senate-race-in-the-country",
+          "pubDate": "Wed, 11 Nov 2026 18:33:59 -0500",
+          "source": "NPR"
+        },
+        {
+          "title": "Democrat Scott Colom wins Mississippi Senate race",
+          "link": "https://www.npr.org/2026/11/11/g-s1-151688/mississippi-senate-race-scott-colom",
+          "pubDate": "Wed, 11 Nov 2026 18:04:51 -0500",
+          "source": "NPR"
+        },
         {
           "title": "Why is gasoline suddenly under $4 a gallon?",
           "link": "https://www.npr.org/2026/11/11/nx-s1-6037588/gasoline-price-below-4-dollars-gallon",
@@ -88,138 +106,120 @@
           "link": "https://www.npr.org/2026/11/11/nx-s1-6036790/swing-voters-swing-states-democrats-congress",
           "pubDate": "Wed, 11 Nov 2026 09:19:42 -0500",
           "source": "NPR"
-        },
-        {
-          "title": "Russia and Ukraine agree to a prisoner exchange as talks end with no big breakthrough",
-          "link": "https://www.npr.org/2026/11/11/g-s1-152954/russia-ukraine-war-talks",
-          "pubDate": "Wed, 11 Nov 2026 08:30:00 -0500",
-          "source": "NPR"
-        },
-        {
-          "title": "House effectively ends Hegseth impeachment. And, 3 men accused of plotting U.K. attacks",
-          "link": "https://www.npr.org/2026/11/11/g-s1-152949/up-first-newsletter-pete-hegseth-jim-jordan-iran-backed-trio-us-bases",
-          "pubDate": "Wed, 11 Nov 2026 07:21:59 -0500",
-          "source": "NPR"
-        },
-        {
-          "title": "An Iran-backed trio is accused of plotting attacks on a U.K. base hosting U.S. jets",
-          "link": "https://www.npr.org/2026/11/10/nx-s1-6036786/uk-iran-airbase-russia-spy",
-          "pubDate": "Wed, 11 Nov 2026 05:02:54 -0500",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-11T22:33:47.257Z"
+      "updatedAt": "2026-11-12T03:41:26.701Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "2026 U.S. Senate Election Results - AP News",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ycUhlZzZ2V1lhd2pzVExlRFNUOVV5M0N6VHB5a2FuNFU2NDNaV0dSTV9hUVZTZHZCeVRjeWRWMnh0NUVIRW1vbmhfNFRsSVRqSWIwM21iUmMxTE4zYzhocm81ajd4U0x2R0R0Q1Bn?oc=5",
+          "pubDate": "Thu, 12 Nov 2026 03:37:49 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "The historic SS United States is sunk after a long goodbye off Florida’s coast - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONW5yRW1GSl9lWXc0d3dVMjZITmxjaXJ4WXYzN3RrQjFYMHdjbkJrTk5obWY5UzZmQlJwTTZudENoMFQ2TlkxcVdMT05tQlV2TTY0RmotQnp6OERPNTdlSEl1ZjN4RzlUMGpLM2p4TkV4TlUta0JTU0FkMEhEUWlXQ1cwNFRZTTFLbTZERkRseUYwWkF0dThsNXR4Z1JqVDFKeU1HZnRxVQ?oc=5",
+          "pubDate": "Thu, 12 Nov 2026 03:20:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Mississippi elects Democrat Scott Colom as state's first Black US senator since Reconstruction - AP News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVVhWcG5USS14S1FTbUdWOGtpYjRXSWdoUlJ4Ym95VXFGdnQtdVgyY3pMcjFScHpQc0c3a202TWJVcHp6YjFobDFfRl9Ga01PSGdaTEhZREZXRmtKUFBQY1JWQ0NmTHM2aVZnUVdNS3lPZG5RbDVVdHZFZnBkNmlwNU1Sc21GV1RvY0dwVHlyekd0UFg5aUZlNU1nYkJQZE1Y?oc=5",
+          "pubDate": "Thu, 12 Nov 2026 03:11:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Alaska judge rules a request by Peltola campaign for ballot data in Senate race is 'not reasonable' - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONkFWazFUb2NYQWNaeDVTcXNrQlNRSElNZXh3aUNKNnViaUhwSng5MHFqSjRvdHI4NnEtNFlDYkVzWW9HVVVCRlFlUzJSVzl2bmFMQ0FiLWhISnpDeV82LTNCVkhTNHVWZmhDTVhSbDNaelN2ajRQejZuZG1qNmRuaU1MbFhsdDRmdWlqZnpFb1Z6X0gxRkUwdDRHNTh4R0RuWUE0M1R4Yk1zdm8?oc=5",
+          "pubDate": "Thu, 12 Nov 2026 03:00:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "White House confronts Democrats over planned probes, claiming possible ‘criminality’ - AP News",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMkF3VkJLSWtHYzVKNWo1bC1RYmhjSTZLV3lIdjJPSDRudEVXR0tNM0M4VWVtcHJ6VHQ5ME84SGlCVmYyWGRha2NZR1ZZdHQ4dVlsVG1vUXJFdzVoYnIxSlNfZ1NzQ1FWcTNYMFp1RlJEZUx0MkJlZ0pFRGZrX19nNG1QZVYwM1ZrSmtCb1ZPNUFSM28?oc=5",
-          "pubDate": "Wed, 11 Nov 2026 22:15:00 GMT",
+          "pubDate": "Thu, 12 Nov 2026 01:36:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Trump administration wants to sell public lands and shrink the federal estate - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSUN4NGFwX1R2R1UtWEkwSlZFMGM2d1p5OHZRenhEdTF2Nm0tdWthZHlDZDM3QkJOVWFqQTVWeUlTajZNTFVIQXZYTzVrMTdIcGNEWW5iX0hWa3EwdFJpZVo3N1hjOEFnZWItYXc3akFwUkRIUXYzbUJiUFYtM0k4WlRSdnNWTXBTZHNMNXA4cTZUNjFZaXVn?oc=5",
-          "pubDate": "Wed, 11 Nov 2026 21:54:00 GMT",
+          "title": "Rapper Yella Beezy convicted of hiring gunman who fatally shot rapper MO3 on busy Dallas interstate - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONW93eFhvcGxkNm81Y0JiU3BLWWF6S2Y3V0hTeGgzRkdueVFxM0pvNU5JbGhpT2N4anZYX21hUkZqcDRMTlNsQkhTb29TT1gxNmFZRGNwaklOUkdhTC16aUlBU25IVTJPZjNwWGdOMVRIV2FfVnZyanl1cXozQnBoNTRtR3VvRlZwSzdsa0VwTlg5dw?oc=5",
+          "pubDate": "Thu, 12 Nov 2026 01:22:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Housing protests sweep Madrid and Barcelona after Spain’s workers' strike, with clashes erupting - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQlZ0c3o4SEdVYWN6SGE2YW45M0xMVUlhNUJlMlo0QnZxMVB1UEdWOVZBOU9qcG9SSUlFSmtOa2F5MFJoQ0hPVEp0SVJ3NzJDV2FfcWtKV040dzUxRExKd2Y0bzRXNUViQzRvaDJBbGdfeW9FaTJyRnkyX1V3SU40Zms3TzhrUDR3dFdzc0J4S3ZqWkJIVUNUZVlfX3FjUy1EV19Wd3dMZw?oc=5",
-          "pubDate": "Wed, 11 Nov 2026 21:43:00 GMT",
+          "title": "Pope Leo returns to a national celebration in his second homeland of Peru - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZEpjX3pYM1J2VkZWTVlwYk5ya2o5TkNUX3RXMHU0bjVFNlV5UWgwT0kzcS1vZjkyWGIxcEk0RUIwbjBMWjdZQktETEVuaVJ2eWNJLV85SlJOUFBtUjhrT3hrMWxQTFhoSXZoSTVIdmwtdVdIZE1SNk8yTDlVc0M4dV8wSUNFWVowMWJ2RGZhQmFDVTcyQmd5NzlyUjc?oc=5",
+          "pubDate": "Thu, 12 Nov 2026 00:50:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "AI stocks rebound, and Wall Street nearly returns to where it was before last week’s sell-off - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYi1oYnVxUmZHNlhJVXBPYk9ITmFxZzBzUWNfUDZPT2tsR0R4SExvcmJzM3I1ZEh0WHV0bHM2amVtQmMzWnpwRWVFRjluOTdETUt2UGtPbUUzamNLcVJ5UHk3Qm5ZMmNlNm16X21EZkZxaktKT3RIUEc4SlJCbnJDbzhxOXFkNVI0ZVFab3JBOGxtSXM?oc=5",
-          "pubDate": "Wed, 11 Nov 2026 21:42:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Italy’s Meloni says cyberthreats are intended to spread fear after schools hit by bomb threat - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPanFkNjRuZFpXd2ZINlZJRWx3RkROMjA5UzZ4RXdWN0MtRWZyc1ZhWDFybWtrRk9ubkVPckRvYTRSLV9mcUxyOUw1WVZwOUVkUU1mRTZtVDBkUGgtZkdCSGhybnFDTkZYaWFZTXQ0c2w2Y0Jwb0xjVS1kVnByd3EzcFIzdHZWbExNOERpdHcwYm4wS2RBMFFBR3JkVnQzeWRpU3VoWElrNA?oc=5",
-          "pubDate": "Wed, 11 Nov 2026 21:19:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Who is Alice Huang? The woman at the center of Nvidia’s scandal remains elusive - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWWN4Um5UWHU3MHROUmJ2YlMtSW05bmNXSFI3TkVFajJrODcydUlDa015MWdnN1FkVnBiZWNZUlZPUUs4NGRkN1MzLXRCZHZ1cnNVc3ZqUXVCYklscFJ0WWVHUlY2Z2VCV1VKN1BMTU1KRzlpNWM5STBQZm05NldlaTdBd1Y2T0xaQzNKOWo1T2laZmc?oc=5",
-          "pubDate": "Wed, 11 Nov 2026 21:07:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Ebola tops 11,000 cases in Congo’s deadliest outbreak - AP News",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQX2xZQ19zQXZleUxGQlZ5WWRFcFJUSGI2ZVJ0MnJPU2RfZ0l6REFwbWFWVm5RdFQxYnRKd2Zsb0FmNDlhYWdQSlV2ZFhiNmx6RzdsZUZLVWJ5cFdBb0xIVWEydTlRSmg1cUthejlNQ2JzQUYwQk9EcVFodXdtMURQOHZmVHM2RW8?oc=5",
-          "pubDate": "Wed, 11 Nov 2026 20:56:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Mississippi U.S. Senate Election Live Results 2026 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE40QzF6VWVSbVp6Zkx1Q0I1OGU4aG5UVTdmMDM5UTdIVTNDd0t5RmJ1RHUxVW9DMmVialI4TWxCMERpUy1pTk1la01IS1ZVdFJJUnJGNmdBX29GU2M5ZlVqaDJ5VFctbUZtRXpLbVlpNGlYNDdkdkM0UEhod0Jmdw?oc=5",
-          "pubDate": "Wed, 11 Nov 2026 20:54:11 GMT",
+          "title": "Why AP called the Mississippi Senate race for Scott Colom - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWVhHbUI5UEJZcjRYVlZSa05MeTctRTZ3WXdUaXU1eTVzNl9zZ2h2dmRURWYwV0RZVVdaTUEwUC01VUtfNTJHYXpTbkU4WHVWOHNyaldUM1VQUkVCMEtkQ3VIYUVOa2FvdDdnZ2hXdUd4WWJjOUtnS2R5T1FjV3N0NUNFcXZ3MW02RTRSUW9rWU5Ra3c0eXFDczRTT3J5R3FEOUZMSg?oc=5",
+          "pubDate": "Thu, 12 Nov 2026 00:47:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-11T22:33:47.699Z"
+      "updatedAt": "2026-11-12T03:41:27.151Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Pope Leo arrives in Peru for homecoming leg of his Latin American trip - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRW95OGMzNFBhTFhqRWViS3d3UUR1Y1RoUk5NbHowZnBEeGNUendSTXlkZnp3YVpBSU9wNUt6aE8zT182Ri1WdkpyNFNKTFhFT2tVM2U0RHlpZlhOdjdseXRvTXkzQ3RfYWtiUFhiUFN2Tlczb2pyRHR1eDZ0ZlIzaW1hdnAwbU4wNkZEeEFldXAxVXFqV05tVDBZOS1XVkdieW9lX24wUktOa0dmUnBXVkdOUjNjQ3N4aXRwM3cwR0lQVk9KRTQ4ZEFHTQ?oc=5",
-          "pubDate": "Wed, 11 Nov 2026 22:06:53 GMT",
+          "title": "G7 foreign ministers say China's actions east of Taiwan threaten stability - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTDl3Qnl2dV9hRERRa0Z4WHJHbmtYTXBrR2Naa1dpLWlYV2trZlRKSGNBeTB4YzZwaWFwOEE5WWI5UkJYaU44cUt0YnBWekh5VldVYi1LMk54MjRHYWpNREJIRWhSc2R3TUt4ZXYyMzFCOGlJWUZjM2d2VmhUQ0lWU0xhS2xFcFpBOGE5ajk0eGNTd0xJanRwSnJSZ1ZrWWw4MGxzRFZxZWVGZlJXSEltQXljTUpLMzN6Rmc?oc=5",
+          "pubDate": "Thu, 12 Nov 2026 02:17:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Democrats are ready to fight Trump on immigration. But how much can they achieve? - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPczM1b0h5TUk0Rzl1TEJ6VTVLZ1NuU2llWWxTYjh5TGctZHAxRjg3TGRqOVVRejRMa2I5M2NhaWo4dWFmWUN0SERDOHJpZFBjNEdHbG1jUXdMR0J1NnFhSnRXLXVaRkJ6TDh0OE9hekN2MUoyRkZNbS1mUlFCZG5JTU52THFjcElBVFdQV3hXa3ZTTU1IS2x2TzRUUGVha21SWW92eWVIMkRTN3FGTFZMYVZONngtanR2YjZpaGVXUQ?oc=5",
-          "pubDate": "Wed, 11 Nov 2026 21:23:26 GMT",
+          "title": "Asian stocks fragile, Nvidia plummets as board to decide CEO's fate - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA1ODl5LXpyQ0RZanVjSnZGS1NjS1ljMjZvdW9xY3ZSSUxvNkY2Z3dCMThiSjdKNHI1TFRCZnBIRHdYY0UxTGh0QjRZX3Y2S25sY0k4M0dKN3VZdGNMSGk5N0tPUmVJa3ozWXRCcmluOWxVVjVfblRLdmttMA?oc=5",
+          "pubDate": "Thu, 12 Nov 2026 01:53:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Lutnick stalled Trump crackdown on diversion of Nvidia chips to China, Axios reports - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeDk3Z2kxT2NlVkxtZ3FMbksyU0ZlT2JzcERTTVBkeGFzUk5kaHhpazg4Mk5GSnZGTmNmbVVZakFyUHZOeGx5ZEt1N0pVZFRBcDlzMFU0dDc0RFh1ak1ndzZBVWNsN3NCVmliX040XzZHXzc3TFlCUWNTeXdyUkZ1S3B4WUhLSnNCWDVzeGd2NDZUZzBaTUNwemdVRWtqWGlzUnczR09yU09qaWwxZGRKaFBOUDdiR2lLa0VSa0tiWQ?oc=5",
-          "pubDate": "Wed, 11 Nov 2026 21:21:45 GMT",
+          "title": "Oil prices drop more than $1 as hopes for Iran, Ukraine peace talks pressure markets - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSVNfOWE4dnhlMzA3cExiOE1nR0FNQXFJejNsQTExRExKTlVKNjNjcFRGMWQxMGNmYnNOWFdLaUp0OUo2SHFlNVoxMUo0Y21WazFhVmhZU1VxYlRuWVRfZEtiQ0NGWENEejFpMFRzaUtNbVV3TEhKUHp2aUc0SHJ2VkNzM1BHNU5VeGNNbnRldWZaZUFkTWdDNm9ibk5kQXlOQlRRWHRhdGk5ZEtPZjVjMjE1Q1BJaTZ1NmplRWJVSDlvRFBUQnc?oc=5",
+          "pubDate": "Thu, 12 Nov 2026 01:52:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Stocks end higher as CoreWeave results ease AI spending worries - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUVZoWU1fQUd2Y1M2Qnl1T2JaMTkwaXBkaDIwWjVHejZoQmdDUnVzUVlSWDVsWW1pVDRVcXQ2ZTdrRTRiMDdMNWJDS3Atem91bUpDMnFLUkZ6NjhjaTliYWV1ODRLMnk0Slh3Wk5wNGtHTDhvaEZpTFIyUlVpQ2tNdTUyb2ZLbEZGOHlTZWRJNzVScUpIS3V5a1FacGwzby00RURBa2htZFFqZmw3Z2pRS2NDWQ?oc=5",
-          "pubDate": "Wed, 11 Nov 2026 21:05:09 GMT",
+          "title": "South Korea's President Lee to visit Philippines, attend APEC summit in China - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPR2lhT211dkxSNVF6WHRhd3VfeERHZUZBV2tIeEtGUkljTVZubmwycktQSjNZOTRGT1FidU9WUEt5d0lKMWNSZWdyRk9GcURGeDRBNWVEY2NxUnZ6VzVrS0poSEtpUVBjQkNYT2NqbUtETTl0eTVtM1NJV0NRb3J3Ny0wbUtxY0wyMnhDME9fOWdjQlRMcmVMSElQb0J4blppdk9pNWMzdGlyN2xqRGJnN2ZnckNRZ2Uz?oc=5",
+          "pubDate": "Thu, 12 Nov 2026 01:04:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Ukraine's Zelenskiy says progress in peace talks hinges on US approach to Russia - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLVVESEhzeFJHMmo1SUlBcWswbUctbUprbnVPc1pSRWx1ay00ci1hbmYyUjBqOE1JazB2c1l0dVE3cGtGbDc0QldyN3VqYkdGMUtQWlE1cG9FRnV3b2VkUENMbGxyMlJQdmg2MkJxTThvSENGVVVkR3IwcFlXMEJHWUJ5a0dTY0R2b1k2ZXpOUVdvcGkzWWtGcFc1VHl2MDR1UUxaWF9DdmdMY2JaNU5RM3g0UTBDdm1tUHIw?oc=5",
-          "pubDate": "Wed, 11 Nov 2026 20:59:58 GMT",
+          "title": "Saudi Arabia says debris from intercepted missiles falls in Mecca region - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSEdmMVduSHJxWEd1UWVkOUtrcF91S3VfSnI0MzlnTjh6NFdHOFNpSTBXU1JpdFk3NHdORlNsck91bFEyNUNLMHdoT1hFZmlqTGdaUDU2c2ZkeXE0Zl82cURaQXZxTS1IMmxqS3FNUEVNU1FRU1NQU01EQkxzNkN0YUhWek1qRm9ZYkNUS1FrWUIyTmFaUFFkTERqZER3UUx6cEN3VVdWNG56R19zSFkzRWphVUl1Z3I1eHc?oc=5",
+          "pubDate": "Thu, 12 Nov 2026 00:21:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Saudi Arabia intercepts Houthi missiles, drones; group denies targeting Mecca - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNa0VablB0SWViZWpCRFg4bC0yX2ZTM19HNmFFVUdqVVlwbWRuRjdpSnNXZ3liU04zeTYyZWJPSlhLeEVRTUlMS0N2SnlPdEpINzVHUTJjRXJjd3RKdEZMLS14czdZSlpjcWlJWm95bFpTNHgxblNSVlFyLWhsQ0JncVFZRGRmQ0p6cDZQRGRtNlh6LWxnVXlLRkJyelFzdTFoM285d2tQZTJvS1BkYkRzLVZwUERKc2pHbVBqOUZDSmFRbGJ4TmpmQVExbnEzOTQ?oc=5",
-          "pubDate": "Wed, 11 Nov 2026 20:57:51 GMT",
+          "title": "Chilean mother reunites with children taken under Pinochet dictatorship - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUDZjNW9tU2FpUG5LTkVaM2U3dVk2UFczZjFIdjFVZkZlSTY1VlBIN215T1RHS242Ri1zWGtPRzJTbXU3OUt3V2h4ZzRUZG52Rm5UTE5LMmZfX1VwTnl2NFVGRXQ0ZHJtbTBXTGtFZHhnd1Y5RTRRR01QbTZjSm12cU5qdmt3RDNSNG5DdU5FLWhMVUtHNFJTSjl5UEUtcVNXSE9mWV9XR204WFo1OWlxaVVFdXFuSzh4SWgycDQ0NA?oc=5",
+          "pubDate": "Wed, 11 Nov 2026 23:50:25 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Russia and Ukraine say some progress made at talks, US cites a lack of trust - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdEZkalllTkswSW1lWVlXanFsVFBfVnBSUmE0U1VNWTJ4c3BrS3dzTDZWQUhwM3NfOTFMdjVuaHBqZVRTVFBYU2JEOWtpX2VoR1ZtUzZVcDlTN0tKVzVtczFhYThSSHpDTjJXSHV4U1Rqc0doRElpcW1WTGQwdmF6bE1VN3BpU2J4U3V1Rld3S25XNXZxWkVVNVlRZDAzLWpIVGFHWG9Bd2M?oc=5",
-          "pubDate": "Wed, 11 Nov 2026 20:54:57 GMT",
+          "title": "Israeli strike on southern Gaza hospital kills five, Gaza civil defence says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOekJqQTlDSnpyUHhBeEEwb0V2X2s4NzdhSzR3a0NvbDZoR0FWXzR0X2k5YV9zaHlhU0M3YlVMWk9RTDltZXZiajZGdlVMSmxrMnJkWEI4QXU4bUFGSWppTDJFcVh4amhHR1lkYkdKT3VvT1BicUZnWTRBb3JuU3lHYVBScHhIdkc2bC1DZWpOVWNlbkJiTTRIQXdxYlE2a1hndlV5R3pwOVY4WVhvVXYwNVJ0UXU3WGJuTFAxZlhNU3YyeVhB?oc=5",
+          "pubDate": "Wed, 11 Nov 2026 23:49:08 GMT",
           "source": "Reuters"
         },
         {
-          "title": "CoreWeave sparks AI cloud stock rally, lifts Nvidia as results ease bubble fears - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaTZzT256WkU3aE4zUnA1UXBqX05FOENKeXI4MFZtUDQtc28zeDBLWEE2UGdydUU0OXI0LVotdWEwUVBJeDB0bVh6Z1BrN0dQbHFRa0RwZ2xEdDlBaS12T3ZSQXlzcHNSTHAxN2FBUjFXTTlaTmRUWWVJdFZmaXBDZTJteWlWQ2d0MDYzRHRyLWV3Y0xiMU5ndjRMdlBOaDR0T25uVVFNZS12ZDhjWkRMRzBDc2EzN2RyR0dvTnZqWlgxZw?oc=5",
-          "pubDate": "Wed, 11 Nov 2026 20:54:06 GMT",
+          "title": "Polymarket cuts jobs, contracts as prediction market competition heats up - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZS1idFIySUpYQldXcERFMGtVOUg3M0dvZWlBNE50d0luTTFSZC0tMU1nRjRXQXlWbkZYVlJHSnBQYXZDX0VPMllLOGFzT0VMWVBhR0Z0ZHdseWI3UWpkUkJIdWhxMWUxZkJubkl4RWJmbS11ZE04RUpLckpfaVFXdjJ4Y3NjY2taQTB3SUU4dnE4aWpHZGc3X1FrUWtsVHdKN1FvZURTSlBIZndVTTdxbVY5VV8?oc=5",
+          "pubDate": "Wed, 11 Nov 2026 23:28:17 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-11T22:33:48.116Z"
+      "updatedAt": "2026-11-12T03:41:27.530Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-11T22:33:48.176Z"
+      "updatedAt": "2026-11-12T03:41:27.714Z"
     }
   ]
 }
