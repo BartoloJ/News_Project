@@ -1,13 +1,31 @@
 {
-  "generatedAt": "2026-11-19T01:23:32.757Z",
+  "generatedAt": "2026-11-19T09:18:42.817Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "Crimean Bridge attacked again, Russian official says",
+          "title": "Crimean Bridge attacked again, Russia says",
           "link": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 19 Nov 2026 01:05:03 GMT",
+          "pubDate": "Thu, 19 Nov 2026 07:32:06 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
+          "link": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 19 Nov 2026 04:42:52 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
+          "link": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 19 Nov 2026 02:59:06 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Anthropic valued at $1.5 trillion ahead of AI giant's stock market debut",
+          "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 19 Nov 2026 02:20:15 GMT",
           "source": "BBC News"
         },
         {
@@ -29,36 +47,24 @@
           "source": "BBC News"
         },
         {
-          "title": "Claude-maker Anthropic poised for more than $1.4tn stock market debut",
-          "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 18 Nov 2026 23:44:27 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "Russian arrested for spying on US defence company Palantir over Ukraine support",
           "link": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 18 Nov 2026 23:28:03 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
-          "link": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 18 Nov 2026 23:04:06 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
-          "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 18 Nov 2026 22:34:56 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-19T01:23:31.648Z"
+      "updatedAt": "2026-11-19T09:18:41.636Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Win a trip to go behind the news with NPR",
+          "link": "https://www.npr.org/2026/11/19/g-s1-153851/npr-newsroom-giveaway",
+          "pubDate": "Thu, 19 Nov 2026 00:01:00 -0500",
+          "source": "NPR"
+        },
         {
           "title": "Anthropic IPO raises record $81.3 billion on strong AI demand",
           "link": "https://www.npr.org/2026/11/18/nx-s1-6046212/anthropic-record-ipo-price",
@@ -66,160 +72,154 @@
           "source": "NPR"
         },
         {
+          "title": "The law releasing the Epstein files passed one year ago. What do his victims say?",
+          "link": "https://www.npr.org/2026/11/18/nx-s1-6041708/the-law-releasing-the-epstein-files-passed-one-year-ago-what-do-his-victims-say",
+          "pubDate": "Wed, 18 Nov 2026 17:27:43 -0500",
+          "source": "NPR"
+        },
+        {
+          "title": "Why the Nvidia scandal is a national security issue",
+          "link": "https://www.npr.org/2026/11/18/nx-s1-6044275/why-the-nvidia-scandal-is-a-national-security-issue",
+          "pubDate": "Wed, 18 Nov 2026 17:12:56 -0500",
+          "source": "NPR"
+        },
+        {
+          "title": "Democrats nominate Jeffries for speaker, prep investigations into Trump's orbit",
+          "link": "https://www.npr.org/2026/11/18/nx-s1-6043185/democrats-nominate-jeffries-for-speaker-prep-investigations-into-trumps-orbit",
+          "pubDate": "Wed, 18 Nov 2026 17:01:19 -0500",
+          "source": "NPR"
+        },
+        {
+          "title": "After Nepal's epic flood, they're restoring their community ... and their lives",
+          "link": "https://www.npr.org/2026/11/18/nx-s1-6022034/flood-nepal-survival-climate-change",
+          "pubDate": "Wed, 18 Nov 2026 17:01:17 -0500",
+          "source": "NPR"
+        },
+        {
+          "title": "Democratic Black women take over almost all state agencies in Georgia soon",
+          "link": "https://www.npr.org/2026/11/18/nx-s1-6043103/democratic-black-women-take-over-almost-all-state-agencies-in-georgia-soon",
+          "pubDate": "Wed, 18 Nov 2026 16:51:33 -0500",
+          "source": "NPR"
+        },
+        {
           "title": "As overdose deaths fall, White House makes misleading claims about who deserves credit",
           "link": "https://www.npr.org/2026/11/18/nx-s1-6044209/drug-deaths-overdose-drop-trump-biden-fentanyl",
           "pubDate": "Wed, 18 Nov 2026 13:18:16 -0500",
           "source": "NPR"
-        },
-        {
-          "title": "Karl Kani dressed hip-hop royalty for decades. Now he's telling his own story",
-          "link": "https://www.npr.org/2026/11/18/g-s1-154227/karl-kani-a-life-by-design",
-          "pubDate": "Wed, 18 Nov 2026 13:15:59 -0500",
-          "source": "NPR"
-        },
-        {
-          "title": "Got a canceled flight? 7 clever ways to get rebooked fast",
-          "link": "https://www.npr.org/2026/11/18/nx-s1-6045636/got-a-canceled-flight-7-clever-ways-to-get-rebooked-fast",
-          "pubDate": "Wed, 18 Nov 2026 12:10:44 -0500",
-          "source": "NPR"
-        },
-        {
-          "title": "Democrats formally nominate Hakeem Jeffries for speaker of the House",
-          "link": "https://www.npr.org/2026/11/18/nx-s1-6043183/hakeem-jeffries-house-democrats-leadership-votes",
-          "pubDate": "Wed, 18 Nov 2026 10:56:30 -0500",
-          "source": "NPR"
-        },
-        {
-          "title": "House Democrat warns 13 Trump allies to save their records for upcoming investigations",
-          "link": "https://www.npr.org/2026/11/18/g-s1-154147/robert-garcia-house-democrats-investigations-trump-administration",
-          "pubDate": "Wed, 18 Nov 2026 10:01:32 -0500",
-          "source": "NPR"
-        },
-        {
-          "title": "The off-and-on switch for U.S. aid leads to a cliffhanger for Zambia and Zimbabwe",
-          "link": "https://www.npr.org/2026/11/18/g-s1-153872/u-s-foreign-aid-memorandum-understanding-zambia-zimbabwe",
-          "pubDate": "Wed, 18 Nov 2026 08:03:38 -0500",
-          "source": "NPR"
-        },
-        {
-          "title": "Mary Peltola flips Alaska's Senate seat. And, Nvidia won't reinstate Jensen Huang",
-          "link": "https://www.npr.org/2026/11/18/g-s1-154145/up-first-newsletter-mary-peltola-alaska-trump-asia-nvidia-tech-issues-ai",
-          "pubDate": "Wed, 18 Nov 2026 07:14:28 -0500",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-19T01:23:31.700Z"
+      "updatedAt": "2026-11-19T09:18:41.756Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "US and Venezuela sign a deal to reestablish military ties, Hegseth says in visit to Caracas - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONFk1RlZIUXh1dXlFVHVzSlh1YjVibG0wdV81RS1na0Ywc3p5MEhaOXB6YlREV3FFRzJpM1VhMFgzYnNLU3hvaXBXOUh4TkpXa01XYTRzS1o1R0VXcHhzZXc4ZkRZYUIxRVVpRXB6Zm9BRUNMQlE5aGFySVUzR2RpVmpsV1A2UFNSLTRITEZNVG5BdUlZ?oc=5",
-          "pubDate": "Wed, 18 Nov 2026 23:39:00 GMT",
+          "title": "Nuclear arms and ending wars in Iran and Ukraine will top the agenda at Trump-Xi-Putin meeting - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZko0TjU0LUdSMUxlTkNVcnJsSThoSFo5Y2ZuamRVQ2tidnZQa2M5N1o0dlpndmptSGxNTGhYYS1IUXVKMjZibjFPcWVURHJRaHNfclhIMHlSVFdIN3VkZUxFVEo5Z1JoZFR0bkdHOUd1UUNuNXRCVDBKUlhPaGItcmVfY09NQ1U5WmhHYzRNZHdtWDVVay1JalhlNA?oc=5",
+          "pubDate": "Thu, 19 Nov 2026 08:41:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Florida pastor convicted of US charges related to assassination of Haitian President Jovenel Moïse - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPenVGckxZaVBEZ3NVQnpZRkczWEZyeUtaaDRkd0FoT0pfYkdsY21MeVExVmZJR3NTSUJoNnp1TzlSY0pUSWNTQmkySUxKSnJ5UzIzX18yMFl4SGhVQU1Oa0VjR1oxWjJscTVHdnJpMjZEb1lmeDNvSHd0aEZTaFJ3SWktbkVTR3dfdTJVUUFuU0sySnZLNUx5dGNYRVBZcl80b2gydUdR?oc=5",
-          "pubDate": "Wed, 18 Nov 2026 23:35:00 GMT",
+          "title": "For Putin, sharing a spotlight with Trump and Xi boosts his profile on the global stage - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVV8xWGtoUVBFb0pZRXA2U05JRldkTXdGRUxBWHpBd0ZHd2o2U2ZiYjFELU5jTGdOZ1RfZnpTZk1MM0ZqSTNuRWdYcnAxUlIzdWZzV0p1a1JhS1BreXozOWdnNC1nclNZLU5SaUV0SVdTU0VCdlNNY2ZJOG1qM3E2aS11NzRnMERpVTV6RWNCUklGQ1BxT19tX0V0T25WTnVQNlE?oc=5",
+          "pubDate": "Thu, 19 Nov 2026 05:48:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Fishermen from Ecuador sue Trump administration over boat strike - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUExGelNTM2dSQkwyel96TlkzWTV0WXNRR2QzVmNzVkMxRjRxUDFHOEgyeHhhQV9MX0pET1FQVVE0XzF0TTN6SzNkQ2lxVDBhb2VIMmpKY2NHWlc1cS10R0pqLTdHbjdiZWtWYUxFMElCb3pYRWg1VllVTVFVRFRGWDdLTXR1cmhqV2c0b1J5V0MyRk5ZTXJ6eGJVY3R4dFlZMVlWRW9aMA?oc=5",
-          "pubDate": "Wed, 18 Nov 2026 23:10:39 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "2026 U.S. Senate Election Results - AP News",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ycUhlZzZ2V1lhd2pzVExlRFNUOVV5M0N6VHB5a2FuNFU2NDNaV0dSTV9hUVZTZHZCeVRjeWRWMnh0NUVIRW1vbmhfNFRsSVRqSWIwM21iUmMxTE4zYzhocm81ajd4U0x2R0R0Q1Bn?oc=5",
-          "pubDate": "Wed, 18 Nov 2026 23:10:09 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Cincinnati Zoo trying to shake loose Fiona the hippo after she swallowed a hat - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQWZGc1M5VlU3LU01dEhuVXE2TXp6ekxhOXpob2p2ZzEtQnJQLW0xcGh4UVNRTm94Y3pYOWZldjd3cFFvZmJweDJNOW9Ic2Nad3ZqWXZGWUZQcFdIVFdPOWJ0RjNvRm1feTNHek5rQkhxLVZOZmp1OTc2NW9wWkxvRzJkcC1nUkFMTDl4ZjctY2hqNWd1?oc=5",
-          "pubDate": "Wed, 18 Nov 2026 23:06:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Anthropic reportedly prices its IPO at $83 per share, valuing the AI giant at $1.5 trillion - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeVVmSzl3dVBhbDdFbTMtTUl2LWVHU1FRb2hvYzJZNWdFU0ZDTmU3NFBVNDVWQXNXQlk2QmkzblN4MUplLWVGc1NheHNRZVpZTHZ1eG9OME53SUNtOExJQzNFSTJpLUw0cWxnSjR4VWlXLWZhZUZsc0dna1J6bmxZTTNBb0l2LUpq?oc=5",
-          "pubDate": "Wed, 18 Nov 2026 22:49:32 GMT",
+          "title": "Tech outages are piling up, and AI is raising the stakes. Could this be the new normal? - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRzA5RWNfellCVEVsUGMyVm1kc255MGVnZHNDcEVIcmdUX29IbEFPakdnYUUxTFFvZGFORUwwRU5pWlpsV1RXbVN6anRoOEZSdHYtS3VFdXlZczYtS3gwNU9UcXViNlFhWHdnR1N0NEZFVFhseEpKWTlYOGhPOUgxbENJYVhWSlhBVXF1aGNVR3BLckU?oc=5",
+          "pubDate": "Thu, 19 Nov 2026 05:01:00 GMT",
           "source": "AP News"
         },
         {
           "title": "The Vice City Heat: Miami’s NBA team goes all in on ‘Grand Theft Auto VI’ collaboration - AP News",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdUcxQ1RFX3RZeDZHRWUtb21xRGdNUUkya3V6V0xOMjhjXzF6WXE0aEJYWElBaGdwRldZM3dkTTZnenVTeDZ3d2h3Sk16SFkxVTlrVWFYRkszXzBQZTd6LXdSN0labGkzT1h0ZFB6empTSlUxcWRQU1BVVUpsV3pCbHVESVpUdVk1QnMwTEJlNm90c1IyMUE?oc=5",
-          "pubDate": "Wed, 18 Nov 2026 22:40:00 GMT",
+          "pubDate": "Thu, 19 Nov 2026 04:22:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Muslims are projected to outnumber Christians by 2035 as the world’s largest religion - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOGNmVE82STJXZmVsTDNGb2tfdldvRTFfUHZvMkp3bjRscUFKOElQX2JoV3pKV0Y3aHV3QVVBNGd0YU1aQno2ZzNYSVVrS1dGVVlEbzBoTDlGcU1YMXdtNFdBMF8yalB0WFF2eWJMdzh3VXNTckVoUGZzSWw4c1JCMkI5eWloTHM3SUVKd0hRLTVMYVlReWplaHhKQUZZbXlmaHpjbHBSVjM?oc=5",
-          "pubDate": "Wed, 18 Nov 2026 22:18:00 GMT",
+          "title": "From pop stars to poets to politicians, admirers gather for joyful tribute to Gloria Steinem - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUmQ5UUZzSGVwMy1RWXZfckM5Z0hPWFdRVnE2U283c2REWDZGSDVadGxnR0NPa3phSElUU1V3R05oRDE2OUxFUHhnM1FxU0J0SmxYWWdHZDk4bm1PT3pQLUR1SFZCeHVLNU5FN0cyTkxxZXMzOUpOeUdLc2RQYjRwaEF3UEVodzhpT3RF?oc=5",
+          "pubDate": "Thu, 19 Nov 2026 04:11:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "After a 13-year wait, ‘Grand Theft Auto VI’ arrives with enormous hype and expectations - AP News",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNU5oVy1LNFdSWUFIbTV3RkNqQlJNWWdlb3pJNUxOV3ZRMU02TjFOV0VBUGVoRDhLOEU0SHpSTl9YMEwtN1pVSV9rQ0I0cUZvRFptd1NGUks3ci0zekpiSmZKMmJobUZfcTZpS1YyVkZCbVR4U3RKQ1F6TUlXU2x5VmdDZ2V1empCQVViM3NNVDhPc1NtMU5IeENVZWlNQQ?oc=5",
+          "pubDate": "Thu, 19 Nov 2026 04:08:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Republican Nick Begich wins reelection to Alaska's US House seat, a rare bright spot for the GOP - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPblZoaXpNRkF4Zi00dUM1YTFZYTlULUV5V0JJVXJCVmU1N3VuUHI0V0JTX0RtajMzR0h0LXdUVnZXY1JIUkltRTlIUkZoQVo2OFNfTlZ6eGtiVW84NElwZ2hzOFhVM2kwVmR6eGo3Q2pjZmdHbkNDVXZEX2FVN19ua0p2elo5ZjNYU2pDN1J5VjdITUxTWU52eFBTX0E?oc=5",
+          "pubDate": "Thu, 19 Nov 2026 03:45:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Anthropic to debut on Wall Street with a $1.5 trillion valuation in the biggest IPO of all time - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeVVmSzl3dVBhbDdFbTMtTUl2LWVHU1FRb2hvYzJZNWdFU0ZDTmU3NFBVNDVWQXNXQlk2QmkzblN4MUplLWVGc1NheHNRZVpZTHZ1eG9OME53SUNtOExJQzNFSTJpLUw0cWxnSjR4VWlXLWZhZUZsc0dna1J6bmxZTTNBb0l2LUpq?oc=5",
+          "pubDate": "Thu, 19 Nov 2026 02:23:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-19T01:23:32.171Z"
+      "updatedAt": "2026-11-19T09:18:42.203Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Hegseth, in Caracas, announces US-Venezuela military partnership agreement - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZV9uT1R6QjFJeHlkYmhUeTdIQ0F0Ync2akZibV9hdmhtNEZMelUzSkk1WlFTNTJUd2NKdC1ILW9rWHZJb3JZemxwT2dwNlc5QjNIYzlNS1kwVkt6aDl5aVl0VFdvRUNPYzBMeXJtMnM4YVJPWjdvSzZ6eWlQNXVFdGdhNkw3YzhpQ0V4Yk11dlFKS21RREIxZVcwUFJxS0xKZ25TMDE1bGtDRUJ2aUp2VVFBVkUtSDU1VXBLNENB?oc=5",
-          "pubDate": "Wed, 18 Nov 2026 23:55:36 GMT",
+          "title": "EU Commission targeted in cyberattack, Politico reports - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ2FuVDFlVnk2V2ZQX1cwZDZTVVgtNGcyVkRjdWVPa0dWMnFUVWkxVjU0MmJCZEhqZTNURWtRUlpWTFpHYTJDUS1TckpwbDFOYWl3WjR5Z0hyR0xMRVNQbXNZOWw1dHUtWDMwUl9VTVJRSUVfOWh6cjd1eVBpY3hySU9zbnlvZ2V1UFpBSlFraWZIMTAxTGtXQnVYaGhNLWRkRVhmaE96UQ?oc=5",
+          "pubDate": "Thu, 19 Nov 2026 08:25:03 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Judge extends block on construction of Trump's triumphal arch - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMmVRdG1JVzZLUGVCQVVXQnEzdW1PQ3dra0VWVlQ3NGJaNDdIOVoxc0hzNzBFZnNsTy1tbi13Q1EtRHJ2WEYwTTJSX1YwTWJodGpnMjVETE9zLVYxc3Noc3BZNnJUc3MwR3h4YnJsZnJ1MDg0UGdPNUFTOGFGaUxsQU5ldC0wd2VTVk41VGFXWmZydEFldk9hYUt6aGlXLWZFSTVtRDVwbnNqeHNmY2w0?oc=5",
-          "pubDate": "Wed, 18 Nov 2026 23:29:29 GMT",
+          "title": "South Korea's Lee says hopes reopening talks with North Korea could lead to lasting peace - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQa3p1X0tCV19neWFKZTZwc21Iaks0ZFFCZk9oMzBJakpGX3FzbmJqOWppOUN5Z3I1ZlI4QTMybDNjb0VsR1VoS1RCb0ZES2ctMU05ZWxHSzlWcEtpcnVyU19heTloa3R4SmY1NXQyUHlnNXZhbEFHdzZaR0ZGQzVCYkVfSVg5a0VTMXhwY2licDVoeUVzME5oWHlma25DcGtqQXhhV093VHVtZmdlWTJHLVY3enFCQnlXa0tjZ2FMNFlvcHNVWlE?oc=5",
+          "pubDate": "Thu, 19 Nov 2026 07:28:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Democrats probe whether Lutnick helped Cantor Fitzgerald avoid Nvidia-linked losses - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONTZfWHVZQkZBSHhzWl9pY3ZMUk9HQVhEUmtmckJNcVBYUXFHQ2ZDZF9XUkpESEF2bjM1cjh3S2R6T3N4cG8xeDJCS0NOQ1JLMDRRcFZvUjl0X3YzREVxM1RheFRESF9QekdKTnpFRC1oaW51Mkwwb0w1REYwSngzRjh1VXA1ZVJick5SczdmTjltWExrV0JEeXRVUmVpbDhEQ0lORlAzWGpWaG50UWJFOGpValMzd09jZGhQNQ?oc=5",
-          "pubDate": "Wed, 18 Nov 2026 23:23:41 GMT",
+          "title": "Ukraine strikes Crimean Bridge for third time in a week ahead of US-China-Russia summit - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUzRFcTV3RC1acloyenJ5UXlCQjNfZ0tieEg5NXpGX3NObnlVMzVTR1BDX3VsNWlhOEZKak1ja3JGU3hBMTI3cjJsRlpGWTNhRm1iSkc4U1JHeUdBYXFYdVpjWW9maWJ6MTdMOEw5ZG1YRUJyTkctVGxlTk1hT0VKY2lGNDdGS0w3ZnRJdUQxUzBHeU9KNHdUODBNMEllMDR5Y1NZaFhsd1ZNYzh6ZmZTS0p3S0pCckJ4REUwYnJIN3NsUQ?oc=5",
+          "pubDate": "Thu, 19 Nov 2026 07:10:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "EXCLUSIVE: Anthropic clinches biggest-ever IPO with $81 billion offering - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcnFyUlh5WE5VSFRRSWxnVGRUXzlROFRSb0VOdmZwamRWYjJ2SWhvTGp4ZTB3eGNYYWZtdkR0WkJLMDIxX2RZa20wOG4yY2xjdVhuTFpWakVUVDJ3X0NJQURrVkNuR0xPZmxtMm56NDQ0OHl2TzdZVDVSc04yYUlmY2hPSHJ1U2JLamhzallLeEZDVWozbGVObjBEWWNvY205Rmh3Rk9lTWE?oc=5",
-          "pubDate": "Wed, 18 Nov 2026 23:19:26 GMT",
+          "title": "Taiwan reports two Russian military aircraft nearby, second time this week - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdnpIWnMxVUtEZmIybkVXR29nSWNpWXRqRVo3dXZoYmdTcE91Q2MtZW1oSTZ2X3REWjUyZ1JNYlJSclJZX09TY0FNNllNVFdQUU5TV2lVN083QnN3aXB4U2tTMGN4TmY5U1FJbG9zSnE4bEstV215amRrZ2hpTlZ3UFRnU3dJOWZ5M0I3ZGpmU2sxZVk3bE96MWlGblVnMV9XRHk3NF84bmxGb2t6d2JBbXhNY1BrWHhlRVkxanIwMmN0OHJ6eTE0Nzg5dkV0VDhTc3c?oc=5",
+          "pubDate": "Thu, 19 Nov 2026 07:10:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "US lawmakers seek Microsoft briefing on reported AI deal talks with ByteDance - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdEpRTFc4Q3Nsa085U2xoZldyY1BXSmlhSy0yT00tRzF4eU5QekdiUENlSTQyajA0eU5PVWl0MUpoejlXdXJMVVFPbHRVaGFlZmxoWFA5SHN5VXBpWHJvLUFLMjZISk96bVRuWWs0V3NSblpmWTM3VVZNQ3VHQVNpQTNUOFM5VzdwZ0ZOcHlFX3hmcEJ5ZDhRVXlCS0dCZEwxbXZ3Z09zVjB4N1FGMHo4Qkc4WWEwTG5LdHNWbk14NA?oc=5",
-          "pubDate": "Wed, 18 Nov 2026 23:13:48 GMT",
+          "title": "Gold edges up from 14-month low as markets assess Fed rate outlook - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZ0RVRVVhd0g1djYyRGpzbTcyZXFtSXd3cTV1T0REekJaYm9FOTlzblJzU3hlMmsxSkF0UmtzZ1gwWVFiUzI3VXdGNzJLTndoZC1oVkpXSnRmZ0ZmNkEybVRFSnhIVzFCNnlTS2hQRGV2bnNGTHVsaUZ5RmllU0otWWcxV2wwejMwcXpTOWFxam1xb2dRMXMyQ1c0T0RkZy1SX09YR3lYdmxkQQ?oc=5",
+          "pubDate": "Thu, 19 Nov 2026 06:53:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Anthropic IPO to mint thousands of millionaires - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdW1QU3VfRndFeVFEODFZbWVTcUVkcE1CelRpYmJWZ0FleXRVd3EwbjFXeHRmbUJQUDBsQXFQc21iVjdCRHFscy1qQjZWeWhIMnF6d0NBR3gxQmRERFdyLXBDNFFpZDQtY05mT3REaThpVWdVSVQzLUtmOUpweHZmc0dvWEFjbmpxWDdadjNzaFI4ajNmNUZsVVlhb05hWm5qRFdNTV9R?oc=5",
-          "pubDate": "Wed, 18 Nov 2026 23:06:33 GMT",
+          "title": "Ukraine was main topic at Trump-Putin meeting, Kremlin says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNDJ3ZUp3ZjhsQ01rN3VaRGlJNkx3SVpycUdaVENpLUtwT01aQmJ0c01ielVrbW0zcUtjVHlMbjlXc1IxaFFCYnhyWHpoY19vY0N0MVk5dXplemZKM0hSaWpIMndSMzBoZ3lndFpyeEhhUE5pTWVlRWpjMDhDYXpmNEJqZVRiMXgzWVRtNHE4cE1LNE1sWTNSM0lRQ2w5cU00MDE5dmdn?oc=5",
+          "pubDate": "Thu, 19 Nov 2026 06:38:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "How the Anthropic IPO stacks up against SpaceX - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWkdlbW1ReWtyUXdHSHFPaWw0Q25WdThvUlFSTDY3cGI2THcyNUtSNzVhNVZUdFVkcVF1Rzh3SWl4dVRiTEk3Z3JyLWpGeEx2aGFCYWZ3bTA2SXBia1lXcVBFd2xrRFdNQTllNUV4RGxVOWZreFlLWENXNzF5Njdsa1ZLZ0NWcEVRbzRJdnNuSm0tLTVUY280clRCaXVzOGhSekhNMkhBdGF2Wmc?oc=5",
-          "pubDate": "Wed, 18 Nov 2026 22:54:09 GMT",
+          "title": "South Korea becomes fourth country globally to hit $1 trillion exports on AI chip boom - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYjJyUW83NEllOTVXWDNHUnY0UW85MjF2dzVVQ1NxOVBGaW1EY0trbjRZZU5zZWFLUnZnQ1RGUkhiM3ZmZVA2VUxZNm5UQlpJR2F2OXotX0EzOUJJdHNkZlhCUXVnM2xqaEZ1Zmh6R19sSmUyelZzSVJSSkVTZHBvd2ZUQkNJOFZPaEZ6amhLd1BGWlcxd2M4N0pLa0J5Z28taFE2M293Z1puMWViY3FhZDh6WXd4SjFsNzg0dkZ3?oc=5",
+          "pubDate": "Thu, 19 Nov 2026 06:29:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Surge in software patches likely behind recent tech outages, experts say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbG5MRktqdzhYemc3QU9Yd0xudG9uN1lSbkd4YTd3dG44VUlfcTRzcW5WQ19qb2JTX0o0QVV6VHNuV0oxRFNzYUZSX2wySm9WRmk1S2swN2djcWNJc3I0S0FqbzBrV09oZlAzbVFGQUI5bWktb2ZYU3ExYWdCd2hNOHZIei16QU9UZXJDQ0FNRkk0S0FjRG85UUlXX09KTmFtYzQ4SVZQOXBXcHY1VVlzcV9wdGxTR1Mw?oc=5",
-          "pubDate": "Wed, 18 Nov 2026 22:43:02 GMT",
+          "title": "Saudi Arabia overtakes UAE as India's No. 2 oil supplier; Russia retains lead - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOGFFLXpheVdRTVdEZmh5dzNVdWpQR3RJRnJSbjZMMkNscHBaZWlNWTFLT0RpN3RGVU5xbHh1WFJoYTQyVGROQnRDcjZxaW9QaTZKZ2tkWGhDdUpRWnNHNXY5ay1PN3BZcmY2TFcxYnF0OFBtWUUxZzlfblZrZU9tVFZ6aDRaOFhuZjlyX3ctVS1wQ3h0VzFrRUd3eWNvRlJTakkxZjMtOWFsaVJjWDBLVnZ5aFV1QVMxb044M1pYbS0?oc=5",
+          "pubDate": "Thu, 19 Nov 2026 06:29:00 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-19T01:23:32.691Z"
+      "updatedAt": "2026-11-19T09:18:42.576Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-19T01:23:32.757Z"
+      "updatedAt": "2026-11-19T09:18:42.817Z"
     }
   ]
 }
