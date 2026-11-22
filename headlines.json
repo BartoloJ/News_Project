@@ -1,13 +1,43 @@
 {
-  "generatedAt": "2026-11-21T20:59:58.898Z",
+  "generatedAt": "2026-11-22T01:09:35.329Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
+          "title": "FBI reportedly investigating apparent hack of its criminal database",
+          "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 22 Nov 2026 00:10:44 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Nigerian youth have shown their power in the past - why aren't they shaping this election?",
+          "link": "https://www.bbc.co.uk/news/articles/ck4g174n020eo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 22 Nov 2026 00:10:37 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "How a teen gamer and his mother helped rescue a missing girl",
+          "link": "https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 22 Nov 2026 00:09:58 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+          "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 21 Nov 2026 23:31:17 GMT",
+          "source": "BBC News"
+        },
+        {
           "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
           "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 21 Nov 2026 19:33:49 GMT",
+          "pubDate": "Sat, 21 Nov 2026 22:19:43 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Lock of former US President George Washington's hair sells for $4,000",
+          "link": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 21 Nov 2026 22:01:19 GMT",
           "source": "BBC News"
         },
         {
@@ -17,48 +47,36 @@
           "source": "BBC News"
         },
         {
-          "title": "FBI reportedly investigating apparent hack of its criminal database",
-          "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 21 Nov 2026 16:35:15 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
           "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 21 Nov 2026 13:17:38 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-          "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 21 Nov 2026 13:15:21 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
-          "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 21 Nov 2026 10:26:36 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
-          "link": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 21 Nov 2026 09:40:55 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
-          "link": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 21 Nov 2026 08:10:25 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-21T20:59:57.752Z"
+      "updatedAt": "2026-11-22T01:09:34.138Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Trump orders federal contractors to check with White House before responding to Congress",
+          "link": "https://www.npr.org/2026/11/21/g-s1-154966/trump-contractors-congress",
+          "pubDate": "Sat, 21 Nov 2026 17:40:36 -0500",
+          "source": "NPR"
+        },
+        {
+          "title": "Google employees protest AI in schools policy",
+          "link": "https://www.npr.org/2026/11/21/nx-s1-6048599/google-employees-protest-ai-in-schools-policy",
+          "pubDate": "Sat, 21 Nov 2026 17:01:40 -0500",
+          "source": "NPR"
+        },
+        {
+          "title": "Highlights and challenges from covering an historic month in South America",
+          "link": "https://www.npr.org/2026/11/21/nx-s1-6044647/highlights-and-challenges-from-covering-an-historic-month-in-south-america",
+          "pubDate": "Sat, 21 Nov 2026 17:01:35 -0500",
+          "source": "NPR"
+        },
         {
           "title": "Bayer reaches Roundup settlement that could cost the company billions",
           "link": "https://www.npr.org/2026/11/21/nx-s1-6049684/roundup-bayer-hodgkins-settlement",
@@ -88,91 +106,91 @@
           "link": "https://www.npr.org/2026/11/21/nx-s1-6049625/palisades-fire-conviction",
           "pubDate": "Sat, 21 Nov 2026 08:58:33 -0500",
           "source": "NPR"
-        },
-        {
-          "title": "Perspective: Defining 'human'",
-          "link": "https://www.npr.org/2026/11/21/nx-s1-6041585/perspective-defining-human",
-          "pubDate": "Sat, 21 Nov 2026 08:00:00 -0500",
-          "source": "NPR"
-        },
-        {
-          "title": "Senate permitting bill speeds up renewables, divides greens over oil and gas",
-          "link": "https://www.npr.org/2026/11/21/nx-s1-6046482/senate-permitting-bill-speeds-up-renewables-divides-greens-over-oil-and-gas",
-          "pubDate": "Sat, 21 Nov 2026 07:40:17 -0500",
-          "source": "NPR"
-        },
-        {
-          "title": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI",
-          "link": "https://www.npr.org/2026/11/21/g-s1-154922/anthropic-worker-claims-to-have-solved-a-holy-grail-of-math-problems-with-the-help-of-ai",
-          "pubDate": "Sat, 21 Nov 2026 07:30:16 -0500",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-21T20:59:57.937Z"
+      "updatedAt": "2026-11-22T01:09:34.360Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "FBI investigating apparent hack of its key national criminal justice database, AP source says - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOX3JOVy03eEI4NG1USFRxZkwtd0FLc0tfWk1zMWJSX0xDeHR1Rmwwd0hoQ2RXMG15ejRzWEJJZFh5WU5la2tvWE9kNjJQOG9rVEh4MUlUQl9Cam5KR1FKNnl4UWhLRmVBMGVfT3Q1dXlsZ2lfUHlXLUV3a0ZjaE16ZzJTMFBSbW9RRHc?oc=5",
-          "pubDate": "Sat, 21 Nov 2026 20:52:00 GMT",
+          "title": "San Francisco braces for massive tides. Mayor urges residents to reconsider travel - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVTczNHdJNmo2V09VMDFuX2U1Sk9WYkFQSGNyaXBUNlFZdDVoT0hSSE51V3ZLR2dCX3ZMN0liTXZRcERnaXN2OFBpUUluRnhidHdRU05zYlJMVTFyWGQ1RmdMRzNEUDJ0WHJmWmp0VkpBb2VQWERMd3hwdzBIV3JnS1ZjMVdhUloyRDNVSHRnZEtqRlRpdmRnbm9jSDJ6WEp0dEZTRVZB?oc=5",
+          "pubDate": "Sat, 21 Nov 2026 23:27:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "11 killed in burst of violence in northern Mexico after capture of cartel leader - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa2RiNXlYT1VFSmc3cEJmU0N4QW9Ydk9rX1RBZ3hvakVOYWtIa1ZDdGlhVm8wSUp5MUk2bWg0TFNyc2lvN3VXazhaamp3WTZBOVpqXzBPcnV5OVVGREVtU1FNVDBXb2d2ck5mVmhybmptaUtCMGRJNEt0UGhxU25fM0JWZE5NSUF2NmRxZVlZOGJSaUpncmt6dnFkNEpDdG9ZejlidXU5RnJUdm8?oc=5",
-          "pubDate": "Sat, 21 Nov 2026 20:43:00 GMT",
+          "title": "At least 24 dead in Nigeria when boat capsizes while carrying people to a funeral - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNkdWWmd1TGxndVdtTXRTSVZOekxZZDhzS0F4TlNTbFN4R085VlA2T2FER1UwdEE3ZlloaDRIREpFSXJuMnZHUGVnTjZxNVc5ZDRmcE1jSV9kM2p6WEF4cE5ocHktaURvOGhKZ012TUxPMS10ak1OUFAtQ1NFZmFMY293UktTR2Ri?oc=5",
+          "pubDate": "Sat, 21 Nov 2026 22:52:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Latest news - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5VTmszLTZ2Z0NXaUtTRlVld2thUHQ0OXRaYXV0cGlMNGE1b1EyN3JoajJfeWR6ZEVESG5sLWd1dFpjZXZiUzlqb0ln?oc=5",
-          "pubDate": "Sat, 21 Nov 2026 18:35:49 GMT",
+          "title": "Democrats who swept into the Senate promised change. A leadership vote is testing them early - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdnJOSnBfdXFJdTl2aXIxcjZaSVlnYnE1NjdaQkRwQUYwVFFGNFR3N3hCaWMzM2pDQzFFNVhMaXZGcE83V2FfMVBheUhtcTF5eHFFbkRUbnNyLV9OV1VzWl9uM1RGeTZUQVUtNTNHWFZkM2FFaXdnMEI4eVFWcVJMZnNfLVZzTmlnbGh3OUc5MkRrUVBGSFpielBZQkZpdzFEYlhaZkhRcWdIZTU2WlZWRkkyR0Y1SUFaLVBF?oc=5",
+          "pubDate": "Sat, 21 Nov 2026 22:49:00 GMT",
           "source": "AP News"
         },
         {
           "title": "Haiti | Latest News & Updates - AP News",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBkbVB2NlkzVUNscFQzODVxUlRpN3pTVFBNZ1FVdjlxdXVTaGdNT1hxVkl3bzZlS2FPUmVNcnZrLUhodw?oc=5",
-          "pubDate": "Sat, 21 Nov 2026 18:34:40 GMT",
+          "pubDate": "Sat, 21 Nov 2026 22:39:59 GMT",
           "source": "AP News"
         },
         {
-          "title": "Taiwan warns Canada faces the China risks Carney has cautioned against - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMk94aHBLLVI3V1JkYU1DWGQ1Qk5ZVnlBN2JFYWYtbzNPOU1GSkgzTmJCRXVzcllCZERfVkpWQnpIMWdXbjI5LWNaal8wTzBwdWtWSDZITm5RZVZhejZ4WldzNVpEVm90ODJ5UTY0REJUWTUtQk5PUk5CUXNSekIzSTYyRlEwOE5QZzkxZ2dic3dwTWNKZF8yRm9pSEVWbkw1cnc?oc=5",
-          "pubDate": "Sat, 21 Nov 2026 17:39:00 GMT",
+          "title": "Virginia reports young child is the state’s first measles death in 2026 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSk9HQklCN2x4dXV0OXM4eEtFTDdiSTlveWhiSTNYa1dPVEFTU1k3UG5fbF9pLXBrUlNDNE51QWM3YWtGWnBNWFUwU1V6RHQwemxSVnp1VU12MXkxdVQwcU9scTFNcDNNbTQ5T2ZwT2xWNHAxeVJMQ1lEQzVDS1VVSWdRMlR0U2Z3bTRvYk5EWnA?oc=5",
+          "pubDate": "Sat, 21 Nov 2026 22:07:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Nations agree to extend talks on AI killer robots but no firm commitment to rein them in - AP News",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQY3JlX1Q4VXpOM1lnZ2s3aUdnSmxhOExuMl9PUlVwSUpZclY1R3RSb04wdzljcmNaQzJoOENYYmxCQ2tLaXpma2RhQ3hHeWdwYURDN2ZBaGxYT0k5MkEyVDFubm5GX2FfYWVsd2Q0VkQwTWh6X2x0SF9qZS1kWW8za2Nod0I2QV9DQlVsSHpjRnhRN3ZaUWNjb1dpRHYzdw?oc=5",
-          "pubDate": "Sat, 21 Nov 2026 15:18:00 GMT",
+          "title": "Cartel leader captured in northern Mexico in a bloody firefight that left 11 dead - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa2RiNXlYT1VFSmc3cEJmU0N4QW9Ydk9rX1RBZ3hvakVOYWtIa1ZDdGlhVm8wSUp5MUk2bWg0TFNyc2lvN3VXazhaamp3WTZBOVpqXzBPcnV5OVVGREVtU1FNVDBXb2d2ck5mVmhybmptaUtCMGRJNEt0UGhxU25fM0JWZE5NSUF2NmRxZVlZOGJSaUpncmt6dnFkNEpDdG9ZejlidXU5RnJUdm8?oc=5",
+          "pubDate": "Sat, 21 Nov 2026 21:50:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Voters oust some sheriffs who signed pacts to help Trump’s immigration enforcement efforts - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeG80bmpFSGxHR2FXdHRTdGs2QWpMb3gxMElHMDdQcGpVSUlFcm5WQjQ1a19QT0lIamJINTVLZXNiUUlCVDNMSVhyM1F1Zk9YSjczekpHT0NxdnpJOS1EOHRDWDZvbWNqdGtJV0Y5Xy0wN0JCSWFDMDZVQ01CckxTcmJ4TWNEUFRpNVpfZ2pxS0gwZXhBQUp5VEVVVlk2S3Z2NlYxVzNGek0?oc=5",
-          "pubDate": "Sat, 21 Nov 2026 15:02:00 GMT",
+          "title": "Latest news - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5VTmszLTZ2Z0NXaUtTRlVld2thUHQ0OXRaYXV0cGlMNGE1b1EyN3JoajJfeWR6ZEVESG5sLWd1dFpjZXZiUzlqb0ln?oc=5",
+          "pubDate": "Sat, 21 Nov 2026 21:14:22 GMT",
           "source": "AP News"
         },
         {
-          "title": "A 10% drop for the stock market is unnerving, but it’s not that unusual - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQekJLM2U0dXhaeEo3d2hmNFltdUpLQzF4a2VtY3RNR3otMW44Zld5R0Q3TGpTNWJ5bnA1RG00YXU4NkNpYTBtMVpnUmV4cFZPSF9HWnRjdlRPZ1Bsc0dwOENCQWM4QXc2MjdPRWhPcXZjeXNRbXhUdV9fSDVwcW5kUlJGZTVUbW1Lc0h5YzJCYWtpNDd5dzRJ?oc=5",
-          "pubDate": "Sat, 21 Nov 2026 14:01:00 GMT",
+          "title": "Trump orders federal contractors to check with White House before responding to Congress - AP News",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcGJaYVIzb00tWkFac2pEaFdTRnVFYWFTRHVZeWtRU1ZuMUZCSXVnOTAyUU9WSHVmWHEtaTdSQlF0eUpoTHBVeXhUYTVseTY0SXZmX2pTVWNDR19fVlhBYlVxZzdHSURLekxjd3daXzZ2V0R5V0xiUXNCQ0ZoRWZHVDNpS0ZHSF9VTEVPVFAzWjI4Q2lzLW5TSElRa3FGTDlGR2xCU3VOTzB4MGtiaFRQOE9kbkxFbEJVYWw5c0dvRjlseG94?oc=5",
+          "pubDate": "Sat, 21 Nov 2026 20:55:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-21T20:59:58.367Z"
+      "updatedAt": "2026-11-22T01:09:34.733Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "Mexico captures top drug lord 'El Chapo Isidro,' latest in string of arrests - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa1lhc2ZRS3hPcnFWc3VBdDBIbElGZF9PSlZVSEV4NFNxSXZ1YlZWeWtYUVdrbjZXVXFJM3V6VkgzLTZGSWdWUFZiVGctOFRreU1lUWpWdXp5VmJxYTFBVU9wTk9YcTZNSmt6MDhsNnB6azlRSnVnaUdZNF83dl9Gay1OVm9qQ2NreElTT1EzVFF2STVySzRkQmt3M19lRjlzQjJvVWVQckYzR21YUVRyY1R0MGJNYzJwaVhR?oc=5",
+          "pubDate": "Sat, 21 Nov 2026 21:58:48 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Lower turnout at largely peaceful marches across France - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTzg5OVFjVWE0RGV5T1VhWTRQR2JFd0VqdFNBSEVtZ2NxdHotRXFIYVIxd1FmUzY2UmJtR2lSamtTU21TUXZfcTJ0Zm9kMnNCQVdoclZoaHBsTGVNbjZZcVlaYWNtNHVrM2FST21pRU84UzlZd3oyLTlERlR3M0lRQVpxQTZhZXhqTU12SFQzVGpYNllBeTFOS2hn?oc=5",
+          "pubDate": "Sat, 21 Nov 2026 21:32:51 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Bahrain says Iranian attack hits industrial facility as air defences intercept attacks - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTzltZHhpNzJyRTg4dE5kYUJSOUJ4azFWY2txckEtQUlGQVVfTEtIUUpWN3dHZWlocXlZWGFidVRIMjN3ZDM4d2xQWVZ0UFAxRm81TGFfbFNZRzMxTXJOemdzOHRNeWJOLXhEWF83a3N0a1hiR0FjbUE1eGZVX002eVpMNHJyX2JoVXp5bFdjcDJBYkhOWFE4a1AzN0hSRE1wTDFmNGxvaFR6TkR6bkd4a3FSSUU1anZp?oc=5",
+          "pubDate": "Sat, 21 Nov 2026 21:24:10 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Russian cargo ship ablaze in Baltic Sea after drone strike, crew evacuates - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaUFLdlZmeWprX3A2YllLMmlQSXZrYTRIazVMOEExREZuTXFCYThyVUlnR3U0TDg3dGpUeHE5SHJyanJWQUZTRHdwUG5YYTFxVXMtUU5rY1pOVzZkRUxhQ29oUEVUS0NJTWFxcUJmLW9lRE52cGs3N2FLbXZzNmVFNFpXTmZNZnI4S1pWNDB5RWV0UFhUUGlCTVUwNjlWZDMxcXhxS0FvZUdNNWN4UU9jMEw4bWVaOVB0TlE?oc=5",
-          "pubDate": "Sat, 21 Nov 2026 19:58:53 GMT",
+          "pubDate": "Sat, 21 Nov 2026 21:01:49 GMT",
           "source": "Reuters"
         },
         {
@@ -182,9 +200,15 @@
           "source": "Reuters"
         },
         {
-          "title": "Bahrain says Iranian attack hits industrial facility, causes fire - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTzltZHhpNzJyRTg4dE5kYUJSOUJ4azFWY2txckEtQUlGQVVfTEtIUUpWN3dHZWlocXlZWGFidVRIMjN3ZDM4d2xQWVZ0UFAxRm81TGFfbFNZRzMxTXJOemdzOHRNeWJOLXhEWF83a3N0a1hiR0FjbUE1eGZVX002eVpMNHJyX2JoVXp5bFdjcDJBYkhOWFE4a1AzN0hSRE1wTDFmNGxvaFR6TkR6bkd4a3FSSUU1anZp?oc=5",
-          "pubDate": "Sat, 21 Nov 2026 19:41:01 GMT",
+          "title": "Croatians rally in Zagreb demanding justice over psychiatric hospital death - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSUtfVnQwVjJrRWVQaTc4UzFEUjdQMmQtS1JOaTNsUmtjNE9FcEN4MFRCa3VXSi16X2thbk16VFNOTElxUkExdDBiVmFsSFNyS1FTMFhhZ3RoM1hVM3ZhY011aHR5a1F3YTRZNkxsR0ViQTFxOF9MRzhtbVA2TUs3azBBRlBCcENPVWtMZUtsdGJ6dFRWSVVhenZNSHd5M2VmWDJ4MDdGQXNDR0tpcWRwQ2lTb2g?oc=5",
+          "pubDate": "Sat, 21 Nov 2026 19:52:09 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Town in southern Brazil left reeling by supercell storm - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcGtZWUFxQ296d293WHQ5R3BvOVFKM1hYenYzS2FFdmZsT05BUU5JZVNMZXgxMHktN2V5QUYtNUF0bHRlU0psNU4tZzN4TmJvbm1zWkQxRWxIbkpCbUdPQnVKU2JPczAweXc1X1lpWVJHQzVFc0daczk0NGM3OHJkdTFpTzFDLWZINmh0dmd0Q0l6aDduSkZGMTMwNzRMb25ocUhzQjdQdy1qZWRBcEE?oc=5",
+          "pubDate": "Sat, 21 Nov 2026 19:23:43 GMT",
           "source": "Reuters"
         },
         {
@@ -192,34 +216,10 @@
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWXlDbDhlc09IVzVHS0dKcmt0cDVXd3ZRYUtWTkpDOU5IMlVfdUZsWWFqblljVXBPbG5pd1A3TTRDZkJQaFR3YXZHWHJETUk3OUhDLUw4b2dmZXZJYkhKRGdrMjFXcHJMYmt3MzRYU09OR0xkd3ZUbWNjMGhoRzhhR2NucjZaQjgyVGFqOXZ4Mm5vVUhWS3NQZHZvd0J1dw?oc=5",
           "pubDate": "Sat, 21 Nov 2026 19:08:10 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Brazil ex-President Jair Bolsonaro taken to ICU - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVFRjc0toOVM1UmJiaXJrMTA4MU43ZmY2Yjc1QTlwcTQwUVA3TGZ5MVZuSzNRSmRwR2J3TkVHWWE0OWNlX3lkeU5pQnNQcWk5Q19Ua2k3ME5BalMyMEp1RzUyZ3FQdTFxdDZ1TWJLaVNmcWljSl9qMkVZaHdXbFhsUEk0OVJ5OVI5eUVVMm5haW5qanpUdW8yZDN5cw?oc=5",
-          "pubDate": "Sat, 21 Nov 2026 19:03:10 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Canada defense minister sees no shift in US military ties - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWVg0WXpZcmhwN081dnZKanFKZHhJM1c4a3BObXFaUW9mUF9Vc1ZYdU1YWi1udmx4RGhLcnhqYTI2ZHNYWWJNUTZLMGI1WEJTa2YzZmZPV3M5NUlpVTVmbW5wM0ZDUk96MFh6QW5tU2pVMHo5dXFQalo5b3NWZmNSaWUzS3FQR3N1WnF0S0NiX2Q3NHZyRTYwNGY4bFJ3dlp4akp3dTdNcHZsWnc?oc=5",
-          "pubDate": "Sat, 21 Nov 2026 19:02:37 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Israeli strike on vehicle in Gaza kills three, Gaza Health Ministry says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNER6Q2NPRk9TUmtuX1hhQ21MdEdsc05rT0FxZzE4RTczVDJqbjN1My04Zm4tUkd1aUJ4cDdXSTM3ZVl6UVg0S0hLTWs1d1pjLTRDcVgtM1dVeVNvWFZHd1g3NEZCdm5HMlR1U09Cd1JfWUg1cEQ0aUZSU19uSHowSWhEUERvNE5OM1NxTDR1T3VYV21rb25pX1NSOFdFcHlOd3VzYkpMT2VzMlYwRVVSMmFuc2J3SkZ5dUM3Z0M0YXEyZw?oc=5",
-          "pubDate": "Sat, 21 Nov 2026 18:21:58 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Lower turnout at largely peaceful marches across France - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTzg5OVFjVWE0RGV5T1VhWTRQR2JFd0VqdFNBSEVtZ2NxdHotRXFIYVIxd1FmUzY2UmJtR2lSamtTU21TUXZfcTJ0Zm9kMnNCQVdoclZoaHBsTGVNbjZZcVlaYWNtNHVrM2FST21pRU84UzlZd3oyLTlERlR3M0lRQVpxQTZhZXhqTU12SFQzVGpYNllBeTFOS2hn?oc=5",
-          "pubDate": "Sat, 21 Nov 2026 18:07:15 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-21T20:59:58.691Z"
+      "updatedAt": "2026-11-22T01:09:35.134Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-21T20:59:58.898Z"
+      "updatedAt": "2026-11-22T01:09:35.328Z"
     }
   ]
 }
