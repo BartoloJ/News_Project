@@ -1,19 +1,37 @@
 {
-  "generatedAt": "2026-11-22T08:40:18.644Z",
+  "generatedAt": "2026-11-22T16:59:38.737Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "New draft deal aims to avert collapse of talks at COP31 climate summit",
-          "link": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 22 Nov 2026 06:54:06 GMT",
+          "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+          "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 22 Nov 2026 16:05:25 GMT",
           "source": "BBC News"
         },
         {
           "title": "Three killed and dozens missing after fire at Indonesian factory",
           "link": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 22 Nov 2026 06:05:00 GMT",
+          "pubDate": "Sun, 22 Nov 2026 14:05:20 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Russia-bound ship still on fire after attack in Gulf of Finland",
+          "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 22 Nov 2026 11:25:14 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "South Korea education minister resigns over exam cheating scandal",
+          "link": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 22 Nov 2026 09:20:45 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+          "link": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 22 Nov 2026 07:12:41 GMT",
           "source": "BBC News"
         },
         {
@@ -33,32 +51,38 @@
           "link": "https://www.bbc.co.uk/news/articles/ck4g174n020eo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 22 Nov 2026 00:10:37 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "How a teen gamer and his mother helped rescue a missing girl",
-          "link": "https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 22 Nov 2026 00:09:58 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Lock of former US President George Washington's hair sells for $4,000",
-          "link": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 21 Nov 2026 22:01:19 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Russia-bound ship attacked in Gulf of Finland",
-          "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 21 Nov 2026 19:20:22 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-22T08:40:17.496Z"
+      "updatedAt": "2026-11-22T16:59:37.260Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "International climate talks end in disappointment",
+          "link": "https://www.npr.org/2026/11/22/nx-s1-6046195/cop31-climate-talks-close-disappointment",
+          "pubDate": "Sun, 22 Nov 2026 11:33:22 -0500",
+          "source": "NPR"
+        },
+        {
+          "title": "Medicare looks a bit different in 2027, so don't miss open enrollment",
+          "link": "https://www.npr.org/2026/11/22/nx-s1-6036735/medicare-open-enrollment-2027",
+          "pubDate": "Sun, 22 Nov 2026 08:11:04 -0500",
+          "source": "NPR"
+        },
+        {
+          "title": "NPR's Senior Podcast Challenge: Early entries we love",
+          "link": "https://www.npr.org/2026/11/22/nx-s1-6044221/npr-senior-podcast-challenge-early-entries",
+          "pubDate": "Sun, 22 Nov 2026 05:00:00 -0500",
+          "source": "NPR"
+        },
+        {
+          "title": "He expected a small-business loan. He got a 7-year nightmare",
+          "link": "https://www.npr.org/2026/11/22/nx-s1-5752261/small-business-loan-merchant-cash-advance",
+          "pubDate": "Sun, 22 Nov 2026 05:00:00 -0500",
+          "source": "NPR"
+        },
         {
           "title": "Trump orders federal contractors to check with White House before responding to Congress",
           "link": "https://www.npr.org/2026/11/21/g-s1-154966/trump-contractors-congress",
@@ -82,144 +106,120 @@
           "link": "https://www.npr.org/2026/11/21/nx-s1-6049684/roundup-bayer-hodgkins-settlement",
           "pubDate": "Sat, 21 Nov 2026 15:37:35 -0500",
           "source": "NPR"
-        },
-        {
-          "title": "Storms expected on both coasts threatens Thanksgiving travel",
-          "link": "https://www.npr.org/2026/11/21/nx-s1-6047508/weather-thanksgiving-storm-elnino",
-          "pubDate": "Sat, 21 Nov 2026 13:22:46 -0500",
-          "source": "NPR"
-        },
-        {
-          "title": "Cartel leader captured in northern Mexico in a bloody firefight that left 11 dead",
-          "link": "https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained",
-          "pubDate": "Sat, 21 Nov 2026 13:08:55 -0500",
-          "source": "NPR"
-        },
-        {
-          "title": "Killer robots: U.N. talks fall short of hopes for legally binding rules",
-          "link": "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones",
-          "pubDate": "Sat, 21 Nov 2026 09:18:17 -0500",
-          "source": "NPR"
-        },
-        {
-          "title": "Federal jury convicts man of starting the deadly 2025 Palisades Fire in Los Angeles",
-          "link": "https://www.npr.org/2026/11/21/nx-s1-6049625/palisades-fire-conviction",
-          "pubDate": "Sat, 21 Nov 2026 08:58:33 -0500",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-22T08:40:17.627Z"
+      "updatedAt": "2026-11-22T16:59:37.479Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "CFP bubble drama build as Miami and BYU survive while Ohio State, UCLA, Indiana, Boise State stumble - AP News",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdWY3VjlhdTJjdlNRVE1IVC13SkQybjZZbE1RRWJXQ01VdVN1aFFQdW05emJVUFRzOXJOdVBvNGhsR1FiVjZ1UDZMNC1ndC0wTUl2SjcxWDNpNnJNNG90LUt5QzgwbGFjWmk3SjVqekRicURDMU5Vc3JCSF9BODBHZzMtSE1jYkE?oc=5",
-          "pubDate": "Sun, 22 Nov 2026 06:45:00 GMT",
+          "title": "UN climate talks break down over bitter disagreements on fossil fuels - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVlZ4dzdCVnBlV0g5cDVCV19scWJkTG9RQWtiMng5NFlVb2VqSng0SmhxRGxLaUJ5aEgyTXRVMlpGVV9abXMwX19naG9EMlhjdEhaemxUTHM2bVhTdWc5Q09NMTR5Wk4yVmtlY2NFSHVncDdMWkhtU05keGJ6NXlGSTVKaFNlOVpsVl80QWE0T3ZQY0t5ZDB4YlNVUWdJZXJaZnJPZmFhb3I?oc=5",
+          "pubDate": "Sun, 22 Nov 2026 15:49:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBwMFNyak8wbjBIcmRoX2hyLUNMU3o2NzFoa3UtTFl4UUFQU18tWnVzUWxhZGsxRS1IRXFWdWhoVQ?oc=5",
-          "pubDate": "Sun, 22 Nov 2026 05:06:34 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "In Ukraine, the fight to keep winter outside begins with a broken window - AP News",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSjRWNURuNy1QRzlYWm0yaHlkaVh0N1RXQV9SdXNsXzc2RTJHTHlTLWszWW13OEZROEY4a0NWc0lqa2psbHZOdTQ0dkR5OFB0QkdwY3BVU0ZwRWo4UDh6NlZXX0VVTTQtalp4Z3l6azBsR1U3b21qNDZwX3NmRkFYSFBnQXIyQWU2M29VT2lCeUZLNEtybnZ3Ulh0aHF4dC1IU3QzVmJTbnJhaGxXT1hXdFpQVjhyYjA?oc=5",
-          "pubDate": "Sun, 22 Nov 2026 05:00:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Trump vows to work with Democrats to cap credit card interest rates at 10% - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObHFuVnp6cHlDTXlRMnZXTHlyWGo3UWdKVHZOb0x0NWFPZmxBWFl1RWNOTVBoX0NNWlozRUxVV0tZZHlJM20td2llbkRlS1MtX29DMzZTUF9qemlJcFoxTXc4cWNsbTdCc29iRGx2ajdwdkp6OUFQU3NsMzJDdzdxVEU2VlF4QmRxVzlNYVdIUU1QU1ZRUTdXSWpiR21Nbl8zSURwbWpUQ09BUQ?oc=5",
-          "pubDate": "Sun, 22 Nov 2026 04:13:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Golf - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9RUlJ6amlDc3NsdWNwM2ZpeU1OQnBiMWxWbGhWMUVHWmZSY0taVTZsRnNyWC00ZTQxd3RjcS15SzQ?oc=5",
-          "pubDate": "Sun, 22 Nov 2026 03:37:56 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "DiBernardo’s ‘Olympic goal’ lifts Kansas City to its first NWSL title, 2-1 over Washington - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOLUxmel9XQzE5eEpFbjd1OVY5cC13TDRMdnljT01DMzlyU3hCTnRYYVVVVlNxT2x4YXhwT3Vkbl9HY0RyeWZOVUdxelNzOWF2MVp5U3JCVS11OXNWSlhQc1BMOWJJdkVULVhUNTlkVENfTWF3WlpRZEhpX3N6Nlc4YVp4TkRLS2gtS2lET0h3bHc1OUpfSHdr?oc=5",
-          "pubDate": "Sun, 22 Nov 2026 03:35:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Nebraska ends 31-game losing streak against AP Top 25 opponents with 31-28 win over No. 16 Buckeyes - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRnJDNkhKZ1BETms3bl9XTW1DMTJxY0pmYVI1R19vNElOZ09DbTBRbldnS2l2TGpqRmtnQkE0MmtjWXl2REpzSGQ2QW11Z09KRDhocXJ1cHVsLWVkYWFnbnZwcHJONkNXOGQwa0szSWhKUlpZUVROS1lWS05lOHpvTnFsdnNEV3ZDbkdJUTBEaGtGTzZOOE5rWl9B?oc=5",
-          "pubDate": "Sun, 22 Nov 2026 02:47:00 GMT",
+          "title": "Israeli opposition leader condemns suspected settler attacks as 'terrorism,' and other Mideast news - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd1JSaXVlNUR1NmhkbmNlT0RQMEpGVlROckdUU0czRm5nNHJkc2VWeDVGeWRLUGJiU0ZtY19SVG5veUJsRk5oWlZzNzdkcW03VXRVajBoVU1TQVpHdHNFeUtaRURabFZEUHZUWG5KUWtINTdEVXROQllnTDRua0pNdzdkVXNBc3plTVRpd1V2aGs5MlpjdlJ4dEszcFpUMG83M2JPbQ?oc=5",
+          "pubDate": "Sun, 22 Nov 2026 15:44:00 GMT",
           "source": "AP News"
         },
         {
           "title": "Bryce Underwood lifts Michigan to an 18-16 win over No. 4 UCLA in 3 overtimes - AP News",
           "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPd21xcHpoRDBpZ0ZEa2xGRHJXNGRJVnotWWlzTkplaE1HeTc5UFJJcEhFNFNqeDBXWDhDNGZiS1BlYVZZV0hzcnc2dnhCZ3E1TmNFSkFiYV9ITHF2OEN4UGJPRDJuRjZkT1hLNU56QnlhdEx6dnBWTmRzNFNvZTJFd3FKZGxKQQ?oc=5",
-          "pubDate": "Sun, 22 Nov 2026 02:21:00 GMT",
+          "pubDate": "Sun, 22 Nov 2026 15:31:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Indonesia candy factory fire leaves 3 workers dead and 37 others unaccounted for - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQN0J5Zy1JLXlBTWc5d0o3OEg0dVBLMXQ0TktFb0ZHT196VEgzYVNfOFhlamNLVjdEMUlOWVFldmsxeUN1MUk0VGFDMlkxWmpCSTFIQzVaZndyeFZjanNQajh2Y2I0c3duUllpOWRTRWdPYzFXeFZRdmJJUndoSDlYUFlQZHV2bU02YWZzdm1vclMwenNYbmZpZkk1UGg?oc=5",
+          "pubDate": "Sun, 22 Nov 2026 14:42:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Russian attack near Ukraine's capital strikes apartment building, killing 2 and wounding 4 others - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPV0dYbG15VGlQaUxBOGJXQkhMem1ZTEJVSWE3QkJHT0FaaVo3Tk5iai1LcHd0NEVPRm1EYldUR1pHNENaa3dYTmpfOUpsVHJnTGtXa2VvRXNLaHc0bjNBZWNXTVowT3FWRTk0MzgtNXktN2hUNFhnUlVYSjFXRVBNNUt5bDcyNXMyb3pQV2pCbWphUGItclFzeDVKV1pTT0xUQzVZQ2xrVUZ0UWtoZEo0?oc=5",
+          "pubDate": "Sun, 22 Nov 2026 14:10:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Anthropic's record IPO raises hopes for a charitable windfall that has nonprofits preparing to scale - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOTZBX2xZWWNQeGFIRExEbFNFSUJiV3I1cG80MzZzUUh2ZDZQTXM0dC1iNDdRVTZLZkFWelpTWnRvODY4clRUUmNaamdBQXdRSmM3U3NQdS1RbzU3dF92OVBfMTRRM3JIbF8tMlIzZ1JRUWFVV3Q0U2xtZHlCRU5YWkhIV3hQNURrVnZFU2d2NA?oc=5",
+          "pubDate": "Sun, 22 Nov 2026 13:07:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Whether you’re team plastic or wood, here’s how to sanitize your cutting board - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQX0dDV3R5c0lGRVdSOVNOMTFKVGgtYmtPTHFVRzg5X2FRM2VxaEdNalBYd1JBZjY1REYwSWptem1sM09zaHl0Mk5kMjB1T0w0RUE4Y0ZmNm9mSzF2WGhoQW50WTNRRkJkWkpiaEloUGJocFZZOXdOQXVXeExLX1dGWFhkRGlKWlBlaWxjdzRfQVloMjN4WTlyUkxLVHplQ2tmSXc?oc=5",
+          "pubDate": "Sun, 22 Nov 2026 13:06:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBwMFNyak8wbjBIcmRoX2hyLUNMU3o2NzFoa3UtTFl4UUFQU18tWnVzUWxhZGsxRS1IRXFWdWhoVQ?oc=5",
+          "pubDate": "Sun, 22 Nov 2026 13:04:12 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-22T08:40:18.040Z"
+      "updatedAt": "2026-11-22T16:59:38.064Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Verstappen wins 'crazy, surreal' Las Vegas race - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZVYxVXlmSDFOdDVVczVXcDROTjNWNS1LbXU3QVp4bEVueHVHZ18tY0NqTmFaZ0xJMnNzOFotbmxLaVljLTJJNHMwRHg3c1BZOFktdk14amRfNHZxMmsyMEM2bS1yT21JMHdxZXhJcXVTVjdxZUxaZ1B1WmdFMGh3cE1SczltMnhZbUJpbzFsUWhWR3JmTjlIOWlMS2diVTMz?oc=5",
-          "pubDate": "Sun, 22 Nov 2026 05:48:00 GMT",
+          "title": "German army starts testing kamikaze drones and AI targeting tool in Lithuania - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaEZNb1cwZkRsWmFUN0Nkc0dfTGt4SUVDaXNCSHphV2VrQTBXYnQzTWN2Z0tkOEdiUnRyRnJqX2NST1pmYXJrYVFUQ204QllMNFRtelc0cEtUZy1MWlFMeXRfemNPS0pGQU1veHZyMU1XTWdJNE5pcWstLXUtZ0d4QXRMVzAzZFJKNzlteEZlWUVRbHpIeTJyanFWSlJVMlY4R0NOODNIN1RSLWJDdnQyM25KcDNNbDRvMHZkT1Nfenl6SUl2YUoxalBLT1RqQQ?oc=5",
+          "pubDate": "Sun, 22 Nov 2026 16:07:29 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Myanmar's army-backed government calls ASEAN decision 'unfair and imbalanced' - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPS1FENS0tc2xfZjRuaEUtTU5Fa1pYZXYtUm1BcXl5TldHOXdaSGM0VE5IaHgzcENjVDlnTmNJN0VEazRhWHU5ZHl3eG5VU1pLZkZxMy1wekcwdW5yanBFdEJNV3dGdVB0OGlJVFF5bTBkQ0JVbGUxcm1tQnBRT1JpZ3Q0a0lvV2poTUluZzBoZFdGOHYtQkh6Uy0xUk81Ty1Bb0h2Zi0teWpNTWJPOVl2VG0wb3dqQzljVGhtU1BKNkM1UHM?oc=5",
-          "pubDate": "Sun, 22 Nov 2026 04:01:00 GMT",
+          "title": "Russia starts towing ship hit by drones in Baltic, Finland says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTXUxa0FLT1o3Tzh4MUR0MV9ZenU1LU9PZl9QSzhsQXlOQThFNUxWbWFXRXZTOHFpb1lJdG1GTV9hOUZsc2x4YzBOSzV3ZHZkV2pyNjNIaTVWZEViQ2lLb3JkcjJsbGhVNXFmWXQ5c0pDTkVXeG9IbmlKV3AxYUtfNE5DVnhWX3lvNmg0SF9SZ1lHQzEtSnY1REsycUlvWFVEOFlBSXR3?oc=5",
+          "pubDate": "Sun, 22 Nov 2026 16:01:29 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Seven body bags recovered, 50 missing after Indonesian factory fire - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNU1lYMkZSb1Y5Z2preUNtQlhuSHlEN0E0TFk2cGxwRE5FN255RnZqV3I1cE9QZzZjaG5sN2xod3JsUzZaZWNLWHE1SXZXTTd4LVI0eWUtV3RVYUt6SWFxZzVxVWl4QnYwUjRNLS13dEx5VWcxb3lLaGtBaU0tdUhTR0tnaHY2WkR2Qk9kS3prU1hReGtHV1lJUG5iTG1hRUtZSlR2WG1nS0I2eUxQZV9SU3pjM2NiemhJTmc?oc=5",
-          "pubDate": "Sun, 22 Nov 2026 03:56:00 GMT",
+          "title": "Trump sees difficulties ahead if Schumer leads Senate - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMG5BRkNWNzJ4alhTazFUeExrT1RMSjczaE1NOF8yNEVja1ROZ2xBakszdXdjTHZDMzlDY29Qc1ZKYTVHZDFQbFVhazVqYjNLVFVPMVdNM0praFAxem9IUW9JZnRuRU9MdkxBbEJBQklfc250SV9tQWtrV29VeHJrZTZfYlNzODNQU2FsMTg2R092dExYV2ktc1R1RXdQT0k?oc=5",
+          "pubDate": "Sun, 22 Nov 2026 16:00:50 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Washington governor, union denounce ICE arrests of travelers at Seattle airport - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSi1Oa2dUSVViZERBQzducWxTUFB5cjd4Sm1HRU0zQ0ZiQUhGWngxTlRmZzJybFo5cjRuMVdEOU80S2xuVGx4ZVdsaFFCTXZ3TkVYM19hcVBIbVViSm4wU2JHWExxYWFVVlFzSkZkUXVLZjdOTml0Qk1lYWdELXFyUGlTeTI3T2lETXVvYzdJVHduT3pnVGZ0MjhUTTBOMlcwYUJxTENWRVJ3aVRTSnJ3Y1FucjdrUTNrMERzekRHZFBkX0U?oc=5",
-          "pubDate": "Sun, 22 Nov 2026 03:33:00 GMT",
+          "title": "At least 4 killed in Russian drone attacks on Kyiv region, officials say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUmFwN2pYTHZEVndFX2hfN3VOQnduN3pEYnZXa2tfT1d1UGZDejk3ZU11dkwwLTdsUTltdm0taU8wTnpNTkZVV045Z3pkc0czd2FSS1lEZDhyLVVCNFJvNk9xUHR2ZUxydnAyYTJDVzd3RWIwQ1E0YjAyc2R6bkpkbkt1aThfVldjUGRKbkhXanhraVo3SkJHcHBuMmxBcXJreDhQSEx1QV9ZUXhDOHdhbmZMRkZoeVBOXzJ5ag?oc=5",
+          "pubDate": "Sun, 22 Nov 2026 15:56:55 GMT",
           "source": "Reuters"
         },
         {
-          "title": "China opposes US FCC ban on Chinese telecoms' direct access to US phone numbers - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNREJ2YWtZYUZBaVRPVzNxdU1XYnlLN1Q2WjFuOHgwMmRVOS11TWxXWFAtT0VudDRsUmd3M3pEeUp5WmlLXzNSOVJqaUZ2THRZYXNuSjlVWjdzazNuZVExNE5nQk5VUzllcUhEWXRuZmV4R1NZaHE5TU41dEhrUzNlclF2NldjMTNVRkdKV0tlSl96R3F2am9qRVhGLWJFTGZtYTRNUFFVREYwVlRTU250RUthX2U?oc=5",
-          "pubDate": "Sun, 22 Nov 2026 01:57:00 GMT",
+          "title": "Libya's eastern government suspects drone attack caused explosion on Russian ship - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSHNFQ2hvQUxyR05zYXIyVjczNjE3eEVLWWhMdk1mS01BQV91dy03OU5SSzVzbzlvVk1ManQ2TFhqU2xkRkhZcGthVlZad0E1aVRKU1E5ZWxJTWRQVG5UYmFYYmcxZGJ1TFc1YzE0a2E4XzQ4SGJLNjNlc0otTGhGRnRWTHpmeW1mWnVBLTNhYmFLU3JOUTVfSTliN19fMG9rRWlmeFdKNHFSU1JVTTdnQUNhUlBUWmRSTDVXUUJuUW9fNEV2cjNWdTlPZw?oc=5",
+          "pubDate": "Sun, 22 Nov 2026 15:37:33 GMT",
           "source": "Reuters"
         },
         {
-          "title": "New Zealand cling on in Wellington after India build mammoth lead - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbXl0dFNzb3ZTbloyNlR3X0pDQlU4QldqRmRwUHZMVmFBZnFrcG9uRG9lLU1LVjNaTUVLTlpZajE1RTNHTk1kS3hIZXJYZTZnZkxCbVZsNnh2eDFjUGlSa2ZmaWZYTU1pNTBXWGNnMm9mNnhxS1BuNlE3NnNxa29xR0Q5cGxiSmY0cWV2d2tmdjB4MTJ0WVhUN1lkU21ZcWZ4NVA1N2JnWTNmTHlRODhGcWhTZnlBcHM?oc=5",
-          "pubDate": "Sun, 22 Nov 2026 00:41:00 GMT",
+          "title": "Kyiv's restaurant owners brace for tough winter as war pressures mount - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZk9Cek1qUUR2b1hOU1JxOHRoQ09ZQ2YzX2RMTkRlNTZmWGluXzZCb2l5SzAyQV8yUm5icGxHVmhCajBESWdpc1pDdTBiVHhObEdfaFpZSzNTWUdVRnJHRTNFZ2MzYVlHNnNRSDFWX1BnZ2RJbUczY2MwZG1IN05xZVRXelJoNkVGWlRkTTAtbDNGcFFDcTdORkZNZXFFcW50NjdCaGlPcw?oc=5",
+          "pubDate": "Sun, 22 Nov 2026 15:14:44 GMT",
           "source": "Reuters"
         },
         {
-          "title": "COP31 climate talks close to final deal, says summit president - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN3FQanMtV3N5N3NtMFp4WmVBTHpwMlo4empMNlhGaGprWFJFZ1VDSFFxcUhUVnQzcUJNVFB5dDNEeUgwY19WaXRGcnhYNEpfaE53T0dzbGJKSGhSSmhfdkY2eW04aW13NEZtYnpOVnpLZ3dIV0RlY3VCQU0yZnlVWkp4aWk0YlA3NTdDUjRFZzRWMmhSdUtBbDBhT1ZfdmhZMDRlNlZ2V3hrdkxrSnFNTXBOTQ?oc=5",
-          "pubDate": "Sat, 21 Nov 2026 23:40:00 GMT",
+          "title": "MotoGP maestro Marquez wins record eighth premier class title in Portugal - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaFF4Qkg5N3paMmFqSmNlMHNOLUxSdDRrMGUxZ2JabXFWTXVfdk5zTElYaUZOSktfZ2ZPMmR5WGp0Y3lheHFjZkRmYWFpWjZXMFlnSlFwRWJGMEZPSmJCLTZiUGlVSTJIUUZmZGExSjNBeWllYW9yXzUwanNIOHpKT21qVmJKQng0bzlwOQ?oc=5",
+          "pubDate": "Sun, 22 Nov 2026 14:30:50 GMT",
           "source": "Reuters"
         },
         {
-          "title": "German car and shipyard workers set to strike as IG Metall union extends walkout - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOFBhS1Fub3hkTjloT0lrX2FKMEl1aG5pTDFrRzJTZnNtSGpRUmwtdm9tc0RwQnFOajR6WVBoZXE1Q3ZTVmtjMXB1cWdELVk0ckhFdjBiLUZzVmR2UWgzajdRSi03NXFjaThXX0J4U002R0ZpajI4QXRJRUVYdG82ejM2N2IyVzFNUkQ4YkRGbnV4eEZjdVpuM2l6bUt6NUhveXNoRnNPWF9Fa0dDMzExYTBDbURKYkROVGdmQmR6WHBDalFrOHRaWg?oc=5",
-          "pubDate": "Sat, 21 Nov 2026 23:03:48 GMT",
+          "title": "Countries react as COP31 climate talks collapse - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQc3loZzVPSEw4YTN0RXZEdEpveVFkV0JoU0dtRTktZXR6LS1XVGRNVElxWHpWVUQ3eEhOMllBam9jYlNIX29HeW9ncUwyWkNhenBPcmRZeTNBNmt6MF96SkU5TS1zWUVBSEFOS0FMV1gwVmJoS3c3bGw4TjgwLUU5NTFOUEtzOWx3dy04NkhLMW9CMmJxM1dLeVRBRWMyVl9SY1A3THFB?oc=5",
+          "pubDate": "Sun, 22 Nov 2026 14:12:47 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-22T08:40:18.376Z"
+      "updatedAt": "2026-11-22T16:59:38.476Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-22T08:40:18.644Z"
+      "updatedAt": "2026-11-22T16:59:38.737Z"
     }
   ]
 }
