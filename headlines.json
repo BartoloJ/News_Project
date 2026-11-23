@@ -1,25 +1,43 @@
 {
-  "generatedAt": "2026-11-22T22:24:56.967Z",
+  "generatedAt": "2026-11-23T03:00:23.827Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "Miley Cyrus marries Maxx Morando in California ceremony",
-          "link": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 22 Nov 2026 21:22:40 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
           "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 22 Nov 2026 20:28:09 GMT",
+          "pubDate": "Mon, 23 Nov 2026 02:59:35 GMT",
           "source": "BBC News"
         },
         {
           "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
           "link": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 22 Nov 2026 20:26:24 GMT",
+          "pubDate": "Mon, 23 Nov 2026 01:23:43 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+          "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 23 Nov 2026 00:50:35 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+          "link": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 23 Nov 2026 00:33:36 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+          "link": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 22 Nov 2026 22:37:43 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Miley Cyrus marries Maxx Morando in California ceremony",
+          "link": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 22 Nov 2026 21:22:40 GMT",
           "source": "BBC News"
         },
         {
@@ -33,32 +51,32 @@
           "link": "https://www.bbc.co.uk/news/articles/cvglrx764gdxo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 22 Nov 2026 18:29:46 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
-          "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 22 Nov 2026 18:17:59 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
-          "link": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 22 Nov 2026 17:57:43 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
-          "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 22 Nov 2026 17:18:26 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-22T22:24:55.690Z"
+      "updatedAt": "2026-11-23T03:00:22.676Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Do not feed the animals. Vets explain why hats, coins and shoes can be deadly.",
+          "link": "https://www.npr.org/2026/11/22/nx-s1-6049723/do-not-feed-the-animals-vets-explain-why-hats-coins-and-shoes-can-be-deadly",
+          "pubDate": "Sun, 22 Nov 2026 20:53:48 -0500",
+          "source": "NPR"
+        },
+        {
+          "title": "What it's like at a climate conference as talks collapse",
+          "link": "https://www.npr.org/2026/11/22/nx-s1-6050248/what-its-like-at-a-climate-conference-as-talks-collapse",
+          "pubDate": "Sun, 22 Nov 2026 17:40:23 -0500",
+          "source": "NPR"
+        },
+        {
+          "title": "Philly festival-goers say pickles are a real big dill",
+          "link": "https://www.npr.org/2026/11/22/nx-s1-6038939/philly-festival-goers-say-pickles-are-a-real-big-dill",
+          "pubDate": "Sun, 22 Nov 2026 17:40:19 -0500",
+          "source": "NPR"
+        },
         {
           "title": "Lebanese villagers return to wrecked homes as the Israeli army pulls back",
           "link": "https://www.npr.org/2026/11/22/nx-s1-6048710/lebanon-israel-army-conflict-homes",
@@ -88,87 +106,105 @@
           "link": "https://www.npr.org/2026/11/22/nx-s1-5752261/small-business-loan-merchant-cash-advance",
           "pubDate": "Sun, 22 Nov 2026 05:00:00 -0500",
           "source": "NPR"
-        },
-        {
-          "title": "NPR's Senior Podcast Challenge: Early entries we love",
-          "link": "https://www.npr.org/2026/11/22/nx-s1-6044221/npr-senior-podcast-challenge-early-entries",
-          "pubDate": "Sun, 22 Nov 2026 05:00:00 -0500",
-          "source": "NPR"
-        },
-        {
-          "title": "Trump orders federal contractors to check with White House before responding to Congress",
-          "link": "https://www.npr.org/2026/11/21/g-s1-154966/trump-contractors-congress",
-          "pubDate": "Sat, 21 Nov 2026 17:40:36 -0500",
-          "source": "NPR"
-        },
-        {
-          "title": "Google employees protest AI in schools policy",
-          "link": "https://www.npr.org/2026/11/21/nx-s1-6048599/google-employees-protest-ai-in-schools-policy",
-          "pubDate": "Sat, 21 Nov 2026 17:01:40 -0500",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-22T22:24:55.784Z"
+      "updatedAt": "2026-11-23T03:00:22.715Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Tom Jackson, Broncos star and ESPN ‘Sunday NFL Countdown’ analyst, dead at 75 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYTl4XzZoM3NxaG5raTlnemhKM2xYSDlpTUt5cERCeVlJQ2FFME5rczRsRk5DMFFnTWpHX3paMmFWRzhUeWtDelpJd1VMUlhCbV9VM2N5LUp3eUhqbE5zUndTcGxvbVZLQU93SEIxTURRc3hRUktFMTJUZHp5MFZxeUthbHNkTG0zdXVkcWxHcjJWa00?oc=5",
-          "pubDate": "Sun, 22 Nov 2026 21:42:00 GMT",
+          "title": "Miley Cyrus marries rock drummer Maxx Morando in an intimate Palm Springs wedding - AP News",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQUlkclo1SlpxNkZuU0lxTUNlUkZoSHdsdEtEaEJ5bUNwQzhZUlNhTGNaVWd1OGlNS0ljTGNHU3VYNHJBUGpLOTZoLTRlNUQ5VERQU1Vnc3lfa1BqRzlzSE40ZmlvV1lqLUpaVTFYUGhySjZGSDdfNGVhelRfVEl0V3V1UWJRZw?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 01:53:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Poland says Russia allegedly twice tried to kill a Ukrainian American rapper - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTWwydXZfZ2E2bGFlVUhFWEx4NEYyTzdyQWVUSHZkd0NvQU9iUHRsMHNCSlZZRFFNaEZwaEo1WmowdllhRnhvcTY2a0E1eFNiYmlUeDcwZUxzQVp5dnhlNklwYnlVaW1CVjFudDhVWDFvaUx1WlluM2VfU1lqWnlWelIxSkk0TElFRUlnQjZEVjI2S3o4bFlIMDM2YkRXQnRERlJDVg?oc=5",
-          "pubDate": "Sun, 22 Nov 2026 20:41:00 GMT",
+          "title": "Mexican fans boo 49ers’ Nick Bosa after his remarks about their cheering at NFL games - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVVNLWFA3R0p0RmRNcGl2Uy1HUjBxN3ltdDRiaXIwakthTGMyNTdrQmFGZnN1dDhqckNvaEU4dGdUV2k0T1BLN2M2ZEsxdExqZHlmNS16b3lEbElPeVNFblVNYk9MbWkxNGlPTjBBSjVfQkh2NEt6VGZmblViNXJaZ3UxbF9sNnhmeTZ6UXo5d1A?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 01:36:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "TCU fires Sonny Dykes 4 years after he took Horned Frogs to CFP championship game - AP News",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNV2s3MnNzZVg5X0FRYW43Tk1fNHJ2VXBRRURnMUxoVmxSMmhxak1xLTJrcVNBNmgtYTN1VElDM0FZaG1fb014NFVSWml6UFJWZ2ZySDhWa0ZZWGVGZDB3akVvcjNVbEhSTnVlYnlUdjB0S25pSFpwVmlnZG9UYnhuLQ?oc=5",
-          "pubDate": "Sun, 22 Nov 2026 19:56:00 GMT",
+          "title": "More remains recovered in the search for 34 workers missing after an Indonesian candy factory fire - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQN0J5Zy1JLXlBTWc5d0o3OEg0dVBLMXQ0TktFb0ZHT196VEgzYVNfOFhlamNLVjdEMUlOWVFldmsxeUN1MUk0VGFDMlkxWmpCSTFIQzVaZndyeFZjanNQajh2Y2I0c3duUllpOWRTRWdPYzFXeFZRdmJJUndoSDlYUFlQZHV2bU02YWZzdm1vclMwenNYbmZpZkk1UGg?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 01:23:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "US Army plans to invoke emergency provisions to detonate bomb-making chemicals in Iowa - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSHU3NmsxWHB4a0x6ZTdpdG9ZWWlqS29GMXowZ3BEQndXZVBuU0tBc1EycDY2blB2SnNhV3pxTHctWDNFajhDWENxRlVzbHBTU193TjZsVVhXQlB3ZTZwQUZNT25KWDM5bWxXTG9FSUtvOW9zZ0wwTFBsTmFGcHZEOWlvN1QzanQtd1hQYzNR?oc=5",
-          "pubDate": "Sun, 22 Nov 2026 19:54:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Appeals court says federal law requiring accommodations for pregnant workers is unconstitutional - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdFFoU1NWWlA1ajBycE9LdnJwM214TGZQUXZVV3NhcW5YdERjQm5vSkJDd0RrM05FUU9RNkkzZU1pUURCODA5RnI4WktsTk1nSFRtZXJmbnAyVTBrZkJNdHg2TVFaS1NHWFUyWDBvLWp3QTV4WjRDQkJRdzFheFVzQ3gxODc3bmc3R0xFYjVfX3NuSE9ndmZoenRB?oc=5",
-          "pubDate": "Sun, 22 Nov 2026 19:44:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Democrats clinch a historic House majority of at least 258 seats, the largest since 1992 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN0ZaSUxXY2RGTWZBcXdNRjV0eWhIZUdfWjFBSmI1OHBGZy1qRWFpNnJxZDJVOC14dVFGZGdSS3NfeFNsQm1IcmJIWGs4M0l5alZQZVhDek80S1lnQ3plUkRrbm9uaE44RWtNMTBDTWRLUmdGLWVVUDRJZ1J5TmR4QU5vWW5qT2NvOHB3dklzcFZ2ZFltMy1SYVdJQnNRZFBiaURJN2t0bjExaE0?oc=5",
-          "pubDate": "Sun, 22 Nov 2026 19:42:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Suspected Ukrainian sea drones hit Russian warship at Benghazi naval base, Libyan officials say - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOEJrLWtkTl9ZY1lGN3JPaUNjSjVabFVGcnlERXpyYVdRNGN4OEtMOTVkczkzVDlhaWQxQ2xQdXdEak5oNkhBOWdrd01QV2hBYXlOZXV4Zl8weXpVNmxuMUlMM21sT2YwQjFqcjZIRlk4UmxQMUxPcTFRVjRQNFpqdzl4NjNodnZicldRLWRlV2R1allIR1BpM2x3?oc=5",
-          "pubDate": "Sun, 22 Nov 2026 19:40:00 GMT",
+          "title": "College sports - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5fSTVmVF9lbm9YLWNlRWlMU3hCTEYtNGg5X2xxZm5JLTlMSkkwS2JweXFTdDRzRnRLaVhtaG12OHhjR3hwdGVpTno2RzIwQQ?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 01:08:17 GMT",
           "source": "AP News"
         },
         {
           "title": "In their own words: Leaders at UN climate talks discuss why negotiations ended without deal - AP News",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM0xZUG54R1V0M1N4VHlZd05nbTExbGdkUVNwWVBwRnlabWFHZWhRMldkM2taVFVhM3NIb1JQZnhIVDFEMmw4UzRzWTdyMVotWVNRVllEQjRtSFVRallpY0V5czd3eFplcTVWTldEOXpuclV0NmJVeF94aXQ5OUZQcGxaUVlQOEtaU1Blb1o4b055WmFPWDFsQXp2Tzlpd0VLa0RwWTNxT013S2VfU1E?oc=5",
-          "pubDate": "Sun, 22 Nov 2026 19:08:00 GMT",
+          "pubDate": "Mon, 23 Nov 2026 00:52:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Automation system problem at Delta causes flight delays as Americans travel for Thanksgiving - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUFFDN0VnYTFzcXhya09Nbnl6QnVaZ2NIa1pYS1lDLW44bG5SZmM1eW4yeS03M3VaMk9kenFWRjlFejFwNW9yY3RJU0tOX01jeGhGTW1JSURvZXlZWGtSV1ZDdGJZVU84R2JSYjh2aHRreWlkZlc1YkxJZF9TdVdnMWhHaXphR1pUWHNjOHhCdHI?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 00:47:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Latest news - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5VTmszLTZ2Z0NXaUtTRlVld2thUHQ0OXRaYXV0cGlMNGE1b1EyN3JoajJfeWR6ZEVESG5sLWd1dFpjZXZiUzlqb0ln?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 00:38:40 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Lawyer: Father and daughter detained by ICE at Seattle airport were traveling to family baptism - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdEtrdGZScmR2TTNyNG1MR0xlT3FhUW00LV95MFR6TjJwRXdUOHlVV25jVTVuZktGX1UxTlpweUVEZDJreXJGVmZRZFdBZ05OekFyNEZHdUsxOXFuRXRoUjNuOXRWN201RHVEZ2tvS0VveF9yVUJWZGhsWWgtcWtxTFhiOEtpVGdkY1V1cTI2RnNTTmpRc1BaTm9ld05ZWU0?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 00:22:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-22T22:24:56.251Z"
+      "updatedAt": "2026-11-23T03:00:23.316Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "US futures bounce as AI rout rattles Asian stocks - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNR2c4ZVNmcHBzVFctOTBkRUd2d0VHTklseUhCcEtZT2VHbU1WbWprMUk2aDZSQ2tkZHNYVE9EWUgyaEkxeWtyN0M2V2NzR2ZCTHFmMEhvbHFDeExTNUdTeDF3WkxJZ2RSdmZ2cHBxWlFjTXdoa1hXdlZQRWtyTFFKVlJjMA?oc=5",
+          "pubDate": "Sun, 22 Nov 2026 23:44:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Dollar edges off 19-month high after market rout; yen softens - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMVA0aUFSMnFob3ZJdVFvbmlpN0JDRWFRNUJwZ1BIY19KU3RXZjJTRGdLaU00NGJ6dDRvX3VBUDdtcG9XQWRiRFhuUzhMZTNsN2lDSWVKMmI2Vi1EQ3dFUE5mM3dwZGNQWC1zZXhnZTJfVEVuYzVETlV1enJTN0dPZlQ3SlozeklDTzkwck16LW42eWt5aDJEY0w4M0Ytd0ZlRnBSZmZpN0Z5bkxTLXNXcWdtSW0?oc=5",
+          "pubDate": "Sun, 22 Nov 2026 23:43:57 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "OpenAI scientist proposes industry AI limits tied to model intelligence metric - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPa0ZQb0xtalJ5djRmZmkwQnhmdDBlMEtncDUtUEJsUFBtWmptbkdVQ3c5QjY2TzhKN0NFT2ZzYnZmenQxY1lrUWFFYjJsdS1KazdRUkJINEJRemQ1alh6TGtnNW1nRE92bTF3RW9FMTIyODB3UmpBaW5oSzFDWDFVT3FXdjZDVzQ0TVNVd29nQzZvY3ByWVpBLUlhRVg0bFZiRHUxVjhqclptLUMycDJlYVBsQXQ4a28tRnFnbQ?oc=5",
+          "pubDate": "Sun, 22 Nov 2026 23:09:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Trump to welcome investors at gala for his plunging meme coin - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWjJxV2tNOWN0U2lzczlZWVgtQ0xIblpuY05HTUlTOEhsU1lXVTNUN2dfbFFhUUNFaVZveEdVTTBvLUl3cC1oaXRSZHNyZEpfNFhEb3R4SU1fRHVZbnFPNUhZaklEUmtmQ0xvVnlJbkRmcmVJLUdLM0RjUlZ5R3k5Z29uUWpPeHUwVFhWcko3YWE0VFdJWXhSN1dTMmZQVU9RdDNrSDdOMA?oc=5",
+          "pubDate": "Sun, 22 Nov 2026 22:32:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Barcelona retain advantage atop LaLiga after comeback win over Villarreal - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQamwxc3l5ZE4tbTNFOHBzTENId3ZZYmpzOFFDckRhZjc3SG4tTHJyZlZKRVk0cHRZVS12ZlNvZGNFbXIwRUkwTnRGZXc4RnZyYUxQWUkySWJheS0xbExINklQb0FJOUNEUGE1cUh4RUFIcFJmMUZVd2JESFBQWlVqeHNfQUZxVkZuQmhQWEcyLVBrV1hsbVJYOEhyYVlUaGQ0aXhacVpmZ09UMGpWOW9kbUEwT2JrWjM2bEExUWMtQks?oc=5",
+          "pubDate": "Sun, 22 Nov 2026 22:23:13 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "North Carolina win gives Democrats biggest US House majority since early 1990s - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZzZjY0pNZnpnUmtsZ3RudXpZeDh4TnlWZDFIZHBvUk0tbVlxREhydk5zRTJhX0lYcjFXQTNNTzBtOFM4NlNhTE9DZnl3SUZiM3RpTzRzZTJ4aURMSUJCdDRGb0l2MWh5MFJmTWgwS1k4Ql9vTGh1eWVGbEw3WGVCS1UtTkNGVVoxS0EyZVl3Vmw0UThpTlVUWWN2WlNyaWR6a1FYYlJZaWl1MlAyQ01OSEcyY3hMai0zUWdfUUc3MkQ?oc=5",
+          "pubDate": "Sun, 22 Nov 2026 22:04:25 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Israel's Eisenkot condemns arson attacks by Jewish settlers in West Bank - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPV0NtOW83bnNaeXNoY0g0REh2Ym8yMU52U0FCaGVTRy1oeTRrM1dPclNpZTF4QWVtVE95eG9TUXJkT3JBZldRWDNjejBRcFpiWTVPV1ZqeEVZdS1qMVZ6QzVvNUtSRXY0RUxLX05pdlB3V0tvLXA1Nk0wQXhxT1dQYVNyMm1YYTZtX0pRZFI4VWNDTHctYVk2NnJMdDlWSmhxbWlzbVg5OWFacVhQUzdHSU5lNDdJTlBRZVhlVXZaUQ?oc=5",
@@ -176,50 +212,14 @@
           "source": "Reuters"
         },
         {
-          "title": "Libya's eastern government suspects drone attack caused explosion on Russian ship - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSHNFQ2hvQUxyR05zYXIyVjczNjE3eEVLWWhMdk1mS01BQV91dy03OU5SSzVzbzlvVk1ManQ2TFhqU2xkRkhZcGthVlZad0E1aVRKU1E5ZWxJTWRQVG5UYmFYYmcxZGJ1TFc1YzE0a2E4XzQ4SGJLNjNlc0otTGhGRnRWTHpmeW1mWnVBLTNhYmFLU3JOUTVfSTliN19fMG9rRWlmeFdKNHFSU1JVTTdnQUNhUlBUWmRSTDVXUUJuUW9fNEV2cjNWdTlPZw?oc=5",
-          "pubDate": "Sun, 22 Nov 2026 21:44:25 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Countries react as COP31 climate talks collapse - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQc3loZzVPSEw4YTN0RXZEdEpveVFkV0JoU0dtRTktZXR6LS1XVGRNVElxWHpWVUQ3eEhOMllBam9jYlNIX29HeW9ncUwyWkNhenBPcmRZeTNBNmt6MF96SkU5TS1zWUVBSEFOS0FMV1gwVmJoS3c3bGw4TjgwLUU5NTFOUEtzOWx3dy04NkhLMW9CMmJxM1dLeVRBRWMyVl9SY1A3THFB?oc=5",
-          "pubDate": "Sun, 22 Nov 2026 21:11:03 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Ten-man United hammered 4-0 by Liverpool in Pochettino debut - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMUhXUjN4WGxrQVpITklfcVFxakdsblp6NnZQNWxYU0cwWEwxejlTRTNtU19zcm1rcWQ1ZVJBeXAyTUt5cE5CWXd4QmtOSmp2WUZqVjREQmhYcTBXOXlwX2NBQ3R6TkNQcXl5QkNfR3U4ZUVuR29qZWxfN0hHQkozYnJCSENya28xeWRqZTVSNURCVzB3b3QtRFpQbVFkdDByVzZMUDdZQjRFdk0?oc=5",
-          "pubDate": "Sun, 22 Nov 2026 19:55:44 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Delta flights faced brief delays at Atlanta airport over automated system issue - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUi1YSXI0MDNzWFFveF90TU5ObVc1eVBONWJnaGdLaGMyV0lrYjJwbkFUM0lUVXJkUGpPRXNkbEw3c29yTDdNaGJWeEV3ZUw0UzhKbjdzYXBkQ2ZwY3JaRkxjM1hIazJXdmlnN3dCNkNMOW5lcEVIcE1BN3NMSWNCem5JSHpRSzRkOUdKUzFjbnJWZUhnWG5CWkR6dDB1LWFsdFp0TS0xU2h0QWZZdVprUVRnVXk4MkpRY1lDX2U5S1g3OWIzd3dqa080eU5xOFk0ekE4UlBsakxQUQ?oc=5",
-          "pubDate": "Sun, 22 Nov 2026 19:17:44 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Iowa detonation of lead will proceed under emergency powers, Army says, bypassing court order - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWktPQlhDQmZja2RjS09vdFlCdkFtTjVHVE1xRHVMeDBVNkFiVWlrMVdlQXl2SjRsekFabUxiV05Ud0RlR1M3aVhDcVlNNURCYnVFZXBaT1RDTmNQb3ViblpuQVNGdUVwQmlad1dWc2pYaWtpeXZCQVBnalZaT1M5RTcwUzdXZndua3JNdGpHOERNczk0NExoLXRIMUttMlRXRVdTSjNmWFR6dUJVSVVlOEhVNXpHakZfVzNiY1QybVFmeXFCamYtMg?oc=5",
-          "pubDate": "Sun, 22 Nov 2026 18:32:41 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US intelligence chief predicts more tech outages as systems undergo upgrades - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQX1ZQQTFqN0xpOERieUhlT0puQ0pnQnNnRnQtaW8yb3VGWkFvM3hGeTA3QlBrR1VCNUhjS21TQ1JISlNWMG5mdlc3NVVmOUZ0LWZrMTB4R3h4YlpIVnJObWVQcmhLUDFiRnhCY1c1RTE5NzhwQzIwTXQ3MkxfN1hQSU9ZbkVidFZCWE1PWWxHMWgtem5ZSzBoOU1oYUVuZ0NEOW00V0Jlb1pEUVdrNUF3blEtSEw4dkpsYU9ya0w0N3UxTmRE?oc=5",
-          "pubDate": "Sun, 22 Nov 2026 18:14:09 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US seeks answers on Nvidia's sale of chips to China, Bessent says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcm1fbVJENmFGZU81bGR4WXVfeDMwdWdaY0xNbmVBN3hmaXVVeVBLelJxT3dubnROYnVkM2NCRXRfcFFvMGNtZ0FlM3c5LWt1WUVGclQzY1ZJTVBCR2d2dXozSXRqN0VIM1NsV0d2YVJLRjJpRnlIcVRNSlZqeURwLWhKa1V4dUNvWDdlZmNoMnQxQ1d6WlVGalNpdjVSZm9PMXRzUA?oc=5",
-          "pubDate": "Sun, 22 Nov 2026 17:53:07 GMT",
+          "title": "Can climate diplomacy build on the collapse of COP31? - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQ1RyOVZKTlV6bndHdTJhb3ZfZkI5R081UGttS1pZMDB4T0s0ekRPNGRQLW5FUERHRGVFLUxLQTFEcnFKSHpwVDBOQThBRGVaZkJfVTlMUzZPOFc3b3dZZllkVUVuRF9Lbnc3d3pzd01KQTE5WFpzR1h4alU4dUF1ZW0yYkpFeHF1RjRvbklfbWJqdDNXV1lkVkFCQnlRZw?oc=5",
+          "pubDate": "Sun, 22 Nov 2026 21:14:00 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-22T22:24:56.622Z"
+      "updatedAt": "2026-11-23T03:00:23.759Z"
     },
     {
       "name": "WSJ",
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-22T22:24:56.967Z"
+      "updatedAt": "2026-11-23T03:00:23.827Z"
     }
   ]
 }
